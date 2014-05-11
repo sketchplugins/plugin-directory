@@ -1,6 +1,8 @@
-# Sketch Plugins
+# Sketch Plugin Directory
 
 A list of Sketch plugins hosted at GitHub, in no particular order.
+
+**Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
 
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch
 - [sebj/Sketch](https://github.com/sebj/Sketch) Templates and Plugins for Sketch by Bohemian Coding
