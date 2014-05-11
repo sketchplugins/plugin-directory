@@ -46,3 +46,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [mattmcmanus/select-child-layers.sketchplugin](https://github.com/mattmcmanus/select-child-layers.sketchplugin) Select all child layers of a group with a key command
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U
+- [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested on Twitter to the official [@sketchapp](https://twitter.com/sketchapp) account
