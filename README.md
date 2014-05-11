@@ -47,3 +47,5 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested on Twitter to the official [@sketchapp](https://twitter.com/sketchapp) account
+- [joshpuckett/SketchPlugins](https://github.com/joshpuckett/SketchPlugins) Handy is a plugin that makes working with guides easier in Sketch
+- [trisix/ITSSketchPlugins])(https://github.com/trisix/ITSSketchPlugins) "Some home-brewed Sketch App Plugins."
