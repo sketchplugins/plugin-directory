@@ -252,5 +252,11 @@
         "name": "ITSSketchPlugins",
         "description": "Some home-brewed Sketch App Plugins.",
         "owner": "trisix"
+    },
+    {
+        "website": "https://github.com/zachheine/sketch-translate",
+        "name": "sketch-translate",
+        "description": "Sketch plugin to do text translation using Google translate",
+        "owner": "zachheine"
     }
 ]
