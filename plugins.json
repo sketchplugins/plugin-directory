@@ -1,0 +1,256 @@
+[
+    {
+        "website": "https://github.com/brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch",
+        "name": "Lorem-Ipsum-Plugin-for-Sketch",
+        "description": "This is a plugin for quickly creating Lorem Ipsum text in Sketch",
+        "owner": "brandonbeecroft"
+    },
+    {
+        "website": "https://github.com/sebj/Sketch",
+        "name": "Sketch",
+        "description": "Templates and Plugins for Sketch by Bohemian Coding",
+        "owner": "sebj"
+    },
+    {
+        "website": "https://github.com/FredericJacobs/crop_Artboard",
+        "name": "crop_Artboard",
+        "description": "A script to export the Sketch App artboards to the clipboard",
+        "owner": "FredericJacobs"
+    },
+    {
+        "website": "https://github.com/almonk/SketchGit",
+        "name": "SketchGit",
+        "description": "A simple Git client built right into Sketch.",
+        "owner": "almonk"
+    },
+    {
+        "website": "https://github.com/makzan/Sketch-Plugin-Scripts",
+        "name": "Sketch-Plugin-Scripts",
+        "description": "Some scripts for the Mac Sketch app, including \"Blend Steps\", \"Simple Pattern\" and \"Fill Artboard\"",
+        "owner": "makzan"
+    },
+    {
+        "website": "https://github.com/samdeane/sketch-scripts",
+        "name": "sketch-scripts",
+        "description": "Scripts for Sketch, by another one of the Bohemian Coding guys.",
+        "owner": "samdeane"
+    },
+    {
+        "website": "https://github.com/groove25/DrawingKit",
+        "name": "DrawingKit",
+        "description": "DrawingKit is a collection of commands for use in Sketch.",
+        "owner": "groove25"
+    },
+    {
+        "website": "https://github.com/marcisme/sketch-preview",
+        "name": "sketch-preview",
+        "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
+        "owner": "marcisme"
+    },
+    {
+        "website": "https://github.com/sdrib/HipsterFill",
+        "name": "HipsterFill",
+        "description": "Dummy text filler plugin for Sketch!",
+        "owner": "sdrib"
+    },
+    {
+        "website": "https://github.com/bomberstudios/sketch-commands",
+        "name": "sketch-commands",
+        "description": "A collection of script commands for Bohemian Coding's Sketch.app",
+        "owner": "bomberstudios"
+    },
+    {
+        "website": "https://github.com/bomberstudios/sketch-framer",
+        "name": "sketch-framer",
+        "description": "A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.",
+        "owner": "bomberstudios"
+    },
+    {
+        "website": "https://github.com/bomberstudios/sketch-generator",
+        "name": "sketch-generator",
+        "description": "This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.",
+        "owner": "bomberstudios"
+    },
+    {
+        "website": "https://github.com/tisho/sketch-plugins",
+        "name": "sketch-plugins",
+        "description": "An amazing implementation of a symbols library for Sketch",
+        "owner": "tisho"
+    },
+    {
+        "website": "https://github.com/joshwayne/jw-sketch-plugins",
+        "name": "jw-sketch-plugins",
+        "description": "Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.",
+        "owner": "joshwayne"
+    },
+    {
+        "website": "https://github.com/mindworkdescriptiontch",
+        "name": "sketch",
+        "owner": "mindwork"
+    },
+    {
+        "website": "https://github.com/rodi01/RenameIt",
+        "name": "RenameIt",
+        "description": "A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.",
+        "owner": "rodi01"
+    },
+    {
+        "website": "https://github.com/zmalltalker/sketch-android-assets",
+        "name": "sketch-android-assets",
+        "description": "Generate Android assets in Sketch",
+        "owner": "zmalltalker"
+    },
+    {
+        "website": "https://github.com/uhunkler/jstalk-sketch-recipes",
+        "name": "jstalk-sketch-recipes",
+        "description": "Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.",
+        "owner": "uhunkler"
+    },
+    {
+        "website": "https://github.com/malkomalko/sketch-android-kit",
+        "name": "sketch-android-kit",
+        "description": "Sketch.app Plugin for Exporting Android Layouts (WIP at the moment)",
+        "owner": "malkomalko"
+    },
+    {
+        "website": "https://github.com/jelias/sketch-plugins",
+        "name": "sketch-plugins",
+        "description": "\"All of my plugins for sketch, including but not limited to plugins I have forked and edited.\" Includes a nice plugin to upload artboards / slices to CloudApp",
+        "owner": "jelias"
+    },
+    {
+        "website": "https://github.com/nadavsavio/sketch-plugins",
+        "name": "sketch-plugins",
+        "description": "\"Plugins for Sketch app from Bohemian Coding\". Includes two interesting commands to navigate to Next and Previous artboards.",
+        "owner": "nadavsavio"
+    },
+    {
+        "website": "https://github.com/mpaiva/My-Sketch-Plugins",
+        "name": "My-Sketch-Plugins",
+        "description": "An amazing resource to get you started with Sketch plugins development.",
+        "owner": "mpaiva"
+    },
+    {
+        "website": "https://github.com/postite/colorPoz",
+        "name": "colorPoz",
+        "description": "recolor all elements like the selected object color with the hex color of your choice",
+        "owner": "postite"
+    },
+    {
+        "website": "https://github.com/poyi/Copy-Fill-Color",
+        "name": "Copy-Fill-Color",
+        "description": "This is a Sketch 2 Plugin that provides a shortcut for copying a layer's fill color to clipboard",
+        "owner": "poyi"
+    },
+    {
+        "website": "https://github.com/ddwht/sketch-dynamic-button",
+        "name": "sketch-dynamic-button",
+        "description": "Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.",
+        "owner": "ddwht"
+    },
+    {
+        "website": "https://github.com/hrescak/sketchdescriptionins",
+        "name": "sketchPlugins",
+        "owner": "hrescak"
+    },
+    {
+        "website": "https://github.com/rxlabz/skrx",
+        "name": "skrx",
+        "description": "Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.",
+        "owner": "rxlabz"
+    },
+    {
+        "website": "https://github.com/davidudvardy/sketch-plugins",
+        "name": "sketch-plugins",
+        "description": "Scripts for Bohemian Coding's Sketch application",
+        "owner": "davidudvardy"
+    },
+    {
+        "website": "https://github.com/marceloeduardo/Sketch-Scripts",
+        "name": "Sketch-Scripts",
+        "description": "A port of Illustrator's \"Split Into Grid\" to Sketch",
+        "owner": "marceloeduardo"
+    },
+    {
+        "website": "https://github.com/trisweb/sketchplugins",
+        "name": "sketchplugins",
+        "description": "Tristan's Plugins for Bohemian Coding's Sketch.app",
+        "owner": "trisweb"
+    },
+    {
+        "website": "https://github.com/uhunkler/jstalk-sketch-library",
+        "name": "jstalk-sketch-library",
+        "description": "A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.",
+        "owner": "uhunkler"
+    },
+    {
+        "website": "https://github.com/cemre/cemre-sketch-descriptionins",
+        "name": "cemre-sketch-plugins",
+        "owner": "cemre"
+    },
+    {
+        "website": "https://github.com/utom/sketch-measure",
+        "name": "sketch-measure",
+        "description": "A measure tool for Sketch.app (think Specctr for Sketch)",
+        "owner": "utom"
+    },
+    {
+        "website": "https://github.com/buscarini/sketch-plugins",
+        "name": "sketch-plugins",
+        "description": "Plugins for Bohemian Coding Sketch, including \"Duplicate to All Artboards\" and \"Golden Ratio\"",
+        "owner": "buscarini"
+    },
+    {
+        "website": "https://github.com/cdl/sketch-cloudapp",
+        "name": "sketch-cloudapp",
+        "description": "Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke",
+        "owner": "cdl"
+    },
+    {
+        "website": "https://github.com/jimrutherford/Random-User",
+        "name": "Random-User",
+        "description": "A SketchApp plugin that inserts random user data into your Sketch documents",
+        "owner": "jimrutherford"
+    },
+    {
+        "website": "https://github.com/timuric/Content-generator-for-skedescriptionapp",
+        "name": "Content-generator-for-sketch-app",
+        "owner": "timuric"
+    },
+    {
+        "website": "https://github.com/alessndro/sketch-plugins",
+        "name": "sketch-plugins",
+        "description": "An incredible collection of plugins, including some great ones for working with baselines.",
+        "owner": "alessndro"
+    },
+    {
+        "website": "https://github.com/mattmcmanus/select-child-layers.sketchplugin",
+        "name": "select-child-layers.sketchplugin",
+        "description": "Select all child layers of a group with a key command",
+        "owner": "mattmcmanus"
+    },
+    {
+        "website": "https://github.com/bomberstudios/sketch-duplicate-and-nudge",
+        "name": "sketch-duplicate-and-nudge",
+        "description": "A port to Sketch.app of Photoshop's Duplicate and Nudge feature",
+        "owner": "bomberstudios"
+    },
+    {
+        "website": "https://github.com/jelias/sketch-upload",
+        "name": "sketch-upload",
+        "description": "This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U",
+        "owner": "jelias"
+    },
+    {
+        "website": "https://github.com/joshpuckett/SketchPlugins",
+        "name": "SketchPlugins",
+        "description": "Handy is a plugin that makes working with guides easier in Sketch",
+        "owner": "joshpuckett"
+    },
+    {
+        "website": "https://github.com/trisix/ITSSketchPlugins",
+        "name": "ITSSketchPlugins",
+        "description": "Some home-brewed Sketch App Plugins.",
+        "owner": "trisix"
+    }
+]
