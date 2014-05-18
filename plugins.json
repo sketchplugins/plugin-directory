@@ -258,5 +258,11 @@
         "name": "sketch-translate",
         "description": "Sketch plugin to do text translation using Google translate",
         "owner": "zachheine"
+    },
+    {
+        "website": "https://github.com/tylergaw/skribbble",
+        "name": "skribbble",
+        "description": "Sketch plugins for getting shots and info from Dribbble",
+        "owner": "tylergaw"
     }
 ]

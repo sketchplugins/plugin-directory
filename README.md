@@ -50,3 +50,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [joshpuckett/SketchPlugins](https://github.com/joshpuckett/SketchPlugins) Handy is a plugin that makes working with guides easier in Sketch
 - [trisix/ITSSketchPlugins](https://github.com/trisix/ITSSketchPlugins) "Some home-brewed Sketch App Plugins."
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate
+- [tylergaw/skribbble](https://github.com/tylergaw/skribbble) Sketch plugins for getting shots and info from Dribbble
