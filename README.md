@@ -16,10 +16,9 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
 - [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
-- [gist.github.com/uhunkler](https://gist.github.com/uhunkler) Urs Hunkler has a very nice collection of example code for Sketch (specially, check [SketchLayers](https://gist.github.com/uhunkler/5481898))
 - [tisho/sketch-plugins](https://github.com/tisho/sketch-plugins) An *amazing* implementation of a symbols library for Sketch
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
-- [mindwork/sketch](https://github.com/mindwork/sketch)
+- [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 - [zmalltalker/sketch-android-assets](https://github.com/zmalltalker/sketch-android-assets) Generate Android assets in Sketch
 - [uhunkler/jstalk-sketch-recipes](https://github.com/uhunkler/jstalk-sketch-recipes) Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
@@ -28,26 +27,26 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [nadavsavio/sketch-plugins](https://github.com/nadavsavio/sketch-plugins) "Plugins for Sketch app from Bohemian Coding". Includes two interesting commands to navigate to Next and Previous artboards.
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/My-Sketch-Plugins) An amazing resource to get you started with Sketch plugins development.
 - [postite/colorPoz](https://github.com/postite/colorPoz) recolor all elements like the selected object color with the hex color of your choice
-- [poyi/Copy-Fill-Color](https://github.com/poyi/Copy-Fill-Color) "This is a Sketch 2 Plugin that provides a shortcut for copying a layer's fill color to clipboard"
-- [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) "Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add."
-- [hrescak/sketchPlugins](https://github.com/hrescak/sketchPlugins)
-- [rxlabz/skrx](https://github.com/rxlabz/skrx) "Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard."
-- [davidudvardy/sketch-plugins](https://github.com/davidudvardy/sketch-plugins) "Scripts for Bohemian Coding's Sketch application"
+- [poyi/Copy-Fill-Color](https://github.com/poyi/Copy-Fill-Color) This is a Sketch 2 Plugin that provides a shortcut for copying a layer's fill color to clipboard
+- [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.
+- [hrescak/sketchPlugins](https://github.com/hrescak/sketchPlugins) A box for random sketch plugins: **Toggle Specs** (cmd+L) toggles visibility of all of the layer groups in your document named "specs". Other than specs this could be useful with hidden guides.
+- [rxlabz/skrx](https://github.com/rxlabz/skrx) Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.
+- [davidudvardy/sketch-plugins](https://github.com/davidudvardy/sketch-plugins) Scripts for Bohemian Coding's Sketch application
 - [marceloeduardo/Sketch-Scripts](https://github.com/marceloeduardo/Sketch-Scripts) A port of Illustrator's "Split Into Grid" to Sketch
-- [trisweb/sketchplugins](https://github.com/trisweb/sketchplugins) "Tristan's Plugins for Bohemian Coding's Sketch.app"
-- [uhunkler/jstalk-sketch-library](https://github.com/uhunkler/jstalk-sketch-library) "A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch."
-- [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins)
+- [trisweb/sketchplugins](https://github.com/trisweb/sketchplugins) Tristan's Plugins for Bohemian Coding's Sketch.app
+- [uhunkler/jstalk-sketch-library](https://github.com/uhunkler/jstalk-sketch-library) A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.
+- [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) Sketch plugins by Cemre Güngör
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) A measure tool for Sketch.app (think Specctr for Sketch)
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio"
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke
 - [jimrutherford/Random-User](https://github.com/jimrutherford/Random-User) A SketchApp plugin that inserts random user data into your Sketch documents
-- [timuric/Content-generator-for-sketch-app](https://github.com/timuric/Content-generator-for-sketch-app)
+- [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
 - [alessndro/sketch-plugins](https://github.com/alessndro/sketch-plugins) An incredible collection of plugins, including some great ones for working with baselines.
 - [mattmcmanus/select-child-layers.sketchplugin](https://github.com/mattmcmanus/select-child-layers.sketchplugin) Select all child layers of a group with a key command
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U
-- [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested on Twitter to the official [@sketchapp](https://twitter.com/sketchapp) account
-- [joshpuckett/SketchPlugins](https://github.com/joshpuckett/SketchPlugins) Handy is a plugin that makes working with guides easier in Sketch
-- [trisix/ITSSketchPlugins](https://github.com/trisix/ITSSketchPlugins) "Some home-brewed Sketch App Plugins."
+- [joshpuckett/SketchPlugins](https://github.com/joshpuckett/SketchPlugins) A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier)
+- [trisix/ITSSketchPlugins](https://github.com/trisix/ITSSketchPlugins) Some home-brewed Sketch App Plugins.
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate
 - [tylergaw/skribbble](https://github.com/tylergaw/skribbble) Sketch plugins for getting shots and info from Dribbble
+- [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
