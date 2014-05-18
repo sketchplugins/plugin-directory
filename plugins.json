@@ -228,5 +228,10 @@
         "description": "A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.",
         "owner": "sketchplugins",
         "name": "plugin-requests"
+    },
+    {
+        "description": "A collection of Sketch Plugins for creating placeholder images.",
+        "owner": "tylergaw/day-player",
+        "name": "day-player"
     }
 ]
