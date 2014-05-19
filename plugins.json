@@ -95,11 +95,6 @@
         "owner": "malkomalko"
     },
     {
-        "description": "\"All of my plugins for sketch, including but not limited to plugins I have forked and edited.\" Includes a nice plugin to upload artboards / slices to CloudApp",
-        "name": "sketch-plugins",
-        "owner": "jelias"
-    },
-    {
         "description": "\"Plugins for Sketch app from Bohemian Coding\". Includes two interesting commands to navigate to Next and Previous artboards.",
         "name": "sketch-plugins",
         "owner": "nadavsavio"
@@ -233,5 +228,10 @@
         "description": "A collection of Sketch Plugins for creating placeholder images.",
         "owner": "tylergaw/day-player",
         "name": "day-player"
+    },
+    {
+        "description": "A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.",
+        "owner": "shahruz",
+        "name": "Sketch.app-Vertical-Fit"
     }
 ]

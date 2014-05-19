@@ -23,7 +23,6 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [zmalltalker/sketch-android-assets](https://github.com/zmalltalker/sketch-android-assets) Generate Android assets in Sketch
 - [uhunkler/jstalk-sketch-recipes](https://github.com/uhunkler/jstalk-sketch-recipes) Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [malkomalko/sketch-android-kit](https://github.com/malkomalko/sketch-android-kit) Sketch.app Plugin for Exporting Android Layouts (WIP at the moment)
-- [jelias/sketch-plugins](https://github.com/jelias/sketch-plugins) "All of my plugins for sketch, including but not limited to plugins I have forked and edited." Includes a nice plugin to upload artboards / slices to CloudApp
 - [nadavsavio/sketch-plugins](https://github.com/nadavsavio/sketch-plugins) "Plugins for Sketch app from Bohemian Coding". Includes two interesting commands to navigate to Next and Previous artboards.
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/My-Sketch-Plugins) An amazing resource to get you started with Sketch plugins development.
 - [postite/colorPoz](https://github.com/postite/colorPoz) recolor all elements like the selected object color with the hex color of your choice
@@ -51,3 +50,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [tylergaw/skribbble](https://github.com/tylergaw/skribbble) Sketch plugins for getting shots and info from Dribbble
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
 - [tylergaw/day-player/day-player](https://github.com/tylergaw/day-player/day-player) A collection of Sketch Plugins for creating placeholder images.
+- [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/Sketch.app-Vertical-Fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
