@@ -12,12 +12,20 @@ task :clone do
     system("git clone #{url} clones/#{owner}-#{name}")
   end
 end
+
 desc "Updates all clones in the 'clones' folder"
 task :update do
-  Dir.glob("clones/*").each do |file|
-    if File.directory? file
-      puts "Updating #{file} to latest version"
-      system("cd #{file} && git up")
+  plugins.each do |plugin|
+    name  = plugin['name']
+    owner = plugin['owner']
+    url   = "https://github.com/#{owner}/#{name}"
+
+    if File.directory? "clones/#{owner}-#{name}"
+      puts "Updating #{owner}-#{name} to latest version"
+      system("cd clones/#{owner}-#{name}/ && git up")
+    else
+      puts "Cloning #{owner}-#{name} to latest version"
+      system("git clone #{url} clones/#{owner}-#{name}")
     end
   end
 end
@@ -43,6 +51,11 @@ EOF
   end
 
   IO.write('README.md',output)
+end
+
+desc "List authors"
+task :authors do
+  puts plugins.collect { |plugin| plugin['owner'] }.uniq.sort
 end
 
 desc "Default: generate README.md from plugin"
