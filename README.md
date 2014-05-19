@@ -49,6 +49,6 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate
 - [tylergaw/skribbble](https://github.com/tylergaw/skribbble) Sketch plugins for getting shots and info from Dribbble
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
-- [tylergaw/day-player/day-player](https://github.com/tylergaw/day-player/day-player) A collection of Sketch Plugins for creating placeholder images.
+- [tylergaw/day-player](https://github.com/tylergaw/day-player) A collection of Sketch Plugins for creating placeholder images.
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/Sketch.app-Vertical-Fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [tylergaw/sketch-generate-posts](https://github.com/tylergaw/sketch-generate-posts) A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
