@@ -248,5 +248,10 @@
         "description": "QR Code generator plugin for Sketch App",
         "owner": "turbobabr",
         "name": "sketch-qrcode"
+    },
+    {
+        "description": "Sketch Plugin to generate thaana strings, paragraphs, articles",
+        "owner": "ajaaibu",
+        "name": "ThaanaText"
     }
 ]

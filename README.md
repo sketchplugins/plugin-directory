@@ -54,3 +54,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [tylergaw/sketch-generate-posts](https://github.com/tylergaw/sketch-generate-posts) A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
 - [littlebusters/Sketch-CSS-Sprite-Mixin](https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin) Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
 - [turbobabr/sketch-qrcode](https://github.com/turbobabr/sketch-qrcode) QR Code generator plugin for Sketch App
+- [ajaaibu/ThaanaText](https://github.com/ajaaibu/ThaanaText) Sketch Plugin to generate thaana strings, paragraphs, articles
