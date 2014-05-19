@@ -238,5 +238,10 @@
         "description": "A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.",
         "owner": "tylergaw",
         "name": "sketch-generate-posts"
+    },
+    {
+        "description": "Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.",
+        "owner": "littlebusters",
+        "name": "Sketch-CSS-Sprite-Mixin"
     }
 ]
