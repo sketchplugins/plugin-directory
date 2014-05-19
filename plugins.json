@@ -233,5 +233,10 @@
         "description": "A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.",
         "owner": "shahruz",
         "name": "Sketch.app-Vertical-Fit"
+    },
+    {
+        "description": "A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.",
+        "owner": "tylergaw",
+        "name": "sketch-generate-posts"
     }
 ]
