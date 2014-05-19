@@ -53,3 +53,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/Sketch.app-Vertical-Fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [tylergaw/sketch-generate-posts](https://github.com/tylergaw/sketch-generate-posts) A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
 - [littlebusters/Sketch-CSS-Sprite-Mixin](https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin) Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
+- [turbobabr/sketch-qrcode](https://github.com/turbobabr/sketch-qrcode) QR Code generator plugin for Sketch App
