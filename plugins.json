@@ -255,7 +255,7 @@
         "name": "ThaanaText"
     },
     {
-        "description": "A collection of plugins I created to help with my sketch workflow",
+        "description": "A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards",
         "owner": "vrjbndr",
         "name": "sketch-plugins"
     }
