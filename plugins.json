@@ -258,5 +258,10 @@
         "description": "A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards",
         "owner": "vrjbndr",
         "name": "sketch-plugins"
+    },
+    {
+        "description": "A sketch plugin to parse your data and populate your design",
+        "owner": "florianpnn",
+        "name": "sketch-data-parser"
     }
 ]
