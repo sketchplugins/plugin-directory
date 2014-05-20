@@ -253,5 +253,10 @@
         "description": "Sketch Plugin to generate thaana strings, paragraphs, articles",
         "owner": "ajaaibu",
         "name": "ThaanaText"
+    },
+    {
+        "description": "A collection of plugins I created to help with my sketch workflow",
+        "owner": "vrjbndr",
+        "name": "sketch-plugins"
     }
 ]
