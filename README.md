@@ -56,3 +56,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [turbobabr/sketch-qrcode](https://github.com/turbobabr/sketch-qrcode) QR Code generator plugin for Sketch App
 - [ajaaibu/ThaanaText](https://github.com/ajaaibu/ThaanaText) Sketch Plugin to generate thaana strings, paragraphs, articles
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards
+- [florianpnn/sketch-data-parser](https://github.com/florianpnn/sketch-data-parser) A sketch plugin to parse your data and populate your design
