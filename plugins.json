@@ -263,5 +263,10 @@
         "description": "A sketch plugin to parse your data and populate your design",
         "owner": "florianpnn",
         "name": "sketch-data-parser"
+    },
+    {
+        "description": "Toggle a text layer to upper and lower case.",
+        "owner": "keeg",
+        "name": "sketch-text-uppercase"
     }
 ]
