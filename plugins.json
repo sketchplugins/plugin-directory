@@ -268,5 +268,10 @@
         "description": "Toggle a text layer to upper and lower case.",
         "owner": "keeg",
         "name": "sketch-text-uppercase"
+    },
+    {
+        "description": "Get random quotes from quotesondesign.com from within Sketch.app",
+        "owner": "nodesolomon",
+        "name": "Design-Quotes-Sketch-Plugin"
     }
 ]

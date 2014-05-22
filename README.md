@@ -58,3 +58,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards
 - [florianpnn/sketch-data-parser](https://github.com/florianpnn/sketch-data-parser) A sketch plugin to parse your data and populate your design
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
+- [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/Design-Quotes-Sketch-Plugin) Get random quotes from quotesondesign.com from within Sketch.app
