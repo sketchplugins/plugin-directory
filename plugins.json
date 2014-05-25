@@ -273,5 +273,10 @@
         "description": "Get random quotes from quotesondesign.com from within Sketch.app",
         "owner": "nodesolomon",
         "name": "Design-Quotes-Sketch-Plugin"
+    },
+    {
+        "description": "Some scripts to randomly distribute and rotate objects.",
+        "owner": "kumo",
+        "name": "Sketch-Plugin-Scripts"
     }
 ]
