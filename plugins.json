@@ -278,5 +278,10 @@
         "description": "Some scripts to randomly distribute and rotate objects.",
         "owner": "kumo",
         "name": "Sketch-Plugin-Scripts"
+    },
+    {
+        "description": "A Sketch plugin for automatically HTML generate.",
+        "owner": "sskyy",
+        "name": "blade"
     }
 ]
