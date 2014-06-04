@@ -288,5 +288,10 @@
         "description": "A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.",
         "owner": "jimrutherford",
         "name": "UIColor-Category-Generator"
+    },
+    {
+        "description": "A Sketch Plugin for creating multiple sizes of iOS icons",
+        "owner": "tylergaw",
+        "name": "icon-stamper"
     }
 ]
