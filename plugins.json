@@ -283,5 +283,10 @@
         "description": "A Sketch plugin for automatically HTML generate.",
         "owner": "sskyy",
         "name": "blade"
+    },
+    {
+        "description": "A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.",
+        "owner": "jimrutherford",
+        "name": "UIColor-Category-Generator"
     }
 ]

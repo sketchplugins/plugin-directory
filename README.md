@@ -61,3 +61,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/Design-Quotes-Sketch-Plugin) Get random quotes from quotesondesign.com from within Sketch.app
 - [kumo/Sketch-Plugin-Scripts](https://github.com/kumo/Sketch-Plugin-Scripts) Some scripts to randomly distribute and rotate objects.
 - [sskyy/blade](https://github.com/sskyy/blade) A Sketch plugin for automatically HTML generate.
+- [jimrutherford/UIColor-Category-Generator](https://github.com/jimrutherford/UIColor-Category-Generator) A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.
