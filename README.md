@@ -63,4 +63,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [sskyy/blade](https://github.com/sskyy/blade) A Sketch plugin for automatically HTML generate.
 - [jimrutherford/UIColor-Category-Generator](https://github.com/jimrutherford/UIColor-Category-Generator) A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.
 - [tylergaw/icon-stamper](https://github.com/tylergaw/icon-stamper) A Sketch Plugin for creating multiple sizes of iOS icons
-- [fnky/Sketch Dockpreview](https://github.com/fnky/Sketch Dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
+- [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
