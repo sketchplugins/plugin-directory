@@ -63,3 +63,7 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [sskyy/blade](https://github.com/sskyy/blade) A Sketch plugin for automatically HTML generate.
 - [jimrutherford/UIColor-Category-Generator](https://github.com/jimrutherford/UIColor-Category-Generator) A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.
 - [tylergaw/icon-stamper](https://github.com/tylergaw/icon-stamper) A Sketch Plugin for creating multiple sizes of iOS icons
+- [joegirolamo/SketchPlugins-WIP](https://github.com/joegirolamo/SketchPlugins-WIP) Repo where life-changing Sketch Plugins live
+- [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
+- [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/Weezards-Sketch-Plugins) Some useful plugins for Sketch 3.0
+- [8by8/sketchplugins](https://github.com/8by8/sketchplugins) Plugins for Sketch

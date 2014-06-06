@@ -293,5 +293,25 @@
         "description": "A Sketch Plugin for creating multiple sizes of iOS icons",
         "owner": "tylergaw",
         "name": "icon-stamper"
+    },
+    {
+        "description": "Repo where life-changing Sketch Plugins live",
+        "owner": "joegirolamo",
+        "name": "SketchPlugins-WIP"
+    },
+    {
+        "description": "A Sketch plugin for a step-wise transformation of one path into another.",
+        "owner": "marmat",
+        "name": "sketch-interpolate-paths"
+    },
+    {
+        "description": "Some useful plugins for Sketch 3.0",
+        "owner": "weezard",
+        "name": "Weezards-Sketch-Plugins"
+    },
+    {
+        "description": "Plugins for Sketch",
+        "owner": "8by8",
+        "name": "sketchplugins"
     }
 ]
