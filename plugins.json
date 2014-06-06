@@ -313,5 +313,10 @@
         "description": "Plugins for Sketch",
         "owner": "8by8",
         "name": "sketchplugins"
+    },
+    {
+        "description": "A Sketch plugin that lets you preview your current artboard in the Dock.",
+        "owner": "fnky",
+        "name": "sketch-dockpreview"
     }
 ]
