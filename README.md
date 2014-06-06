@@ -67,3 +67,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/Weezards-Sketch-Plugins) Some useful plugins for Sketch 3.0
 - [8by8/sketchplugins](https://github.com/8by8/sketchplugins) Plugins for Sketch
+- [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
