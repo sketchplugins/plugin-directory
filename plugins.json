@@ -323,5 +323,10 @@
         "description": "Random plugins for Bohemian Coding Sketch app.",
         "owner": "tadija",
         "name": "sketch-plugins"
+    },
+    {
+        "description": "Plugins for Sketch3 app.",
+        "owner": "KrevedAccky",
+        "name": "SketchPlugins"
     }
 ]
