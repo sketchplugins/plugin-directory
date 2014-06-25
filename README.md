@@ -71,3 +71,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [tadija/sketch-plugins](https://github.com/tadija/sketch-plugins) Random plugins for Bohemian Coding Sketch app.
 - [KrevedAccky/SketchPlugins](https://github.com/KrevedAccky/SketchPlugins) Plugins for Sketch3 app.
 - [tarngerine/sketch-plugins](https://github.com/tarngerine/sketch-plugins) Julius's plugins <http://twitter.com/tarngerine>
+- [NathanRutzky/Generate-ICNS](https://github.com/NathanRutzky/Generate-ICNS) Sketch.app plugin for generating an Apple Icon Image ( .icns )
