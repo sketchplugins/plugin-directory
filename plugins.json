@@ -328,5 +328,10 @@
         "description": "Plugins for Sketch3 app.",
         "owner": "KrevedAccky",
         "name": "SketchPlugins"
+    },
+    {
+        "description": "Julius's plugins <http://twitter.com/tarngerine>",
+        "owner": "tarngerine",
+        "name": "sketch-plugins"
     }
 ]
