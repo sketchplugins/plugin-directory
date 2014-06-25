@@ -333,5 +333,10 @@
         "description": "Julius's plugins <http://twitter.com/tarngerine>",
         "owner": "tarngerine",
         "name": "sketch-plugins"
+    },
+    {
+        "description": "Sketch.app plugin for generating an Apple Icon Image ( .icns )",
+        "owner": "NathanRutzky",
+        "name": "Generate-ICNS"
     }
 ]
