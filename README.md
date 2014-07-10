@@ -73,3 +73,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [tarngerine/sketch-plugins](https://github.com/tarngerine/sketch-plugins) Julius's plugins <http://twitter.com/tarngerine>
 - [NathanRutzky/Generate-ICNS](https://github.com/NathanRutzky/Generate-ICNS) Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [turbobabr/duplicator](https://github.com/turbobabr/duplicator) A small Sketch 3 plugin that allows quickly duplicate selected layers in a specified direction
+- [GeertWille/sketch-export-assets](https://github.com/GeertWille/sketch-export-assets) A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web

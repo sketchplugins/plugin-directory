@@ -343,5 +343,10 @@
         "description": "A small Sketch 3 plugin that allows quickly duplicate selected layers in a specified direction",
         "owner": "turbobabr",
         "name": "duplicator"
+    },
+    {
+        "description": "A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web",
+        "owner": "GeertWille",
+        "name": "sketch-export-assets"
     }
 ]
