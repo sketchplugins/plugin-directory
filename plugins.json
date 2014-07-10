@@ -338,5 +338,10 @@
         "description": "Sketch.app plugin for generating an Apple Icon Image ( .icns )",
         "owner": "NathanRutzky",
         "name": "Generate-ICNS"
+    },
+    {
+        "description": "A small Sketch 3 plugin that allows quickly duplicate selected layers in a specified direction",
+        "owner": "turbobabr",
+        "name": "duplicator"
     }
 ]
