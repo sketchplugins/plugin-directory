@@ -340,7 +340,7 @@
         "name": "Generate-ICNS"
     },
     {
-        "description": "A small Sketch 3 plugin that allows quickly duplicate selected layers in a specified direction",
+        "description": "A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.",
         "owner": "turbobabr",
         "name": "duplicator"
     }
