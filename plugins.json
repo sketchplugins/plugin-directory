@@ -342,11 +342,16 @@
     {
         "description": "A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.",
         "owner": "turbobabr",
-        "name": "duplicator"
+        "name": "Duplicator"
     },
     {
         "description": "A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web",
         "owner": "GeertWille",
         "name": "sketch-export-assets"
+    },
+    {
+        "description": "A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0",
+        "owner": "getflourish",
+        "name": "Sketch-Color-Contrast-Analyser"
     }
 ]
