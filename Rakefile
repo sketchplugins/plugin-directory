@@ -45,7 +45,7 @@ EOF
   plugins.each do |plugin|
     name  = plugin['name']
     owner = plugin['owner']
-    url   = "https://github.com/#{owner}/#{name}"
+    url   = "https://github.com/#{owner.downcase}/#{name.downcase}"
     desc  = plugin['description']
     output << "- [#{owner}/#{name}](#{url}) #{desc}\n"
   end
