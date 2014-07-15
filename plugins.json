@@ -353,5 +353,10 @@
         "description": "A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0",
         "owner": "getflourish",
         "name": "Sketch-Color-Contrast-Analyser"
+    },
+    {
+        "description": "Randomly change the opacity of selected objects in Sketch.",
+        "owner": "adamhowell",
+        "name": "random-opacity-sketch-plugin"
     }
 ]
