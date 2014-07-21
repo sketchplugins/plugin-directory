@@ -358,5 +358,10 @@
         "description": "Randomly change the opacity of selected objects in Sketch.",
         "owner": "adamhowell",
         "name": "random-opacity-sketch-plugin"
+    },
+    {
+        "description": "A dummy plugin to quickly switch between pages using shortcuts.",
+        "owner": "mauehara",
+        "name": "sketch-page-switch"
     }
 ]
