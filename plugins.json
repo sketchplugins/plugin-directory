@@ -378,5 +378,10 @@
         "description": "Sketch.app plugin for swapping fill and border colors",
         "owner": "NathanRutzky",
         "name": "Swap-Fill-Border"
+    },
+    {
+        "description": "Sketch.app plugin for clearing all layer style properties",
+        "owner": "NathanRutzky",
+        "name": "Clear-Styles"
     }
 ]

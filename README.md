@@ -80,3 +80,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/sketch-set-line-height-plugin) Plugin that allows you to set the line height of a text layer as a multiple of the font size.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project
 - [NathanRutzky/Swap-Fill-Border](https://github.com/nathanrutzky/swap-fill-border) Sketch.app plugin for swapping fill and border colors
+- [NathanRutzky/Clear-Styles](https://github.com/nathanrutzky/clear-styles) Sketch.app plugin for clearing all layer style properties
