@@ -383,5 +383,10 @@
         "description": "Sketch.app plugin for clearing all layer style properties",
         "owner": "NathanRutzky",
         "name": "Clear-Styles"
+    },
+    {
+        "description": "Sync local Sketch.app plugins with their master version at GitHub",
+        "owner": "NathanRutzky",
+        "name": "Sync-Plugins"
     }
 ]
