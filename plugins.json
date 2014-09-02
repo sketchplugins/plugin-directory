@@ -393,5 +393,10 @@
         "description": "Plugin that can sort selected layers or artboards.",
         "owner": "getflourish",
         "name": "Sketch-Sort-Layers"
+    },
+    {
+        "description": "Plugin for generating animated GIFs from a sequence of artboards",
+        "owner": "NathanRutzky",
+        "name": "Generate-GIF"
     }
 ]
