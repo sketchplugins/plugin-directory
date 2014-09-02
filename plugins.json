@@ -388,5 +388,10 @@
         "description": "Sync local Sketch.app plugins with their master version at GitHub",
         "owner": "NathanRutzky",
         "name": "Sync-Plugins"
+    },
+    {
+        "description": "Plugin that can sort selected layers or artboards.",
+        "owner": "getflourish",
+        "name": "Sketch-Sort-Layers"
     }
 ]
