@@ -82,3 +82,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [NathanRutzky/Swap-Fill-Border](https://github.com/nathanrutzky/swap-fill-border) Sketch.app plugin for swapping fill and border colors
 - [NathanRutzky/Clear-Styles](https://github.com/nathanrutzky/clear-styles) Sketch.app plugin for clearing all layer style properties
 - [NathanRutzky/Sync-Plugins](https://github.com/nathanrutzky/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub
+- [getflourish/Sketch-Sort-Layers](https://github.com/getflourish/Sketch-Sort-Layers) Plugin that can sort layers or artboards based on text, layer name or position.
