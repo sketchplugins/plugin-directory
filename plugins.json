@@ -398,5 +398,10 @@
         "description": "Plugin for generating animated GIFs from a sequence of artboards",
         "owner": "NathanRutzky",
         "name": "Generate-GIF"
+    },
+    {
+        "description": "Generate a visual style sheet with all colors and text styles that you are using in Sketch.",
+        "owner": "getflourish",
+        "name": "Sketch-Style-Inventory"
     }
 ]
