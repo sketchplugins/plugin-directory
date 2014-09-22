@@ -403,5 +403,10 @@
         "description": "Generate a visual style sheet with all colors and text styles that you are using in Sketch.",
         "owner": "getflourish",
         "name": "Sketch-Style-Inventory"
+    },
+    {
+        "description": "\"Zoom\" to currently selected Artboard",
+        "owner": "Arkkimaagi",
+        "name": "ArtboardZoom"
     }
 ]
