@@ -320,9 +320,9 @@
         "name": "sketch-dockpreview"
     },
     {
-        "description": "Random plugins for Bohemian Coding Sketch app.",
+        "description": "This plugin makes it fast and easy to draw flowcharts in Sketch.",
         "owner": "tadija",
-        "name": "sketch-plugins"
+        "name": "AEFlowchart"
     },
     {
         "description": "Plugins for Sketch3 app.",
@@ -403,5 +403,10 @@
         "description": "Generate a visual style sheet with all colors and text styles that you are using in Sketch.",
         "owner": "getflourish",
         "name": "Sketch-Style-Inventory"
+    },
+    {
+        "description": "A Sketch plugin that automatically resizes artwork for iOS app icon.",
+        "owner": "tadija",
+        "name": "AEIconizer"
     }
 ]
