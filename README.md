@@ -68,7 +68,7 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/weezards-sketch-plugins) Some useful plugins for Sketch 3.0
 - [8by8/sketchplugins](https://github.com/8by8/sketchplugins) Plugins for Sketch
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
-- [tadija/sketch-plugins](https://github.com/tadija/sketch-plugins) Random plugins for Bohemian Coding Sketch app.
+- [tadija/AEFlowchart](https://github.com/tadija/aeflowchart) This plugin makes it fast and easy to draw flowcharts in Sketch.
 - [KrevedAccky/SketchPlugins](https://github.com/krevedaccky/sketchplugins) Plugins for Sketch3 app.
 - [tarngerine/sketch-plugins](https://github.com/tarngerine/sketch-plugins) Julius's plugins <http://twitter.com/tarngerine>
 - [NathanRutzky/Generate-ICNS](https://github.com/nathanrutzky/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
@@ -86,3 +86,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [NathanRutzky/Generate-GIF](https://github.com/nathanrutzky/generate-gif) Plugin for generating animated GIFs from a sequence of artboards
 - [getflourish/Sketch-Style-Inventory](https://github.com/getflourish/sketch-style-inventory) Generate a visual style sheet with all colors and text styles that you are using in Sketch.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard
+- [tadija/AEIconizer](https://github.com/tadija/aeiconizer) A Sketch plugin that automatically resizes artwork for iOS app icon.
