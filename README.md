@@ -85,3 +85,4 @@ A list of Sketch plugins hosted at GitHub, in no particular order.
 - [getflourish/Sketch-Sort-Layers](https://github.com/getflourish/Sketch-Sort-Layers) Plugin that can sort layers or artboards based on text, layer name or position.
 - [NathanRutzky/Generate-GIF](https://github.com/nathanrutzky/Generate-GIF) Sketch.app plugin for generating animated GIFs from a sequence of artboards
 - [getflourish/Sketch-Style-Inventory](https://github.com/getflourish/Sketch-Style-Inventory) Generate a visual style sheet with all colors and text styles that you are using in Sketch.
+- [Arkkimaagi/ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) "Zoom" to currently selected Artboard
