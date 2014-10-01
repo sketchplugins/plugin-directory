@@ -36,7 +36,7 @@ task :readme do
   output = <<EOF
 # Sketch Plugin Directory
 
-A list of Sketch plugins hosted at GitHub, in no particular order.
+A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 **Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
 
