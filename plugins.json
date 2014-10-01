@@ -110,7 +110,7 @@
         "owner": "postite"
     },
     {
-        "description": "This is a Sketch 2 Plugin that provides a shortcut for copying a layer's fill color to clipboard",
+        "description": "A Plugin that provides a shortcut for copying a layer's fill color to clipboard",
         "name": "Copy-Fill-Color",
         "owner": "poyi"
     },
@@ -390,7 +390,7 @@
         "name": "Sync-Plugins"
     },
     {
-        "description": "Plugin that can sort selected layers or artboards.",
+        "description": "Plugin that can sort layers or artboards based on text, layer name or position.",
         "owner": "getflourish",
         "name": "Sketch-Sort-Layers"
     },
