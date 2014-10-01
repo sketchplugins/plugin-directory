@@ -186,7 +186,7 @@
     },
     {
         "description": "Select all child layers of a group with a key command",
-        "name": "select-child-layers.sketchplugin",
+        "name": "select-child-layers-sketch-plugin",
         "owner": "mattmcmanus"
     },
     {
