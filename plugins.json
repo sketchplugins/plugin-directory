@@ -320,9 +320,9 @@
         "name": "sketch-dockpreview"
     },
     {
-        "description": "Random plugins for Bohemian Coding Sketch app.",
+        "description": "This plugin makes it fast and easy to draw flowcharts in Sketch.",
         "owner": "tadija",
-        "name": "sketch-plugins"
+        "name": "AEFlowchart"
     },
     {
         "description": "Plugins for Sketch3 app.",
@@ -408,5 +408,10 @@
         "description": "\"Zoom\" to currently selected Artboard",
         "owner": "Arkkimaagi",
         "name": "ArtboardZoom"
+    },
+    {
+        "description": "A Sketch plugin that automatically resizes artwork for iOS app icon.",
+        "owner": "tadija",
+        "name": "AEIconizer"
     }
 ]
