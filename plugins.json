@@ -419,4 +419,9 @@
         "owner": "automat",
         "name": "sketch-plugin-typographic-scale"
     }
+    {
+        "description": "Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.",
+        "owner": "x-raizor",
+        "name": "Efficiency"   
+    }
 ]
