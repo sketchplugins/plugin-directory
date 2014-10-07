@@ -9,19 +9,20 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard
 - [GeertWille/sketch-export-assets](https://github.com/geertwille/sketch-export-assets) A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web
 - [KrevedAccky/SketchPlugins](https://github.com/krevedaccky/sketchplugins) Plugins for Sketch3 app.
+- [NathanRutzky/Generate-GIF](https://github.com/nathanrutzky/generate-gif) Plugin for generating animated GIFs from a sequence of artboards
+- [NathanRutzky/Clear-Styles](https://github.com/nathanrutzky/clear-styles) Sketch.app plugin for clearing all layer style properties
+- [NathanRutzky/Sync-Plugins](https://github.com/nathanrutzky/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub
 - [NathanRutzky/Generate-ICNS](https://github.com/nathanrutzky/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [NathanRutzky/Swap-Fill-Border](https://github.com/nathanrutzky/swap-fill-border) Sketch.app plugin for swapping fill and border colors
-- [NathanRutzky/Clear-Styles](https://github.com/nathanrutzky/clear-styles) Sketch.app plugin for clearing all layer style properties
-- [NathanRutzky/Generate-GIF](https://github.com/nathanrutzky/generate-gif) Plugin for generating animated GIFs from a sequence of artboards
-- [NathanRutzky/Sync-Plugins](https://github.com/nathanrutzky/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub
 - [adamhowell/random-opacity-sketch-plugin](https://github.com/adamhowell/random-opacity-sketch-plugin) Randomly change the opacity of selected objects in Sketch.
 - [ajaaibu/ThaanaText](https://github.com/ajaaibu/thaanatext) Sketch Plugin to generate thaana strings, paragraphs, articles
 - [alessndro/sketch-plugins](https://github.com/alessndro/sketch-plugins) An incredible collection of plugins, including some great ones for working with baselines.
 - [almonk/SketchGit](https://github.com/almonk/sketchgit) A simple Git client built right into Sketch.
-- [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.
-- [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
+- [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
+- [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature
+- [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio"
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke
@@ -37,8 +38,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hrescak/sketchPlugins](https://github.com/hrescak/sketchplugins) A box for random sketch plugins: **Toggle Specs** (cmd+L) toggles visibility of all of the layer groups in your document named "specs". Other than specs this could be useful with hidden guides.
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U
-- [jimrutherford/UIColor-Category-Generator](https://github.com/jimrutherford/uicolor-category-generator) A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.
 - [jimrutherford/Random-User](https://github.com/jimrutherford/random-user) A SketchApp plugin that inserts random user data into your Sketch documents
+- [jimrutherford/UIColor-Category-Generator](https://github.com/jimrutherford/uicolor-category-generator) A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.
 - [joegirolamo/SketchPlugins-WIP](https://github.com/joegirolamo/sketchplugins-wip) Repo where life-changing Sketch Plugins live
 - [joshpuckett/SketchPlugins](https://github.com/joshpuckett/sketchplugins) A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier)
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
@@ -74,14 +75,14 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [tisho/sketch-plugins](https://github.com/tisho/sketch-plugins) An *amazing* implementation of a symbols library for Sketch
 - [trisix/ITSSketchPlugins](https://github.com/trisix/itssketchplugins) Some home-brewed Sketch App Plugins.
 - [trisweb/sketchplugins](https://github.com/trisweb/sketchplugins) Tristan's Plugins for Bohemian Coding's Sketch.app
-- [turbobabr/Duplicator](https://github.com/turbobabr/duplicator) A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
 - [turbobabr/sketch-qrcode](https://github.com/turbobabr/sketch-qrcode) QR Code generator plugin for Sketch App
-- [tylergaw/sketch-generate-posts](https://github.com/tylergaw/sketch-generate-posts) A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
+- [turbobabr/Duplicator](https://github.com/turbobabr/duplicator) A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
 - [tylergaw/skribbble](https://github.com/tylergaw/skribbble) Sketch plugins for getting shots and info from Dribbble
 - [tylergaw/icon-stamper](https://github.com/tylergaw/icon-stamper) A Sketch Plugin for creating multiple sizes of iOS icons
+- [tylergaw/sketch-generate-posts](https://github.com/tylergaw/sketch-generate-posts) A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
 - [tylergaw/day-player](https://github.com/tylergaw/day-player) A collection of Sketch Plugins for creating placeholder images.
-- [uhunkler/jstalk-sketch-recipes](https://github.com/uhunkler/jstalk-sketch-recipes) Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [uhunkler/jstalk-sketch-library](https://github.com/uhunkler/jstalk-sketch-library) A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.
+- [uhunkler/jstalk-sketch-recipes](https://github.com/uhunkler/jstalk-sketch-recipes) Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) A measure tool for Sketch.app (think Specctr for Sketch)
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/weezards-sketch-plugins) Some useful plugins for Sketch 3.0
