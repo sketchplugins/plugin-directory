@@ -20,6 +20,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [almonk/SketchGit](https://github.com/almonk/sketchgit) A simple Git client built right into Sketch.
 - [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.
 - [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
+- [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch
