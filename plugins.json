@@ -413,5 +413,10 @@
         "description": "A Sketch plugin that automatically resizes artwork for iOS app icon.",
         "owner": "tadija",
         "name": "AEIconizer"
+    },
+    {
+        "description": "Generates a typographic scale from selected text layers",
+        "owner": "automat",
+        "name": "sketch-plugin-typographic-scale"
     }
 ]
