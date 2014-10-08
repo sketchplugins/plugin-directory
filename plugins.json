@@ -422,6 +422,11 @@
     {
         "description": "Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.",
         "owner": "x-raizor",
-        "name": "Efficiency"   
+        "name": "Efficiency"
+    },
+    {
+        "description": "A plugin for Sketch to generate divine proportions automatically.",
+        "owner": "ichord",
+        "name": "sketch-divine-proportions"
     }
 ]
