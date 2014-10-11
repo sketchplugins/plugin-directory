@@ -428,5 +428,10 @@
         "description": "A plugin for Sketch to generate divine proportions automatically.",
         "owner": "ichord",
         "name": "sketch-divine-proportions"
+    },
+    {
+        "description": "Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.",
+        "owner": "dunckr",
+        "name": "sketch-colorfulgradients"
     }
 ]
