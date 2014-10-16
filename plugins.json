@@ -433,5 +433,10 @@
         "description": "Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.",
         "owner": "dunckr",
         "name": "sketch-colorfulgradients"
+    },
+    {
+        "description": "Sketch 3 plugin scripts for generating object collections",
+        "owner": "lrtitze",
+        "name": "Sketch-Plugins-LRTGenerators"
     }
 ]
