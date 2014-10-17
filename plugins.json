@@ -438,5 +438,10 @@
         "description": "Sketch 3 plugin scripts for generating object collections",
         "owner": "lrtitze",
         "name": "Sketch-Plugins-LRTGenerators"
+    },
+    {
+        "description": "Sketch 3 plugin that align layers relative to more options",
+        "name": "AlignTo",
+        "owner": "LucienLee"
     }
 ]
