@@ -92,3 +92,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [x-raizor/Efficiency](https://github.com/x-raizor/efficiency) Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate
 - [zmalltalker/sketch-android-assets](https://github.com/zmalltalker/sketch-android-assets) Generate Android assets in Sketch
+- [lucienlee/AlignTo](https://github.com/LucienLee/AlignTo) A plugin that align object relative to key object in Sketch 3.
