@@ -295,6 +295,11 @@
         "name": "icon-stamper"
     },
     {
+        "description": "Generate color swatches from hex codes",
+        "owner": "jodyheavener",
+        "name": "Swatches"
+    },
+    {
         "description": "Repo where life-changing Sketch Plugins live",
         "owner": "joegirolamo",
         "name": "SketchPlugins-WIP"
