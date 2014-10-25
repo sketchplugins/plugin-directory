@@ -8,7 +8,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard
 - [GeertWille/sketch-export-assets](https://github.com/geertwille/sketch-export-assets) A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web
-- [KrevedAccky/SketchPlugins](https://github.com/krevedaccky/sketchplugins) Plugins for Sketch3 app.
+- [KrevedAccky/SketchSplitDivide](https://github.com/KrevedAccky/SketchSplitDivide) Split and Divide plugins for Sketch3 app.
 - [LucienLee/AlignTo](https://github.com/lucienlee/alignto) Sketch 3 plugin that align layers relative to more options
 - [NathanRutzky/Sync-Plugins](https://github.com/nathanrutzky/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub
 - [NathanRutzky/Clear-Styles](https://github.com/nathanrutzky/clear-styles) Sketch.app plugin for clearing all layer style properties

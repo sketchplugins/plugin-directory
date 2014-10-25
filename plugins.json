@@ -330,9 +330,9 @@
         "name": "AEFlowchart"
     },
     {
-        "description": "Plugins for Sketch3 app.",
+        "description": "Split and Divide plugins for Sketch3 app.",
         "owner": "KrevedAccky",
-        "name": "SketchPlugins"
+        "name": "SketchSplitDivide"
     },
     {
         "description": "Julius's plugins <http://twitter.com/tarngerine>",
