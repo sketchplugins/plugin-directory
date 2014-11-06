@@ -458,5 +458,10 @@
         "description": "Make it easy to resize an object without having to manually move all the content to keep the margins",
         "owner": "AntonStrand",
         "name": "dynamic-reposition"
+    },
+    {
+        "description": "Use one layer or the artboard as a template to resize other layers",
+        "owner": "AntonStrand",
+        "name": "Sketch-Resize"
     }
 ]
