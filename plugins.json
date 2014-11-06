@@ -453,5 +453,10 @@
         "description": "Import subtle patterns as shape fills in Sketch.",
         "owner": "dunckr",
         "name": "sketch-subtlepatterns"
+    },
+    {
+        "description": "Make it easy to resize an object without having to manually move all the content to keep the margins",
+        "owner": "AntonStrand",
+        "name": "dynamic-reposition"
     }
 ]
