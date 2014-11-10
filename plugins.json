@@ -468,5 +468,90 @@
         "description": "Copy & paste boilerplate code from a Sketch layer to FramerJS",
         "owner": "getflourish",
         "name": "Copy-and-Paste-for-Framer"
+    },
+    {
+        "description": "Sketch Plugin to quickly copy color RGB/HEX values",
+        "owner": "mfouquet",
+        "name": "Color-Copier"
+    },
+    {
+        "description": "Sketch Plugin to make documenting design easier",
+        "owner": "marcosvidal",
+        "name": "Sketch-Notebook"
+    },
+    {
+        "description": "Sketch.app plugin for auto-padding",
+        "owner": "Falkeyn",
+        "name": "Modulizer"
+    },
+    {
+        "description": "Just another Guide plugin for Sketch",
+        "owner": "petehouston",
+        "name": "sketch-guides"
+    },
+    {
+        "description": "Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions",
+        "owner": "graphical-iain",
+        "name": "Copy-SCSS-Colors"
+    },
+    {
+        "description": "A button creator plugin for Sketch",
+        "owner": "AndrewKF",
+        "name": "Sketch-Buttonsmith"
+    },
+    {
+        "description": "Zeplin Sketch plugin <https://zeplin.io>",
+        "owner": "zeplin",
+        "name": "zeplin-sketch-plugin"
+    },
+    {
+        "description": "Smartboards is a collection of plugins that make my life easier in Sketch",
+        "owner": "elihorne",
+        "name": "smartboards"
+    },
+    {
+        "description": "A Sketch plugin which can export artboards or slice to ICNS",
+        "owner": "solicomo",
+        "name": "export-to-icns"
+    },
+    {
+        "description": "Sketch plugin to align selected layers to the bottom one",
+        "owner": "rodi01",
+        "name": "Align-To-Layer"
+    },
+    {
+        "description": "Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets",
+        "owner": "todoriliev",
+        "name": "generate-android-assets"
+    },
+    {
+        "description": "A Sketch.app plugin to create a grid with rulers",
+        "owner": "ryanlanglois",
+        "name": "RulerGrid"
+    },
+    {
+        "description": "If you love catipsum.com & sketch as much as I do, then I don't know how could you live without this plugin",
+        "owner": "mamuso",
+        "name": "sketch-cat-ipsum"
+    },
+    {
+        "description": "Selects all text layers that have the same text style as the reference text layer",
+        "owner": "getflourish",
+        "name": "Sketch-Select-Similar-Text-Layers-Plugin"
+    },
+    {
+        "description": "Export all your Sketch text styles as CSS (proof of concept)",
+        "owner": "getflourish",
+        "name": "Sketch-Export-Text-Styles"
+    },
+    {
+        "description": "This plugin selects all layers that have the same fill color as the currently selected layer",
+        "owner": "getflourish",
+        "name": "Sketch-Select-Layers-by-Color"
+    },
+    {
+        "description": "Sketch App plugin for creating dummy 'Bluth' content <http://ligcreative.github.io/sketch-bluth-ipsum/>",
+        "owner": "LigCreative",
+        "name": "sketch-bluth-ipsum"
     }
 ]
