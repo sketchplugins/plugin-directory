@@ -42,7 +42,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 EOF
 
-  plugins.sort_by { |k, v| k["owner"] }.each do |plugin|
+  plugins.sort_by { |k, v| k["owner"].downcase + "/" + k["name"].downcase }.each do |plugin|
     name  = plugin['name']
     owner = plugin['owner']
     url   = "https://github.com/#{owner.downcase}/#{name.downcase}"
