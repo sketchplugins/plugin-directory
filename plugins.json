@@ -463,5 +463,10 @@
         "description": "Use one layer or the artboard as a template to resize other layers",
         "owner": "AntonStrand",
         "name": "Sketch-Resize"
+    },
+    {
+        "description": "Copy & paste boilerplate code from a Sketch layer to FramerJS",
+        "owner": "getflourish",
+        "name": "Copy-and-Paste-for-Framer"
     }
 ]
