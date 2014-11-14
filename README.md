@@ -22,6 +22,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio"
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) Sketch plugins by Cemre Güngör
+- [clusterinc/SketchToAppStore](https://github.com/clusterinc/sketchtoappstore) Generate App Store images for all iPhone sizes from Sketch
 - [davidudvardy/sketch-plugins](https://github.com/davidudvardy/sketch-plugins) Scripts for Bohemian Coding's Sketch application
 - [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
