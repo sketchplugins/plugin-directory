@@ -553,5 +553,10 @@
         "description": "Sketch App plugin for creating dummy 'Bluth' content <http://ligcreative.github.io/sketch-bluth-ipsum/>",
         "owner": "LigCreative",
         "name": "sketch-bluth-ipsum"
+    },
+    {
+        "description": "Generate App Store images for all iPhone sizes from Sketch",
+        "owner": "clusterinc",
+        "name": "SketchToAppStore"
     }
 ]
