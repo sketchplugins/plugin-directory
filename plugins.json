@@ -558,5 +558,10 @@
         "description": "Generate App Store images for all iPhone sizes from Sketch",
         "owner": "clusterinc",
         "name": "SketchToAppStore"
+    },
+    {
+	    "description": "A plugin for Sketch.app to share artboards to Slack",
+	    "owner": "shahruz",
+	    "name": "Send-to-Slack"
     }
 ]
