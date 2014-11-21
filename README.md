@@ -89,6 +89,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [samdeane/sketch-scripts](https://github.com/samdeane/sketch-scripts) Scripts for Sketch, by another one of the Bohemian Coding guys.
 - [sdrib/HipsterFill](https://github.com/sdrib/hipsterfill) Dummy text filler plugin for Sketch!
 - [sebj/Sketch-Plugins](https://github.com/sebj/sketch-plugins) A collection of random, possibly useful, Sketch plugins.
+- [shahruz/Send-to-Slack](https://github.com/shahruz/send-to-slack) A plugin for Sketch.app to share artboards to Slack
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/sketch.app-vertical-fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
 - [solicomo/export-to-icns](https://github.com/solicomo/export-to-icns) A Sketch plugin which can export artboards or slice to ICNS
