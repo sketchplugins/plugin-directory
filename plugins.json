@@ -1,5 +1,10 @@
 [
     {
+        "description": "A tool to save and switch states for quick demo purpose in sketch",
+        "name": "sketch-states-switch",
+        "owner": "wentin"
+    },
+    {
         "description": "This is a plugin for quickly creating Lorem Ipsum text in Sketch",
         "name": "Lorem-Ipsum-Plugin-for-Sketch",
         "owner": "brandonbeecroft"
