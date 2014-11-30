@@ -568,5 +568,10 @@
 	    "description": "A plugin for Sketch.app to share artboards to Slack",
 	    "owner": "shahruz",
 	    "name": "Send-to-Slack"
+    },
+    {
+        "description": "Easily translate pages in Sketch",
+        "owner": "kristof",
+        "name": "sketch-i18n"
     }
 ]
