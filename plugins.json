@@ -573,5 +573,10 @@
         "description": "Easily translate pages in Sketch",
         "owner": "kristof",
         "name": "sketch-i18n"
-    }
+    },
+    {
+	    "description": "A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes",
+	    "owner": "nickstamas",
+	    "name": "Sketch-Better-Android-Export"
+    },
 ]
