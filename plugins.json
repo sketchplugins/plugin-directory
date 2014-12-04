@@ -565,9 +565,9 @@
         "name": "SketchToAppStore"
     },
     {
-	    "description": "A plugin for Sketch.app to share artboards to Slack",
-	    "owner": "shahruz",
-	    "name": "Send-to-Slack"
+        "description": "A plugin for Sketch.app to share artboards to Slack",
+        "owner": "shahruz",
+        "name": "Send-to-Slack"
     },
     {
         "description": "Easily translate pages in Sketch",
@@ -575,8 +575,13 @@
         "name": "sketch-i18n"
     },
     {
-	    "description": "A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes",
-	    "owner": "nickstamas",
-	    "name": "Sketch-Better-Android-Export"
+        "description": "A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes",
+        "owner": "nickstamas",
+        "name": "Sketch-Better-Android-Export"
     },
+    {
+        "description": "Making Sketch talk...",
+        "owner": "marcosvidal",
+        "name": "sketch-speaker"
+    }
 ]

@@ -67,6 +67,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [marceloeduardo/Sketch-Scripts](https://github.com/marceloeduardo/sketch-scripts) A port of Illustrator's "Split Into Grid" to Sketch
 - [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [marcosvidal/Sketch-Notebook](https://github.com/marcosvidal/sketch-notebook) Sketch Plugin to make documenting design easier
+- [marcosvidal/sketch-speaker](https://github.com/marcosvidal/sketch-speaker) Making Sketch talk...
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
@@ -79,7 +80,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [NathanRutzky/Generate-ICNS](https://github.com/nathanrutzky/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [NathanRutzky/Swap-Fill-Border](https://github.com/nathanrutzky/swap-fill-border) Sketch.app plugin for swapping fill and border colors
 - [NathanRutzky/Sync-Plugins](https://github.com/nathanrutzky/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub
-- [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/Sketch-Better-Android-Export) Plugin for exporting layers for Android that supports transparency and 1x and 2x bases.
+- [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/sketch-better-android-export) A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice
