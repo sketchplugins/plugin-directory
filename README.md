@@ -80,6 +80,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [NathanRutzky/Swap-Fill-Border](https://github.com/nathanrutzky/swap-fill-border) Sketch.app plugin for swapping fill and border colors
 - [NathanRutzky/Sync-Plugins](https://github.com/nathanrutzky/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub
 - [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/Sketch-Better-Android-Export) Plugin for exporting layers for Android that supports transparency and 1x and 2x bases.
+- [nickstamas/Sketch-Quick-Pic](https://github.com/nickstamas/Sketch-Quick-Pic) Quickly fill a layer with an image from Flickr based on tags
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice
