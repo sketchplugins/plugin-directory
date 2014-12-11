@@ -583,5 +583,10 @@
         "description": "Making Sketch talk...",
         "owner": "marcosvidal",
         "name": "sketch-speaker"
+    },
+    {
+        "description": "Moves selected layers vertically according to the cursor position.",
+        "owner": "wolanski",
+        "name": "sketch-vertical-teleporter"
     }
 ]
