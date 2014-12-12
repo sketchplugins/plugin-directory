@@ -583,5 +583,10 @@
         "description": "Making Sketch talk...",
         "owner": "marcosvidal",
         "name": "sketch-speaker"
+    },
+    {
+        "description": "Sketch app plugin for displaying Google material design color palette. ",
+        "owner": "t32k",
+        "name": "material-design-color-palette"
     }
 ]
