@@ -88,6 +88,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice
 - [poyi/Copy-Fill-Color](https://github.com/poyi/copy-fill-color) A Plugin that provides a shortcut for copying a layer's fill color to clipboard
 - [Raureif/sketch-click-dummy](https://github.com/raureif/sketch-click-dummy) Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
+- [ribot/sketch-page-helper](https://github.com/ribot/sketch-page-helper) This plugin includes a few simple actions to make managing pages easier in Sketch
 - [rodi01/Align-To-Layer](https://github.com/rodi01/align-to-layer) Sketch plugin to align selected layers to the bottom one
 - [rodi01/RenameIt](https://github.com/rodi01/renameit) A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 - [rxlabz/skrx](https://github.com/rxlabz/skrx) Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.
