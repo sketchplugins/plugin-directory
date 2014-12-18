@@ -583,5 +583,10 @@
         "description": "Making Sketch talk...",
         "owner": "marcosvidal",
         "name": "sketch-speaker"
+    },
+    {
+        "description": "This plugin includes a few simple actions to make managing pages easier in Sketch",
+        "owner": "ribot",
+        "name": "sketch-page-helper"
     }
 ]
