@@ -598,5 +598,10 @@
         "description": "Moves selected layers vertically according to the cursor position.",
         "owner": "wolanski",
         "name": "sketch-vertical-teleporter"
+    },
+    {
+        "description": "Sketch app plugin for displaying Google material design color palette. ",
+        "owner": "t32k",
+        "name": "material-design-color-palette-sketch-plugin"
     }
 ]
