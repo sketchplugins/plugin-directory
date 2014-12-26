@@ -119,6 +119,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/weezards-sketch-plugins) Some useful plugins for Sketch 3.0
 - [wentin/sketch-states-switch](https://github.com/wentin/sketch-states-switch) A tool to save and switch states for quick demo purpose in sketch
+- [wolanski/sketch-vertical-teleporter](https://github.com/wolanski/sketch-vertical-teleporter) Moves selected layers vertically according to the cursor position.
 - [x-raizor/Efficiency](https://github.com/x-raizor/efficiency) Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate
 - [zeplin/zeplin-sketch-plugin](https://github.com/zeplin/zeplin-sketch-plugin) Zeplin Sketch plugin <https://zeplin.io>
