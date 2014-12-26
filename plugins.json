@@ -588,5 +588,10 @@
         "description": "Quickly fill a layer with an image from Flickr based on tags",
         "owner": "nickstamas",
         "name": "Sketch-Quick-Pic"
+    },
+    {
+        "description": "Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.",
+        "owner": "Raureif",
+        "name": "sketch-click-dummy"
     }
 ]
