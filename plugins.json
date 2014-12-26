@@ -583,5 +583,10 @@
         "description": "Making Sketch talk...",
         "owner": "marcosvidal",
         "name": "sketch-speaker"
+    },
+    {
+        "description": "Quickly fill a layer with an image from Flickr based on tags",
+        "owner": "nickstamas",
+        "name": "Sketch-Quick-Pic"
     }
 ]
