@@ -613,5 +613,10 @@
         "description": "This plugin includes a few simple actions to make managing pages easier in Sketch",
         "owner": "ribot",
         "name": "sketch-page-helper"
+    },
+    {
+        "description": "This is a plugin for quickly creating persian (farsi) Lorem Ipsum text in Sketch.",
+        "owner": "Rezaaa",
+        "name": "persian-lorem-ipsum-plugin-for-sketch"
     }
 ]
