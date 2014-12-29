@@ -72,6 +72,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
+- [maundytime/sketch-9patch](https://github.com/maundytime/sketch-9patch) Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.
 - [mfouquet/Color-Copier](https://github.com/mfouquet/color-copier) Sketch Plugin to quickly copy color RGB/HEX values
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/my-sketch-plugins) An amazing resource to get you started with Sketch plugins development.
