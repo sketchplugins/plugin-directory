@@ -30,6 +30,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
 - [elihorne/smartboards](https://github.com/elihorne/smartboards) Smartboards is a collection of plugins that make my life easier in Sketch
+- [eric-adstage/Sketch_RotateLine](https://github.com/eric-adstage/sketch_rotateline) A simple plugin to allow line rotation within Sketch.
 - [Falkeyn/Modulizer](https://github.com/falkeyn/modulizer) Sketch.app plugin for auto-padding
 - [florianpnn/sketch-data-parser](https://github.com/florianpnn/sketch-data-parser) A sketch plugin to parse your data and populate your design
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
