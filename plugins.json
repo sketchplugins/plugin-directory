@@ -623,5 +623,20 @@
         "description": "Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.",
         "owner": "maundytime",
         "name": "sketch-9patch"
+    },
+    {
+        "description": "Sketch plugin to randomly resize selected elements.",
+        "owner": "longzheng",
+        "name": "sketch-randomSize"
+    },
+    {
+        "description": "A plugin manager for Sketch.app.",
+        "owner": "buzzfeed",
+        "name": "Sketch-Toolbox"
+    },
+    {
+        "description": "Replace layers in Sketch with photos from Instagram.",
+        "owner": "abynim",
+        "name": "SketchSquares"
     }
 ]
