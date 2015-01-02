@@ -623,5 +623,10 @@
         "description": "Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.",
         "owner": "maundytime",
         "name": "sketch-9patch"
+    },
+    {
+        "description": "A plugin manager for Sketch.app.",
+        "owner": "buzzfeed",
+        "name": "Sketch-Toolbox"
     }
 ]
