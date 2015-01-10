@@ -66,6 +66,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [longzheng/sketch-randomSize](https://github.com/longzheng/sketch-randomsize) Sketch plugin to randomly resize selected elements.
 - [lrtitze/Sketch-Plugins-LRTGenerators](https://github.com/lrtitze/sketch-plugins-lrtgenerators) Sketch 3 plugin scripts for generating object collections.
 - [LucienLee/AlignTo](https://github.com/lucienlee/alignto) Sketch 3 plugin that align layers relative to more options.
+- [lukas77me/Sketch-Comments](https://github.com/lukas77me/sketch-comments) Easily add comments to your designs.
 - [makzan/Sketch-Plugin-Scripts](https://github.com/makzan/sketch-plugin-scripts) Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
 - [malkomalko/sketch-android-kit](https://github.com/malkomalko/sketch-android-kit) Sketch.app Plugin for Exporting Android Layouts (WIP at the moment)
 - [mamuso/sketch-cat-ipsum](https://github.com/mamuso/sketch-cat-ipsum) If you love catipsum.com & sketch as much as I do, then I don't know how could you live without this plugin.

@@ -643,5 +643,10 @@
         "description": "More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.",
         "owner": "eric-adstage",
         "name": "Sketch_RotateLine"
+    },
+    {
+        "description": "Easily add comments to your designs.",
+        "owner": "lukas77me",
+        "name": "Sketch-Comments"
     }
 ]
