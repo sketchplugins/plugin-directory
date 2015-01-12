@@ -648,5 +648,10 @@
         "description": "Easily add comments to your designs.",
         "owner": "lukas77me",
         "name": "Sketch-Comments"
+    },
+    {
+        "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
+        "owner": "kenmoore",
+        "name": "Sketch-Relabel-Button"
     }
 ]
