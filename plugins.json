@@ -300,6 +300,11 @@
         "name": "icon-stamper"
     },
     {
+        "description": "A Sketch 3 plugin that allows you to use CSS on layers.",
+        "owner": "jodyheavener",
+        "name": "CSS-Buddy"
+    },
+    {
         "description": "Generate color swatches from hex codes.",
         "owner": "jodyheavener",
         "name": "Swatches"
