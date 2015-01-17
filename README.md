@@ -59,6 +59,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project.
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
+- [kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
 - [kenmoore/Sketch-Relabel-Button](https://github.com/kenmoore/sketch-relabel-button) Update a button's label and it gets resized automatically, preserving existing padding.
 - [KrevedAccky/SketchSplitDivide](https://github.com/krevedaccky/sketchsplitdivide) Split and Divide plugins for Sketch3 app.
 - [kristof/sketch-i18n](https://github.com/kristof/sketch-i18n) Easily translate pages in Sketch.
