@@ -10,8 +10,23 @@
         "owner": "brandonbeecroft"
     },
     {
-        "description": "A collection of random, possibly useful, Sketch plugins.",
-        "name": "Sketch-Plugins",
+        "description": "Resizes the selected layer to cover its containing artboard in Sketch.",
+        "name": "Cover-Artboard",
+        "owner": "sebj"
+    },
+    {
+        "description": "Invert a layer's background color in Sketch.",
+        "name": "Invert-Background-Color",
+        "owner": "sebj"
+    },
+    {
+        "description": "Remove a layer's fills and borders in Sketch.",
+        "name": "Remove-Fills-and-Borders",
+        "owner": "sebj"
+    },
+    {
+        "description": "Rename multiple layers at once in Sketch.",
+        "name": "Rename-Layers",
         "owner": "sebj"
     },
     {
