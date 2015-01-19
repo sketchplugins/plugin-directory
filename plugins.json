@@ -658,5 +658,10 @@
         "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
         "owner": "kenmoore",
         "name": "Sketch-Relabel-Button"
+    },
+    {
+        "description": "Paste like it was meant to be--into the artboard you're viewing.",
+        "owner": "kenmoore",
+        "name": "Sketch-Better-Paste"
     }
 ]
