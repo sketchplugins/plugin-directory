@@ -105,7 +105,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ryanlanglois/RulerGrid](https://github.com/ryanlanglois/rulergrid) A Sketch.app plugin to create a grid with rulers.
 - [samdeane/sketch-scripts](https://github.com/samdeane/sketch-scripts) Scripts for Sketch, by another one of the Bohemian Coding guys.
 - [sdrib/HipsterFill](https://github.com/sdrib/hipsterfill) Dummy text filler plugin for Sketch!
-- [sebj/Sketch-Plugins](https://github.com/sebj/sketch-plugins) A collection of random, possibly useful, Sketch plugins.
+- [sebj/Cover-Artboard](https://github.com/sebj/Cover-Artboard) Resizes the selected layer to cover its containing artboard in Sketch.
+- [sebj/Invert-Background-Color](https://github.com/sebj/Invert-Background-Color) Invert a layer's background color in Sketch.
+- [sebj/Remove-Fills-and-Borders](https://github.com/sebj/Remove-Fills-and-Borders) Remove a layer's fills and borders in Sketch.
+- [sebj/Rename-Layers](https://github.com/sebj/Rename-Layers) Rename multiple layers at once in Sketch.
 - [shahruz/Send-to-Slack](https://github.com/shahruz/send-to-slack) A plugin for Sketch.app to share artboards to Slack.
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/sketch.app-vertical-fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
