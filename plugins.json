@@ -678,5 +678,15 @@
         "description": "Paste like it was meant to be--into the artboard you're viewing.",
         "owner": "kenmoore",
         "name": "Sketch-Better-Paste"
+    },
+    {
+        "description": "Pull to center: Move selected shapes or layers toward center of artboard.",
+        "owner": "delighted",
+        "name": "sketch-pull-to-center"
+    },
+    {
+        "description": "Resize all in place: Resize all selected shapes or layers, in place, from center.",
+        "owner": "delighted",
+        "name": "sketch-resize-all-in-place"
     }
 ]
