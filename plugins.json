@@ -260,6 +260,11 @@
         "name": "sketch-generate-posts"
     },
     {
+        "description": "You can change the layer name by Regexp in Sketch 3.",
+        "owner": "littlebusters",
+        "name": "Regexp-Rename"
+    },
+    {
         "description": "Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.",
         "owner": "littlebusters",
         "name": "Sketch-CSS-Sprite-Mixin"
