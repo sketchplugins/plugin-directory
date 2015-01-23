@@ -67,6 +67,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kristof/sketch-i18n](https://github.com/kristof/sketch-i18n) Easily translate pages in Sketch.
 - [kumo/Sketch-Plugin-Scripts](https://github.com/kumo/sketch-plugin-scripts) Some scripts to randomly distribute and rotate objects.
 - [LigCreative/sketch-bluth-ipsum](https://github.com/ligcreative/sketch-bluth-ipsum) Sketch App plugin for creating dummy 'Bluth' content <http://ligcreative.github.io/sketch-bluth-ipsum/>.
+- [littlebusters/Regexp-Rename](https://github.com/littlebusters/regexp-rename) You can change the layer name by Regexp in Sketch 3.
 - [littlebusters/Sketch-CSS-Sprite-Mixin](https://github.com/littlebusters/sketch-css-sprite-mixin) Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
 - [longzheng/sketch-randomSize](https://github.com/longzheng/sketch-randomsize) Sketch plugin to randomly resize selected elements.
 - [lrtitze/Sketch-Plugins-LRTGenerators](https://github.com/lrtitze/sketch-plugins-lrtgenerators) Sketch 3 plugin scripts for generating object collections.
@@ -107,10 +108,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ryanlanglois/RulerGrid](https://github.com/ryanlanglois/rulergrid) A Sketch.app plugin to create a grid with rulers.
 - [samdeane/sketch-scripts](https://github.com/samdeane/sketch-scripts) Scripts for Sketch, by another one of the Bohemian Coding guys.
 - [sdrib/HipsterFill](https://github.com/sdrib/hipsterfill) Dummy text filler plugin for Sketch!
-- [sebj/Cover-Artboard](https://github.com/sebj/Cover-Artboard) Resizes the selected layer to cover its containing artboard in Sketch.
-- [sebj/Invert-Background-Color](https://github.com/sebj/Invert-Background-Color) Invert a layer's background color in Sketch.
-- [sebj/Remove-Fills-and-Borders](https://github.com/sebj/Remove-Fills-and-Borders) Remove a layer's fills and borders in Sketch.
-- [sebj/Rename-Layers](https://github.com/sebj/Rename-Layers) Rename multiple layers at once in Sketch.
+- [sebj/Cover-Artboard](https://github.com/sebj/cover-artboard) Resizes the selected layer to cover its containing artboard in Sketch.
+- [sebj/Invert-Background-Color](https://github.com/sebj/invert-background-color) Invert a layer's background color in Sketch.
+- [sebj/Remove-Fills-and-Borders](https://github.com/sebj/remove-fills-and-borders) Remove a layer's fills and borders in Sketch.
+- [sebj/Rename-Layers](https://github.com/sebj/rename-layers) Rename multiple layers at once in Sketch.
 - [shahruz/Send-to-Slack](https://github.com/shahruz/send-to-slack) A plugin for Sketch.app to share artboards to Slack.
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/sketch.app-vertical-fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
