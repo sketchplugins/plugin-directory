@@ -693,5 +693,10 @@
         "description": "Resize all in place: Resize all selected shapes or layers, in place, from center.",
         "owner": "delighted",
         "name": "sketch-resize-all-in-place"
+    },
+    {
+        "description": "These plugins will make you best friends with Sketch.",
+        "owner": "getflourish",
+        "name": "Sketch-Mate"
     }
 ]
