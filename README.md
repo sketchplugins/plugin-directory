@@ -42,6 +42,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [getflourish/Copy-and-Paste-for-Framer](https://github.com/getflourish/copy-and-paste-for-framer) Copy & paste boilerplate code from a Sketch layer to FramerJS.
 - [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/sketch-color-contrast-analyser) A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0.
 - [getflourish/Sketch-Export-Text-Styles](https://github.com/getflourish/sketch-export-text-styles) Export all your Sketch text styles as CSS (proof of concept).
+- [getflourish/Sketch-Mate](https://github.com/getflourish/sketch-mate) These plugins will make you best friends with Sketch.
 - [getflourish/Sketch-Select-Layers-by-Color](https://github.com/getflourish/sketch-select-layers-by-color) This plugin selects all layers that have the same fill color as the currently selected layer.
 - [getflourish/Sketch-Select-Similar-Text-Layers-Plugin](https://github.com/getflourish/sketch-select-similar-text-layers-plugin) Selects all text layers that have the same text style as the reference text layer.
 - [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/sketch-set-line-height-plugin) Plugin that allows you to set the line height of a text layer as a multiple of the font size.
