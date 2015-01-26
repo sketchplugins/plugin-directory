@@ -695,6 +695,11 @@
         "name": "sketch-scale-all-in-place"
     },
     {
+        "description": "Upload to CloudApp: Upload the current artboard or page to CloudApp.",
+        "owner": "delighted",
+        "name": "sketch-upload-to-cloudapp"
+    },
+    {
         "description": "These plugins will make you best friends with Sketch.",
         "owner": "getflourish",
         "name": "Sketch-Mate"
