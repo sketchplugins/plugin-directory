@@ -690,9 +690,9 @@
         "name": "sketch-pull-to-center"
     },
     {
-        "description": "Resize all in place: Resize all selected shapes or layers, in place, from center.",
+        "description": "Scale all in place: Resize all selected shapes or layers, in place, from center.",
         "owner": "delighted",
-        "name": "sketch-resize-all-in-place"
+        "name": "sketch-scale-all-in-place"
     },
     {
         "description": "These plugins will make you best friends with Sketch.",
