@@ -685,6 +685,11 @@
         "name": "Sketch-Better-Paste"
     },
     {
+        "description": "Quickly turn a text layer into a styled annotation, grouped with a background card.",
+        "owner": "kenmoore",
+        "name": "Sketch-Text-to-Specs"
+    },
+    {
         "description": "Pull to center: Move selected shapes or layers toward center of artboard.",
         "owner": "delighted",
         "name": "sketch-pull-to-center"
