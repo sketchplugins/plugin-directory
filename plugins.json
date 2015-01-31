@@ -708,5 +708,10 @@
         "description": "These plugins will make you best friends with Sketch.",
         "owner": "getflourish",
         "name": "Sketch-Mate"
+    },
+    {
+        "description": "Export icons (icns,ico,...) from Sketch using Icon Slate.",
+        "owner": "kodlian",
+        "name": "IconSlate-sketchplugin"
     }
 ]
