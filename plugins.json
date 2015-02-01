@@ -680,7 +680,7 @@
         "name": "Sketch-Comments"
     },
     {
-        "description": "Lays out all your artboards in a single row with 100px between each.",
+        "description": "Lay out all your artboards in a grid with user-specified number of rows.",
         "owner": "kenmoore",
         "name": "Sketch-Arrange-Artboards"
     },
