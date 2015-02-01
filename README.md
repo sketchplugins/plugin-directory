@@ -63,6 +63,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project.
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
+- [kenmoore/Sketch-Arrange-Artboards](https://github.com/kenmoore/sketch-arrange-artboards) Lays out all your artboards in a single row with 100px between each.
 - [kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
 - [kenmoore/Sketch-Relabel-Button](https://github.com/kenmoore/sketch-relabel-button) Update a button's label and it gets resized automatically, preserving existing padding.
 - [kenmoore/Sketch-Text-To-Specs](https://github.com/kenmoore/sketch-text-to-specs) Quickly turn a text layer into a styled annotation, grouped with a background card.
