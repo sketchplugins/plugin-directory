@@ -117,6 +117,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sebj/Invert-Background-Color](https://github.com/sebj/invert-background-color) Invert a layer's background color in Sketch.
 - [sebj/Remove-Fills-and-Borders](https://github.com/sebj/remove-fills-and-borders) Remove a layer's fills and borders in Sketch.
 - [sebj/Rename-Layers](https://github.com/sebj/rename-layers) Rename multiple layers at once in Sketch.
+- [sebj/Setup-Iconset-Artboards](https://github.com/sebj/Setup-Iconset-Artboards/) Creates artboards and export options necessary to export a .iconset in Sketch.
 - [shahruz/Send-to-Slack](https://github.com/shahruz/send-to-slack) A plugin for Sketch.app to share artboards to Slack.
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/sketch.app-vertical-fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
