@@ -675,14 +675,19 @@
         "name": "Sketch-Comments"
     },
     {
-        "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
+        "description": "Lays out all your artboards in a single row with 100px between each.",
         "owner": "kenmoore",
-        "name": "Sketch-Relabel-Button"
+        "name": "Sketch-Arrange-Artboards"
     },
     {
         "description": "Paste like it was meant to be--into the artboard you're viewing.",
         "owner": "kenmoore",
         "name": "Sketch-Better-Paste"
+    },
+    {
+        "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
+        "owner": "kenmoore",
+        "name": "Sketch-Relabel-Button"
     },
     {
         "description": "Quickly turn a text layer into a styled annotation, grouped with a background card.",
