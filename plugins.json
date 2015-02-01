@@ -30,6 +30,11 @@
         "owner": "sebj"
     },
     {
+        "description": "Selects all layers of the same name in Sketch.",
+        "name": "Select-By-Name",
+        "owner": "sebj"
+    },
+    {
         "description": "Creates artboards and export options necessary to export a .iconset in Sketch.",
         "name": "Setup-Iconset-Artboards",
         "owner": "sebj"
