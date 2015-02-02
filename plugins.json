@@ -738,5 +738,25 @@
         "description": "Unlock locked layers, make changes, then lock again straight from your artboards.",
         "owner": "ribot",
         "name": "sketch-toggle-locked-layers"
+    },
+    {
+        "description": "Sketch plugin to generate ios view code.",
+        "owner": "Charimon",
+        "name": "iosViews"
+    },
+    {
+        "description": "Style Tiles adapted.",
+        "owner": "ebinion",
+        "name": "style-tiles-for-sketch"
+    },
+    {
+        "description": "one icon one day made by Sketch3.",
+        "owner": "turingou",
+        "name": "dailyicons"
+    },
+    {
+        "description": "A pre-built Sketch3 file for quickly exporting assets for iOS launch screens (iPhone 4, iPhone 5, iPhone 6, iPhone 6 Plus, iPad, iPad 2, iPad Mini).",
+        "owner": "budelman",
+        "name": "ios-launch-screen-template-for-sketch"
     }
 ]
