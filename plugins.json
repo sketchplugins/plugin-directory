@@ -733,5 +733,10 @@
         "description": "Move Next / Previous artboard into view, preserving vertical offset and zooming to width.",
         "owner": "kenmoore",
         "name": "Sketch-Artboard"
+    },
+    {
+        "description": "Unlock locked layers, make changes, then lock again straight from your artboards.",
+        "owner": "ribot",
+        "name": "sketch-toggle-locked-layers"
     }
 ]
