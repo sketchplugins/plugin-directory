@@ -381,7 +381,7 @@
     },
     {
         "description": "Sketch.app plugin for generating an Apple Icon Image ( .icns )",
-        "owner": "NathanRutzky",
+        "owner": "ByNathan",
         "name": "Generate-ICNS"
     },
     {
@@ -426,17 +426,17 @@
     },
     {
         "description": "Sketch.app plugin for swapping fill and border colors.",
-        "owner": "NathanRutzky",
+        "owner": "ByNathan",
         "name": "Swap-Fill-Border"
     },
     {
         "description": "Sketch.app plugin for clearing all layer style properties.",
-        "owner": "NathanRutzky",
+        "owner": "ByNathan",
         "name": "Clear-Styles"
     },
     {
         "description": "Sync local Sketch.app plugins with their master version at GitHub.",
-        "owner": "NathanRutzky",
+        "owner": "ByNathan",
         "name": "Sync-Plugins"
     },
     {
@@ -446,7 +446,7 @@
     },
     {
         "description": "Plugin for generating animated GIFs from a sequence of artboards.",
-        "owner": "NathanRutzky",
+        "owner": "ByNathan",
         "name": "Generate-GIF"
     },
     {
