@@ -375,11 +375,6 @@
         "name": "SketchSplitDivide"
     },
     {
-        "description": "Julius's plugins <http://twitter.com/tarngerine>.",
-        "owner": "tarngerine",
-        "name": "sketch-plugins"
-    },
-    {
         "description": "Sketch.app plugin for generating an Apple Icon Image ( .icns )",
         "owner": "ByNathan",
         "name": "Generate-ICNS"
@@ -743,5 +738,10 @@
         "description": "Distribute selection objects vertically or horizontally with a given spacing between them.",
         "name": "SketchDistributor",
         "owner": "PEZ"
+    },
+    {
+        "description": "Official export plugin for Facebook's Origami for Quartz Composer.",
+        "name": "sketch-origami-export",
+        "owner": "tarngerine"
     }
 ]
