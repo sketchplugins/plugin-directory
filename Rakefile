@@ -1,6 +1,8 @@
 require 'json'
 
-plugins = JSON.parse(IO.read('plugins.json'))
+data = IO.read('plugins.json')
+data.force_encoding('utf-8')
+plugins = JSON.parse(data)
 
 desc "Clones all repositories to the 'clones' folder"
 task :clone do

@@ -15,6 +15,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AntonStrand/Sketch-Resize](https://github.com/antonstrand/sketch-resize) Use one layer or the artboard as a template to resize other layers.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
 - [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers.
+- [bitinn/sketch-text-align](https://github.com/bitinn/sketch-text-align) Properly align text layers regardless of their rectangle box in Sketch.
 - [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature.
 - [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.

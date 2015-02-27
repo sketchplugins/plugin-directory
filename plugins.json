@@ -743,5 +743,10 @@
         "description": "Official export plugin for Facebook's Origami for Quartz Composer.",
         "name": "sketch-origami-export",
         "owner": "tarngerine"
+    },
+    {
+        "description": "Properly align text layers regardless of their rectangle box in Sketch.",
+        "name": "sketch-text-align",
+        "owner": "bitinn"
     }
 ]
