@@ -748,5 +748,10 @@
         "description": "Properly align text layers regardless of their rectangle box in Sketch.",
         "name": "sketch-text-align",
         "owner": "bitinn"
+    },
+    {
+        "description": "A little plugin to force Sketch Mirror to refresh the whole screen, for those situations when Mirror gets a little bit lazy and refuses to update the last actions.",
+        "name": "sketch-mirror-refresh",
+        "owner": "hugocornejo"
     }
 ]
