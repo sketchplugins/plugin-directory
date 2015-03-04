@@ -753,5 +753,10 @@
         "description": "A little plugin to force Sketch Mirror to refresh the whole screen, for those situations when Mirror gets a little bit lazy and refuses to update the last actions.",
         "name": "sketch-mirror-refresh",
         "owner": "hugocornejo"
+    },
+    {
+        "description": "Create Color and Font Swatches and Export to iOS, Android and Windows",
+        "name": "Color-Fonts-Code-Generator-iOS-Android-Windows",
+        "owner": "vibrazy"
     }
 ]
