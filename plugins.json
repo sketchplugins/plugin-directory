@@ -758,5 +758,10 @@
         "description": "Create Color and Font Swatches and Export to iOS, Android and Windows",
         "name": "Color-Fonts-Code-Generator-iOS-Android-Windows",
         "owner": "vibrazy"
+    },
+    {
+        "description": "Quickly set up your Sketch file and export screens for the iPhone 4, 5, 6 and 6 Plus for the App Store.",
+        "name": "AppStoreSketch",
+        "owner": "MengTo"
     }
 ]
