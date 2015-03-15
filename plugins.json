@@ -758,5 +758,10 @@
         "description": "Create Color and Font Swatches and Export to iOS, Android and Windows",
         "name": "Color-Fonts-Code-Generator-iOS-Android-Windows",
         "owner": "vibrazy"
+    },
+    {
+        "description": "This Sketch plugin helps you to create and apply shared styles and symbols.",
+        "name": "Consistency",
+        "owner": "getflourish"
     }
 ]
