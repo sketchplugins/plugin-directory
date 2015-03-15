@@ -46,6 +46,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard.
 - [GeertWille/sketch-export-assets](https://github.com/geertwille/sketch-export-assets) A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.
 - [GeertWille/sketch-to-xcode-assets-catalog](https://github.com/geertwille/sketch-to-xcode-assets-catalog) A Sketch plugin that allows to export assets for iOS directly from Sketch into Xcodes assets catalog.
+- [getflourish/Consistency](https://github.com/getflourish/consistency) This Sketch plugin helps you to create and apply shared styles and symbols.
 - [getflourish/Copy-and-Paste-for-Framer](https://github.com/getflourish/copy-and-paste-for-framer) Copy & paste boilerplate code from a Sketch layer to FramerJS.
 - [getflourish/Sketch-Color-Contrast-Analyser](https://github.com/getflourish/sketch-color-contrast-analyser) A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0.
 - [getflourish/Sketch-Export-Text-Styles](https://github.com/getflourish/sketch-export-text-styles) Export all your Sketch text styles as CSS (proof of concept).
