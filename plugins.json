@@ -763,5 +763,11 @@
         "description": "This Sketch plugin helps you to create and apply shared styles and symbols.",
         "name": "Consistency",
         "owner": "getflourish"
+    },
+    {
+        "description": "Turn your artboards into storyboards.",
+        "name": "Storyboard",
+        "owner": "BriteSnow"
     }
+
 ]
