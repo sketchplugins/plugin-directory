@@ -766,7 +766,7 @@
     },
     {
         "description": "Turn your artboards into storyboards.",
-        "name": "Storyboard",
+        "name": "sketch-storyboard",
         "owner": "BriteSnow"
     }
 
