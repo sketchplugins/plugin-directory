@@ -21,6 +21,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch.
+- [BriteSnow/Sketch-Storyboard](https://github.com/BriteSnow/sketch-storyboard) Turn your artboards into storyboards.
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [buzzfeed/Sketch-Toolbox](https://github.com/buzzfeed/sketch-toolbox) A plugin manager for Sketch.app.
 - [ByNathan/Clear-Styles](https://github.com/bynathan/clear-styles) Sketch.app plugin for clearing all layer style properties.
