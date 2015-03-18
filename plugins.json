@@ -768,6 +768,11 @@
         "description": "Turn your artboards into storyboards.",
         "name": "sketch-storyboard",
         "owner": "BriteSnow"
+    },
+    {
+        "description": "Export your artboards to your Marvel prototypes.",
+        "name": "marvel-sketch",
+        "owner": "marvelapp"
     }
 
 ]
