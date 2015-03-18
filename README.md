@@ -158,3 +158,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate.
 - [zeplin/zeplin-sketch-plugin](https://github.com/zeplin/zeplin-sketch-plugin) Zeplin Sketch plugin <https://zeplin.io>.
 - [zmalltalker/sketch-android-assets](https://github.com/zmalltalker/sketch-android-assets) Generate Android assets in Sketch.
+- [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
