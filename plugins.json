@@ -773,6 +773,10 @@
         "description": "Export your artboards to your Marvel prototypes.",
         "name": "marvel-sketch",
         "owner": "marvelapp"
+    },
+    {
+        "description": "Nudge ↓ ← ↑ → by a customizable number of pixels",
+        "name": "gb-sketch-nudge",
+        "owner": "design4use"
     }
-
 ]
