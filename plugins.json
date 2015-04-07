@@ -783,5 +783,10 @@
         "description": "Nudge ↓ ← ↑ → by a customizable number of pixels",
         "name": "gb-sketch-nudge",
         "owner": "design4use"
+    },
+    {
+        "description": "This plugin makes it easy to create different breakpoints during a responsive web design.",
+        "name": "pointgrid",
+        "owner": "47deg"
     }
 ]
