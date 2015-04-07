@@ -1,5 +1,10 @@
 [
     {
+        "description": "Quickly select and share work in progress with your team via WorkingOn <http://workingon.co>.",
+        "name": "SketchingOn",
+        "owner": "WorkingOn"
+    },
+    {
         "description": "A tool to save and switch states for quick demo purpose in sketch.",
         "name": "sketch-states-switch",
         "owner": "wentin"
