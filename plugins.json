@@ -788,5 +788,10 @@
         "description": "This plugin makes it easy to create different breakpoints during a responsive web design.",
         "name": "pointgrid",
         "owner": "47deg"
+    },
+    {
+        "description": "Sketch.app plugins for arranging artboards and navigating between artboards.",
+        "name": "Artboard-Tools",
+        "owner": "frankko"
     }
 ]

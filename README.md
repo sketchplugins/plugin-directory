@@ -46,6 +46,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Falkeyn/Modulizer](https://github.com/falkeyn/modulizer) Sketch.app plugin for auto-padding.
 - [florianpnn/sketch-data-parser](https://github.com/florianpnn/sketch-data-parser) A sketch plugin to parse your data and populate your design.
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
+- [frankko/Artboard-Tools](https://github.com/frankko/artboard-tools) Sketch.app plugins for arranging artboards and navigating between artboards.
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard.
 - [GeertWille/sketch-export-assets](https://github.com/geertwille/sketch-export-assets) A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.
 - [GeertWille/sketch-to-xcode-assets-catalog](https://github.com/geertwille/sketch-to-xcode-assets-catalog) A Sketch plugin that allows to export assets for iOS directly from Sketch into Xcodes assets catalog.
