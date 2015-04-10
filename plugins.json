@@ -793,5 +793,10 @@
         "description": "Sketch.app plugins for arranging artboards and navigating between artboards.",
         "name": "Artboard-Tools",
         "owner": "frankko"
+    },
+    {
+        "description": "Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.",
+        "name": "Sketch-Unlinker",
+        "owner": "eivindbohler"
     }
 ]
