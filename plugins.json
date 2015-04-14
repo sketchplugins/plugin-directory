@@ -1,5 +1,10 @@
 [
     {
+        "description": "A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.",
+        "name": "iOS-Bar-Color-Calculator",
+        "owner": "einancunlu"
+    },
+    {
         "description": "Quickly select and share work in progress with your team via WorkingOn <http://workingon.co>.",
         "name": "SketchingOn",
         "owner": "WorkingOn"
