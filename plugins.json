@@ -803,5 +803,10 @@
         "description": "Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.",
         "name": "Sketch-Unlinker",
         "owner": "eivindbohler"
+    },
+    {
+        "description": "Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.",
+        "name": "sketch-mail-merge",
+        "owner": "kumo"
     }
 ]
