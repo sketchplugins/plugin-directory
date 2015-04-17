@@ -85,6 +85,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kodlian/IconSlate-sketchplugin](https://github.com/kodlian/iconslate-sketchplugin) Export icons (icns,ico,...) from Sketch using Icon Slate.
 - [KrevedAccky/SketchSplitDivide](https://github.com/krevedaccky/sketchsplitdivide) Split and Divide plugins for Sketch3 app.
 - [kristof/sketch-i18n](https://github.com/kristof/sketch-i18n) Easily translate pages in Sketch.
+- [kumo/sketch-mail-merge](https://github.com/kumo/sketch-mail-merge) Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
 - [kumo/Sketch-Plugin-Scripts](https://github.com/kumo/sketch-plugin-scripts) Some scripts to randomly distribute and rotate objects.
 - [LigCreative/sketch-bluth-ipsum](https://github.com/ligcreative/sketch-bluth-ipsum) Sketch App plugin for creating dummy 'Bluth' content <http://ligcreative.github.io/sketch-bluth-ipsum/>.
 - [littlebusters/Regexp-Rename](https://github.com/littlebusters/regexp-rename) You can change the layer name by Regexp in Sketch 3.
