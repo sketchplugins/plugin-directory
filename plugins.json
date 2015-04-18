@@ -808,5 +808,10 @@
         "description": "Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.",
         "name": "sketch-mail-merge",
         "owner": "kumo"
+    },
+    {
+        "description": "The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.",
+        "name": "easyshare.sketchplugin",
+        "owner": "ed-lea"
     }
 ]
