@@ -813,5 +813,10 @@
         "description": "The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.",
         "name": "easyshare.sketchplugin",
         "owner": "ed-lea"
+    },
+    {
+        "description": "Generate user walkthroughs from Artboards in Sketch.",
+        "name": "userflows",
+        "owner": "abynim"
     }
 ]
