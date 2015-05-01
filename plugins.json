@@ -818,5 +818,10 @@
         "description": "Generate user walkthroughs from Artboards in Sketch.",
         "name": "userflows",
         "owner": "abynim"
+    },
+    {
+        "description": "Quickly populate mockups with fake user data",
+        "name": "Sketch-Personas",
+        "owner": "nolastan"
     }
 ]
