@@ -823,5 +823,10 @@
         "description": "Quickly populate mockups with fake user data",
         "name": "Sketch-Personas",
         "owner": "nolastan"
+    },
+    {
+        "description": "An always-expanding collection of simple, focused plugins for Sketch.",
+        "name": "UtilityBelt",
+        "owner": "frankko"
     }
 ]
