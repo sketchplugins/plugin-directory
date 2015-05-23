@@ -829,4 +829,14 @@
         "name": "UtilityBelt",
         "owner": "frankko"
     }
+    {
+        "description": "A simple plugin to to toggle visibility of a specified 'layerName'.",
+        "owner": "preciousforever",
+        "name": "sketch-toggle-layer-visibility"
+    }
+    {
+        "description": "Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.",
+        "owner": "preciousforever",
+        "name": "sketch-data-populator"
+    }
 ]
