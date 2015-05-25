@@ -116,11 +116,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/sketch-better-android-export) A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [nickstamas/Sketch-Quick-Pic](https://github.com/nickstamas/sketch-quick-pic) Quickly fill a layer with an image from Flickr based on tags.
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
-- [nolastan/Sketch-Personas](https://github.com/nolastan/Sketch-Personas) Quickly populate mockups with fake user data
+- [nolastan/Sketch-Personas](https://github.com/nolastan/sketch-personas) Quickly populate mockups with fake user data
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch.
 - [PEZ/SketchDistributor](https://github.com/pez/sketchdistributor) Distribute selection objects vertically or horizontally with a given spacing between them.
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice.
 - [poyi/Copy-Fill-Color](https://github.com/poyi/copy-fill-color) A Plugin that provides a shortcut for copying a layer's fill color to clipboard.
+- [preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.
+- [preciousforever/sketch-toggle-layer-visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility) A simple plugin to to toggle visibility of a specified 'layerName'.
 - [Raureif/sketch-click-dummy](https://github.com/raureif/sketch-click-dummy) Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
 - [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum) This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
 - [ribot/sketch-page-helpers](https://github.com/ribot/sketch-page-helpers) This plugin includes a few simple actions to make managing pages easier in Sketch.
