@@ -838,5 +838,10 @@
         "description": "Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.",
         "owner": "preciousforever",
         "name": "sketch-data-populator"
+    },
+    {
+        "description": "A Sketch plugin for playing with seamless tiles",
+        "name": "sketch-tiles",
+        "owner": "kumo"
     }
 ]

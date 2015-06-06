@@ -90,6 +90,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kristof/sketch-i18n](https://github.com/kristof/sketch-i18n) Easily translate pages in Sketch.
 - [kumo/sketch-mail-merge](https://github.com/kumo/sketch-mail-merge) Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
 - [kumo/Sketch-Plugin-Scripts](https://github.com/kumo/sketch-plugin-scripts) Some scripts to randomly distribute and rotate objects.
+- [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) A Sketch plugin for playing with seamless tiles
 - [LigCreative/sketch-bluth-ipsum](https://github.com/ligcreative/sketch-bluth-ipsum) Sketch App plugin for creating dummy 'Bluth' content <http://ligcreative.github.io/sketch-bluth-ipsum/>.
 - [littlebusters/Regexp-Rename](https://github.com/littlebusters/regexp-rename) You can change the layer name by Regexp in Sketch 3.
 - [littlebusters/Sketch-CSS-Sprite-Mixin](https://github.com/littlebusters/sketch-css-sprite-mixin) Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
