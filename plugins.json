@@ -843,5 +843,10 @@
         "description": "A Sketch plugin for playing with seamless tiles",
         "name": "sketch-tiles",
         "owner": "kumo"
+    },
+    {
+        "description": "Sketch plugin for swaping styles between two layers",
+        "name": "swap-styles",
+        "owner": "ozzik"
     }
 ]
