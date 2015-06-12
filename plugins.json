@@ -848,5 +848,10 @@
         "description": "Sketch plugin for swaping styles between two layers",
         "name": "swap-styles",
         "owner": "ozzik"
+    },
+    {
+        "description": "Sketch plugin to swap positions of two elements",
+        "name": "swap-elements",
+        "owner": "interacthings"
     }
 ]
