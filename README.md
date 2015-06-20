@@ -26,11 +26,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [BriteSnow/sketch-storyboard](https://github.com/britesnow/sketch-storyboard) Turn your artboards into storyboards.
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [buzzfeed/Sketch-Toolbox](https://github.com/buzzfeed/sketch-toolbox) A plugin manager for Sketch.app.
-- [ByNathan/Clear-Styles](https://github.com/bynathan/clear-styles) Sketch.app plugin for clearing all layer style properties.
-- [ByNathan/Generate-GIF](https://github.com/bynathan/generate-gif) Plugin for generating animated GIFs from a sequence of artboards.
-- [ByNathan/Generate-ICNS](https://github.com/bynathan/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
-- [ByNathan/Swap-Fill-Border](https://github.com/bynathan/swap-fill-border) Sketch.app plugin for swapping fill and border colors.
-- [ByNathan/Sync-Plugins](https://github.com/bynathan/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub.
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke.
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) Sketch plugins by Cemre Güngör.
 - [clusterinc/SketchToAppStore](https://github.com/clusterinc/sketchtoappstore) Generate App Store images for all iPhone sizes from Sketch.
@@ -115,6 +110,11 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin.
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/my-sketch-plugins) An amazing resource to get you started with Sketch plugins development.
 - [nadavsavio/sketch-plugins](https://github.com/nadavsavio/sketch-plugins) "Plugins for Sketch app from Bohemian Coding". Includes two interesting commands to navigate to Next and Previous artboards.
+- [nathco/Clear-Styles](https://github.com/nathco/clear-styles) Sketch.app plugin for clearing all layer style properties.
+- [nathco/Generate-GIF](https://github.com/nathco/generate-gif) Plugin for generating animated GIFs from a sequence of artboards.
+- [nathco/Generate-ICNS](https://github.com/nathco/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
+- [nathco/Swap-Fill-Border](https://github.com/nathco/swap-fill-border) Sketch.app plugin for swapping fill and border colors.
+- [nathco/Sync-Plugins](https://github.com/nathco/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub.
 - [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/sketch-better-android-export) A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [nickstamas/Sketch-Quick-Pic](https://github.com/nickstamas/sketch-quick-pic) Quickly fill a layer with an image from Flickr based on tags.
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
