@@ -853,5 +853,10 @@
         "description": "Sketch plugin to swap positions of two elements",
         "name": "swap-elements",
         "owner": "interacthings"
+    },
+    {
+        "description": "A plugin for automatically generating charts and dummy data in Sketch",
+        "name": "sketchfindatagen",
+        "owner": "thetylerwolf"
     }
 ]
