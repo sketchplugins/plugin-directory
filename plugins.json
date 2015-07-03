@@ -863,5 +863,10 @@
         "description": "A plugin for Sketch to create long shadows from a shape",
         "name": "Sketch-Make-Long-Shadow",
         "owner": "JayHoltslander"
+    },
+    {
+        "description": "The fastest way to share your Sketch artboards.",
+        "name": "draft-for-sketch",
+        "owner": "kristof"
     }
 ]

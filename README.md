@@ -84,6 +84,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kenmoore/Sketch-Text-to-Specs](https://github.com/kenmoore/sketch-text-to-specs) Quickly turn a text layer into a styled annotation, grouped with a background card.
 - [kodlian/IconSlate-sketchplugin](https://github.com/kodlian/iconslate-sketchplugin) Export icons (icns,ico,...) from Sketch using Icon Slate.
 - [KrevedAccky/SketchSplitDivide](https://github.com/krevedaccky/sketchsplitdivide) Split and Divide plugins for Sketch3 app.
+- [kristof/draft-for-sketch](https://github.com/kristof/draft-for-sketch) The fastest way to share your Sketch artboards.
 - [kristof/sketch-i18n](https://github.com/kristof/sketch-i18n) Easily translate pages in Sketch.
 - [kumo/sketch-mail-merge](https://github.com/kumo/sketch-mail-merge) Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
 - [kumo/Sketch-Plugin-Scripts](https://github.com/kumo/sketch-plugin-scripts) Some scripts to randomly distribute and rotate objects.
