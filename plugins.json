@@ -1,5 +1,9 @@
 [
     {
+        "description": "Automatically generate charts and data tables with real numbers in Sketch. Import directly from CSV files.",
+        "name": "Sketch-data-studio",
+        "owner": "thetylerwolf"
+    },{
         "description": "A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.",
         "name": "Sketch-iOS-Bar-Color-Calculator",
         "owner": "einancunlu"
