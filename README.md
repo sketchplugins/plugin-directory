@@ -159,6 +159,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [todoriliev/generate-android-assets](https://github.com/todoriliev/generate-android-assets) Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets.
 - [trisix/ITSSketchPlugins](https://github.com/trisix/itssketchplugins) Some home-brewed Sketch App Plugins.
 - [trisweb/sketchplugins](https://github.com/trisweb/sketchplugins) Tristan's Plugins for Bohemian Coding's Sketch.app
+- [tudou527/marketch](https://github.com/tudou527/marketch) Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.
 - [turbobabr/Duplicator](https://github.com/turbobabr/duplicator) A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
 - [turbobabr/sketch-qrcode](https://github.com/turbobabr/sketch-qrcode) QR Code generator plugin for Sketch App.
 - [tylergaw/day-player](https://github.com/tylergaw/day-player) A collection of Sketch Plugins for creating placeholder images.

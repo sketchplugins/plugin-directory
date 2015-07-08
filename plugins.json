@@ -868,5 +868,10 @@
         "description": "The fastest way to share your Sketch artboards.",
         "name": "draft-for-sketch",
         "owner": "kristof"
+    },
+    {
+        "description": "Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.",
+        "name": "marketch",
+        "owner": "tudou527"
     }
 ]
