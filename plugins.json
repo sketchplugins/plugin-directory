@@ -75,7 +75,7 @@
         "owner": "groove25"
     },
     {
-        "description": "This Sketch plugin provides a preview command (\u2318P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
+        "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
         "name": "sketch-preview",
         "owner": "marcisme"
     },
@@ -185,7 +185,7 @@
         "owner": "trisweb"
     },
     {
-        "description": "A collection of JSTalk methods for Bohemian Coding\u2019s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.",
+        "description": "A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.",
         "name": "jstalk-sketch-library",
         "owner": "uhunkler"
     },
@@ -235,7 +235,7 @@
         "owner": "bomberstudios"
     },
     {
-        "description": "This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut \u21e7\u2318U.",
+        "description": "This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U.",
         "name": "sketch-upload",
         "owner": "jelias"
     },
@@ -873,5 +873,25 @@
         "description": "Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.",
         "name": "marketch",
         "owner": "tudou527"
+    },
+    {
+        "description": "Quickly insert charts into Sketch",
+        "name": "charts.sketchplugin",
+        "owner": "nolastan"
+    },
+    {
+        "description": "Sketch 3 plugin to quickly switch between artboards",
+        "name": "SwitchArtboard.sketchplugin",
+        "owner": "tokuda109"
+    },
+    {
+        "description": "Export icons (icns,ico,...) from Sketch using Icon Slate",
+        "name": "IconSlate-sketchplugin",
+        "owner": "kodlian"
+    },
+    {
+        "description": "Paste like it was meant to be--into the artboard you're viewing.",
+        "name": "sketch-better-paste",
+        "owner": "kenmoore"
     }
 ]
