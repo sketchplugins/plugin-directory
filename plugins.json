@@ -859,11 +859,6 @@
         "owner": "interacthings"
     },
     {
-        "description": "A plugin for automatically generating charts and dummy data in Sketch",
-        "name": "sketchfindatagen",
-        "owner": "thetylerwolf"
-    },
-    {
         "description": "A plugin for Sketch to create long shadows from a shape",
         "name": "Sketch-Make-Long-Shadow",
         "owner": "JayHoltslander"
