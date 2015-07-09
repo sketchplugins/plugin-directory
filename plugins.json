@@ -100,11 +100,6 @@
         "owner": "bomberstudios"
     },
     {
-        "description": "An *amazing* implementation of a symbols library for Sketch.",
-        "name": "sketch-plugins",
-        "owner": "tisho"
-    },
-    {
         "description": "Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.",
         "name": "jw-sketch-plugins",
         "owner": "joshwayne"
