@@ -730,11 +730,6 @@
         "name": "Sketch-Mate"
     },
     {
-        "description": "Export icons (icns,ico,...) from Sketch using Icon Slate.",
-        "owner": "kodlian",
-        "name": "IconSlate-sketchplugin"
-    },
-    {
         "description": "Move Next / Previous artboard into view, preserving vertical offset and zooming to width.",
         "owner": "kenmoore",
         "name": "Sketch-Artboard"
@@ -890,8 +885,8 @@
         "owner": "kodlian"
     },
     {
-        "description": "Paste like it was meant to be--into the artboard you're viewing.",
-        "name": "sketch-better-paste",
-        "owner": "kenmoore"
+        "description": "Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes",
+        "name": "Sketch-Flex-Layout",
+        "owner": "hrescak"
     }
 ]
