@@ -62,6 +62,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [getflourish/Sketch-Style-Inventory](https://github.com/getflourish/sketch-style-inventory) Generate a visual style sheet with all colors and text styles that you are using in Sketch.
 - [graphical-iain/Copy-SCSS-Colors](https://github.com/graphical-iain/copy-scss-colors) Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
+- [hrescak/Sketch-Flex-Layout](https://github.com/hrescak/sketch-flex-layout) Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
 - [hrescak/sketchPlugins](https://github.com/hrescak/sketchplugins) A box for random sketch plugins: **Toggle Specs** (cmd+L) toggles visibility of all of the layer groups in your document named "specs". Other than specs this could be useful with hidden guides.
 - [hugocornejo/sketch-mirror-refresh](https://github.com/hugocornejo/sketch-mirror-refresh) A little plugin to force Sketch Mirror to refresh the whole screen, for those situations when Mirror gets a little bit lazy and refuses to update the last actions.
 - [ichord/sketch-divine-proportions](https://github.com/ichord/sketch-divine-proportions) A plugin for Sketch to generate divine proportions automatically.
@@ -79,11 +80,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
 - [kenmoore/Sketch-Arrange-Artboards](https://github.com/kenmoore/sketch-arrange-artboards) Lay out all your artboards in a grid with user-specified number of rows.
 - [kenmoore/Sketch-Artboard](https://github.com/kenmoore/sketch-artboard) Move Next / Previous artboard into view, preserving vertical offset and zooming to width.
-- [kenmoore/sketch-better-paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
+- [kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
 - [kenmoore/Sketch-Relabel-Button](https://github.com/kenmoore/sketch-relabel-button) Update a button's label and it gets resized automatically, preserving existing padding.
 - [kenmoore/Sketch-Text-to-Specs](https://github.com/kenmoore/sketch-text-to-specs) Quickly turn a text layer into a styled annotation, grouped with a background card.
 - [kodlian/IconSlate-sketchplugin](https://github.com/kodlian/iconslate-sketchplugin) Export icons (icns,ico,...) from Sketch using Icon Slate
-- [kodlian/IconSlate-sketchplugin](https://github.com/kodlian/iconslate-sketchplugin) Export icons (icns,ico,...) from Sketch using Icon Slate.
 - [KrevedAccky/SketchSplitDivide](https://github.com/krevedaccky/sketchsplitdivide) Split and Divide plugins for Sketch3 app.
 - [kristof/draft-for-sketch](https://github.com/kristof/draft-for-sketch) The fastest way to share your Sketch artboards.
 - [kristof/sketch-i18n](https://github.com/kristof/sketch-i18n) Easily translate pages in Sketch.
