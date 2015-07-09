@@ -155,7 +155,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [tadija/AEFlowchart](https://github.com/tadija/aeflowchart) This plugin makes it fast and easy to draw flowcharts in Sketch.
 - [tadija/AEIconizer](https://github.com/tadija/aeiconizer) A Sketch plugin that automatically resizes artwork for iOS app icon.
 - [tarngerine/sketch-origami-export](https://github.com/tarngerine/sketch-origami-export) Official export plugin for Facebook's Origami for Quartz Composer.
-- [thetylerwolf/sketchfindatagen](https://github.com/thetylerwolf/sketchfindatagen) A plugin for automatically generating charts and dummy data in Sketch
+- [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) Automatically generate charts and data tables with real numbers in Sketch. Import directly from CSV files.
 - [timuric/Content-generator-sketch-plugin](https://github.com/timuric/content-generator-sketch-plugin) Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
 - [todoriliev/generate-android-assets](https://github.com/todoriliev/generate-android-assets) Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets.
 - [tokuda109/SwitchArtboard.sketchplugin](https://github.com/tokuda109/switchartboard.sketchplugin) Sketch 3 plugin to quickly switch between artboards
