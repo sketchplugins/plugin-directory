@@ -943,5 +943,45 @@
         "description": "A Sketch plugin to magically convert regular circle layers into pie charts!",
         "name": "sketchy-pies",
         "owner": "abynim"
+    },
+    {
+        "description": "A simple Sketch plugin to trim artboards",
+        "name": "TrimArtboard",
+        "owner": "nerthase"
+    },
+    {
+        "description": "Artwork fetcher plugin for Sketch",
+        "name": "sketch-artwork-fetcher",
+        "owner": "mmth"
+    },
+    {
+        "description": "Another guide remover plugin for Sketch",
+        "name": "sketch-guides-remover",
+        "owner": "bbsody"
+    },
+    {
+        "description": "Typograph — Sketch plugin and js-library",
+        "name": "Typograph",
+        "owner": "dezonik"
+    },
+    {
+        "description": "Sketch plugin to make paths be snapped to grid.",
+        "name": "Sketch-StickyGrid",
+        "owner": "uetchy"
+    },
+    {
+        "description": "Sketch plugin for easily populating a bunch of text layers from a source.",
+        "name": "sketchtextsourcer",
+        "owner": "hamidp"
+    },
+    {
+        "description": "Sketch Plugin to draw flowchart and diagram",
+        "name": "flowmate",
+        "owner": "wodory"
+    },
+    {
+        "description": "This plugin makes it easy to to fill layers in Sketch with devices.",
+        "name": "sketch-device-collection",
+        "owner": "paulfarino"
     }
 ]
