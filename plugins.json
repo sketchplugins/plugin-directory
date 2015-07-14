@@ -883,5 +883,65 @@
         "description": "Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes",
         "name": "Sketch-Flex-Layout",
         "owner": "hrescak"
+    },
+    {
+        "description": "Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles ",
+        "name": "Sketch-Flowchart",
+        "owner": "alienresident"
+    },
+    {
+        "description": "A Sketch plugin for resizing artboards to fit their content.",
+        "name": "resize_artboard",
+        "owner": "zhifengkoh"
+    },
+    {
+        "description": "Generate numbers that are: CTR, clicks, costs, impr.",
+        "name": "Sketch-Plugin---NumGen",
+        "owner": "auxdesigner"
+    },
+    {
+        "description": "Sketch app plugin to select all slices in current page",
+        "name": "select_all_slices",
+        "owner": "chibatching"
+    },
+    {
+        "description": "Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.",
+        "name": "Sketch3-ColorSwitch",
+        "owner": "lmwebdesign"
+    },
+    {
+        "description": "A Sketch Plugin to export image assets directly to Xcode",
+        "name": "Xport",
+        "owner": "abynim"
+    },
+    {
+        "description": "A collection of Sketch plugins",
+        "name": "ZEN-Sketch",
+        "owner": "FrancisVega"
+    },
+    {
+        "description": "Set of plugins for manipulating layer names in Sketch",
+        "name": "Sketch-Layer-Name-Tools",
+        "owner": "hrescak"
+    },
+    {
+        "description": "Align text layer vertically based on its baseline and cap height",
+        "name": "Align-text-baseline-sketch-plugin",
+        "owner": "soutaro"
+    },
+    {
+        "description": "a box for random sketch plugins",
+        "name": "MatejSketchPlugins",
+        "owner": "hrescak"
+    },
+    {
+        "description": "An expiriemental plugin for Sketch ",
+        "name": "Archetype",
+        "owner": "matt-curtis"
+    },
+    {
+        "description": "A Sketch plugin to magically convert regular circle layers into pie charts!",
+        "name": "sketchy-pies",
+        "owner": "abynim"
     }
 ]
