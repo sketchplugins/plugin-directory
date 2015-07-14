@@ -21,6 +21,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
 - [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers.
 - [auxdesigner/Sketch-Plugin---NumGen](https://github.com/auxdesigner/sketch-plugin---numgen) Generate numbers that are: CTR, clicks, costs, impr.
+- [bbsody/sketch-guides-remover](https://github.com/bbsody/sketch-guides-remover) Another guide remover plugin for Sketch
 - [bitinn/sketch-text-align](https://github.com/bitinn/sketch-text-align) Properly align text layers regardless of their rectangle box in Sketch.
 - [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature.
@@ -40,6 +41,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [delighted/sketch-upload-to-cloudapp](https://github.com/delighted/sketch-upload-to-cloudapp) Upload to CloudApp: Upload the current artboard or page to CloudApp.
 - [design4use/gb-sketch-nudge](https://github.com/design4use/gb-sketch-nudge) Nudge ↓ ← ↑ → by a customizable number of pixels
+- [dezonik/Typograph](https://github.com/dezonik/typograph) Typograph — Sketch plugin and js-library
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
 - [ed-lea/easyshare.sketchplugin](https://github.com/ed-lea/easyshare.sketchplugin) The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
@@ -68,6 +70,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [getflourish/Sketch-Style-Inventory](https://github.com/getflourish/sketch-style-inventory) Generate a visual style sheet with all colors and text styles that you are using in Sketch.
 - [graphical-iain/Copy-SCSS-Colors](https://github.com/graphical-iain/copy-scss-colors) Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
+- [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) Sketch plugin for easily populating a bunch of text layers from a source.
 - [hrescak/MatejSketchPlugins](https://github.com/hrescak/matejsketchplugins) a box for random sketch plugins
 - [hrescak/Sketch-Flex-Layout](https://github.com/hrescak/sketch-flex-layout) Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
 - [hrescak/Sketch-Layer-Name-Tools](https://github.com/hrescak/sketch-layer-name-tools) Set of plugins for manipulating layer names in Sketch
@@ -121,6 +124,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [maundytime/sketch-9patch](https://github.com/maundytime/sketch-9patch) Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.
 - [mfouquet/Color-Copier](https://github.com/mfouquet/color-copier) Sketch Plugin to quickly copy color RGB/HEX values.
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin.
+- [mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) Artwork fetcher plugin for Sketch
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/my-sketch-plugins) An amazing resource to get you started with Sketch plugins development.
 - [nadavsavio/sketch-plugins](https://github.com/nadavsavio/sketch-plugins) "Plugins for Sketch app from Bohemian Coding". Includes two interesting commands to navigate to Next and Previous artboards.
 - [nathco/Clear-Styles](https://github.com/nathco/clear-styles) Sketch.app plugin for clearing all layer style properties.
@@ -128,12 +132,14 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [nathco/Generate-ICNS](https://github.com/nathco/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [nathco/Swap-Fill-Border](https://github.com/nathco/swap-fill-border) Sketch.app plugin for swapping fill and border colors.
 - [nathco/Sync-Plugins](https://github.com/nathco/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub.
+- [nerthase/TrimArtboard](https://github.com/nerthase/trimartboard) A simple Sketch plugin to trim artboards
 - [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/sketch-better-android-export) A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [nickstamas/Sketch-Quick-Pic](https://github.com/nickstamas/sketch-quick-pic) Quickly fill a layer with an image from Flickr based on tags.
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
 - [nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) Quickly insert charts into Sketch
 - [nolastan/Sketch-Personas](https://github.com/nolastan/sketch-personas) Quickly populate mockups with fake user data
 - [ozzik/swap-styles](https://github.com/ozzik/swap-styles) Sketch plugin for swaping styles between two layers
+- [paulfarino/sketch-device-collection](https://github.com/paulfarino/sketch-device-collection) This plugin makes it easy to to fill layers in Sketch with devices.
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch.
 - [PEZ/SketchDistributor](https://github.com/pez/sketchdistributor) Distribute selection objects vertically or horizontally with a given spacing between them.
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice.
@@ -179,6 +185,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [tylergaw/icon-stamper](https://github.com/tylergaw/icon-stamper) A Sketch Plugin for creating multiple sizes of iOS icons.
 - [tylergaw/sketch-generate-posts](https://github.com/tylergaw/sketch-generate-posts) A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
 - [tylergaw/skribbble](https://github.com/tylergaw/skribbble) Sketch plugins for getting shots and info from Dribbble.
+- [uetchy/Sketch-StickyGrid](https://github.com/uetchy/sketch-stickygrid) Sketch plugin to make paths be snapped to grid.
 - [uhunkler/jstalk-sketch-library](https://github.com/uhunkler/jstalk-sketch-library) A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.
 - [uhunkler/jstalk-sketch-recipes](https://github.com/uhunkler/jstalk-sketch-recipes) Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) A measure tool for Sketch.app (think Specctr for Sketch)
@@ -186,6 +193,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/weezards-sketch-plugins) Some useful plugins for Sketch 3.0.
 - [wentin/sketch-states-switch](https://github.com/wentin/sketch-states-switch) A tool to save and switch states for quick demo purpose in sketch.
+- [wodory/flowmate](https://github.com/wodory/flowmate) Sketch Plugin to draw flowchart and diagram
 - [wolanski/sketch-vertical-teleporter](https://github.com/wolanski/sketch-vertical-teleporter) Moves selected layers vertically according to the cursor position.
 - [WorkingOn/SketchingOn](https://github.com/workingon/sketchingon) Quickly select and share work in progress with your team via WorkingOn <http://workingon.co>.
 - [x-raizor/Efficiency](https://github.com/x-raizor/efficiency) Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
