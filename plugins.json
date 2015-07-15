@@ -983,5 +983,10 @@
         "description": "This plugin makes it easy to to fill layers in Sketch with devices.",
         "name": "sketch-device-collection",
         "owner": "paulfarino"
+    },
+    {
+        "description": "Export assets for iOS & Android",
+        "name": "Sketch-Asset-Export-iOS-and-Android",
+        "owner": "designedbyDC"
     }
 ]
