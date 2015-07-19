@@ -41,12 +41,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [delighted/sketch-upload-to-cloudapp](https://github.com/delighted/sketch-upload-to-cloudapp) Upload to CloudApp: Upload the current artboard or page to CloudApp.
 - [design4use/gb-sketch-nudge](https://github.com/design4use/gb-sketch-nudge) Nudge ↓ ← ↑ → by a customizable number of pixels
-- [designedbyDC/Sketch-Asset-Export-iOS-and-Android](https://github.com/designedbyDC/Sketch-Asset-Export-iOS-and-Android) Export Assets for iOS & Android
+- [designedbyDC/Sketch-Asset-Export-iOS-and-Android](https://github.com/designedbydc/sketch-asset-export-ios-and-android) Export assets for iOS & Android
 - [dezonik/Typograph](https://github.com/dezonik/typograph) Typograph — Sketch plugin and js-library
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
 - [ed-lea/easyshare.sketchplugin](https://github.com/ed-lea/easyshare.sketchplugin) The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [einancunlu/Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator) A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
+- [einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/sketch-state-switch-master) Define different states and switch between them like a boss.
 - [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/sketch-unlinker) Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.
 - [elihorne/smartboards](https://github.com/elihorne/smartboards) Smartboards is a collection of plugins that make my life easier in Sketch.
 - [eric-adstage/Sketch_RotateLine](https://github.com/eric-adstage/sketch_rotateline) More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.
