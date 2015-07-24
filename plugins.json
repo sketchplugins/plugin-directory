@@ -4,7 +4,7 @@
         "name": "Sketch-State-Switch-Master",
         "owner": "einancunlu"
     },
-	{
+    {
         "description": "Automatically generate charts and data tables with real numbers in Sketch. Import directly from CSV files.",
         "name": "sketch-data-studio",
         "owner": "thetylerwolf"
@@ -993,5 +993,10 @@
         "description": "Export assets for iOS & Android",
         "name": "Sketch-Asset-Export-iOS-and-Android",
         "owner": "designedbyDC"
+    },
+    {
+        "description": "Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons",
+        "name": "Dynamic-Button-Symbol-Detacher",
+        "owner": "mendyismyname"
     }
 ]
