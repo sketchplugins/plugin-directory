@@ -1,5 +1,10 @@
 [
     {
+        "description": "Sync Sketch artboards to Prott like a boss.",
+        "name": "Prott-Sketch-Plugin",
+        "owner": "goodpatch"
+    },
+    {
         "description": "Define different states and switch between them like a boss.",
         "name": "Sketch-State-Switch-Master",
         "owner": "einancunlu"
