@@ -124,6 +124,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command.
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
 - [maundytime/sketch-9patch](https://github.com/maundytime/sketch-9patch) Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.
+- [mendyismyname/Dynamic-Button-Symbol-Detacher](https://github.com/mendyismyname/dynamic-button-symbol-detacher) Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons
 - [mfouquet/Color-Copier](https://github.com/mfouquet/color-copier) Sketch Plugin to quickly copy color RGB/HEX values.
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin.
 - [mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) Artwork fetcher plugin for Sketch
