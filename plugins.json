@@ -1003,5 +1003,10 @@
         "description": "Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons",
         "name": "Dynamic-Button-Symbol-Detacher",
         "owner": "mendyismyname"
+    },
+    {
+        "description": "A Sketch Plugin that creates a local web server for your Sketch Documents.",
+        "name": "Sketch-Server",
+        "owner": "matt-curtis"
     }
 ]
