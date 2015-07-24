@@ -70,6 +70,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/sketch-set-line-height-plugin) Plugin that allows you to set the line height of a text layer as a multiple of the font size.
 - [getflourish/Sketch-Sort-Layers](https://github.com/getflourish/sketch-sort-layers) Plugin that can sort layers or artboards based on text, layer name or position.
 - [getflourish/Sketch-Style-Inventory](https://github.com/getflourish/sketch-style-inventory) Generate a visual style sheet with all colors and text styles that you are using in Sketch.
+- [goodpatch/Prott-Sketch-Plugin](https://github.com/goodpatch/prott-sketch-plugin) Sync Sketch artboards to [Prott](https://prottapp.com) like a boss.
 - [graphical-iain/Copy-SCSS-Colors](https://github.com/graphical-iain/copy-scss-colors) Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) Sketch plugin for easily populating a bunch of text layers from a source.
