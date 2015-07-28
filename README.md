@@ -203,6 +203,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [WorkingOn/SketchingOn](https://github.com/workingon/sketchingon) Quickly select and share work in progress with your team via WorkingOn <http://workingon.co>.
 - [x-raizor/Efficiency](https://github.com/x-raizor/efficiency) Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [zachheine/sketch-translate](https://github.com/zachheine/sketch-translate) Sketch plugin to do text translation using Google translate.
+- [zakkain/sketch-copyeditor](https://github.com/zakkain/sketch-copyeditor) Update and version copy changes in your sketch files
 - [zeplin/zeplin-sketch-plugin](https://github.com/zeplin/zeplin-sketch-plugin) Zeplin Sketch plugin <https://zeplin.io>.
 - [zhifengkoh/resize_artboard](https://github.com/zhifengkoh/resize_artboard) A Sketch plugin for resizing artboards to fit their content.
 - [zmalltalker/sketch-android-assets](https://github.com/zmalltalker/sketch-android-assets) Generate Android assets in Sketch.

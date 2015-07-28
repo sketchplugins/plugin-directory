@@ -1008,5 +1008,10 @@
         "description": "A Sketch Plugin that creates a local web server for your Sketch Documents.",
         "name": "Sketch-Server",
         "owner": "matt-curtis"
+    },
+    {
+        "description": "Update and version copy changes in your sketch files",
+        "name": "sketch-copyeditor",
+        "owner": "zakkain"
     }
 ]
