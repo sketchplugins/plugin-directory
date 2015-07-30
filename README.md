@@ -29,6 +29,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch.
 - [BriteSnow/sketch-storyboard](https://github.com/britesnow/sketch-storyboard) Turn your artboards into storyboards.
+- [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/sketchexportforrepliaplugin) Sketch Plugins to export selected artboard or layers for Replia
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [buzzfeed/Sketch-Toolbox](https://github.com/buzzfeed/sketch-toolbox) A plugin manager for Sketch.app.
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke.
@@ -70,7 +71,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [getflourish/Sketch-Set-Line-Height-Plugin](https://github.com/getflourish/sketch-set-line-height-plugin) Plugin that allows you to set the line height of a text layer as a multiple of the font size.
 - [getflourish/Sketch-Sort-Layers](https://github.com/getflourish/sketch-sort-layers) Plugin that can sort layers or artboards based on text, layer name or position.
 - [getflourish/Sketch-Style-Inventory](https://github.com/getflourish/sketch-style-inventory) Generate a visual style sheet with all colors and text styles that you are using in Sketch.
-- [goodpatch/Prott-Sketch-Plugin](https://github.com/goodpatch/prott-sketch-plugin) Sync Sketch artboards to [Prott](https://prottapp.com) like a boss.
+- [goodpatch/Prott-Sketch-Plugin](https://github.com/goodpatch/prott-sketch-plugin) Sync Sketch artboards to Prott like a boss.
 - [graphical-iain/Copy-SCSS-Colors](https://github.com/graphical-iain/copy-scss-colors) Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) Sketch plugin for easily populating a bunch of text layers from a source.
@@ -122,7 +123,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [marcosvidal/sketch-speaker](https://github.com/marcosvidal/sketch-speaker) Making Sketch talk...
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
-- [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch
+- [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch 
 - [matt-curtis/Sketch-Server](https://github.com/matt-curtis/sketch-server) A Sketch Plugin that creates a local web server for your Sketch Documents.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command.
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
