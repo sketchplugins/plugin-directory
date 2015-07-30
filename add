@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+require 'json'
+require 'octokit'
+
+if ARGV[0].nil?
+  puts "Usage: #{File.basename(__FILE__)} username/reponame"
+  exit
+end
+
+plugin_url = ARGV[0]
+
+# Generate the new plugin hash
+owner = plugin_url.split("/")[0]
+name  = plugin_url.split("/")[1]
+
+client = Octokit::Client.new
+repo = client.repo(plugin_url)
+
+new_plugin = {
+  :description => repo.description,
+  :name => name,
+  :owner => owner
+}
+
+# Load the JSON file with all the plugins
+file = File.read('plugins.json')
+json_data = JSON.parse(file)
+
+# make sure we're not adding an existing plugin
+if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.count == 0
+  # Add plugin & save file
+  json_data.push(new_plugin) 
+
+  File.open("plugins.json","w") do |f|
+    f.write(JSON.pretty_generate(json_data, :indent => "    "))
+  end
+  puts "We now have #{json_data.length} plugins on the list"
+  # Update README
+  system("rake")
+else
+  puts "Plugin was already on the list"
+end
