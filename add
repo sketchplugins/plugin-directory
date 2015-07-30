@@ -37,6 +37,8 @@ if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.cou
   puts "We now have #{json_data.length} plugins on the list"
   # Update README
   system("rake")
+  system("git add .")
+  system("git commit")
 else
   puts "Plugin was already on the list"
 end

@@ -1023,5 +1023,10 @@
         "description": "Sketch Plugins to export selected artboard or layers for Replia",
         "name": "SketchExportForRepliaPlugin",
         "owner": "bunguu"
+    },
+    {
+        "description": "Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
+        "name": "sketch-radius",
+        "owner": "arjenvr"
     }
 ]
