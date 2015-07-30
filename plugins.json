@@ -1018,5 +1018,10 @@
         "description": "Perspective Transformation for Sketch Artboards",
         "name": "MagicMirror.sketchplugin",
         "owner": "jamztang"
+    },
+    {
+        "description": "Sketch Plugins to export selected artboard or layers for Replia",
+        "name": "SketchExportForRepliaPlugin",
+        "owner": "bunguu"
     }
 ]
