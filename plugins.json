@@ -1013,5 +1013,10 @@
         "description": "Update and version copy changes in your sketch files",
         "name": "sketch-copyeditor",
         "owner": "zakkain"
+    },
+    {
+        "description": "Perspective Transformation for Sketch Artboards",
+        "name": "MagicMirror.sketchplugin",
+        "owner": "jamztang"
     }
 ]
