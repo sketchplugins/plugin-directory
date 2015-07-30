@@ -18,6 +18,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AndrewKF/Sketch-Buttonsmith](https://github.com/andrewkf/sketch-buttonsmith) A button creator plugin for Sketch.
 - [AntonStrand/dynamic-reposition](https://github.com/antonstrand/dynamic-reposition) Make it easy to resize an object without having to manually move all the content to keep the margins.
 - [AntonStrand/Sketch-Resize](https://github.com/antonstrand/sketch-resize) Use one layer or the artboard as a template to resize other layers.
+- [arjenvr/sketch-radius](https://github.com/arjenvr/sketch-radius) Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
 - [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers.
 - [auxdesigner/Sketch-Plugin---NumGen](https://github.com/auxdesigner/sketch-plugin---numgen) Generate numbers that are: CTR, clicks, costs, impr.
