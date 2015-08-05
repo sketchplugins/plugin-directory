@@ -1016,7 +1016,7 @@
     },
     {
         "description": "Perspective Transformation for Sketch Artboards",
-        "name": "MagicMirror.sketchplugin",
+        "name": "MagicMirror",
         "owner": "jamztang"
     },
     {
