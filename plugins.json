@@ -1028,5 +1028,10 @@
         "description": "Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
         "name": "sketch-radius",
         "owner": "arjenvr"
+    },
+    {
+        "description": "The State Switcher",
+        "name": "statemachine-sketch",
+        "owner": "romashamin"
     }
 ]
