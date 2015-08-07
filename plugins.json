@@ -105,11 +105,6 @@
         "owner": "bomberstudios"
     },
     {
-        "description": "A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.",
-        "name": "sketch-framer",
-        "owner": "bomberstudios"
-    },
-    {
         "description": "This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.",
         "name": "sketch-generator",
         "owner": "bomberstudios"
