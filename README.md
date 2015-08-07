@@ -26,7 +26,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bitinn/sketch-text-align](https://github.com/bitinn/sketch-text-align) Properly align text layers regardless of their rectangle box in Sketch.
 - [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature.
-- [bomberstudios/sketch-framer](https://github.com/bomberstudios/sketch-framer) A plugin to export Sketch.app documents into FramerJS to make interactive prototypes.
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch.
 - [BriteSnow/sketch-storyboard](https://github.com/britesnow/sketch-storyboard) Turn your artboards into storyboards.
