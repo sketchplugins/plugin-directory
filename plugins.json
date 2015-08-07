@@ -1028,5 +1028,10 @@
         "description": "The State Switcher",
         "name": "statemachine-sketch",
         "owner": "romashamin"
+    },
+    {
+        "description": "Select invisible layers on current page",
+        "name": "sketch-select-invisible-layers",
+        "owner": "keremciu"
     }
 ]
