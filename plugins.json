@@ -1033,5 +1033,10 @@
         "description": "Select invisible layers on current page",
         "name": "sketch-select-invisible-layers",
         "owner": "keremciu"
+    },
+    {
+        "description": "Artboard Tricks plugin for Sketch",
+        "name": "Sketch-ArtboardTricks",
+        "owner": "romannurik"
     }
 ]
