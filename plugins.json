@@ -1035,6 +1035,11 @@
         "owner": "keremciu"
     },
     {
+        "description": "Its a nice plugin to use fontawesome in Sketch for developers and designers.",
+        "name": "sketch-use-fontawesome",
+        "owner": "keremciu"
+    },
+    {
         "description": "Artboard Tricks plugin for Sketch",
         "name": "Sketch-ArtboardTricks",
         "owner": "romannurik"
