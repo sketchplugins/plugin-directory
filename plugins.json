@@ -1038,5 +1038,10 @@
         "description": "Artboard Tricks plugin for Sketch",
         "name": "Sketch-ArtboardTricks",
         "owner": "romannurik"
+    },
+    {
+        "description": "Font awesome plugin for sketch",
+        "name": "sketch-use-fontawesome",
+        "owner": "keremciu"
     }
 ]
