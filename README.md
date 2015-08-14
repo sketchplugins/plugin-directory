@@ -1,11 +1,7 @@
 # Sketch Plugin Directory
 
 A list of Sketch plugins hosted at GitHub, in alphabetical order.
-<<<<<<< HEAD
-s
-=======
 
->>>>>>> 569a184a0d6e44a6c345fa272189d990b943b688
 **Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
 
 - [47deg/pointgrid](https://github.com/47deg/pointgrid) This plugin makes it easy to create different breakpoints during a responsive web design.
