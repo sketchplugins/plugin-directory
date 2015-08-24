@@ -1043,5 +1043,10 @@
         "description": "Font awesome plugin for sketch",
         "name": "sketch-use-fontawesome",
         "owner": "keremciu"
+    },
+    {
+        "description": "Some handy tools for Sketch",
+        "name": "Handy-Tools",
+        "owner": "webpatch"
     }
 ]
