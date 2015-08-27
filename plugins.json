@@ -1048,5 +1048,10 @@
         "description": "Some handy tools for Sketch",
         "name": "Handy-Tools",
         "owner": "webpatch"
+    },
+    {
+        "description": "Easily import symbols from another Sketch file",
+        "name": "sketch-import-symbols",
+        "owner": "kmerc"
     }
 ]
