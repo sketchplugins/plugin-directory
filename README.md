@@ -94,7 +94,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project.
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
-- [kmerc/Sketch-Import-Symbols](https://github.com/kmerc/sketch-import-symbols) Easily import symbols from another Sketch file.
 - [kenmoore/Sketch-Arrange-Artboards](https://github.com/kenmoore/sketch-arrange-artboards) Lay out all your artboards in a grid with user-specified number of rows.
 - [kenmoore/Sketch-Artboard](https://github.com/kenmoore/sketch-artboard) Move Next / Previous artboard into view, preserving vertical offset and zooming to width.
 - [kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
@@ -102,6 +101,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kenmoore/Sketch-Text-to-Specs](https://github.com/kenmoore/sketch-text-to-specs) Quickly turn a text layer into a styled annotation, grouped with a background card.
 - [keremciu/sketch-select-invisible-layers](https://github.com/keremciu/sketch-select-invisible-layers) Select invisible layers on current page
 - [keremciu/sketch-use-fontawesome](https://github.com/keremciu/sketch-use-fontawesome) Font awesome plugin for sketch
+- [kmerc/sketch-import-symbols](https://github.com/kmerc/sketch-import-symbols) Easily import symbols from another Sketch file
 - [kodlian/IconSlate-sketchplugin](https://github.com/kodlian/iconslate-sketchplugin) Export icons (icns,ico,...) from Sketch using Icon Slate
 - [KrevedAccky/SketchSplitDivide](https://github.com/krevedaccky/sketchsplitdivide) Split and Divide plugins for Sketch3 app.
 - [kristof/draft-for-sketch](https://github.com/kristof/draft-for-sketch) The fastest way to share your Sketch artboards.
@@ -178,6 +178,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [shahruz/Sketch.app-Vertical-Fit](https://github.com/shahruz/sketch.app-vertical-fit) A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [sketchplugins/plugin-requests](https://github.com/sketchplugins/plugin-requests) A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
 - [solicomo/export-to-icns](https://github.com/solicomo/export-to-icns) A Sketch plugin which can export artboards or slice to ICNS.
+- [soulchild/sketch-logo-fetcher](https://github.com/soulchild/sketch-logo-fetcher) Sketch plugin which fetches and inserts logos using the Clearbit company logo API
 - [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/align-text-baseline-sketch-plugin) Align text layer vertically based on its baseline and cap height
 - [sskyy/blade](https://github.com/sskyy/blade) A Sketch plugin for automatically HTML generate.
 - [t32k/material-design-color-palette-sketch-plugin](https://github.com/t32k/material-design-color-palette-sketch-plugin) Sketch app plugin for displaying Google material design color palette.
