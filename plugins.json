@@ -1083,5 +1083,10 @@
         "description": "A simple plugin for Sketch that generates export sizes of layers.",
         "name": "sketch-export-sizes-generator",
         "owner": "devxoul"
+    },
+    {
+        "description": "A plugin which saves and applies layer states to create different compositions of current page.",
+        "name": "Sketch-Layer-Comps",
+        "owner": "ozgurgunes"
     }
 ]
