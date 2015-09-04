@@ -1118,5 +1118,10 @@
         "description": "Sketch plugin that exports Android VectorDrawables",
         "name": "SketchVectorDrawable",
         "owner": "jacobmoncur"
+    },
+    {
+        "description": "Sketch plugin that generates Objective-C Color Theme files.",
+        "name": "Sketch-Color-Theme-Plugin",
+        "owner": "alexito4"
     }
 ]
