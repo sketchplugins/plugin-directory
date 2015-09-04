@@ -1063,5 +1063,10 @@
         "description": "Sketch plugin to unlock all layers",
         "name": "sketch-unlock-all",
         "owner": "andrewfiorillo"
+    },
+    {
+        "description": "Sketch plugin to count number of characters in a text layer",
+        "name": "sketch-character-count",
+        "owner": "andrewfiorillo"
     }
 ]

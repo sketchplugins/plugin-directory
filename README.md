@@ -15,6 +15,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [alessndro/sketch-plugins](https://github.com/alessndro/sketch-plugins) An incredible collection of plugins, including some great ones for working with baselines.
 - [alienresident/Sketch-Flowchart](https://github.com/alienresident/sketch-flowchart) Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles 
 - [almonk/SketchGit](https://github.com/almonk/sketchgit) A simple Git client built right into Sketch.
+- [andrewfiorillo/sketch-character-count](https://github.com/andrewfiorillo/sketch-character-count) Sketch plugin to count number of characters in a text layer
 - [andrewfiorillo/sketch-unlock-all](https://github.com/andrewfiorillo/sketch-unlock-all) Sketch plugin to unlock all layers
 - [AndrewKF/Sketch-Buttonsmith](https://github.com/andrewkf/sketch-buttonsmith) A button creator plugin for Sketch.
 - [AntonStrand/dynamic-reposition](https://github.com/antonstrand/dynamic-reposition) Make it easy to resize an object without having to manually move all the content to keep the margins.
