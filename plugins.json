@@ -1103,5 +1103,10 @@
         "description": "Sketch plugin to generate ios view code",
         "name": "iosViews",
         "owner": "Charimon"
+    },
+    {
+        "description": "List all exportable layers/slices and navigate to selection.",
+        "name": "Find-Slice-Sketch-Plugin",
+        "owner": "atomkirk"
     }
 ]
