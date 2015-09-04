@@ -173,6 +173,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [rodi01/Align-To-Layer](https://github.com/rodi01/align-to-layer) Sketch plugin to align selected layers to the bottom one.
 - [rodi01/RenameIt](https://github.com/rodi01/renameit) A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 - [romannurik/Sketch-ArtboardTricks](https://github.com/romannurik/sketch-artboardtricks) Artboard Tricks plugin for Sketch
+- [romannurik/Sketch-NibUITemplatePlugin](https://github.com/romannurik/sketch-nibuitemplateplugin) A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic
 - [romashamin/statemachine-sketch](https://github.com/romashamin/statemachine-sketch) The State Switcher
 - [rxlabz/skrx](https://github.com/rxlabz/skrx) Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.
 - [ryanlanglois/RulerGrid](https://github.com/ryanlanglois/rulergrid) A Sketch.app plugin to create a grid with rulers.
