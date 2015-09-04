@@ -1088,5 +1088,10 @@
         "description": "A plugin which saves and applies layer states to create different compositions of current page.",
         "name": "Sketch-Layer-Comps",
         "owner": "ozgurgunes"
+    },
+    {
+        "description": "A Sketch Plugin to align Text Layers by their baselines",
+        "name": "BaseAlign",
+        "owner": "abynim"
     }
 ]
