@@ -1133,5 +1133,10 @@
         "description": "Sketch all caps plugin",
         "name": "Sketch-All-Caps",
         "owner": "eivindbohler"
+    },
+    {
+        "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
+        "name": "Unsplash-It-Sketch",
+        "owner": "fhuel"
     }
 ]
