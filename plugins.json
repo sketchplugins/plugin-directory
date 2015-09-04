@@ -1058,5 +1058,10 @@
         "description": "Sketch plugin which fetches and inserts logos using the Clearbit company logo API",
         "name": "sketch-logo-fetcher",
         "owner": "soulchild"
+    },
+    {
+        "description": "Sketch plugin to unlock all layers",
+        "name": "sketch-unlock-all",
+        "owner": "andrewfiorillo"
     }
 ]
