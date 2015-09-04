@@ -1098,5 +1098,10 @@
         "description": "Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.",
         "name": "frame-sequencer",
         "owner": "dawidw"
+    },
+    {
+        "description": "Sketch plugin to generate ios view code",
+        "name": "iosViews",
+        "owner": "Charimon"
     }
 ]
