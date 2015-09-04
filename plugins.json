@@ -1093,5 +1093,10 @@
         "description": "A Sketch Plugin to align Text Layers by their baselines",
         "name": "BaseAlign",
         "owner": "abynim"
+    },
+    {
+        "description": "Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.",
+        "name": "frame-sequencer",
+        "owner": "dawidw"
     }
 ]
