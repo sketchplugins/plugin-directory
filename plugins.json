@@ -1128,5 +1128,10 @@
         "description": "Plugin to create motion designs in Sketch",
         "name": "Sketch-Motion",
         "owner": "nwallen"
+    },
+    {
+        "description": "Sketch all caps plugin",
+        "name": "Sketch-All-Caps",
+        "owner": "eivindbohler"
     }
 ]

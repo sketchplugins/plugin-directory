@@ -57,6 +57,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ed-lea/easyshare.sketchplugin](https://github.com/ed-lea/easyshare.sketchplugin) The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [einancunlu/Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator) A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/sketch-state-switch-master) Define different states and switch between them like a boss.
+- [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/sketch-all-caps) Sketch all caps plugin
 - [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/sketch-unlinker) Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.
 - [elihorne/smartboards](https://github.com/elihorne/smartboards) Smartboards is a collection of plugins that make my life easier in Sketch.
 - [eric-adstage/Sketch_RotateLine](https://github.com/eric-adstage/sketch_rotateline) More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.
