@@ -1113,5 +1113,10 @@
         "description": "A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic",
         "name": "Sketch-NibUITemplatePlugin",
         "owner": "romannurik"
+    },
+    {
+        "description": "Sketch plugin that exports Android VectorDrawables",
+        "name": "SketchVectorDrawable",
+        "owner": "jacobmoncur"
     }
 ]

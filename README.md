@@ -89,6 +89,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [hugocornejo/sketch-mirror-refresh](https://github.com/hugocornejo/sketch-mirror-refresh) A little plugin to force Sketch Mirror to refresh the whole screen, for those situations when Mirror gets a little bit lazy and refuses to update the last actions.
 - [ichord/sketch-divine-proportions](https://github.com/ichord/sketch-divine-proportions) A plugin for Sketch to generate divine proportions automatically.
 - [interacthings/swap-elements](https://github.com/interacthings/swap-elements) Sketch plugin to swap positions of two elements
+- [jacobmoncur/SketchVectorDrawable](https://github.com/jacobmoncur/sketchvectordrawable) Sketch plugin that exports Android VectorDrawables
 - [jamztang/MagicMirror](https://github.com/jamztang/magicmirror) Perspective Transformation for Sketch Artboards
 - [JayHoltslander/Sketch-Make-Long-Shadow](https://github.com/jayholtslander/sketch-make-long-shadow) A plugin for Sketch to create long shadows from a shape
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U.
