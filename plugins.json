@@ -1053,5 +1053,10 @@
         "description": "Easily import symbols from another Sketch file",
         "name": "sketch-import-symbols",
         "owner": "kmerc"
+    },
+    {
+        "description": "Sketch plugin which fetches and inserts logos using the Clearbit company logo API",
+        "name": "sketch-logo-fetcher",
+        "owner": "soulchild"
     }
 ]
