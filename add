@@ -29,7 +29,7 @@ json_data = JSON.parse(file)
 # make sure we're not adding an existing plugin
 if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.count == 0
   # Add plugin & save file
-  json_data.push(new_plugin) 
+  json_data.push(new_plugin)
 
   File.open("plugins.json","w") do |f|
     f.write(JSON.pretty_generate(json_data, :indent => "    "))
@@ -38,7 +38,7 @@ if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.cou
   # Update README
   system("rake")
   system("git add .")
-  system("git commit")
+  system("git commit -m 'Added #{owner}/#{name}'")
 else
   puts "Plugin was already on the list"
 end

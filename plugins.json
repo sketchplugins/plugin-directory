@@ -1068,5 +1068,10 @@
         "description": "Sketch plugin to count number of characters in a text layer",
         "name": "sketch-character-count",
         "owner": "andrewfiorillo"
+    },
+    {
+        "description": "Sketch plugin to export ScrollMotion",
+        "name": "sketch-scrollmotion",
+        "owner": "jonmmay"
     }
 ]

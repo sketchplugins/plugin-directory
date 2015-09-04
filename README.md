@@ -92,6 +92,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [jodyheavener/CSS-Buddy](https://github.com/jodyheavener/css-buddy) A Sketch 3 plugin that allows you to use CSS on layers.
 - [jodyheavener/Swatches](https://github.com/jodyheavener/swatches) Generate color swatches from hex codes.
 - [joegirolamo/SketchPlugins-WIP](https://github.com/joegirolamo/sketchplugins-wip) Repo where life-changing Sketch Plugins live.
+- [jonmmay/sketch-scrollmotion](https://github.com/jonmmay/sketch-scrollmotion) Sketch plugin to export ScrollMotion
 - [joshpuckett/SketchPlugins](https://github.com/joshpuckett/sketchplugins) A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project.
