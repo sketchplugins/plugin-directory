@@ -1,6 +1,6 @@
 [
     {
-        "description": "Web preview for sketch",
+        "description": "Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.",
         "name": "sketch-browser-preview",
         "owner": "FreakLab"
     },
