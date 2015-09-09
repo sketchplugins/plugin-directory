@@ -1,5 +1,10 @@
 [
     {
+        "description": "Web preview for sketch",
+        "name": "sketch-browser-preview",
+        "owner": "FreakLab"
+    },
+    {
         "description": "Sync Sketch artboards to Prott like a boss.",
         "name": "Prott-Sketch-Plugin",
         "owner": "goodpatch"
