@@ -1050,6 +1050,11 @@
         "owner": "keremciu"
     },
     {
+        "description": "Use icon fonts in sketch",
+        "name": "sketch-iconfont",
+        "owner": "keremciu"
+    },
+    {
         "description": "Some handy tools for Sketch",
         "name": "Handy-Tools",
         "owner": "webpatch"

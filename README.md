@@ -112,6 +112,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
 - [kenmoore/Sketch-Relabel-Button](https://github.com/kenmoore/sketch-relabel-button) Update a button's label and it gets resized automatically, preserving existing padding.
 - [kenmoore/Sketch-Text-to-Specs](https://github.com/kenmoore/sketch-text-to-specs) Quickly turn a text layer into a styled annotation, grouped with a background card.
+- [keremciu/sketch-iconfont](https://github.com/keremciu/sketch-iconfont) Use icon fonts in sketch
 - [keremciu/sketch-select-invisible-layers](https://github.com/keremciu/sketch-select-invisible-layers) Select invisible layers on current page
 - [keremciu/sketch-use-fontawesome](https://github.com/keremciu/sketch-use-fontawesome) Font awesome plugin for sketch
 - [kmerc/sketch-import-symbols](https://github.com/kmerc/sketch-import-symbols) Easily import symbols from another Sketch file
