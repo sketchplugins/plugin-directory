@@ -150,6 +150,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin.
 - [mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) Artwork fetcher plugin for Sketch
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/my-sketch-plugins) An amazing resource to get you started with Sketch plugins development.
+- [mscodemonkey/Sketch-Find-And-Replace](https://github.com/mscodemonkey/sketch-find-and-replace) Sketch 3 plugin to do a simple find and replace on text within layers
 - [nadavsavio/sketch-plugins](https://github.com/nadavsavio/sketch-plugins) "Plugins for Sketch app from Bohemian Coding". Includes two interesting commands to navigate to Next and Previous artboards.
 - [nathco/Clear-Styles](https://github.com/nathco/clear-styles) Sketch.app plugin for clearing all layer style properties.
 - [nathco/Generate-GIF](https://github.com/nathco/generate-gif) Plugin for generating animated GIFs from a sequence of artboards.

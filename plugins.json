@@ -1148,5 +1148,10 @@
         "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
         "name": "Unsplash-It-Sketch",
         "owner": "fhuel"
+    },
+    {
+        "description": "Sketch 3 plugin to do a simple find and replace on text within layers",
+        "name": "Sketch-Find-And-Replace",
+        "owner": "mscodemonkey"
     }
 ]
