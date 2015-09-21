@@ -1153,5 +1153,10 @@
         "description": "Sketch 3 plugin to do a simple find and replace on text within layers",
         "name": "Sketch-Find-And-Replace",
         "owner": "mscodemonkey"
+    },
+    {
+        "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
+        "name": "sketch-replace-images",
+        "owner": "shakemno"
     }
 ]
