@@ -1158,5 +1158,10 @@
         "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
         "name": "sketch-replace-images",
         "owner": "shakemno"
+    },
+    {
+        "description": "",
+        "name": "sketch-mouse-pointers",
+        "owner": "stuartromanek"
     }
 ]
