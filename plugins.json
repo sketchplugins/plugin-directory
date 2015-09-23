@@ -1163,5 +1163,10 @@
         "description": "",
         "name": "sketch-mouse-pointers",
         "owner": "stuartromanek"
+    },
+    {
+        "description": "Sketch Plugin to clean up SF UI fonts character spacing & normalize text & display variants.",
+        "name": "cleanupsfui",
+        "owner": "schwa23"
     }
 ]

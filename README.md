@@ -186,6 +186,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [rxlabz/skrx](https://github.com/rxlabz/skrx) Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.
 - [ryanlanglois/RulerGrid](https://github.com/ryanlanglois/rulergrid) A Sketch.app plugin to create a grid with rulers.
 - [samdeane/sketch-scripts](https://github.com/samdeane/sketch-scripts) Scripts for Sketch, by another one of the Bohemian Coding guys.
+- [schwa23/cleanupsfui](https://github.com/schwa23/cleanupsfui) Sketch Plugin to clean up SF UI fonts character spacing & normalize text & display variants.
 - [sdrib/HipsterFill](https://github.com/sdrib/hipsterfill) Dummy text filler plugin for Sketch!
 - [sebj/Cover-Artboard](https://github.com/sebj/cover-artboard) Resizes the selected layer to cover its containing artboard in Sketch.
 - [sebj/Invert-Background-Color](https://github.com/sebj/invert-background-color) Invert a layer's background color in Sketch.
