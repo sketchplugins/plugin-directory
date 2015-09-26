@@ -996,7 +996,7 @@
     },
     {
         "description": "Export assets for iOS & Android",
-        "name": "Sketch-Asset-Export-iOS-and-Android",
+        "name": "Asset-Export-iOS-and-Android",
         "owner": "designedbyDC"
     },
     {
@@ -1173,5 +1173,10 @@
         "description": "Sketch plugin that lets you save and load colors in the color picker",
         "name": "sketch-palettes",
         "owner": "andrewfiorillo"
-    }
+    },
+    {
+        "description": "Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)",
+        "name": "Aspect-Ratio",
+        "owner": "designedbyDC"
+    },
 ]
