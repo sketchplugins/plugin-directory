@@ -50,6 +50,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [delighted/sketch-upload-to-cloudapp](https://github.com/delighted/sketch-upload-to-cloudapp) Upload to CloudApp: Upload the current artboard or page to CloudApp.
 - [design4use/gb-sketch-nudge](https://github.com/design4use/gb-sketch-nudge) Nudge ↓ ← ↑ → by a customizable number of pixels
+- [designedbyDC/Aspect-Ratio](https://github.com/designedbyDC/Aspect-Ratio) Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)
 - [designedbyDC/Asset-Export-iOS-and-Android](https://github.com/designedbyDC/Asset-Export-for-iOS-and-Android) Export assets for iOS & Android
 - [devxoul/sketch-export-sizes-generator](https://github.com/devxoul/sketch-export-sizes-generator) A simple plugin for Sketch that generates export sizes of layers.
 - [dezonik/Typograph](https://github.com/dezonik/typograph) Typograph — Sketch plugin and js-library
