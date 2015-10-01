@@ -1179,4 +1179,9 @@
         "name": "Aspect-Ratio",
         "owner": "designedbyDC"
     },
+    {
+        "description": "A plugin that integrates constraints in Sketch to lay out layers.",
+        "name": "Sketch-Constraints",
+        "owner": "bouchenoiremarc"
+    }
 ]

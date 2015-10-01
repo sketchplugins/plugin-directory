@@ -33,6 +33,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bomberstudios/sketch-commands](https://github.com/bomberstudios/sketch-commands) A collection of script commands for Bohemian Coding's Sketch.app
 - [bomberstudios/sketch-duplicate-and-nudge](https://github.com/bomberstudios/sketch-duplicate-and-nudge) A port to Sketch.app of Photoshop's Duplicate and Nudge feature.
 - [bomberstudios/sketch-generator](https://github.com/bomberstudios/sketch-generator) This command is a recreation for Sketch of the Photoshop Generator functionality introduced by Adobe on Photoshop CC.
+- [bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/sketch-constraints) A plugin that integrates constraints in Sketch to lay out layers.
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch.
 - [BriteSnow/sketch-storyboard](https://github.com/britesnow/sketch-storyboard) Turn your artboards into storyboards.
 - [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/sketchexportforrepliaplugin) Sketch Plugins to export selected artboard or layers for Replia
@@ -50,8 +51,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [delighted/sketch-upload-to-cloudapp](https://github.com/delighted/sketch-upload-to-cloudapp) Upload to CloudApp: Upload the current artboard or page to CloudApp.
 - [design4use/gb-sketch-nudge](https://github.com/design4use/gb-sketch-nudge) Nudge ↓ ← ↑ → by a customizable number of pixels
-- [designedbyDC/Aspect-Ratio](https://github.com/designedbyDC/Aspect-Ratio) Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)
-- [designedbyDC/Asset-Export-for-iOS-and-Android](https://github.com/designedbyDC/Asset-Export-for-iOS-and-Android) Export assets for iOS & Android
+- [designedbyDC/Aspect-Ratio](https://github.com/designedbydc/aspect-ratio) Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)
+- [designedbyDC/Asset-Export-for-iOS-and-Android](https://github.com/designedbydc/asset-export-for-ios-and-android) Export assets for iOS & Android
 - [devxoul/sketch-export-sizes-generator](https://github.com/devxoul/sketch-export-sizes-generator) A simple plugin for Sketch that generates export sizes of layers.
 - [dezonik/Typograph](https://github.com/dezonik/typograph) Typograph — Sketch plugin and js-library
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
