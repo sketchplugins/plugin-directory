@@ -1193,5 +1193,10 @@
         "description": "A Sketch plugin that changes your text to TitleCase",
         "name": "Sketch-TitleCase",
         "owner": "jessebilsten"
+    },
+    {
+        "description": "Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.",
+        "name": "sharpen-images-sketch",
+        "owner": "axmsv"
     }
 ]
