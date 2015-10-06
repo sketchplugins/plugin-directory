@@ -1183,5 +1183,10 @@
         "description": "A plugin that integrates constraints in Sketch to lay out layers.",
         "name": "Sketch-Constraints",
         "owner": "bouchenoiremarc"
+    },
+    {
+        "description": "Sort artboards and layers by name",
+        "name": "sort-me-sketch",
+        "owner": "romashamin"
     }
 ]
