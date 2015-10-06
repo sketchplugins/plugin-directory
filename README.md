@@ -100,6 +100,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [jamztang/MagicMirror](https://github.com/jamztang/magicmirror) Perspective Transformation for Sketch Artboards
 - [JayHoltslander/Sketch-Make-Long-Shadow](https://github.com/jayholtslander/sketch-make-long-shadow) A plugin for Sketch to create long shadows from a shape
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U.
+- [jessebilsten/Sketch-TitleCase](https://github.com/jessebilsten/sketch-titlecase) A Sketch plugin that changes your text to TitleCase
 - [jimrutherford/Random-User](https://github.com/jimrutherford/random-user) A SketchApp plugin that inserts random user data into your Sketch documents.
 - [jimrutherford/UIColor-Category-Generator](https://github.com/jimrutherford/uicolor-category-generator) A SketchApp plugin that generates a UIColor Objective-C Category class from your Sketch documents.
 - [jodyheavener/CSS-Buddy](https://github.com/jodyheavener/css-buddy) A Sketch 3 plugin that allows you to use CSS on layers.

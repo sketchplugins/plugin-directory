@@ -1188,5 +1188,10 @@
         "description": "Sort artboards and layers by name",
         "name": "sort-me-sketch",
         "owner": "romashamin"
+    },
+    {
+        "description": "A Sketch plugin that changes your text to TitleCase",
+        "name": "Sketch-TitleCase",
+        "owner": "jessebilsten"
     }
 ]
