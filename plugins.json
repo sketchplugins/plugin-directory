@@ -1200,8 +1200,8 @@
         "owner": "axmsv"
     },
     {
-        "description": null,
-        "name": "sketch-copy-to-new-artboard",
+        "description": "Sketch plugin to duplicate the current selection(s) to new artboard(s).",
+        "name": "sketch-duplicate-to-new-artboard",
         "owner": "delighted"
     },
     {
