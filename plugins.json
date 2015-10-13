@@ -1198,5 +1198,10 @@
         "description": "Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.",
         "name": "sharpen-images-sketch",
         "owner": "axmsv"
+    },
+    {
+        "description": null,
+        "name": "sketch-copy-to-new-artboard",
+        "owner": "delighted"
     }
 ]

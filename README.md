@@ -48,6 +48,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [davidudvardy/sketch-plugins](https://github.com/davidudvardy/sketch-plugins) Scripts for Bohemian Coding's Sketch application.
 - [dawidw/frame-sequencer](https://github.com/dawidw/frame-sequencer) Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
 - [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.
+- [delighted/sketch-copy-to-new-artboard](https://github.com/delighted/sketch-copy-to-new-artboard) 
 - [delighted/sketch-pull-to-center](https://github.com/delighted/sketch-pull-to-center) Pull to center: Move selected shapes or layers toward center of artboard.
 - [delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [delighted/sketch-upload-to-cloudapp](https://github.com/delighted/sketch-upload-to-cloudapp) Upload to CloudApp: Upload the current artboard or page to CloudApp.
