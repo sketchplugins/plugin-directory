@@ -1203,5 +1203,10 @@
         "description": null,
         "name": "sketch-copy-to-new-artboard",
         "owner": "delighted"
+    },
+    {
+        "description": "A random date generator plugin for Sketch",
+        "name": "date-generator-sketch",
+        "owner": "bshorta"
     }
 ]

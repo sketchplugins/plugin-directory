@@ -37,6 +37,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bouchenoiremarc/Sketch-Constraints](https://github.com/bouchenoiremarc/sketch-constraints) A plugin that integrates constraints in Sketch to lay out layers.
 - [brandonbeecroft/Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch) This is a plugin for quickly creating Lorem Ipsum text in Sketch.
 - [BriteSnow/sketch-storyboard](https://github.com/britesnow/sketch-storyboard) Turn your artboards into storyboards.
+- [bshorta/date-generator-sketch](https://github.com/bshorta/date-generator-sketch) A random date generator plugin for Sketch
 - [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/sketchexportforrepliaplugin) Sketch Plugins to export selected artboard or layers for Replia
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [buzzfeed/Sketch-Toolbox](https://github.com/buzzfeed/sketch-toolbox) A plugin manager for Sketch.app.
