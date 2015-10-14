@@ -1208,5 +1208,10 @@
         "description": "A random date generator plugin for Sketch",
         "name": "date-generator-sketch",
         "owner": "bshorta"
+    },
+    {
+        "description": "A plugin that selects layers with similar attributes to those of the layer currently selected.",
+        "name": "sketch-select-similar-layers",
+        "owner": "wonderbit"
     }
 ]
