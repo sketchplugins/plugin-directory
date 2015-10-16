@@ -170,6 +170,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
 - [nolastan/charts.sketchplugin](https://github.com/nolastan/charts.sketchplugin) Quickly insert charts into Sketch
 - [nolastan/Sketch-Personas](https://github.com/nolastan/sketch-personas) Quickly populate mockups with fake user data
+- [nolastan/sync.sketchplugin](https://github.com/nolastan/sync.sketchplugin) Use Google Sheets to sync typography across your team.
 - [nwallen/Sketch-Motion](https://github.com/nwallen/sketch-motion) Plugin to create motion designs in Sketch
 - [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/sketch-layer-comps) A plugin which saves and applies layer states to create different compositions of current page.
 - [ozzik/swap-styles](https://github.com/ozzik/swap-styles) Sketch plugin for swaping styles between two layers
