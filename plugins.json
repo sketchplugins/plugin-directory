@@ -1218,5 +1218,10 @@
         "description": "A plugin that selects layers with similar attributes to those of the layer currently selected.",
         "name": "sketch-select-similar-layers",
         "owner": "wonderbit"
+    },
+    {
+      "description": "CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.",
+      "name": "CSSketch",
+      "owner":"JohnCoates"
     }
 ]
