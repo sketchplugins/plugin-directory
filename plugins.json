@@ -1238,5 +1238,10 @@
         "description": "This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design",
         "name": "sketch-any-icon-fetcher",
         "owner": "sagishrieber"
+    },
+    {
+        "description": "Sketch plugin to update Text layer names from their own text values.",
+        "name": "Sketch_Update-Text-Layer-Name",
+        "owner": "Creatide"
     }
 ]
