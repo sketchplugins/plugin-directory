@@ -1233,5 +1233,10 @@
         "description": "Unlock all layers on the current artboard using ⌘⌥L",
         "name": "sketch-unlock-all-layers",
         "owner": "truthlabs"
+    },
+    {
+        "description": "This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design",
+        "name": "sketch-any-icon-fetcher",
+        "owner": "sagishrieber"
     }
 ]
