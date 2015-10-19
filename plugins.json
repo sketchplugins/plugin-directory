@@ -1248,5 +1248,10 @@
         "description": "A plugin for Sketch3 to apply mosaic easily",
         "name": "sketch3-mosaic-plugin",
         "owner": "tomorrowkey"
+    },
+    {
+        "description": "",
+        "name": "Tschichold-Sketch-Plugin",
+        "owner": "arsfeshchenko"
     }
 ]
