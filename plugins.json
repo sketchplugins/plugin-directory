@@ -1243,5 +1243,10 @@
         "description": "Sketch plugin to update Text layer names from their own text values.",
         "name": "Sketch_Update-Text-Layer-Name",
         "owner": "Creatide"
+    },
+    {
+        "description": "A plugin for Sketch3 to apply mosaic easily",
+        "name": "sketch3-mosaic-plugin",
+        "owner": "tomorrowkey"
     }
 ]
