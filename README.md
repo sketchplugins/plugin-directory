@@ -192,6 +192,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ribot/sketch-user-flow-docs](https://github.com/ribot/sketch-user-flow-docs) This plugin lets you link images in a document with an extenal image file and update them all at once.
 - [rodi01/Align-To-Layer](https://github.com/rodi01/align-to-layer) Sketch plugin to align selected layers to the bottom one.
 - [rodi01/RenameIt](https://github.com/rodi01/renameit) A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
+- [rojcyk/workbench](https://github.com/rojcyk/workbench) 
 - [romannurik/Sketch-ArtboardTricks](https://github.com/romannurik/sketch-artboardtricks) Artboard Tricks plugin for Sketch
 - [romannurik/Sketch-NibUITemplatePlugin](https://github.com/romannurik/sketch-nibuitemplateplugin) A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic
 - [romashamin/sort-me-sketch](https://github.com/romashamin/sort-me-sketch) Sort artboards and layers by name
