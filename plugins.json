@@ -1253,5 +1253,10 @@
         "description": "",
         "name": "Tschichold-Sketch-Plugin",
         "owner": "arsfeshchenko"
+    },
+    {
+        "description": "Toggle Visibility of 'NoPrint' layers in Sketch",
+        "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
+        "owner": "sudilkovsky"
     }
 ]
