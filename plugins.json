@@ -1220,8 +1220,13 @@
         "owner": "wonderbit"
     },
     {
-      "description": "CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.",
-      "name": "CSSketch",
-      "owner":"JohnCoates"
+        "description": "CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.",
+        "name": "CSSketch",
+        "owner": "JohnCoates"
+    },
+    {
+        "description": "Sketch Plugin to round shape size to the nearest multiple of 8",
+        "name": "Sketch-Nearest-8",
+        "owner": "acollurafici"
     }
 ]
