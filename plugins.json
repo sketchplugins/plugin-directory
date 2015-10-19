@@ -1263,5 +1263,10 @@
         "description": "",
         "name": "workbench",
         "owner": "rojcyk"
+    },
+    {
+        "description": "Replaces layer values in groups with JSON data",
+        "name": "sketch-json-parser",
+        "owner": "kvendrik"
     }
 ]
