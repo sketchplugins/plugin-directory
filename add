@@ -7,6 +7,14 @@ if ARGV[0].nil?
   exit
 end
 
+# First, update the local repo to avoid conflicts later on
+# (use git-up if it's installed)
+if `which git-up`.empty?
+  `git pull --rebase`
+else
+  `git up`
+end
+
 plugin_url = ARGV[0]
 
 # Generate the new plugin hash

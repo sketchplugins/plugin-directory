@@ -224,6 +224,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [tokuda109/SwitchArtboard.sketchplugin](https://github.com/tokuda109/switchartboard.sketchplugin) Sketch 3 plugin to quickly switch between artboards
 - [trisix/ITSSketchPlugins](https://github.com/trisix/itssketchplugins) Some home-brewed Sketch App Plugins.
 - [trisweb/sketchplugins](https://github.com/trisweb/sketchplugins) Tristan's Plugins for Bohemian Coding's Sketch.app
+- [truthlabs/sketch-unlock-all-layers](https://github.com/truthlabs/sketch-unlock-all-layers) Unlock all layers on the current artboard using ⌘⌥L
 - [tudou527/marketch](https://github.com/tudou527/marketch) Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.
 - [turbobabr/Duplicator](https://github.com/turbobabr/duplicator) A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
 - [turbobabr/sketch-qrcode](https://github.com/turbobabr/sketch-qrcode) QR Code generator plugin for Sketch App.

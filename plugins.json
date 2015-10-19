@@ -1228,5 +1228,10 @@
         "description": "Sketch Plugin to round shape size to the nearest multiple of 8",
         "name": "Sketch-Nearest-8",
         "owner": "acollurafici"
+    },
+    {
+        "description": "Unlock all layers on the current artboard using ⌘⌥L",
+        "name": "sketch-unlock-all-layers",
+        "owner": "truthlabs"
     }
 ]
