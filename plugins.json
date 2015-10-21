@@ -1273,5 +1273,10 @@
         "description": "Replaces layer values in groups with JSON data",
         "name": "sketch-json-parser",
         "owner": "kvendrik"
+    },
+    {
+        "description": "Set borders color using standard Sketch color picker",
+        "name": "sketch-color-picker-plus",
+        "owner": "heysketch"
     }
 ]

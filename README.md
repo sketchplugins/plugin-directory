@@ -96,6 +96,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) Sketch plugin for easily populating a bunch of text layers from a source.
 - [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) Artboard presets for social media images.
+- [heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) Set borders color using standard Sketch color picker
 - [hrescak/MatejSketchPlugins](https://github.com/hrescak/matejsketchplugins) a box for random sketch plugins
 - [hrescak/Sketch-Flex-Layout](https://github.com/hrescak/sketch-flex-layout) Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
 - [hrescak/Sketch-Layer-Name-Tools](https://github.com/hrescak/sketch-layer-name-tools) Set of plugins for manipulating layer names in Sketch
