@@ -1,5 +1,10 @@
 [
     {
+        "description": "Artboard presets for social media images.",
+        "name": "Social-Artboards.sketchplugin",
+        "owner": "herrhelms"
+    },
+    {
         "description": "Use Google Sheets to sync typography across your team.",
         "name": "sync.sketchplugin",
         "owner": "nolastan"
