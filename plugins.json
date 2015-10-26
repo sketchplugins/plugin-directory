@@ -370,11 +370,6 @@
         "name": "Swatches"
     },
     {
-        "description": "Repo where life-changing Sketch Plugins live.",
-        "owner": "joegirolamo",
-        "name": "SketchPlugins-WIP"
-    },
-    {
         "description": "A Sketch plugin for a step-wise transformation of one path into another.",
         "owner": "marmat",
         "name": "sketch-interpolate-paths"
