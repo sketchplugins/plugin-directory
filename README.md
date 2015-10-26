@@ -29,6 +29,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin) 
 - [atomkirk/Find-Slice-Sketch-Plugin](https://github.com/atomkirk/find-slice-sketch-plugin) List all exportable layers/slices and navigate to selection.
 - [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers.
+- [automat/sketch-text-tools](https://github.com/automat/sketch-text-tools) Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
 - [auxdesigner/Sketch-Plugin---NumGen](https://github.com/auxdesigner/sketch-plugin---numgen) Generate numbers that are: CTR, clicks, costs, impr.
 - [axmsv/sharpen-images-sketch](https://github.com/axmsv/sharpen-images-sketch) Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.
 - [bbsody/sketch-guides-remover](https://github.com/bbsody/sketch-guides-remover) Another guide remover plugin for Sketch

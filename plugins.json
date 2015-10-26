@@ -1273,5 +1273,10 @@
         "description": "Set borders color using standard Sketch color picker",
         "name": "sketch-color-picker-plus",
         "owner": "heysketch"
+    },
+    {
+        "description": "Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.",
+        "name": "sketch-text-tools",
+        "owner": "automat"
     }
 ]
