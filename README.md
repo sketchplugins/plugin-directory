@@ -222,6 +222,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sskyy/blade](https://github.com/sskyy/blade) A Sketch plugin for automatically HTML generate.
 - [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) 
 - [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin) Toggle Visibility of 'NoPrint' layers in Sketch
+- [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [t32k/material-design-color-palette-sketch-plugin](https://github.com/t32k/material-design-color-palette-sketch-plugin) Sketch app plugin for displaying Google material design color palette.
 - [tadija/AEFlowchart](https://github.com/tadija/aeflowchart) This plugin makes it fast and easy to draw flowcharts in Sketch.
 - [tadija/AEIconizer](https://github.com/tadija/aeiconizer) A Sketch plugin that automatically resizes artwork for iOS app icon.

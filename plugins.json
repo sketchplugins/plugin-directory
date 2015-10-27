@@ -1278,5 +1278,10 @@
         "description": "Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.",
         "name": "sketch-text-tools",
         "owner": "automat"
+    },
+    {
+        "description": "Pixel Perfecter helps you find pixel imperfect layers in your documents.",
+        "name": "pixel-perfecter-sketch-plugin",
+        "owner": "swiadek"
     }
 ]
