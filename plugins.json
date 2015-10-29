@@ -1255,6 +1255,11 @@
         "owner": "arsfeshchenko"
     },
     {
+        "description": "Displays colors as preconfigure Sass variables for Sketch.",
+        "name": "Sketch-Sass-Colors",
+        "owner": "arshad"
+    },
+    {
         "description": "Toggle Visibility of 'NoPrint' layers in Sketch",
         "name": "Toggle-NoPrint-Visibility-Sketch-Plugin",
         "owner": "sudilkovsky"
