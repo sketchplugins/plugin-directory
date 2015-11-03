@@ -1288,5 +1288,10 @@
         "description": "Pixel Perfecter helps you find pixel imperfect layers in your documents.",
         "name": "pixel-perfecter-sketch-plugin",
         "owner": "swiadek"
+    },
+    {
+        "description": "Sketch-flavored Auto Layout-like Constraints",
+        "name": "Sketch-Constraints",
+        "owner": "matt-curtis"
     }
 ]
