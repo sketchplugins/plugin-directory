@@ -1291,7 +1291,7 @@
     },
     {
         "description": "Sketch-flavored Auto Layout-like Constraints",
-        "name": "Sketch-Constraints",
+        "name": "fluid-for-sketch",
         "owner": "matt-curtis"
     }
 ]
