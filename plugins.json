@@ -1293,5 +1293,10 @@
         "description": "Sketch-flavored Auto Layout-like Constraints",
         "name": "fluid-for-sketch",
         "owner": "matt-curtis"
+    },
+    {
+        "description": "Properly align link underline layers regardless of their text in Sketch",
+        "name": "sketch-link-underline-align",
+        "owner": "zholdas"
     }
 ]

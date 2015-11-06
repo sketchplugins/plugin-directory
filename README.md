@@ -262,4 +262,5 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [zakkain/sketch-copyeditor](https://github.com/zakkain/sketch-copyeditor) Update and version copy changes in your sketch files
 - [zeplin/zeplin-sketch-plugin](https://github.com/zeplin/zeplin-sketch-plugin) Zeplin Sketch plugin <https://zeplin.io>.
 - [zhifengkoh/resize_artboard](https://github.com/zhifengkoh/resize_artboard) A Sketch plugin for resizing artboards to fit their content.
+- [zholdas/sketch-link-underline-align](https://github.com/zholdas/sketch-link-underline-align) Properly align link underline layers regardless of their text in Sketch
 - [zmalltalker/sketch-android-assets](https://github.com/zmalltalker/sketch-android-assets) Generate Android assets in Sketch.
