@@ -1290,7 +1290,7 @@
         "owner": "swiadek"
     },
     {
-        "description": "Sketch-flavored Auto Layout-like Constraints",
+        "description": "Sketch-flavored Auto Layout-like Constraints [MUST BE INSTALLED MANUALLY - SEE README.]",
         "name": "fluid-for-sketch",
         "owner": "matt-curtis"
     },
