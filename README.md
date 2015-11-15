@@ -62,6 +62,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [designedbyDC/Aspect-Ratio](https://github.com/designedbydc/aspect-ratio) Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)
 - [designedbyDC/Asset-Export-for-iOS-and-Android](https://github.com/designedbydc/asset-export-for-ios-and-android) Export assets for iOS & Android
 - [devxoul/sketch-export-sizes-generator](https://github.com/devxoul/sketch-export-sizes-generator) A simple plugin for Sketch that generates export sizes of layers.
+- [dex1t/QRCode-for-Sketch-Local-Sharing](https://github.com/dex1t/QRCode-for-Sketch-Local-Sharing) Show QRCode for Sketch Local Sharing
 - [dezonik/Typograph](https://github.com/dezonik/typograph) Typograph — Sketch plugin and js-library
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
