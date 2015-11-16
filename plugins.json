@@ -1301,7 +1301,7 @@
     },
     {
         "description" : "Show QR Code for Local Sharing",
-        "name" : "QRCode for Local Sharing",
+        "name" : "QRCode-for-Sketch-Local-Sharing",
         "owner" : "dex1t"
     }
 ]
