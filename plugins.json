@@ -1298,5 +1298,10 @@
         "description": "Properly align link underline layers regardless of their text in Sketch",
         "name": "sketch-link-underline-align",
         "owner": "zholdas"
+    },
+    {
+        "description" : "Show QR Code for Local Sharing",
+        "name" : "QRCode-for-Sketch-Local-Sharing",
+        "owner" : "dex1t"
     }
 ]
