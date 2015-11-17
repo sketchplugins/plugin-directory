@@ -1300,8 +1300,13 @@
         "owner": "zholdas"
     },
     {
-        "description" : "Show QR Code for Local Sharing",
-        "name" : "QRCode-for-Sketch-Local-Sharing",
-        "owner" : "dex1t"
+        "description": "Show QR Code for Local Sharing",
+        "name": "QRCode-for-Sketch-Local-Sharing",
+        "owner": "dex1t"
+    },
+    {
+        "description": "Sketch plugin for text modifications",
+        "name": "Comma-Fucker",
+        "owner": "margusholland"
     }
 ]

@@ -62,7 +62,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [designedbyDC/Aspect-Ratio](https://github.com/designedbydc/aspect-ratio) Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)
 - [designedbyDC/Asset-Export-for-iOS-and-Android](https://github.com/designedbydc/asset-export-for-ios-and-android) Export assets for iOS & Android
 - [devxoul/sketch-export-sizes-generator](https://github.com/devxoul/sketch-export-sizes-generator) A simple plugin for Sketch that generates export sizes of layers.
-- [dex1t/QRCode-for-Sketch-Local-Sharing](https://github.com/dex1t/QRCode-for-Sketch-Local-Sharing) Show QRCode for Sketch Local Sharing
+- [dex1t/QRCode-for-Sketch-Local-Sharing](https://github.com/dex1t/qrcode-for-sketch-local-sharing) Show QR Code for Local Sharing
 - [dezonik/Typograph](https://github.com/dezonik/typograph) Typograph — Sketch plugin and js-library
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
@@ -154,10 +154,11 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [marcosvidal/Sketch-Notebook](https://github.com/marcosvidal/sketch-notebook) Sketch Plugin to make documenting design easier.
 - [marcosvidal/sketch-speaker](https://github.com/marcosvidal/sketch-speaker) Making Sketch talk...
+- [margusholland/Comma-Fucker](https://github.com/margusholland/comma-fucker) Sketch plugin for text modifications
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
 - [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch 
-- [matt-curtis/fluid-for-sketch](https://github.com/matt-curtis/fluid-for-sketch) Sketch-flavored Auto Layout-like Constraints
+- [matt-curtis/fluid-for-sketch](https://github.com/matt-curtis/fluid-for-sketch) Sketch-flavored Auto Layout-like Constraints [MUST BE INSTALLED MANUALLY - SEE README.]
 - [matt-curtis/Sketch-Server](https://github.com/matt-curtis/sketch-server) A Sketch Plugin that creates a local web server for your Sketch Documents.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command.
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
