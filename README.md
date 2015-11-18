@@ -79,6 +79,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
 - [FrancisVega/ZEN-Sketch](https://github.com/francisvega/zen-sketch) A collection of Sketch plugins
 - [frankko/Artboard-Tools](https://github.com/frankko/artboard-tools) Sketch.app plugins for arranging artboards and navigating between artboards.
+- [frankko/Place-Linked-Bitmap](https://github.com/frankko/Place-Linked-Bitmap) A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated.
 - [frankko/UtilityBelt](https://github.com/frankko/utilitybelt) An always-expanding collection of simple, focused plugins for Sketch.
 - [FreakLab/sketch-browser-preview](https://github.com/freaklab/sketch-browser-preview) Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard.
