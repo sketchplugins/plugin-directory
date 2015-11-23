@@ -44,7 +44,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bshorta/date-generator-sketch](https://github.com/bshorta/date-generator-sketch) A random date generator plugin for Sketch
 - [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/sketchexportforrepliaplugin) Sketch Plugins to export selected artboard or layers for Replia
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
-- [buzzfeed/Sketch-Toolbox](https://github.com/buzzfeed/sketch-toolbox) A plugin manager for Sketch.app.
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke.
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) Sketch plugins by Cemre Güngör.
 - [Charimon/iosViews](https://github.com/charimon/iosviews) Sketch plugin to generate ios view code
@@ -79,7 +78,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
 - [FrancisVega/ZEN-Sketch](https://github.com/francisvega/zen-sketch) A collection of Sketch plugins
 - [frankko/Artboard-Tools](https://github.com/frankko/artboard-tools) Sketch.app plugins for arranging artboards and navigating between artboards.
-- [frankko/Place-Linked-Bitmap](https://github.com/frankko/Place-Linked-Bitmap) A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated.
+- [frankko/Place-Linked-Bitmap](https://github.com/frankko/place-linked-bitmap) A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [frankko/UtilityBelt](https://github.com/frankko/utilitybelt) An always-expanding collection of simple, focused plugins for Sketch.
 - [FreakLab/sketch-browser-preview](https://github.com/freaklab/sketch-browser-preview) Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard.
@@ -164,6 +163,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command.
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
 - [maundytime/sketch-9patch](https://github.com/maundytime/sketch-9patch) Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.
+- [MaxChen/Watch-Icon](https://github.com/maxchen/watch-icon) Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
 - [mendyismyname/Dynamic-Button-Symbol-Detacher](https://github.com/mendyismyname/dynamic-button-symbol-detacher) Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons
 - [mfouquet/Color-Copier](https://github.com/mfouquet/color-copier) Sketch Plugin to quickly copy color RGB/HEX values.
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin.

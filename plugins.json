@@ -685,11 +685,6 @@
         "name": "sketch-randomSize"
     },
     {
-        "description": "A plugin manager for Sketch.app.",
-        "owner": "buzzfeed",
-        "name": "Sketch-Toolbox"
-    },
-    {
         "description": "Replace layers in Sketch with photos from Instagram.",
         "owner": "abynim",
         "name": "SketchSquares"
@@ -1313,5 +1308,10 @@
         "description": "A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated",
         "name": "Place-Linked-Bitmap",
         "owner": "frankko"
+    },
+    {
+        "description": "Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.",
+        "name": "Watch-Icon",
+        "owner": "MaxChen"
     }
 ]
