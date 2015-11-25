@@ -1313,5 +1313,10 @@
         "description": "Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.",
         "name": "Watch-Icon",
         "owner": "MaxChen"
+    },
+    {
+        "description": "Gathers the colors used in your selected layers and shows them in Colorpeek.",
+        "name": "show-colors-in-colorpeek",
+        "owner": "peterwooley"
     }
 ]
