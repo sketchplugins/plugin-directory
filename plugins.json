@@ -1316,7 +1316,7 @@
     },
     {
         "description": "Gathers the colors used in your selected layers and shows them in Colorpeek.",
-        "name": "show-colors-in-colorpeek",
+        "name": "colorpeek-sketch-plugin",
         "owner": "peterwooley"
     }
 ]

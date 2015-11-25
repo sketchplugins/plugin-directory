@@ -188,7 +188,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ozzik/swap-styles](https://github.com/ozzik/swap-styles) Sketch plugin for swaping styles between two layers
 - [paulfarino/sketch-device-collection](https://github.com/paulfarino/sketch-device-collection) This plugin makes it easy to to fill layers in Sketch with devices.
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch.
-- [peterwooley/show-colors-in-colorpeek](https://github.com/peterwooley/show-colors-in-colorpeek) Gathers the colors used in your selected layers and shows them in Colorpeek.
+- [peterwooley/colorpeek-sketch-plugin](https://github.com/peterwooley/colorpeek-sketch-plugin) Gathers the colors used in your selected layers and shows them in Colorpeek.
 - [PEZ/SketchDistributor](https://github.com/pez/sketchdistributor) Distribute selection objects vertically or horizontally with a given spacing between them.
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice.
 - [poyi/Copy-Fill-Color](https://github.com/poyi/copy-fill-color) A Plugin that provides a shortcut for copying a layer's fill color to clipboard.
