@@ -28,6 +28,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
 - [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin) 
 - [arshad/Sketch-Sass-Colors](https://github.com/arshad/sketch-sass-colors) Displays colors as preconfigure Sass variables for Sketch.
+- [Ashung/Automate-Sketch](https://github.com/ashung/automate-sketch) Some scripts for Bohemian Coding’s Sketch.
 - [atomkirk/Find-Slice-Sketch-Plugin](https://github.com/atomkirk/find-slice-sketch-plugin) List all exportable layers/slices and navigate to selection.
 - [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers.
 - [automat/sketch-text-tools](https://github.com/automat/sketch-text-tools) Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.

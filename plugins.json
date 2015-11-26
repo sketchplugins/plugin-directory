@@ -1318,5 +1318,10 @@
         "description": "Gathers the colors used in your selected layers and shows them in Colorpeek.",
         "name": "colorpeek-sketch-plugin",
         "owner": "peterwooley"
+    },
+    {
+        "description": "Some scripts for Bohemian Coding’s Sketch.",
+        "name": "Automate-Sketch",
+        "owner": "Ashung"
     }
 ]
