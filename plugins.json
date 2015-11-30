@@ -1323,5 +1323,10 @@
         "description": "Some scripts for Bohemian Coding’s Sketch.",
         "name": "Automate-Sketch",
         "owner": "Ashung"
+    },
+    {
+        "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
+        "name": "move-it",
+        "owner": "dawidw"
     }
 ]

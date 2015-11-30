@@ -53,6 +53,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Creatide/Sketch_Update-Text-Layer-Name](https://github.com/creatide/sketch_update-text-layer-name) Sketch plugin to update Text layer names from their own text values.
 - [davidudvardy/sketch-plugins](https://github.com/davidudvardy/sketch-plugins) Scripts for Bohemian Coding's Sketch application.
 - [dawidw/frame-sequencer](https://github.com/dawidw/frame-sequencer) Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
+- [dawidw/move-it](https://github.com/dawidw/move-it) Sketch plugin that let's you move selected layers verticaly and horizontaly.
 - [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.
 - [delighted/sketch-duplicate-to-new-artboard](https://github.com/delighted/sketch-duplicate-to-new-artboard) Sketch plugin to duplicate the current selection(s) to new artboard(s).
 - [delighted/sketch-pull-to-center](https://github.com/delighted/sketch-pull-to-center) Pull to center: Move selected shapes or layers toward center of artboard.
