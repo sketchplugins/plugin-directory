@@ -1285,7 +1285,7 @@
         "owner": "swiadek"
     },
     {
-        "description": "Sketch-flavored Auto Layout-like Constraints [MUST BE INSTALLED MANUALLY - SEE README.]",
+        "description": "Sketch-flavored Auto Layout-like Constraints. Restart Sketch after updating the plugin.",
         "name": "fluid-for-sketch",
         "owner": "matt-curtis"
     },
