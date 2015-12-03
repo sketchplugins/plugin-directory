@@ -58,6 +58,7 @@ end
 desc "List authors"
 task :authors do
   puts plugins.collect { |plugin| plugin['owner'] }.uniq.sort
+  puts plugins.collect { |plugin| plugin['owner'] }.uniq.sort.size
 end
 
 desc "Default: generate README.md from plugin"
