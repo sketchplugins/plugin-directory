@@ -1328,5 +1328,10 @@
         "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
         "name": "move-it",
         "owner": "dawidw"
+    },
+    {
+        "description": "Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.",
+        "name": "sketch-protoio-export",
+        "owner": "Proto-io"
     }
 ]
