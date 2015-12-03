@@ -161,7 +161,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
 - [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch 
-- [matt-curtis/fluid-for-sketch](https://github.com/matt-curtis/fluid-for-sketch) Sketch-flavored Auto Layout-like Constraints. Restart Sketch after updating the plugin.
+- [matt-curtis/fluid-for-sketch](https://github.com/matt-curtis/fluid-for-sketch) Sketch-flavored Auto Layout-like Constraints [MUST BE INSTALLED MANUALLY - SEE README.]
 - [matt-curtis/Sketch-Server](https://github.com/matt-curtis/sketch-server) A Sketch Plugin that creates a local web server for your Sketch Documents.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command.
 - [mauehara/sketch-page-switch](https://github.com/mauehara/sketch-page-switch) A dummy plugin to quickly switch between pages using shortcuts.
