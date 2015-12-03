@@ -20,6 +20,11 @@
         "owner": "goodpatch"
     },
     {
+        "description": "There's an ongoing bug in Sketch 3.4 which causes running plugin commands in wrong document sometimes. With this pluging, you can check if document focus is ok or not.",
+        "name": "Document-Focus-Checker-for-Sketch",
+        "owner": "einancunlu"
+    },
+    {
         "description": "Define different states and switch between them like a boss.",
         "name": "Sketch-State-Switch-Master",
         "owner": "einancunlu"
