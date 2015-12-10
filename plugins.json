@@ -1333,5 +1333,10 @@
         "description": "Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.",
         "name": "sketch-protoio-export",
         "owner": "Proto-io"
+    },
+    {
+        "description": "Plugin for generating UIColor and NSColor initializer from fill color of selected layers.",
+        "name": "sketchplugin-swift-color",
+        "owner": "ngs"
     }
 ]

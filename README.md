@@ -179,6 +179,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [nathco/Swap-Fill-Border](https://github.com/nathco/swap-fill-border) Sketch.app plugin for swapping fill and border colors.
 - [nathco/Sync-Plugins](https://github.com/nathco/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub.
 - [nerthase/TrimArtboard](https://github.com/nerthase/trimartboard) A simple Sketch plugin to trim artboards
+- [ngs/sketchplugin-swift-color](https://github.com/ngs/sketchplugin-swift-color) Plugin for generating UIColor and NSColor initializer from fill color of selected layers.
 - [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/sketch-better-android-export) A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [nickstamas/Sketch-Quick-Pic](https://github.com/nickstamas/sketch-quick-pic) Quickly fill a layer with an image from Flickr based on tags.
 - [nodesolomon/Design-Quotes-Sketch-Plugin](https://github.com/nodesolomon/design-quotes-sketch-plugin) Get random quotes from quotesondesign.com from within Sketch.app
