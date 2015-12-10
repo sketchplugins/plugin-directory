@@ -73,6 +73,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/sketch-all-caps) Sketch all caps plugin
 - [eivindbohler/Sketch-Unlinker](https://github.com/eivindbohler/sketch-unlinker) Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.
 - [elihorne/smartboards](https://github.com/elihorne/smartboards) Smartboards is a collection of plugins that make my life easier in Sketch.
+- [EnzioRossa/copy-paste-guides](https://github.com/enziorossa/copy-paste-guides) 
 - [eric-adstage/Sketch_RotateLine](https://github.com/eric-adstage/sketch_rotateline) More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.
 - [Falkeyn/Modulizer](https://github.com/falkeyn/modulizer) Sketch.app plugin for auto-padding.
 - [fhuel/Unsplash-It-Sketch](https://github.com/fhuel/unsplash-it-sketch) A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. 

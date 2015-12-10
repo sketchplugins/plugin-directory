@@ -1338,5 +1338,10 @@
         "description": "Plugin for generating UIColor and NSColor initializer from fill color of selected layers.",
         "name": "sketchplugin-swift-color",
         "owner": "ngs"
+    },
+    {
+        "description": "",
+        "name": "copy-paste-guides",
+        "owner": "EnzioRossa"
     }
 ]
