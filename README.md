@@ -101,6 +101,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [graphical-iain/Copy-SCSS-Colors](https://github.com/graphical-iain/copy-scss-colors) Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) Sketch plugin for easily populating a bunch of text layers from a source.
+- [herrhelms/even-guides-sketch](https://github.com/herrhelms/even-guides-sketch) Add evenly distributed guides to artboards.
 - [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) Artboard presets for social media images.
 - [heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) Set borders color using standard Sketch color picker
 - [hrescak/MatejSketchPlugins](https://github.com/hrescak/matejsketchplugins) a box for random sketch plugins
