@@ -1,5 +1,10 @@
 [
     {
+        "description": "Add evenly distributed guides to artboards.",
+        "name": "even-guides-sketch",
+        "owner": "herrhelms"
+    },
+    {
         "description": "Artboard presets for social media images.",
         "name": "social-artboards-sketch",
         "owner": "herrhelms"
