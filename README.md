@@ -192,6 +192,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ozgurgunes/Sketch-Layer-Comps](https://github.com/ozgurgunes/sketch-layer-comps) A plugin which saves and applies layer states to create different compositions of current page.
 - [ozzik/swap-styles](https://github.com/ozzik/swap-styles) Sketch plugin for swaping styles between two layers
 - [paulfarino/sketch-device-collection](https://github.com/paulfarino/sketch-device-collection) This plugin makes it easy to to fill layers in Sketch with devices.
+- [peerjollux/Sketch-OptimizeImages](https://github.com/peerjollux/sketch-optimizeimages) Sketch plugin for optimizing all images within your document.
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch.
 - [peterwooley/colorpeek-sketch-plugin](https://github.com/peterwooley/colorpeek-sketch-plugin) Gathers the colors used in your selected layers and shows them in Colorpeek.
 - [PEZ/SketchDistributor](https://github.com/pez/sketchdistributor) Distribute selection objects vertically or horizontally with a given spacing between them.
