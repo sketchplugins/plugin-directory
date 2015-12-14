@@ -235,7 +235,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) 
 - [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin) Toggle Visibility of 'NoPrint' layers in Sketch
 - [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) Pixel Perfecter helps you find pixel imperfect layers in your documents.
-- [t32k/material-design-color-palette-sketch-plugin](https://github.com/t32k/material-design-color-palette-sketch-plugin) Sketch app plugin for displaying Google material design color palette.
+- [t32k/material-design-color-palette](https://github.com/t32k/material-design-color-palette) Sketch app plugin for displaying Google material design color palette.
 - [tadija/AEFlowchart](https://github.com/tadija/aeflowchart) This plugin makes it fast and easy to draw flowcharts in Sketch.
 - [tadija/AEIconizer](https://github.com/tadija/aeiconizer) A Sketch plugin that automatically resizes artwork for iOS app icon.
 - [tarngerine/sketch-origami-export](https://github.com/tarngerine/sketch-origami-export) Official export plugin for Facebook's Origami for Quartz Composer.

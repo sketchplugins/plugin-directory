@@ -667,7 +667,7 @@
     {
         "description": "Sketch app plugin for displaying Google material design color palette.",
         "owner": "t32k",
-        "name": "material-design-color-palette-sketch-plugin"
+        "name": "material-design-color-palette"
     },
     {
         "description": "This plugin includes a few simple actions to make managing pages easier in Sketch.",
