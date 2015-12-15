@@ -1345,11 +1345,6 @@
         "owner": "ngs"
     },
     {
-        "description": "",
-        "name": "copy-paste-guides",
-        "owner": "EnzioRossa"
-    },
-    {
         "description": "Sketch plugin for optimizing all images within your document.",
         "name": "Sketch-OptimizeImages",
         "owner": "peerjollux"
