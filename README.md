@@ -196,6 +196,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch.
 - [peterwooley/colorpeek-sketch-plugin](https://github.com/peterwooley/colorpeek-sketch-plugin) Gathers the colors used in your selected layers and shows them in Colorpeek.
 - [PEZ/SketchDistributor](https://github.com/pez/sketchdistributor) Distribute selection objects vertically or horizontally with a given spacing between them.
+- [pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) 
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice.
 - [poyi/Copy-Fill-Color](https://github.com/poyi/copy-fill-color) A Plugin that provides a shortcut for copying a layer's fill color to clipboard.
 - [preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.

@@ -1353,5 +1353,10 @@
         "description": "Sketch plugin for optimizing all images within your document.",
         "name": "Sketch-OptimizeImages",
         "owner": "peerjollux"
+    },
+    {
+        "description": "",
+        "name": "copy-paste-guides",
+        "owner": "pixelpillow"
     }
 ]
