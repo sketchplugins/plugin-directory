@@ -1348,5 +1348,10 @@
         "description": "",
         "name": "copy-paste-guides",
         "owner": "EnzioRossa"
+    },
+    {
+        "description": "Generate exports for your layers with simple shortcuts.",
+        "name": "sketch-export-generator",
+        "owner": "kang-chen"
     }
 ]
