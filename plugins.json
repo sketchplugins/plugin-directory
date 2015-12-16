@@ -1353,5 +1353,10 @@
         "description": "Easily copy, paste or remove guides from/to your artboard(s).",
         "name": "copy-paste-guides",
         "owner": "pixelpillow"
+    },
+    {
+        "description": "Sketch plugin to export assets at different scale sizes",
+        "name": "sketch-export-generator",
+        "owner": "kang-chen"
     }
 ]
