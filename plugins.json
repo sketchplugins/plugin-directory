@@ -25,6 +25,11 @@
         "owner": "goodpatch"
     },
     {
+        "description": "Disconnect / unlink selection from symbols and shared styles.",
+        "name": "Disconnect-for-Sketch",
+        "owner": "einancunlu"
+    },
+    {
         "description": "Define different states and switch between them like a boss.",
         "name": "Sketch-State-Switch-Master",
         "owner": "einancunlu"

@@ -68,6 +68,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
 - [ed-lea/easyshare.sketchplugin](https://github.com/ed-lea/easyshare.sketchplugin) The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
+- [einancunlu/Disconnect-for-Sketch](https://github.com/einancunlu/disconnect-for-sketch) Disconnect / unlink selection from symbols and shared styles.
 - [einancunlu/Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator) A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/sketch-state-switch-master) Define different states and switch between them like a boss.
 - [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/sketch-all-caps) Sketch all caps plugin
