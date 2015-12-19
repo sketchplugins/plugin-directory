@@ -102,6 +102,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hamidp/sketchtextsourcer](https://github.com/hamidp/sketchtextsourcer) Sketch plugin for easily populating a bunch of text layers from a source.
 - [herrhelms/even-guides-sketch](https://github.com/herrhelms/even-guides-sketch) Add evenly distributed guides to artboards.
+- [herrhelms/radial-lines-sketch](https://github.com/herrhelms/radial-lines-sketch) Generate lines originating from a certain coordinate of an artboard.
 - [herrhelms/social-artboards-sketch](https://github.com/herrhelms/social-artboards-sketch) Artboard presets for social media images.
 - [heysketch/sketch-color-picker-plus](https://github.com/heysketch/sketch-color-picker-plus) Set borders color using standard Sketch color picker
 - [hrescak/MatejSketchPlugins](https://github.com/hrescak/matejsketchplugins) a box for random sketch plugins
