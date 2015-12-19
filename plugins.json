@@ -1,5 +1,10 @@
 [
     {
+        "description": "Generate lines originating from a certain coordinate of an artboard.",
+        "name": "radial-lines-sketch",
+        "owner": "herrhelms"
+    },
+    {
         "description": "Add evenly distributed guides to artboards.",
         "name": "even-guides-sketch",
         "owner": "herrhelms"
