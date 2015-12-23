@@ -1368,5 +1368,10 @@
         "description": "Sketch plugin to export assets at different scale sizes",
         "name": "sketch-export-generator",
         "owner": "kang-chen"
+    },
+    {
+        "description": "Sketch plugin to create nested symbols.",
+        "name": "sketch-create-nested-symbol",
+        "owner": "mludowise"
     }
 ]
