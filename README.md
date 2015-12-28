@@ -173,6 +173,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [mendyismyname/Dynamic-Button-Symbol-Detacher](https://github.com/mendyismyname/dynamic-button-symbol-detacher) Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons
 - [mfouquet/Color-Copier](https://github.com/mfouquet/color-copier) Sketch Plugin to quickly copy color RGB/HEX values.
 - [mindwork/sketch](https://github.com/mindwork/sketch) A rename layers plugin.
+- [mludowise/sketch-create-nested-symbol](https://github.com/mludowise/sketch-create-nested-symbol) Sketch plugin to create nested symbols.
 - [mmth/sketch-artwork-fetcher](https://github.com/mmth/sketch-artwork-fetcher) Artwork fetcher plugin for Sketch
 - [mpaiva/My-Sketch-Plugins](https://github.com/mpaiva/my-sketch-plugins) An amazing resource to get you started with Sketch plugins development.
 - [mscodemonkey/Sketch-Find-And-Replace](https://github.com/mscodemonkey/sketch-find-and-replace) Sketch 3 plugin to do a simple find and replace on text within layers
