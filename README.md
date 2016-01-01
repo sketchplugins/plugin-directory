@@ -22,6 +22,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) Sketch plugin that lets you save and load colors in the color picker
 - [andrewfiorillo/sketch-unlock-all](https://github.com/andrewfiorillo/sketch-unlock-all) Sketch plugin to unlock all layers
 - [AndrewKF/Sketch-Buttonsmith](https://github.com/andrewkf/sketch-buttonsmith) A button creator plugin for Sketch.
+- [AntonioJMartinez/sketch-ImageAverageColor](https://github.com/antoniojmartinez/sketch-imageaveragecolor) A plugin to save and use the average color of an image.
 - [AntonStrand/dynamic-reposition](https://github.com/antonstrand/dynamic-reposition) Make it easy to resize an object without having to manually move all the content to keep the margins.
 - [AntonStrand/Sketch-Resize](https://github.com/antonstrand/sketch-resize) Use one layer or the artboard as a template to resize other layers.
 - [arjenvr/sketch-radius](https://github.com/arjenvr/sketch-radius) Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.

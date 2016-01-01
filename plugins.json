@@ -1373,5 +1373,10 @@
         "description": "Sketch plugin to create nested symbols.",
         "name": "sketch-create-nested-symbol",
         "owner": "mludowise"
+    },
+    {
+        "description": "A plugin to save and use the average color of an image.",
+        "name": "sketch-ImageAverageColor",
+        "owner": "AntonioJMartinez"
     }
 ]
