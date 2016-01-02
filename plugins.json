@@ -1378,5 +1378,10 @@
         "description": "A plugin to save and use the average color of an image.",
         "name": "sketch-ImageAverageColor",
         "owner": "AntonioJMartinez"
+    },
+    {
+        "description": "Sketch plugin to generate FramerJS prototypes. Just have your motion done.",
+        "name": "Framer-Inventory-for-Sketch",
+        "owner": "timurnurutdinov"
     }
 ]
