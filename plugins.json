@@ -30,6 +30,11 @@
         "owner": "goodpatch"
     },
     {
+        "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.",
+        "name": "Flatten-Plugin-for-Sketch",
+        "owner": "einancunlu"
+    },
+    {
         "description": "Disconnect / unlink selection from symbols and shared styles.",
         "name": "Disconnect-for-Sketch",
         "owner": "einancunlu"
