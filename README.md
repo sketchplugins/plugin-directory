@@ -269,6 +269,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [vibrazy/Color-Fonts-Code-Generator-iOS-Android-Windows](https://github.com/vibrazy/color-fonts-code-generator-ios-android-windows) Create Color and Font Swatches and Export to iOS, Android and Windows
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [webpatch/Handy-Tools](https://github.com/webpatch/handy-tools) Some handy tools for Sketch
+- [websiddu/sketch-symbol-me](https://github.com/websiddu/sketch-symbol-me) Convert all your similar layers to symbols with a single click.
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/weezards-sketch-plugins) Some useful plugins for Sketch 3.0.
 - [wentin/sketch-states-switch](https://github.com/wentin/sketch-states-switch) A tool to save and switch states for quick demo purpose in sketch.
 - [wodory/flowmate](https://github.com/wodory/flowmate) Sketch Plugin to draw flowchart and diagram
