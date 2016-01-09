@@ -1388,5 +1388,10 @@
         "description": "Sketch plugin to generate FramerJS prototypes. Just have your motion done.",
         "name": "Framer-Inventory-for-Sketch",
         "owner": "timurnurutdinov"
+    },
+    {
+        "description": "Convert all your similar layers to symbols with a single click.",
+        "name": "SymbolMe",
+        "owner": "websiddu"
     }
 ]
