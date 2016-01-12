@@ -48,8 +48,12 @@ EOF
     name  = plugin['name']
     owner = plugin['owner']
     url   = "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc  = plugin['description']
-    output << "- [#{owner}/#{name}](#{url}) #{desc}\n"
+    desc  = plugin['description'].strip
+    output << "- [#{owner}/#{name}](#{url})"
+    if !desc.empty?
+      output << " #{desc}"
+    end
+    output << "\n"
   end
 
   IO.write('README.md',output)
