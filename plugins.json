@@ -1398,5 +1398,10 @@
         "description": "A plugin to copy the fill, border, or text color of the selected layer to the clipboard as HSLA.",
         "name": "copy-color-as-hsla",
         "owner": "peterwooley"
+    },
+    {
+        "description": "Replace all fill or text colours matching the selected layer",
+        "name": "sketch-replace-colour",
+        "owner": "lewishowles"
     }
 ]
