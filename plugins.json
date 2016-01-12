@@ -1391,7 +1391,7 @@
     },
     {
         "description": "Convert all your similar layers to symbols with a single click.",
-        "name": "SymbolMe",
+        "name": "sketch-symbol-me",
         "owner": "websiddu"
     },
     {
