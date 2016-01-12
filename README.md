@@ -69,8 +69,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
 - [ed-lea/easyshare.sketchplugin](https://github.com/ed-lea/easyshare.sketchplugin) The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
-- [einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch) Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
 - [einancunlu/Disconnect-for-Sketch](https://github.com/einancunlu/disconnect-for-sketch) Disconnect / unlink selection from symbols and shared styles.
+- [einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch) Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
 - [einancunlu/Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator) A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/sketch-state-switch-master) Define different states and switch between them like a boss.
 - [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/sketch-all-caps) Sketch all caps plugin
@@ -250,7 +250,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [tarngerine/sketch-origami-export](https://github.com/tarngerine/sketch-origami-export) Official export plugin for Facebook's Origami for Quartz Composer.
 - [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) Automatically generate charts and data tables with real numbers in Sketch. Import directly from CSV files.
 - [timuric/Content-generator-sketch-plugin](https://github.com/timuric/content-generator-sketch-plugin) Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
-- [timurnurutdinov/Framer-Inventory-for-Sketch](https://github.com/timurnurutdinov/Framer-Inventory-for-Sketch) Sketch plugin to generate FramerJS prototypes. Just have your motion done.
+- [timurnurutdinov/Framer-Inventory-for-Sketch](https://github.com/timurnurutdinov/framer-inventory-for-sketch) Sketch plugin to generate FramerJS prototypes. Just have your motion done.
 - [todoriliev/generate-android-assets](https://github.com/todoriliev/generate-android-assets) Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets.
 - [tokuda109/SwitchArtboard.sketchplugin](https://github.com/tokuda109/switchartboard.sketchplugin) Sketch 3 plugin to quickly switch between artboards
 - [tomorrowkey/sketch3-mosaic-plugin](https://github.com/tomorrowkey/sketch3-mosaic-plugin) A plugin for Sketch3 to apply mosaic easily
