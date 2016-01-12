@@ -16,7 +16,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ajaaibu/ThaanaText](https://github.com/ajaaibu/thaanatext) Sketch Plugin to generate thaana strings, paragraphs, articles.
 - [alessndro/sketch-plugins](https://github.com/alessndro/sketch-plugins) An incredible collection of plugins, including some great ones for working with baselines.
 - [alexito4/Sketch-Color-Theme-Plugin](https://github.com/alexito4/sketch-color-theme-plugin) Sketch plugin that generates Objective-C Color Theme files.
-- [alienresident/Sketch-Flowchart](https://github.com/alienresident/sketch-flowchart) Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles 
+- [alienresident/Sketch-Flowchart](https://github.com/alienresident/sketch-flowchart) Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles
 - [almonk/SketchGit](https://github.com/almonk/sketchgit) A simple Git client built right into Sketch.
 - [andrewfiorillo/sketch-character-count](https://github.com/andrewfiorillo/sketch-character-count) Sketch plugin to count number of characters in a text layer
 - [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) Sketch plugin that lets you save and load colors in the color picker
@@ -27,7 +27,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AntonStrand/Sketch-Resize](https://github.com/antonstrand/sketch-resize) Use one layer or the artboard as a template to resize other layers.
 - [arjenvr/sketch-radius](https://github.com/arjenvr/sketch-radius) Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
-- [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin) 
+- [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin)
 - [arshad/Sketch-Sass-Colors](https://github.com/arshad/sketch-sass-colors) Displays colors as preconfigure Sass variables for Sketch.
 - [Ashung/Automate-Sketch](https://github.com/ashung/automate-sketch) Some scripts for Bohemian Coding’s Sketch.
 - [atomkirk/Find-Slice-Sketch-Plugin](https://github.com/atomkirk/find-slice-sketch-plugin) List all exportable layers/slices and navigate to selection.
@@ -69,8 +69,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [dunckr/sketch-colorfulgradients](https://github.com/dunckr/sketch-colorfulgradients) Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.
 - [dunckr/sketch-subtlepatterns](https://github.com/dunckr/sketch-subtlepatterns) Import subtle patterns as shape fills in Sketch.
 - [ed-lea/easyshare.sketchplugin](https://github.com/ed-lea/easyshare.sketchplugin) The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
-- [einancunlu/Disconnect-for-Sketch](https://github.com/einancunlu/disconnect-for-sketch) Disconnect / unlink selection from symbols and shared styles.
 - [einancunlu/Flatten-Plugin-for-Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch) Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
+- [einancunlu/Disconnect-for-Sketch](https://github.com/einancunlu/disconnect-for-sketch) Disconnect / unlink selection from symbols and shared styles.
 - [einancunlu/Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator) A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [einancunlu/Sketch-State-Switch-Master](https://github.com/einancunlu/sketch-state-switch-master) Define different states and switch between them like a boss.
 - [eivindbohler/Sketch-All-Caps](https://github.com/eivindbohler/sketch-all-caps) Sketch all caps plugin
@@ -78,7 +78,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [elihorne/smartboards](https://github.com/elihorne/smartboards) Smartboards is a collection of plugins that make my life easier in Sketch.
 - [eric-adstage/Sketch_RotateLine](https://github.com/eric-adstage/sketch_rotateline) More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.
 - [Falkeyn/Modulizer](https://github.com/falkeyn/modulizer) Sketch.app plugin for auto-padding.
-- [fhuel/Unsplash-It-Sketch](https://github.com/fhuel/unsplash-it-sketch) A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. 
+- [fhuel/Unsplash-It-Sketch](https://github.com/fhuel/unsplash-it-sketch) A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
 - [florianpnn/sketch-data-parser](https://github.com/florianpnn/sketch-data-parser) A sketch plugin to parse your data and populate your design.
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
 - [FrancisVega/ZEN-Sketch](https://github.com/francisvega/zen-sketch) A collection of Sketch plugins
@@ -165,7 +165,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [margusholland/Comma-Fucker](https://github.com/margusholland/comma-fucker) Sketch plugin for text modifications
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
-- [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch 
+- [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch
 - [matt-curtis/fluid-for-sketch](https://github.com/matt-curtis/fluid-for-sketch) Sketch-flavored Auto Layout-like Constraints. Restart Sketch after updating the plugin.
 - [matt-curtis/Sketch-Server](https://github.com/matt-curtis/sketch-server) A Sketch Plugin that creates a local web server for your Sketch Documents.
 - [mattmcmanus/select-child-layers-sketch-plugin](https://github.com/mattmcmanus/select-child-layers-sketch-plugin) Select all child layers of a group with a key command.
@@ -215,7 +215,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ribot/sketch-user-flow-docs](https://github.com/ribot/sketch-user-flow-docs) This plugin lets you link images in a document with an extenal image file and update them all at once.
 - [rodi01/Align-To-Layer](https://github.com/rodi01/align-to-layer) Sketch plugin to align selected layers to the bottom one.
 - [rodi01/RenameIt](https://github.com/rodi01/renameit) A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
-- [rojcyk/workbench](https://github.com/rojcyk/workbench) 
+- [rojcyk/workbench](https://github.com/rojcyk/workbench)
 - [romannurik/Sketch-ArtboardTricks](https://github.com/romannurik/sketch-artboardtricks) Artboard Tricks plugin for Sketch
 - [romannurik/Sketch-NibUITemplatePlugin](https://github.com/romannurik/sketch-nibuitemplateplugin) A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic
 - [romashamin/sort-me-sketch](https://github.com/romashamin/sort-me-sketch) Sort artboards and layers by name
@@ -240,7 +240,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [soulchild/sketch-logo-fetcher](https://github.com/soulchild/sketch-logo-fetcher) Sketch plugin which fetches and inserts logos using the Clearbit company logo API
 - [soutaro/Align-text-baseline-sketch-plugin](https://github.com/soutaro/align-text-baseline-sketch-plugin) Align text layer vertically based on its baseline and cap height
 - [sskyy/blade](https://github.com/sskyy/blade) A Sketch plugin for automatically HTML generate.
-- [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers) 
+- [stuartromanek/sketch-mouse-pointers](https://github.com/stuartromanek/sketch-mouse-pointers)
 - [sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin) Toggle Visibility of 'NoPrint' layers in Sketch
 - [swiadek/pixel-perfecter-sketch-plugin](https://github.com/swiadek/pixel-perfecter-sketch-plugin) Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [t32k/material-design-color-palette](https://github.com/t32k/material-design-color-palette) Sketch app plugin for displaying Google material design color palette.
@@ -249,7 +249,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [tarngerine/sketch-origami-export](https://github.com/tarngerine/sketch-origami-export) Official export plugin for Facebook's Origami for Quartz Composer.
 - [thetylerwolf/sketch-data-studio](https://github.com/thetylerwolf/sketch-data-studio) Automatically generate charts and data tables with real numbers in Sketch. Import directly from CSV files.
 - [timuric/Content-generator-sketch-plugin](https://github.com/timuric/content-generator-sketch-plugin) Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
-- [timurnurutdinov/Framer-Inventory-for-Sketch](https://github.com/timurnurutdinov/framer-inventory-for-sketch) Sketch plugin to generate FramerJS prototypes. Just have your motion done.
+- [timurnurutdinov/Framer-Inventory-for-Sketch](https://github.com/timurnurutdinov/Framer-Inventory-for-Sketch) Sketch plugin to generate FramerJS prototypes. Just have your motion done.
 - [todoriliev/generate-android-assets](https://github.com/todoriliev/generate-android-assets) Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets.
 - [tokuda109/SwitchArtboard.sketchplugin](https://github.com/tokuda109/switchartboard.sketchplugin) Sketch 3 plugin to quickly switch between artboards
 - [tomorrowkey/sketch3-mosaic-plugin](https://github.com/tomorrowkey/sketch3-mosaic-plugin) A plugin for Sketch3 to apply mosaic easily
@@ -270,7 +270,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [vibrazy/Color-Fonts-Code-Generator-iOS-Android-Windows](https://github.com/vibrazy/color-fonts-code-generator-ios-android-windows) Create Color and Font Swatches and Export to iOS, Android and Windows
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [webpatch/Handy-Tools](https://github.com/webpatch/handy-tools) Some handy tools for Sketch
-- [websiddu/SymbolMe](https://github.com/websiddu/symbolme) Convert all your similar layers to symbols with a single click.
+- [websiddu/sketch-symbol-me](https://github.com/websiddu/sketch-symbol-me) Convert all your similar layers to symbols with a single click.
 - [weezard/Weezards-Sketch-Plugins](https://github.com/weezard/weezards-sketch-plugins) Some useful plugins for Sketch 3.0.
 - [wentin/sketch-states-switch](https://github.com/wentin/sketch-states-switch) A tool to save and switch states for quick demo purpose in sketch.
 - [wodory/flowmate](https://github.com/wodory/flowmate) Sketch Plugin to draw flowchart and diagram

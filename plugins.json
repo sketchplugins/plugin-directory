@@ -1394,7 +1394,6 @@
         "name": "SymbolMe",
         "owner": "websiddu"
     },
-
     {
         "description": "A plugin to copy the fill, border, or text color of the selected layer to the clipboard as HSLA.",
         "name": "copy-color-as-hsla",
