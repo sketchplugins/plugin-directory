@@ -200,6 +200,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [peerjollux/Sketch-OptimizeImages](https://github.com/peerjollux/sketch-optimizeimages) Sketch plugin for optimizing all images within your document.
 - [petehouston/sketch-guides](https://github.com/petehouston/sketch-guides) Just another Guide plugin for Sketch.
 - [peterwooley/colorpeek-sketch-plugin](https://github.com/peterwooley/colorpeek-sketch-plugin) Gathers the colors used in your selected layers and shows them in Colorpeek.
+- [peterwooley/copy-color-as-hsla](https://github.com/peterwooley/copy-color-as-hsla) A plugin to copy the fill, border, or text color of the selected layer to the clipboard as HSLA.
 - [PEZ/SketchDistributor](https://github.com/pez/sketchdistributor) Distribute selection objects vertically or horizontally with a given spacing between them.
 - [pixelpillow/copy-paste-guides](https://github.com/pixelpillow/copy-paste-guides) Easily copy, paste or remove guides from/to your artboard(s).
 - [postite/colorPoz](https://github.com/postite/colorpoz) recolor all elements like the selected object color with the hex color of your choice.
