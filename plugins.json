@@ -1393,5 +1393,11 @@
         "description": "Convert all your similar layers to symbols with a single click.",
         "name": "SymbolMe",
         "owner": "websiddu"
+    },
+
+    {
+        "description": "A plugin to copy the fill, border, or text color of the selected layer to the clipboard as HSLA.",
+        "name": "copy-color-as-hsla",
+        "owner": "peterwooley"
     }
 ]
