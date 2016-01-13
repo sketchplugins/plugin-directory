@@ -1403,5 +1403,10 @@
         "description": "Replace all fill or text colours matching the selected layer",
         "name": "sketch-replace-colour",
         "owner": "lewishowles"
+    },
+    {
+        "description": "Sketch plug-in to distribute layers evenly",
+        "name": "sketch-distribute-layers",
+        "owner": "wonderbit"
     }
 ]

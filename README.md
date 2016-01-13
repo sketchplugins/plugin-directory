@@ -276,6 +276,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [wentin/sketch-states-switch](https://github.com/wentin/sketch-states-switch) A tool to save and switch states for quick demo purpose in sketch.
 - [wodory/flowmate](https://github.com/wodory/flowmate) Sketch Plugin to draw flowchart and diagram
 - [wolanski/sketch-vertical-teleporter](https://github.com/wolanski/sketch-vertical-teleporter) Moves selected layers vertically according to the cursor position.
+- [wonderbit/sketch-distribute-layers](https://github.com/wonderbit/sketch-distribute-layers) Sketch plug-in to distribute layers evenly
 - [wonderbit/sketch-select-similar-layers](https://github.com/wonderbit/sketch-select-similar-layers) A plugin that selects layers with similar attributes to those of the layer currently selected.
 - [WorkingOn/SketchingOn](https://github.com/workingon/sketchingon) Quickly select and share work in progress with your team via WorkingOn <http://workingon.co>.
 - [x-raizor/Efficiency](https://github.com/x-raizor/efficiency) Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
