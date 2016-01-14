@@ -1408,5 +1408,10 @@
         "description": "Sketch plug-in to distribute layers evenly",
         "name": "sketch-distribute-layers",
         "owner": "wonderbit"
+    },
+    {
+        "description": "Draws a rectangle of the same size, shape and position as the selected layer, with possible padding.",
+        "name": "sketch-bound-with-box",
+        "owner": "lewishowles"
     }
 ]

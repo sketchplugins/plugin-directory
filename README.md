@@ -147,6 +147,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [kumo/Sketch-Plugin-Scripts](https://github.com/kumo/sketch-plugin-scripts) Some scripts to randomly distribute and rotate objects.
 - [kumo/sketch-tiles](https://github.com/kumo/sketch-tiles) A Sketch plugin for playing with seamless tiles
 - [kvendrik/sketch-json-parser](https://github.com/kvendrik/sketch-json-parser) Replaces layer values in groups with JSON data
+- [lewishowles/sketch-bound-with-box](https://github.com/lewishowles/sketch-bound-with-box) Draws a rectangle of the same size, shape and position as the selected layer, with possible padding.
 - [lewishowles/sketch-replace-colour](https://github.com/lewishowles/sketch-replace-colour) Replace all fill or text colours matching the selected layer
 - [LigCreative/sketch-bluth-ipsum](https://github.com/ligcreative/sketch-bluth-ipsum) Sketch App plugin for creating dummy 'Bluth' content <http://ligcreative.github.io/sketch-bluth-ipsum/>.
 - [littlebusters/Regexp-Rename](https://github.com/littlebusters/regexp-rename) You can change the layer name by Regexp in Sketch 3.
