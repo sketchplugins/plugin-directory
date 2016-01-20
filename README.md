@@ -227,6 +227,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sagishrieber/sketch-any-icon-fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher) This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design
 - [samdeane/sketch-scripts](https://github.com/samdeane/sketch-scripts) Scripts for Sketch, by another one of the Bohemian Coding guys.
 - [schwa23/cleanupsfui](https://github.com/schwa23/cleanupsfui) Sketch Plugin to clean up SF UI fonts character spacing & normalize text & display variants.
+- [ScottSavarie/Clipboard-Fill](https://github.com/scottsavarie/clipboard-fill) Sketch plugin to paste an image from your clipboard as the fill for any shape
 - [sdrib/HipsterFill](https://github.com/sdrib/hipsterfill) Dummy text filler plugin for Sketch!
 - [sebj/Cover-Artboard](https://github.com/sebj/cover-artboard) Resizes the selected layer to cover its containing artboard in Sketch.
 - [sebj/Invert-Background-Color](https://github.com/sebj/invert-background-color) Invert a layer's background color in Sketch.
