@@ -1418,5 +1418,10 @@
         "description": "Sketch plugin to paste an image from your clipboard as the fill for any shape",
         "name": "Clipboard-Fill",
         "owner": "ScottSavarie"
+    },
+    {
+        "description": "Sketch plugin to handle versioning in git.",
+        "name": "git-sketch-plugin",
+        "owner": "mathieudutour"
     }
 ]
