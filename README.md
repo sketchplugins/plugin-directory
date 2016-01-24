@@ -167,6 +167,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [margusholland/Comma-Fucker](https://github.com/margusholland/comma-fucker) Sketch plugin for text modifications
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
+- [mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) Sketch plugin to handle versioning in git.
 - [matt-curtis/Archetype](https://github.com/matt-curtis/archetype) An expiriemental plugin for Sketch
 - [matt-curtis/fluid-for-sketch](https://github.com/matt-curtis/fluid-for-sketch) Sketch-flavored Auto Layout-like Constraints. Restart Sketch after updating the plugin.
 - [matt-curtis/Sketch-Server](https://github.com/matt-curtis/sketch-server) A Sketch Plugin that creates a local web server for your Sketch Documents.
