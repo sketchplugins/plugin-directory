@@ -1423,5 +1423,10 @@
         "description": "Sketch plugin to handle versioning in git.",
         "name": "git-sketch-plugin",
         "owner": "mathieudutour"
+    },
+    {
+        "description": "Create circles as areas or lines with a custom number of points/segments",
+        "name": "gb-sketch-segmentcircle",
+        "owner": "design4use"
     }
 ]
