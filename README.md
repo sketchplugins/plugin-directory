@@ -189,6 +189,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [nathco/Generate-ICNS](https://github.com/nathco/generate-icns) Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [nathco/Swap-Fill-Border](https://github.com/nathco/swap-fill-border) Sketch.app plugin for swapping fill and border colors.
 - [nathco/Sync-Plugins](https://github.com/nathco/sync-plugins) Sync local Sketch.app plugins with their master version at GitHub.
+- [nefaurk/select-parent-artboards](https://github.com/nefaurk/select-parent-artboards) A Sketch plugin that selects the parent artboards of the current selection
 - [nerthase/TrimArtboard](https://github.com/nerthase/trimartboard) A simple Sketch plugin to trim artboards
 - [ngs/sketchplugin-swift-color](https://github.com/ngs/sketchplugin-swift-color) Plugin for generating UIColor and NSColor initializer from fill color of selected layers.
 - [nickstamas/Sketch-Better-Android-Export](https://github.com/nickstamas/sketch-better-android-export) A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
