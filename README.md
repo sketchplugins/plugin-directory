@@ -213,7 +213,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.
 - [preciousforever/sketch-toggle-layer-visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility) A simple plugin to to toggle visibility of a specified 'layerName'.
 - [Proto-io/sketch-protoio-export](https://github.com/proto-io/sketch-protoio-export) Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
-- [Qordobacode/qordoba-for-sketch](https://github.com/qordobacode/qordoba-for-sketch) Qordoba’s Sketch plugin makes it easier for design teams to work and iterate on internationalized products.
+- [Qordobacode/qordoba-for-sketch](https://github.com/qordobacode/qordoba-for-sketch) Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.
 - [Raureif/sketch-click-dummy](https://github.com/raureif/sketch-click-dummy) Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
 - [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum) This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
 - [ribot/sketch-page-helpers](https://github.com/ribot/sketch-page-helpers) This plugin includes a few simple actions to make managing pages easier in Sketch.
