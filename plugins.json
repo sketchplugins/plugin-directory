@@ -1433,5 +1433,10 @@
         "description": "Qordoba’s Sketch plugin makes it easier for design teams to work and iterate on internationalized products.",
         "name": "qordoba-for-sketch",
         "owner": "Qordobacode"
+    },
+    {
+        "description": "A Sketch plugin that selects the parent artboards of the current selection",
+        "name": "select-parent-artboards",
+        "owner": "nefaurk"
     }
 ]
