@@ -82,6 +82,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [fhuel/Unsplash-It-Sketch](https://github.com/fhuel/unsplash-it-sketch) A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
 - [florianpnn/sketch-data-parser](https://github.com/florianpnn/sketch-data-parser) A sketch plugin to parse your data and populate your design.
 - [fnky/sketch-dockpreview](https://github.com/fnky/sketch-dockpreview) A Sketch plugin that lets you preview your current artboard in the Dock.
+- [FrancisVega/sQuery](https://github.com/francisvega/squery) A growing small library of chain methods "in a jQuery way" for Sketch to make the selection and filter task a little easiest :)
 - [FrancisVega/ZEN-Sketch](https://github.com/francisvega/zen-sketch) A collection of Sketch plugins
 - [frankko/Artboard-Tools](https://github.com/frankko/artboard-tools) Sketch.app plugins for arranging artboards and navigating between artboards.
 - [frankko/Place-Linked-Bitmap](https://github.com/frankko/place-linked-bitmap) A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated

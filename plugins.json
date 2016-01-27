@@ -1438,5 +1438,10 @@
         "description": "A Sketch plugin that selects the parent artboards of the current selection",
         "name": "select-parent-artboards",
         "owner": "nefaurk"
+    },
+    {
+        "description": "A growing small library of chain methods \"in a jQuery way\" for Sketch to make the selection and filter task a little easiest :)",
+        "name": "sQuery",
+        "owner": "FrancisVega"
     }
 ]
