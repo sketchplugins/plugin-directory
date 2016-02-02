@@ -69,6 +69,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [groove25/DrawingKit](https://github.com/groove25/drawingkit) DrawingKit is a collection of commands for use in Sketch.
 - [hrescak/sketchPlugins](https://github.com/hrescak/sketchplugins) A box for random sketch plugins: **Toggle Specs** (cmd+L) toggles visibility of all of the layer groups in your document named "specs". Other than specs this could be useful with hidden guides.
 - [hugocornejo/sketch-mirror-refresh](https://github.com/hugocornejo/sketch-mirror-refresh) A little plugin to force Sketch Mirror to refresh the whole screen, for those situations when Mirror gets a little bit lazy and refuses to update the last actions.
+- [ichik/RemoveAllGuides](https://github.com/ichik/removeallguides) Remove all guides from the artboard with a shortcut.
 - [ichord/sketch-divine-proportions](https://github.com/ichord/sketch-divine-proportions) A plugin for Sketch to generate divine proportions automatically.
 - [jelias/sketch-upload](https://github.com/jelias/sketch-upload) This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U.
 - [jimrutherford/Random-User](https://github.com/jimrutherford/random-user) A SketchApp plugin that inserts random user data into your Sketch documents.

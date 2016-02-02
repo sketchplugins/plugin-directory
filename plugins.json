@@ -485,6 +485,11 @@
         "name": "sketch-divine-proportions"
     },
     {
+        "description": "Remove all guides from the artboard with a shortcut.",
+        "owner": "ichik",
+        "name": "RemoveAllGuides"
+    },
+    {
         "description": "Import gradients as shape fills using Will Burn's colorfulgradients and colorincolor.",
         "owner": "dunckr",
         "name": "sketch-colorfulgradients"
