@@ -229,6 +229,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [romashamin/sort-me-sketch](https://github.com/romashamin/sort-me-sketch) Sort artboards and layers by name
 - [romashamin/statemachine-sketch](https://github.com/romashamin/statemachine-sketch) The State Switcher
 - [rxlabz/skrx](https://github.com/rxlabz/skrx) Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.
+- [ryanjohnson-me/Sketch-Copy-Paste-Shadows](https://github.com/ryanjohnson-me/sketch-copy-paste-shadows)
 - [ryanlanglois/RulerGrid](https://github.com/ryanlanglois/rulergrid) A Sketch.app plugin to create a grid with rulers.
 - [sagishrieber/sketch-any-icon-fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher) This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design
 - [samdeane/sketch-scripts](https://github.com/samdeane/sketch-scripts) Scripts for Sketch, by another one of the Bohemian Coding guys.
