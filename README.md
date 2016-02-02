@@ -114,6 +114,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [hrescak/Sketch-Layer-Name-Tools](https://github.com/hrescak/sketch-layer-name-tools) Set of plugins for manipulating layer names in Sketch
 - [hrescak/sketchPlugins](https://github.com/hrescak/sketchplugins) A box for random sketch plugins: **Toggle Specs** (cmd+L) toggles visibility of all of the layer groups in your document named "specs". Other than specs this could be useful with hidden guides.
 - [hugocornejo/sketch-mirror-refresh](https://github.com/hugocornejo/sketch-mirror-refresh) A little plugin to force Sketch Mirror to refresh the whole screen, for those situations when Mirror gets a little bit lazy and refuses to update the last actions.
+- [ichik/RemoveAllGuides](https://github.com/ichik/removeallguides) Remove all guides from the artboard with a shortcut.
 - [ichord/sketch-divine-proportions](https://github.com/ichord/sketch-divine-proportions) A plugin for Sketch to generate divine proportions automatically.
 - [interacthings/swap-elements](https://github.com/interacthings/swap-elements) Sketch plugin to swap positions of two elements
 - [jacobmoncur/SketchVectorDrawable](https://github.com/jacobmoncur/sketchvectordrawable) Sketch plugin that exports Android VectorDrawables
