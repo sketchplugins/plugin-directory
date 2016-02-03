@@ -167,7 +167,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [marcisme/sketch-preview](https://github.com/marcisme/sketch-preview) This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [marcosvidal/Sketch-Notebook](https://github.com/marcosvidal/sketch-notebook) Sketch Plugin to make documenting design easier.
 - [marcosvidal/sketch-speaker](https://github.com/marcosvidal/sketch-speaker) Making Sketch talk...
-- [margusholland/Comma-Fucker](https://github.com/margusholland/comma-fucker) Sketch plugin for text modifications
+- [margusholland/Comma](https://github.com/margusholland/comma) Sketch plugin for text modifications
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) A Sketch plugin for a step-wise transformation of one path into another.
 - [marvelapp/marvel-sketch](https://github.com/marvelapp/marvel-sketch) Export your artboards to your Marvel prototypes.
 - [mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) Sketch plugin to handle versioning in git.
