@@ -133,6 +133,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project.
 - [kang-chen/sketch-export-generator](https://github.com/kang-chen/sketch-export-generator) Sketch plugin to export assets at different scale sizes
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
+- [keiwes/Sketch-Mobile-Sizes](https://github.com/keiwes/sketch-mobile-sizes)
 - [kenmoore/Sketch-Arrange-Artboards](https://github.com/kenmoore/sketch-arrange-artboards) Lay out all your artboards in a grid with user-specified number of rows.
 - [kenmoore/Sketch-Artboard](https://github.com/kenmoore/sketch-artboard) Move Next / Previous artboard into view, preserving vertical offset and zooming to width.
 - [kenmoore/Sketch-Better-Paste](https://github.com/kenmoore/sketch-better-paste) Paste like it was meant to be--into the artboard you're viewing.
