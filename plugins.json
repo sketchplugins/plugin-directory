@@ -1458,5 +1458,10 @@
         "description": "",
         "name": "Sketch-Mobile-Sizes",
         "owner": "keiwes"
+    },
+    {
+        "description": "Sparkliner — easy way to make sparkline graph",
+        "name": "Sparkliner",
+        "owner": "Volorf"
     }
 ]

@@ -279,6 +279,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [uhunkler/jstalk-sketch-recipes](https://github.com/uhunkler/jstalk-sketch-recipes) Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) A measure tool for Sketch.app (think Specctr for Sketch)
 - [vibrazy/Color-Fonts-Code-Generator-iOS-Android-Windows](https://github.com/vibrazy/color-fonts-code-generator-ios-android-windows) Create Color and Font Swatches and Export to iOS, Android and Windows
+- [Volorf/Sparkliner](https://github.com/volorf/sparkliner) Sparkliner — easy way to make sparkline graph
 - [vrjbndr/sketch-plugins](https://github.com/vrjbndr/sketch-plugins) A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [webpatch/Handy-Tools](https://github.com/webpatch/handy-tools) Some handy tools for Sketch
 - [websiddu/sketch-symbol-me](https://github.com/websiddu/sketch-symbol-me) Convert all your similar layers to symbols with a single click.
