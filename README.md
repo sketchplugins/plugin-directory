@@ -158,6 +158,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [littlebusters/Sketch-CSS-Sprite-Mixin](https://github.com/littlebusters/sketch-css-sprite-mixin) Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
 - [lmwebdesign/Sketch3-ColorSwitch](https://github.com/lmwebdesign/sketch3-colorswitch) Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.
 - [longzheng/sketch-randomSize](https://github.com/longzheng/sketch-randomsize) Sketch plugin to randomly resize selected elements.
+- [lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin](https://github.com/lorenzwoehr/golden-ratio-line-height-sketch-plugin) Optimize your typography based on font size, line-height and width.
 - [lrtitze/Sketch-Plugins-LRTGenerators](https://github.com/lrtitze/sketch-plugins-lrtgenerators) Sketch 3 plugin scripts for generating object collections.
 - [LucienLee/AlignTo](https://github.com/lucienlee/alignto) Sketch 3 plugin that align layers relative to more options.
 - [lukas77me/Sketch-Comments](https://github.com/lukas77me/sketch-comments) Easily add comments to your designs.

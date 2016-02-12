@@ -1463,5 +1463,10 @@
         "description": "Sparkliner — easy way to make sparkline graph",
         "name": "Sparkliner",
         "owner": "Volorf"
+    },
+    {
+        "description": "Optimize your typography based on font size, line-height and width.",
+        "name": "Golden-Ratio-Line-Height-Sketch-Plugin",
+        "owner": "lorenzwoehr"
     }
 ]
