@@ -14,7 +14,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [acollurafici/Sketch-Nearest-8](https://github.com/acollurafici/sketch-nearest-8) Sketch Plugin to round shape size to the nearest multiple of 8
 - [adamhowell/random-opacity-sketch-plugin](https://github.com/adamhowell/random-opacity-sketch-plugin) Randomly change the opacity of selected objects in Sketch.
 - [ajaaibu/ThaanaText](https://github.com/ajaaibu/thaanatext) Sketch Plugin to generate thaana strings, paragraphs, articles.
-- [alessndro/sketch-plugins](https://github.com/alessndro/sketch-plugins) An incredible collection of plugins, including some great ones for working with baselines.
+- [alessndro/sandros-sketch-plugins](https://github.com/alessndro/sandros-sketch-plugins) A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [alexito4/Sketch-Color-Theme-Plugin](https://github.com/alexito4/sketch-color-theme-plugin) Sketch plugin that generates Objective-C Color Theme files.
 - [alienresident/Sketch-Flowchart](https://github.com/alienresident/sketch-flowchart) Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles
 - [almonk/SketchGit](https://github.com/almonk/sketchgit) A simple Git client built right into Sketch.
