@@ -255,8 +255,10 @@
         "owner": "timuric"
     },
     {
-        "description": "An incredible collection of plugins, including some great ones for working with baselines.",
-        "name": "sketch-plugins",
+        "description": "A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.",
+        "name": "sandros-sketch-plugins",
+        "title": "Sketch Plugins",
+        "author": "Alessandro",
         "owner": "alessndro"
     },
     {
@@ -332,6 +334,8 @@
     {
         "description": "Sketch Plugin to generate thaana strings, paragraphs, articles.",
         "owner": "ajaaibu",
+        "author": "Ahmed Ali",
+        "title": "Thaana Text Generator",
         "name": "ThaanaText"
     },
     {
@@ -442,6 +446,8 @@
     {
         "description": "Randomly change the opacity of selected objects in Sketch.",
         "owner": "adamhowell",
+        "author": "Adam Howell",
+        "title": "Random Opacity Sketch Plugin",
         "name": "random-opacity-sketch-plugin"
     },
     {
@@ -707,6 +713,7 @@
     {
         "description": "Replace layers in Sketch with photos from Instagram.",
         "owner": "abynim",
+        "author": "Aby Nimbalkar",
         "name": "SketchSquares"
     },
     {
@@ -817,6 +824,8 @@
     {
         "description": "This plugin makes it easy to create different breakpoints during a responsive web design.",
         "name": "pointgrid",
+        "title": "PointGrid",
+        "author": "47 Degrees",
         "owner": "47deg"
     },
     {
@@ -842,6 +851,8 @@
     {
         "description": "Generate user walkthroughs from Artboards in Sketch.",
         "name": "userflows",
+        "title": "User Flows",
+        "author": "Aby Nimbalkar",
         "owner": "abynim"
     },
     {
@@ -942,6 +953,7 @@
     {
         "description": "A Sketch Plugin to export image assets directly to Xcode",
         "name": "Xport",
+        "author": "Aby Nimbalkar",
         "owner": "abynim"
     },
     {
@@ -972,6 +984,8 @@
     {
         "description": "A Sketch plugin to magically convert regular circle layers into pie charts!",
         "name": "sketchy-pies",
+        "title": "Sketchy Pies",
+        "author": "Aby Nimbalkar",
         "owner": "abynim"
     },
     {
@@ -1122,6 +1136,7 @@
     {
         "description": "A Sketch Plugin to align Text Layers by their baselines",
         "name": "BaseAlign",
+        "author": "Aby Nimbalkar",
         "owner": "abynim"
     },
     {
@@ -1152,6 +1167,8 @@
     {
         "description": "Sketch plugin that generates Objective-C Color Theme files.",
         "name": "Sketch-Color-Theme-Plugin",
+        "title": "Sketch Color Theme Plugin",
+        "author": "Alejandro Martínez",
         "owner": "alexito4"
     },
     {
@@ -1242,6 +1259,8 @@
     {
         "description": "Sketch Plugin to round shape size to the nearest multiple of 8",
         "name": "Sketch-Nearest-8",
+        "title": "Sketch Nearest 8",
+        "author": "Anthony Collurafici",
         "owner": "acollurafici"
     },
     {
