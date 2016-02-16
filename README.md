@@ -55,7 +55,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [davidudvardy/sketch-plugins](https://github.com/davidudvardy/sketch-plugins) Scripts for Bohemian Coding's Sketch application.
 - [dawidw/frame-sequencer](https://github.com/dawidw/frame-sequencer) Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
 - [dawidw/move-it](https://github.com/dawidw/move-it) Sketch plugin that let's you move selected layers verticaly and horizontaly.
-- [ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button) Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.
 - [delighted/sketch-duplicate-to-new-artboard](https://github.com/delighted/sketch-duplicate-to-new-artboard) Sketch plugin to duplicate the current selection(s) to new artboard(s).
 - [delighted/sketch-pull-to-center](https://github.com/delighted/sketch-pull-to-center) Pull to center: Move selected shapes or layers toward center of artboard.
 - [delighted/sketch-scale-all-in-place](https://github.com/delighted/sketch-scale-all-in-place) Scale all in place: Resize all selected shapes or layers, in place, from center.
@@ -89,6 +88,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [frankko/UtilityBelt](https://github.com/frankko/utilitybelt) An always-expanding collection of simple, focused plugins for Sketch.
 - [FreakLab/sketch-browser-preview](https://github.com/freaklab/sketch-browser-preview) Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.
 - [FredericJacobs/crop_Artboard](https://github.com/fredericjacobs/crop_artboard) A script to export the Sketch App artboards to the clipboard.
+- [fuggfuggfugg/sketch-dynamic-button-3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5) Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.
 - [GeertWille/sketch-export-assets](https://github.com/geertwille/sketch-export-assets) A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.
 - [GeertWille/sketch-to-xcode-assets-catalog](https://github.com/geertwille/sketch-to-xcode-assets-catalog) A Sketch plugin that allows to export assets for iOS directly from Sketch into Xcodes assets catalog.
 - [getflourish/Consistency](https://github.com/getflourish/consistency) This Sketch plugin helps you to create and apply shared styles and symbols.

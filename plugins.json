@@ -195,11 +195,6 @@
         "owner": "poyi"
     },
     {
-        "description": "Dynamic button plug-in for Sketch.app allows to create buttons with fixed margins no matter what text you add.",
-        "name": "sketch-dynamic-button",
-        "owner": "ddwht"
-    },
-    {
         "description": "A box for random sketch plugins: **Toggle Specs** (cmd+L) toggles visibility of all of the layer groups in your document named \"specs\". Other than specs this could be useful with hidden guides.",
         "name": "sketchPlugins",
         "owner": "hrescak"
@@ -1468,5 +1463,10 @@
         "description": "Optimize your typography based on font size, line-height and width.",
         "name": "Golden-Ratio-Line-Height-Sketch-Plugin",
         "owner": "lorenzwoehr"
+    },
+    {
+        "description": "Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.",
+        "name": "sketch-dynamic-button-3.5",
+        "owner": "fuggfuggfugg"
     }
 ]
