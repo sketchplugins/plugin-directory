@@ -28,7 +28,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AntonStrand/Sketch-Resize](https://github.com/antonstrand/sketch-resize) Use one layer or the artboard as a template to resize other layers.
 - [arjenvr/sketch-radius](https://github.com/arjenvr/sketch-radius) Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
-- [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin)
+- [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin) Plugin that Aligns or Resizes content according to Jan Tschichold's canon of page construction.
 - [arshad/Sketch-Sass-Colors](https://github.com/arshad/sketch-sass-colors) Displays colors as preconfigure Sass variables for Sketch.
 - [Ashung/Automate-Sketch](https://github.com/ashung/automate-sketch) Some scripts for Bohemian Coding’s Sketch.
 - [atomkirk/Find-Slice-Sketch-Plugin](https://github.com/atomkirk/find-slice-sketch-plugin) List all exportable layers/slices and navigate to selection.
@@ -265,7 +265,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [timurnurutdinov/Framer-Inventory-for-Sketch](https://github.com/timurnurutdinov/framer-inventory-for-sketch) Sketch plugin to generate FramerJS prototypes. Just have your motion done.
 - [todoriliev/generate-android-assets](https://github.com/todoriliev/generate-android-assets) Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets.
 - [tokuda109/SwitchArtboard.sketchplugin](https://github.com/tokuda109/switchartboard.sketchplugin) Sketch 3 plugin to quickly switch between artboards
-- [tomorrowkey/sketch3-mosaic-plugin](https://github.com/tomorrowkey/sketch3-mosaic-plugin) A plugin for Sketch3 to apply mosaic easily
+- [tomorrowkey/sketch3-mosaic-plugin](https://github.com/tomorrowkey/sketch3-mosaic-plugin) A plugin for Sketch3 to apply mosaic easily.
 - [trisix/ITSSketchPlugins](https://github.com/trisix/itssketchplugins) Some home-brewed Sketch App Plugins.
 - [trisweb/sketchplugins](https://github.com/trisweb/sketchplugins) Tristan's Plugins for Bohemian Coding's Sketch.app
 - [truthlabs/sketch-unlock-all-layers](https://github.com/truthlabs/sketch-unlock-all-layers) Unlock all layers on the current artboard using ⌘⌥L

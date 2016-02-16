@@ -499,6 +499,8 @@
     {
         "description": "\"Zoom\" to currently selected Artboard.",
         "owner": "Arkkimaagi",
+        "author": "Mikko Tapionlinna",
+        "title": "ArtboardZoom",
         "name": "ArtboardZoom"
     },
     {
@@ -508,8 +510,10 @@
     },
     {
         "description": "Generates a typographic scale from selected text layers.",
-        "owner": "automat",
-        "name": "sketch-plugin-typographic-scale"
+        "name": "sketch-plugin-typographic-scale",
+        "title": "Typographic Scale",
+        "author": "Henryk Wollik",
+        "owner": "automat"
     },
     {
         "description": "Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.",
@@ -549,11 +553,15 @@
     {
         "description": "Make it easy to resize an object without having to manually move all the content to keep the margins.",
         "owner": "AntonStrand",
+        "author": "Anton Strand",
+        "title": "Dynamic Reposition",
         "name": "dynamic-reposition"
     },
     {
         "description": "Use one layer or the artboard as a template to resize other layers.",
         "owner": "AntonStrand",
+        "author": "Anton Strand",
+        "title": "Sketch Resize",
         "name": "Sketch-Resize"
     },
     {
@@ -589,6 +597,8 @@
     {
         "description": "A button creator plugin for Sketch.",
         "owner": "AndrewKF",
+        "author": "Andrew Fullerton",
+        "title": "Sketch Button Smith",
         "name": "Sketch-Buttonsmith"
     },
     {
@@ -790,6 +800,8 @@
     {
         "description": "Properly align text layers regardless of their rectangle box in Sketch.",
         "name": "sketch-text-align",
+        "title": "Text Align",
+        "author": "David Frank",
         "owner": "bitinn"
     },
     {
@@ -941,6 +953,8 @@
     {
         "description": "Generate numbers that are: CTR, clicks, costs, impr.",
         "name": "Sketch-Plugin---NumGen",
+        "title": "NumGen",
+        "author": "Liu Liu",
         "owner": "auxdesigner"
     },
     {
@@ -1004,6 +1018,8 @@
     {
         "description": "Another guide remover plugin for Sketch",
         "name": "sketch-guides-remover",
+        "title": "Guide Remover",
+        "author": "Maxim Melnikov",
         "owner": "bbsody"
     },
     {
@@ -1064,6 +1080,8 @@
     {
         "description": "Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
         "name": "sketch-radius",
+        "title": "Corner Radius Shortcuts Plugin for Sketch",
+        "author": "Arjen van Reeven",
         "owner": "arjenvr"
     },
     {
@@ -1159,6 +1177,8 @@
     {
         "description": "List all exportable layers/slices and navigate to selection.",
         "name": "Find-Slice-Sketch-Plugin",
+        "title": "FindSlice",
+        "author": "Adam Kirk",
         "owner": "atomkirk"
     },
     {
@@ -1243,6 +1263,7 @@
     {
         "description": "Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.",
         "name": "sharpen-images-sketch",
+        "title": "Sharpen Images",
         "owner": "axmsv"
     },
     {
@@ -1288,18 +1309,22 @@
         "owner": "Creatide"
     },
     {
-        "description": "A plugin for Sketch3 to apply mosaic easily",
+        "description": "A plugin for Sketch3 to apply mosaic easily.",
         "name": "sketch3-mosaic-plugin",
         "owner": "tomorrowkey"
     },
     {
-        "description": "",
+        "description": "Plugin that Aligns or Resizes content according to Jan Tschichold's canon of page construction.",
         "name": "Tschichold-Sketch-Plugin",
+        "title": "Tschichold",
+        "author": "Arseniy Feshchenko",
         "owner": "arsfeshchenko"
     },
     {
         "description": "Displays colors as preconfigure Sass variables for Sketch.",
         "name": "Sketch-Sass-Colors",
+        "title": "Sass Colors",
+        "author": "Arshad Chummun",
         "owner": "arshad"
     },
     {
@@ -1325,6 +1350,8 @@
     {
         "description": "Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.",
         "name": "sketch-text-tools",
+        "title": "Sketch Text Tools",
+        "author": "Henryk Wollik",
         "owner": "automat"
     },
     {
@@ -1370,6 +1397,8 @@
     {
         "description": "Some scripts for Bohemian Coding’s Sketch.",
         "name": "Automate-Sketch",
+        "title": "Automate Sketch",
+        "author": "Ashung Hung",
         "owner": "Ashung"
     },
     {
@@ -1410,6 +1439,8 @@
     {
         "description": "A plugin to save and use the average color of an image.",
         "name": "sketch-ImageAverageColor",
+        "title": "Sketch Image Average Color",
+        "author": "Antonio J. Martinez",
         "owner": "AntonioJMartinez"
     },
     {
@@ -1500,6 +1531,8 @@
     {
         "description": "Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages",
         "name": "sketch-artboards-to-pdf",
+        "title": "Artboards to PDF",
+        "author": "Andrew Fiorillo",
         "owner": "andrewfiorillo"
     }
 ]
