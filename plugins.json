@@ -107,6 +107,7 @@
     {
         "description": "A simple Git client built right into Sketch.",
         "name": "SketchGit",
+        "author": "Alasdair Monk",
         "owner": "almonk"
     },
     {
@@ -928,6 +929,8 @@
     {
         "description": "Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles ",
         "name": "Sketch-Flowchart",
+        "title": "Sketch Flowchart",
+        "author": "Mark Reilly",
         "owner": "alienresident"
     },
     {
@@ -1106,11 +1109,15 @@
     {
         "description": "Sketch plugin to unlock all layers",
         "name": "sketch-unlock-all",
+        "title": "Unlock All Layers",
+        "author": "Andrew Fiorillo",
         "owner": "andrewfiorillo"
     },
     {
         "description": "Sketch plugin to count number of characters in a text layer",
         "name": "sketch-character-count",
+        "title": "Character Count",
+        "author": "Andrew Fiorillo",
         "owner": "andrewfiorillo"
     },
     {
@@ -1209,6 +1216,8 @@
     {
         "description": "Sketch plugin that lets you save and load colors in the color picker",
         "name": "sketch-palettes",
+        "title": "Sketch Palettes",
+        "author": "Andrew Fiorillo",
         "owner": "andrewfiorillo"
     },
     {
@@ -1487,5 +1496,10 @@
         "description": "Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.",
         "name": "sketch-dynamic-button-3.5",
         "owner": "fuggfuggfugg"
+    },
+    {
+        "description": "Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages",
+        "name": "sketch-artboards-to-pdf",
+        "owner": "andrewfiorillo"
     }
 ]

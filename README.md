@@ -18,6 +18,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [alexito4/Sketch-Color-Theme-Plugin](https://github.com/alexito4/sketch-color-theme-plugin) Sketch plugin that generates Objective-C Color Theme files.
 - [alienresident/Sketch-Flowchart](https://github.com/alienresident/sketch-flowchart) Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles
 - [almonk/SketchGit](https://github.com/almonk/sketchgit) A simple Git client built right into Sketch.
+- [andrewfiorillo/sketch-artboards-to-pdf](https://github.com/andrewfiorillo/sketch-artboards-to-pdf) Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages
 - [andrewfiorillo/sketch-character-count](https://github.com/andrewfiorillo/sketch-character-count) Sketch plugin to count number of characters in a text layer
 - [andrewfiorillo/sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) Sketch plugin that lets you save and load colors in the color picker
 - [andrewfiorillo/sketch-unlock-all](https://github.com/andrewfiorillo/sketch-unlock-all) Sketch plugin to unlock all layers
