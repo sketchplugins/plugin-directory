@@ -49,10 +49,15 @@ EOF
     if plugin['lastUpdated']
       last_update = Time.parse(plugin['lastUpdated'])
       now = Time.now
-      if ( now - last_update > 60_000_000 )
-        break
+      if ( (now - last_update) > 60_000_000 )
+        next
       end
     end
+
+    if plugin['hidden'] == true
+      next
+    end
+
     name   = plugin['name']
     owner  = plugin['owner']
     author = plugin['author'] || owner
