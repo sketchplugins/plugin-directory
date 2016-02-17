@@ -1,4 +1,5 @@
 require 'json'
+require 'time'
 
 data = IO.read('plugins.json')
 data.force_encoding('utf-8')
@@ -44,12 +45,21 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 EOF
 
-  plugins.sort_by { |k, v| k["owner"].downcase + "/" + k["name"].downcase }.each do |plugin|
-    name  = plugin['name']
-    owner = plugin['owner']
-    url   = "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc  = plugin['description'].strip
-    output << "- [#{owner}/#{name}](#{url})"
+  plugins.sort_by { |k, v| k["name"].downcase }.each do |plugin|
+    if plugin['lastUpdated']
+      last_update = Time.parse(plugin['lastUpdated'])
+      now = Time.now
+      if ( now - last_update > 60_000_000 )
+        break
+      end
+    end
+    name   = plugin['name']
+    owner  = plugin['owner']
+    author = plugin['author'] || owner
+    title  = plugin['title'] || name
+    url    = "https://github.com/#{owner.downcase}/#{name.downcase}"
+    desc   = plugin['description'].strip
+    output << "- [#{title}](#{url}), by #{author}:"
     if !desc.empty?
       output << " #{desc}"
     end
