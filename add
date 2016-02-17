@@ -23,11 +23,14 @@ name  = plugin_url.split("/")[1]
 
 client = Octokit::Client.new
 repo = client.repo(plugin_url)
+user = client.user(owner)
 
 new_plugin = {
   :description => repo.description,
   :name => name,
-  :owner => owner
+  :owner => owner,
+  :author => user.name,
+  :lastUpdated => repo.updated_at
 }
 
 # Load the JSON file with all the plugins
@@ -40,7 +43,7 @@ if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.cou
   json_data.push(new_plugin)
 
   File.open("plugins.json","w") do |f|
-    f.write(JSON.pretty_generate(json_data, :indent => "    "))
+    f.write(JSON.pretty_generate(json_data, :indent => "  "))
   end
   puts "We now have #{json_data.length} plugins on the list"
   # Update README
