@@ -1406,7 +1406,7 @@
         "description": "State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.",
         "name": "statemachine-sketch",
         "title": "State Machine",
-        "author": "Romam Shamin",
+        "author": "Roman Shamin",
         "owner": "romashamin"
     },
     {
