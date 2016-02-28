@@ -1947,7 +1947,8 @@
         "owner": "ryanjohnson-me"
     },
     {
-        "description": "Change a rectangle, artboard, or any other object to be the size of a mobile phone.",
+        "description": "Change a rectangle, artboard, or an
+        y other object to be the size of a mobile phone.",
         "name": "Sketch-Mobile-Sizes",
         "title": "Mobile Sizes",
         "author": "Keith Weston",
@@ -1978,5 +1979,12 @@
         "title": "Artboards to PDF",
         "author": "Andrew Fiorillo",
         "owner": "andrewfiorillo"
+    },
+    {
+        "description": "This plugin takes the selected layer and create new rectangles with sizes proportional to it.",
+        "name": "sketch-rectangle-generator",
+        "title": "Sketch Rectangle Generator",
+        "author": "Alessandro Ludovici",
+        "owner": "AleLudovici"
     }
 ]
