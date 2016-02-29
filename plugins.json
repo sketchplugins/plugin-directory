@@ -1978,5 +1978,12 @@
         "title": "Artboards to PDF",
         "author": "Andrew Fiorillo",
         "owner": "andrewfiorillo"
+    },
+    {
+        "description": "This plugin takes the selected layer and create new copies of proportional size to the original. You choose the proportion by specifying the multipliers for the width and height of the selected layer.",
+        "name": "sketch-proportional-replicator",
+        "title": "Sketch Proportional Replicator",
+        "author": "Alessandro Ludovici",
+        "owner": "AleLudovici"
     }
 ]
