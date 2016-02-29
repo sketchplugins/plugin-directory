@@ -1947,8 +1947,7 @@
         "owner": "ryanjohnson-me"
     },
     {
-        "description": "Change a rectangle, artboard, or an
-        y other object to be the size of a mobile phone.",
+        "description": "Change a rectangle, artboard, or any other object to be the size of a mobile phone.",
         "name": "Sketch-Mobile-Sizes",
         "title": "Mobile Sizes",
         "author": "Keith Weston",
@@ -1981,9 +1980,9 @@
         "owner": "andrewfiorillo"
     },
     {
-        "description": "This plugin takes the selected layer and create new rectangles with sizes proportional to it.",
-        "name": "sketch-rectangle-generator",
-        "title": "Sketch Rectangle Generator",
+        "description": "This plugin takes the selected layer and create new copies of proportional size to the original. You choose the proportion by specifying the multipliers for the width and height of the selected layer.",
+        "name": "sketch-proportional-replicator",
+        "title": "Sketch Proportional Replicator",
         "author": "Alessandro Ludovici",
         "owner": "AleLudovici"
     }
