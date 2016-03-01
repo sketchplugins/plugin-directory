@@ -1143,5 +1143,10 @@
         "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
         "name": "Unsplash-It-Sketch",
         "owner": "fhuel"
+    },
+    {
+        "description":"Selects the current artboard with a keyboard shortcut",
+        "name": "Select Current Artboard",
+        "owner": "ralts00"
     }
 ]
