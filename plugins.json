@@ -1990,5 +1990,12 @@
     "owner": "AleLudovici",
     "author": "Alessandro Ludovici",
     "lastUpdated": "2016-02-29 10:40:34 UTC"
+  },
+  {
+    "description": "A plugin for Sketch allows you to easily copy styles from one layer to another.",
+    "name": "styledrop",
+    "owner": "ryanmclaughlin",
+    "author": "Ryan McLaughlin",
+    "lastUpdated": "2016-03-01 12:07:34 UTC"
   }
 ]
