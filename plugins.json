@@ -1983,5 +1983,12 @@
     "owner": "jawayang",
     "author": "james yang",
     "lastUpdated": "2016-03-01 09:16:01 UTC"
+  },
+  {
+    "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
+    "name": "sketch-proportional-replicator",
+    "owner": "AleLudovici",
+    "author": "Alessandro Ludovici",
+    "lastUpdated": "2016-02-29 10:40:34 UTC"
   }
 ]

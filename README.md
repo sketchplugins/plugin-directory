@@ -231,11 +231,12 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-Artboard](https://github.com/kenmoore/sketch-artboard), by Ken Moore: Move Next / Previous artboard into view, preserving vertical offset and zooming to width.
 - [Sketch-Base64-PNG-Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
 - [Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator), by Emin İnanç Ünlü: A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
+- [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
 - [SketchGit](https://github.com/almonk/sketchgit), by Alasdair Monk: A simple Git client built right into Sketch.
 - [SketchingOn](https://github.com/workingon/sketchingon), by WorkingOn: Quickly select and share work in progress with your team via WorkingOn.
-- [sketchplugins](https://github.com/8by8/sketchplugins), by 8by8: Plugins for Sketch.
 - [SketchPlugins](https://github.com/joshpuckett/sketchplugins), by Josh Puckett: A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
+- [sketchplugins](https://github.com/8by8/sketchplugins), by 8by8: Plugins for Sketch.
 - [SketchTextSourcer](https://github.com/hamidp/sketchtextsourcer), by Hamid Palo: Sketch plugin for easily populating a bunch of text layers from a source.
 - [Sketchy Pies](https://github.com/abynim/sketchy-pies), by Aby Nimbalkar: A Sketch plugin to magically convert regular circle layers into pie charts!
 - [Skribbble](https://github.com/tylergaw/skribbble), by Tyler Gaw: Sketch plugins for getting shots and info from Dribbble.
