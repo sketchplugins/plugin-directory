@@ -171,7 +171,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [poyi/Copy-Fill-Color](https://github.com/poyi/copy-fill-color) A Plugin that provides a shortcut for copying a layer's fill color to clipboard.
 - [preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.
 - [preciousforever/sketch-toggle-layer-visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility) A simple plugin to to toggle visibility of a specified 'layerName'.
-- [ralts00/Select Current Artboard](https://github.com/ralts00/select current artboard) Selects the current artboard with a keyboard shortcut
+- [ralts00/Select Current Artboard](https://github.com/ralts00/select current artboard) Select the current artboard with a keyboard shortcut
 - [Raureif/sketch-click-dummy](https://github.com/raureif/sketch-click-dummy) Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
 - [Rezaaa/english-and-persian-lorem-ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum) This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
 - [ribot/sketch-page-helpers](https://github.com/ribot/sketch-page-helpers) This plugin includes a few simple actions to make managing pages easier in Sketch.

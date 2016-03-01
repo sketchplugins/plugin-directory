@@ -1145,7 +1145,7 @@
         "owner": "fhuel"
     },
     {
-        "description":"Selects the current artboard with a keyboard shortcut",
+        "description":"Select the current artboard with a keyboard shortcut",
         "name": "Select Current Artboard",
         "owner": "ralts00"
     }
