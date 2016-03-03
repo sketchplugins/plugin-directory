@@ -17,7 +17,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by Herr Helms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
-- [Artboards to Pages](https://github.com/EachAndOther/SketchPlugins), by Each&Other: Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [Artboards to PDF](https://github.com/andrewfiorillo/sketch-artboards-to-pdf), by Andrew Fiorillo: Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages
 - [ArtboardZoom](https://github.com/arkkimaagi/artboardzoom), by Mikko Tapionlinna: "Zoom" to currently selected Artboard.
 - [Artwork Fetcher](https://github.com/mmth/sketch-artwork-fetcher), by Semibold Mammoth: Sketch.app plugin for fetching artworks from Last.fm web-service and filling selected shapes with them. Allows to fetch artworks by their album and/or artist names.
@@ -206,10 +205,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Nudge](https://github.com/design4use/gb-sketch-nudge), by German Bauer: Nudge ↓ ← ↑ → by a customizable number of pixels
 - [Sketch Page Helpers](https://github.com/ribot/sketch-page-helpers), by ribot: This plugin includes a few simple actions to make managing pages easier in Sketch.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
-- [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugin Scripts](https://github.com/makzan/sketch-plugin-scripts), by Thomas Seng Hin Mak: Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
-- [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
+- [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
+- [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins](https://github.com/buscarini/sketch-plugins), by José Manuel Sánchez: Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [Sketch Plugins by Cemre Güngör](https://github.com/cemre/cemre-sketch-plugins), by Cemre Güngör: Sketch plugins by Cemre Güngör.
 - [Sketch Preview](https://github.com/marcisme/sketch-preview), by Marc Schwieterman: This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
@@ -236,8 +235,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
 - [SketchGit](https://github.com/almonk/sketchgit), by Alasdair Monk: A simple Git client built right into Sketch.
 - [SketchingOn](https://github.com/workingon/sketchingon), by WorkingOn: Quickly select and share work in progress with your team via WorkingOn.
-- [SketchPlugins](https://github.com/joshpuckett/sketchplugins), by Josh Puckett: A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
 - [sketchplugins](https://github.com/8by8/sketchplugins), by 8by8: Plugins for Sketch.
+- [SketchPlugins](https://github.com/joshpuckett/sketchplugins), by Josh Puckett: A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
+- [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [SketchTextSourcer](https://github.com/hamidp/sketchtextsourcer), by Hamid Palo: Sketch plugin for easily populating a bunch of text layers from a source.
 - [Sketchy Pies](https://github.com/abynim/sketchy-pies), by Aby Nimbalkar: A Sketch plugin to magically convert regular circle layers into pie charts!
 - [Skribbble](https://github.com/tylergaw/skribbble), by Tyler Gaw: Sketch plugins for getting shots and info from Dribbble.
