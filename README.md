@@ -27,6 +27,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [arjenvr/sketch-radius](https://github.com/arjenvr/sketch-radius) Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 - [Arkkimaagi/ArtboardZoom](https://github.com/arkkimaagi/artboardzoom) "Zoom" to currently selected Artboard.
 - [arsfeshchenko/Tschichold-Sketch-Plugin](https://github.com/arsfeshchenko/tschichold-sketch-plugin) 
+- [arshad/Sketch-Navigator](https://github.com/arshad/sketch-navigator) Artboard navigation (with autocomplete) for Sketch
 - [atomkirk/Find-Slice-Sketch-Plugin](https://github.com/atomkirk/find-slice-sketch-plugin) List all exportable layers/slices and navigate to selection.
 - [automat/sketch-plugin-typographic-scale](https://github.com/automat/sketch-plugin-typographic-scale) Generates a typographic scale from selected text layers.
 - [automat/sketch-text-tools](https://github.com/automat/sketch-text-tools) Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.

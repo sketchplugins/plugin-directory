@@ -35,6 +35,11 @@
         "owner": "einancunlu"
     },
     {
+        "description": "Artboard navigation (with autocomplete) for Sketch",
+        "name": "Sketch-Navigator",
+        "owner": "arshad"
+    },
+    {
         "description": "Quickly select and share work in progress with your team via WorkingOn <http://workingon.co>.",
         "name": "SketchingOn",
         "owner": "WorkingOn"
