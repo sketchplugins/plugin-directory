@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+require 'octokit'
+require 'json'
+
+GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
+ISSUES_PER_PAGE = 2000
+USERNAME = `git config github.user`.strip
+
+client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
+
+file = File.read('plugins.json')
+json_data = JSON.parse(file)
+
+total_plugin_count = 0
+
+json_data.each do |plugin|
+  repo_name = plugin['owner'] + '/' + plugin['name']
+  puts repo_name
+  total_plugin_count += 1
+  # repo = client.repo(repo_name)
+  # puts repo.stargazers
+end
+
+puts
+puts "#{total_plugin_count} plugins"
