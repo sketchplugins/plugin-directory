@@ -2004,5 +2004,10 @@
     "owner": "eachandother",
     "author": "conorluddy",
     "lastUpdated": "2016-03-03 12:00:00 UTC"
+  },
+  {
+      "description": "Artboard navigation (with autocomplete) for Sketch",
+      "name": "Sketch-Navigator",
+      "owner": "arshad"
   }
 ]
