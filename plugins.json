@@ -2009,5 +2009,12 @@
       "description": "Artboard navigation (with autocomplete) for Sketch",
       "name": "Sketch-Navigator",
       "owner": "arshad"
+  },
+  {
+      "description": "Set of simple Sketch symbols for wireframing.",
+      "name": "wireframingsketch",
+      "owner": "mariuszostrowski",
+      "author": "mariuszostrowski",
+      "lastUpdated": "2015-08-18 12:00:00 UTC"
   }
 ]
