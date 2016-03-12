@@ -287,6 +287,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Vertical Fit](https://github.com/shahruz/sketch.app-vertical-fit), by Shahruz Shaukat: A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [Vertical Teleporter](https://github.com/wolanski/sketch-vertical-teleporter), by Gregory Wolanski: Moves selected layers vertically according to the cursor position.
 - [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
+- [wireframingsketch](https://github.com/jayliu50/plugin-directory.git), by mariuszostrowski: Set of simple Sketch symbols for wireframing.
 - [Workflow Sketch Plugins](https://github.com/vrjbndr/select-next-artboard), by Viraj Bindra: A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [Xport](https://github.com/abynim/xport), by Aby Nimbalkar: A Sketch Plugin to export image assets directly to Xcode
 - [ZEN Sketch](https://github.com/francisvega/zen-sketch), by Francis Vega: A collection of Sketch plugins
