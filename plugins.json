@@ -2006,8 +2006,15 @@
     "lastUpdated": "2016-03-03 12:00:00 UTC"
   },
   {
-      "description": "Artboard navigation (with autocomplete) for Sketch",
-      "name": "Sketch-Navigator",
-      "owner": "arshad"
+    "description": "Artboard navigation (with autocomplete) for Sketch",
+    "name": "Sketch-Navigator",
+    "owner": "arshad"
+  },
+  {
+    "description": "A plugin for Sketch to equal division layers by container.",
+    "name": "Sketch-Divider",
+    "owner": "jawayang",
+    "author": "james yang",
+    "lastUpdated": "2016-03-11 21:05:52 UTC"
   }
 ]
