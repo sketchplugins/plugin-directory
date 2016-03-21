@@ -2023,5 +2023,12 @@
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
     "lastUpdated": "2016-03-14 17:45:54 UTC"
+  },
+  {
+    "description": "Sketch plugin to pseudolocalize text layers",
+    "name": "Sketch-Pseudol10n",
+    "owner": "arieare",
+    "author": "Arie Aulia Nugraha",
+    "lastUpdated": "2016-03-21 02:57:07 UTC"
   }
 ]
