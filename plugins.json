@@ -2044,5 +2044,12 @@
     "owner": "jclappiway",
     "author": "lefrancois",
     "lastUpdated": "2016-03-21 09:32:36 UTC"
+  },
+  {
+    "description": "Sketch plugin that generates Swift Color Theme with enums",
+    "name": "SwiftColorPalette",
+    "owner": "nahitheper",
+    "author": "nahitheper",
+    "lastUpdated": "2016-04-6 00:36:36 UTC"
   }
 ]
