@@ -62,7 +62,7 @@ EOF
     owner  = plugin['owner']
     author = plugin['author'] || owner
     title  = plugin['title'] || name
-    url    = "https://github.com/#{owner.downcase}/#{name.downcase}"
+    url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
     desc   = plugin['description'].strip
     output << "- [#{title}](#{url}), by #{author}:"
     if !desc.empty?
