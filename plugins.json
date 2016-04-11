@@ -1751,6 +1751,13 @@
     "author": "Matt Curtis"
   },
   {
+    "description": "Text Size Validator for iOS or Android UI Designers.",
+    "name": "sketch-font-size-checker",
+    "title": "Font Size Checker",
+    "owner": "feb19",
+    "author": "Nobuhiro Takahashi"
+  },
+  {
     "description": "Properly align link underline layers regardless of their text in Sketch",
     "name": "sketch-link-underline-align",
     "title": "Align underlines in hyperlinks",
