@@ -2071,5 +2071,12 @@
     "title": "Sketch Runner",
     "homepage": "http://sketchrunner.com",
     "author": "sketchrunner"
+  },
+  {
+    "description": "sketch - copy to all artboards plugin",
+    "name": "sketch-copy-to-all",
+    "owner": "wuwa",
+    "author": "Ben Benhorin",
+    "lastUpdated": "2016-04-12 12:14:26 UTC"
   }
 ]
