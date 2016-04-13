@@ -41,6 +41,13 @@
     "owner": "goodpatch"
   },
   {
+    "description": "Save important stages of your artboards in the blink of an eye, and then, move fast and break things.",
+    "name": "Checkpoints-Plugin-for-Sketch",
+    "title": "Checkpoints Plugin for Sketch",
+    "author": "Emin İnanç Ünlü",
+    "owner": "einancunlu"
+  },
+  {
     "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.",
     "name": "Flatten-Plugin-for-Sketch",
     "title": "Flatten Plugin for Sketch",
