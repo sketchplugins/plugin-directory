@@ -1,5 +1,12 @@
 [
   {
+    "description": "Set automatically a background of your selected textlayer.",
+    "name": "generate-text-background",
+    "title": "Generate text background Lines",
+    "author": "René Samsen",
+    "owner": "anagorn"
+  },
+  {
     "description": "Generate lines originating from a certain coordinate of an artboard.",
     "name": "radial-lines-sketch",
     "title": "Radial Lines",
