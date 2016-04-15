@@ -96,13 +96,14 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Flowmate](https://github.com/wodory/flowmate), by Sanghun Woo: Sketch Plugin to draw flowchart and diagram
 - [Fluid for Sketch](https://github.com/matt-curtis/fluid-for-sketch), by Matt Curtis: Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
 - [Font Size Checker](https://github.com/feb19/sketch-font-size-checker), by Nobuhiro Takahashi: Text Size Validator for iOS or Android UI Designers.
+- [Formr](https://github.com/lessthanzero/formr), by Alexander Katin: Helps to maintain simple proportions of layers and artboards
 - [Frame Sequencer](https://github.com/dawidw/frame-sequencer), by Dawid Woźniak: Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
 - [Framer Inventory 2.0 for Sketch](http://timurnurutdinov.github.io/framerinventory/), by Timur Nurutdinov: Sketch plugin to generate FramerJS prototypes. Just have your motion done.
 - [Generate Android Assets](https://github.com/todoriliev/generate-android-assets), by Todor Iliev: Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets.
 - [Generate GIF](https://github.com/nathco/generate-gif), by Nathan Rutzky: Plugin for generating animated GIFs from a sequence of artboards.
 - [Generate ICNS](https://github.com/nathco/generate-icns), by Nathan Rutzky: Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [Generate Posts](https://github.com/tylergaw/sketch-generate-posts), by Tyler Gaw: A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
-- [Generate text background](https://github.com/anagorn/generate-text-background), by René Samsen: Set automatically a background of your textlayer
+- [Generate text background Lines](https://github.com/anagorn/generate-text-background), by René Samsen: Set automatically a background of your selected textlayer.
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Line Height](https://github.com/lorenzwoehr/golden-ratio-line-height-sketch-plugin), by Lorenz Wöhr: Optimize your typography based on font size, line-height and width.
 - [Guide Remover](https://github.com/bbsody/sketch-guides-remover), by Maxim Melnikov: Another guide remover plugin for Sketch
@@ -209,8 +210,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Nudge](https://github.com/design4use/gb-sketch-nudge), by German Bauer: Nudge ↓ ← ↑ → by a customizable number of pixels
 - [Sketch Page Helpers](https://github.com/ribot/sketch-page-helpers), by ribot: This plugin includes a few simple actions to make managing pages easier in Sketch.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
-- [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugin Scripts](https://github.com/makzan/sketch-plugin-scripts), by Thomas Seng Hin Mak: Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
+- [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins](https://github.com/buscarini/sketch-plugins), by José Manuel Sánchez: Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
@@ -274,7 +275,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sync Plugins](https://github.com/nathco/sync-plugins), by Nathan Rutzky: Sync local Sketch.app plugins with their master version at GitHub.
 - [Text Align](https://github.com/bitinn/sketch-text-align), by David Frank: Properly align text layers regardless of their rectangle box in Sketch.
 - [Text to Specs](https://github.com/kenmoore/sketch-text-to-specs), by Ken Moore: Quickly turn a text layer into a styled annotation, grouped with a background card.
-- [Text Uppercase](https://github.com/keeg/sketch-text-uppercase), by Keegan Jones: Toggle a text layer to upper and lower case.
 - [Thaana Text Generator](https://github.com/ajaaibu/thaanatext), by Ahmed Ali: Sketch Plugin to generate thaana strings, paragraphs, articles.
 - [The Ultimate Guide Plugin for Sketch](https://github.com/petehouston/sketch-guides), by Pete Houston: Just another Guide plugin for Sketch.
 - [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase

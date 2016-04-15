@@ -2085,5 +2085,11 @@
     "owner": "wuwa",
     "author": "Ben Benhorin",
     "lastUpdated": "2016-04-12 12:14:26 UTC"
+  },
+  {
+    "description": "Helps to maintain simple proportions of layers and artboards",
+    "name": "Formr",
+    "owner": "lessthanzero",
+    "author": "Alexander Katin"
   }
 ]
