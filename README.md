@@ -102,6 +102,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Generate GIF](https://github.com/nathco/generate-gif), by Nathan Rutzky: Plugin for generating animated GIFs from a sequence of artboards.
 - [Generate ICNS](https://github.com/nathco/generate-icns), by Nathan Rutzky: Sketch.app plugin for generating an Apple Icon Image ( .icns )
 - [Generate Posts](https://github.com/tylergaw/sketch-generate-posts), by Tyler Gaw: A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.
+- [Generate text background](https://github.com/anagorn/generate-text-background), by René Samsen: Set automatically a background of your textlayer
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Line Height](https://github.com/lorenzwoehr/golden-ratio-line-height-sketch-plugin), by Lorenz Wöhr: Optimize your typography based on font size, line-height and width.
 - [Guide Remover](https://github.com/bbsody/sketch-guides-remover), by Maxim Melnikov: Another guide remover plugin for Sketch
