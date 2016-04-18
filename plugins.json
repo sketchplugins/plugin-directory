@@ -2075,9 +2075,11 @@
   },
   {
     "description": "Speed up your Sketch workflow",
+    "name": "SketchRunner",
     "title": "Sketch Runner",
     "homepage": "http://sketchrunner.com",
-    "author": "sketchrunner"
+    "author": "sketchrunner",
+    "owner": "sketchrunner"
   },
   {
     "description": "sketch - copy to all artboards plugin",
