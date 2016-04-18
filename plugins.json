@@ -2091,5 +2091,12 @@
     "name": "Formr",
     "owner": "lessthanzero",
     "author": "Alexander Katin"
+  },
+  {
+    "description": "A plugin for Sketch to fix all of those partial pixels",
+    "name": "sketch-pixel-cleanup",
+    "owner": "stackdevelopment",
+    "author": null,
+    "lastUpdated": "2016-04-15 07:28:51 UTC"
   }
 ]
