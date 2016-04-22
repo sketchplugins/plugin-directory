@@ -2100,5 +2100,12 @@
     "owner": "stackdevelopment",
     "author": null,
     "lastUpdated": "2016-04-15 07:28:51 UTC"
+  },
+  {
+    "description": "A Sketch Plugin for generating UIColor and NSColor initializer Objective-C code from fill color of selected layers.",
+    "name": "sketchplugin-objc-color",
+    "title": "Copy Objective-C Code",
+    "author": "Jaime Zaragoza",
+    "owner": "jaimeeee"
   }
 ]
