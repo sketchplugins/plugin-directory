@@ -246,6 +246,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [Sketch-Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers
+- [Sketch-Scale](https://github.com/suelan/sketch-scale), by RongyanZheng: A Sketch Plugin
 - [sketch-to-trello](https://github.com/jclappiway/sketch-to-trello), by lefrancois: Export Sketch Artboard to Trello
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
 - [SketchGit](https://github.com/almonk/sketchgit), by Alasdair Monk: A simple Git client built right into Sketch.

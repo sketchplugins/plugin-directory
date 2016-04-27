@@ -2122,5 +2122,12 @@
     "owner": "opencolor-tools",
     "author": null,
     "lastUpdated": "2016-04-22 13:35:26 UTC"
+  },
+  {
+    "description": "A Sketch Plugin ",
+    "name": "Sketch-Scale",
+    "owner": "sueLan",
+    "author": "RongyanZheng",
+    "lastUpdated": "2016-03-27 13:09:56 UTC"
   }
 ]
