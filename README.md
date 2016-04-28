@@ -214,8 +214,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugin Scripts](https://github.com/makzan/sketch-plugin-scripts), by Thomas Seng Hin Mak: Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
 - [Sketch Plugins](https://github.com/buscarini/sketch-plugins), by José Manuel Sánchez: Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
-- [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
+- [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins by Cemre Güngör](https://github.com/cemre/cemre-sketch-plugins), by Cemre Güngör: Sketch plugins by Cemre Güngör.
 - [Sketch Preview](https://github.com/marcisme/sketch-preview), by Marc Schwieterman: This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [Sketch Resize](https://github.com/antonstrand/sketch-resize), by Anton Strand: Use one layer or the artboard as a template to resize other layers.
@@ -301,6 +301,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
 - [Vertical Fit](https://github.com/shahruz/sketch.app-vertical-fit), by Shahruz Shaukat: A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [Vertical Teleporter](https://github.com/wolanski/sketch-vertical-teleporter), by Gregory Wolanski: Moves selected layers vertically according to the cursor position.
+- [ViewController-for-Framer](https://github.com/awt2542/viewcontroller-for-framer), by Andreas Wahlström: Multi step user flows in Framer.js
 - [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
 - [Workflow Sketch Plugins](https://github.com/vrjbndr/select-next-artboard), by Viraj Bindra: A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [Xport](https://github.com/abynim/xport), by Aby Nimbalkar: A Sketch Plugin to export image assets directly to Xcode
