@@ -318,6 +318,12 @@
     "owner": "utom"
   },
   {
+    "description": "A same tool as Sketch Measure with more powerful export options for Sketch.app",
+    "name": "sketch-measure-Plus",
+    "title": "Sketch Measure Plus",
+    "owner": "hite"
+  },
+  {
     "description": "Plugins for Bohemian Coding Sketch, including \"Duplicate to All Artboards\" and \"Golden Ratio\".",
     "name": "sketch-plugins",
     "title": "Sketch Plugins",
