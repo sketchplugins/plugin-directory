@@ -15,6 +15,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AnimateMate](https://github.com/creatide/animatemate), by Sakari Niittymaa: Create your animations directly in Sketch
 - [Archetype](https://github.com/matt-curtis/archetype), by Matt Curtis: An experimental CSS layout plugin for Sketch.
 - [Arrange Artboards](https://github.com/kenmoore/sketch-arrange-artboards), by Ken Moore: Lay out all your artboards in a grid with user-specified number of rows.
+- [arrowfy](https://github.com/joclin/arrowfy), by joclin:
 - [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by Herr Helms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
@@ -215,8 +216,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugin Scripts](https://github.com/makzan/sketch-plugin-scripts), by Thomas Seng Hin Mak: Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
 - [Sketch Plugins](https://github.com/buscarini/sketch-plugins), by José Manuel Sánchez: Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
-- [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
+- [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins by Cemre Güngör](https://github.com/cemre/cemre-sketch-plugins), by Cemre Güngör: Sketch plugins by Cemre Güngör.
 - [Sketch Preview](https://github.com/marcisme/sketch-preview), by Marc Schwieterman: This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [Sketch Resize](https://github.com/antonstrand/sketch-resize), by Anton Strand: Use one layer or the artboard as a template to resize other layers.
@@ -253,8 +254,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SketchGit](https://github.com/almonk/sketchgit), by Alasdair Monk: A simple Git client built right into Sketch.
 - [SketchingOn](https://www.workingon.co), by WorkingOn: Quickly select and share work in progress with your team via WorkingOn.
 - [SketchPlugins](https://github.com/joshpuckett/sketchplugins), by Josh Puckett: A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
-- [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [sketchplugins](https://github.com/8by8/sketchplugins), by 8by8: Plugins for Sketch.
+- [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [SketchTextSourcer](https://github.com/hamidp/sketchtextsourcer), by Hamid Palo: Sketch plugin for easily populating a bunch of text layers from a source.
 - [Sketchy Pies](https://github.com/abynim/sketchy-pies), by Aby Nimbalkar: A Sketch plugin to magically convert regular circle layers into pie charts!
 - [Skribbble](https://github.com/tylergaw/skribbble), by Tyler Gaw: Sketch plugins for getting shots and info from Dribbble.
