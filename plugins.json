@@ -2149,5 +2149,12 @@
     "owner": "joclin",
     "author": null,
     "lastUpdated": "2016-05-02 18:16:10 UTC"
+  },
+  {
+    "description": "A Sketch plugin that adjusts a shape layer according to the attributes of a text layer",
+    "name": "sketch-adjust-button-shape",
+    "owner": "psilfver",
+    "author": "Petter",
+    "lastUpdated": "2016-05-08 20:19:35 UTC"
   }
 ]
