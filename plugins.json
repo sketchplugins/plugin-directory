@@ -2156,5 +2156,12 @@
     "owner": "psilfver",
     "author": "Petter",
     "lastUpdated": "2016-05-08 20:19:35 UTC"
+  },
+  {
+    "description": "Sketch Plugin to Present Slides or Deck directly in Sketch 3",
+    "name": "MagicPresenter",
+    "owner": "MagicSketch",
+    "author": "jamztang",
+    "lastUpdated": "2016-05-10 10:48:00 UTC"
   }
 ]
