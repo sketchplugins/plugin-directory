@@ -2163,5 +2163,12 @@
     "owner": "MagicSketch",
     "author": "jamztang",
     "lastUpdated": "2016-05-10 10:48:00 UTC"
+  },
+  {
+    "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
+    "name": "Save-with-Frame",
+    "owner": "redgell",
+    "author": "redgell",
+    "lastUpdated": "2016-05-10 10:48:00 UTC"
   }
 ]
