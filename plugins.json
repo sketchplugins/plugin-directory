@@ -2171,5 +2171,13 @@
     "owner": "redgell",
     "author": "redgell",
     "lastUpdated": "2016-05-10 10:48:00 UTC"
+  },
+  {
+    "description": "Removes all Symbol masters that have no instances in the document",
+    "name": "remove-unused-symbols",
+    "title": "Remove Unused Symbols",
+    "owner": "sketchplugins",
+    "author": "Sketch Plugins",
+    "lastUpdated": "2016-05-30 16:35:59 UTC"
   }
 ]
