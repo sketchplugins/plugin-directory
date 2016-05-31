@@ -2179,5 +2179,13 @@
     "owner": "sketchplugins",
     "author": "Sketch Plugins",
     "lastUpdated": "2016-05-30 16:35:59 UTC"
+  },
+  {
+    "description": "A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.",
+    "name": "svgo-compressor",
+    "title": "SVGO Compressor",
+    "owner": "BohemianCoding",
+    "author": "Bohemian Coding",
+    "lastUpdated": "2016-05-31 15:06:26 UTC"
   }
 ]
