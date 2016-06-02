@@ -2187,5 +2187,12 @@
     "owner": "BohemianCoding",
     "author": "Bohemian Coding",
     "lastUpdated": "2016-05-31 15:06:26 UTC"
+  },
+  {
+    "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
+    "name": "ScreenFork",
+    "owner": "screenfork",
+    "author": "ScreenFork",
+    "lastUpdated": "2016-06-02 10:58:58 UTC"
   }
 ]
