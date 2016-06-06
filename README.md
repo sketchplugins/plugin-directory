@@ -137,6 +137,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Open in Skitch](https://github.com/shahruz/open-in-skitch), by Shahruz Shaukat: Easily export Sketch artboards to Skitch.
 - [Optimize Images](https://github.com/peerjollux/sketch-optimizeimages), by Jaer Pollux: Sketch plugin for optimizing all images within your document.
 - [Page Switch](https://github.com/mauehara/sketch-page-switch), by Mauricio T. Uehara: A dummy plugin to quickly switch between pages using shortcuts.
+- [Path Prefix Remover](https://github.com/Elethom/Sketch-PathPrefixRemover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [Personas](https://github.com/nolastan/sketch-personas), by Stanford Rosenthal: Quickly populate mockups with fake user data
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
