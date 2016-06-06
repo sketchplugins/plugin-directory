@@ -2203,5 +2203,14 @@
     "author": "Elethom Hunter",
     "lastUpdated": "2016-06-06 07:42:07 UTC",
     "homepage": "https://github.com/Elethom/Sketch-SFUI-Font-Fixer"
+  },
+  {
+    "description": "Remove path prefix for symbol instances.",
+    "name": "PathPrefixRemover",
+    "title": "Path Prefix Remover",
+    "owner": "Elethom",
+    "author": "Elethom Hunter",
+    "lastUpdated": "2016-06-06 09:48:15 UTC",
+    "homepage": "https://github.com/Elethom/Sketch-PathPrefixRemover"
   }
 ]
