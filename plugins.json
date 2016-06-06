@@ -2194,5 +2194,14 @@
     "owner": "screenfork",
     "author": "ScreenFork",
     "lastUpdated": "2016-06-02 10:58:58 UTC"
+  },
+  {
+    "description": "Adjusts font, character spacing, line height for labels using San Francisco font.",
+    "name": "SFUI-Font-Fixer",
+    "title": "San Francisco UI Font Fixer",
+    "owner": "Elethom",
+    "author": "Elethom Hunter",
+    "lastUpdated": "2016-06-06 07:42:07 UTC",
+    "homepage": "https://github.com/Elethom/Sketch-SFUI-Font-Fixer"
   }
 ]

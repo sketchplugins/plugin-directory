@@ -164,6 +164,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Resize Artboard](https://github.com/zhifengkoh/resize_artboard), by Zhifeng Koh: A Sketch Plugin for resizing artboards to fit their content.
 - [Rotate Line](https://github.com/eric-adstage/sketch_rotateline), by Eric Foster: More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.
 - [RulerGrid](https://github.com/ryanlanglois/rulergrid), by Ryan Langlois: A Sketch.app plugin to create a grid with rulers.
+- [San Francisco UI Font Fixer](https://github.com/Elethom/Sketch-SFUI-Font-Fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
 - [Sass Colors](https://github.com/arshad/sketch-sass-colors), by Arshad Chummun: Displays colors as preconfigure Sass variables for Sketch.
 - [Save with Device Frame](https://github.com/redgell/save-with-frame), by redgell: Sketch Plugin to generate pngs of artboards wrapped in a phone skin.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
