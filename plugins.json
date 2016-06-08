@@ -2212,5 +2212,13 @@
     "author": "Elethom Hunter",
     "lastUpdated": "2016-06-06 09:48:15 UTC",
     "homepage": "https://github.com/Elethom/Sketch-PathPrefixRemover"
+  },
+  {
+    "description": "A Plugin to update your WakaTime stats automatically from Sketch.",
+    "title": "Sketch Wakatime",
+    "name": "sketch-wakatime",
+    "owner": "wakatime",
+    "author": "WakaTime",
+    "lastUpdated": "2016-06-08 02:13:27 UTC"
   }
 ]
