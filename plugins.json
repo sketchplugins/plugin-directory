@@ -2220,5 +2220,13 @@
     "owner": "wakatime",
     "author": "WakaTime",
     "lastUpdated": "2016-06-08 02:13:27 UTC"
+  },
+  {
+    "description": "Makes it easier to work with interface components in Sketch",
+    "name": "compo-sketch",
+    "name": "Compo",
+    "owner": "romashamin",
+    "author": "Roman Shamin",
+    "lastUpdated": "2016-06-08 22:05:00 UTC"
   }
 ]

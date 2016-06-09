@@ -49,6 +49,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ColorSwitch](https://github.com/lmwebdesign/sketch3-colorswitch), by Luis Martinez: Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.
 - [Comma](https://github.com/margusholland/comma), by Margus Holland: Sketch plugin for text modifications
 - [Company Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Sketch plugin which fetches and inserts logos using the Clearbit company logo API
+- [Compo](https://github.com/romashamin/compo), by Roman Shamin: Makes it easier to work with interface components in Sketch
 - [Consistency](https://github.com/getflourish/consistency), by Florian Schulz: This Sketch plugin helps you to create and apply shared styles and symbols.
 - [Content Generator](https://github.com/timuric/content-generator-sketch-plugin), by Timur Carpeev: Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
 - [Copy & Paste Guides](https://github.com/pixelpillow/copy-paste-guides), by Pixelpillow: Easily copy, paste or remove guides from/to your artboard(s).
