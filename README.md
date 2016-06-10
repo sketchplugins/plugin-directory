@@ -49,7 +49,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ColorSwitch](https://github.com/lmwebdesign/sketch3-colorswitch), by Luis Martinez: Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.
 - [Comma](https://github.com/margusholland/comma), by Margus Holland: Sketch plugin for text modifications
 - [Company Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Sketch plugin which fetches and inserts logos using the Clearbit company logo API
-- [Compo](https://github.com/romashamin/compo), by Roman Shamin: Makes it easier to work with interface components in Sketch
+- [Compo](https://github.com/romashamin/compo-sketch), by Roman Shamin: Makes it easier to work with interface components in Sketch
 - [Consistency](https://github.com/getflourish/consistency), by Florian Schulz: This Sketch plugin helps you to create and apply shared styles and symbols.
 - [Content Generator](https://github.com/timuric/content-generator-sketch-plugin), by Timur Carpeev: Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
 - [Copy & Paste Guides](https://github.com/pixelpillow/copy-paste-guides), by Pixelpillow: Easily copy, paste or remove guides from/to your artboard(s).
@@ -273,6 +273,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sort Layers](https://github.com/getflourish/sketch-sort-layers), by Florian Schulz: Plugin that can sort layers or artboards based on text, layer name or position.
 - [Sort Me](https://github.com/romashamin/sort-me-sketch), by Roman Shamin: Sort artboards and layers by name
 - [Sparkliner](https://github.com/volorf/sparkliner), by Oleg Frolov: Sparkliner — easy way to make sparkline graph
+- [Specify](https://github.com/elliotekj/specify), by Elliot Jackson: Quickly generate a rectangle or oval with specific dimensions and positioning.
 - [Split & Divide](https://github.com/krevedaccky/sketchsplitdivide), by Konstantin Raspopov: Split and Divide plugins for Sketch3 app.
 - [Split Into Grid](https://github.com/marceloeduardo/sketch-scripts), by Marcelo Eduardo: A port of Illustrator's "Split Into Grid" to Sketch.
 - [sQuery](https://github.com/francisvega/squery), by Francis Vega: A growing small library of chain methods "in a jQuery way" for Sketch to make the selection and filter task a little easiest :)

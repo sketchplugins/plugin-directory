@@ -2223,10 +2223,18 @@
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
+    "title": "Compo",
     "name": "compo-sketch",
-    "name": "Compo",
     "owner": "romashamin",
     "author": "Roman Shamin",
     "lastUpdated": "2016-06-08 22:05:00 UTC"
+  },
+  {
+    "description": "Quickly generate a rectangle or oval with specific dimensions and positioning.",
+    "name": "specify",
+    "title": "Specify",
+    "owner": "ElliotEKJ",
+    "author": "Elliot Jackson",
+    "lastUpdated": "2016-06-09 23:51:07 UTC"
   }
 ]
