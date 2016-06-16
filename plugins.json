@@ -2236,5 +2236,13 @@
     "owner": "ElliotEKJ",
     "author": "Elliot Jackson",
     "lastUpdated": "2016-06-09 23:51:07 UTC"
+  },
+  {
+    "description": "Automated and mathematically precise optical adjustments in Sketch.",
+    "name": "optically-sketch-plugin",
+    "title": "Optically for Sketch",
+    "author": "Vlad Danilov",
+    "owner": "vmdanilov",
+    "homepage": "http://designplugins.com/optically"
   }
 ]

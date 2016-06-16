@@ -136,6 +136,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Move It](https://github.com/dawidw/move-it), by Dawid Woźniak: Sketch plugin that let's you move selected layers verticaly and horizontaly.
 - [NumGen](https://github.com/auxdesigner/sketch-plugin---numgen), by Liu Liu: Generate numbers that are: CTR, clicks, costs, impr.
 - [Open in Skitch](https://github.com/shahruz/open-in-skitch), by Shahruz Shaukat: Easily export Sketch artboards to Skitch.
+- [Optically for Sketch](http://designplugins.com/optically), by Vlad Danilov: Automated and mathematically precise optical adjustments in Sketch.
 - [Optimize Images](https://github.com/peerjollux/sketch-optimizeimages), by Jaer Pollux: Sketch plugin for optimizing all images within your document.
 - [Page Switch](https://github.com/mauehara/sketch-page-switch), by Mauricio T. Uehara: A dummy plugin to quickly switch between pages using shortcuts.
 - [Path Prefix Remover](https://github.com/Elethom/Sketch-PathPrefixRemover), by Elethom Hunter: Remove path prefix for symbol instances.
