@@ -45,7 +45,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 EOF
 
-  plugins.sort_by { |k, v| k["title"] ? k["title"].downcase : k["name"].downcase }.each do |plugin|
+  plugins.sort_by { |k| [k["title"] ? k["title"].downcase : k["name"].downcase, k["owner"].downcase] }.each do |plugin|
     if plugin['lastUpdated']
       last_update = Time.parse(plugin['lastUpdated'])
       now = Time.now
