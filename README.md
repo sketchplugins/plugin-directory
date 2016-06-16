@@ -29,7 +29,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
 - [Blade](https://github.com/sskyy/blade), by Zhenyu Hou: A Sketch plugin for automatically HTML generate.
-- [Bluth Ipsum](http://ligcreative.github.io/sketch-bluth-ipsum/), by Ligature Creative Group: A Sketch plugin for helpful dummy text from Arrested Development
 - [Bound with Box](https://github.com/lewishowles/sketch-bound-with-box), by Lewis Howles: Draws a rectangle of the same size, shape and position as the selected layer, with possible padding.
 - [Cat Ipsum](https://github.com/mamuso/sketch-cat-ipsum), by mamuso: If you love catipsum.com & sketch as much as I do, then I don't know how could you live without this plugin.
 - [Character Count](https://github.com/andrewfiorillo/sketch-character-count), by Andrew Fiorillo: Sketch plugin to count number of characters in a text layer
