@@ -2244,5 +2244,13 @@
     "author": "Vlad Danilov",
     "owner": "vmdanilov",
     "homepage": "http://designplugins.com/optically"
+  },
+  {
+    "description": "Generate a user defined amount of random Emoji into the selected text layer.",
+    "name": "emojiipsum-sketch-plugin",
+    "title": "Emojiipsum generator for Sketch",
+    "author": "Sebastian Haase",
+    "owner": "kuchengnom",
+    "homepage": "https://github.com/Kuchengnom/emojipsum-Sketch-Plugin"
   }
 ]

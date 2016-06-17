@@ -83,6 +83,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dynamic Reposition](https://github.com/antonstrand/dynamic-reposition), by Anton Strand: Make it easy to resize an object without having to manually move all the content to keep the margins.
 - [Easy Share](https://github.com/ed-lea/easyshare.sketchplugin), by Ed Lea: The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
+- [Emojiipsum generator for Sketch](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
 - [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch), by Herr Helms: Add evenly distributed guides to artboards.
 - [Export Android VectorDrawable](https://github.com/jacobmoncur/sketchvectordrawable), by Jacob Moncur: Sketch plugin that exports Android VectorDrawables
