@@ -117,6 +117,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Invert Background Color](https://github.com/sebj/invert-background-color), by Seb Jachec: Invert a layer's background color in Sketch.
 - [iosViews](https://github.com/charimon/iosviews), by Andrew Charkin: Sketch Plugin to generate iOS view code
 - [ITSSketchPlugins](https://github.com/trisix/itssketchplugins), by trisix: Some home-brewed Sketch App Plugins.
+- [JSON to Layers](https://github.com/littlebusters/json-to-layers), by littlebusters: Convert to Layers on Sketch from JSON (with Fireworks PNG structure).
 - [JSTalk Sketch Library](https://github.com/uhunkler/jstalk-sketch-library), by Urs Hunkler: A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.
 - [JSTalk Sketch Recipes](https://github.com/uhunkler/jstalk-sketch-recipes), by Urs Hunkler: Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [Layer Visibility](https://github.com/preciousforever/sketch-layer-visibility), by precious design studio: A simple plugin to to toggle visibility of a specified 'layerName'.

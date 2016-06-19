@@ -433,6 +433,12 @@
     "name": "sketch-generate-posts"
   },
   {
+    "description": "Convert to Layers on Sketch from JSON (with Fireworks PNG structure).",
+    "owner": "littlebusters",
+    "name": "JSON-to-Layers",
+    "title": "JSON to Layers"
+  },
+  {
     "description": "You can change the layer name by Regexp in Sketch 3.",
     "owner": "littlebusters",
     "name": "Regexp-Rename",
