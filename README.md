@@ -10,7 +10,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Align Text Baseline](https://github.com/soutaro/align-text-baseline-sketch-plugin), by Soutaro Matsumoto: Align text layer vertically based on its baseline and cap height.
 - [Align To](https://github.com/lucienlee/alignto), by Lucien Lee: Sketch 3 plugin that align layers relative to more options.
 - [Align to Layer](https://github.com/rodi01/align-to-layer), by Rodrigo Soares: Sketch plugin to align selected layers to the bottom one.
-- [Align underlines in hyperlinks](https://github.com/zholdas/sketch-link-underline-align), by : Properly align link underline layers regardless of their text in Sketch
+- [Align underlines in hyperlinks](https://github.com/zholdas/sketch-link-underline-align), by Zholdasbek Temirgaliyev: Properly align link underline layers regardless of their text in Sketch
 - [Android Assets](https://github.com/zmalltalker/sketch-android-assets), by Marius Mathiesen: Generate Android assets in Sketch.
 - [AnimateMate](https://github.com/creatide/animatemate), by Sakari Niittymaa: Create your animations directly in Sketch
 - [Archetype](https://github.com/matt-curtis/archetype), by Matt Curtis: An experimental CSS layout plugin for Sketch.
@@ -113,6 +113,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
 - [Icon Stamper](https://github.com/tylergaw/icon-stamper), by Tyler Gaw: A Sketch Plugin for creating multiple sizes of iOS icons.
 - [IconSlate](https://github.com/kodlian/iconslate-sketchplugin), by Jérémy Marchand: Export icons (icns,ico,...) from Sketch using Icon Slate.
+- [ImageExtractorSketch](https://github.com/mendyismyname/imageextractorsketch), by Mendy Seldowitz: Extract background fill image in Sketch
 - [Import Symbols](https://github.com/kmerc/sketch-import-symbols), by kmerc: Easily import symbols from another Sketch file
 - [Interpolate Paths](https://github.com/marmat/sketch-interpolate-paths), by Martin Matysiak: A Sketch plugin for a step-wise transformation of one path into another.
 - [Invert Background Color](https://github.com/sebj/invert-background-color), by Seb Jachec: Invert a layer's background color in Sketch.

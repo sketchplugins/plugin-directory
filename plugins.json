@@ -2258,5 +2258,12 @@
     "author": "Sebastian Haase",
     "owner": "kuchengnom",
     "homepage": "https://github.com/Kuchengnom/emojipsum-Sketch-Plugin"
+  },
+  {
+    "description": "Extract background fill image in Sketch",
+    "name": "ImageExtractorSketch",
+    "owner": "mendyismyname",
+    "author": "Mendy Seldowitz",
+    "lastUpdated": "2016-06-01 00:30:28 UTC"
   }
 ]
