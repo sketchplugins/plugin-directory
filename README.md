@@ -281,6 +281,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Split Into Grid](https://github.com/marceloeduardo/sketch-scripts), by Marcelo Eduardo: A port of Illustrator's "Split Into Grid" to Sketch.
 - [sQuery](https://github.com/francisvega/squery), by Francis Vega: A growing small library of chain methods "in a jQuery way" for Sketch to make the selection and filter task a little easiest :)
 - [State Machine](https://github.com/romashamin/statemachine-sketch), by Roman Shamin: State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.
+- [States](https://github.com/edenvidal/states), by Eden Vidal: Create different artboard states and switch between them easily
 - [StickyGrid](https://github.com/uetchy/sketch-stickygrid), by Yasuaki Uechi: Sketch plugin to make paths be snapped to grid.
 - [Style Inventory](https://github.com/getflourish/sketch-style-inventory), by Florian Schulz: Generate a visual style sheet with all colors and text styles that you are using in Sketch.
 - [styledrop](https://github.com/ryanmclaughlin/styledrop), by Ryan McLaughlin: A plugin for Sketch allows you to easily copy styles from one layer to another.
