@@ -2272,5 +2272,12 @@
     "owner": "edenvidal",
     "author": "Eden Vidal",
     "lastUpdated": "2016-06-21 07:58:39 UTC"
+  },
+  {
+    "description": "A Sketch plugin that adjusts the character spacing on text layers using iOS 9's SF UI Text/Display fonts to what it would be when used in an iOS app.",
+    "name": "Sketch-SF-UI-Font-Fixer",
+    "owner": "kylehickinson",
+    "author": "Kyle Hickinson",
+    "lastUpdated": "2016-06-26 21:24:42 UTC"
   }
 ]
