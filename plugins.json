@@ -1439,7 +1439,8 @@
     "name": "sketch-select-invisible-layers",
     "title": "Select Invisible Layers",
     "author": "Kerem Sevencan",
-    "owner": "keremciu"
+    "owner": "keremciu",
+    "lastUpdated": "2016-06-07 21:00:00 UTC"
   },
   {
     "description": "Artboard Tricks plugin for Sketch",
@@ -1460,7 +1461,8 @@
     "name": "sketch-iconfont",
     "title": "Use Icon Fonts in Sketch",
     "author": "Kerem Sevencan",
-    "owner": "keremciu"
+    "owner": "keremciu",
+    "lastUpdated": "2016-07-07 14:05:00 UTC"
   },
   {
     "description": "Some handy tools for Sketch",
@@ -2279,5 +2281,12 @@
     "owner": "kylehickinson",
     "author": "Kyle Hickinson",
     "lastUpdated": "2016-06-26 21:24:42 UTC"
+  },
+  {
+    "description": "This plugin helps you easily duplicate your objects to all Artboards.",
+    "name": "sketch-repeat",
+    "owner": "keremciu",
+    "author": "Kerem Sevencan",
+    "lastUpdated": "2016-07-07 13:24:30 UTC"
   }
 ]

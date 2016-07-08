@@ -260,6 +260,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [Sketch-Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers
+- [sketch-repeat](https://github.com/keremciu/sketch-repeat), by Kerem Sevencan: This plugin helps you easily duplicate your objects to all Artboards.
 - [Sketch-Scale](https://github.com/suelan/sketch-scale), by RongyanZheng: A Sketch Plugin
 - [Sketch-SF-UI-Font-Fixer](https://github.com/kylehickinson/sketch-sf-ui-font-fixer), by Kyle Hickinson: A Sketch plugin that adjusts the character spacing on text layers using iOS 9's SF UI Text/Display fonts to what it would be when used in an iOS app.
 - [sketch-to-trello](https://github.com/jclappiway/sketch-to-trello), by lefrancois: Export Sketch Artboard to Trello
