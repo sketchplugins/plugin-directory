@@ -2288,5 +2288,12 @@
     "owner": "keremciu",
     "author": "Kerem Sevencan",
     "lastUpdated": "2016-07-07 13:24:30 UTC"
+  },
+  {
+    "description": "simple tool to create todo notes for your sketch file",
+    "name": "Todo-Sketch-Plugin",
+    "owner": "andrewdbass",
+    "author": "Andrew Bass",
+    "lastUpdated": "2016-07-07 04:09:31 UTC"
   }
 ]
