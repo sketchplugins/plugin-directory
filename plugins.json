@@ -2053,11 +2053,11 @@
     "lastUpdated": "2016-03-11 21:05:52 UTC"
   },
   {
-    "description": "A Sketch plugin that creates a  beautiful color palette with your \"Document Colors Palette's\" HEX and rgba values.",
-    "name": "ShareableColorPalette",
+    "description": "Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.",
+    "name": "Prism",
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
-    "lastUpdated": "2016-03-14 17:45:54 UTC"
+    "lastUpdated": "2016-07-07 17:45:54 UTC"
   },
   {
     "description": "Sketch plugin to pseudolocalize text layers",

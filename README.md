@@ -147,6 +147,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [Plugin Requests](https://github.com/sketchplugins/plugin-requests), by Bohemian Coding: A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.
 - [PointGrid](https://github.com/47deg/pointgrid), by 47 Degrees: This plugin makes it easy to create different breakpoints during a responsive web design.
+- [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [Prott Sketch Plugin](https://github.com/goodpatch/prott-sketch-plugin), by Goodpatch Inc.: Sync Sketch artboards to Prott like a boss.
 - [Pull to Center](https://github.com/delighted/sketch-pull-to-center), by Delighted Inc.: Pull to center: Move selected shapes or layers toward center of artboard.
 - [Qordoba for Sketch](https://www.qordoba.com), by Qordoba: Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.
@@ -187,7 +188,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Send to Slack](https://github.com/shahruz/send-to-slack), by Shahruz Shaukat: A plugin for Sketch.app to share artboards to Slack.
 - [Set Line Height](https://github.com/getflourish/sketch-set-line-height-plugin), by Florian Schulz: Plugin that allows you to set the line height of a text layer as a multiple of the font size.
 - [Setup Iconset Artboards](https://github.com/sebj/setup-iconset-artboards), by Seb Jachec: Creates artboards and export options necessary to export a .iconset in Sketch.
-- [ShareableColorPalette](https://github.com/lalomrtnz/shareablecolorpalette), by Lalo Mrtnz: A Sketch plugin that creates a  beautiful color palette with your "Document Colors Palette's" HEX and rgba values.
 - [Sharpen Images](https://github.com/axmsv/sharpen-images-sketch), by axmsv: Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.
 - [Sketch All Caps](https://github.com/eivindbohler/sketch-all-caps), by Eivind Bøhler: Sketch all caps plugin
 - [Sketch Android Kit](https://github.com/malkomalko/sketch-android-kit), by Robert Malko: Sketch.app Plugin for Exporting Android Layouts (WIP at the moment)
