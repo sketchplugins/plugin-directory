@@ -2302,5 +2302,14 @@
     "owner": "auxdesigner",
     "author": "Liu Liu",
     "lastUpdated": "2016-07-11 07:07:52 UTC"
+  },
+  {
+    "title": "Atomic Sketch Plugin",
+    "description": "Exports Sketch Files to Atomic",
+    "name": "sketch-atomic-exporter",
+    "owner": "Atomic.io",
+    "author": "Atomic.io",
+    "homepage": "https://atomic.io/sketch",
+    "lastUpdated": "2016-07-12 00:00:00 UTC"
   }
 ]
