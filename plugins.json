@@ -2318,5 +2318,12 @@
     "owner": "nathco",
     "author": "Nathan Rutzky",
     "lastUpdated": "2016-07-14 15:34:41 UTC"
+  },
+  {
+    "description": "Sketch 3 Plugin that makes a SpriteSheets to export or use",
+    "name": "Sheetie",
+    "owner": "JoeManto",
+    "author": "Joe Manto",
+    "lastUpdated": "2016-07-17 08:15:01 UTC"
   }
 ]
