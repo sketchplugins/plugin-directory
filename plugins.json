@@ -2335,5 +2335,15 @@
     "homepage": "https://www.paintcodeapp.com/sketch",
     "downloadURL": "https://www.paintcodeapp.com/sketch",
     "lastUpdated": "2016-07-21 08:15:01 UTC"
+  },
+  {
+    "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
+    "title": "Sketch Focus",
+    "name": "Sketch-Focus",
+    "owner": "LukasOndrej",
+    "author": "Lukas Ondrej",
+    "homepage": "https://sketchfocus.com",
+    "downloadURL": "https://sketchfocus.com/static/plugin/SketchFocus.zip",
+    "lastUpdated": "2016-07-23 20:00:00 UTC"
   }
 ]
