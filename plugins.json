@@ -1099,14 +1099,6 @@
     "owner": "BriteSnow"
   },
   {
-    "description": "Export your artboards to your Marvel prototypes.",
-    "name": "marvel-sketch",
-    "title": "Marvel",
-    "author": "Marvel Prototyping",
-    "owner": "marvelapp",
-    "homepage": "https://marvelapp.com/prototype-with-sketch/"
-  },
-  {
     "description": "Nudge ↓ ← ↑ → by a customizable number of pixels",
     "name": "gb-sketch-nudge",
     "title": "Sketch Nudge",
