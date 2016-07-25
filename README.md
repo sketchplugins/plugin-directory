@@ -271,6 +271,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-to-VR](https://github.com/auxdesigner/sketch-to-vr), by Liu Liu: Personal fun project - turn your mocks into VR
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
 - [SketchGit](https://github.com/almonk/sketchgit), by Alasdair Monk: A simple Git client built right into Sketch.
+- [SketchI18N](https://github.com/cute/sketchi18n), by Guangming Li : Sketch Internationalization Plugin
 - [SketchingOn](https://www.workingon.co), by WorkingOn: Quickly select and share work in progress with your team via WorkingOn.
 - [sketchplugins](https://github.com/8by8/sketchplugins), by 8by8: Plugins for Sketch.
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.

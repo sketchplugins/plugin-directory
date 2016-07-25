@@ -2344,5 +2344,12 @@
     "owner": "ukn530",
     "author": "Tatsuya Uchida",
     "lastUpdated": "2016-07-23 15:33:27 UTC"
+  },
+  {
+    "description": "Sketch Internationalization Plugin",
+    "name": "SketchI18N",
+    "owner": "cute",
+    "author": "Guangming Li ",
+    "lastUpdated": "2016-07-25 06:36:41 UTC"
   }
 ]
