@@ -2337,5 +2337,12 @@
     "homepage": "https://sketchfocus.com",
     "downloadURL": "https://sketchfocus.com/static/plugin/SketchFocus.zip",
     "lastUpdated": "2016-07-23 20:00:00 UTC"
+  },
+  {
+    "description": "Sketch Plugin to find and select font items in a current page",
+    "name": "FontFinder",
+    "owner": "ukn530",
+    "author": "Tatsuya Uchida",
+    "lastUpdated": "2016-07-23 15:33:27 UTC"
   }
 ]
