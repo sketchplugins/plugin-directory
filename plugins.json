@@ -2351,5 +2351,12 @@
     "owner": "cute",
     "author": "Guangming Li ",
     "lastUpdated": "2016-07-25 06:36:41 UTC"
+  },
+  {
+    "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
+    "name": "Paster",
+    "owner": "Volorf",
+    "author": "Oleg Frolov",
+    "lastUpdated": "2016-07-26 14:12:09 UTC"
   }
 ]
