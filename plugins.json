@@ -2358,5 +2358,12 @@
     "owner": "Volorf",
     "author": "Oleg Frolov",
     "lastUpdated": "2016-07-26 14:12:09 UTC"
+  },
+  {
+    "description": "background timer for sketch",
+    "name": "Fasta-Fasta-Sketch-plugin",
+    "owner": "PavelLaptev",
+    "author": "Pavel",
+    "lastUpdated": "2016-05-25 04:41:44 UTC"
   }
 ]

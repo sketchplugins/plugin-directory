@@ -94,6 +94,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Export Text Styles](https://github.com/getflourish/sketch-export-text-styles), by Florian Schulz: Export all your Sketch text styles as CSS (proof of concept).
 - [Export to ICNS](https://github.com/solicomo/export-to-icns), by Soli Como: A Sketch plugin which can export artboards or slice to ICNS.
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
+- [Fasta-Fasta-Sketch-plugin](https://github.com/pavellaptev/fasta-fasta-sketch-plugin), by Pavel: background timer for sketch
 - [Find And Replace](https://github.com/mscodemonkey/sketch-find-and-replace), by Martin Steven: Sketch 3 plugin to do a simple find and replace on text within layers
 - [FindSlice](https://github.com/atomkirk/find-slice-sketch-plugin), by Adam Kirk: List all exportable layers/slices and navigate to selection.
 - [Flatten Plugin for Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch), by Emin İnanç Ünlü: Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
