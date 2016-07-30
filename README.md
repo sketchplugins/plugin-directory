@@ -219,7 +219,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Layer Tools](https://github.com/hrescak/sketch-layer-tools), by Matej Hrescak: A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.
 - [Sketch Make Long Shadow](https://github.com/jayholtslander/sketch-make-long-shadow), by Jay Holtslander: A plugin for Sketch to create long shadows from a shape.
 - [Sketch Mate](https://github.com/getflourish/sketch-mate), by Florian Schulz: These plugins will make you best friends with Sketch.
-- [Sketch Measure](https://github.com/utom/sketch-measure), by utom: A measure tool for Sketch.app (think Specctr for Sketch)
+- [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
 - [Sketch Measure Plus](https://github.com/hite/sketch-measure-plus), by hite: A same tool as Sketch Measure with more powerful export options for Sketch.app
 - [Sketch Motion](https://github.com/nwallen/sketch-motion), by Nicholas Wallen: Plugin to create motion designs in Sketch
 - [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
