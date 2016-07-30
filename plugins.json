@@ -312,7 +312,7 @@
     "owner": "cemre"
   },
   {
-    "description": "A measure tool for Sketch.app (think Specctr for Sketch)",
+    "description": "Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.",
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom"
