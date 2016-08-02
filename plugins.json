@@ -318,9 +318,9 @@
     "owner": "utom"
   },
   {
-    "description": "A same tool as Sketch Measure with more powerful export options for Sketch.app",
-    "name": "sketch-measure-Plus",
-    "title": "Sketch Measure Plus",
+    "description": "A Sketch Plugin which derived from Sketch Measure v0.9.4.4 with more powerful export options for Sketch.app",
+    "name": "sketch-export-plus",
+    "title": "Sketch Export Plus",
     "owner": "hite"
   },
   {
