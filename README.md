@@ -28,7 +28,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
 - [Blade](https://github.com/sskyy/blade), by Zhenyu Hou: A Sketch plugin for automatically HTML generate.
-- [Bluth Ipsum](http://ligcreative.github.io/sketch-bluth-ipsum/), by Ligature Creative Group: A Sketch plugin for helpful dummy text from Arrested Development
 - [Bound with Box](https://github.com/lewishowles/sketch-bound-with-box), by Lewis Howles: Draws a rectangle of the same size, shape and position as the selected layer, with possible padding.
 - [Cat Ipsum](https://github.com/mamuso/sketch-cat-ipsum), by mamuso: If you love catipsum.com & sketch as much as I do, then I don't know how could you live without this plugin.
 - [Character Count](https://github.com/andrewfiorillo/sketch-character-count), by Andrew Fiorillo: Sketch plugin to count number of characters in a text layer
@@ -191,6 +190,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Device Collection](https://github.com/paulfarino/sketch-device-collection), by Paul Farino: This plugin makes it easy to to fill layers in Sketch with devices.
 - [Sketch Divine Proportions](https://github.com/ichord/sketch-divine-proportions), by Harold.Luo: A plugin for Sketch to generate divine proportions automatically.
 - [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
+- [Sketch Export Plus](https://github.com/hite/sketch-exprot-plus), by hite: A Sketch Plugin which derived from Sketch Measure v0.9.4.4 with more powerful export options for Sketch.app
 - [Sketch Export Sizes Generator](https://github.com/devxoul/sketch-export-sizes-generator), by Jeon Suyeol: A simple plugin for Sketch that generates export sizes of layers.
 - [Sketch Flex Layout](https://github.com/hrescak/sketch-flex-layout), by Matej Hrescak: Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes.
 - [Sketch Flowchart](https://github.com/alienresident/sketch-flowchart), by Mark Reilly: Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles.
@@ -203,7 +203,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Make Long Shadow](https://github.com/jayholtslander/sketch-make-long-shadow), by Jay Holtslander: A plugin for Sketch to create long shadows from a shape.
 - [Sketch Mate](https://github.com/getflourish/sketch-mate), by Florian Schulz: These plugins will make you best friends with Sketch.
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: A measure tool for Sketch.app (think Specctr for Sketch)
-- [Sketch Measure Plus](https://github.com/hite/sketch-measure-plus), by hite: A same tool as Sketch Measure with more powerful export options for Sketch.app
 - [Sketch Motion](https://github.com/nwallen/sketch-motion), by Nicholas Wallen: Plugin to create motion designs in Sketch
 - [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
 - [Sketch Nearest 8](https://github.com/acollurafici/sketch-nearest-8), by Anthony Collurafici: Sketch Plugin to round shape size to the nearest multiple of 8
@@ -212,11 +211,11 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Nudge](https://github.com/design4use/gb-sketch-nudge), by German Bauer: Nudge ↓ ← ↑ → by a customizable number of pixels
 - [Sketch Page Helpers](https://github.com/ribot/sketch-page-helpers), by ribot: This plugin includes a few simple actions to make managing pages easier in Sketch.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
-- [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugin Scripts](https://github.com/makzan/sketch-plugin-scripts), by Thomas Seng Hin Mak: Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
+- [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
+- [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [Sketch Plugins](https://github.com/buscarini/sketch-plugins), by José Manuel Sánchez: Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
-- [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [Sketch Plugins by Cemre Güngör](https://github.com/cemre/cemre-sketch-plugins), by Cemre Güngör: Sketch plugins by Cemre Güngör.
 - [Sketch Preview](https://github.com/marcisme/sketch-preview), by Marc Schwieterman: This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [Sketch Resize](https://github.com/antonstrand/sketch-resize), by Anton Strand: Use one layer or the artboard as a template to resize other layers.
