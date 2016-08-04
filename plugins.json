@@ -2372,5 +2372,12 @@
     "owner": "vincenzopetito",
     "author": "Vincenzo Petito",
     "lastUpdated": "2016-07-30 18:47:27 UTC"
+  },
+  {
+    "description": "Sketch Plugin for wrapping a new artboard around what you've selected",
+    "name": "SizeArtboard",
+    "owner": "BrendanMiller",
+    "author": "brendan miller",
+    "lastUpdated": "2016-07-28 01:43:47 UTC"
   }
 ]
