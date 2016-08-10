@@ -7,6 +7,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [9 Patch Generator](https://github.com/maundytime/sketch-9patch), by maundytime: Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.
 - [AEFlowchart](https://github.com/tadija/aeflowchart), by Marko Tadić: Flowchart diagram plugin for Bohemian Coding Sketch app.
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
+- [Align Artboards and Symbols] (https://github.com/richardgazdik/sketch-align), by Richard Gazdik: Group and align your Sketch symbols and artboards by name
 - [Align Text Baseline](https://github.com/soutaro/align-text-baseline-sketch-plugin), by Soutaro Matsumoto: Align text layer vertically based on its baseline and cap height.
 - [Align To](https://github.com/lucienlee/alignto), by Lucien Lee: Sketch 3 plugin that align layers relative to more options.
 - [Align to Layer](https://github.com/rodi01/align-to-layer), by Rodrigo Soares: Sketch plugin to align selected layers to the bottom one.
