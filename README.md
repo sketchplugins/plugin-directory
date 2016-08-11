@@ -145,7 +145,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Optically for Sketch](http://designplugins.com/optically), by Vlad Danilov: Automated and mathematically precise optical adjustments in Sketch.
 - [Optimize Images](https://github.com/peerjollux/sketch-optimizeimages), by Jaer Pollux: Sketch plugin for optimizing all images within your document.
 - [Page Switch](https://github.com/mauehara/sketch-page-switch), by Mauricio T. Uehara: A dummy plugin to quickly switch between pages using shortcuts.
-- [Paginate](https://github.com/jorgemartins/paginate), by Jorge Martins: Add page numbers to artboards.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
 - [Path Prefix Remover](https://github.com/Elethom/Sketch-PathPrefixRemover), by Elethom Hunter: Remove path prefix for symbol instances.
@@ -268,6 +267,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator), by Emin İnanç Ünlü: A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [Sketch-Navigator](https://github.com/arshad/sketch-navigator), by arshad: Artboard navigation (with autocomplete) for Sketch
 - [sketch-opencolor](https://github.com/opencolor-tools/sketch-opencolor), by opencolor-tools: A sketch plugin to support the open color file format
+- [Sketch-Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [Sketch-Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers

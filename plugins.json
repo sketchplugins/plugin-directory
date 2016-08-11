@@ -2404,7 +2404,7 @@
   },
   {
     "description": "Add page numbers to artboards.",
-    "name": "Paginate",
+    "name": "Sketch-Paginate",
     "owner": "jorgemartins",
     "author": "Jorge Martins",
     "lastUpdated": "2016-08-10 11:28:06 GMT+1"
