@@ -195,6 +195,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Set Line Height](https://github.com/getflourish/sketch-set-line-height-plugin), by Florian Schulz: Plugin that allows you to set the line height of a text layer as a multiple of the font size.
 - [Setup Iconset Artboards](https://github.com/sebj/setup-iconset-artboards), by Seb Jachec: Creates artboards and export options necessary to export a .iconset in Sketch.
 - [Shapr](https://github.com/vincenzopetito/shapr), by Vincenzo Petito: A Sketch plugin to create element with the keyboards!
+- [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles), by Nils Hoenson: A Sketch plugin that lets you import & export text styles throughout different Sketch documents.
 - [Sharpen Images](https://github.com/axmsv/sharpen-images-sketch), by axmsv: Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.
 - [Sheetie](https://github.com/joemanto/sheetie), by Joe Manto: Sketch 3 Plugin that makes a SpriteSheets to export or use
 - [SizeArtboard](https://github.com/brendanmiller/sizeartboard), by brendan miller: Sketch Plugin for wrapping a new artboard around what you've selected
