@@ -2401,5 +2401,19 @@
     "owner": "peterwooley",
     "author": "Peter Wooley",
     "lastUpdated": "2016-08-05"
+  },
+  {
+    "description": "Add page numbers to artboards.",
+    "name": "Sketch-Paginate",
+    "owner": "jorgemartins",
+    "author": "Jorge Martins",
+    "lastUpdated": "2016-08-10 11:28:06 GMT+1"
+  },
+  {
+    "description": "Easily import and export your Text Styles in Sketch.",
+    "name": "Shared Text Styles",
+    "owner": "nilshoenson",
+    "author": "Nils Hoenson",
+    "lastUpdated": "2016-08-18"
   }
 ]
