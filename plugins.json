@@ -2430,5 +2430,13 @@
     "owner": "gotomedia",
     "author": "gotomedia",
     "lastUpdated": "2016-08-19 04:44:46 UTC"
+  },
+  {
+    "description": "A simple plugin that removes all disabled styles from all layers in the current selection.",
+    "name": "sketch-remove-all-disabled-styles",
+    "title": "Remove all Disabled Styles",
+    "owner": "ErikFontanel",
+    "author": "Erik Gelderblom",
+    "lastUpdated": "2016-08-16 08:51:26 UTC"
   }
 ]

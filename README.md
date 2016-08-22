@@ -167,6 +167,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Random User](https://github.com/jimrutherford/random-user), by Jim Rutherford: A SketchApp plugin that inserts random user data into your Sketch documents.
 - [Regexp Rename](https://github.com/littlebusters/regexp-rename), by littlebusters: You can change the layer name by Regexp in Sketch 3.
 - [Relabel Button](https://github.com/kenmoore/sketch-relabel-button), by Ken Moore: Update a button's label and it gets resized automatically, preserving existing padding.
+- [Remove all Disabled Styles](https://github.com/erikfontanel/sketch-remove-all-disabled-styles), by Erik Gelderblom: A simple plugin that removes all disabled styles from all layers in the current selection.
 - [Remove All Guides](https://github.com/ichik/removeallguides), by ichik: Remove all guides from the artboard with a shortcut.
 - [Remove Fills and Borders](https://github.com/sebj/remove-fills-and-borders), by Seb Jachec: Remove a layer's fills and borders in Sketch.
 - [Remove Unused Symbols](https://github.com/sketchplugins/remove-unused-symbols), by Sketch Plugins: Removes all Symbol masters that have no instances in the document
