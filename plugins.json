@@ -2418,7 +2418,8 @@
   },
   {
     "description": "Easily import and export your Text Styles in Sketch.",
-    "name": "Shared Text Styles",
+    "title": "Shared Text Styles",
+    "name": "shared-text-styles",
     "owner": "nilshoenson",
     "author": "Nils Hoenson",
     "lastUpdated": "2016-08-18"
