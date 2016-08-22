@@ -1,5 +1,12 @@
 [
   {
+    "description": "Group and align your Sketch symbols and artboards by name.",
+    "name": "sketch-align",
+    "title": "Align artboards and symbols",
+    "author": "Richard Gazdik",
+    "owner": "richardgazdik"
+  },
+  {
     "description": "Set automatically a background of your selected textlayer.",
     "name": "generate-text-background",
     "title": "Generate text background Lines",
