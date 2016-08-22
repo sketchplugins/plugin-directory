@@ -2422,5 +2422,12 @@
     "owner": "nilshoenson",
     "author": "Nils Hoenson",
     "lastUpdated": "2016-08-18"
+  },
+  {
+    "description": "Sketch plugin for adding page numbers to artboards.",
+    "name": "Sketch-PageNumbers",
+    "owner": "gotomedia",
+    "author": "gotomedia",
+    "lastUpdated": "2016-08-19 04:44:46 UTC"
   }
 ]

@@ -269,6 +269,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator), by Emin İnanç Ünlü: A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [Sketch-Navigator](https://github.com/arshad/sketch-navigator), by arshad: Artboard navigation (with autocomplete) for Sketch
 - [sketch-opencolor](https://github.com/opencolor-tools/sketch-opencolor), by opencolor-tools: A sketch plugin to support the open color file format
+- [Sketch-PageNumbers](https://github.com/gotomedia/sketch-pagenumbers), by gotomedia: Sketch plugin for adding page numbers to artboards.
 - [Sketch-Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
