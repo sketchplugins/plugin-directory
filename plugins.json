@@ -2446,5 +2446,13 @@
     "owner": "ErikFontanel",
     "author": "Erik Gelderblom",
     "lastUpdated": "2016-08-16 12:55:40 UTC"
+  },
+  {
+    "description": "A sketch plugin to select all the child layers of a group.",
+    "name": "select-children",
+    "title": "Select Child Layers",
+    "owner": "jshuaf",
+    "author": "Joshua Fang",
+    "lastUpdated": "2016-08-16 00:15:11 UTC"
   }
 ]
