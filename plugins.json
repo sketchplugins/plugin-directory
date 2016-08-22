@@ -2438,5 +2438,13 @@
     "owner": "ErikFontanel",
     "author": "Erik Gelderblom",
     "lastUpdated": "2016-08-16 08:51:26 UTC"
+  },
+  {
+    "description": "Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.",
+    "name": "sketch-toggle-constrain-proportions",
+    "title": "Toggle Constrain Proportions",
+    "owner": "ErikFontanel",
+    "author": "Erik Gelderblom",
+    "lastUpdated": "2016-08-16 12:55:40 UTC"
   }
 ]

@@ -321,6 +321,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [The Ultimate Guide Plugin for Sketch](https://github.com/petehouston/sketch-guides), by Pete Houston: Just another Guide plugin for Sketch.
 - [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase
 - [Todo-Sketch-Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
+- [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
 - [Toggle Locked Layers](https://github.com/ribot/toggle locked layers), by ribot: Unlock locked layers, make changes, then lock again straight from your artboards.
 - [Toggle NoPrint](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin), by Denis Sudilkovsky: Toggle Visibility of 'NoPrint' layers in Sketch
 - [Trim Artboard](https://github.com/nerthase/trimartboard), by Mario De Santis: A simple Sketch plugin to trim artboards
