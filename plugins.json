@@ -2454,5 +2454,13 @@
     "owner": "jshuaf",
     "author": "Joshua Fang",
     "lastUpdated": "2016-08-16 00:15:11 UTC"
+  },
+  {
+    "description": "Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.",
+    "name": "Android_Res_Export",
+    "title": "Android Res Export",
+    "owner": "Ashung",
+    "author": "Ashung Hung",
+    "lastUpdated": "2016-08-17 03:48:53 UTC"
   }
 ]

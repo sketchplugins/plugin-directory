@@ -13,6 +13,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Align to Layer](https://github.com/rodi01/align-to-layer), by Rodrigo Soares: Sketch plugin to align selected layers to the bottom one.
 - [Align underlines in hyperlinks](https://github.com/zholdas/sketch-link-underline-align), by Zholdasbek Temirgaliyev: Properly align link underline layers regardless of their text in Sketch
 - [Android Assets](https://github.com/zmalltalker/sketch-android-assets), by Marius Mathiesen: Generate Android assets in Sketch.
+- [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [AnimateMate](https://github.com/creatide/animatemate), by Sakari Niittymaa: Create your animations directly in Sketch
 - [Archetype](https://github.com/matt-curtis/archetype), by Matt Curtis: An experimental CSS layout plugin for Sketch.
 - [Arrange Artboards](https://github.com/kenmoore/sketch-arrange-artboards), by Ken Moore: Lay out all your artboards in a grid with user-specified number of rows.
