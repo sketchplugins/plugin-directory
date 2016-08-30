@@ -7,7 +7,7 @@ plugins = JSON.parse(data)
 
 desc "Clones all repositories to the 'clones' folder"
 task :clone do
-  mkdir "clones"
+  mkdir "clones" unless File.directory? "clones"
   plugins.each do |plugin|
     name  = plugin['name']
     owner = plugin['owner']

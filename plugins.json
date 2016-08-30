@@ -2462,5 +2462,12 @@
     "owner": "Ashung",
     "author": "Ashung Hung",
     "lastUpdated": "2016-08-17 03:48:53 UTC"
+  },
+  {
+    "description": "Sketch Plugins",
+    "name": "sketch-exportsymbols",
+    "owner": "marianomike",
+    "author": "Mike Mariano",
+    "lastUpdated": "2016-08-28 06:25:17 UTC"
   }
 ]

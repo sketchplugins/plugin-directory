@@ -269,6 +269,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-Base64-PNG-Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
 - [sketch-copy-to-all](https://github.com/wuwa/sketch-copy-to-all), by Ben Benhorin: sketch - copy to all artboards plugin
 - [Sketch-Divider](https://github.com/jawayang/sketch-divider), by james yang: A plugin for Sketch to equal division layers by container.
+- [sketch-exportsymbols](https://github.com/marianomike/sketch-exportsymbols), by Mike Mariano: Sketch Plugins
 - [Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator), by Emin İnanç Ünlü: A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [Sketch-Navigator](https://github.com/arshad/sketch-navigator), by arshad: Artboard navigation (with autocomplete) for Sketch
 - [sketch-opencolor](https://github.com/opencolor-tools/sketch-opencolor), by opencolor-tools: A sketch plugin to support the open color file format
