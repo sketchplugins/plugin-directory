@@ -17,21 +17,21 @@
     "description": "Generate lines originating from a certain coordinate of an artboard.",
     "name": "radial-lines-sketch",
     "title": "Radial Lines",
-    "author": "Herr Helms",
+    "author": "herrhelms",
     "owner": "herrhelms"
   },
   {
     "description": "Add evenly distributed guides to artboards.",
     "name": "even-guides-sketch",
     "title": "Evenly Distributed Guides",
-    "author": "Herr Helms",
+    "author": "herrhelms",
     "owner": "herrhelms"
   },
   {
     "description": "This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.",
     "name": "social-artboards-sketch",
     "title": "Artboard presets for social media images",
-    "author": "Herr Helms",
+    "author": "herrhelms",
     "owner": "herrhelms"
   },
   {

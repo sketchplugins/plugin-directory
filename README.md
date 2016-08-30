@@ -18,7 +18,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Archetype](https://github.com/matt-curtis/archetype), by Matt Curtis: An experimental CSS layout plugin for Sketch.
 - [Arrange Artboards](https://github.com/kenmoore/sketch-arrange-artboards), by Ken Moore: Lay out all your artboards in a grid with user-specified number of rows.
 - [arrowfy](https://github.com/joclin/arrowfy), by joclin:
-- [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by Herr Helms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
+- [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by herrhelms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
 - [Artboards to PDF](https://github.com/andrewfiorillo/sketch-artboards-to-pdf), by Andrew Fiorillo: Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages
@@ -89,7 +89,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Emojiipsum generator for Sketch](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
-- [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch), by Herr Helms: Add evenly distributed guides to artboards.
+- [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch), by herrhelms: Add evenly distributed guides to artboards.
 - [Export Android VectorDrawable](https://github.com/jacobmoncur/sketchvectordrawable), by Jacob Moncur: Sketch plugin that exports Android VectorDrawables
 - [Export Assets](https://github.com/geertwille/sketch-export-assets), by Geert Wille: A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.
 - [Export for Origami](https://github.com/tarngerine/sketch-origami-export), by Julius Tarng: Official export plugin for Facebook's Origami for Quartz Composer.
@@ -162,7 +162,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [QR Code](https://github.com/turbobabr/sketch-qrcode), by Andrey Shakhmin: QR Code generator plugin for Sketch App.
 - [QRCode for Sketch Local Sharing](https://github.com/dex1t/qrcode-for-sketch-local-sharing), by Takaya Deguchi: This plugin show QR Code for Local Sharing URL (Sketch 3.4 Featrue). Read this QR code when checking your design on smartphone.
 - [Quick Pic](https://github.com/nickstamas/sketch-quick-pic), by Nick Stamas: Quickly fill a layer with an image from Flickr based on tags.
-- [Radial Lines](https://github.com/herrhelms/radial-lines-sketch), by Herr Helms: Generate lines originating from a certain coordinate of an artboard.
+- [Radial Lines](https://github.com/herrhelms/radial-lines-sketch), by herrhelms: Generate lines originating from a certain coordinate of an artboard.
 - [Random Opacity Sketch Plugin](https://github.com/adamhowell/random-opacity-sketch-plugin), by Adam Howell: Randomly change the opacity of selected objects in Sketch.
 - [Random Sizing](https://github.com/longzheng/sketch-randomsize), by Long Zheng: Sketch plugin to randomly resize selected elements.
 - [Random User](https://github.com/jimrutherford/random-user), by Jim Rutherford: A SketchApp plugin that inserts random user data into your Sketch documents.
