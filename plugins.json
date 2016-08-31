@@ -2469,5 +2469,13 @@
     "owner": "marianomike",
     "author": "Mike Mariano",
     "lastUpdated": "2016-08-28 06:25:17 UTC"
+  },
+  {
+    "description": "A Sketch plugin to quickly share multiple artboards with an optional title.",
+    "name": "Sketch-Quick-Presentation",
+    "title": "Quick Presentation",
+    "owner": "timothywhalin",
+    "author": "Timothy Whalin",
+    "lastUpdated": "2016-08-26 09:09:58 UTC"
   }
 ]
