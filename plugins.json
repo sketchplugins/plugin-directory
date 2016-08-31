@@ -985,13 +985,6 @@
     "title": "Rotate Line"
   },
   {
-    "description": "Easily add comments to your designs.",
-    "owner": "lukasondrej",
-    "author": "Lukas Ondrej",
-    "title": "Sketch Comments",
-    "name": "Sketch-Comments"
-  },
-  {
     "description": "Lay out all your artboards in a grid with user-specified number of rows.",
     "owner": "kenmoore",
     "author": "Ken Moore",
@@ -2339,8 +2332,8 @@
     "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
     "title": "Sketch Focus",
     "name": "Sketch-Focus",
-    "owner": "LukasOndrej",
-    "author": "Lukas Ondrej",
+    "owner": "codearrows",
+    "author": "Code Arrows",
     "homepage": "https://sketchfocus.com",
     "downloadURL": "https://sketchfocus.com/static/plugin/SketchFocus.zip",
     "lastUpdated": "2016-07-23 20:00:00 UTC"
