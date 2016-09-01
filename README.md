@@ -210,7 +210,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Button Smith](https://github.com/andrewkf/sketch-buttonsmith), by Andrew Fullerton: A button creator plugin for Sketch.
 - [Sketch Color Theme Plugin](https://github.com/alexito4/sketch-color-theme-plugin), by Alejandro Martínez: Sketch plugin that generates Objective-C Color Theme files.
 - [Sketch Commands](https://github.com/bomberstudios/sketch-commands), by Ale Muñoz: A collection of script commands for Bohemian Coding's Sketch.app
-- [Sketch Comments](https://github.com/lukasondrej/sketch-comments), by Lukas Ondrej: Easily add comments to your designs.
 - [Sketch Constraints](https://github.com/bouchenoiremarc/sketch-constraints), by Marc Bouchenoire: A plugin that integrates constraints in Sketch to lay out layers.
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
@@ -221,7 +220,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Export Sizes Generator](https://github.com/devxoul/sketch-export-sizes-generator), by Jeon Suyeol: A simple plugin for Sketch that generates export sizes of layers.
 - [Sketch Flex Layout](https://github.com/hrescak/sketch-flex-layout), by Matej Hrescak: Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes.
 - [Sketch Flowchart](https://github.com/alienresident/sketch-flowchart), by Mark Reilly: Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles.
-- [Sketch Focus](https://sketchfocus.com), by Lukas Ondrej: A new plugin for Sketch that boosts your productivity by keeping you on-task.
+- [Sketch Focus](https://sketchfocus.com), by Code Arrows: A new plugin for Sketch that boosts your productivity by keeping you on-task.
 - [Sketch i18n](https://github.com/kristof/sketch-i18n), by Kristof Houben: Sketch i18n enables you to generate translation files for a page and translate it. It acts in a non-destructive way so you can easily undo your changes later.
 - [Sketch Icon Fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher), by Sagi Shrieber: This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design
 - [Sketch Image Average Color](https://github.com/antoniojmartinez/sketch-imageaveragecolor), by Antonio J. Martinez: A plugin to save and use the average color of an image.
