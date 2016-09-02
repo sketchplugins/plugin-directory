@@ -1,4 +1,8 @@
-[
+[   {
+        "description": "A Sketch plugin to simple slicing with a user-given viewBox size.",
+        "name": "Coffee-Slice",
+        "owner": "goudan"
+    },
     {
         "description": "Generate lines originating from a certain coordinate of an artboard.",
         "name": "radial-lines-sketch",
