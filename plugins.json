@@ -2470,5 +2470,12 @@
     "owner": "timothywhalin",
     "author": "Timothy Whalin",
     "lastUpdated": "2016-08-26 09:09:58 UTC"
+  },
+  {
+    "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automaticlly.",
+    "name": "Coffee-Slice",
+    "owner": "KivyGogh",
+    "author": "goudan",
+    "lastUpdated": "2016-09-02 08:22:15 UTC"
   }
 ]
