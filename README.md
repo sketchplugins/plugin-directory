@@ -46,6 +46,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bshorta/date-generator-sketch](https://github.com/bshorta/date-generator-sketch) A random date generator plugin for Sketch
 - [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/sketchexportforrepliaplugin) Sketch Plugins to export selected artboard or layers for Replia
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
+- [KivyGogh/Coffee-Slice](https://github.com/KivyGogh/Coffee-Slice) A Sketch plugin to simple slicing with a user-given viewBox size.
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke.
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) Sketch plugins by Cemre Güngör.
 - [Charimon/iosViews](https://github.com/charimon/iosviews) Sketch plugin to generate ios view code
