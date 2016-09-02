@@ -46,7 +46,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [bshorta/date-generator-sketch](https://github.com/bshorta/date-generator-sketch) A random date generator plugin for Sketch
 - [bunguu/SketchExportForRepliaPlugin](https://github.com/bunguu/sketchexportforrepliaplugin) Sketch Plugins to export selected artboard or layers for Replia
 - [buscarini/sketch-plugins](https://github.com/buscarini/sketch-plugins) Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
-- [KivyGogh/Coffee-Slice](https://github.com/KivyGogh/Coffee-Slice) A Sketch plugin to simple slicing with a user-given viewBox size.
 - [cdl/sketch-cloudapp](https://github.com/cdl/sketch-cloudapp) Upload a PNG of the current Sketch artboard to CloudApp with a single keystroke.
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) Sketch plugins by Cemre Güngör.
 - [Charimon/iosViews](https://github.com/charimon/iosviews) Sketch plugin to generate ios view code
@@ -132,6 +131,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [joshpuckett/SketchPlugins](https://github.com/joshpuckett/sketchplugins) A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
 - [joshwayne/jw-sketch-plugins](https://github.com/joshwayne/jw-sketch-plugins) Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [jtmarmon/ColorMime](https://github.com/jtmarmon/colormime) ColorMime is a simple plugin for Sketch which allows you to quickly duplicate any Colourlovers palette in your sketch project.
+- [KivyGogh/Coffee-Slice](https://github.com/KivyGogh/Coffee-Slice) A Sketch plugin to simple slicing with a user-given viewBox size.
 - [kang-chen/sketch-export-generator](https://github.com/kang-chen/sketch-export-generator) Sketch plugin to export assets at different scale sizes
 - [keeg/sketch-text-uppercase](https://github.com/keeg/sketch-text-uppercase) Toggle a text layer to upper and lower case.
 - [keiwes/Sketch-Mobile-Sizes](https://github.com/keiwes/sketch-mobile-sizes)
