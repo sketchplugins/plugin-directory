@@ -2477,5 +2477,12 @@
     "owner": "KivyGogh",
     "author": "goudan",
     "lastUpdated": "2016-09-02 08:22:15 UTC"
+  },
+  {
+    "description": "Sketch plugin that arranges symbol artboards",
+    "name": "sketch-organizesymbols",
+    "owner": "marianomike",
+    "author": "Mike Mariano",
+    "lastUpdated": "2016-09-02 17:50:52 UTC"
   }
 ]
