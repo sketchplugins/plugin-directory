@@ -7,6 +7,13 @@
     "owner": "richardgazdik"
   },
   {
+    "description": "Spotlight in Sketch",
+    "name": "sketch-action",
+    "title": "Sketch-Action",
+    "author": "Khoa Pham",
+    "owner": "onmyway133"
+  },
+  {
     "description": "Set automatically a background of your selected textlayer.",
     "name": "generate-text-background",
     "title": "Generate text background Lines",
