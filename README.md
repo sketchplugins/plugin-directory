@@ -265,6 +265,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Upload](https://github.com/jelias/sketch-upload), by Jacob Elias: This Sketch plugin allows designers to upload the selected artboard or slice to Cloud App with a simple shortcut ⇧⌘U.
 - [Sketch User Flows](https://github.com/ribot/sketch-user-flow-docs), by ribot: This plugin lets you link images in a document with an extenal image file and update them all at once.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
+- [Sketch-Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
 - [sketch-adjust-button-shape](https://github.com/psilfver/sketch-adjust-button-shape), by Petter: A Sketch plugin that adjusts a shape layer according to the attributes of a text layer
 - [Sketch-Artboard](https://github.com/kenmoore/sketch-artboard), by Ken Moore: Move Next / Previous artboard into view, preserving vertical offset and zooming to width.
 - [Sketch-Base64-PNG-Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
