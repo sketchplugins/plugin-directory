@@ -2151,11 +2151,11 @@
     "lastUpdated": "2016-04-28 19:58:39 UTC"
   },
   {
-    "description": "",
+    "description": " Add simple arrowhead to end of selected paths. Matches color and weight.",
     "name": "arrowfy",
     "owner": "joclin",
-    "author": null,
-    "lastUpdated": "2016-05-02 18:16:10 UTC"
+    "author": "Jocelyn Lin",
+    "lastUpdated": "2016-09-06 10:41:10 UTC"
   },
   {
     "description": "A Sketch plugin that adjusts a shape layer according to the attributes of a text layer",
