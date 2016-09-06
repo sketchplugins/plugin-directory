@@ -2506,5 +2506,12 @@
     "owner": "marisaroque",
     "author": "Marisa Roque",
     "lastUpdated": "2016-09-05 19:36:14 UTC"
+  },
+  {
+    "description": "A latin text generator similar to Lorem Ipsum. The plugin outputs randomly ordered paragraph text with three variations. You can use a random word count, a specific word count or inject random content into an existing text blocks.",
+    "name": "random-ipsom",
+    "owner": "fliptopbox",
+    "author": "Bruce Thomas",
+    "lastUpdated": "2016-09-02 08:50:35 UTC"
   }
 ]

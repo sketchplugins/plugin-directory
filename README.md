@@ -168,6 +168,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Random Opacity Sketch Plugin](https://github.com/adamhowell/random-opacity-sketch-plugin), by Adam Howell: Randomly change the opacity of selected objects in Sketch.
 - [Random Sizing](https://github.com/longzheng/sketch-randomsize), by Long Zheng: Sketch plugin to randomly resize selected elements.
 - [Random User](https://github.com/jimrutherford/random-user), by Jim Rutherford: A SketchApp plugin that inserts random user data into your Sketch documents.
+- [random-ipsom](https://github.com/fliptopbox/random-ipsom), by Bruce Thomas: A latin text generator similar to Lorem Ipsum. The plugin outputs randomly ordered paragraph text with three variations. You can use a random word count, a specific word count or inject random content into an existing text blocks.
 - [Regexp Rename](https://github.com/littlebusters/regexp-rename), by littlebusters: You can change the layer name by Regexp in Sketch 3.
 - [Relabel Button](https://github.com/kenmoore/sketch-relabel-button), by Ken Moore: Update a button's label and it gets resized automatically, preserving existing padding.
 - [Remove all Disabled Styles](https://github.com/erikfontanel/sketch-remove-all-disabled-styles), by Erik Gelderblom: A simple plugin that removes all disabled styles from all layers in the current selection.
