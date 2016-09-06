@@ -2498,5 +2498,13 @@
     "owner": "marianomike",
     "author": "Mike Mariano",
     "lastUpdated": "2016-09-03 04:03:34 UTC"
+  },
+  {
+    "description": "Sketch plugin for convert and copy text layers into HTML lists.",
+    "name": "sketch-markup-listify",
+    "title": "Sketch Markup Listify",
+    "owner": "marisaroque",
+    "author": "Marisa Roque",
+    "lastUpdated": "2016-09-05 19:36:14 UTC"
   }
 ]
