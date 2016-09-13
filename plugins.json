@@ -2411,7 +2411,8 @@
   },
   {
     "description": "Add page numbers to artboards.",
-    "name": "Sketch-Paginate",
+    "name": "sketch-paginate",
+    "title": "Sketch Paginate",
     "owner": "jorgemartins",
     "author": "Jorge Martins",
     "lastUpdated": "2016-08-10 11:28:06 GMT+1"
@@ -2537,13 +2538,6 @@
     "owner": "marcelinollano",
     "author": "Marcelino Llano",
     "lastUpdated": "2016-09-12 22:47:19 UTC"
-  },
-  {
-    "description": "Pagination plugin for sketch",
-    "name": "sketch-paginate",
-    "owner": "jorgemartins",
-    "author": "Jorge Martins",
-    "lastUpdated": "2016-09-04 13:12:41 UTC"
   },
   {
     "description": "Sketch.app plugin for exporting ICNS and GIFs",
