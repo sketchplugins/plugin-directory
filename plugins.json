@@ -2545,5 +2545,12 @@
     "owner": "nathco",
     "author": "Nathan Rutzky",
     "lastUpdated": "2016-09-13 11:28:10 UTC"
+  },
+  {
+    "description": "Sketch plugin to webalize layers name.",
+    "name": "webalize",
+    "owner": "Vesely",
+    "author": "David Veselý",
+    "lastUpdated": "2016-09-04 20:40:05 UTC"
   }
 ]
