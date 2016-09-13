@@ -2529,5 +2529,13 @@
     "owner": "exevil",
     "author": "Vyacheslav Dubovitsky",
     "lastUpdated": "2016-09-12 19:03:14 UTC"
+  },
+  {
+    "description": "Review designs using Emoji.",
+    "name": "sketch-review",
+    "title": "Sketch Review",
+    "owner": "marcelinollano",
+    "author": "Marcelino Llano",
+    "lastUpdated": "2016-09-12 22:47:19 UTC"
   }
 ]
