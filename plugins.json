@@ -2513,5 +2513,13 @@
     "owner": "fliptopbox",
     "author": "Bruce Thomas",
     "lastUpdated": "2016-09-02 08:50:35 UTC"
+  },
+  {
+    "description": "Grid Master is a Sketch plugin that fixes long-standing bugs and adds new functionaity related on work with Grid and Layout.",
+    "name": "sketch-grid-master",
+    "title": "Sketch Grid Master",
+    "owner": "exevil",
+    "author": "Vyacheslav Dubovitsky",
+    "lastUpdated": "2016-08-22 21:16:13 UTC"
   }
 ]
