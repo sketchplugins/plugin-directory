@@ -2537,5 +2537,12 @@
     "owner": "marcelinollano",
     "author": "Marcelino Llano",
     "lastUpdated": "2016-09-12 22:47:19 UTC"
+  },
+  {
+    "description": "Pagination plugin for sketch",
+    "name": "sketch-paginate",
+    "owner": "jorgemartins",
+    "author": "Jorge Martins",
+    "lastUpdated": "2016-09-04 13:12:41 UTC"
   }
 ]
