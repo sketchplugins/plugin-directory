@@ -2544,5 +2544,12 @@
     "owner": "jorgemartins",
     "author": "Jorge Martins",
     "lastUpdated": "2016-09-04 13:12:41 UTC"
+  },
+  {
+    "description": "Sketch.app plugin for exporting ICNS and GIFs",
+    "name": "Export-More",
+    "owner": "nathco",
+    "author": "Nathan Rutzky",
+    "lastUpdated": "2016-09-13 11:28:10 UTC"
   }
 ]

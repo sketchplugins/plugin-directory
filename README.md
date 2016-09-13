@@ -98,6 +98,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Export Text Styles](https://github.com/getflourish/sketch-export-text-styles), by Florian Schulz: Export all your Sketch text styles as CSS (proof of concept).
 - [Export to ICNS](https://github.com/solicomo/export-to-icns), by Soli Como: A Sketch plugin which can export artboards or slice to ICNS.
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
+- [Export-More](https://github.com/nathco/export-more), by Nathan Rutzky: Sketch.app plugin for exporting ICNS and GIFs
 - [Fasta-Fasta-Sketch-plugin](https://github.com/pavellaptev/fasta-fasta-sketch-plugin), by Pavel: background timer for sketch
 - [Find And Replace](https://github.com/mscodemonkey/sketch-find-and-replace), by Martin Steven: Sketch 3 plugin to do a simple find and replace on text within layers
 - [FindSlice](https://github.com/atomkirk/find-slice-sketch-plugin), by Adam Kirk: List all exportable layers/slices and navigate to selection.
@@ -283,8 +284,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketch-opencolor](https://github.com/opencolor-tools/sketch-opencolor), by opencolor-tools: A sketch plugin to support the open color file format
 - [sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols), by Mike Mariano: Sketch plugin that arranges symbol artboards
 - [Sketch-PageNumbers](https://github.com/gotomedia/sketch-pagenumbers), by gotomedia: Sketch plugin for adding page numbers to artboards.
-- [Sketch-Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [sketch-paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Pagination plugin for sketch
+- [Sketch-Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [Sketch-Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers
