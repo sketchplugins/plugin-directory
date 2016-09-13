@@ -175,6 +175,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Remove All Guides](https://github.com/ichik/removeallguides), by ichik: Remove all guides from the artboard with a shortcut.
 - [Remove Fills and Borders](https://github.com/sebj/remove-fills-and-borders), by Seb Jachec: Remove a layer's fills and borders in Sketch.
 - [Remove Unused Symbols](https://github.com/sketchplugins/remove-unused-symbols), by Sketch Plugins: Removes all Symbol masters that have no instances in the document
+- [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
 - [Rename Layers](https://github.com/sebj/rename-layers), by Seb Jachec: Rename multiple layers at once in Sketch.
 - [RenameIt](https://github.com/rodi01/renameit), by Rodrigo Soares: A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 - [Replace Colour](https://github.com/lewishowles/sketch-replace-colour), by Lewis Howles: Replace all fill or text colours matching the selected layer

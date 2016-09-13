@@ -2521,5 +2521,13 @@
     "owner": "exevil",
     "author": "Vyacheslav Dubovitsky",
     "lastUpdated": "2016-08-22 21:16:13 UTC"
+  },
+  {
+    "description": "Tiny single-command Sketch plugin that renames every symbol instance with its master's name.",
+    "name": "sketch-rename-instances",
+    "title": "Rename Instances",
+    "owner": "exevil",
+    "author": "Vyacheslav Dubovitsky",
+    "lastUpdated": "2016-09-12 19:03:14 UTC"
   }
 ]
