@@ -2480,11 +2480,11 @@
     "lastUpdated": "2016-08-26 09:09:58 UTC"
   },
   {
-    "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automatically.",
-    "name": "Coffee-Slice",
+    "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices.",
+    "name": "Coffee Slice",
     "owner": "KivyGogh",
     "author": "goudan",
-    "lastUpdated": "2016-09-02 08:22:15 UTC"
+    "lastUpdated": "2016-09-18 03:02:15 UTC"
   },
   {
     "description": "Sketch plugin that arranges symbol artboards",
