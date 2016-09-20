@@ -42,7 +42,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Clear Styles](https://github.com/nathco/clear-styles), by Nathan Rutzky: Sketch.app plugin for clearing all layer style properties.
 - [Click Dummy](https://github.com/raureif/sketch-click-dummy), by Raureif: Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
 - [Clipboard Fill](https://github.com/scottsavarie/clipboard-fill), by Scott Savarie: Sketch plugin to paste an image from your clipboard as the fill for any shape
-- [Coffee Slice](https://github.com/kivygogh/coffee-slice), by goudan: A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices.
+- [Coffee Slice](https://github.com/kivygogh/coffee slice), by goudan: A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices.
 - [Color Contrast Analyser](https://github.com/getflourish/sketch-color-contrast-analyser), by Florian Schulz: A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0.
 - [Color Copier](https://github.com/mfouquet/color-copier), by Michael Fouquet: Sketch Plugin to quickly copy color RGB/HEX values.
 - [Color Fonts Code Generator iOS Android Windows](https://github.com/vibrazy/color-fonts-code-generator-ios-android-windows), by Daniel Hollis Tavares: Create Color and Font Swatches and Export to iOS, Android and Windows
@@ -52,7 +52,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [colorpeek-sketch-plugin](https://github.com/peterwooley/colorpeek-sketch-plugin), by Peter Wooley: Gathers the colors used in your selected layers and shows them in Colorpeek.
 - [ColorSwitch](https://github.com/lmwebdesign/sketch3-colorswitch), by Luis Martinez: Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.
 - [Comma](https://github.com/margusholland/comma), by Margus Holland: Sketch plugin for text modifications
-- [Company Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Sketch plugin which fetches and inserts logos using the Clearbit company logo API
 - [Compo](https://github.com/romashamin/compo-sketch), by Roman Shamin: Makes it easier to work with interface components in Sketch
 - [Consistency](https://github.com/getflourish/consistency), by Florian Schulz: This Sketch plugin helps you to create and apply shared styles and symbols.
 - [Content Generator](https://github.com/timuric/content-generator-sketch-plugin), by Timur Carpeev: Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
@@ -132,6 +131,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [JSTalk Sketch Library](https://github.com/uhunkler/jstalk-sketch-library), by Urs Hunkler: A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.
 - [JSTalk Sketch Recipes](https://github.com/uhunkler/jstalk-sketch-recipes), by Urs Hunkler: Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.
 - [Layer Visibility](https://github.com/preciousforever/sketch-layer-visibility), by precious design studio: A simple plugin to to toggle visibility of a specified 'layerName'.
+- [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG) or Clearbit API (PNG)
 - [Lorem-Ipsum-Plugin-for-Sketch](https://github.com/brandonbeecroft/lorem-ipsum-plugin-for-sketch), by brandonbeecroft: This is a plugin for quickly creating Lorem Ipsum text in Sketch.
 - [LRTGenerator Sketch Plugins](https://github.com/lrtitze/sketch-plugins-lrtgenerators), by Leslie Titze: Sketch 3 plugin scripts for generating object collections.
 - [Magic Mirror 2](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards

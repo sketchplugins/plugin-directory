@@ -1476,9 +1476,9 @@
     "owner": "kmerc"
   },
   {
-    "description": "Sketch plugin which fetches and inserts logos using the Clearbit company logo API",
+    "description": "Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)",
     "name": "sketch-logo-fetcher",
-    "title": "Company Logo Fetcher",
+    "title": "Logo Fetcher",
     "author": "Tobi Kremer",
     "owner": "soulchild"
   },
