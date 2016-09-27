@@ -2481,7 +2481,8 @@
   },
   {
     "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices.",
-    "name": "Coffee Slice",
+    "name": "coffee-slice",
+    "title": "Coffee Slice",
     "owner": "KivyGogh",
     "author": "goudan",
     "lastUpdated": "2016-09-18 03:02:15 UTC"
@@ -2552,5 +2553,12 @@
     "owner": "Vesely",
     "author": "David Veselý",
     "lastUpdated": "2016-09-04 20:40:05 UTC"
+  },
+  {
+    "description": "Your friendly Sketch slicing helper",
+    "name": "slicer",
+    "owner": "ozzik",
+    "author": "Oz Pinhas",
+    "lastUpdated": "2016-09-27 05:45:36 UTC"
   }
 ]

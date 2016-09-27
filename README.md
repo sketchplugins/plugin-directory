@@ -305,6 +305,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketchy Pies](https://github.com/abynim/sketchy-pies), by Aby Nimbalkar: A Sketch plugin to magically convert regular circle layers into pie charts!
 - [Skribbble](https://github.com/tylergaw/skribbble), by Tyler Gaw: Sketch plugins for getting shots and info from Dribbble.
 - [skrx](https://github.com/rxlabz/skrx), by Erick G.: Skrx ( ~skreecks ) exports a selection of elements (for now only the rectangles) to Apache Flex MXML or FXG description, and copy it to clipboard.
+- [slicer](https://github.com/ozzik/slicer), by Oz Pinhas: Your friendly Sketch slicing helper
 - [smartboards](https://github.com/elihorne/smartboards), by Eli Horne: Smartboards aims to make managing and exporting artboards easier in Sketch.
 - [Sort Layers](https://github.com/getflourish/sketch-sort-layers), by Florian Schulz: Plugin that can sort layers or artboards based on text, layer name or position.
 - [Sort Me](https://github.com/romashamin/sort-me-sketch), by Roman Shamin: Sort artboards and layers by name
