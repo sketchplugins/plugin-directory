@@ -2560,5 +2560,12 @@
     "owner": "ozzik",
     "author": "Oz Pinhas",
     "lastUpdated": "2016-09-27 05:45:36 UTC"
+  },
+  {
+    "description": "Organize your symbols page and layer list, based on the symbol names.",
+    "name": "symbol-organizer",
+    "owner": "sonburn",
+    "author": "Jason Burns",
+    "lastUpdated": "2016-09-28 11:38:07 UTC"
   }
 ]
