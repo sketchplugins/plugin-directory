@@ -363,7 +363,7 @@
     "name": "sandros-sketch-plugins",
     "title": "Sketch Plugins",
     "author": "Alessandro",
-    "owner": "alessndro"
+    "owner": "alssndro"
   },
   {
     "description": "Select all child layers of a group with a key command.",
@@ -431,13 +431,6 @@
     "author": "Shahruz Shaukat",
     "title": "Vertical Fit",
     "name": "Sketch.app-Vertical-Fit"
-  },
-  {
-    "description": "Easily export Sketch artboards to Skitch.",
-    "owner": "shahruz",
-    "author": "Shahruz Shaukat",
-    "title": "Open in Skitch",
-    "name": "Open-in-Skitch"
   },
   {
     "description": "A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.",
@@ -1056,7 +1049,8 @@
   {
     "description": "Unlock locked layers, make changes, then lock again straight from your artboards.",
     "owner": "ribot",
-    "name": "Toggle Locked Layers"
+    "name": "sketch-toggle-locked-layers",
+    "title": "Toggle Locked Layers"
   },
   {
     "description": "Distribute selection objects vertically or horizontally with a given spacing between them.",
@@ -2204,7 +2198,7 @@
   },
   {
     "description": "Adjusts font, character spacing, line height for labels using San Francisco font.",
-    "name": "SFUI-Font-Fixer",
+    "name": "Sketch-SFUI-Font-Fixer",
     "title": "San Francisco UI Font Fixer",
     "owner": "Elethom",
     "author": "Elethom Hunter",
@@ -2213,7 +2207,7 @@
   },
   {
     "description": "Remove path prefix for symbol instances.",
-    "name": "PathPrefixRemover",
+    "name": "Sketch-PathPrefixRemover",
     "title": "Path Prefix Remover",
     "owner": "Elethom",
     "author": "Elethom Hunter",
@@ -2254,7 +2248,7 @@
   },
   {
     "description": "Generate a user defined amount of random Emoji into the selected text layer.",
-    "name": "emojiipsum-sketch-plugin",
+    "name": "emojipsum-Sketch-Plugin",
     "title": "Emojiipsum generator for Sketch",
     "author": "Sebastian Haase",
     "owner": "kuchengnom",
