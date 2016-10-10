@@ -275,6 +275,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketch-adjust-button-shape](https://github.com/psilfver/sketch-adjust-button-shape), by Petter: A Sketch plugin that adjusts a shape layer according to the attributes of a text layer
 - [Sketch-Artboard](https://github.com/kenmoore/sketch-artboard), by Ken Moore: Move Next / Previous artboard into view, preserving vertical offset and zooming to width.
 - [Sketch-Base64-PNG-Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
+- [Sketch-Copy-Paste-Position-Size](https://github.com/angistudio/sketch-copy-paste-position-size), by ANGI studio: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
 - [sketch-copy-to-all](https://github.com/wuwa/sketch-copy-to-all), by Ben Benhorin: sketch - copy to all artboards plugin
 - [Sketch-Divider](https://github.com/jawayang/sketch-divider), by james yang: A plugin for Sketch to equal division layers by container.
 - [sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol), by Mike Mariano: Sketch plugin that creates a new symbol out of a selected symbol

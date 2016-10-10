@@ -2568,5 +2568,12 @@
     "owner": "ANGIstudio",
     "author": "ANGI studio",
     "lastUpdated": "2016-09-28 21:21:28 UTC"
+  },
+  {
+    "description": "A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects",
+    "name": "Sketch-Copy-Paste-Position-Size",
+    "owner": "ANGIstudio",
+    "author": "ANGI studio",
+    "lastUpdated": "2016-09-22 14:41:02 UTC"
   }
 ]
