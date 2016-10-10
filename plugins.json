@@ -433,13 +433,6 @@
     "name": "Sketch.app-Vertical-Fit"
   },
   {
-    "description": "Easily export Sketch artboards to Skitch.",
-    "owner": "shahruz",
-    "author": "Shahruz Shaukat",
-    "title": "Open in Skitch",
-    "name": "Open-in-Skitch"
-  },
-  {
     "description": "A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.",
     "owner": "tylergaw",
     "author": "Tyler Gaw",
