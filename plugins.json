@@ -2248,7 +2248,7 @@
   },
   {
     "description": "Generate a user defined amount of random Emoji into the selected text layer.",
-    "name": "emojiipsum-sketch-plugin",
+    "name": "emojipsum-Sketch-Plugin",
     "title": "Emojiipsum generator for Sketch",
     "author": "Sebastian Haase",
     "owner": "kuchengnom",
