@@ -2582,5 +2582,12 @@
     "owner": "ANGIstudio",
     "author": "ANGI studio",
     "lastUpdated": "2016-09-23 13:58:29 UTC"
+  },
+  {
+    "description": "A Sketch plugin to collect font files you used in your sketch file.",
+    "name": "Font-Packer",
+    "owner": "bigxixi",
+    "author": "Big XiXi",
+    "lastUpdated": "2016-10-10 07:57:24 UTC"
   }
 ]

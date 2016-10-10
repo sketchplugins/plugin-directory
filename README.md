@@ -105,6 +105,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Flowmate](https://github.com/wodory/flowmate), by Sanghun Woo: Sketch Plugin to draw flowchart and diagram
 - [Fluid for Sketch](https://github.com/matt-curtis/fluid-for-sketch), by Matt Curtis: Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
 - [Font Size Checker](https://github.com/feb19/sketch-font-size-checker), by Nobuhiro Takahashi: Text Size Validator for iOS or Android UI Designers.
+- [Font-Packer](https://github.com/bigxixi/font-packer), by Big XiXi: A Sketch plugin to collect font files you used in your sketch file.
 - [FontFinder](https://github.com/ukn530/fontfinder), by Tatsuya Uchida: Sketch Plugin to find and select font items in a current page
 - [Formr](https://github.com/lessthanzero/formr), by Alexander Katin: Helps to maintain simple proportions of layers and artboards
 - [Frame Sequencer](https://github.com/dawidw/frame-sequencer), by Dawid Woźniak: Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
