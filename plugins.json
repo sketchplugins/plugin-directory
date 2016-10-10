@@ -1,5 +1,12 @@
 [
   {
+    "description": "Clear export options for all elements on all pages in a Sketch file.",
+    "name": "sketch-clear-export-options",
+    "title": "Clear Export Options",
+    "author": "Emre J. Joshkun",
+    "owner": "emrerussia"
+  },
+  {
     "description": "Group and align your Sketch symbols and artboards by name.",
     "name": "sketch-align",
     "title": "Align artboards and symbols",
