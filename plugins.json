@@ -2575,5 +2575,12 @@
     "owner": "ANGIstudio",
     "author": "ANGI studio",
     "lastUpdated": "2016-09-22 14:41:02 UTC"
+  },
+  {
+    "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
+    "name": "Sketch-Keyboard-Resize",
+    "owner": "ANGIstudio",
+    "author": "ANGI studio",
+    "lastUpdated": "2016-09-23 13:58:29 UTC"
   }
 ]
