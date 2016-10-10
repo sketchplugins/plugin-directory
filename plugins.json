@@ -1049,7 +1049,8 @@
   {
     "description": "Unlock locked layers, make changes, then lock again straight from your artboards.",
     "owner": "ribot",
-    "name": "Toggle Locked Layers"
+    "name": "sketch-toggle-locked-layers",
+    "title": "Toggle Locked Layers"
   },
   {
     "description": "Distribute selection objects vertically or horizontally with a given spacing between them.",
