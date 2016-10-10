@@ -2561,5 +2561,12 @@
     "owner": "sonburn",
     "author": "Jason Burns",
     "lastUpdated": "2016-09-28 11:38:07 UTC"
+  },
+  {
+    "description": "A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.",
+    "name": "Sketch-Resize-Commands",
+    "owner": "ANGIstudio",
+    "author": "ANGI studio",
+    "lastUpdated": "2016-09-28 21:21:28 UTC"
   }
 ]
