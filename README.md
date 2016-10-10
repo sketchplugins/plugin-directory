@@ -145,7 +145,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Mosaic](https://github.com/tomorrowkey/sketch3-mosaic-plugin), by Tomoki Yamashita: A plugin for Sketch3 to apply mosaic easily.
 - [Move It](https://github.com/dawidw/move-it), by Dawid Woźniak: Sketch plugin that let's you move selected layers verticaly and horizontaly.
 - [NumGen](https://github.com/auxdesigner/sketch-plugin---numgen), by Liu Liu: Generate numbers that are: CTR, clicks, costs, impr.
-- [Open in Skitch](https://github.com/shahruz/open-in-skitch), by Shahruz Shaukat: Easily export Sketch artboards to Skitch.
 - [Optically for Sketch](http://designplugins.com/optically), by Vlad Danilov: Automated and mathematically precise optical adjustments in Sketch.
 - [Optimize Images](https://github.com/peerjollux/sketch-optimizeimages), by Jaer Pollux: Sketch plugin for optimizing all images within your document.
 - [Page Switch](https://github.com/mauehara/sketch-page-switch), by Mauricio T. Uehara: A dummy plugin to quickly switch between pages using shortcuts.
@@ -247,7 +246,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
 - [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugin Scripts](https://github.com/makzan/sketch-plugin-scripts), by Thomas Seng Hin Mak: Some scripts for the Mac Sketch app, including "Blend Steps", "Simple Pattern" and "Fill Artboard".
-- [Sketch Plugins](https://github.com/alessndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
+- [Sketch Plugins](https://github.com/alssndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [Sketch Plugins](https://github.com/buscarini/sketch-plugins), by José Manuel Sánchez: Plugins for Bohemian Coding Sketch, including "Duplicate to All Artboards" and "Golden Ratio".
 - [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
 - [Sketch Plugins by Cemre Güngör](https://github.com/cemre/cemre-sketch-plugins), by Cemre Güngör: Sketch plugins by Cemre Güngör.
@@ -337,7 +336,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase
 - [Todo-Sketch-Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
-- [Toggle Locked Layers](https://github.com/ribot/toggle locked layers), by ribot: Unlock locked layers, make changes, then lock again straight from your artboards.
+- [Toggle Locked Layers](https://github.com/ribot/sketch-toggle-locked-layers), by ribot: Unlock locked layers, make changes, then lock again straight from your artboards.
 - [Toggle NoPrint](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin), by Denis Sudilkovsky: Toggle Visibility of 'NoPrint' layers in Sketch
 - [Trim Artboard](https://github.com/nerthase/trimartboard), by Mario De Santis: A simple Sketch plugin to trim artboards
 - [Tschichold](https://github.com/arsfeshchenko/tschichold-sketch-plugin), by Arseniy Feshchenko: Plugin that Aligns or Resizes content according to Jan Tschichold's canon of page construction.
