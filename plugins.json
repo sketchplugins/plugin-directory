@@ -2198,7 +2198,7 @@
   },
   {
     "description": "Adjusts font, character spacing, line height for labels using San Francisco font.",
-    "name": "SFUI-Font-Fixer",
+    "name": "Sketch-SFUI-Font-Fixer",
     "title": "San Francisco UI Font Fixer",
     "owner": "Elethom",
     "author": "Elethom Hunter",
@@ -2207,7 +2207,7 @@
   },
   {
     "description": "Remove path prefix for symbol instances.",
-    "name": "PathPrefixRemover",
+    "name": "Sketch-PathPrefixRemover",
     "title": "Path Prefix Remover",
     "owner": "Elethom",
     "author": "Elethom Hunter",
