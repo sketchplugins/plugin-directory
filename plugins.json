@@ -2474,7 +2474,7 @@
     "lastUpdated": "2016-08-26 09:09:58 UTC"
   },
   {
-    "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices.",
+    "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices, you can choose to autosave in a path or not.",
     "name": "coffee-slice",
     "title": "Coffee Slice",
     "owner": "KivyGogh",
