@@ -291,14 +291,6 @@
     "author": "Erick G."
   },
   {
-    "description": "Scripts for Bohemian Coding's Sketch application.",
-    "name": "sketch-plugins",
-    "title": "Sketch Plugins",
-    "author": "David Udvardy",
-    "owner": "davidudvardy",
-    "lastUpdated": "2014-03-19"
-  },
-  {
     "description": "A port of Illustrator's \"Split Into Grid\" to Sketch.",
     "name": "Sketch-Scripts",
     "title": "Split Into Grid",
