@@ -2589,5 +2589,12 @@
     "owner": "bigxixi",
     "author": "Big XiXi",
     "lastUpdated": "2016-10-10 07:57:24 UTC"
+  },
+  {
+    "description": "Sketch3 plugin, One key export Android/iOS App icons.",
+    "name": "sketch-app-asset-export",
+    "owner": "work4blue",
+    "author": "Andrew Huang",
+    "lastUpdated": "2016-10-11 08:52:38 UTC"
   }
 ]
