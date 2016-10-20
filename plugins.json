@@ -2602,5 +2602,12 @@
     "owner": "ozzik",
     "author": "Oz Pinhas",
     "lastUpdated": "2016-07-19 22:17:44 UTC"
+  },
+  {
+    "description": "Sketch plugin that lets you apply colors from the document color palette to a selection of shapes - 🎨",
+    "name": "QuickColor",
+    "owner": "colesperks",
+    "author": "Cole Perkins",
+    "lastUpdated": "2016-10-19 13:08:57 UTC"
   }
 ]
