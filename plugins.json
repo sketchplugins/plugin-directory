@@ -2617,5 +2617,13 @@
     "owner": "nmwoods1",
     "author": "nmwoods1",
     "lastUpdated": "2016-10-20 21:59:39 UTC"
+  },
+  {
+    "description": "Add Guides to edges and midpoints at once.",
+    "name": "Sketch-Guides",
+    "title": "Sketch Guides",
+    "owner": "luvmex",
+    "author": "Celyn Xie",
+    "lastUpdated": "2016-10-20 11:25:26 UTC"
   }
 ]
