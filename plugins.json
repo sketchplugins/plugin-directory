@@ -2609,5 +2609,13 @@
     "owner": "colesperks",
     "author": "Cole Perkins",
     "lastUpdated": "2016-10-19 13:08:57 UTC"
+  },
+  {
+    "description": "A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards",
+    "name": "Sketch---Find-all-instances-of-symbol",
+    "title": "Find All Instances of Symbol",
+    "owner": "nmwoods1",
+    "author": "nmwoods1",
+    "lastUpdated": "2016-10-20 21:59:39 UTC"
   }
 ]
