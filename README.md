@@ -166,6 +166,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Qordoba for Sketch](https://www.qordoba.com), by Qordoba: Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.
 - [QR Code](https://github.com/turbobabr/sketch-qrcode), by Andrey Shakhmin: QR Code generator plugin for Sketch App.
 - [QRCode for Sketch Local Sharing](https://github.com/dex1t/qrcode-for-sketch-local-sharing), by Takaya Deguchi: This plugin show QR Code for Local Sharing URL (Sketch 3.4 Featrue). Read this QR code when checking your design on smartphone.
+- [Quick Export as PNG](https://github.com/richardgazdik/sketch-quickexport), by Richard Gazdik: Quick Export layers/artboards/symbols as PNG Plugin for Sketch.
 - [Quick Pic](https://github.com/nickstamas/sketch-quick-pic), by Nick Stamas: Quickly fill a layer with an image from Flickr based on tags.
 - [Quick Presentation](https://github.com/timothywhalin/sketch-quick-presentation), by Timothy Whalin: A Sketch plugin to quickly share multiple artboards with an optional title.
 - [QuickColor](https://github.com/colesperks/quickcolor), by Cole Perkins: Sketch plugin that lets you apply colors from the document color palette to a selection of shapes - 🎨

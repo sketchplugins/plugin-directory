@@ -1,5 +1,12 @@
 [
   {
+    "description": "Quick Export layers/artboards/symbols as PNG Plugin for Sketch.",
+    "name": "sketch-quickexport",
+    "title": "Quick Export as PNG",
+    "author": "Richard Gazdik",
+    "owner": "richardgazdik"
+  },
+  {
     "description": "Clear export options for all elements on all pages in a Sketch file.",
     "name": "sketch-clear-export-options",
     "title": "Clear Export Options",
