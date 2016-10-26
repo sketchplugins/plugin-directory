@@ -222,6 +222,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Constraints](https://github.com/bouchenoiremarc/sketch-constraints), by Marc Bouchenoire: A plugin that integrates constraints in Sketch to lay out layers.
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
+- [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc), by Manuel Muñoz: Exports a simple website using a bunch of conventions and a Sketch document as the structure.
 - [Sketch Device Collection](https://github.com/paulfarino/sketch-device-collection), by Paul Farino: This plugin makes it easy to to fill layers in Sketch with devices.
 - [Sketch Divine Proportions](https://github.com/ichord/sketch-divine-proportions), by Harold.Luo: A plugin for Sketch to generate divine proportions automatically.
 - [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
@@ -350,6 +351,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Toggle Locked Layers](https://github.com/ribot/sketch-toggle-locked-layers), by ribot: Unlock locked layers, make changes, then lock again straight from your artboards.
 - [Toggle NoPrint](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin), by Denis Sudilkovsky: Toggle Visibility of 'NoPrint' layers in Sketch
 - [Trim Artboard](https://github.com/nerthase/trimartboard), by Mario De Santis: A simple Sketch plugin to trim artboards
+- [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
 - [Tschichold](https://github.com/arsfeshchenko/tschichold-sketch-plugin), by Arseniy Feshchenko: Plugin that Aligns or Resizes content according to Jan Tschichold's canon of page construction.
 - [Typograph](https://github.com/dezonik/typograph), by Dmitry Gerasimov: Typograph — Sketch plugin and js-library
 - [Typographic Scale](https://github.com/automat/sketch-plugin-typographic-scale), by Henryk Wollik: Generates a typographic scale from selected text layers.
