@@ -2648,5 +2648,13 @@
     "owner": "mamuso",
     "author": "Manuel Muñoz",
     "lastUpdated": "2016-10-25 07:28:50 UTC"
+  },
+  {
+    "description": "Butter will butt your layers together.",
+    "name": "butter-sketch-plugin",
+    "title": "Butter",
+    "owner": "pberrecloth",
+    "author": "Peter Berrecloth",
+    "lastUpdated": "2016-10-31 12:40:25 UTC"
   }
 ]

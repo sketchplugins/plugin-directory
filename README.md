@@ -33,6 +33,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
 - [Blade](https://github.com/sskyy/blade), by Zhenyu Hou: A Sketch plugin for automatically HTML generate.
 - [Bound with Box](https://github.com/lewishowles/sketch-bound-with-box), by Lewis Howles: Draws a rectangle of the same size, shape and position as the selected layer, with possible padding.
+- [Butter](https://github.com/pberrecloth/butter-sketch-plugin), by Peter Berrecloth: Butter will butt your layers together.
 - [Cat Ipsum](https://github.com/mamuso/sketch-cat-ipsum), by mamuso: If you love catipsum.com & sketch as much as I do, then I don't know how could you live without this plugin.
 - [changelog.sketchplugin](https://github.com/jacopocolo/changelog.sketchplugin), by Jacopo Colò: A simple Sketch plugin to generate artboard-based changelogs
 - [Character Count](https://github.com/andrewfiorillo/sketch-character-count), by Andrew Fiorillo: Sketch plugin to count number of characters in a text layer
