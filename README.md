@@ -339,6 +339,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SwiftColorPalette](https://github.com/nahitheper/swiftcolorpalette), by nahitheper: Sketch plugin that generates Swift Color Theme with enums
 - [Switch Artboard](https://github.com/tokuda109/switchartboard.sketchplugin), by Tsuyoshi Tokuda: Sketch 3 plugin to quickly switch between artboards.
 - [Symbol Me](https://github.com/websiddu/sketch-symbol-me), by Siddhartha Gudipati: Convert all your similar layers to symbols with a single click.
+- [symbol-instance-renamer](https://github.com/sonburn/symbol-instance-renamer), by Jason Burns: Rename all symbol instances to the name of their master.
 - [symbol-organizer](https://github.com/sonburn/symbol-organizer), by Jason Burns: Organize your symbols page and layer list, based on the symbol names.
 - [Sync](https://github.com/nolastan/sync.sketchplugin), by Stanford Rosenthal: Use Google Sheets to sync typography across your team.
 - [Sync Plugins](https://github.com/nathco/sync-plugins), by Nathan Rutzky: Sync local Sketch.app plugins with their master version at GitHub.

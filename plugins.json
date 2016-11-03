@@ -2656,5 +2656,12 @@
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
     "lastUpdated": "2016-10-31 12:40:25 UTC"
+  },
+  {
+    "description": "Rename all symbol instances to the name of their master.",
+    "name": "symbol-instance-renamer",
+    "owner": "sonburn",
+    "author": "Jason Burns",
+    "lastUpdated": "2016-11-03 15:04:53 UTC"
   }
 ]
