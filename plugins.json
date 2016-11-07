@@ -2663,5 +2663,12 @@
     "owner": "sonburn",
     "author": "Jason Burns",
     "lastUpdated": "2016-11-03 15:04:53 UTC"
+  },
+  {
+    "description": "Generate guides along with twitter bootstrap grid system.",
+    "name": "Sketch-bootstrap-guides",
+    "owner": "tomoyukikashiro",
+    "author": "Tomoyuki Kashiro",
+    "lastUpdated": "2016-11-06 18:04:53 UTC"
   }
 ]
