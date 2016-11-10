@@ -200,6 +200,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
 - [Select By Name](https://github.com/sebj/select-by-name), by Seb Jachec: Selects all layers of the same name in Sketch.
 - [Select Child Layers](https://github.com/jshuaf/select-children), by Joshua Fang: A sketch plugin to select all the child layers of a group.
+- [Select Exportables](https://github.com/yargies/sketch-select-exportables), by Kenji Wellman: Select all exportable layers, slices, and artboards.
 - [Select Group Layers](https://github.com/mattmcmanus/select-group-layers-sketch-plugin), by Matt McManus: Select all child layers of a group with a key command.
 - [Select Invisible Layers](https://github.com/keremciu/sketch-select-invisible-layers), by Kerem Sevencan: Select invisible layers on current page
 - [Select Layers by Color](https://github.com/getflourish/sketch-select-layers-by-color), by Florian Schulz: This plugin selects all layers that have the same fill color as the currently selected layer.
