@@ -48,7 +48,7 @@ if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.cou
   puts "We now have #{json_data.length} plugins on the list"
   # Update README
   system("rake")
-  system("git add .")
+  system("git add README.md plugins.json")
   log_msg = "Added #{owner}/#{name}"
   if ARGV[1]
     log_msg += ". Closes ##{ARGV[1]}"
