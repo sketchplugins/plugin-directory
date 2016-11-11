@@ -315,6 +315,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketchplugins](https://github.com/8by8/sketchplugins), by 8by8: Plugins for Sketch.
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [SketchPlugins](https://github.com/joshpuckett/sketchplugins), by Josh Puckett: A git repo containing various plugins for Sketch (including 'Handy', a plugin that makes working with guides easier).
+- [SketchTape.sketchplugin](https://github.com/rjungemann/sketchtape.sketchplugin), by Roger Jungemann: Connect two shapes in Sketch app.
 - [SketchTextSourcer](https://github.com/hamidp/sketchtextsourcer), by Hamid Palo: Sketch plugin for easily populating a bunch of text layers from a source.
 - [Sketchy Pies](https://github.com/abynim/sketchy-pies), by Aby Nimbalkar: A Sketch plugin to magically convert regular circle layers into pie charts!
 - [Skribbble](https://github.com/tylergaw/skribbble), by Tyler Gaw: Sketch plugins for getting shots and info from Dribbble.

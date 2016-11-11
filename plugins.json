@@ -2677,5 +2677,13 @@
     "owner": "tomoyukikashiro",
     "author": "Tomoyuki Kashiro",
     "lastUpdated": "2016-11-06 18:04:53 UTC"
+  },
+  {
+    "description": "Connect two shapes in Sketch app.",
+    "name": "SketchTape.sketchplugin",
+    "title": "SketchTape",
+    "owner": "rjungemann",
+    "author": "Roger Jungemann",
+    "lastUpdated": "2016-10-16 10:29:50 UTC"
   }
 ]
