@@ -2685,5 +2685,13 @@
     "owner": "rjungemann",
     "author": "Roger Jungemann",
     "lastUpdated": "2016-10-16 10:29:50 UTC"
+  },
+  {
+    "description": "Rotate objects at preset amounts",
+    "name": "rotator-sketch-plugin",
+    "title": "Rotator",
+    "owner": "pberrecloth",
+    "author": "Peter Berrecloth",
+    "lastUpdated": "2016-11-14 18:01:57 UTC"
   }
 ]
