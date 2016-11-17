@@ -7,6 +7,21 @@ if ARGV[0].nil?
   exit
 end
 
+IGNORE = %w(the of a and)
+
+def titlefy string
+  s = string.gsub('-',' ').split(' ')
+  s.map do |word|
+    word_lowercase = word.downcase
+    if IGNORE.include?(word_lowercase)
+      word_lowercase
+    else
+      word.capitalize!
+    end
+  end
+  s.join(' ')
+end
+
 # First, update the local repo to avoid conflicts later on
 # (use git-up if it's installed)
 if `which git-up`.empty?
@@ -28,6 +43,7 @@ user = client.user(owner)
 new_plugin = {
   :description => repo.description,
   :name => name,
+  :title => titlefy(name),
   :owner => owner,
   :author => user.name,
   :lastUpdated => repo.updated_at
