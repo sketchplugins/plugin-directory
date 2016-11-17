@@ -266,6 +266,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Review](https://github.com/marcelinollano/sketch-review), by Marcelino Llano: Review designs using Emoji.
 - [Sketch Runner](http://sketchrunner.com), by sketchrunner: Speed up your Sketch workflow
 - [Sketch Scripts](https://github.com/samdeane/sketch-scripts), by Sam Deane: Scripts for Sketch, by another one of the Bohemian Coding guys.
+- [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
 - [Sketch Server](https://github.com/matt-curtis/sketch-server), by Matt Curtis: A Sketch Plugin that creates a local web server for your Sketch Documents.
 - [Sketch Shopify Data Populator](https://github.com/levinmejia/sketch-shopify-data-populator), by Shopify + precious design studio: A Sketch App plugin to populate your designs with meaningful ecommerce data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Speaker](https://github.com/marcosvidal/sketch-speaker), by Marcos Vidal: Making Sketch talk...

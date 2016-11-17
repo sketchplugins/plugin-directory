@@ -2693,5 +2693,13 @@
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
     "lastUpdated": "2016-11-14 18:01:57 UTC"
+  },
+  {
+    "description": "Make it much more convenient to select layers with similar attributes.",
+    "name": "sketch-select",
+    "title": "Sketch Select",
+    "owner": "canisminor1990",
+    "author": "Canis Minor",
+    "lastUpdated": "2016-11-17 05:02:39 UTC"
   }
 ]
