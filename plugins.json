@@ -1,5 +1,12 @@
 [
   {
+    "description": "Automatic annotation design draft specification, generate various resolution.",
+    "name": "Riry-SketchPlugin",
+    "title": "Riry App",
+    "author": "Riry",
+    "owner": "shicang1990"
+  },
+  {
     "description": "Select all exportable layers, slices, and artboards.",
     "name": "sketch-select-exportables",
     "title": "Select Exportables",
