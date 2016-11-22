@@ -2708,5 +2708,13 @@
     "owner": "canisminor1990",
     "author": "Canis Minor",
     "lastUpdated": "2016-11-17 05:02:39 UTC"
+  },
+  {
+    "description": "A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.",
+    "name": "Sketch-Color-Contrast-Analyzer",
+    "title": "Sketch Color Contrast Analyzer",
+    "owner": "eaugustine",
+    "author": null,
+    "lastUpdated": "2016-11-21 16:51:25 UTC"
   }
 ]
