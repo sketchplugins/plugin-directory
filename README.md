@@ -226,6 +226,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Commands](https://github.com/bomberstudios/sketch-commands), by Ale Muñoz: A collection of script commands for Bohemian Coding's Sketch.app
 - [Sketch Constraints](https://github.com/bouchenoiremarc/sketch-constraints), by Marc Bouchenoire: A plugin that integrates constraints in Sketch to lay out layers.
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
+- [Sketch Shopify Data Populator](https://github.com/levinmejia/sketch-shopify-data-populator)
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc), by Manuel Muñoz: Exports a simple website using a bunch of conventions and a Sketch document as the structure.
 - [Sketch Device Collection](https://github.com/paulfarino/sketch-device-collection), by Paul Farino: This plugin makes it easy to to fill layers in Sketch with devices.

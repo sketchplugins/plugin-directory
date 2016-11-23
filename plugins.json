@@ -1197,6 +1197,13 @@
     "name": "sketch-data-populator"
   },
   {
+    "description": "A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.",
+    "author": "Shopify + precious design studio",
+    "owner": "levinmejia",
+    "title": "Sketch Shopify Data Populator",
+    "name": "sketch-shopify-data-populator"
+  },
+  {
     "description": "A Sketch plugin for playing with seamless tiles.",
     "name": "sketch-tiles",
     "title": "Sketch Tiles",
