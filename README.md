@@ -279,6 +279,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch SubtlePatterns](https://github.com/dunckr/sketch-subtlepatterns), by Duncan Beaton: Import subtle patterns as shape fills in Sketch.
 - [Sketch Text Tools](https://github.com/automat/sketch-text-tools), by Henryk Wollik: Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
+- [Sketch To Clickthrough Html](https://github.com/amin-nas/sketch-to-clickthrough-html), by Amin: Sketch plugin for creating a clickthrough HTMLprototype
 - [Sketch to Xcode Assets Catalog](https://github.com/geertwille/sketch-to-xcode-assets-catalog), by Geert Wille: A Sketch plugin that allows to export assets for iOS directly from Sketch into Xcodes assets catalog.
 - [Sketch Translate](https://github.com/zachheine/sketch-translate), by Zach Heineman: Sketch plugin to do text translation using Google translate.
 - [Sketch Unlinker](https://github.com/eivindbohler/sketch-unlinker), by Eivind Bøhler: Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.
