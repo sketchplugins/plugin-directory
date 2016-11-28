@@ -233,6 +233,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
 - [Sketch Export Plus](https://github.com/hite/sketch-export-plus), by hite: A Sketch Plugin which derived from Sketch Measure v0.9.4.4 with more powerful export options for Sketch.app
 - [Sketch Export Sizes Generator](https://github.com/devxoul/sketch-export-sizes-generator), by Jeon Suyeol: A simple plugin for Sketch that generates export sizes of layers.
+- [Sketch Export Text](https://github.com/exevil/sketch-export-text), by Vyacheslav Dubovitsky: Helps you to save all text data on current page in customizable format and filter the excess.
 - [Sketch Flex Layout](https://github.com/hrescak/sketch-flex-layout), by Matej Hrescak: Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes.
 - [Sketch Flowchart](https://github.com/alienresident/sketch-flowchart), by Mark Reilly: Flowchart plugin for Sketch. Based on AEFlowchart with customizable colors and layer styles.
 - [Sketch Focus](https://sketchfocus.com), by Code Arrows: A new plugin for Sketch that boosts your productivity by keeping you on-task.

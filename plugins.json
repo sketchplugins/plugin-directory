@@ -2724,5 +2724,13 @@
     "owner": "amin-nas",
     "author": "Amin",
     "lastUpdated": "2016-11-25 00:39:41 UTC"
+  },
+  {
+    "description": "Helps you to save all text data on current page in customizable format and filter the excess.",
+    "name": "Sketch-Export-Text",
+    "title": "Sketch Export Text",
+    "owner": "exevil",
+    "author": "Vyacheslav Dubovitsky",
+    "lastUpdated": "2016-11-28 14:05:09 UTC"
   }
 ]
