@@ -2732,5 +2732,13 @@
     "owner": "exevil",
     "author": "Vyacheslav Dubovitsky",
     "lastUpdated": "2016-11-28 14:05:09 UTC"
+  },
+  {
+    "description": "A Sketch plugin that will export the fill color of selected layers to SCSS, LESS and CSS files.",
+    "name": "Sketch-Color-Vars",
+    "title": "Sketch Color Vars",
+    "owner": "philsinatra",
+    "author": "Phil Sinatra",
+    "lastUpdated": "2016-11-28 12:48:45 UTC"
   }
 ]
