@@ -2748,5 +2748,13 @@
     "owner": "Volorf",
     "author": "Oleg Frolov",
     "lastUpdated": "2016-11-29 22:03:03 UTC"
+  },
+  {
+    "description": "HSL Color Picker for Sketch",
+    "name": "HSL_Color_Picker",
+    "title": "Hsl_color_picker",
+    "owner": "Ashung",
+    "author": "Ashung Hung",
+    "lastUpdated": "2016-12-02 10:26:32 UTC"
   }
 ]
