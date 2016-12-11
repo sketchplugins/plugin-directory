@@ -2764,5 +2764,13 @@
     "owner": "cshdllr",
     "author": "Jason Cashdollar",
     "lastUpdated": "2016-12-02 19:55:42 UTC"
+  },
+  {
+    "description": "Automatically create RTL layouts of your designs with this plugin for Bohemian Coding's Sketch 3",
+    "name": "sketch-rtl",
+    "title": "Sketch Rtl",
+    "owner": "devinmancuso",
+    "author": "Devin Mancuso",
+    "lastUpdated": "2016-12-06 23:53:21 UTC"
   }
 ]

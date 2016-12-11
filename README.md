@@ -271,6 +271,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Preview](https://github.com/marcisme/sketch-preview), by Marc Schwieterman: This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [Sketch Resize](https://github.com/antonstrand/sketch-resize), by Anton Strand: Use one layer or the artboard as a template to resize other layers.
 - [Sketch Review](https://github.com/marcelinollano/sketch-review), by Marcelino Llano: Review designs using Emoji.
+- [Sketch Rtl](https://github.com/devinmancuso/sketch-rtl), by Devin Mancuso: Automatically create RTL layouts of your designs with this plugin for Bohemian Coding's Sketch 3
 - [Sketch Runner](http://sketchrunner.com), by sketchrunner: Speed up your Sketch workflow
 - [Sketch Scripts](https://github.com/samdeane/sketch-scripts), by Sam Deane: Scripts for Sketch, by another one of the Bohemian Coding guys.
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
