@@ -2780,5 +2780,13 @@
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
     "lastUpdated": "2016-12-07 10:47:11 UTC"
+  },
+  {
+    "description": "Fit layer to artboard width, height or both",
+    "name": "fitter-sketch-plugin",
+    "title": "Fitter Sketch Plugin",
+    "owner": "pberrecloth",
+    "author": "Peter Berrecloth",
+    "lastUpdated": "2016-12-09 16:21:16 UTC"
   }
 ]
