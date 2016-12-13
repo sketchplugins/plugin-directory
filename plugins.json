@@ -2772,5 +2772,13 @@
     "owner": "devinmancuso",
     "author": "Devin Mancuso",
     "lastUpdated": "2016-12-06 23:53:21 UTC"
+  },
+  {
+    "description": "Manage the prefixes of your layers, artboards or symbols",
+    "name": "prefixation-sketch-plugin",
+    "title": "Prefixation Sketch Plugin",
+    "owner": "pberrecloth",
+    "author": "Peter Berrecloth",
+    "lastUpdated": "2016-12-07 10:47:11 UTC"
   }
 ]
