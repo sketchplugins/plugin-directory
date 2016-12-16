@@ -100,7 +100,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Export to ICNS](https://github.com/solicomo/export-to-icns), by Soli Como: A Sketch plugin which can export artboards or slice to ICNS.
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
 - [Export-More](https://github.com/nathco/export-more), by Nathan Rutzky: Sketch.app plugin for exporting ICNS and GIFs
-- [Fake-Chinese-Name-for-Sketch](https://github.com/JJYing/Fake-Chinese-Name-for-Sketch), by JJ Ying: Generate Chinese names for text layers.
+- [Fake Chinese Name for Sketch](https://github.com/jjying/fake-chinese-name-for-sketch), by JJ Ying: Generate Chinese names for text layers.
 - [Fasta-Fasta-Sketch-plugin](https://github.com/pavellaptev/fasta-fasta-sketch-plugin), by Pavel: background timer for sketch
 - [Find All Instances of Symbol](https://github.com/nmwoods1/sketch---find-all-instances-of-symbol), by nmwoods1: A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards
 - [Find And Replace](https://github.com/mscodemonkey/sketch-find-and-replace), by Martin Steven: Sketch 3 plugin to do a simple find and replace on text within layers
@@ -281,6 +281,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Server](https://github.com/matt-curtis/sketch-server), by Matt Curtis: A Sketch Plugin that creates a local web server for your Sketch Documents.
 - [Sketch Shopify Data Populator](https://github.com/levinmejia/sketch-shopify-data-populator), by Shopify + precious design studio: A Sketch App plugin to populate your designs with meaningful ecommerce data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Speaker](https://github.com/marcosvidal/sketch-speaker), by Marcos Vidal: Making Sketch talk...
+- [Sketch Spellcheck All Layers](https://github.com/ethology-co/sketch-spellcheck-all-layers), by Ethology: A basic spellchecker that checks all layers on a page in Sketch
 - [Sketch Squares](https://github.com/abynim/sketchsquares), by Aby Nimbalkar: Replace layers in Sketch with photos from Instagram.
 - [Sketch State Switch Master](https://github.com/einancunlu/sketch-state-switch-master), by Emin İnanç Ünlü: Define different states and switch between them like a boss.
 - [Sketch States Switch](https://github.com/wentin/sketch-states-switch), by Wenting Zhang: A tool to save and switch states for quick demo purpose in sketch.
