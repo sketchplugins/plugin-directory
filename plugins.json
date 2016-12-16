@@ -2788,5 +2788,13 @@
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
     "lastUpdated": "2016-12-09 16:21:16 UTC"
+  },
+  {
+    "description": "Generate Chinese names for text layers.",
+    "name": "fake-chinese-name-for-sketch",
+    "title": "Fake Chinese Name for Sketch",
+    "owner": "JJYing",
+    "author": "JJ Ying",
+    "lastUpdated": "2016-12-16 11:44:16 UTC"
   }
 ]
