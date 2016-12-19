@@ -11,25 +11,46 @@ client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
 
 file = File.read('plugins.json')
 json_data = JSON.parse(file)
+total_plugin_count = json_data.size
+plugin_count = 0
 
-total_plugin_count = 0
+open('plugin-stats.md', 'w') { |f|
+  f.puts "# Plugin stats - #{Time.now}"
+  f.puts
+  f.puts "Total plugins: #{total_plugin_count}"
+  f.puts
+}
 
 json_data.each do |plugin|
   repo_name = plugin['owner'] + '/' + plugin['name']
-  # puts repo_name
-  total_plugin_count += 1
+  plugin_count += 1
 
-  puts
-  puts repo_name
+  puts "#{plugin_count} / #{total_plugin_count}"
+
   begin
     repo = client.repo(repo_name)
-    puts "-------------------------------------------------------------------"
-    puts "Stars:       #{repo.stargazers_count}"
-    puts "Last push:   #{repo.pushed_at}"
-    # puts "Last update: #{repo.updated_at}"
-    puts "Open issues: #{repo.open_issues_count}"
+    updated_days_ago = ((Time.now - repo.pushed_at) / (60 * 60 * 24)).to_i
+
+    open('plugin-stats.md', 'a') { |f|
+      f.puts
+      f.puts "#{plugin_count}. [#{plugin['title']}](https://github.com/#{repo_name})"
+      f.puts 
+      f.puts "  Last push:   #{repo.pushed_at} (#{updated_days_ago} days ago)"
+      if updated_days_ago > 900
+        f.puts "  FIXME: Remove this from directory"
+      end
+      f.puts "  Stars:       #{repo.stargazers_count}"
+      f.puts "  Open issues: #{repo.open_issues_count}"
+    }
   rescue
-    puts "Plugin has no repo."
+    # puts "Plugin has no repo."
+    open('plugin-stats.md', 'a') { |f|
+      f.puts
+      f.puts "#{plugin_count}. #{repo_name}"
+      f.puts 
+      f.puts "  FIXME: #{repo_name} has no repo"
+      f.puts
+    }
   end
   # #<Set: {:id, :name, :full_name, :owner, :private, :html_url, :description, :fork, :url, :forks_url, :keys_url, :collaborators_url, :teams_url, :hooks_url, :issue_events_url, :events_url, :assignees_url, :branches_url, :tags_url, :blobs_url, :git_tags_url, :git_refs_url, :trees_url, :statuses_url, :languages_url, :stargazers_url, :contributors_url, :subscribers_url, :subscription_url, :commits_url, :git_commits_url, :comments_url, :issue_comment_url, :contents_url, :compare_url, :merges_url, :archive_url, :downloads_url, :issues_url, :pulls_url, :milestones_url, :notifications_url, :labels_url, :releases_url, :deployments_url, :created_at, :updated_at, :pushed_at, :git_url, :ssh_url, :clone_url, :svn_url, :homepage, :size, :stargazers_count, :watchers_count, :language, :has_issues, :has_downloads, :has_wiki, :has_pages, :forks_count, :mirror_url, :open_issues_count, :forks, :open_issues, :watchers, :default_branch, :permissions, :network_count, :subscribers_count}>
 end
