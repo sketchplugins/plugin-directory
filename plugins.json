@@ -138,11 +138,6 @@
     "author": "Wenting Zhang"
   },
   {
-    "description": "This is a plugin for quickly creating Lorem Ipsum text in Sketch.",
-    "name": "Lorem-Ipsum-Plugin-for-Sketch",
-    "owner": "brandonbeecroft"
-  },
-  {
     "description": "Resizes the selected layer to cover its containing artboard in Sketch.",
     "name": "Cover-Artboard",
     "title": "Cover Artboard",
@@ -185,38 +180,10 @@
     "owner": "sebj"
   },
   {
-    "description": "A script to export the Sketch App artboards to the clipboard.",
-    "name": "crop_Artboard",
-    "title": "Crop Artboard for Sketch App + Skala",
-    "author": "Frederic Jacobs",
-    "owner": "FredericJacobs"
-  },
-  {
     "description": "A simple Git client built right into Sketch.",
     "name": "SketchGit",
     "author": "Alasdair Monk",
     "owner": "almonk"
-  },
-  {
-    "description": "Some scripts for the Mac Sketch app, including \"Blend Steps\", \"Simple Pattern\" and \"Fill Artboard\".",
-    "name": "Sketch-Plugin-Scripts",
-    "title": "Sketch Plugin Scripts",
-    "author": "Thomas Seng Hin Mak",
-    "owner": "makzan"
-  },
-  {
-    "description": "Scripts for Sketch, by another one of the Bohemian Coding guys.",
-    "name": "sketch-scripts",
-    "title": "Sketch Scripts",
-    "author": "Sam Deane",
-    "owner": "samdeane"
-  },
-  {
-    "description": "DrawingKit is a collection of commands for use in Sketch.",
-    "name": "DrawingKit",
-    "author": "Doug Downing",
-    "owner": "groove25",
-    "lastUpdated": "2014-05-16"
   },
   {
     "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
@@ -224,12 +191,6 @@
     "title": "Sketch Preview",
     "author": "Marc Schwieterman",
     "owner": "marcisme"
-  },
-  {
-    "description": "Dummy text filler plugin for Sketch!",
-    "name": "HipsterFill",
-    "owner": "sdrib",
-    "lastUpdated": "2014-02-09"
   },
   {
     "description": "A collection of script commands for Bohemian Coding's Sketch.app",
@@ -246,13 +207,6 @@
     "owner": "joshwayne"
   },
   {
-    "description": "A rename layers plugin.",
-    "name": "sketch",
-    "owner": "mindwork",
-    "author": "Stas Skrebkov",
-    "lastUpdated": "2014-01-17"
-  },
-  {
     "description": "A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.",
     "name": "RenameIt",
     "owner": "rodi01",
@@ -266,31 +220,11 @@
     "author": "Marius Mathiesen"
   },
   {
-    "description": "Recipes for JSTalk Sketch scripts and plugins. The goal is to help people new to JSTalk and Sketch scripting to start and to give examples for Sketch automation or extending tasks.",
-    "name": "jstalk-sketch-recipes",
-    "title": "JSTalk Sketch Recipes",
-    "owner": "uhunkler",
-    "author": "Urs Hunkler"
-  },
-  {
     "description": "Sketch.app Plugin for Exporting Android Layouts (WIP at the moment)",
     "name": "sketch-android-kit",
     "title": "Sketch Android Kit",
     "author": "Robert Malko",
     "owner": "malkomalko"
-  },
-  {
-    "description": "\"Plugins for Sketch app from Bohemian Coding\". Includes two interesting commands to navigate to Next and Previous artboards.",
-    "name": "sketch-plugins",
-    "owner": "nadavsavio",
-    "lastUpdated": "2014-06-27",
-    "hidden": true
-  },
-  {
-    "description": "recolor all elements like the selected object color with the hex color of your choice.",
-    "name": "colorPoz",
-    "owner": "postite",
-    "hidden": true
   },
   {
     "description": "A Plugin that provides a shortcut for copying a layer's fill color to clipboard.",
@@ -319,19 +253,6 @@
     "owner": "marceloeduardo"
   },
   {
-    "description": "Tristan's Plugins for Bohemian Coding's Sketch.app",
-    "name": "sketchplugins",
-    "owner": "trisweb",
-    "hidden": true
-  },
-  {
-    "description": "A collection of JSTalk methods for Bohemian Coding’s Sketch. The methods support Sketch scripting - writing plugins or code that interacts with Sketch.",
-    "name": "jstalk-sketch-library",
-    "title": "JSTalk Sketch Library",
-    "author": "Urs Hunkler",
-    "owner": "uhunkler"
-  },
-  {
     "description": "Sketch plugins by Cemre Güngör.",
     "name": "cemre-sketch-plugins",
     "title": "Sketch Plugins by Cemre Güngör",
@@ -349,20 +270,6 @@
     "name": "sketch-export-plus",
     "title": "Sketch Export Plus",
     "owner": "hite"
-  },
-  {
-    "description": "Plugins for Bohemian Coding Sketch, including \"Duplicate to All Artboards\" and \"Golden Ratio\".",
-    "name": "sketch-plugins",
-    "title": "Sketch Plugins",
-    "author": "José Manuel Sánchez",
-    "owner": "buscarini"
-  },
-  {
-    "description": "A SketchApp plugin that inserts random user data into your Sketch documents.",
-    "name": "Random-User",
-    "title": "Random User",
-    "author": "Jim Rutherford",
-    "owner": "jimrutherford"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -406,25 +313,6 @@
     "owner": "joshpuckett"
   },
   {
-    "description": "Some home-brewed Sketch App Plugins.",
-    "name": "ITSSketchPlugins",
-    "owner": "trisix"
-  },
-  {
-    "description": "Sketch plugin to do text translation using Google translate.",
-    "name": "sketch-translate",
-    "title": "Sketch Translate",
-    "owner": "zachheine",
-    "author": "Zach Heineman"
-  },
-  {
-    "description": "Sketch plugins for getting shots and info from Dribbble.",
-    "name": "skribbble",
-    "title": "Skribbble",
-    "owner": "tylergaw",
-    "author": "Tyler Gaw"
-  },
-  {
     "description": "A collection of plugins requested to the official [@sketchapp](https://twitter.com/sketchapp) Twitter account.",
     "owner": "sketchplugins",
     "author": "Bohemian Coding",
@@ -446,13 +334,6 @@
     "name": "Sketch.app-Vertical-Fit"
   },
   {
-    "description": "A WIP Sketch Plugin to generate blog post elements from JSON'd RSS feeds.",
-    "owner": "tylergaw",
-    "author": "Tyler Gaw",
-    "title": "Generate Posts",
-    "name": "sketch-generate-posts"
-  },
-  {
     "description": "Convert to Layers on Sketch from JSON (with Fireworks PNG structure).",
     "owner": "littlebusters",
     "name": "JSON-to-Layers",
@@ -471,20 +352,6 @@
     "name": "Sketch-CSS-Sprite-Mixin"
   },
   {
-    "description": "QR Code generator plugin for Sketch App.",
-    "owner": "turbobabr",
-    "author": "Andrey Shakhmin",
-    "title": "QR Code",
-    "name": "sketch-qrcode"
-  },
-  {
-    "description": "Sketch Plugin to generate thaana strings, paragraphs, articles.",
-    "owner": "ajaaibu",
-    "author": "Ahmed Ali",
-    "title": "Thaana Text Generator",
-    "name": "ThaanaText"
-  },
-  {
     "description": "A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.",
     "owner": "vrjbndr",
     "author": "Viraj Bindra",
@@ -498,21 +365,6 @@
     "title": "Data Parser",
     "name": "sketch-data-parser",
     "lastUpdated": "2015-02-01"
-  },
-  {
-    "description": "Toggle a text layer to upper and lower case.",
-    "owner": "keeg",
-    "author": "Keegan Jones",
-    "title": "Text Uppercase",
-    "name": "sketch-text-uppercase",
-    "lastUpdated": "2014-05-22"
-  },
-  {
-    "description": "Get random quotes from quotesondesign.com from within Sketch.app",
-    "owner": "nodesolomon",
-    "author": "Solomon Ahmad",
-    "name": "Design-Quotes-Sketch-Plugin",
-    "title": "Design Quotes"
   },
   {
     "description": "A couple of scripts for the Sketch app.",
@@ -561,17 +413,6 @@
     "author": "Martin Matysiak",
     "name": "sketch-interpolate-paths",
     "title": "Interpolate Paths"
-  },
-  {
-    "description": "Some useful plugins for Sketch 3.0.",
-    "owner": "weezard",
-    "name": "Weezards-Sketch-Plugins",
-    "hidden": true
-  },
-  {
-    "description": "Plugins for Sketch.",
-    "owner": "8by8",
-    "name": "sketchplugins"
   },
   {
     "description": "A Sketch plugin that lets you preview your current artboard in the Dock.",
