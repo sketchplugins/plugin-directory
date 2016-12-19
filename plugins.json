@@ -1,12 +1,5 @@
 [
   {
-    "description": "Automatic annotation design draft specification, generate various resolution.",
-    "name": "Riry-SketchPlugin",
-    "title": "Riry App",
-    "author": "Riry",
-    "owner": "shicang1990"
-  },
-  {
     "description": "Select all exportable layers, slices, and artboards.",
     "name": "sketch-select-exportables",
     "title": "Select Exportables",
@@ -953,13 +946,6 @@
     "name": "sketch-click-dummy"
   },
   {
-    "description": "Moves selected layers vertically according to the cursor position.",
-    "owner": "wolanski",
-    "author": "Gregory Wolanski",
-    "title": "Vertical Teleporter",
-    "name": "sketch-vertical-teleporter"
-  },
-  {
     "description": "Sketch app plugin for displaying Google material design color palette.",
     "owner": "t32k",
     "name": "material-design-color-palette"
@@ -976,12 +962,6 @@
     "author": "Mohammad Reza Mahmoudi",
     "title": "English and Persian Lorem Ipsum",
     "name": "english-and-persian-lorem-ipsum"
-  },
-  {
-    "description": "Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.",
-    "owner": "maundytime",
-    "name": "sketch-9patch",
-    "title": "9 Patch Generator"
   },
   {
     "description": "Sketch plugin to randomly resize selected elements.",
@@ -1391,13 +1371,6 @@
     "owner": "paulfarino"
   },
   {
-    "description": "A plugin for Sketch to export layers for iOS, Android & Web. Supports transparency, 1x base size, and has been tested against Sketch 3.2, 3.3, 3.4, 3.5",
-    "name": "Asset-Export-for-iOS-and-Android",
-    "title": "Asset Export (for iOS, Android & Web)",
-    "author": "Dhanish Chhajer",
-    "owner": "designedbyDC"
-  },
-  {
     "description": "Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons",
     "name": "Dynamic-Button-Symbol-Detacher",
     "title": "Dynamic Button Symbol Detacher",
@@ -1639,13 +1612,6 @@
     "title": "Sketch Palettes",
     "author": "Andrew Fiorillo",
     "owner": "andrewfiorillo"
-  },
-  {
-    "description": "Scales objects in standard aspect ratios (4:3, 16:9, 3:2, etc.)",
-    "name": "Aspect-Ratio",
-    "title": "Aspect Ratio",
-    "author": "Dhanish Chhajer",
-    "owner": "designedbyDC"
   },
   {
     "description": "A plugin that integrates constraints in Sketch to lay out layers.",
