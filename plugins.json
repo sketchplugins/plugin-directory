@@ -2611,5 +2611,13 @@
     "owner": "ethology-co",
     "author": "Ethology",
     "lastUpdated": "2016-12-16 18:38:11 UTC"
+  },
+  {
+    "description": "Plugin to fill a layer with a map generated from a location (Powered by Google Maps)",
+    "name": "sketch-map-generator",
+    "title": "Sketch Map Generator",
+    "owner": "eddiesigner",
+    "author": "Eduardo Gómez Vásquez",
+    "lastUpdated": "2016-12-22 04:47:10 UTC"
   }
 ]
