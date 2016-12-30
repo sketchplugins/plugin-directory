@@ -1,5 +1,12 @@
 [
   {
+    "description": "Define Auto-Layout and generate all iOS screen sizes at once.",
+    "name": "Auto-Layout",
+    "title": "Auto Layout",
+    "author": "Anima Team",
+    "owner": "AnimaApp"
+  },
+  {
     "description": "Select all exportable layers, slices, and artboards.",
     "name": "sketch-select-exportables",
     "title": "Select Exportables",
