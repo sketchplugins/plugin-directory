@@ -1018,11 +1018,11 @@
     "owner": "frankko"
   },
   {
-    "description": "A simple plugin to to toggle visibility of a specified 'layerName'.",
+    "description": "A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.",
     "owner": "preciousforever",
     "author": "precious design studio",
-    "title": "Layer Visibility",
-    "name": "sketch-layer-visibility"
+    "title": "Sketch Bounding Boxer",
+    "name": "sketch-bounding-boxer"
   },
   {
     "description": "A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.",
@@ -1030,6 +1030,13 @@
     "owner": "preciousforever",
     "title": "Sketch Data Populator",
     "name": "sketch-data-populator"
+  },
+  {
+    "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
+    "owner": "preciousforever",
+    "author": "precious design studio",
+    "title": "Sketch Aspect Ratio",
+    "name": "sketch-aspect-ratio"
   },
   {
     "description": "A Sketch plugin for playing with seamless tiles.",
