@@ -552,6 +552,13 @@
     "name": "ArtboardZoom"
   },
   {
+    "description": "Bookmark your place and zoom in Sketch.app",
+    "owner": "Arkkimaagi",
+    "author": "Mikko Tapionlinna",
+    "title": "Bookmark 🔖",
+    "name": "Bookmark"
+  },
+  {
     "description": "iOS icon generator plugin for Bohemian Coding Sketch app.",
     "owner": "tadija",
     "author": "Marko Tadić",
