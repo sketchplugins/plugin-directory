@@ -354,6 +354,12 @@
     "name": "Sketch-CSS-Sprite-Mixin"
   },
   {
+    "description": "Switch text spacing with OpenType features.",
+    "owner": "littlebusters",
+    "title": "Switch Text Spacing",
+    "name": "Switch-Text-Spacing"
+  },
+  {
     "description": "A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.",
     "owner": "vrjbndr",
     "author": "Viraj Bindra",
