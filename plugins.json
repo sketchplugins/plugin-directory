@@ -2658,5 +2658,13 @@
     "owner": "Ashung",
     "author": "Ashung Hung",
     "lastUpdated": "2017-01-09 02:58:31 UTC"
+  },
+  {
+    "description": "A Sketch Plugin for history back and forward.",
+    "name": "sketch-hback-plugin",
+    "title": "Sketch Hback Plugin",
+    "owner": "YusukeKokubo",
+    "author": "Yusuke Kokubo",
+    "lastUpdated": "2016-12-31 16:16:31 UTC"
   }
 ]
