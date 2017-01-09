@@ -2642,5 +2642,13 @@
     "title": "Nudged",
     "owner": "KevinWoodhouse",
     "author": "Kevin Woodhouse"
+  },
+  {
+    "description": "A Sketch plugin to export sketch file to Adobe After Effect",
+    "name": "Sketch2AE",
+    "title": "Sketch2ae",
+    "owner": "bigxixi",
+    "author": "Big XiXi",
+    "lastUpdated": "2017-01-03 06:56:55 UTC"
   }
 ]
