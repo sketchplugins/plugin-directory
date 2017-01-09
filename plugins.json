@@ -2633,5 +2633,12 @@
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
     "lastUpdated": "2016-12-22 04:47:10 UTC"
+  },
+  {
+    "description": "A Sketch plugin to easily edit your nudge distance settings.",
+    "name": "Sketch-Nudged",
+    "title": "Nudged",
+    "owner": "KevinWoodhouse",
+    "author": "Kevin Woodhouse"
   }
 ]
