@@ -24,7 +24,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ArtboardZoom](https://github.com/arkkimaagi/artboardzoom), by Mikko Tapionlinna: "Zoom" to currently selected Artboard.
 - [Artwork Fetcher](https://github.com/mmth/sketch-artwork-fetcher), by Semibold Mammoth: Sketch.app plugin for fetching artworks from Last.fm web-service and filling selected shapes with them. Allows to fetch artworks by their album and/or artist names.
 - [Atomic Sketch Plugin](https://atomic.io/sketch), by Atomic.io: Exports Sketch Files to Atomic
-- [Auto Layout](https://animaapp.github.io/Auto-Layout/) by AnimaApp.com: Define Auto-Layout and generate all iOS screen sizes at once.
+- [Auto Layout](https://github.com/animaapp/auto-layout), by Anima Team: Define Auto-Layout and generate all iOS screen sizes at once.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Some scripts for Bohemian Coding’s Sketch.
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
@@ -71,7 +71,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [CSS Buddy](https://github.com/jodyheavener/css-buddy), by Jody Heavener: A Sketch 3 plugin that allows you to use CSS on layers.
 - [CSS Sprite Mixin](https://github.com/littlebusters/sketch-css-sprite-mixin), by littlebusters: Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
 - [CSSketch](https://github.com/johncoates/cssketch), by John Coates: CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.
-- [Data Parser](https://github.com/florianpnn/sketch-data-parser), by Florian Peninon: A sketch plugin to parse your data and populate your design.
 - [Date Generator](https://github.com/bshorta/date-generator-sketch), by Bernardo Horta: A random date generator plugin for Sketch
 - [Day Player](https://github.com/tylergaw/day-player), by Tyler Gaw: A collection of Sketch Plugins for creating placeholder images.
 - [Disconnect for Sketch](https://github.com/einancunlu/disconnect-for-sketch), by Emin İnanç Ünlü: Disconnect / unlink selection from symbols and shared styles.
@@ -144,6 +143,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Mosaic](https://github.com/tomorrowkey/sketch3-mosaic-plugin), by Tomoki Yamashita: A plugin for Sketch3 to apply mosaic easily.
 - [Move It](https://github.com/dawidw/move-it), by Dawid Woźniak: Sketch plugin that let's you move selected layers verticaly and horizontaly.
 - [Notes](https://github.com/cshdllr/notes), by Jason Cashdollar: A sketch plugin for taking notes
+- [Nudged](https://github.com/kevinwoodhouse/sketch-nudged), by Kevin Woodhouse: A Sketch plugin to easily edit your nudge distance settings.
 - [NumGen](https://github.com/auxdesigner/sketch-plugin---numgen), by Liu Liu: Generate numbers that are: CTR, clicks, costs, impr.
 - [Optically for Sketch](http://designplugins.com/optically), by Vlad Danilov: Automated and mathematically precise optical adjustments in Sketch.
 - [Optimize Images](https://github.com/peerjollux/sketch-optimizeimages), by Jaer Pollux: Sketch plugin for optimizing all images within your document.
