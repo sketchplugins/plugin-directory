@@ -129,7 +129,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Invert Background Color](https://github.com/sebj/invert-background-color), by Seb Jachec: Invert a layer's background color in Sketch.
 - [iosViews](https://github.com/charimon/iosviews), by Andrew Charkin: Sketch Plugin to generate iOS view code
 - [JSON to Layers](https://github.com/littlebusters/json-to-layers), by littlebusters: Convert to Layers on Sketch from JSON (with Fireworks PNG structure).
-- [Layer Visibility](https://github.com/preciousforever/sketch-layer-visibility), by precious design studio: A simple plugin to to toggle visibility of a specified 'layerName'.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [LRTGenerator Sketch Plugins](https://github.com/lrtitze/sketch-plugins-lrtgenerators), by Leslie Titze: Sketch 3 plugin scripts for generating object collections.
 - [Magic Mirror 2](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
@@ -214,6 +213,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SizeArtboard](https://github.com/brendanmiller/sizeartboard), by brendan miller: Sketch Plugin for wrapping a new artboard around what you've selected
 - [Sketch All Caps](https://github.com/eivindbohler/sketch-all-caps), by Eivind Bøhler: Sketch all caps plugin
 - [Sketch Android Kit](https://github.com/malkomalko/sketch-android-kit), by Robert Malko: Sketch.app Plugin for Exporting Android Layouts (WIP at the moment)
+- [Sketch Aspect Ratio](https://github.com/preciousforever/sketch-aspect-ratio), by precious design studio: A simple plugin to apply preset or custom aspect ratios to a selected layer.
+- [Sketch Bounding Boxer](https://github.com/preciousforever/sketch-bounding-boxer), by precious design studio: A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.
 - [Sketch Browser Preview](https://github.com/freakland/sketch-browser-preview), by FreakLand: Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.
 - [Sketch Button Smith](https://github.com/andrewkf/sketch-buttonsmith), by Andrew Fullerton: A button creator plugin for Sketch.
 - [Sketch Color Contrast Analyzer](https://github.com/eaugustine/sketch-color-contrast-analyzer), by eaugustine: A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.
