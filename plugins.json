@@ -2650,5 +2650,13 @@
     "owner": "bigxixi",
     "author": "Big XiXi",
     "lastUpdated": "2017-01-03 06:56:55 UTC"
+  },
+  {
+    "description": "A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.",
+    "name": "Sketch_Swatches",
+    "title": "Sketch_swatches",
+    "owner": "Ashung",
+    "author": "Ashung Hung",
+    "lastUpdated": "2017-01-09 02:58:31 UTC"
   }
 ]
