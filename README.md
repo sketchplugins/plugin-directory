@@ -343,6 +343,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Swatches](https://github.com/jodyheavener/swatches), by Jody Heavener: Generate color swatches from hex codes.
 - [SwiftColorPalette](https://github.com/nahitheper/swiftcolorpalette), by nahitheper: Sketch plugin that generates Swift Color Theme with enums
 - [Switch Artboard](https://github.com/tokuda109/switchartboard.sketchplugin), by Tsuyoshi Tokuda: Sketch 3 plugin to quickly switch between artboards.
+- [Switch Text Spacing](https://github.com/littlebusters/switch-text-spacing), by littlebusters: Switch text spacing with OpenType features.
 - [Symbol Me](https://github.com/websiddu/sketch-symbol-me), by Siddhartha Gudipati: Convert all your similar layers to symbols with a single click.
 - [symbol-instance-renamer](https://github.com/sonburn/symbol-instance-renamer), by Jason Burns: Rename all symbol instances to the name of their master.
 - [symbol-organizer](https://github.com/sonburn/symbol-organizer), by Jason Burns: Organize your symbols page and layer list, based on the symbol names.
