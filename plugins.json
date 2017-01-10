@@ -2233,6 +2233,7 @@
   {
     "description": "A simple Sketch plugin to generate artboard-based changelogs",
     "name": "changelog.sketchplugin",
+    "title": "Changelog",
     "owner": "jacopocolo",
     "author": "Jacopo Colò",
     "lastUpdated": "2016-08-01 13:42:50 UTC"
@@ -2240,6 +2241,7 @@
   {
     "description": "Sync sketch files with google docs.",
     "name": "SketchContentSync.sketchplugin",
+    "title": "SketchContentSync",
     "owner": "ideo",
     "author": "IDEO",
     "lastUpdated": "2016-07-15 18:55:47 UTC"
