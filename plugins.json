@@ -2674,5 +2674,13 @@
     "owner": "YusukeKokubo",
     "author": "Yusuke Kokubo",
     "lastUpdated": "2016-12-31 16:16:31 UTC"
+  },
+  {
+    "description": "Remove duplicate styles in Sketch",
+    "name": "sketch_fix_styles",
+    "title": "Sketch_fix_styles",
+    "owner": "dinozavrix",
+    "author": "dinozavrix",
+    "lastUpdated": "2017-01-11 11:14:39 UTC"
   }
 ]
