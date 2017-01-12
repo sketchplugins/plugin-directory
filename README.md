@@ -353,6 +353,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Text Align](https://github.com/bitinn/sketch-text-align), by David Frank: Properly align text layers regardless of their rectangle box in Sketch.
 - [Text to Specs](https://github.com/kenmoore/sketch-text-to-specs), by Ken Moore: Quickly turn a text layer into a styled annotation, grouped with a background card.
 - [The Ultimate Guide Plugin for Sketch](https://github.com/petehouston/sketch-guides), by Pete Houston: Just another Guide plugin for Sketch.
+- [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
 - [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase
 - [Todo-Sketch-Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
