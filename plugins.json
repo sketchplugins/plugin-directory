@@ -2690,5 +2690,13 @@
     "owner": "maximedegreve",
     "author": "Maxime De Greve",
     "lastUpdated": "2017-01-12 08:57:39 UTC"
+  },
+  {
+    "description": "A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play",
+    "name": "SketchSize",
+    "title": "Sketchsize",
+    "owner": "samlfsun",
+    "author": "samlfsun",
+    "lastUpdated": "2017-01-12 09:34:40 UTC"
   }
 ]
