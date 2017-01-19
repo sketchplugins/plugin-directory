@@ -1,5 +1,12 @@
 [
   {
+    "description": "Generates a HTML click-through prototype of your responsive website design.",
+    "name": "click-thru-prototype",
+    "title": "Click-Thru Prototype",
+    "author": "Mark Horgan",
+    "owner": "markhorgan"
+  },
+  {
     "description": "Define Auto-Layout and generate all iOS screen sizes at once.",
     "name": "Auto-Layout",
     "title": "Auto Layout",
