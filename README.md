@@ -122,6 +122,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Guide Remover](https://github.com/bbsody/sketch-guides-remover), by Maxim Melnikov: Another guide remover plugin for Sketch
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
 - [Hsl_color_picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
+- [HTML Export](https://github.com/mludowise/sketch-html-export), by Mel Ludowise: Generates an HTML page of images from your artboard.
 - [Icon Stamper](https://github.com/tylergaw/icon-stamper), by Tyler Gaw: A Sketch Plugin for creating multiple sizes of iOS icons.
 - [IconSlate](https://github.com/kodlian/iconslate-sketchplugin), by Jérémy Marchand: Export icons (icns,ico,...) from Sketch using Icon Slate.
 - [ImageExtractorSketch](https://github.com/mendyismyname/imageextractorsketch), by Mendy Seldowitz: Extract background fill image in Sketch

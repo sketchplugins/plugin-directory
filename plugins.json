@@ -1,5 +1,12 @@
 [
   {
+    "description": "Generates an HTML page of images from your artboard.",
+    "name": "sketch-html-export",
+    "title": "HTML Export",
+    "author": "Mel Ludowise",
+    "owner": "mludowise"
+  },
+  {
     "description": "Generates a HTML click-through prototype of your responsive website design.",
     "name": "click-thru-prototype",
     "title": "Click-Thru Prototype",
