@@ -2713,5 +2713,11 @@
     "title": "Sketch Color Palette",
     "owner": "nerd0geek1",
     "author": "Kohei Tabata"
+  },
+  {
+    "description": "This plugin let's you create basic symbols that adjust to the dimensions of the text layer. Something like Dynamic Button but with symbols.",
+    "name": "sketch-dynamic-symbol-button",
+    "title": "Dynamic Symbol Button",
+    "owner": "herrkris"
   }
 ]

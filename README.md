@@ -83,6 +83,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dynamic button plugin for Sketch.app 3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5), by fuggfuggfugg: Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.
 - [Dynamic Button Symbol Detacher](https://github.com/mendyismyname/dynamic-button-symbol-detacher), by Mendy Seldowitz: Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons
 - [Dynamic Reposition](https://github.com/antonstrand/dynamic-reposition), by Anton Strand: Make it easy to resize an object without having to manually move all the content to keep the margins.
+- [Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button), by Kristof Dreier: Adds ability to have dynamic symbol buttons which resizes when the text changes.
 - [Easy Share](https://github.com/ed-lea/easyshare.sketchplugin), by Ed Lea: The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Emojiipsum generator for Sketch](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
