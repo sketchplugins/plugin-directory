@@ -2706,5 +2706,12 @@
     "owner": "samlfsun",
     "author": "samlfsun",
     "lastUpdated": "2017-01-12 09:34:40 UTC"
+  },
+  {
+    "description": "A Sketch Plugin to generate .clr(Color Palette) file from selected layers.",
+    "name": "SketchColorPalette",
+    "title": "Sketch Color Palette",
+    "owner": "nerd0geek1",
+    "author": "Kohei Tabata"
   }
 ]
