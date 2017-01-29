@@ -131,6 +131,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Invert Background Color](https://github.com/sebj/invert-background-color), by Seb Jachec: Invert a layer's background color in Sketch.
 - [iosViews](https://github.com/charimon/iosviews), by Andrew Charkin: Sketch Plugin to generate iOS view code
 - [JSON to Layers](https://github.com/littlebusters/json-to-layers), by littlebusters: Convert to Layers on Sketch from JSON (with Fireworks PNG structure).
+- [LayerRenamer](https://github.com/LeonardPauli/LayerRenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [LRTGenerator Sketch Plugins](https://github.com/lrtitze/sketch-plugins-lrtgenerators), by Leslie Titze: Sketch 3 plugin scripts for generating object collections.
 - [Magic Mirror 2](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards

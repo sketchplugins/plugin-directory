@@ -1,5 +1,13 @@
 [
   {
+    "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
+    "name": "LayerRenamer",
+    "title": "LayerRenamer",
+    "homepage": "https://github.com/LeonardPauli/LayerRenamer",
+    "author": "Leonard Pauli",
+    "owner": "LeonardPauli"
+  },
+  {
     "description": "Generates an HTML page of images from your artboard.",
     "name": "sketch-html-export",
     "title": "HTML Export",
