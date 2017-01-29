@@ -1,5 +1,12 @@
 [
   {
+    "description": "Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.",
+    "name": "sketch-wanderer",
+    "title": "Wanderer",
+    "author": "Andrey Shakhmin",
+    "owner": "turbobabr"
+  },
+  {
     "description": "Generates an HTML page of images from your artboard.",
     "name": "sketch-html-export",
     "title": "HTML Export",

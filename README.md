@@ -83,7 +83,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dynamic button plugin for Sketch.app 3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5), by fuggfuggfugg: Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.
 - [Dynamic Button Symbol Detacher](https://github.com/mendyismyname/dynamic-button-symbol-detacher), by Mendy Seldowitz: Merged two great sketch plugins to enhance my button workflow allowing me to use symbols as a base from my buttons
 - [Dynamic Reposition](https://github.com/antonstrand/dynamic-reposition), by Anton Strand: Make it easy to resize an object without having to manually move all the content to keep the margins.
-- [Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button), by Kristof Dreier: Adds ability to have dynamic symbol buttons which resizes when the text changes.
+- [Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button), by herrkris: This plugin let's you create basic symbols that adjust to the dimensions of the text layer. Something like Dynamic Button but with symbols.
 - [Easy Share](https://github.com/ed-lea/easyshare.sketchplugin), by Ed Lea: The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Emojiipsum generator for Sketch](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
@@ -380,6 +380,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
 - [Vertical Fit](https://github.com/shahruz/sketch.app-vertical-fit), by Shahruz Shaukat: A simple plugin for Sketch.app which automatically adjusts the height of a rectangle to contain the text layer above it, along with an optional top and bottom padding.
 - [ViewController-for-Framer](https://github.com/awt2542/viewcontroller-for-framer), by Andreas Wahlström: Multi step user flows in Framer.js
+- [Wanderer](https://github.com/turbobabr/sketch-wanderer), by Andrey Shakhmin: Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.
 - [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
 - [webalize](https://github.com/vesely/webalize), by David Veselý: Sketch plugin to webalize layers name.
 - [Workflow Sketch Plugins](https://github.com/vrjbndr/select-next-artboard), by Viraj Bindra: A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
