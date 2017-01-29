@@ -1,5 +1,12 @@
 [
   {
+    "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
+    "name": "sketch-ace-jump",
+    "title": "Ace Jump",
+    "author": "Andrey Shakhmin",
+    "owner": "turbobabr"
+  },
+  {
     "description": "Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.",
     "name": "sketch-wanderer",
     "title": "Wanderer",
