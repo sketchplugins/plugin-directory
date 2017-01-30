@@ -1,5 +1,13 @@
 [
   {
+    "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
+    "name": "LayerRenamer",
+    "title": "LayerRenamer",
+    "homepage": "https://github.com/LeonardPauli/LayerRenamer",
+    "author": "Leonard Pauli",
+    "owner": "LeonardPauli"
+  },
+  {
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
     "name": "sketch-ace-jump",
     "title": "Ace Jump",
