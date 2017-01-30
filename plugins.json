@@ -2742,5 +2742,13 @@
     "title": "Dynamic Symbol Button",
     "author": "Kristof Dreier",
     "owner": "herrkris"
+  },
+  {
+    "description": "A simple Sketch plugin for replacing images with your copied image of your clipboard.",
+    "name": "sketch-image-replaste",
+    "title": "Sketch Image Replaste",
+    "owner": "mheesakkers",
+    "author": "Misha",
+    "lastUpdated": "2017-01-29 23:03:32 UTC"
   }
 ]
