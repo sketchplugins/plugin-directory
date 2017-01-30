@@ -45,7 +45,7 @@ new_plugin = {
   :name => name,
   :title => titlefy(name),
   :owner => owner,
-  :author => user.name,
+  :author => user.name || owner,
   :lastUpdated => repo.updated_at
 }
 
