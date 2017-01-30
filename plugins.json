@@ -2737,9 +2737,10 @@
     "author": "Kohei Tabata"
   },
   {
-    "description": "This plugin let's you create basic symbols that adjust to the dimensions of the text layer. Something like Dynamic Button but with symbols.",
+    "description": "Adds ability to have dynamic symbol buttons which resizes when the text changes.",
     "name": "sketch-dynamic-symbol-button",
     "title": "Dynamic Symbol Button",
+    "author": "Kristof Dreier",
     "owner": "herrkris"
   }
 ]
