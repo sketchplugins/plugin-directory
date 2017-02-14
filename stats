@@ -20,9 +20,13 @@ open('plugin-stats.md', 'w') { |f|
   f.puts "Total plugins: #{total_plugin_count}"
   f.puts
 }
+open('plugin-stats.csv', 'w') { |f|
+  f.puts "Name,Last Pushed,Stars,Open Issues,URL"
+}
 
 json_data.each do |plugin|
   repo_name = plugin['owner'] + '/' + plugin['name']
+  title = plugin['title'] || plugin['name']
   plugin_count += 1
 
   puts "#{plugin_count} / #{total_plugin_count}"
@@ -33,7 +37,7 @@ json_data.each do |plugin|
 
     open('plugin-stats.md', 'a') { |f|
       f.puts
-      f.puts "#{plugin_count}. [#{plugin['title']}](https://github.com/#{repo_name})"
+      f.puts "#{plugin_count}. [#{title}](https://github.com/#{repo_name})"
       f.puts 
       f.puts "  Last push:   #{repo.pushed_at} (#{updated_days_ago} days ago)"
       if updated_days_ago > 900
@@ -41,6 +45,10 @@ json_data.each do |plugin|
       end
       f.puts "  Stars:       #{repo.stargazers_count}"
       f.puts "  Open issues: #{repo.open_issues_count}"
+    }
+
+    open('plugin-stats.csv', 'a') { |f|
+      f.puts "#{title},#{repo.pushed_at},#{repo.stargazers_count},#{repo.open_issues_count},https://github.com/#{repo_name}"
     }
   rescue
     # puts "Plugin has no repo."
