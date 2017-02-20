@@ -262,6 +262,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Page Helpers](https://github.com/ribot/sketch-page-helpers), by ribot: This plugin includes a few simple actions to make managing pages easier in Sketch.
 - [Sketch Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
+- [Sketch Plugin Monster](https://github.com/peachscript/sketch-plugin-monster), by Peach: A Sketch plugin for managing all plugin shortcuts.
 - [Sketch Plugin Scripts](https://github.com/kumo/sketch-plugin-scripts), by Robert Clarke: A couple of scripts for the Sketch app.
 - [Sketch Plugins](https://github.com/alssndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.

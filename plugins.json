@@ -2750,5 +2750,13 @@
     "owner": "mheesakkers",
     "author": "Misha",
     "lastUpdated": "2017-01-29 23:03:32 UTC"
+  },
+  {
+    "description": "A Sketch plugin for managing all plugin shortcuts.",
+    "name": "sketch-plugin-monster",
+    "title": "Sketch Plugin Monster",
+    "owner": "PeachScript",
+    "author": "Peach",
+    "lastUpdated": "2017-02-20 13:56:31 UTC"
   }
 ]
