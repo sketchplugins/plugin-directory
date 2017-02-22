@@ -2758,5 +2758,13 @@
     "owner": "PeachScript",
     "author": "Peach",
     "lastUpdated": "2017-02-20 13:56:31 UTC"
+  },
+  {
+    "description": "Sketch App Plugin For Applying Random Colors To A Selection Of Objects.",
+    "name": "RandomColors",
+    "title": "Randomcolors",
+    "owner": "avadhbsd",
+    "author": "Avadh",
+    "lastUpdated": "2017-02-08 16:28:55 UTC"
   }
 ]
