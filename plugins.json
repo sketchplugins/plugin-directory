@@ -2766,5 +2766,13 @@
     "owner": "avadhbsd",
     "author": "Avadh",
     "lastUpdated": "2017-02-08 16:28:55 UTC"
+  },
+  {
+    "description": "Sketch plugin to rename and number your artboards or layers based on their x,y position",
+    "name": "Enumerator",
+    "title": "Enumerator",
+    "owner": "ScottSavarie",
+    "author": "Scott Savarie",
+    "lastUpdated": "2017-02-28 07:09:03 UTC"
   }
 ]
