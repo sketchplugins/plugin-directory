@@ -2768,6 +2768,14 @@
     "lastUpdated": "2017-02-08 16:28:55 UTC"
   },
   {
+    "description": "Rotate the orientation of an artboard - from portrait to landscape, and vice versa.",
+    "name": "sketch-rotate-artboards",
+    "title": "Rotate Artboard Orientation",
+    "owner": "mmilano",
+    "author": "Michel Milano",
+    "lastUpdated": "2017-02-25 16:42:42 UTC"
+  },
+  {
     "description": "Sketch plugin to rename and number your artboards or layers based on their x,y position",
     "name": "Enumerator",
     "title": "Enumerator",
