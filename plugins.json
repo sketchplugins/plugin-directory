@@ -2790,5 +2790,13 @@
     "owner": "pratikjshah",
     "author": "Pratik Shah",
     "lastUpdated": "2017-03-08 12:27:34 UTC"
+  },
+  {
+    "description": "Sketch plugin for create squircle shapes.",
+    "name": "Egmont-plugin",
+    "title": "Egmont Plugin",
+    "owner": "interfacemarket",
+    "author": "Interface.Market",
+    "lastUpdated": "2017-03-10 10:02:39 UTC"
   }
 ]

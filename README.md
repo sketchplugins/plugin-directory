@@ -87,6 +87,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button), by Kristof Dreier: Adds ability to have dynamic symbol buttons which resizes when the text changes.
 - [Easy Share](https://github.com/ed-lea/easyshare.sketchplugin), by Ed Lea: The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
+- [Egmont Plugin](https://github.com/interfacemarket/egmont-plugin), by Interface.Market: Sketch plugin for create squircle shapes.
 - [Emojiipsum generator for Sketch](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
 - [Enumerator](https://github.com/scottsavarie/enumerator), by Scott Savarie: Sketch plugin to rename and number your artboards or layers based on their x,y position
