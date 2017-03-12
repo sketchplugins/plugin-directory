@@ -2798,5 +2798,29 @@
     "owner": "interfacemarket",
     "author": "Interface.Market",
     "lastUpdated": "2017-03-10 10:02:39 UTC"
+  },
+  {
+    "description": "Export all pages, current page or selected artboards into a PDF — based on a range of settings",
+    "name": "PDF-export-sketch-plugin",
+    "title": "📕 PDF Export",
+    "owner": "DWilliames",
+    "author": "David Williames",
+    "lastUpdated": "2017-03-12 05:49:00 UTC"
+  },
+  {
+    "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
+    "name": "nudge-resize-sketch-plugin",
+    "title": "Nudge Resize",
+    "owner": "DWilliames",
+    "author": "David Williames",
+    "lastUpdated": "2017-03-12 05:49:00 UTC"
+  },
+  {
+    "description": "Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts",
+    "name": "nudge-corner-radius-sketch-plugin",
+    "title": "Nudge Corner Radius",
+    "owner": "DWilliames",
+    "author": "David Williames",
+    "lastUpdated": "2017-03-12 05:49:00 UTC"
   }
 ]
