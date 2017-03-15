@@ -2830,5 +2830,13 @@
     "owner": "FrancisVega",
     "author": "Francis",
     "lastUpdated": "2017-02-06 06:00:47 UTC"
+  },
+  {
+    "description": "Generate hundreds of Sketch Shared Styles in a matter of seconds.",
+    "name": "sketch-styles-generator",
+    "title": "Sketch Styles Generator",
+    "owner": "lucaorio",
+    "author": "Luca Orio",
+    "lastUpdated": "2017-03-07 17:08:31 UTC"
   }
 ]

@@ -289,6 +289,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch State Switch Master](https://github.com/einancunlu/sketch-state-switch-master), by Emin İnanç Ünlü: Define different states and switch between them like a boss.
 - [Sketch States Switch](https://github.com/wentin/sketch-states-switch), by Wenting Zhang: A tool to save and switch states for quick demo purpose in sketch.
 - [Sketch Storyboard](https://github.com/britesnow/sketch-storyboard), by Jeremy Chone: Export a full story flow and dev spec in one shortcut.
+- [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
 - [Sketch SubtlePatterns](https://github.com/dunckr/sketch-subtlepatterns), by Duncan Beaton: Import subtle patterns as shape fills in Sketch.
 - [Sketch Text Tools](https://github.com/automat/sketch-text-tools), by Henryk Wollik: Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
