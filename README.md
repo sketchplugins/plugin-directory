@@ -88,7 +88,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Easy Share](https://github.com/ed-lea/easyshare.sketchplugin), by Ed Lea: The easiest way to share your work in progress, directly from Sketch. Artboards uploaded to a private URL.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Egmont Plugin](https://github.com/interfacemarket/egmont-plugin), by Interface.Market: Sketch plugin for create squircle shapes.
-- [Emojiipsum generator for Sketch](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
+- [Emojiipsum generator for Sketch](https://github.com/kuchengnom/emojipsum-sketch-plugin), by Sebastian Haase: Generate a user defined amount of random Emoji into the selected text layer.
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: This is a plugin for quickly creating english & persian(farsi) Lorem Ipsum text in Sketch.
 - [Enumerator](https://github.com/scottsavarie/enumerator), by Scott Savarie: Sketch plugin to rename and number your artboards or layers based on their x,y position
 - [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch), by herrhelms: Add evenly distributed guides to artboards.
@@ -134,7 +134,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Invert Background Color](https://github.com/sebj/invert-background-color), by Seb Jachec: Invert a layer's background color in Sketch.
 - [iosViews](https://github.com/charimon/iosviews), by Andrew Charkin: Sketch Plugin to generate iOS view code
 - [JSON to Layers](https://github.com/littlebusters/json-to-layers), by littlebusters: Convert to Layers on Sketch from JSON (with Fireworks PNG structure).
-- [LayerRenamer](https://github.com/LeonardPauli/LayerRenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch.
+- [LayerRenamer](https://github.com/leonardpauli/layerrenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [LRTGenerator Sketch Plugins](https://github.com/lrtitze/sketch-plugins-lrtgenerators), by Leslie Titze: Sketch 3 plugin scripts for generating object collections.
 - [Magic Mirror 2](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
@@ -157,7 +157,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Page Switch](https://github.com/mauehara/sketch-page-switch), by Mauricio T. Uehara: A dummy plugin to quickly switch between pages using shortcuts.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
-- [Path Prefix Remover](https://github.com/Elethom/Sketch-PathPrefixRemover), by Elethom Hunter: Remove path prefix for symbol instances.
+- [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [Perfecter](https://github.com/volorf/perfecter), by Oleg Frolov: Make great typography [Sketch plugin]
 - [Personas](https://github.com/nolastan/sketch-personas), by Stanford Rosenthal: Quickly populate mockups with fake user data
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
@@ -197,7 +197,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rotate Line](https://github.com/eric-adstage/sketch_rotateline), by Eric Foster: More precise rotation for line objects in Sketch compared to the native Rotate tool, which only offers arbitrary rotation. Includes a 'Rotate a Copy' feature and Relative and Absolute rotation as well.
 - [Rotator](https://github.com/pberrecloth/rotator-sketch-plugin), by Peter Berrecloth: Rotate objects at preset amounts
 - [RulerGrid](https://github.com/ryanlanglois/rulergrid), by Ryan Langlois: A Sketch.app plugin to create a grid with rulers.
-- [San Francisco UI Font Fixer](https://github.com/Elethom/Sketch-SFUI-Font-Fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
+- [San Francisco UI Font Fixer](https://github.com/elethom/sketch-sfui-font-fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
 - [Sass Colors](https://github.com/arshad/sketch-sass-colors), by Arshad Chummun: Displays colors as preconfigure Sass variables for Sketch.
 - [Save with Device Frame](https://github.com/redgell/save-with-frame), by redgell: Sketch Plugin to generate pngs of artboards wrapped in a phone skin.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.

@@ -3,7 +3,6 @@
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
     "name": "LayerRenamer",
     "title": "LayerRenamer",
-    "homepage": "https://github.com/LeonardPauli/LayerRenamer",
     "author": "Leonard Pauli",
     "owner": "LeonardPauli"
   },
@@ -2081,8 +2080,7 @@
     "title": "San Francisco UI Font Fixer",
     "owner": "Elethom",
     "author": "Elethom Hunter",
-    "lastUpdated": "2016-06-06 07:42:07 UTC",
-    "homepage": "https://github.com/Elethom/Sketch-SFUI-Font-Fixer"
+    "lastUpdated": "2016-06-06 07:42:07 UTC"
   },
   {
     "description": "Remove path prefix for symbol instances.",
@@ -2090,8 +2088,7 @@
     "title": "Path Prefix Remover",
     "owner": "Elethom",
     "author": "Elethom Hunter",
-    "lastUpdated": "2016-06-06 09:48:15 UTC",
-    "homepage": "https://github.com/Elethom/Sketch-PathPrefixRemover"
+    "lastUpdated": "2016-06-06 09:48:15 UTC"
   },
   {
     "description": "A Plugin to update your WakaTime stats automatically from Sketch.",
@@ -2130,8 +2127,7 @@
     "name": "emojipsum-Sketch-Plugin",
     "title": "Emojiipsum generator for Sketch",
     "author": "Sebastian Haase",
-    "owner": "kuchengnom",
-    "homepage": "https://github.com/Kuchengnom/emojipsum-Sketch-Plugin"
+    "owner": "kuchengnom"
   },
   {
     "description": "Extract background fill image in Sketch",
