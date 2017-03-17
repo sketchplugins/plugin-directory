@@ -10,7 +10,7 @@ end
 IGNORE = %w(the of a and)
 
 def titlefy string
-  s = string.gsub('-',' ').split(' ')
+  s = string.gsub('.sketchplugin','').gsub('-',' ').split(' ')
   s.map do |word|
     word_lowercase = word.downcase
     if IGNORE.include?(word_lowercase)
@@ -45,7 +45,7 @@ new_plugin = {
   :name => name,
   :title => titlefy(name),
   :owner => owner,
-  :author => user.name,
+  :author => user.name || owner,
   :lastUpdated => repo.updated_at
 }
 
