@@ -2842,5 +2842,13 @@
     "owner": "ScottSavarie",
     "author": "Scott Savarie",
     "lastUpdated": "2017-02-27 12:43:04 UTC"
+  },
+  {
+    "description": "A Sketch plugin to generate \"lorem ipsum\" text.",
+    "name": "sketch-lorem-ipsum-2017",
+    "title": "Sketch Lorem Ipsum 2017",
+    "owner": "freeauto",
+    "author": "Richard Gong",
+    "lastUpdated": "2017-03-20 02:09:41 UTC"
   }
 ]
