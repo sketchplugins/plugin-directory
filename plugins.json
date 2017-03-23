@@ -1596,7 +1596,8 @@
     "description": "Speed up your Sketch workflow",
     "title": "Sketch Runner",
     "homepage": "http://sketchrunner.com",
-    "author": "Sketch Runner"
+    "author": "Sketch Runner",
+    "owner": "SketchRunner"
   },
   {
     "description": "sketch - copy to all artboards plugin",
@@ -1615,6 +1616,8 @@
   {
     "description": "A plugin for Sketch to fix all of those partial pixels",
     "name": "sketch-pixel-cleanup",
+    "title": "Sketch Pixel Cleanup",
+    "author": "Stackdevelopment",
     "owner": "stackdevelopment",
     "lastUpdated": "2017-02-23 03:41:35 UTC"
   },
@@ -1622,8 +1625,8 @@
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Objective-C code from fill color of selected layers.",
     "name": "sketchplugin-objc-color",
     "title": "Copy Objective-C Code",
-    "author": "Jaime Zaragoza",
     "owner": "jaimeeee",
+    "author": "Jaime Zaragoza",
     "lastUpdated": "2017-01-04 15:49:25 UTC"
   },
   {
@@ -1637,8 +1640,9 @@
   {
     "description": "A sketch plugin to support the open color file format",
     "name": "sketch-opencolor",
+    "title": "Open Color Plugin for Sketch",
     "owner": "opencolor-tools",
-    "author": null,
+    "author": "OpenColor",
     "lastUpdated": "2017-03-14 18:26:44 UTC"
   },
   {
@@ -1787,6 +1791,7 @@
     "title": "Atomic Sketch Plugin",
     "description": "Exports Sketch Files to Atomic",
     "author": "Atomic.io",
+    "owner": "Atomic.io",
     "homepage": "https://atomic.io/sketch",
     "lastUpdated": "2016-07-12 00:00:00 UTC"
   },
@@ -1808,6 +1813,7 @@
     "description": "Convert your Sketch drawings into Swift or Objective-C",
     "title": "PaintCode Code Generator",
     "author": "PixelCut",
+    "owner": "PixelCut",
     "homepage": "https://www.paintcodeapp.com/sketch",
     "downloadURL": "https://www.paintcodeapp.com/sketch",
     "lastUpdated": "2016-07-21 08:15:01 UTC"

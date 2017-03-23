@@ -117,6 +117,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Nudge Corner Radius](https://github.com/dwilliames/nudge-corner-radius-sketch-plugin), by David Williames: Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts
 - [Nudge Resize](https://github.com/dwilliames/nudge-resize-sketch-plugin), by David Williames: Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts
 - [Nudged](https://github.com/kevinwoodhouse/sketch-nudged), by Kevin Woodhouse: A Sketch plugin to easily edit your nudge distance settings.
+- [Open Color Plugin for Sketch](https://github.com/opencolor-tools/sketch-opencolor), by OpenColor: A sketch plugin to support the open color file format
 - [Optically for Sketch](http://designplugins.com/optically), by Vlad Danilov: Automated and mathematically precise optical adjustments in Sketch.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
@@ -216,6 +217,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Notebook](http://marcosvid.al/sketch-notebook), by Marcos Vidal: Sketch Plugin to make documenting design easier.
 - [Sketch Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
+- [Sketch Pixel Cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by Stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [Sketch Plugin Monster](https://github.com/peachscript/sketch-plugin-monster), by Peach: A Sketch plugin for managing all plugin shortcuts.
 - [Sketch Plugins](https://github.com/alssndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [Sketch Plugins](https://github.com/joshwayne/jw-sketch-plugins), by Josh Wayne: Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.
@@ -249,10 +251,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-iOS-Bar-Color-Calculator](https://github.com/einancunlu/sketch-ios-bar-color-calculator), by Emin İnanç Ünlü: A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.
 - [Sketch-Keyboard-Resize](https://github.com/angistudio/sketch-keyboard-resize), by ANGI studio: A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.
 - [Sketch-Navigator](https://github.com/arshad/sketch-navigator), by arshad: Artboard navigation (with autocomplete) for Sketch
-- [sketch-opencolor](https://github.com/opencolor-tools/sketch-opencolor), by opencolor-tools: A sketch plugin to support the open color file format
 - [sketch-organizesymbols](https://github.com/marianomike/sketch-organizesymbols), by Mike Mariano: Sketch plugin that arranges symbol artboards
 - [Sketch-PageNumbers](https://github.com/gotomedia/sketch-pagenumbers), by gotomedia: Sketch plugin for adding page numbers to artboards.
-- [sketch-pixel-cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [sketch-proportional-replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [Sketch-Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers
 - [sketch-repeat](https://github.com/keremciu/sketch-repeat), by Kerem Sevencan: This plugin helps you easily duplicate your objects to all Artboards.
