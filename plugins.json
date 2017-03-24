@@ -2461,5 +2461,13 @@
     "owner": "freeauto",
     "author": "Richard Gong",
     "lastUpdated": "2017-03-20 02:09:41 UTC"
+  },
+  {
+    "description": "A Sketch plugin to count: characters, words, whitespace, and paragraphs",
+    "name": "sketch-count-text",
+    "title": "Sketch Count Text",
+    "owner": "joshkissel",
+    "author": "Josh Kissel",
+    "lastUpdated": "2017-03-06 12:54:41 UTC"
   }
 ]
