@@ -185,6 +185,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Color Vars](https://github.com/philsinatra/sketch-color-vars), by Phil Sinatra: A Sketch plugin that will export the fill color of selected layers to SCSS, LESS and CSS files.
 - [Sketch Commands](https://github.com/bomberstudios/sketch-commands), by Ale Muñoz: A collection of script commands for Bohemian Coding's Sketch.app
 - [Sketch Constraints](https://github.com/bouchenoiremarc/sketch-constraints), by Marc Bouchenoire: A plugin that integrates constraints in Sketch to lay out layers.
+- [Sketch Count Text](https://github.com/joshkissel/sketch-count-text), by Josh Kissel: A Sketch plugin to count: characters, words, whitespace, and paragraphs
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
 - [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc), by Manuel Muñoz: Exports a simple website using a bunch of conventions and a Sketch document as the structure.
