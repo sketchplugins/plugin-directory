@@ -2469,5 +2469,13 @@
     "owner": "joshkissel",
     "author": "Josh Kissel",
     "lastUpdated": "2017-03-06 12:54:41 UTC"
+  },
+  {
+    "description": "A Sketch plugin to count: characters, words, whitespace, and paragraphs",
+    "name": "sketch-batch-create-symbols",
+    "title": "Batch Create Symbols",
+    "owner": "demersdesigns",
+    "author": "Paul Demers",
+    "lastUpdated": "2017-03-31 12:54:41 UTC"
   }
 ]

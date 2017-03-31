@@ -25,6 +25,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Design responsive screens and easily see all screen sizes at once.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Some scripts for Bohemian Coding’s Sketch.
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
+- [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A Sketch plugin to count: characters, words, whitespace, and paragraphs
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
 - [Bookmark 🔖](https://github.com/arkkimaagi/bookmark), by Mikko Tapionlinna: Bookmark your place and zoom in Sketch.app
