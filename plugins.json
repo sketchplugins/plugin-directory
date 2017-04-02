@@ -1,5 +1,13 @@
 [
   {
+    "description": "Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",
+    "name": "Looper",
+    "title": "Looper",
+    "author": "Sures Kumar",
+    "owner": "sureskumar",
+    "lastUpdated": "2017-04-02 17:56:00 UTC"
+  },
+  {
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
     "name": "LayerRenamer",
     "title": "Layerrenamer",
