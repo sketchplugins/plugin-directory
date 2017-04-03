@@ -1851,6 +1851,13 @@
     "lastUpdated": "2017-03-22 01:20:21 UTC"
   },
   {
+    "description": "A Sketch plugin for easy multi-language design",
+    "name": "Sketch Translation",
+    "owner": "hoai265",
+    "author": "Hoai Nguyen",
+    "lastUpdated": "2017-04-04 12:59:21 UTC"
+  },
+  {
     "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
     "name": "Paster",
     "owner": "Volorf",
