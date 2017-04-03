@@ -2485,5 +2485,14 @@
     "owner": "demersdesigns",
     "author": "Paul Demers",
     "lastUpdated": "2017-03-31 12:54:41 UTC"
+  },
+  {
+    "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
+    "name": "sketch-nudge-push-shove",
+    "title": "Nudge, Push, Shove.",
+    "owner": "MichaelFouquet",
+    "author": "Michael Fouquet",
+    "homepage": "http://www.nudgepushshove.com",
+    "lastUpdated": "2017-04-02 06:54:41 UTC"
   }
 ]
