@@ -270,6 +270,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketchcontentsync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
 - [SketchI18N](https://github.com/cute/sketchi18n), by Guangming Li : Sketch Internationalization Plugin
+- [Sketch Translation](https://github.com/hoai265/Language-Sketch-Plugin), by Hoai Nguyen: A Sketch plugin for easy multi-language design
 - [SketchingOn](https://www.workingon.co), by WorkingOn: Quickly select and share work in progress with your team via WorkingOn.
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [Sketchsize](https://github.com/samlfsun/sketchsize), by samlfsun: A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play
