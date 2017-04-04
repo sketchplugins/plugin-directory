@@ -2510,5 +2510,13 @@
     "owner": "reneepadgham",
     "name": "diverseui-sketch-plugin",
     "lastUpdated": "2017-04-02 02:00:27 UTC"
+  },
+  {
+    "title": "Slinky",
+    "description": "Export your Sketch designs as HTML email templates",
+    "author": "Finch.io",
+    "owner": "finchalyzer",
+    "name": "slinky",
+    "lastUpdated": "2017-04-04 10:30:22 UTC"
   }
 ]
