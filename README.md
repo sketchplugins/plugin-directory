@@ -84,6 +84,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [FindSlice](https://github.com/atomkirk/find-slice-sketch-plugin), by Adam Kirk: List all exportable layers/slices and navigate to selection.
 - [Fitter Sketch Plugin](https://github.com/pberrecloth/fitter-sketch-plugin), by Peter Berrecloth: Fit layer to artboard width, height or both
 - [Flatten Plugin for Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch), by Emin İnanç Ünlü: Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
+- [FlipSize](https://github.com/apertureless/sketch-flip-size), by Jakub Juszczak: Flip the size of any artboard or shape
 - [Flowmate](https://github.com/wodory/flowmate), by Sanghun Woo: Sketch Plugin to draw flowchart and diagram
 - [Fluid for Sketch](https://github.com/matt-curtis/fluid-for-sketch), by Matt Curtis: Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
 - [Font Size Checker](https://github.com/feb19/sketch-font-size-checker), by Nobuhiro Takahashi: Text Size Validator for iOS or Android UI Designers.

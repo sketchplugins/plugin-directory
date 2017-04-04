@@ -2518,5 +2518,13 @@
     "owner": "finchalyzer",
     "name": "slinky",
     "lastUpdated": "2017-04-04 10:30:22 UTC"
+  },
+  {
+    "title": "FlipSize",
+    "description": "Flip the size of any artboard or shape",
+    "author": "Jakub Juszczak",
+    "owner": "apertureless",
+    "name": "sketch-flip-size",
+    "lastUpdated": "2017-04-04 10:10:00 UTC"
   }
 ]
