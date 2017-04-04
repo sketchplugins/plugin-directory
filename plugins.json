@@ -1852,7 +1852,8 @@
   },
   {
     "description": "A Sketch plugin for easy multi-language design",
-    "name": "Sketch Translation",
+    "title": "Sketch Translation",
+    "name": "Language-Sketch-Plugin",
     "owner": "hoai265",
     "author": "Hoai Nguyen",
     "lastUpdated": "2017-04-04 12:59:21 UTC"
@@ -2503,8 +2504,8 @@
     "lastUpdated": "2017-04-02 06:54:41 UTC"
   },
   {
-    "title": "Diverseui Sketch Plugin",
-    "description": null,
+    "title": "Diverse UI Sketch Plugin",
+    "description": "The official Sketch plugin for Diverse UI.",
     "author": "Renée Padgham",
     "owner": "reneepadgham",
     "name": "diverseui-sketch-plugin",

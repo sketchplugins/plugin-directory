@@ -64,6 +64,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Day Player](https://github.com/tylergaw/day-player), by Tyler Gaw: A collection of Sketch Plugins for creating placeholder images.
 - [Disconnect for Sketch](https://github.com/einancunlu/disconnect-for-sketch), by Emin İnanç Ünlü: Disconnect / unlink selection from symbols and shared styles.
 - [Distribute Layers](https://github.com/wonderbit/sketch-distribute-layers), by Wessley Roche: Sketch plug-in to distribute layers evenly
+- [Diverse UI Sketch Plugin](https://github.com/reneepadgham/diverseui-sketch-plugin), by Renée Padgham: The official Sketch plugin for Diverse UI.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
 - [Duplicate to New Artboard](https://github.com/delighted/sketch-duplicate-to-new-artboard), by Delighted Inc.: Sketch plugin to duplicate the current selection(s) to new artboard(s).
 - [Duplicator](https://github.com/turbobabr/duplicator), by Andrey Shakhmin: A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
@@ -239,6 +240,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Text Tools](https://github.com/automat/sketch-text-tools), by Henryk Wollik: Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
 - [Sketch To Clickthrough Html](https://github.com/amin-nas/sketch-to-clickthrough-html), by Amin: Sketch plugin for creating a clickthrough HTMLprototype
+- [Sketch Translation](https://github.com/hoai265/language-sketch-plugin), by Hoai Nguyen: A Sketch plugin for easy multi-language design
 - [Sketch Unlinker](https://github.com/eivindbohler/sketch-unlinker), by Eivind Bøhler: Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.
 - [Sketch User Flows](https://github.com/ribot/sketch-user-flow-docs), by ribot: This plugin lets you link images in a document with an extenal image file and update them all at once.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
@@ -270,7 +272,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketchcontentsync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
 - [SketchI18N](https://github.com/cute/sketchi18n), by Guangming Li : Sketch Internationalization Plugin
-- [Sketch Translation](https://github.com/hoai265/Language-Sketch-Plugin), by Hoai Nguyen: A Sketch plugin for easy multi-language design
 - [SketchingOn](https://www.workingon.co), by WorkingOn: Quickly select and share work in progress with your team via WorkingOn.
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [Sketchsize](https://github.com/samlfsun/sketchsize), by samlfsun: A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play
