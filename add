@@ -41,11 +41,11 @@ repo = client.repo(plugin_url)
 user = client.user(owner)
 
 new_plugin = {
-  :description => repo.description,
-  :name => name,
   :title => titlefy(name),
-  :owner => owner,
+  :description => repo.description,
   :author => user.name || owner,
+  :owner => owner,
+  :name => name,
   :lastUpdated => repo.updated_at
 }
 
@@ -54,7 +54,9 @@ file = File.read('plugins.json')
 json_data = JSON.parse(file)
 
 # make sure we're not adding an existing plugin
-if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.count == 0
+existing_plugin = json_data.select{ |item| item['name'] == name && item['owner'] == owner }
+
+if existing_plugin.count == 0
   # Add plugin & save file
   json_data.push(new_plugin)
 
@@ -71,6 +73,8 @@ if json_data.select{ |item| item['name'] == name && item['owner'] == owner }.cou
   end
   system("git commit -m '#{log_msg}'")
 else
-  puts "Plugin was already on the list"
-  puts "We have #{json_data.length} plugins on the list"
+  puts "Plugin was already on the list, so let's update it"
+  existing_plugin[0]
 end
+
+puts "We have #{json_data.length} plugins on the list"
