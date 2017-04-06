@@ -96,6 +96,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Get Margins](https://github.com/peterwooley/get-margins), by Peter Wooley: Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Line Height](https://github.com/lorenzwoehr/golden-ratio-line-height-sketch-plugin), by Lorenz Wöhr: Optimize your typography based on font size, line-height and width.
+- [Gridy](https://github.com/Volorf/Gridy), by Oleg Frolov: An easy way to create guidelines.
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
 - [Hsl_color_picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [HTML Export](https://github.com/mludowise/sketch-html-export), by Mel Ludowise: Generates an HTML page of images from your artboard.
