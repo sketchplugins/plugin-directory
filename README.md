@@ -72,6 +72,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button), by Kristof Dreier: Adds ability to have dynamic symbol buttons which resizes when the text changes.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Egmont Plugin](https://github.com/interfacemarket/egmont-plugin), by Interface.Market: Sketch plugin for create squircle shapes.
+- [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: A Sketch extension to generate english and persian lorem ipsum text.
 - [Enumerator](https://github.com/scottsavarie/enumerator), by Scott Savarie: Sketch plugin to rename and number your artboards or layers based on their x,y position
 - [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch), by herrhelms: Add evenly distributed guides to artboards.
 - [Export Assets](https://github.com/geertwille/sketch-export-assets), by Geert Wille: A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.
@@ -96,7 +97,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Get Margins](https://github.com/peterwooley/get-margins), by Peter Wooley: Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Line Height](https://github.com/lorenzwoehr/golden-ratio-line-height-sketch-plugin), by Lorenz Wöhr: Optimize your typography based on font size, line-height and width.
-- [Gridy](https://github.com/Volorf/Gridy), by Oleg Frolov: An easy way to create guidelines.
+- [Gridy](https://github.com/volorf/gridy), by Oleg Frolov: An easy way creating guidelines
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
 - [Hsl_color_picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [HTML Export](https://github.com/mludowise/sketch-html-export), by Mel Ludowise: Generates an HTML page of images from your artboard.

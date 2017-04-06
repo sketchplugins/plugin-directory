@@ -2534,5 +2534,13 @@
     "owner": "apertureless",
     "name": "sketch-flip-size",
     "lastUpdated": "2017-04-04 10:10:00 UTC"
+  },
+  {
+    "title": "English and Persian Lorem Ipsum",
+    "description": "A Sketch extension to generate english and persian lorem ipsum text.",
+    "author": "Mohammad Reza Mahmoudi",
+    "owner": "Rezaaa",
+    "name": "english-and-persian-lorem-ipsum",
+    "lastUpdated": "2017-04-06 13:44:56 UTC"
   }
 ]
