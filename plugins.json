@@ -1,5 +1,13 @@
 [
   {
+    "description": "An easy way creating guidelines",
+    "name": "Gridy",
+    "title": "Gridy",
+    "author": "Oleg Frolov",
+    "owner": "Volorf",
+    "lastUpdated": "2017-04-06 19:54:00 UTC"
+  },
+  {
     "description": "Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",
     "name": "Looper",
     "title": "Looper",
