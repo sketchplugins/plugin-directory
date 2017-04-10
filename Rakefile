@@ -106,9 +106,9 @@ EOF
     output << "\n"
   end
 
-  output << "\n\n## Sorted by last update date\n\n"
+  output << "\n\n## Sorted by last update (newest on top)\n\n"
 
-  plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Date.parse(k["lastUpdated"]).strftime("%s").to_i }.each do |plugin|
+  plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Date.parse(k["lastUpdated"]).strftime("%s").to_i }.reverse.each do |plugin|
     if plugin['lastUpdated']
       last_update = Time.parse(plugin['lastUpdated'])
       now = Time.now
