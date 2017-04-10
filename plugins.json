@@ -1571,6 +1571,8 @@
   {
     "description": "Artboard navigation (with autocomplete) for Sketch",
     "name": "Sketch-Navigator",
+    "title": "Sketch Navigator",
+    "author": "Arshad Chummun",
     "owner": "arshad",
     "lastUpdated": "2017-03-20 02:08:29 UTC"
   },
@@ -2550,5 +2552,13 @@
     "owner": "Rezaaa",
     "name": "english-and-persian-lorem-ipsum",
     "lastUpdated": "2017-04-06 13:44:56 UTC"
+  },
+  {
+    "title": "Cleanup Useless Groups",
+    "description": "A Sketch plugin that cleans up your layer list by removing empty groups and flattening deeply nested groups.",
+    "author": "Ale Muñoz",
+    "owner": "bomberstudios",
+    "name": "Cleanup-Useless-Groups",
+    "lastUpdated": "2017-04-10 14:48:14 UTC"
   }
 ]
