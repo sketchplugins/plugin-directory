@@ -331,6 +331,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Xport](https://github.com/abynim/xport), by Aby Nimbalkar: A Sketch Plugin to export image assets directly to Xcode
 - [ZEN Sketch](https://github.com/francisvega/zen-sketch), by Francis Vega: A collection of Sketch plugins
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
+- [zeroheight](https://zeroheight.com) by zeroheight: Organise and share your design libraries using folders and get a living styleguide for free
 - [Zoom-Alert](https://github.com/nathco/zoom-alert), by Nathan Rutzky: Sketch.app plugin for showing zoom notifications
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 
