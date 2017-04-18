@@ -1,5 +1,30 @@
 [
   {
+    "description": "Organise and share your design libraries using folders and get a living styleguide for free",
+    "name": "zeroheight-sketch-plugin",
+    "title": "zeroheight",
+    "author": "zeroheight",
+    "owner": "zeroheight",
+    "homepage": "https://zeroheight.com",
+    "lastUpdated": "2017-04-11 14:20:26 UTC"
+  },
+  {
+    "description": "Generate text for your mockups in multiple languages 🗺",
+    "name": "foreignipsum",
+    "title": "Foreign Ipsum",
+    "author": "Braxton Huff",
+    "owner": "3raxton",
+    "lastUpdated": "2017-04-07 11:45:44 UTC"
+  },
+  {
+    "description": "An easy way creating guidelines",
+    "name": "Gridy",
+    "title": "Gridy",
+    "author": "Oleg Frolov",
+    "owner": "Volorf",
+    "lastUpdated": "2017-04-06 19:54:00 UTC"
+  },
+  {
     "description": "Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",
     "name": "Looper",
     "title": "Looper",
@@ -1555,6 +1580,8 @@
   {
     "description": "Artboard navigation (with autocomplete) for Sketch",
     "name": "Sketch-Navigator",
+    "title": "Sketch Navigator",
+    "author": "Arshad Chummun",
     "owner": "arshad",
     "lastUpdated": "2017-03-20 02:08:29 UTC"
   },
@@ -1849,6 +1876,14 @@
     "owner": "cute",
     "author": "Guangming Li ",
     "lastUpdated": "2017-03-22 01:20:21 UTC"
+  },
+  {
+    "description": "A Sketch plugin for easy multi-language design",
+    "title": "Sketch Translation",
+    "name": "Language-Sketch-Plugin",
+    "owner": "hoai265",
+    "author": "Hoai Nguyen",
+    "lastUpdated": "2017-04-04 12:59:21 UTC"
   },
   {
     "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
@@ -2485,5 +2520,70 @@
     "owner": "demersdesigns",
     "author": "Paul Demers",
     "lastUpdated": "2017-03-31 12:54:41 UTC"
+  },
+  {
+    "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
+    "name": "sketch-nudge-push-shove",
+    "title": "Nudge, Push, Shove.",
+    "owner": "MichaelFouquet",
+    "author": "Michael Fouquet",
+    "homepage": "http://www.nudgepushshove.com",
+    "lastUpdated": "2017-04-02 06:54:41 UTC"
+  },
+  {
+    "title": "Diverse UI Sketch Plugin",
+    "description": "The official Sketch plugin for Diverse UI.",
+    "author": "Renée Padgham",
+    "owner": "reneepadgham",
+    "name": "diverseui-sketch-plugin",
+    "lastUpdated": "2017-04-02 02:00:27 UTC"
+  },
+  {
+    "title": "Slinky",
+    "description": "Export your Sketch designs as HTML email templates",
+    "author": "Finch.io",
+    "owner": "finchalyzer",
+    "name": "slinky",
+    "lastUpdated": "2017-04-04 10:30:22 UTC"
+  },
+  {
+    "title": "FlipSize",
+    "description": "Flip the size of any artboard or shape",
+    "author": "Jakub Juszczak",
+    "owner": "apertureless",
+    "name": "sketch-flip-size",
+    "lastUpdated": "2017-04-04 10:10:00 UTC"
+  },
+  {
+    "title": "English and Persian Lorem Ipsum",
+    "description": "A Sketch extension to generate english and persian lorem ipsum text.",
+    "author": "Mohammad Reza Mahmoudi",
+    "owner": "Rezaaa",
+    "name": "english-and-persian-lorem-ipsum",
+    "lastUpdated": "2017-04-06 13:44:56 UTC"
+  },
+  {
+    "title": "Cleanup Useless Groups",
+    "description": "A Sketch plugin that cleans up your layer list by removing empty groups and flattening deeply nested groups.",
+    "author": "Ale Muñoz",
+    "owner": "bomberstudios",
+    "name": "Cleanup-Useless-Groups",
+    "lastUpdated": "2017-04-10 14:48:14 UTC"
+  },
+  {
+    "title": "Sketch Query Selection",
+    "description": "Filter selection layers by type",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "sketch-query-selection",
+    "lastUpdated": "2017-04-17 20:40:48 UTC"
+  },
+  {
+    "title": "Bootstrap Grid",
+    "description": "Sketch plugin inserts correct bootstrap grid in nested blocks.",
+    "author": "Vitaliy Kirenkov",
+    "owner": "De-La-Vega",
+    "name": "BootstrapGrid",
+    "lastUpdated": "2017-04-17 13:13:01 UTC"
   }
 ]
