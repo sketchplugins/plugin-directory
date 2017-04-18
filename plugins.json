@@ -2569,5 +2569,13 @@
     "owner": "bomberstudios",
     "name": "Cleanup-Useless-Groups",
     "lastUpdated": "2017-04-10 14:48:14 UTC"
+  },
+  {
+    "title": "Sketch Query Selection",
+    "description": "Filter selection layers by type",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "sketch-query-selection",
+    "lastUpdated": "2017-04-17 20:40:48 UTC"
   }
 ]
