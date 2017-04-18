@@ -2577,5 +2577,13 @@
     "owner": "FrancisVega",
     "name": "sketch-query-selection",
     "lastUpdated": "2017-04-17 20:40:48 UTC"
+  },
+  {
+    "title": "Bootstrapgrid",
+    "description": "Sketch plugin inserts correct bootstrap grid in nested blocks.",
+    "author": "Vitaliy Kirenkov",
+    "owner": "De-La-Vega",
+    "name": "BootstrapGrid",
+    "lastUpdated": "2017-04-17 13:13:01 UTC"
   }
 ]
