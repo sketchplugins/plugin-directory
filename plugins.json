@@ -2585,5 +2585,13 @@
     "owner": "De-La-Vega",
     "name": "BootstrapGrid",
     "lastUpdated": "2017-04-17 13:13:01 UTC"
+  },
+  {
+    "title": "Texts Translate",
+    "description": "Manage Sketch texts in multiple locales.",
+    "author": "Santi",
+    "owner": "laresgoiti",
+    "name": "texts_translate",
+    "lastUpdated": "2017-04-19 14:05:58 UTC"
   }
 ]
