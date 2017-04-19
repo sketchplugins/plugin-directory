@@ -420,7 +420,7 @@ def get_manifest_content(owner, name, branch)
 
         tree.tree.each do |item|
             path = item.path
-            if !(path.downcase.end_with? "manifest.json")
+            if !(path.downcase.end_with? ".sketchplugin/contents/sketch/manifest.json")
                 next
             end
 
