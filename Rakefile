@@ -496,10 +496,10 @@ end
 
 def check_for_duplicates(plugin, plugins)
     plugins.each_with_index do |saved_plugin, index|
-        if (plugin["name"] == nil || saved_plugin["name"] == nil) && plugin["owner"] == saved_plugin["owner"] && plugin["title"] == saved_plugin["title"]
+        if (plugin["name"] == nil || saved_plugin["name"] == nil) && plugin["owner"].downcase == saved_plugin["owner"].downcase && plugin["title"].downcase == saved_plugin["title"].downcase
             STDOUT.puts "ERROR: Found another plugin with the same owner & title."
             return index
-        elsif plugin["name"] == saved_plugin["name"] && plugin["owner"] == saved_plugin["owner"]
+        elsif plugin["name"] != nil && saved_plugin["name"] != nil && plugin["name"].downcase == saved_plugin["name"].downcase && plugin["owner"].downcase == saved_plugin["owner"].downcase
             STDOUT.puts "ERROR: Found another plugin with the same name & owner."
             return index
         end
