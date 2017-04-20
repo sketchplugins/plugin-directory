@@ -2593,5 +2593,13 @@
     "owner": "laresgoiti",
     "name": "texts_translate",
     "lastUpdated": "2017-04-19 14:05:58 UTC"
+  },
+  {
+    "title": "Sketch Arrange Artboards",
+    "description": "Layout all artboards in a grid with user-specified number of rows",
+    "author": "Ken Moore",
+    "owner": "kenmoore",
+    "name": "sketch-arrange-artboards",
+    "lastUpdated": "2017-04-11 18:22:55 UTC"
   }
 ]
