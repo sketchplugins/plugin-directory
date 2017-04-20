@@ -2601,5 +2601,13 @@
     "owner": "kenmoore",
     "name": "sketch-arrange-artboards",
     "lastUpdated": "2017-04-11 18:22:55 UTC"
+  },
+  {
+    "title": "Sketch Artboard",
+    "description": "Next Artboard / Previous Artboard",
+    "author": "Ken Moore",
+    "owner": "kenmoore",
+    "name": "sketch-artboard",
+    "lastUpdated": "2017-04-11 16:58:21 UTC"
   }
 ]
