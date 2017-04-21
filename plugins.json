@@ -1,5 +1,13 @@
 [
   {
+    "description": "Ensure your design is accessible and high contrast for every type of color blindness.",
+    "name": "stark-sketch-plugin",
+    "title": "Stark",
+    "owner": "stark-contrast",
+    "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
+    "homepage": "http://www.getstark.co"
+  },
+  {
     "description": "Organise and share your design libraries using folders and get a living styleguide for free",
     "name": "zeroheight-sketch-plugin",
     "title": "zeroheight",
