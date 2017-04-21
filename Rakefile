@@ -157,15 +157,15 @@ task :lastUpdated do
   json_data = get_plugins_from_json
 
   json_data.each do |plugin|
-    puts "Updating #{plugin['name']}"
     if plugin['owner'] && plugin['name']
+      puts "Updating #{titlefy(plugin['name'])}"
       plugin_url = plugin['owner'] + "/" + plugin['name']
       repo = client.repo(plugin_url)
       user = client.user(plugin['owner'])
 
-      if plugin['lastUpdated'] != repo.updated_at
-        puts "— Plugin was updated at #{repo.updated_at}"
-        plugin['lastUpdated'] = repo.updated_at
+      if plugin['lastUpdated'] != repo.pushed_at
+        puts "— Plugin was updated at #{repo.pushed_at}"
+        plugin['lastUpdated'] = repo.pushed_at
       else
         puts "— Plugin was NOT updated since last check"
       end
