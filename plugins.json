@@ -44,7 +44,7 @@
   {
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
     "name": "LayerRenamer",
-    "title": "Layerrenamer",
+    "title": "Layer Renamer",
     "author": "Leonard Pauli",
     "owner": "LeonardPauli",
     "lastUpdated": "2017-02-07 10:34:02 UTC"
@@ -125,7 +125,7 @@
   {
     "description": "Spotlight in Sketch",
     "name": "sketch-action",
-    "title": "Sketch-Action",
+    "title": "Sketch Action",
     "author": "Khoa Pham",
     "owner": "onmyway133",
     "lastUpdated": "2016-09-05 21:27:01 UTC"
@@ -593,6 +593,7 @@
     "description": "Sketch app plugin for displaying Google material design color palette.",
     "owner": "t32k",
     "name": "material-design-color-palette",
+    "title": "Material Design Color Palette",
     "lastUpdated": "2017-02-06 02:26:36 UTC"
   },
   {
@@ -1353,6 +1354,7 @@
   {
     "description": "Gathers the colors used in your selected layers and shows them in Colorpeek.",
     "name": "colorpeek-sketch-plugin",
+    "title": "Colorpeek",
     "author": "Peter Wooley",
     "owner": "peterwooley",
     "lastUpdated": "2015-12-10 09:22:34 UTC"
@@ -1553,6 +1555,7 @@
   {
     "description": "sketch plugin for Export Data URI",
     "name": "Sketch-Base64-PNG-Export",
+    "title": "Base64 PNG Export",
     "owner": "jawayang",
     "author": "james yang",
     "lastUpdated": "2016-03-04 15:05:33 UTC"
@@ -1560,6 +1563,7 @@
   {
     "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
     "name": "sketch-proportional-replicator",
+    "title": "Proportional Replicator",
     "owner": "AleLudovici",
     "author": "Alessandro Ludovici",
     "lastUpdated": "2016-03-01 20:12:28 UTC"
@@ -1589,6 +1593,7 @@
   {
     "description": "A plugin for Sketch to equal division layers by container.",
     "name": "Sketch-Divider",
+    "title": "Divider",
     "owner": "jawayang",
     "author": "james yang",
     "lastUpdated": "2016-04-12 07:23:27 UTC"
@@ -1603,6 +1608,7 @@
   {
     "description": "Sketch plugin to pseudolocalize text layers",
     "name": "Sketch-Pseudol10n",
+    "title": "Pseudol10n",
     "owner": "arieare",
     "author": "Arie Aulia Nugraha",
     "lastUpdated": "2016-03-30 03:33:25 UTC"
@@ -1617,6 +1623,7 @@
   {
     "description": "Export Sketch Artboard to Trello",
     "name": "sketch-to-trello",
+    "title": "Sketch to Trello",
     "owner": "jclappiway",
     "author": "lefrancois",
     "lastUpdated": "2016-05-13 13:57:01 UTC"
@@ -1638,6 +1645,7 @@
   {
     "description": "sketch - copy to all artboards plugin",
     "name": "sketch-copy-to-all",
+    "title": "Copy to All",
     "owner": "wuwa",
     "author": "Ben Benhorin",
     "lastUpdated": "2016-09-12 09:53:58 UTC"
@@ -1684,6 +1692,7 @@
   {
     "description": "Multi step user flows in Framer.js",
     "name": "ViewController-for-Framer",
+    "title": "ViewController for Framer",
     "owner": "awt2542",
     "author": "Andreas Wahlström",
     "lastUpdated": "2017-04-17 04:04:09 UTC"
@@ -1698,6 +1707,7 @@
   {
     "description": "A Sketch plugin that adjusts a shape layer according to the attributes of a text layer",
     "name": "sketch-adjust-button-shape",
+    "title": "Adjust Button Shape",
     "owner": "psilfver",
     "author": "Petter",
     "lastUpdated": "2016-05-09 21:11:46 UTC"
@@ -1798,6 +1808,7 @@
   {
     "description": "A Sketch plugin that adjusts the character spacing on text layers using iOS 9's SF UI Text/Display fonts to what it would be when used in an iOS app.",
     "name": "Sketch-SF-UI-Font-Fixer",
+    "title": "Sketch SF UI Font Fixer",
     "owner": "kylehickinson",
     "author": "Kyle Hickinson",
     "lastUpdated": "2017-03-26 03:35:56 UTC"
@@ -1805,6 +1816,7 @@
   {
     "description": "This plugin helps you easily duplicate your objects to all Artboards.",
     "name": "sketch-repeat",
+    "title": "Sketch Repeat",
     "owner": "keremciu",
     "author": "Kerem Sevencan",
     "lastUpdated": "2016-07-07 14:17:40 UTC"
@@ -1812,6 +1824,7 @@
   {
     "description": "simple tool to create todo notes for your sketch file",
     "name": "Todo-Sketch-Plugin",
+    "title": "Todo Sketch Plugin",
     "owner": "andrewdbass",
     "author": "Andrew Bass",
     "lastUpdated": "2016-07-06 03:51:25 UTC"
@@ -1819,6 +1832,7 @@
   {
     "description": "Personal fun project - turn your mocks into VR",
     "name": "Sketch-to-VR",
+    "title": "Sketch to VR",
     "owner": "auxdesigner",
     "author": "Liu Liu",
     "lastUpdated": "2017-04-17 03:49:52 UTC"
@@ -1834,6 +1848,7 @@
   {
     "description": "Sketch.app plugin for showing zoom notifications",
     "name": "Zoom-Alert",
+    "title": "Zoom Alert",
     "owner": "nathco",
     "author": "Nathan Rutzky",
     "lastUpdated": "2016-09-12 04:36:10 UTC"
@@ -1918,7 +1933,7 @@
   {
     "description": "Sync sketch files with google docs.",
     "name": "SketchContentSync",
-    "title": "Sketchcontentsync",
+    "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
     "lastUpdated": "2017-04-19 08:13:33 UTC"
@@ -1950,6 +1965,7 @@
   {
     "description": "Sketch plugin for adding page numbers to artboards.",
     "name": "Sketch-PageNumbers",
+    "title": "Page Numbers",
     "owner": "gotomedia",
     "author": "gotomedia",
     "lastUpdated": "2017-03-07 22:49:50 UTC"
@@ -1989,6 +2005,7 @@
   {
     "description": "Sketch Plugins",
     "name": "sketch-exportsymbols",
+    "title": "Export Symbols",
     "owner": "marianomike",
     "author": "Mike Mariano",
     "lastUpdated": "2017-04-05 02:47:36 UTC"
@@ -2012,6 +2029,7 @@
   {
     "description": "Sketch plugin that arranges symbol artboards",
     "name": "sketch-organizesymbols",
+    "title": "Organize Symbols",
     "owner": "marianomike",
     "author": "Mike Mariano",
     "lastUpdated": "2017-03-29 04:26:23 UTC"
@@ -2034,6 +2052,7 @@
   {
     "description": "A latin text generator similar to Lorem Ipsum. The plugin outputs randomly ordered paragraph text with three variations. You can use a random word count, a specific word count or inject random content into an existing text blocks.",
     "name": "random-ipsom",
+    "title": "Random Ipsom",
     "owner": "fliptopbox",
     "author": "Bruce Thomas",
     "lastUpdated": "2016-09-02 11:03:45 UTC"
@@ -2065,6 +2084,7 @@
   {
     "description": "Sketch.app plugin for exporting ICNS and GIFs",
     "name": "Export-More",
+    "title": "Export More",
     "owner": "nathco",
     "author": "Nathan Rutzky",
     "lastUpdated": "2017-01-11 12:51:25 UTC"
@@ -2086,6 +2106,7 @@
   {
     "description": "Organize your symbols page and layer list, based on the symbol names.",
     "name": "symbol-organizer",
+    "title": "Symbol Organizer",
     "owner": "sonburn",
     "author": "Jason Burns",
     "lastUpdated": "2017-04-15 03:45:27 UTC"
@@ -2093,6 +2114,7 @@
   {
     "description": "A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.",
     "name": "Sketch-Resize-Commands",
+    "title": "Resize Commands",
     "owner": "ANGIstudio",
     "author": "ANGI studio",
     "lastUpdated": "2016-11-24 12:46:53 UTC"
@@ -2100,6 +2122,7 @@
   {
     "description": "A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects",
     "name": "Sketch-Copy-Paste-Position-Size",
+    "title": "Copy Paste Position & Size",
     "owner": "ANGIstudio",
     "author": "ANGI studio",
     "lastUpdated": "2016-11-12 20:08:42 UTC"
@@ -2107,6 +2130,7 @@
   {
     "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
     "name": "Sketch-Keyboard-Resize",
+    "title": "Keyboard Resize",
     "owner": "ANGIstudio",
     "author": "ANGI studio",
     "lastUpdated": "2016-11-12 20:04:53 UTC"
@@ -2114,6 +2138,7 @@
   {
     "description": "A Sketch plugin to collect font files you used in your sketch file.",
     "name": "Font-Packer",
+    "title": "Font Packer",
     "owner": "bigxixi",
     "author": "Big XiXi",
     "lastUpdated": "2016-10-24 11:38:20 UTC"
@@ -2121,6 +2146,7 @@
   {
     "description": "Sketch3 plugin, One key export Android/iOS App icons.",
     "name": "sketch-app-asset-export",
+    "title": "App Asset Export",
     "owner": "work4blue",
     "author": "Andrew Huang",
     "lastUpdated": "2017-02-14 14:01:33 UTC"
@@ -2183,6 +2209,7 @@
   {
     "description": "Rename all symbol instances to the name of their master.",
     "name": "symbol-instance-renamer",
+    "title": "Symbol Instance Renamer",
     "owner": "sonburn",
     "author": "Jason Burns",
     "lastUpdated": "2017-01-09 22:55:27 UTC"
@@ -2190,6 +2217,7 @@
   {
     "description": "Generate guides along with twitter bootstrap grid system.",
     "name": "Sketch-bootstrap-guides",
+    "title": "Bootstrap Guides",
     "owner": "tomoyukikashiro",
     "author": "Tomoyuki Kashiro",
     "lastUpdated": "2016-12-25 23:01:11 UTC"
@@ -2261,7 +2289,7 @@
   {
     "description": "HSL Color Picker for Sketch",
     "name": "HSL_Color_Picker",
-    "title": "Hsl_color_picker",
+    "title": "HSL Color Picker",
     "owner": "Ashung",
     "author": "Ashung Hung",
     "lastUpdated": "2017-04-18 04:09:14 UTC"
@@ -2277,7 +2305,7 @@
   {
     "description": "Automatically create RTL layouts of your designs with this plugin for Bohemian Coding's Sketch 3",
     "name": "sketch-rtl",
-    "title": "Sketch Rtl",
+    "title": "Sketch RTL",
     "owner": "devinmancuso",
     "author": "Devin Mancuso",
     "lastUpdated": "2017-01-22 22:58:15 UTC"
@@ -2333,7 +2361,7 @@
   {
     "description": "A Sketch plugin to export sketch file to Adobe After Effect",
     "name": "Sketch2AE",
-    "title": "Sketch2ae",
+    "title": "Sketch2AE",
     "owner": "bigxixi",
     "author": "Big XiXi",
     "lastUpdated": "2017-02-12 01:56:46 UTC"
@@ -2341,7 +2369,7 @@
   {
     "description": "A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.",
     "name": "Sketch_Swatches",
-    "title": "Sketch_swatches",
+    "title": "Sketch Swatches",
     "owner": "Ashung",
     "author": "Ashung Hung",
     "lastUpdated": "2017-04-18 02:57:05 UTC"
@@ -2357,7 +2385,7 @@
   {
     "description": "Remove duplicate styles in Sketch",
     "name": "sketch_fix_styles",
-    "title": "Sketch_fix_styles",
+    "title": "Fix Styles",
     "owner": "dinozavrix",
     "author": "dinozavrix",
     "lastUpdated": "2017-01-11 15:00:33 UTC"
