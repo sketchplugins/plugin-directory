@@ -6,17 +6,20 @@ USERNAME = `git config github.user`.strip
 
 # This is used on the titlefy function. The idea here is to ignore some word that should never be
 # re-capitalised
-IGNORE = %w(the of a and PS HTML UI SF px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr)
+IGNORE = %w(the of a and PS HTML UI SF JSON SCSS px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr)
 
 def titlefy string
   if IGNORE.include? (string)
     return string
   end
   s = string.gsub('.sketchplugin','').gsub('-',' ').split(' ')
+  # puts "Words: #{s}"
   s.map do |word|
     word_lowercase = word.downcase
-    if IGNORE.include?(word_lowercase)
-      word_lowercase
+    if IGNORE.include?(word)
+      word
+    # elsif IGNORE.include?(word_lowercase)
+    #   word_lowercase
     else
       word.capitalize!
     end
@@ -35,6 +38,15 @@ def get_plugins_from_json
   data = IO.read('plugins.json')
   data.force_encoding('utf-8')
   JSON.parse(data)
+end
+
+def is_plugin_too_old? plugin
+  if plugin['lastUpdated']
+    last_update = Time.parse(plugin['lastUpdated'])
+    return (Time.now - last_update) > 60_000_000
+  else
+    return false
+  end
 end
 
 desc "Clones all repositories to the 'clones' folder"
@@ -80,13 +92,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
-    if plugin['lastUpdated']
-      last_update = Time.parse(plugin['lastUpdated'])
-      now = Time.now
-      if ( (now - last_update) > 60_000_000 )
-        puts "Outdated plugin"
-        next
-      end
+    if is_plugin_too_old? plugin
+      next
     end
 
     if plugin['hidden'] == true
@@ -109,12 +116,8 @@ EOF
   output << "\n\n## Sorted by last update (newest on top)\n\n"
 
   plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Date.parse(k["lastUpdated"]).strftime("%s").to_i }.reverse.each do |plugin|
-    if plugin['lastUpdated']
-      last_update = Time.parse(plugin['lastUpdated'])
-      now = Time.now
-      if ( (now - last_update) > 60_000_000 )
-        next
-      end
+    if is_plugin_too_old? plugin
+      next
     end
 
     if plugin['hidden'] == true
@@ -157,18 +160,15 @@ task :lastUpdated do
   json_data = get_plugins_from_json
 
   json_data.each do |plugin|
+    # Only check for last push date for plugins with a repo
     if plugin['owner'] && plugin['name']
       puts "Updating #{titlefy(plugin['name'])}"
       plugin_url = plugin['owner'] + "/" + plugin['name']
       repo = client.repo(plugin_url)
       user = client.user(plugin['owner'])
 
-      if plugin['lastUpdated'] != repo.pushed_at
-        puts "— Plugin was updated at #{repo.pushed_at}"
-        plugin['lastUpdated'] = repo.pushed_at
-      else
-        puts "— Plugin was NOT updated since last check"
-      end
+      puts "— Plugin was updated at #{repo.pushed_at}"
+      plugin['lastUpdated'] = repo.pushed_at
 
       # if plugin['name'] == plugin['title'] && plugin['title'] == nil
       #   puts "— Plugin title is wrong, fixing"
