@@ -1892,7 +1892,7 @@
     "name": "SketchI18N",
     "owner": "cute",
     "author": "Guangming Li ",
-    "lastUpdated": "2017-04-21 03:16:52 UTC"
+    "lastUpdated": "2017-04-24 08:39:25 UTC"
   },
   {
     "description": "A Sketch plugin for easy multi-language design",
@@ -2639,5 +2639,13 @@
     "owner": "kenmoore",
     "name": "sketch-artboard",
     "lastUpdated": "2017-04-11 16:58:18 UTC"
+  },
+  {
+    "title": "CopyColor",
+    "description": "Plugin that provides shortcut to copy layer fill color, border color, or text color to your clipboard for Sketch 4",
+    "author": "Poyi",
+    "owner": "poyi",
+    "name": "CopyColor",
+    "lastUpdated": "2017-04-20 19:25:53 UTC"
   }
 ]
