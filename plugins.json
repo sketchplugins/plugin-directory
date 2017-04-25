@@ -1631,6 +1631,7 @@
   {
     "description": "Sketch plugin that generates Swift Color Theme with enums",
     "name": "SwiftColorPalette",
+    "title": "SwiftColorPalette",
     "owner": "nahitheper",
     "author": "nahitheper",
     "lastUpdated": "2016-10-18 07:32:40 UTC"

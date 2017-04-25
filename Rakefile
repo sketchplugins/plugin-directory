@@ -6,7 +6,7 @@ USERNAME = `git config github.user`.strip
 
 # This is used on the titlefy function. The idea here is to ignore some word that should never be
 # re-capitalised
-IGNORE = %w(the of a and PS HTML UI SF JSON SCSS px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr)
+IGNORE = %w(the of a and AE RTL PS HTML UI SF JSON SCSS px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr)
 
 def titlefy string
   if IGNORE.include? (string)
