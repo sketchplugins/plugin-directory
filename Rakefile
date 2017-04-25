@@ -1,31 +1,9 @@
 require 'json'
 require 'time'
+require "./lib/plugin-directory-utils"
 
 GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
 USERNAME = `git config github.user`.strip
-
-# This is used on the titlefy function. The idea here is to ignore some word that should never be
-# re-capitalised
-IGNORE = %w(the of a and AE RTL PS HTML UI SF JSON SCSS px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr)
-
-def titlefy string
-  if IGNORE.include? (string)
-    return string
-  end
-  s = string.gsub('.sketchplugin','').gsub('-',' ').split(' ')
-  # puts "Words: #{s}"
-  s.map do |word|
-    word_lowercase = word.downcase
-    if IGNORE.include?(word)
-      word
-    # elsif IGNORE.include?(word_lowercase)
-    #   word_lowercase
-    else
-      word.capitalize!
-    end
-  end
-  s.join(' ')
-end
 
 def fix_plugin_title plugin
   if (plugin['name'] == plugin['title'] && !(IGNORE.include? plugin['title'])) || plugin['title'] == nil
@@ -115,7 +93,8 @@ EOF
 
   output << "\n\n## Sorted by last update (newest on top)\n\n"
 
-  plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Date.parse(k["lastUpdated"]).strftime("%s").to_i }.reverse.each do |plugin|
+  # plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Date.parse(k["lastUpdated"]).strftime("%s").to_i }.reverse.each do |plugin|
+  plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Time.parse(k["lastUpdated"]) }.reverse.each do |plugin|
     if is_plugin_too_old? plugin
       next
     end
