@@ -2647,5 +2647,13 @@
     "owner": "poyi",
     "name": "CopyColor",
     "lastUpdated": "2017-04-20 19:25:53 UTC"
+  },
+  {
+    "title": "Justinmind Sketch",
+    "description": "You can export artboards, layers and pages you’ve made in Sketch to Justinmind and turn them into interactive shareable prototypes.",
+    "author": "Justinmind",
+    "owner": "vconesa",
+    "name": "justinmind-sketch",
+    "lastUpdated": "2017-04-26 21:25:45 UTC"
   }
 ]
