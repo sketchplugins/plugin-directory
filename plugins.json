@@ -1,5 +1,13 @@
 [
   {
+    "description": "Create good-looking and perceptually uniform gradients and color scales.",
+    "name": "chromatic-sketch",
+    "title": "Chromatic Sketch",
+    "owner": "petterheterjag",
+    "author": "Petter Nilsson",
+    "lastUpdated": "2017-04-29 19:35:45 UTC"
+  },
+  {
     "description": "Ensure your design is accessible and high contrast for every type of color blindness.",
     "name": "stark-sketch-plugin",
     "title": "Stark",
