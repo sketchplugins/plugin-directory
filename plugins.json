@@ -14,7 +14,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2017-04-21 04:06:33 UTC"
+    "lastUpdated": "2017-04-25 15:11:22 UTC"
   },
   {
     "description": "Organise and share your design libraries using folders and get a living styleguide for free",
@@ -31,7 +31,7 @@
     "title": "Foreign Ipsum",
     "author": "Braxton Huff",
     "owner": "3raxton",
-    "lastUpdated": "2017-04-18 17:54:44 UTC"
+    "lastUpdated": "2017-04-25 13:06:48 UTC"
   },
   {
     "description": "An easy way creating guidelines",
@@ -317,7 +317,7 @@
     "name": "RenameIt",
     "owner": "rodi01",
     "author": "Rodrigo Soares",
-    "lastUpdated": "2017-04-10 08:52:56 UTC"
+    "lastUpdated": "2017-04-29 01:23:32 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -400,7 +400,7 @@
     "author": "Christian Petersen",
     "title": "Dockpreview",
     "name": "sketch-dockpreview",
-    "lastUpdated": "2015-04-21 08:02:04 UTC"
+    "lastUpdated": "2017-04-28 08:51:01 UTC"
   },
   {
     "description": "Flowchart diagram plugin for Bohemian Coding Sketch app.",
@@ -438,7 +438,7 @@
     "author": "Florian Schulz",
     "title": "Color Contrast Analyser",
     "name": "Sketch-Color-Contrast-Analyser",
-    "lastUpdated": "2017-04-23 11:12:13 UTC"
+    "lastUpdated": "2017-04-27 16:03:15 UTC"
   },
   {
     "description": "Plugin that allows you to set the line height of a text layer as a multiple of the font size.",
@@ -564,7 +564,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2017-04-21 00:53:49 UTC"
+    "lastUpdated": "2017-04-28 20:50:28 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -658,7 +658,7 @@
     "author": "Florian Schulz",
     "title": "Sketch Mate",
     "name": "Sketch-Mate",
-    "lastUpdated": "2017-04-18 14:28:01 UTC"
+    "lastUpdated": "2017-04-27 12:29:45 UTC"
   },
   {
     "description": "Distribute selection objects vertically or horizontally with a given spacing between them.",
@@ -991,7 +991,7 @@
     "title": "Use Icon Fonts in Sketch",
     "author": "Kerem Sevencan",
     "owner": "keremciu",
-    "lastUpdated": "2017-01-19 10:20:50 UTC"
+    "lastUpdated": "2017-04-28 10:29:41 UTC"
   },
   {
     "description": "Some handy tools for Sketch",
@@ -1162,7 +1162,7 @@
     "title": "Sketch Palettes",
     "author": "Andrew Fiorillo",
     "owner": "andrewfiorillo",
-    "lastUpdated": "2017-04-23 22:07:14 UTC"
+    "lastUpdated": "2017-04-27 13:41:00 UTC"
   },
   {
     "description": "A plugin that integrates constraints in Sketch to lay out layers.",
@@ -1373,7 +1373,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2017-04-21 11:17:00 UTC"
+    "lastUpdated": "2017-04-27 10:29:36 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1431,7 +1431,7 @@
     "author": "Timur Nurutdinov",
     "owner": "timurnurutdinov",
     "homepage": "http://timurnurutdinov.github.io/framerinventory/",
-    "lastUpdated": "2017-04-21 18:56:27 UTC"
+    "lastUpdated": "2017-04-28 11:28:45 UTC"
   },
   {
     "description": "Convert all your similar layers to symbols with a single click.",
@@ -1611,7 +1611,7 @@
     "name": "Prism",
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
-    "lastUpdated": "2017-03-24 00:49:07 UTC"
+    "lastUpdated": "2017-04-28 09:38:18 UTC"
   },
   {
     "description": "Sketch plugin to pseudolocalize text layers",
@@ -1704,7 +1704,7 @@
     "title": "ViewController for Framer",
     "owner": "awt2542",
     "author": "Andreas Wahlström",
-    "lastUpdated": "2017-04-17 04:04:09 UTC"
+    "lastUpdated": "2017-04-26 18:35:40 UTC"
   },
   {
     "description": " Add simple arrowhead to end of selected paths. Matches color and weight.",
@@ -1945,7 +1945,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2017-04-19 08:13:33 UTC"
+    "lastUpdated": "2017-04-26 00:55:20 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2266,7 +2266,7 @@
   {
     "description": "Sketch plugin for creating a clickthrough HTMLprototype",
     "name": "Sketch-to-Clickthrough-HTML",
-    "title": "Sketch To Clickthrough Html",
+    "title": "Sketch To Clickthrough HTML",
     "owner": "amin-nas",
     "author": "Amin",
     "lastUpdated": "2017-01-24 23:49:43 UTC"
@@ -2381,7 +2381,7 @@
     "title": "Sketch Swatches",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2017-04-18 02:57:05 UTC"
+    "lastUpdated": "2017-04-27 10:28:59 UTC"
   },
   {
     "description": "A Sketch Plugin for history back and forward.",
@@ -2654,7 +2654,7 @@
     "author": "Poyi",
     "owner": "poyi",
     "name": "CopyColor",
-    "lastUpdated": "2017-04-20 19:25:53 UTC"
+    "lastUpdated": "2017-04-27 01:53:56 UTC"
   },
   {
     "title": "Justinmind Sketch",
@@ -2662,6 +2662,6 @@
     "author": "Justinmind",
     "owner": "vconesa",
     "name": "justinmind-sketch",
-    "lastUpdated": "2017-04-26 21:25:45 UTC"
+    "lastUpdated": "2017-04-26 23:10:04 UTC"
   }
 ]
