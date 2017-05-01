@@ -1,5 +1,13 @@
 [
   {
+    "description": "Create basic word clouds and tag clouds.",
+    "name": "word-cloud",
+    "title": "WordCloud",
+    "owner": "ediathome",
+    "author": "Martin Kolb",
+    "lastUpdated": "2017-05-01 08:48:00 UTC"
+  },
+  {
     "description": "Create good-looking and perceptually uniform gradients and color scales.",
     "name": "chromatic-sketch",
     "title": "Chromatic Sketch",

@@ -268,7 +268,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
 - [Sketch Swatches](https://github.com/ashung/sketch_swatches), by Ashung Hung: A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 - [Sketch Text Tools](https://github.com/automat/sketch-text-tools), by Henryk Wollik: Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
-- [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
 - [Sketch To Clickthrough HTML](https://github.com/amin-nas/sketch-to-clickthrough-html), by Amin: Sketch plugin for creating a clickthrough HTMLprototype
 - [Sketch to Trello](https://github.com/jclappiway/sketch-to-trello), by lefrancois: Export Sketch Artboard to Trello
 - [Sketch to VR](https://github.com/auxdesigner/sketch-to-vr), by Liu Liu: Personal fun project - turn your mocks into VR
@@ -329,6 +328,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Wanderer](https://github.com/turbobabr/sketch-wanderer), by Andrey Shakhmin: Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.
 - [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
 - [webalize](https://github.com/vesely/webalize), by David Veselý: Sketch plugin to webalize layers name.
+- [WordCloud](https://github.com/ediathome/word-cloud), by Martin Kolb: Create basic word clouds and tag clouds.
 - [Xport](https://github.com/abynim/xport), by Aby Nimbalkar: A Sketch Plugin to export image assets directly to Xcode
 - [ZEN Sketch](https://github.com/francisvega/zen-sketch), by Francis Vega: A collection of Sketch plugins
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
@@ -339,6 +339,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [WordCloud](https://github.com/ediathome/word-cloud), by Martin Kolb: Create basic word clouds and tag clouds.
 - [Chromatic Sketch](https://github.com/petterheterjag/chromatic-sketch), by Petter Nilsson: Create good-looking and perceptually uniform gradients and color scales.
 - [RenameIt](https://github.com/rodi01/renameit), by Rodrigo Soares: A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
@@ -668,4 +669,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Toggle NoPrint](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin), by Denis Sudilkovsky: Toggle Visibility of 'NoPrint' layers in Sketch
 - [ColorSwitch](https://github.com/lmwebdesign/sketch3-colorswitch), by Luis Martinez: Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.
 - [Sketch JSON Parser](https://github.com/kvendrik/sketch-json-parser), by Koen Vendrik: Replaces layer values in groups with JSON data
-- [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
