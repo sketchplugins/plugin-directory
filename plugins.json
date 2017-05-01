@@ -1,10 +1,11 @@
 [
   {
     "description": "Create basic word clouds and tag clouds.",
-    "name": "word-cloud",
+    "name": "WordCloud",
     "title": "WordCloud",
     "owner": "ediathome",
     "author": "Martin Kolb",
+    "homepage": "https://github.com/ediathome/WordCloud",
     "lastUpdated": "2017-05-01 08:48:00 UTC"
   },
   {
