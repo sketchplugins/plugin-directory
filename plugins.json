@@ -2672,5 +2672,14 @@
     "owner": "vconesa",
     "name": "justinmind-sketch",
     "lastUpdated": "2017-04-26 23:10:04 UTC"
+  },
+  {
+    "owner": "mludowise",
+    "name": "Sketch-Plugin-Manager",
+    "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
+    "description": "Keeping your Sketch plugins up to date with the power of Git.",
+    "lastUpdated": "2017-04-17 23:24:00 UTC",
+    "title": "Sketch Plugin Manager 🔌",
+    "author": "Mel Ludowise"
   }
 ]
