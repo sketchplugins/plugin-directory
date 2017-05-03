@@ -59,6 +59,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy & Paste Guides](https://github.com/pixelpillow/copy-paste-guides), by Pixelpillow: Easily copy, paste or remove guides from/to your artboard(s).
 - [Copy & Paste Shadows](https://github.com/ryanjohnson-me/sketch-copy-paste-shadows), by Ryan Johnson: Copy & paste only shadow styles from layers without others styles getting in the way.
 - [Copy Color as HSLA](https://github.com/peterwooley/copy-color-as-hsla), by Peter Wooley: A plugin to copy the fill, border, or text color of the selected layer to the clipboard as HSLA.
+- [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
 - [Copy Objective-C Code](https://github.com/jaimeeee/sketchplugin-objc-color), by Jaime Zaragoza: A Sketch Plugin for generating UIColor and NSColor initializer Objective-C code from fill color of selected layers.
 - [Copy Paste Position & Size](https://github.com/angistudio/sketch-copy-paste-position-size), by ANGI studio: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
 - [Copy SCSS Colors](https://github.com/graphical-iain/copy-scss-colors), by Iain Eudailey: Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
@@ -340,6 +341,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
 - [WordCloud](https://github.com/ediathome/WordCloud), by Martin Kolb: Create basic word clouds and tag clouds.
 - [Chromatic Sketch](https://github.com/petterheterjag/chromatic-sketch), by Petter Nilsson: Create good-looking and perceptually uniform gradients and color scales.
 - [RenameIt](https://github.com/rodi01/renameit), by Rodrigo Soares: A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.

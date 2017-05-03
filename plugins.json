@@ -2681,5 +2681,13 @@
     "lastUpdated": "2017-04-17 23:24:00 UTC",
     "title": "Sketch Plugin Manager 🔌",
     "author": "Mel Ludowise"
+  },
+  {
+    "title": "Copy Framer Code",
+    "description": "A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "copy-framer-code",
+    "lastUpdated": "2017-05-03 07:43:59 UTC"
   }
 ]
