@@ -1,4 +1,13 @@
 [
+	{
+    "description": "Turn your Sketch design into a live website.",
+    "name": "Launchpad",
+    "title": "Launchpad",
+    "owner": "AnimaApp",
+    "author": "Anima Team",
+    "homepage": "https://launchpad.animaapp.com",
+    "lastUpdated": "2017-05-02 08:48:00 UTC"
+  },
   {
     "description": "Create basic word clouds and tag clouds.",
     "name": "WordCloud",
