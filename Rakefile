@@ -1,14 +1,36 @@
 require 'json'
 require 'time'
+require "./lib/plugin-directory-utils"
 
-data = IO.read('plugins.json')
-data.force_encoding('utf-8')
-plugins = JSON.parse(data)
+GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
+USERNAME = `git config github.user`.strip
+
+def fix_plugin_title plugin
+  if (plugin['name'] == plugin['title'] && !(IGNORE.include? plugin['title'])) || plugin['title'] == nil
+    puts "— #{plugin['name']} - #{plugin['title']}: Plugin title is wrong, fixing"
+    plugin['title'] = titlefy(plugin['name'])
+  end
+end
+
+def get_plugins_from_json
+  data = IO.read('plugins.json')
+  data.force_encoding('utf-8')
+  JSON.parse(data)
+end
+
+def is_plugin_too_old? plugin
+  if plugin['lastUpdated']
+    last_update = Time.parse(plugin['lastUpdated'])
+    return (Time.now - last_update) > 60_000_000
+  else
+    return false
+  end
+end
 
 desc "Clones all repositories to the 'clones' folder"
 task :clone do
   mkdir "clones" unless File.directory? "clones"
-  plugins.each do |plugin|
+  get_plugins_from_json.each do |plugin|
     name  = plugin['name']
     owner = plugin['owner']
     url   = "https://github.com/#{owner}/#{name}"
@@ -18,7 +40,7 @@ end
 
 desc "Updates all clones in the 'clones' folder"
 task :update do
-  plugins.each do |plugin|
+  get_plugins_from_json.each do |plugin|
     name  = plugin['name']
     owner = plugin['owner']
     url   = "https://github.com/#{owner}/#{name}"
@@ -36,6 +58,8 @@ end
 desc "Generate README.md from plugins.json"
 task :readme do
 
+  plugins = get_plugins_from_json
+
   output = <<EOF
 # Sketch Plugin Directory
 
@@ -45,13 +69,34 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 EOF
 
-  plugins.sort_by { |k| [k["title"] ? k["title"].downcase : k["name"].downcase, k["owner"].downcase] }.each do |plugin|
-    if plugin['lastUpdated']
-      last_update = Time.parse(plugin['lastUpdated'])
-      now = Time.now
-      if ( (now - last_update) > 60_000_000 )
-        next
-      end
+  plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
+    if is_plugin_too_old? plugin
+      next
+    end
+
+    if plugin['hidden'] == true
+      next
+    end
+
+    name   = plugin['name']
+    owner  = plugin['owner']
+    author = plugin['author'] || owner
+    title  = plugin['title'] || name
+    url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
+    desc   = plugin['description'].strip
+    output << "- [#{title}](#{url}), by #{author}:"
+    if !desc.empty?
+      output << " #{desc}"
+    end
+    output << "\n"
+  end
+
+  output << "\n\n## Sorted by last update (newest on top)\n\n"
+
+  # plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Date.parse(k["lastUpdated"]).strftime("%s").to_i }.reverse.each do |plugin|
+  plugins.reject { |k| k["lastUpdated"] == nil }.sort_by { |k| Time.parse(k["lastUpdated"]) }.reverse.each do |plugin|
+    if is_plugin_too_old? plugin
+      next
     end
 
     if plugin['hidden'] == true
@@ -74,10 +119,56 @@ EOF
   IO.write('README.md',output)
 end
 
+desc "Fix plugin titles"
+task :fixtitles do
+  json_data = get_plugins_from_json
+  json_data.each do |plugin|
+    fix_plugin_title plugin
+  end
+  File.open("plugins-titles-fixed.json","w") do |f|
+    f.write(JSON.pretty_generate(json_data, :indent => "  "))
+  end
+end
+
+desc "Update `lastUpdated` field for all plugin in JSON"
+task :lastUpdated do
+
+  require 'octokit'
+  client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
+
+  json_data = get_plugins_from_json
+
+  json_data.each do |plugin|
+    # Only check for last push date for plugins with a repo
+    if plugin['owner'] && plugin['name']
+      puts "Updating #{titlefy(plugin['name'])}"
+      plugin_url = plugin['owner'] + "/" + plugin['name']
+      repo = client.repo(plugin_url)
+      user = client.user(plugin['owner'])
+
+      puts "— Plugin was updated at #{repo.pushed_at}"
+      plugin['lastUpdated'] = repo.pushed_at
+
+      # if plugin['name'] == plugin['title'] && plugin['title'] == nil
+      #   puts "— Plugin title is wrong, fixing"
+      #   plugin['title'] = titlefy(plugin['name'])
+      # end
+    end
+    puts
+  end
+
+  File.open("plugins-new.json","w") do |f|
+    f.write(JSON.pretty_generate(json_data, :indent => "  "))
+  end
+
+end
+
 desc "List authors"
 task :authors do
-  puts plugins.collect { |plugin| plugin['owner'] }.uniq.sort
-  puts plugins.collect { |plugin| plugin['owner'] }.uniq.sort.size
+  plugins = get_plugins_from_json
+  authors = plugins.collect { |plugin| (plugin['author'] ? plugin['author'].downcase + " (" + plugin['owner'].downcase + ")" : plugin['owner'].downcase ) }.uniq.sort
+  puts authors
+  puts "\n" + authors.size.to_s + " unique authors."
 end
 
 desc "Default: generate README.md from plugin"
