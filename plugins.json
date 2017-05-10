@@ -2694,5 +2694,15 @@
     "owner": "youwenliang",
     "name": "Table-of-Contents",
     "lastUpdated": "2017-04-28 15:50:07 UTC"
+  },
+  {
+    "title": "IconFlower",
+    "description": "Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.",
+    "author": "Avadh",
+    "owner": "avadhbsd",
+    "name": "IconFlower",
+    "title": "IconFlower",
+    "homepage": "https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6",
+    "lastUpdated": "2017-05-10 02:16:30 UTC"
   }
 ]

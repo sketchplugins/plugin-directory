@@ -115,6 +115,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [HTML Export](https://github.com/mludowise/sketch-html-export), by Mel Ludowise: Generates an HTML page of images from your artboard.
+- [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
 - [IconSlate](https://github.com/kodlian/iconslate-sketchplugin), by Jérémy Marchand: Export icons (icns,ico,...) from Sketch using Icon Slate.
 - [ImageExtractorSketch](https://github.com/mendyismyname/imageextractorsketch), by Mendy Seldowitz: Extract background fill image in Sketch
 - [Import Symbols](https://github.com/kmerc/sketch-import-symbols), by kmerc: Easily import symbols from another Sketch file
@@ -343,6 +344,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Turn your Sketch design into a live website.
 - [WordCloud](https://github.com/ediathome/WordCloud), by Martin Kolb: Create basic word clouds and tag clouds.
