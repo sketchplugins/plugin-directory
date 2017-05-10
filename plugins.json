@@ -506,14 +506,6 @@
     "lastUpdated": "2016-08-07 19:06:45 UTC"
   },
   {
-    "description": "Generates a typographic scale from selected text layers.",
-    "name": "sketch-plugin-typographic-scale",
-    "title": "Typographic Scale",
-    "author": "Henryk Wollik",
-    "owner": "automat",
-    "lastUpdated": "2014-10-07 11:08:32 UTC"
-  },
-  {
     "description": "Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.",
     "owner": "x-raizor",
     "author": "Andrew Shapiro",
@@ -754,8 +746,7 @@
     "owner": "preciousforever",
     "author": "precious design studio",
     "title": "Sketch Aspect Ratio",
-    "name": "sketch-aspect-ratio",
-    "lastUpdated": "2017-01-13 13:43:56 UTC"
+    "homepage": "https://github.com/preciousforever/sketch-aspect-ratio"
   },
   {
     "description": "A Sketch plugin for playing with seamless tiles.",
@@ -1710,11 +1701,10 @@
   },
   {
     "description": "A sketch plugin to support the open color file format",
-    "name": "sketch-opencolor",
     "title": "Open Color Plugin for Sketch",
     "owner": "opencolor-tools",
     "author": "OpenColor",
-    "lastUpdated": "2016-12-16 09:48:24 UTC"
+    "homepage": "http://opencolor.tools/"
   },
   {
     "description": "Multi step user flows in Framer.js",
@@ -1811,12 +1801,10 @@
   },
   {
     "description": "Automated and mathematically precise optical adjustments in Sketch.",
-    "name": "optically-sketch-plugin",
     "title": "Optically for Sketch",
     "author": "Vlad Danilov",
     "owner": "vmdanilov",
-    "homepage": "http://designplugins.com/optically",
-    "lastUpdated": "2016-06-15 07:05:26 UTC"
+    "homepage": "http://designplugins.com/optically"
   },
   {
     "description": "Extract background fill image in Sketch",
