@@ -413,6 +413,13 @@
     "lastUpdated": "2017-01-09 16:18:23 UTC"
   },
   {
+    "description": "Convert from Sketch to JSON w/assets and JSON w/assets to Sketch. ",
+    "owner": "littlebusters",
+    "title": "Sketch Exchanger",
+    "name": "Sketch-Exchanger",
+    "lastUpdated": "2017-05-11 14:30:54 UTC"
+  },
+  {
     "description": "A Sketch plugin that lets you preview your current artboard in the Dock.",
     "owner": "fnky",
     "author": "Christian Petersen",
