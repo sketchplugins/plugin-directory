@@ -105,6 +105,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Font Packer](https://github.com/bigxixi/font-packer), by Big XiXi: A Sketch plugin to collect font files you used in your sketch file.
 - [Font Size Checker](https://github.com/feb19/sketch-font-size-checker), by Nobuhiro Takahashi: Text Size Validator for iOS or Android UI Designers.
 - [FontFinder](https://github.com/ukn530/fontfinder), by Tatsuya Uchida: Sketch Plugin to find and select font items in a current page
+- [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [Foreign Ipsum](https://github.com/3raxton/foreignipsum), by Braxton Huff: Generate text for your mockups in multiple languages 🗺
 - [Formr](https://github.com/lessthanzero/formr), by Alexander Katin: Helps to maintain simple proportions of layers and artboards
 - [Frame Sequencer](https://github.com/dawidw/frame-sequencer), by Dawid Woźniak: Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
@@ -235,7 +236,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Icon Fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher), by Sagi Shrieber: This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design
 - [Sketch Image Average Color](https://github.com/antoniojmartinez/sketch-imageaveragecolor), by Antonio J. Martinez: A plugin to save and use the average color of an image.
 - [Sketch Image Replaste](https://github.com/mheesakkers/sketch-image-replaste), by Misha: A simple Sketch plugin for replacing images with your copied image of your clipboard.
-- [Sketch JSON Parser](https://github.com/kvendrik/sketch-json-parser), by Koen Vendrik: Replaces layer values in groups with JSON data
 - [Sketch Layer Comps](https://github.com/ozgurgunes/sketch-layer-comps), by Özgür Güneş: A plugin which saves and applies layer states to create different compositions of current page.
 - [Sketch Layer Tools](https://github.com/hrescak/sketch-layer-tools), by Matej Hrescak: A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.
 - [Sketch Lorem Ipsum 2017](https://github.com/freeauto/sketch-lorem-ipsum-2017), by Richard Gong: A Sketch plugin to generate "lorem ipsum" text.
@@ -348,6 +348,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [Design Systems](https://github.com/Ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
+- [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
 - [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
@@ -679,4 +680,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Align to Layer](https://github.com/rodi01/align-to-layer), by Rodrigo Soares: Sketch plugin to align selected layers to the bottom one.
 - [Toggle NoPrint](https://github.com/sudilkovsky/toggle-noprint-visibility-sketch-plugin), by Denis Sudilkovsky: Toggle Visibility of 'NoPrint' layers in Sketch
 - [ColorSwitch](https://github.com/lmwebdesign/sketch3-colorswitch), by Luis Martinez: Sketch 3 plugin for quickly switch border and fill colors with pre-defined palette.
-- [Sketch JSON Parser](https://github.com/kvendrik/sketch-json-parser), by Koen Vendrik: Replaces layer values in groups with JSON data

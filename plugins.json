@@ -2717,8 +2717,15 @@
     "author": "Avadh",
     "owner": "avadhbsd",
     "name": "IconFlower",
-    "title": "IconFlower",
     "homepage": "https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6",
     "lastUpdated": "2017-05-10 02:16:30 UTC"
+  },
+  {
+    "title": "Fontily",
+    "description": " Sketch plugin for finding & replacing fonts for Sketch 3+",
+    "author": "partyka1",
+    "owner": "partyka1",
+    "name": "Fontily",
+    "lastUpdated": "2017-05-16 03:58:25 UTC"
   }
 ]
