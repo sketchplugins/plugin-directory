@@ -2727,5 +2727,13 @@
     "owner": "partyka1",
     "name": "Fontily",
     "lastUpdated": "2017-05-16 03:58:25 UTC"
+  },
+  {
+    "title": "Sketch Copy Paste Layout Settings",
+    "description": "Copy layout settings from one artboard and paste into multiples artboards.",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "sketch-copy-paste-layout-settings",
+    "lastUpdated": "2017-05-17 08:27:19 UTC"
   }
 ]
