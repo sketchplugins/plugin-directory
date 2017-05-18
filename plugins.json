@@ -2735,5 +2735,13 @@
     "owner": "FrancisVega",
     "name": "sketch-copy-paste-layout-settings",
     "lastUpdated": "2017-05-17 08:27:19 UTC"
+  },
+  {
+    "title": "Skatter",
+    "description": " A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes. ",
+    "author": "Josh Djuric",
+    "owner": "joshdjuric",
+    "name": "Skatter",
+    "lastUpdated": "2017-05-18 04:51:58 UTC"
   }
 ]
