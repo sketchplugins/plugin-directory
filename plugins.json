@@ -2743,5 +2743,13 @@
     "owner": "joshdjuric",
     "name": "Skatter",
     "lastUpdated": "2017-05-18 04:51:58 UTC"
+  },
+  {
+    "title": "Freeman Finchart Sketchplugin",
+    "description": "Draw financial chart like candle-stick or line chart like a boss.",
+    "author": "freeman990",
+    "owner": "freeman990",
+    "name": "Freeman-FinChart-SketchPlugin",
+    "lastUpdated": "2017-04-19 07:30:11 UTC"
   }
 ]
