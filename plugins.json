@@ -2758,5 +2758,13 @@
     "owner": "canisminor1990",
     "name": "sketch-move-half-pixel",
     "lastUpdated": "2017-05-23 02:15:49 UTC"
+  },
+  {
+    "title": "Appalette",
+    "description": "A Sketch plugin that let you find the color palette of (almost) any App.",
+    "author": "Carlos Navarro",
+    "owner": "Carlosarturo28",
+    "name": "Appalette",
+    "lastUpdated": "2017-05-22 16:47:48 UTC"
   }
 ]
