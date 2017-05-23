@@ -5,7 +5,6 @@
     "name": "design-system",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "homepage": "https://github.com/Ashung/design-systems",
     "lastUpdated": "2017-05-16 08:20:00 UTC"
   },
   {
@@ -2751,5 +2750,13 @@
     "owner": "freeman990",
     "name": "Freeman-FinChart-SketchPlugin",
     "lastUpdated": "2017-04-19 07:30:11 UTC"
+  },
+  {
+    "title": "Sketch Move Half Pixel",
+    "description": "🐾 Move layers half pixel",
+    "author": "Canis Minor",
+    "owner": "canisminor1990",
+    "name": "sketch-move-half-pixel",
+    "lastUpdated": "2017-05-23 02:15:49 UTC"
   }
 ]
