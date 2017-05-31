@@ -192,6 +192,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [ScreenFork](https://github.com/screenfork/screenfork), by ScreenFork: ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix
 - [ScrollMotion](https://github.com/jonmmay/sketch-scrollmotion), by Jon May: Sketch plugin to export ScrollMotion
+- [Seca](https://github.com/igenius-srl/seca), by iGenius: Your friendly Sketch slicing helper for symbols
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: A plugin that creates a circle with a configurable number of segments.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
 - [Select By Name](https://github.com/sebj/select-by-name), by Seb Jachec: Selects all layers of the same name in Sketch.
@@ -351,6 +352,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Seca](https://github.com/igenius-srl/seca), by iGenius: Your friendly Sketch slicing helper for symbols
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [Skatter](https://github.com/joshdjuric/skatter), by Josh Djuric: A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
