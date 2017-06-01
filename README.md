@@ -333,7 +333,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Unsplash It](https://github.com/fhuel/unsplash-it-sketch), by Manuele Capacci: A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
 - [Update Text Layer Name](https://github.com/creatide/sketch_update-text-layer-name), by Creatide: Sketch plugin to update Text layer names from their own text values.
 - [Upload to CloudApp](https://github.com/delighted/sketch-upload-to-cloudapp), by Delighted Inc.: Upload to CloudApp: Upload the current artboard or page to CloudApp.
-- [Use Font Awesome](https://github.com/keremciu/sketch-use-fontawesome), by Kerem Sevencan: Font awesome plugin for sketch
 - [Use Icon Fonts in Sketch](https://github.com/keremciu/sketch-iconfont), by Kerem Sevencan: Use icon fonts in sketch
 - [User Flows](https://github.com/abynim/userflows), by Aby Nimbalkar: Generate user walkthroughs from Artboards in Sketch.
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
@@ -478,7 +477,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Unsplash It](https://github.com/fhuel/unsplash-it-sketch), by Manuele Capacci: A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
 - [Sketch Lorem Ipsum 2017](https://github.com/freeauto/sketch-lorem-ipsum-2017), by Richard Gong: A Sketch plugin to generate "lorem ipsum" text.
 - [Nudged](https://github.com/kevinwoodhouse/sketch-nudged), by Kevin Woodhouse: A Sketch plugin to easily edit your nudge distance settings.
-- [Use Font Awesome](https://github.com/keremciu/sketch-use-fontawesome), by Kerem Sevencan: Font awesome plugin for sketch
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
 - [Export Assets](https://github.com/geertwille/sketch-export-assets), by Geert Wille: A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.
 - [Bookmark 🔖](https://github.com/arkkimaagi/bookmark), by Mikko Tapionlinna: Bookmark your place and zoom in Sketch.app
