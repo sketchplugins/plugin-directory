@@ -29,41 +29,42 @@ json_data.each do |plugin|
   plugin_title = plugin['title'] || plugin_name
   plugin_owner = plugin['owner']
   plugin_author = plugin['author']
-  repo_name = plugin_author + '/' + plugin_name
 
   plugin_count += 1
 
-  puts "#{plugin_count} / #{total_plugin_count}"
+  puts "#{plugin_count} / #{total_plugin_count} : #{plugin_name}"
 
-  begin
-    repo = client.repo(repo_name)
-    updated_days_ago = ((Time.now - repo.pushed_at) / (60 * 60 * 24)).to_i
+  if plugin_name && plugin_owner
+    begin
+      repo_name = plugin_owner + '/' + plugin_name
+      repo = client.repo(repo_name)
+      updated_days_ago = ((Time.now - repo.pushed_at) / (60 * 60 * 24)).to_i
 
-    open('plugin-stats.md', 'a') { |f|
-      f.puts
-      f.puts "#{plugin_count}. [#{plugin_title}](https://github.com/#{repo_name})"
-      f.puts 
-      f.puts "  Last push:   #{repo.pushed_at} (#{updated_days_ago} days ago)"
-      if updated_days_ago > 900
-        f.puts "  FIXME: Remove this from directory"
-      end
-      f.puts "  Stars:       #{repo.stargazers_count}"
-      f.puts "  Open issues: #{repo.open_issues_count}"
-    }
+      open('plugin-stats.md', 'a') { |f|
+        f.puts
+        f.puts "#{plugin_count}. [#{plugin_title}](https://github.com/#{repo_name})"
+        f.puts 
+        f.puts "  Last push:   #{repo.pushed_at} (#{updated_days_ago} days ago)"
+        if updated_days_ago > 900
+          f.puts "  FIXME: Remove this from directory"
+        end
+        f.puts "  Stars:       #{repo.stargazers_count}"
+        f.puts "  Open issues: #{repo.open_issues_count}"
+      }
 
-    open('plugin-stats.csv', 'a') { |f|
-      f.puts "#{plugin_title},#{repo.pushed_at},#{repo.stargazers_count},#{repo.open_issues_count},https://github.com/#{repo_name}"
-    }
-
-  rescue
-    # puts "Plugin has no repo."
-    open('plugin-stats.md', 'a') { |f|
-      f.puts
-      f.puts "#{plugin_count}. #{repo_name}"
-      f.puts 
-      f.puts "  FIXME: #{repo_name} has no repo"
-      f.puts
-    }
+      open('plugin-stats.csv', 'a') { |f|
+        f.puts "#{plugin_title},#{repo.pushed_at},#{repo.stargazers_count},#{repo.open_issues_count},https://github.com/#{repo_name}"
+      }
+    rescue
+      # puts "Plugin has no repo."
+      open('plugin-stats.md', 'a') { |f|
+        f.puts
+        f.puts "#{plugin_count}. #{repo_name}"
+        f.puts 
+        f.puts "  FIXME: #{repo_name} has no repo"
+        f.puts
+      }
+    end
   end
   # #<Set: {:id, :name, :full_name, :owner, :private, :html_url, :description, :fork, :url, :forks_url, :keys_url, :collaborators_url, :teams_url, :hooks_url, :issue_events_url, :events_url, :assignees_url, :branches_url, :tags_url, :blobs_url, :git_tags_url, :git_refs_url, :trees_url, :statuses_url, :languages_url, :stargazers_url, :contributors_url, :subscribers_url, :subscription_url, :commits_url, :git_commits_url, :comments_url, :issue_comment_url, :contents_url, :compare_url, :merges_url, :archive_url, :downloads_url, :issues_url, :pulls_url, :milestones_url, :notifications_url, :labels_url, :releases_url, :deployments_url, :created_at, :updated_at, :pushed_at, :git_url, :ssh_url, :clone_url, :svn_url, :homepage, :size, :stargazers_count, :watchers_count, :language, :has_issues, :has_downloads, :has_wiki, :has_pages, :forks_count, :mirror_url, :open_issues_count, :forks, :open_issues, :watchers, :default_branch, :permissions, :network_count, :subscribers_count}>
 end

@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'json'
 require 'octokit'
+require './lib/plugin-directory-utils'
 
 GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
 USERNAME = `git config github.user`.strip
@@ -10,21 +11,6 @@ USERNAME = `git config github.user`.strip
 if ARGV[0].nil?
   puts "Usage: #{File.basename(__FILE__)} username/reponame"
   exit
-end
-
-IGNORE = %w(the of a and PS HTML UI SF px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner)
-
-def titlefy string
-  s = string.gsub('.sketchplugin','').gsub('-',' ').split(' ')
-  s.map do |word|
-    word_lowercase = word.downcase
-    if IGNORE.include?(word_lowercase)
-      word_lowercase
-    else
-      word.capitalize!
-    end
-  end
-  s.join(' ')
 end
 
 # First, update the local repo to avoid conflicts later on
