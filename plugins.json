@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).",
+    "name": "Reselect",
+    "title": "Reselect",
+    "owner": "mfouquet",
+    "author": "Michael Fouquet",
+    "homepage": "http://www.reselect.co",
+    "lastUpdated": "2017-06-05 12:30:22 UTC"
+  },
+  {
     "description": "Help you find out popular design systems and download official Sketch UI kit.",
     "title": "Design Systems",
     "name": "design-systems",
