@@ -767,10 +767,10 @@
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
-    "owner": "preciousforever",
-    "author": "precious design studio",
+    "name": "sketch-aspect-ratio",
     "title": "Sketch Aspect Ratio",
-    "homepage": "https://github.com/preciousforever/sketch-aspect-ratio"
+    "author": "precious design studio",
+    "owner": "preciousforever"
   },
   {
     "description": "A Sketch plugin for playing with seamless tiles.",
@@ -2775,5 +2775,13 @@
     "owner": "iGenius-Srl",
     "name": "Seca",
     "lastUpdated": "2017-05-26 13:54:41 UTC"
+  },
+  {
+    "title": "Sync To Slides",
+    "description": "Sync your Sketch artboards to Google Slides with ease",
+    "author": "Siddhartha",
+    "owner": "websiddu",
+    "name": "sync-to-slides",
+    "lastUpdated": "2017-06-07 01:17:43 UTC"
   }
 ]
