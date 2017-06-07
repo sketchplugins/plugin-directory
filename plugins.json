@@ -2778,10 +2778,11 @@
   },
   {
     "title": "Sync To Slides",
-    "description": "Sync your Sketch artboards to Google Slides with ease",
+    "description": "Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step",
     "author": "Siddhartha",
     "owner": "websiddu",
     "name": "sync-to-slides",
+    "homepage": "https://websiddu.github.io/sync-to-slides/",
     "lastUpdated": "2017-06-07 01:17:43 UTC"
   }
 ]
