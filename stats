@@ -53,7 +53,7 @@ json_data.each do |plugin|
       }
 
       open('plugin-stats.csv', 'a') { |f|
-        f.puts "#{plugin_title},#{repo.pushed_at},#{repo.stargazers_count},#{repo.open_issues_count},https://github.com/#{repo_name}"
+        f.puts "#{plugin_title.gsub(',','')},#{repo.pushed_at},#{repo.stargazers_count},#{repo.open_issues_count},https://github.com/#{repo_name}"
       }
     rescue
       # puts "Plugin has no repo."
