@@ -1,5 +1,14 @@
 [
   {
+    "description": "Automatically resize spacing symbols to correct size when changing to different one",
+    "name": "symbol-spacer-sketch-plugin",
+    "title": "Symbol Spacer Sketch Plugin",
+    "owner": "novemberfiveco",
+    "author": "Geert Wille",
+    "homepage": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin",
+    "lastUpdated": "2017-06-10 12:30:22 UTC"
+  },
+  {
     "description": "Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).",
     "name": "Reselect",
     "title": "Reselect",
