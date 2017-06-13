@@ -1,5 +1,14 @@
 [
   {
+    "description": "Generate complex organic super-shapes using super formula.",
+    "name": "super-shpaes",
+    "title": "Super Shapes",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/super-shapes",
+    "lastUpdated": "2017-06-12 12:30:22 UTC"
+  },
+  {
     "description": "Automatically resize spacing symbols to correct size when changing to different one",
     "name": "symbol-spacer-sketch-plugin",
     "title": "Symbol Spacer Sketch Plugin",
