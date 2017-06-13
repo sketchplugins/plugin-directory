@@ -2592,7 +2592,7 @@
     "lastUpdated": "2017-03-06 19:16:58 UTC"
   },
   {
-    "description": "A Sketch plugin to count: characters, words, whitespace, and paragraphs",
+    "description": "A plugin for Sketch to convert selected layers to individual symbols.",
     "name": "sketch-batch-create-symbols",
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",

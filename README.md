@@ -29,7 +29,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Base64 PNG Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
-- [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A Sketch plugin to count: characters, words, whitespace, and paragraphs
+- [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
 - [Bookmark 🔖](https://github.com/arkkimaagi/bookmark), by Mikko Tapionlinna: Bookmark your place and zoom in Sketch.app
@@ -363,8 +363,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [Skatter](https://github.com/joshdjuric/skatter), by Josh Djuric: A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
 - [Sketch Copy Paste Layout Settings](https://github.com/francisvega/sketch-copy-paste-layout-settings), by Francis: Copy layout settings from one artboard and paste into multiples artboards.
-- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
+- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
 - [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
@@ -458,7 +458,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sheetie](https://github.com/joemanto/sheetie), by Joe Manto: Sketch 3 Plugin that makes a SpriteSheets to export or use
 - [Relabel Button](https://github.com/kenmoore/sketch-relabel-button), by Ken Moore: Update a button's label and it gets resized automatically, preserving existing padding.
 - [StickyGrid](https://github.com/uetchy/sketch-stickygrid), by Yasuaki Uechi: Sketch plugin to make paths be snapped to grid.
-- [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A Sketch plugin to count: characters, words, whitespace, and paragraphs
+- [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
 - [Modulizer](https://github.com/falkeyn/modulizer), by Alexander Khramtsov: Modulizer plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes.
 - [Radial Lines](https://github.com/herrhelms/radial-lines-sketch), by herrhelms: Generate lines originating from a certain coordinate of an artboard.
 - [Comma](https://github.com/margusholland/comma), by Margus Holland: Sketch plugin for text modifications
