@@ -2802,5 +2802,13 @@
     "name": "sync-to-slides",
     "homepage": "https://websiddu.github.io/sync-to-slides/",
     "lastUpdated": "2017-06-07 01:17:43 UTC"
+  },
+  {
+    "title": "Sketch Search Everywhere",
+    "description": "Search layer and select it, by matching textValue, name or ObjectID.",
+    "author": "捻捻转儿",
+    "owner": "MrPeak",
+    "name": "sketch-search-everywhere",
+    "lastUpdated": "2017-06-18 14:24:58 UTC"
   }
 ]
