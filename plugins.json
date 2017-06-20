@@ -1,5 +1,14 @@
 [
   {
+    "description": "Generate palette stripes in sketch from shape fills.",
+    "name": "palette-stripes",
+    "title": "Palette Stripes",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/palette-stripes",
+    "lastUpdated": "2017-06-19 12:30:22 UTC"
+  },
+  {
     "description": "Generate complex organic super-shapes using super formula.",
     "name": "super-shpaes",
     "title": "Super Shapes",

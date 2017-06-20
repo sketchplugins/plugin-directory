@@ -148,6 +148,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Organize Symbols](https://github.com/marianomike/sketch-organizesymbols), by Mike Mariano: Sketch plugin that arranges symbol artboards
 - [Page Numbers](https://github.com/gotomedia/sketch-pagenumbers), by gotomedia: Sketch plugin for adding page numbers to artboards.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
+- [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
 - [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [Perfecter](https://github.com/volorf/perfecter), by Oleg Frolov: Make great typography [Sketch plugin]
@@ -353,6 +354,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Sketch Search Everywhere](https://github.com/mrpeak/sketch-search-everywhere), by 捻捻转儿: Search layer and select it, by matching textValue, name or ObjectID.
 - [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
 - [Symbol Spacer Sketch Plugin](https://github.com/novemberfiveco/symbol-spacer-sketch-plugin), by Geert Wille: Automatically resize spacing symbols to correct size when changing to different one
@@ -363,8 +365,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [Skatter](https://github.com/joshdjuric/skatter), by Josh Djuric: A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
 - [Sketch Copy Paste Layout Settings](https://github.com/francisvega/sketch-copy-paste-layout-settings), by Francis: Copy layout settings from one artboard and paste into multiples artboards.
-- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
+- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
 - [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
