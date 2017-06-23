@@ -2819,5 +2819,13 @@
     "owner": "MrPeak",
     "name": "sketch-search-everywhere",
     "lastUpdated": "2017-06-18 14:24:58 UTC"
+  },
+  {
+    "title": "Sketch Show Layer Info",
+    "description": "Show selected layer's ObjectID, Class and ID. It is of great use for plugin development or file parsing.",
+    "author": "捻捻转儿",
+    "owner": "MrPeak",
+    "name": "sketch-show-layer-info",
+    "lastUpdated": "2017-06-23 17:59:06 UTC"
   }
 ]
