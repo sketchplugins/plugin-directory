@@ -1,6 +1,6 @@
 [
   {
-    "description": "CanvasFlip Sketch Plugin.",
+    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
     "name": "canvasflip_sketch_sync",
     "title": "CanvasFlip",
     "owner": "canvasflip",
