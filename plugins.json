@@ -2836,5 +2836,13 @@
     "owner": "MrPeak",
     "name": "sketch-show-layer-info",
     "lastUpdated": "2017-06-23 17:59:06 UTC"
+  },
+  {
+    "title": "Numbering Machine",
+    "description": "Sketch plugin to generate IDs or Numbers for documents and export to PDF. Useful if you need to generate thousands pages with same template but with different IDs.",
+    "author": "Andrey Kolpakov",
+    "owner": "akolpakov",
+    "name": "sketch-numbering-machine",
+    "lastUpdated": "2017-06-29 09:00:00 UTC"
   }
 ]
