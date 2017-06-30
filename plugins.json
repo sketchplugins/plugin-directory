@@ -2844,5 +2844,14 @@
     "owner": "akolpakov",
     "name": "sketch-numbering-machine",
     "lastUpdated": "2017-06-29 09:00:00 UTC"
+  },
+  {
+    "description": "Add, share and discuss your Sketch artboards with the team in RealtimeBoard. The plugin allow to sync the artboards with the boards in one click",
+    "name": "RealtimeBoard-plugin-for-Sketch",
+    "title": "RealtimeBoard plugin for Sketch",
+    "owner": "RealtimeBoard",
+    "author": "RealtimeBoard",
+    "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
+    "lastUpdated": "2017-06-30 08:56:00 UTC"
   }
 ]
