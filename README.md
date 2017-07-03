@@ -386,6 +386,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Wanderer](https://github.com/turbobabr/sketch-wanderer), by Andrey Shakhmin: Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.
 - [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
 - [webalize](https://github.com/vesely/webalize), by David Veselý: Sketch plugin to webalize layers name.
+- [WeSketch](https://github.com/weixin/WeSketch), by Tencent Wechat Team: A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing
 - [Workflow Sketch Plugins](https://github.com/vrjbndr/select-next-artboard), by Viraj Bindra: A collection of useful workflow plugins, including automating selecting and zooming in on next/previous artboards.
 - [Xport](https://github.com/abynim/xport), by Aby Nimbalkar: A Sketch Plugin to export image assets directly to Xcode
 - [ZEN Sketch](https://github.com/francisvega/zen-sketch), by Francis Vega: A collection of Sketch plugins

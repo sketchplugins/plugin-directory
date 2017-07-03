@@ -1,5 +1,13 @@
 [
   {
+    "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing",
+    "name": "WeSketch",
+    "title": "WeSketch",
+    "homepage": "https://github.com/weixin/WeSketch",
+    "author": "Tencent Wechat Team",
+    "owner": "weixin"
+  },
+  {
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
     "name": "LayerRenamer",
     "title": "LayerRenamer",
