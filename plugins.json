@@ -1,5 +1,14 @@
 [
   {
+    "description": "A plugin to create HTML based preview and gallery straight from sketch artboards",
+    "name": "NeoPreview",
+    "title": "NeoPreview",
+    "owner": "alanfraneo",
+    "author": "Alan Francis",
+    "homepage": "https://github.com/alanfraneo/sketch-neo-preview",
+    "lastUpdated": "2017-07-03 19:30:30 UTC"
+  },
+  {
     "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
     "name": "WeSketch",
     "title": "WeSketch",
