@@ -1,5 +1,14 @@
 [
   {
+    "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
+    "name": "WeSketch",
+    "title": "WeSketch",
+    "owner": "weixin",
+    "author": "Tencent Wechat Team",
+    "homepage": "https://github.com/weixin/WeSketch",
+    "lastUpdated": "2017-07-03 10:30:30 UTC"
+  },
+  {
     "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
     "name": "canvasflip_sketch_sync",
     "title": "CanvasFlip",
