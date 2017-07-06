@@ -1180,14 +1180,6 @@
     "lastUpdated": "2015-08-12 18:57:51 UTC"
   },
   {
-    "description": "Plugin to create motion designs in Sketch",
-    "name": "Sketch-Motion",
-    "title": "Sketch Motion",
-    "author": "Nicholas Wallen",
-    "owner": "nwallen",
-    "lastUpdated": "2015-08-12 06:59:10 UTC"
-  },
-  {
     "description": "Sketch all caps plugin",
     "name": "Sketch-All-Caps",
     "title": "Sketch All Caps",
