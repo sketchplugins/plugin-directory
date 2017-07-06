@@ -2871,5 +2871,13 @@
     "author": "RealtimeBoard",
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "lastUpdated": "2017-06-30 08:56:00 UTC"
+  },
+  {
+    "title": "ImageOptim Sketch Plugin",
+    "description": "ImageOptim plugin for the Sketch app",
+    "author": "ImageOptim",
+    "owner": "ImageOptim",
+    "name": "sketch-plugin",
+    "lastUpdated": "2017-07-04 19:01:14 UTC"
   }
 ]
