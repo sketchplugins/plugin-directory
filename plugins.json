@@ -1172,14 +1172,6 @@
     "lastUpdated": "2015-08-13 05:41:32 UTC"
   },
   {
-    "description": "Sketch plugin that generates Objective-C Color Theme files.",
-    "name": "Sketch-Color-Theme-Plugin",
-    "title": "Sketch Color Theme Plugin",
-    "author": "Alejandro Martínez",
-    "owner": "alexito4",
-    "lastUpdated": "2015-08-12 18:57:51 UTC"
-  },
-  {
     "description": "Sketch all caps plugin",
     "name": "Sketch-All-Caps",
     "title": "Sketch All Caps",
