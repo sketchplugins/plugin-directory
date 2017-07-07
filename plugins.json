@@ -1173,22 +1173,6 @@
     "lastUpdated": "2015-08-17 16:29:42 UTC"
   },
   {
-    "description": "A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic",
-    "name": "Sketch-NibUITemplatePlugin",
-    "title": "Sketch Nib UI Template Plugin",
-    "author": "Roman Nurik",
-    "owner": "romannurik",
-    "lastUpdated": "2015-08-13 05:41:32 UTC"
-  },
-  {
-    "description": "Sketch all caps plugin",
-    "name": "Sketch-All-Caps",
-    "title": "Sketch All Caps",
-    "author": "Eivind Bøhler",
-    "owner": "eivindbohler",
-    "lastUpdated": "2015-08-08 07:07:33 UTC"
-  },
-  {
     "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
     "name": "Unsplash-It-Sketch",
     "title": "Unsplash It",
