@@ -1,5 +1,14 @@
 [
   {
+    "description": "Add single borders with advanced controls.",
+    "name": "single-border",
+    "title": "Single Border",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/single-border",
+    "lastUpdated": "2017-07-06 19:30:30 UTC"
+  },
+  {
     "description": "A plugin to create HTML based preview and gallery straight from sketch artboards",
     "name": "NeoPreview",
     "title": "NeoPreview",

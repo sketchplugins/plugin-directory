@@ -213,6 +213,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles), by Nils Hoenson: Easily import and export your Text Styles in Sketch.
 - [Sharpen Images](https://github.com/axmsv/sharpen-images-sketch), by axmsv: Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.
 - [Sheetie](https://github.com/joemanto/sheetie), by Joe Manto: Sketch 3 Plugin that makes a SpriteSheets to export or use
+- [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [SizeArtboard](https://github.com/brendanmiller/sizeartboard), by brendan miller: Sketch Plugin for wrapping a new artboard around what you've selected
 - [Skatter](https://github.com/joshdjuric/skatter), by Josh Djuric: A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
 - [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
@@ -257,7 +258,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Sketch Navigator](https://github.com/arshad/sketch-navigator), by Arshad Chummun: Artboard navigation (with autocomplete) for Sketch
 - [Sketch Nearest 8](https://github.com/acollurafici/sketch-nearest-8), by Anthony Collurafici: Sketch Plugin to round shape size to the nearest multiple of 8
-- [Sketch Nib UI Template Plugin](https://github.com/romannurik/sketch-nibuitemplateplugin), by Roman Nurik: A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic
 - [Sketch Notebook](http://marcosvid.al/sketch-notebook), by Marcos Vidal: Sketch Plugin to make documenting design easier.
 - [Sketch Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
@@ -358,6 +358,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [ImageOptim Sketch Plugin](https://github.com/imageoptim/sketch-plugin), by ImageOptim: ImageOptim plugin for the Sketch app
 - [NeoPreview](https://github.com/alanfraneo/sketch-neo-preview), by Alan Francis: A plugin to create HTML based preview and gallery straight from sketch artboards
 - [WeSketch](https://github.com/weixin/WeSketch), by Tencent Wechat Team: A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.
@@ -376,8 +377,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [Skatter](https://github.com/joshdjuric/skatter), by Josh Djuric: A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
 - [Sketch Copy Paste Layout Settings](https://github.com/francisvega/sketch-copy-paste-layout-settings), by Francis: Copy layout settings from one artboard and paste into multiples artboards.
-- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
+- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
 - [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
@@ -703,4 +704,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Corner Radius Shortcuts Plugin for Sketch](https://github.com/arjenvr/sketch-radius), by Arjen van Reeven: Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 - [Frame Sequencer](https://github.com/dawidw/frame-sequencer), by Dawid Woźniak: Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
 - [FindSlice](https://github.com/atomkirk/find-slice-sketch-plugin), by Adam Kirk: List all exportable layers/slices and navigate to selection.
-- [Sketch Nib UI Template Plugin](https://github.com/romannurik/sketch-nibuitemplateplugin), by Roman Nurik: A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic
