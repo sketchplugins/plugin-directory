@@ -1184,8 +1184,8 @@
     "description": "Sketch 3 plugin to do a simple find and replace on text within layers",
     "name": "Sketch-Find-And-Replace",
     "title": "Find And Replace",
-    "author": "Martin Steven",
-    "owner": "mscodemonkey",
+    "author": "Martin Steven. Maintained by Thierry Charbonnel",
+    "owner": "thierryc",
     "lastUpdated": "2017-02-15 20:12:57 UTC"
   },
   {
