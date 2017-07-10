@@ -2854,5 +2854,13 @@
     "owner": "ImageOptim",
     "name": "sketch-plugin",
     "lastUpdated": "2017-05-11 21:51:32 UTC"
+  },
+  {
+    "title": "Images Reinvented",
+    "description": "A better way to use images in Sketch.",
+    "author": "Matthias Martin",
+    "owner": "roydigerhund",
+    "name": "Images-Reinvented",
+    "lastUpdated": "2017-04-17 17:15:54 UTC"
   }
 ]
