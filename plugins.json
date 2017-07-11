@@ -2862,5 +2862,13 @@
     "owner": "roydigerhund",
     "name": "Images-Reinvented",
     "lastUpdated": "2017-04-17 17:15:54 UTC"
+  },
+  {
+    "title": "giancartboard",
+    "description": "Sketch plugin to export artboards in folders automatically numbered",
+    "author": "Matteo Vacca",
+    "owner": "MattCowBoy",
+    "name": "giancartboard",
+    "lastUpdated": "2017-07-05 14:34:55 UTC"
   }
 ]
