@@ -1163,14 +1163,6 @@
     "lastUpdated": "2017-04-17 15:53:22 UTC"
   },
   {
-    "description": "List all exportable layers/slices and navigate to selection.",
-    "name": "Find-Slice-Sketch-Plugin",
-    "title": "FindSlice",
-    "author": "Adam Kirk",
-    "owner": "atomkirk",
-    "lastUpdated": "2015-08-17 16:29:42 UTC"
-  },
-  {
     "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
     "name": "Unsplash-It-Sketch",
     "title": "Unsplash It",
