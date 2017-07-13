@@ -2870,5 +2870,13 @@
     "owner": "stevenfabre",
     "name": "Gifmock-for-Sketch",
     "lastUpdated": "2017-07-12 07:37:52 UTC"
+  },
+  {
+    "title": "Logodrop",
+    "description": "A Sketch Plugin to get brand logos right into Sketch App.",
+    "author": "Iconscout",
+    "owner": "Iconscout",
+    "name": "logodrop",
+    "lastUpdated": "2017-07-13 04:27:01 UTC"
   }
 ]
