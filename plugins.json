@@ -2878,5 +2878,13 @@
     "owner": "Iconscout",
     "name": "logodrop",
     "lastUpdated": "2017-07-13 04:27:01 UTC"
+  },
+  {
+    "title": "Sketch Material",
+    "description": "Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc… ",
+    "author": "Siddhartha Gudipati",
+    "owner": "websiddu",
+    "name": "sketch-material",
+    "lastUpdated": "2017-07-16 04:27:01 UTC"
   }
 ]
