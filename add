@@ -1,25 +1,16 @@
 #!/usr/bin/env ruby
 require 'json'
 require 'octokit'
+require './lib/plugin-directory-utils'
+
+GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
+USERNAME = `git config github.user`.strip
+
+# TODO: add to Rakefile
 
 if ARGV[0].nil?
   puts "Usage: #{File.basename(__FILE__)} username/reponame"
   exit
-end
-
-IGNORE = %w(the of a and)
-
-def titlefy string
-  s = string.gsub('.sketchplugin','').gsub('-',' ').split(' ')
-  s.map do |word|
-    word_lowercase = word.downcase
-    if IGNORE.include?(word_lowercase)
-      word_lowercase
-    else
-      word.capitalize!
-    end
-  end
-  s.join(' ')
 end
 
 # First, update the local repo to avoid conflicts later on
@@ -36,7 +27,7 @@ plugin_url = ARGV[0]
 owner = plugin_url.split("/")[0]
 name  = plugin_url.split("/")[1]
 
-client = Octokit::Client.new
+client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
 repo = client.repo(plugin_url)
 user = client.user(owner)
 
