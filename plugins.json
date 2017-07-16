@@ -2878,5 +2878,13 @@
     "owner": "Iconscout",
     "name": "logodrop",
     "lastUpdated": "2017-07-13 04:27:01 UTC"
+  },
+  {
+    "description": "Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.",
+    "name": "Google-sheets-content-sync-sketch-plugin",
+    "title": "Google Sheets Content Sync",
+    "owner": "DWilliames",
+    "author": "David Williames",
+    "lastUpdated": "2017-07-16 12:14:23 UTC"
   }
 ]
