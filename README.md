@@ -66,7 +66,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy Swift Code](https://github.com/ngs/sketchplugin-swift-color), by Atsushi NAGASE: A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.
 - [Copy to All](https://github.com/wuwa/sketch-copy-to-all), by Ben Benhorin: sketch - copy to all artboards plugin
 - [CopyColor](https://github.com/poyi/copycolor), by Poyi: Plugin that provides shortcut to copy layer fill color, border color, or text color to your clipboard for Sketch 4
-- [Corner Radius Shortcuts Plugin for Sketch](https://github.com/arjenvr/sketch-radius), by Arjen van Reeven: Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
 - [Cover Artboard](https://github.com/sebj/cover-artboard), by Seb Jachec: Resizes the selected layer to cover its containing artboard in Sketch.
 - [CSS Sprite Mixin](https://github.com/littlebusters/sketch-css-sprite-mixin), by littlebusters: Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.
 - [CSSketch](https://github.com/johncoates/cssketch), by John Coates: CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.
@@ -107,7 +106,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [Foreign Ipsum](https://github.com/3raxton/foreignipsum), by Braxton Huff: Generate text for your mockups in multiple languages 🗺
 - [Formr](https://github.com/lessthanzero/formr), by Alexander Katin: Helps to maintain simple proportions of layers and artboards
-- [Frame Sequencer](https://github.com/dawidw/frame-sequencer), by Dawid Woźniak: Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
 - [Framer Inventory 2.0 for Sketch](http://timurnurutdinov.github.io/framerinventory/), by Timur Nurutdinov: Sketch plugin to generate FramerJS prototypes. Just have your motion done.
 - [Freeman Finchart Sketchplugin](https://github.com/freeman990/freeman-finchart-sketchplugin), by freeman990: Draw financial chart like candle-stick or line chart like a boss.
 - [Get Margins](https://github.com/peterwooley/get-margins), by Peter Wooley: Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.
@@ -256,6 +254,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Marginbox](https://github.com/francisvega/sketch-marginbox), by Francis: Simple scritp to create layers as margins
 - [Sketch Markup Listify](https://github.com/marisaroque/sketch-markup-listify), by Marisa Roque: Sketch plugin for convert and copy text layers into HTML lists.
 - [Sketch Mate](https://github.com/getflourish/sketch-mate), by Florian Schulz: These plugins will make you best friends with Sketch.
+- [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
 - [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
@@ -362,6 +361,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [Logodrop](https://github.com/iconscout/logodrop), by Iconscout: A Sketch Plugin to get brand logos right into Sketch App.
 - [Gifmock For Sketch](https://github.com/stevenfabre/gifmock-for-sketch), by Steven Fabre: Easily create GIFs from your mocks
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
@@ -711,5 +711,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Layer Comps](https://github.com/ozgurgunes/sketch-layer-comps), by Özgür Güneş: A plugin which saves and applies layer states to create different compositions of current page.
 - [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
 - [Mosaic](https://github.com/tomorrowkey/sketch3-mosaic-plugin), by Tomoki Yamashita: A plugin for Sketch3 to apply mosaic easily.
-- [Corner Radius Shortcuts Plugin for Sketch](https://github.com/arjenvr/sketch-radius), by Arjen van Reeven: Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.
-- [Frame Sequencer](https://github.com/dawidw/frame-sequencer), by Dawid Woźniak: Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.
