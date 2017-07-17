@@ -2864,6 +2864,15 @@
     "lastUpdated": "2017-07-13 04:27:01 UTC"
   },
   {
+    "title": "Moodboard Builder ",
+    "description": "A streamlined Sketch plugin for creating moodboards quickly and easily. Just do a search, check the suitable images, and - voila -  you have a beautiful moodboard. Keep inspired! 💡",
+    "author": "Reinvently",
+    "owner": "Reinvently",
+    "name": "moodboards-sketch-plugin",
+    "homepage": "http://reinvently.com/moodboard-builder-sketch-plugin/",
+    "lastUpdated": "2017-07-13 06:30:01 UTC"
+  },
+  {
     "description": "Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.",
     "name": "Google-sheets-content-sync-sketch-plugin",
     "title": "Google Sheets Content Sync",
