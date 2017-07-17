@@ -145,12 +145,12 @@
     "lastUpdated": "2017-06-22 14:23:52 UTC"
   },
   {
-    "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
+    "description": "Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)",
     "name": "LayerRenamer",
     "title": "Layer Renamer",
     "author": "Leonard Pauli",
     "owner": "LeonardPauli",
-    "lastUpdated": "2017-02-07 10:34:02 UTC"
+    "lastUpdated": "2017-07-17 15:00:00 UTC"
   },
   {
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
