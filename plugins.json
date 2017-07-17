@@ -1040,14 +1040,6 @@
     "lastUpdated": "2017-04-09 09:20:21 UTC"
   },
   {
-    "description": "Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
-    "name": "sketch-radius",
-    "title": "Corner Radius Shortcuts Plugin for Sketch",
-    "author": "Arjen van Reeven",
-    "owner": "arjenvr",
-    "lastUpdated": "2015-08-22 21:02:54 UTC"
-  },
-  {
     "description": "State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.",
     "name": "statemachine-sketch",
     "title": "State Machine",
@@ -1146,14 +1138,6 @@
     "author": "Aby Nimbalkar",
     "owner": "abynim",
     "lastUpdated": "2016-11-14 08:11:14 UTC"
-  },
-  {
-    "description": "Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.",
-    "name": "frame-sequencer",
-    "title": "Frame Sequencer",
-    "author": "Dawid Woźniak",
-    "owner": "dawidw",
-    "lastUpdated": "2015-08-20 14:06:10 UTC"
   },
   {
     "description": "Sketch Plugin to generate iOS view code",
