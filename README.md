@@ -113,6 +113,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Gifmock For Sketch](https://github.com/stevenfabre/gifmock-for-sketch), by Steven Fabre: Easily create GIFs from your mocks
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Line Height](https://github.com/lorenzwoehr/golden-ratio-line-height-sketch-plugin), by Lorenz Wöhr: Optimize your typography based on font size, line-height and width.
+- [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
 - [Gridy](https://github.com/volorf/gridy), by Oleg Frolov: An easy way creating guidelines
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
@@ -254,12 +255,14 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Marginbox](https://github.com/francisvega/sketch-marginbox), by Francis: Simple scritp to create layers as margins
 - [Sketch Markup Listify](https://github.com/marisaroque/sketch-markup-listify), by Marisa Roque: Sketch plugin for convert and copy text layers into HTML lists.
 - [Sketch Mate](https://github.com/getflourish/sketch-mate), by Florian Schulz: These plugins will make you best friends with Sketch.
+- [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
 - [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Sketch Navigator](https://github.com/arshad/sketch-navigator), by Arshad Chummun: Artboard navigation (with autocomplete) for Sketch
 - [Sketch Nearest 8](https://github.com/acollurafici/sketch-nearest-8), by Anthony Collurafici: Sketch Plugin to round shape size to the nearest multiple of 8
 - [Sketch Notebook](http://marcosvid.al/sketch-notebook), by Marcos Vidal: Sketch Plugin to make documenting design easier.
+- [Sketch Number Artboards](https://github.com/mmasonlee/sketch-number-artboards), by Mason Lee: Sketch plugin to number artboards in order
 - [Sketch Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
 - [Sketch Pixel Cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by Stackdevelopment: A plugin for Sketch to fix all of those partial pixels
@@ -361,6 +364,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 ## Sorted by last update (newest on top)
 
 - [Layer Renamer](https://github.com/leonardpauli/layerrenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)
+- [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
+- [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
+- [Sketch Number Artboards](https://github.com/mmasonlee/sketch-number-artboards), by Mason Lee: Sketch plugin to number artboards in order
 - [Logodrop](https://github.com/iconscout/logodrop), by Iconscout: A Sketch Plugin to get brand logos right into Sketch App.
 - [Gifmock For Sketch](https://github.com/stevenfabre/gifmock-for-sketch), by Steven Fabre: Easily create GIFs from your mocks
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
