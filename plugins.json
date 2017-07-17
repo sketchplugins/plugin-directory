@@ -1040,14 +1040,6 @@
     "lastUpdated": "2017-04-09 09:20:21 UTC"
   },
   {
-    "description": "Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
-    "name": "sketch-radius",
-    "title": "Corner Radius Shortcuts Plugin for Sketch",
-    "author": "Arjen van Reeven",
-    "owner": "arjenvr",
-    "lastUpdated": "2015-08-22 21:02:54 UTC"
-  },
-  {
     "description": "State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.",
     "name": "statemachine-sketch",
     "title": "State Machine",
@@ -1146,14 +1138,6 @@
     "author": "Aby Nimbalkar",
     "owner": "abynim",
     "lastUpdated": "2016-11-14 08:11:14 UTC"
-  },
-  {
-    "description": "Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.",
-    "name": "frame-sequencer",
-    "title": "Frame Sequencer",
-    "author": "Dawid Woźniak",
-    "owner": "dawidw",
-    "lastUpdated": "2015-08-20 14:06:10 UTC"
   },
   {
     "description": "Sketch Plugin to generate iOS view code",
@@ -2886,5 +2870,21 @@
     "owner": "DWilliames",
     "author": "David Williames",
     "lastUpdated": "2017-07-16 12:14:23 UTC"
+  },
+  {
+    "title": "Sketch Material",
+    "description": "Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc… ",
+    "author": "Siddhartha Gudipati",
+    "owner": "websiddu",
+    "name": "sketch-material",
+    "lastUpdated": "2017-07-16 04:27:01 UTC"
+  },
+  {
+    "title": "Sketch Number Artboards",
+    "description": "Sketch plugin to number artboards in order",
+    "author": "Mason Lee",
+    "owner": "mmasonlee",
+    "name": "sketch-number-artboards",
+    "lastUpdated": "2017-07-14 00:03:43 UTC"
   }
 ]
