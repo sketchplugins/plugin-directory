@@ -2870,5 +2870,13 @@
     "owner": "websiddu",
     "name": "sketch-material",
     "lastUpdated": "2017-07-16 04:27:01 UTC"
+  },
+  {
+    "title": "Sketch Number Artboards",
+    "description": "Sketch plugin to number artboards in order",
+    "author": "Mason Lee",
+    "owner": "mmasonlee",
+    "name": "sketch-number-artboards",
+    "lastUpdated": "2017-07-14 00:03:43 UTC"
   }
 ]
