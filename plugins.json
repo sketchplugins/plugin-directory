@@ -2895,5 +2895,13 @@
     "owner": "mmasonlee",
     "name": "sketch-number-artboards",
     "lastUpdated": "2017-07-14 00:03:43 UTC"
+  },
+  {
+    "title": "Sketchplugin Align Artboards",
+    "description": "Easily aligns all artboards vertical or horizontal by name. Uses the same convention as 'Sketch export folder structure 'parent/child'.",
+    "author": "Doub.co",
+    "owner": "doubco",
+    "name": "sketchplugin-align-artboards",
+    "lastUpdated": "2017-07-03 06:57:58 UTC"
   }
 ]
