@@ -2903,5 +2903,12 @@
     "owner": "doubco",
     "name": "sketchplugin-align-artboards",
     "lastUpdated": "2017-07-03 06:57:58 UTC"
+  },
+  {
+    "title": "skpm-test",
+    "name": "skpm-test",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/skpm-test/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/skpm-test"
   }
 ]
