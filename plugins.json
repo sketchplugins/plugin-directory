@@ -2911,5 +2911,13 @@
     "owner": "iconscout",
     "name": "icondrop",
     "lastUpdated": "2017-07-24 14:03:41 UTC"
+  },
+  {
+    "title": "test",
+    "name": "sketch-test",
+    "owner": "mcansh",
+    "appcast": "https://raw.githubusercontent.com/mcansh/sketch-test/master/.appcast.xml",
+    "homepage": "https://github.com/mcansh/sketch-test",
+    "author": "Logan McAnsh"
   }
 ]
