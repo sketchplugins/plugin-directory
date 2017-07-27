@@ -1,4 +1,12 @@
 [
+	{
+    "description": "Dynamic color relations in Sketch.",
+    "name": "Chain",
+    "owner": "LaloMrtnz",
+    "author": "Lalo Mrtnz",
+    "homepage": "https://lalomrtnz.github.io/Chain/",
+    "lastUpdated": "2017-07-27 23:1:43 UTC"
+  },
   {
     "description": "Add single borders with advanced controls.",
     "name": "single-border",
