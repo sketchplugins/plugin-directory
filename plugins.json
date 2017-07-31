@@ -1,5 +1,5 @@
 [
-	{
+  {
     "description": "Dynamic color relations in Sketch.",
     "name": "Chain",
     "owner": "LaloMrtnz",
@@ -2919,5 +2919,13 @@
     "owner": "iconscout",
     "name": "icondrop",
     "lastUpdated": "2017-07-24 14:03:41 UTC"
+  },
+  {
+    "title": "Lists.design",
+    "description": "Populate text layers with realistic data from Lists.design",
+    "author": "Rafael E. Belliard",
+    "owner": "rebelliard",
+    "name": "sketch-plugin-lists.design",
+    "lastUpdated": "2017-07-31 07:58:27 UTC"
   }
 ]
