@@ -1,5 +1,13 @@
 [
   {
+    "description": "Dynamic color relations in Sketch.",
+    "name": "Chain",
+    "owner": "LaloMrtnz",
+    "author": "Lalo Mrtnz",
+    "homepage": "https://lalomrtnz.github.io/Chain/",
+    "lastUpdated": "2017-07-27 23:1:43 UTC"
+  },
+  {
     "description": "Add single borders with advanced controls.",
     "name": "single-border",
     "title": "Single Border",
@@ -2903,5 +2911,30 @@
     "owner": "doubco",
     "name": "sketchplugin-align-artboards",
     "lastUpdated": "2017-07-03 06:57:58 UTC"
+  },
+  {
+    "title": "Icondrop",
+    "description": "Get access to 300,000+ icons right into Sketch App",
+    "author": "Iconscout",
+    "owner": "iconscout",
+    "name": "icondrop",
+    "lastUpdated": "2017-07-24 14:03:41 UTC"
+  },
+  {
+    "title": "Lists.design",
+    "description": "Populate text layers with realistic data from Lists.design",
+    "author": "Rafael E. Belliard",
+    "owner": "rebelliard",
+    "name": "sketch-plugin-lists.design",
+    "lastUpdated": "2017-07-31 07:58:27 UTC"
+  },
+  {
+    "title": "artboard-manager",
+    "name": "artboard-manager",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/artboard-manager",
+    "author": "Ale Muñoz",
+    "description": "Because moving artboards manually is *so* 2016."
   }
 ]
