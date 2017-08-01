@@ -172,7 +172,7 @@ task :authors do
 end
 
 desc "Interactive JSON: prompt user for information about their plugin and generate plugins.json and README.md"
-task :interactive_update_json_readme do
+task :interactive do
     begin
         plugin = prompt_for_plugin()
 
@@ -236,7 +236,7 @@ def prompt_inputs(defaults, has_github)
 
     plugin['title'] = prompt_item("Enter a title for your plugin", defaults["title"], !has_github)
     plugin['description'] = prompt_item("Describe your plugin in 1-2 sentences", defaults["description"], true)
-    plugin['homepage'] = prompt_item("Enter a the homepage for your plugin", defaults["homepage"], !has_github)
+    plugin['homepage'] = prompt_item("Enter the homepage for your plugin", defaults["homepage"], !has_github)
     plugin['author'] = prompt_item("Enter your name", defaults["author"], false)
 
     # Filter out nil values
@@ -255,7 +255,7 @@ def prompt_inputs(defaults, has_github)
 end
 
 def prompt_owner()
-    owner = prompt_item("Enter the person or organization who owns this plugin (no spaces or special characters)", nil, true)
+    owner = prompt_item("Enter the person or organisation who owns this plugin (no spaces or special characters)", nil, true)
 
     if !(owner =~ /^[a-zA-Z0-9_\-]+$/)
         STDOUT.puts "ERROR: Owner can only contain letters, numbers, hyphen, or underscores."
@@ -474,17 +474,22 @@ def save_json(plugin)
 end
 
 def check_for_duplicates(plugin, plugins)
-    plugins.each_with_index do |saved_plugin, index|
-        if (plugin["name"] == nil || saved_plugin["name"] == nil) && plugin["owner"].downcase == saved_plugin["owner"].downcase && plugin["title"].downcase == saved_plugin["title"].downcase
-            STDOUT.puts "ERROR: Found another plugin with the same owner & title."
-            return index
-        elsif plugin["name"] != nil && saved_plugin["name"] != nil && plugin["name"].downcase == saved_plugin["name"].downcase && plugin["owner"].downcase == saved_plugin["owner"].downcase
-            STDOUT.puts "ERROR: Found another plugin with the same name & owner."
-            return index
-        end
-    end
+  puts "Checking for duplicates for #{plugin}"
+  plugins.each_with_index do |saved_plugin, index|
+    plugin_name = plugin["name"] || plugin["title"]
+    plugin_owner = plugin["owner"] || plugin["author"]
+    saved_plugin_name = saved_plugin["name"] || saved_plugin["title"]
+    saved_plugin_owner = saved_plugin["owner"] || saved_plugin["author"]
 
-    return -1
+    puts "#{plugin_name} - #{plugin_owner}"
+    puts "#{saved_plugin_name} - #{saved_plugin_owner}"
+
+    if plugin_name.downcase == saved_plugin_name.downcase && plugin_owner.downcase == saved_plugin_owner.downcase
+      STDOUT.puts "ERROR: Found another plugin with the same owner & title."
+      return index
+    end
+  end
+  return -1
 end
 
 desc "Default: generate README.md from plugin"
