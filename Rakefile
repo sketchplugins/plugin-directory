@@ -192,7 +192,7 @@ task :authors do
   puts "\n" + authors.size.to_s + " unique authors."
 end
 
-desc "Interactive JSON"
+desc "Interactive JSON: prompt user for information about their plugin and generate plugins.json and README.md"
 task :interactive_update_json_readme do
     begin
         plugin = prompt_for_plugin()
@@ -508,5 +508,5 @@ def check_for_duplicates(plugin, plugins)
     return -1
 end
 
-desc "Default: prompt user for information about their plugin and generate plugins.json and README.md"
-task :default => :interactive_update_json_readme
+desc "Default: generate README.md from plugin"
+task :default => :readme
