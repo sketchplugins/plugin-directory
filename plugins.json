@@ -2927,5 +2927,11 @@
     "owner": "rebelliard",
     "name": "sketch-plugin-lists.design",
     "lastUpdated": "2017-07-31 07:58:27 UTC"
+  },
+  {
+    "owner": "Smartling",
+    "title": "Smartling",
+    "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
+    "homepage": "https://smartling.github.io/smartling-sketch-plugin/"
   }
 ]
