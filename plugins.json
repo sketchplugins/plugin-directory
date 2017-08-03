@@ -2933,5 +2933,13 @@
     "title": "Smartling",
     "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
     "homepage": "https://smartling.github.io/smartling-sketch-plugin/"
+  },
+  {
+    "title": "Sketch Name Organizer",
+    "description": "🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.",
+    "author": "Canis Minor",
+    "owner": "canisminor1990",
+    "name": "sketch-name-organizer",
+    "lastUpdated": "2017-08-03 09:14:01 UTC"
   }
 ]
