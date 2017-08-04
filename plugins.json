@@ -2941,5 +2941,12 @@
     "owner": "canisminor1990",
     "name": "sketch-name-organizer",
     "lastUpdated": "2017-08-03 09:14:01 UTC"
+  },
+  {
+    "title": "Instance Locator",
+    "description": "Locate instances of a selected symbol and navigate to them, anywhere in the doc.",
+    "author": "Derek Nguyen",
+    "owner": "d4rekanguok",
+    "name": "instance-locator"
   }
 ]
