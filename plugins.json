@@ -2943,10 +2943,19 @@
     "lastUpdated": "2017-08-03 09:14:01 UTC"
   },
   {
+
     "title": "Instance Locator",
     "description": "Locate instances of a selected symbol and navigate to them, anywhere in the doc.",
     "author": "Derek Nguyen",
     "owner": "d4rekanguok",
     "name": "instance-locator"
+  },
+  {
+    "title": "Merge Duplicate Symbols",
+    "description": "Sketch.app plugin to merge symbols with the same name.",
+    "author": "Oscar Oto",
+    "owner": "oodesign",
+    "name": "merge-duplicate-symbols",
+    "lastUpdated": "2017-08-04 11:01:02 UTC"
   }
 ]
