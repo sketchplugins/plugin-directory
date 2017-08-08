@@ -2965,5 +2965,12 @@
     "owner": "bunnieabc",
     "name": "Blender",
     "lastUpdated": "2017-08-08 07:54:10 UTC"
+  },
+  {
+    "owner": "lstore.graphics",
+    "title": "7 Columns Calendar Creator",
+    "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
+    "homepage": "https://lstore.graphics/plugins/calendar/",
+    "author": "lstore.graphics"
   }
 ]
