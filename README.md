@@ -142,6 +142,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Magic Mirror](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
 - [MagicPresenter](https://github.com/magicsketch/magicpresenter), by jamztang: Sketch Plugin to Present Slides or Deck directly in Sketch 3
 - [Mail Merge](https://github.com/kumo/sketch-mail-merge), by Robert Clarke: Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
+- [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to create a static map(Baidu, MapBox) with custom options.
 - [Marketch](http://tudou527.github.io/marketch/), by tudou527: Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.
 - [Material Design Color Palette](https://github.com/t32k/material-design-color-palette), by t32k: Sketch app plugin for displaying Google material design color palette.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by Oscar Oto: Sketch.app plugin to merge symbols with the same name.
@@ -374,6 +375,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to create a static map(Baidu, MapBox) with custom options.
 - [Blender](https://github.com/bunnieabc/blender), by bunnieabc: A sketch plugin to create awesome gradient layers
 - [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [Instance Locator](https://github.com/d4rekanguok/instance-locator), by Derek Nguyen: Locate instances of a selected symbol and navigate to them, anywhere in the doc.

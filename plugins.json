@@ -2972,5 +2972,14 @@
     "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
     "homepage": "https://lstore.graphics/plugins/calendar/",
     "author": "lstore.graphics"
+  },
+  {
+    "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
+    "name": "sketch-map-creator",
+    "title": "Map Creator for Sketch",
+    "owner": "Terence Wu",
+    "author": "Terence Wu",
+    "homepage": "https://github.com/terence55/sketch-map-creator",
+    "lastUpdated": "2017-08-11 11:58:00 UTC"
   }
 ]
