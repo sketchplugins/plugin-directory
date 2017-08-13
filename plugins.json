@@ -2972,5 +2972,12 @@
     "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
     "homepage": "https://lstore.graphics/plugins/calendar/",
     "author": "lstore.graphics"
+  },
+  {
+    "title": "Sketch Slicer",
+    "description": "Create slice layers from selected layers, with padding or set a fixed size.",
+    "author": "Derek Nguyen",
+    "owner": "d4rekanguok",
+    "name": "sketch-slicer"
   }
 ]
