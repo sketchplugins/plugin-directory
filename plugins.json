@@ -416,8 +416,9 @@
     "lastUpdated": "2016-10-01 00:28:00 UTC"
   },
   {
-    "description": "A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.",
+    "description": "Keep your Sketch files organized, batch rename layers and artboards.",
     "name": "RenameIt",
+    "title": "Rename It",
     "owner": "rodi01",
     "author": "Rodrigo Soares",
     "lastUpdated": "2017-08-07 06:07:23 UTC"
@@ -2978,6 +2979,16 @@
     "description": "Create slice layers from selected layers, with padding or set a fixed size.",
     "author": "Derek Nguyen",
     "owner": "d4rekanguok",
-    "name": "sketch-slicer"
+    "name": "sketch-slicer",
+    "lastUpdated": "2017-08-10 09:04:21 UTC"
+  },
+  {
+    "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
+    "name": "sketch-map-creator",
+    "title": "Map Creator for Sketch",
+    "owner": "terence55",
+    "author": "Terence Wu",
+    "homepage": "https://github.com/terence55/sketch-map-creator",
+    "lastUpdated": "2017-08-11 11:58:00 UTC"
   }
 ]
