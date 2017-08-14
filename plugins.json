@@ -2975,6 +2975,14 @@
     "author": "lstore.graphics"
   },
   {
+    "title": "Sketch Slicer",
+    "description": "Create slice layers from selected layers, with padding or set a fixed size.",
+    "author": "Derek Nguyen",
+    "owner": "d4rekanguok",
+    "name": "sketch-slicer",
+    "lastUpdated": "2017-08-10 09:04:21 UTC"
+  },
+  {
     "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
     "name": "sketch-map-creator",
     "title": "Map Creator for Sketch",
