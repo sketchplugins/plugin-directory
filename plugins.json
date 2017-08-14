@@ -2977,7 +2977,7 @@
     "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
     "name": "sketch-map-creator",
     "title": "Map Creator for Sketch",
-    "owner": "Terence Wu",
+    "owner": "terence55",
     "author": "Terence Wu",
     "homepage": "https://github.com/terence55/sketch-map-creator",
     "lastUpdated": "2017-08-11 11:58:00 UTC"
