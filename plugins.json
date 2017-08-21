@@ -2990,5 +2990,13 @@
     "author": "Terence Wu",
     "homepage": "https://github.com/terence55/sketch-map-creator",
     "lastUpdated": "2017-08-11 11:58:00 UTC"
+  },
+  {
+    "title": "Sketch Palette Generator",
+    "description": "Output a JSON colour palette to Sketch 💎",
+    "author": "awkward",
+    "owner": "awkward",
+    "name": "sketch-palette-generator",
+    "lastUpdated": "2017-08-11 15:14:46 UTC"
   }
 ]

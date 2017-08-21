@@ -265,7 +265,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Mate](https://github.com/getflourish/sketch-mate), by Florian Schulz: These plugins will make you best friends with Sketch.
 - [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
-- [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Sketch Name Organizer](https://github.com/canisminor1990/sketch-name-organizer), by Canis Minor: 🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.
 - [Sketch Navigator](https://github.com/arshad/sketch-navigator), by Arshad Chummun: Artboard navigation (with autocomplete) for Sketch
@@ -273,6 +272,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Notebook](http://marcosvid.al/sketch-notebook), by Marcos Vidal: Sketch Plugin to make documenting design easier.
 - [Sketch Number Artboards](https://github.com/mmasonlee/sketch-number-artboards), by Mason Lee: Sketch plugin to number artboards in order
 - [Sketch Paginate](https://github.com/jorgemartins/sketch-paginate), by Jorge Martins: Add page numbers to artboards.
+- [Sketch Palette Generator](https://github.com/awkward/sketch-palette-generator), by awkward: Output a JSON colour palette to Sketch 💎
 - [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes), by Andrew Fiorillo: Sketch plugin that lets you save and load colors in the color picker
 - [Sketch Pixel Cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by Stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [Sketch Plugin Manager 🔌](https://mludowise.github.io/Sketch-Plugin-Manager), by Mel Ludowise: Keeping your Sketch plugins up to date with the power of Git.
@@ -375,6 +375,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Sketch Palette Generator](https://github.com/awkward/sketch-palette-generator), by awkward: Output a JSON colour palette to Sketch 💎
 - [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to create a static map(Baidu, MapBox) with custom options.
 - [Sketch Slicer](https://github.com/d4rekanguok/sketch-slicer), by Derek Nguyen: Create slice layers from selected layers, with padding or set a fixed size.
 - [Blender](https://github.com/bunnieabc/blender), by bunnieabc: A sketch plugin to create awesome gradient layers
@@ -736,4 +737,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Nearest 8](https://github.com/acollurafici/sketch-nearest-8), by Anthony Collurafici: Sketch Plugin to round shape size to the nearest multiple of 8
 - [Update Text Layer Name](https://github.com/creatide/sketch_update-text-layer-name), by Creatide: Sketch plugin to update Text layer names from their own text values.
 - [Sketch Layer Comps](https://github.com/ozgurgunes/sketch-layer-comps), by Özgür Güneş: A plugin which saves and applies layer states to create different compositions of current page.
-- [Sketch Mouse Pointers](https://github.com/stuartromanek/sketch-mouse-pointers), by Stuart Romanek: Add Mouse Pointers to Sketch.
