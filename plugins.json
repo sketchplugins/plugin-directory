@@ -2998,5 +2998,14 @@
     "owner": "awkward",
     "name": "sketch-palette-generator",
     "lastUpdated": "2017-08-11 15:14:46 UTC"
+  },
+  {
+    "title": "Avocode Sketch Plugin",
+    "description": "Sync Sketch designs to Avocode.",
+    "author": "Avocode Inc.",
+    "owner": "avocode",
+    "name": "avocode-sketch-plugin",
+    "homepage": "https://avocode.com",
+    "lastUpdated": "2017-08-22 12:38:20 UTC"
   }
 ]
