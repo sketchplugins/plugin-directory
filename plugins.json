@@ -3007,5 +3007,14 @@
     "name": "avocode-sketch-plugin",
     "homepage": "https://avocode.com",
     "lastUpdated": "2017-08-22 12:38:20 UTC"
+  },
+  {
+    "title": "Jira Cloud for Sketch",
+    "description": "Export designs, assets, and feedback to Jira Cloud.",
+    "author": "Atlassian",
+    "owner": "atlassian",
+    "name": "jira-cloud-for-sketch",
+    "homepage": "https://sketch.atlassian.com/",
+    "lastUpdated": "2017-09-04 05:31:42 UTC"
   }
 ]
