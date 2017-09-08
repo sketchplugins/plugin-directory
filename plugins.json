@@ -3007,5 +3007,12 @@
     "name": "avocode-sketch-plugin",
     "homepage": "https://avocode.com",
     "lastUpdated": "2017-08-22 12:38:20 UTC"
+  },
+  {
+    "title": "title-case",
+    "name": "Sketch-Title-Case",
+    "owner": "Hemmingsson",
+    "appcast": "https://raw.githubusercontent.com/Hemmingsson/Sketch-Title-Case/master/.appcast.xml",
+    "homepage": "https://github.com/Hemmingsson/Sketch-Title-Case"
   }
 ]
