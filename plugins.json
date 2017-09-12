@@ -1,7 +1,13 @@
 [
   {
-<<<<<<< HEAD
-=======
+  "description": "Creating beautiful iOS style shadows.",
+  "name": "iShadow",
+  "owner": "Volorf",
+  "author": "Volorf",
+  "homepage": "https://github.com/Volorf/iShadow",
+  "lastUpdated": "2017-09-12 13:15:45 UTC"
+  },
+  {
     "description": "Dynamic color relations in Sketch.",
     "name": "Chain",
     "owner": "LaloMrtnz",
@@ -139,17 +145,12 @@
     "lastUpdated": "2017-06-08 21:19:04 UTC"
   },
   {
->>>>>>> sketchplugins/master
     "description": "An easy way creating guidelines",
     "name": "Gridy",
     "title": "Gridy",
     "author": "Oleg Frolov",
     "owner": "Volorf",
-<<<<<<< HEAD
-    "lastUpdated": "2017-04-06 19:54:00 UTC"
-=======
     "lastUpdated": "2017-04-13 07:03:03 UTC"
->>>>>>> sketchplugins/master
   },
   {
     "description": "Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",
