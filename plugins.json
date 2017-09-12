@@ -3022,19 +3022,17 @@
     "title": "Avocode Sketch Plugin",
     "description": "Sync Sketch designs to Avocode.",
     "author": "Avocode Inc.",
-    "owner": "avocode",
-    "name": "avocode-sketch-plugin",
     "homepage": "https://avocode.com",
     "lastUpdated": "2017-08-22 12:38:20 UTC"
   },
   {
-    "title": "squash-sketchplugin",
+    "title": "Squash",
     "name": "squash-sketchplugin",
     "owner": "mcansh",
     "appcast": "https://raw.githubusercontent.com/mcansh/squash-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/mcansh/squash-sketchplugin",
     "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
-    "description": "A design spec plugin for sketch"
+    "description": "Export and optimize images with Realmac Squash"
   },
   {
     "title": "Jira Cloud for Sketch",
@@ -3044,5 +3042,13 @@
     "name": "jira-cloud-for-sketch",
     "homepage": "https://sketch.atlassian.com/",
     "lastUpdated": "2017-09-04 05:31:42 UTC"
+  },
+  {
+    "title": "Sketch Title Case",
+    "description": "Sketch Plugin to make text Title Case",
+    "author": "Mattias Hemmingsson",
+    "owner": "Hemmingsson",
+    "name": "Sketch-Title-Case",
+    "lastUpdated": "2017-09-01 13:20:24 UTC"
   }
 ]

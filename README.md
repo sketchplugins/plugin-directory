@@ -300,6 +300,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Swatches](https://github.com/ashung/sketch_swatches), by Ashung Hung: A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 - [Sketch Text Tools](https://github.com/automat/sketch-text-tools), by Henryk Wollik: Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
+- [Sketch Title Case](https://github.com/hemmingsson/sketch-title-case), by Mattias Hemmingsson: Sketch Plugin to make text Title Case
 - [Sketch To Clickthrough HTML](https://github.com/amin-nas/sketch-to-clickthrough-html), by Amin: Sketch plugin for creating a clickthrough HTMLprototype
 - [Sketch to Trello](https://github.com/jclappiway/sketch-to-trello), by lefrancois: Export Sketch Artboard to Trello
 - [Sketch to VR](https://github.com/auxdesigner/sketch-to-vr), by Liu Liu: Personal fun project - turn your mocks into VR
@@ -325,6 +326,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sparkliner](https://github.com/volorf/sparkliner), by Oleg Frolov: Sparkliner — easy way to make sparkline graph
 - [Specify](https://github.com/elliotekj/specify), by Elliot Jackson: Quickly generate a rectangle or oval with specific dimensions and positioning.
 - [Split & Divide](https://github.com/krevedaccky/sketchsplitdivide), by Konstantin Raspopov: Split and Divide plugins for Sketch3 app.
+- [Squash](https://github.com/mcansh/squash-sketchplugin), by Logan McAnsh <logan@mcan.sh> (https://mcan.sh): Export and optimize images with Realmac Squash
 - [Stacker](https://github.com/scottsavarie/stacker), by Scott Savarie: Sketch plugin to stack a selection horizontally or vertically.
 - [Stark](http://www.getstark.co), by Michael Fouquet, Cat Noone, Benedikt Lehnert: Ensure your design is accessible and high contrast for every type of color blindness.
 - [State Machine](https://github.com/romashamin/statemachine-sketch), by Roman Shamin: State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.
@@ -378,6 +380,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Maps](https://github.com/bouchenoiremarc/Sketch-Maps), by Marc Bouchenoire: A Sketch plugin that uses the Mapbox API to fill layers with specific and custom maps.
 - [Alembic](https://alembicforsketch.com), by Awkward: A Sketch plugin to extract a color palette from any layer that contains bitmap data.
 - [Jira Cloud for Sketch](https://sketch.atlassian.com/), by Atlassian: Export designs, assets, and feedback to Jira Cloud.
+- [Sketch Title Case](https://github.com/hemmingsson/sketch-title-case), by Mattias Hemmingsson: Sketch Plugin to make text Title Case
 - [Avocode Sketch Plugin](https://avocode.com), by Avocode Inc.: Sync Sketch designs to Avocode.
 - [Sketch Palette Generator](https://github.com/awkward/sketch-palette-generator), by awkward: Output a JSON colour palette to Sketch 💎
 - [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to create a static map(Baidu, MapBox) with custom options.
