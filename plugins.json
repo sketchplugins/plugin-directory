@@ -3007,5 +3007,14 @@
     "name": "avocode-sketch-plugin",
     "homepage": "https://avocode.com",
     "lastUpdated": "2017-08-22 12:38:20 UTC"
+  },
+  {
+    "title": "squash-sketchplugin",
+    "name": "squash-sketchplugin",
+    "owner": "mcansh",
+    "appcast": "https://raw.githubusercontent.com/mcansh/squash-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/mcansh/squash-sketchplugin",
+    "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
+    "description": "A design spec plugin for sketch"
   }
 ]
