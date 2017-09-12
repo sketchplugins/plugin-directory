@@ -8,6 +8,15 @@
     "lastUpdated": "2017-07-31 08:12:37 UTC"
   },
   {
+    "description": "A Sketch plugin to extract a color palette from any layer that contains bitmap data.",
+    "name": "Alembic",
+    "title": "Alembic",
+    "author": "Awkward",
+    "owner": "awkward",
+    "homepage": "https://alembicforsketch.com",
+    "lastUpdated": "2017-09-05 15:40:00 UTC"
+  },
+  {
     "description": "Add single borders with advanced controls.",
     "name": "single-border",
     "title": "Single Border",
@@ -1209,7 +1218,17 @@
     "title": "Sketch Constraints",
     "author": "Marc Bouchenoire",
     "owner": "bouchenoiremarc",
+    "homepage": "https://github.com/bouchenoiremarc/Sketch-Constraints",
     "lastUpdated": "2017-07-05 14:08:04 UTC"
+  },
+  {
+    "description": "A Sketch plugin that uses the Mapbox API to fill layers with specific and custom maps.",
+    "name": "Sketch-Maps",
+    "title": "Sketch Maps",
+    "author": "Marc Bouchenoire",
+    "owner": "bouchenoiremarc",
+    "homepage": "https://github.com/bouchenoiremarc/Sketch-Maps",
+    "lastUpdated": "2017-09-10 22:39:00 UTC"
   },
   {
     "description": "Sort artboards and layers by name",
