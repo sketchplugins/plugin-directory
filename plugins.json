@@ -3050,5 +3050,13 @@
     "owner": "Hemmingsson",
     "name": "Sketch-Title-Case",
     "lastUpdated": "2017-09-01 13:20:24 UTC"
+  },
+  {
+    "title": "Sketch Resize",
+    "description": "Unproportional, unconstrained resize at your fingertips.",
+    "author": "Luca Orio",
+    "owner": "lucaorio",
+    "name": "sketch-resize",
+    "lastUpdated": "2017-09-03 12:29:00 UTC"
   }
 ]
