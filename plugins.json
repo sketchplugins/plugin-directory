@@ -1,5 +1,14 @@
 [
   {
+    "description": "Create game plays directly from Sketch app.",
+    "name": "Sketch-Play",
+    "title": "Sketch Play",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "http://sureskumar.com/sketchplay/",
+    "lastUpdated": "2017-09-17 09:58:37 UTC"
+  },
+  {
     "description": "Dynamic color relations in Sketch.",
     "name": "Chain",
     "owner": "LaloMrtnz",
