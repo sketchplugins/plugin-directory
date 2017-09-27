@@ -3077,5 +3077,13 @@
     "author": "Logan McAnsh",
     "description": "Find all instances of a symbol in Sketch",
     "lastUpdated": "2017-09-20 12:29:00 UTC"
+  },
+  {
+    "title": "Sketch Symbol Importer",
+    "description": "Import symbols from on Sketch file into another. Maintains overrides and updates existing symbols in place.",
+    "author": "sketch-symbol-importer",
+    "owner": "sketch-symbol-importer",
+    "name": "sketch-symbol-importer",
+    "lastUpdated": "2017-08-30 23:19:45 UTC"
   }
 ]
