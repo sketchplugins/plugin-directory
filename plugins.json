@@ -3062,10 +3062,10 @@
   },
   {
     "title": "Sketch Resize",
-    "description": "Unproportional, unconstrained resize at your fingertips.",
+    "description": "Resize (not scale) multiple layers at once via shortcut.",
     "author": "Luca Orio",
     "owner": "lucaorio",
     "name": "sketch-resize",
-    "lastUpdated": "2017-09-03 12:29:00 UTC"
+    "lastUpdated": "2017-09-20 12:29:00 UTC"
   }
 ]
