@@ -3066,6 +3066,16 @@
     "author": "Luca Orio",
     "owner": "lucaorio",
     "name": "sketch-resize",
+    "lastUpdated": "2017-09-03 12:29:00 UTC"
+  },
+  {
+    "title": "sketch-find-all-instances-of-symbol",
+    "name": "sketch-find-all-instances-of-symbol",
+    "owner": "mcansh",
+    "appcast": "https://raw.githubusercontent.com/mcansh/sketch-find-all-instances-of-symbol/master/.appcast.xml",
+    "homepage": "https://github.com/mcansh/sketch-find-all-instances-of-symbol",
+    "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
+    "description": "Find all instances of a symbol in Sketch"
     "lastUpdated": "2017-09-20 12:29:00 UTC"
   }
 ]
