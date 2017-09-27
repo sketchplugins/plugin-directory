@@ -1,5 +1,14 @@
 [
   {
+    "description": "Create game plays directly from Sketch app.",
+    "name": "Sketch-Play",
+    "title": "Sketch Play",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "http://sureskumar.com/sketchplay/",
+    "lastUpdated": "2017-09-17 09:58:37 UTC"
+  },
+  {
     "description": "Dynamic color relations in Sketch.",
     "name": "Chain",
     "owner": "LaloMrtnz",
@@ -3053,7 +3062,7 @@
   },
   {
     "title": "Sketch Resize",
-    "description": "Unproportional, unconstrained resize at your fingertips.",
+    "description": "Resize (not scale) multiple layers at once via shortcut.",
     "author": "Luca Orio",
     "owner": "lucaorio",
     "name": "sketch-resize",
@@ -3067,5 +3076,6 @@
     "homepage": "https://github.com/mcansh/sketch-find-all-instances-of-symbol",
     "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
     "description": "Find all instances of a symbol in Sketch"
+    "lastUpdated": "2017-09-20 12:29:00 UTC"
   }
 ]
