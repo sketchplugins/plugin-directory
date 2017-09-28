@@ -3085,5 +3085,13 @@
     "owner": "sketch-symbol-importer",
     "name": "sketch-symbol-importer",
     "lastUpdated": "2017-08-30 23:19:45 UTC"
+  },
+  {
+    "title": "Symbol and Artboard Organizer",
+    "description": "Organize your symbols and artboards.",
+    "author": "Myrronth",
+    "owner": "Myrronth",
+    "name": "symbol-and-artboard-organizer",
+    "lastUpdated": "2017-09-28 11:48:00 UTC"
   }
 ]
