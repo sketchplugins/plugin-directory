@@ -1,5 +1,14 @@
 [
   {
+    "description": "Install missing fonts & free fonts directly from Sketch.",
+    "name": "Font Buddy",
+    "title": "Font Buddy",
+    "owner": "AnimaApp",
+    "author": "Anima Team",
+    "homepage": "https://github.com/AnimaApp/FontBuddy",
+    "lastUpdated": "2017-10-09 20:10:00 UTC"
+  },
+  {
     "description": "Create game plays directly from Sketch app.",
     "name": "Sketch-Play",
     "title": "Sketch Play",
