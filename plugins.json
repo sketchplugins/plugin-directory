@@ -1,12 +1,115 @@
 [
   {
+    "description": "Create game plays directly from Sketch app.",
+    "name": "Sketch-Play",
+    "title": "Sketch Play",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "http://sureskumar.com/sketchplay/",
+    "lastUpdated": "2017-09-17 09:58:37 UTC"
+  },
+  {
+    "description": "Dynamic color relations in Sketch.",
+    "name": "Chain",
+    "owner": "LaloMrtnz",
+    "author": "Lalo Mrtnz",
+    "homepage": "https://lalomrtnz.github.io/Chain/",
+    "lastUpdated": "2017-07-31 08:12:37 UTC"
+  },
+  {
+    "description": "A Sketch plugin to extract a color palette from any layer that contains bitmap data.",
+    "name": "Alembic",
+    "title": "Alembic",
+    "author": "Awkward",
+    "owner": "awkward",
+    "homepage": "https://alembicforsketch.com",
+    "lastUpdated": "2017-09-05 15:40:00 UTC"
+  },
+  {
+    "description": "Add single borders with advanced controls.",
+    "name": "single-border",
+    "title": "Single Border",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/single-border",
+    "lastUpdated": "2017-07-10 10:47:45 UTC"
+  },
+  {
+    "description": "A plugin to create HTML based preview and gallery straight from sketch artboards",
+    "name": "sketch-neo-preview",
+    "title": "NeoPreview",
+    "owner": "alanfraneo",
+    "author": "Alan Francis",
+    "lastUpdated": "2017-07-04 14:47:12 UTC"
+  },
+  {
+    "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
+    "name": "WeSketch",
+    "title": "WeSketch",
+    "owner": "weixin",
+    "author": "Tencent Wechat Team",
+    "homepage": "https://github.com/weixin/WeSketch",
+    "lastUpdated": "2017-08-07 06:19:26 UTC"
+  },
+  {
+    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
+    "title": "CanvasFlip",
+    "author": "CanvasFlip",
+    "homepage": "https://canvasflip.com/",
+    "lastUpdated": "2017-06-28 10:30:30 UTC"
+  },
+  {
+    "description": "Generate palette stripes in sketch from shape fills.",
+    "name": "palette-stripes",
+    "title": "Palette Stripes",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/palette-stripes",
+    "lastUpdated": "2017-06-23 04:21:53 UTC"
+  },
+  {
+    "description": "Generate complex organic super-shapes using super formula.",
+    "name": "super-shapes",
+    "title": "Super Shapes",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/super-shapes",
+    "lastUpdated": "2017-06-20 09:21:55 UTC"
+  },
+  {
+    "description": "Automatically resize spacing symbols to correct size when changing to different one",
+    "name": "symbol-spacer-sketch-plugin",
+    "title": "Symbol Spacer Sketch Plugin",
+    "owner": "novemberfiveco",
+    "author": "Geert Wille",
+    "homepage": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin",
+    "lastUpdated": "2017-06-12 15:24:54 UTC"
+  },
+  {
+    "description": "Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).",
+    "name": "Reselect",
+    "title": "Reselect",
+    "owner": "mfouquet",
+    "author": "Michael Fouquet",
+    "homepage": "http://www.reselect.co",
+    "lastUpdated": "2017-06-16 20:10:47 UTC"
+  },
+  {
+    "description": "Help you find out popular design systems and download official Sketch UI kit.",
+    "title": "Design Systems",
+    "name": "design-systems",
+    "owner": "Ashung",
+    "author": "Ashung Hung",
+    "lastUpdated": "2017-06-10 07:04:02 UTC"
+  },
+  {
     "description": "Turn your Sketch design into a live website.",
     "title": "Launchpad",
     "name": "Launchpad",
     "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://launchpad.animaapp.com",
-    "lastUpdated": "2017-05-02 08:48:00 UTC"
+    "lastUpdated": "2017-06-28 14:01:02 UTC"
   },
   {
     "description": "Create basic word clouds and tag clouds.",
@@ -15,7 +118,7 @@
     "owner": "ediathome",
     "author": "Martin Kolb",
     "homepage": "https://github.com/ediathome/WordCloud",
-    "lastUpdated": "2017-05-01 08:48:00 UTC"
+    "lastUpdated": "2017-06-06 16:10:00 UTC"
   },
   {
     "description": "Create good-looking and perceptually uniform gradients and color scales.",
@@ -23,7 +126,7 @@
     "title": "Chromatic Sketch",
     "owner": "petterheterjag",
     "author": "Petter Nilsson",
-    "lastUpdated": "2017-04-29 19:35:45 UTC"
+    "lastUpdated": "2017-06-18 19:54:30 UTC"
   },
   {
     "description": "Ensure your design is accessible and high contrast for every type of color blindness.",
@@ -32,7 +135,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2017-04-25 15:11:22 UTC"
+    "lastUpdated": "2017-06-19 13:31:53 UTC"
   },
   {
     "description": "Organise and share your design libraries using folders and get a living styleguide for free",
@@ -41,7 +144,7 @@
     "author": "zeroheight",
     "owner": "zeroheight",
     "homepage": "https://zeroheight.com",
-    "lastUpdated": "2017-04-19 18:36:16 UTC"
+    "lastUpdated": "2017-06-04 20:26:41 UTC"
   },
   {
     "description": "Generate text for your mockups in multiple languages 🗺",
@@ -49,7 +152,7 @@
     "title": "Foreign Ipsum",
     "author": "Braxton Huff",
     "owner": "3raxton",
-    "lastUpdated": "2017-04-25 13:06:48 UTC"
+    "lastUpdated": "2017-06-08 21:19:04 UTC"
   },
   {
     "description": "An easy way creating guidelines",
@@ -65,15 +168,15 @@
     "title": "Looper",
     "author": "Sures Kumar",
     "owner": "sureskumar",
-    "lastUpdated": "2017-04-08 05:53:48 UTC"
+    "lastUpdated": "2017-06-22 14:23:52 UTC"
   },
   {
-    "description": "Find or rename multiple layers at once using RegEx and flags in Sketch.",
+    "description": "Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)",
     "name": "LayerRenamer",
     "title": "Layer Renamer",
     "author": "Leonard Pauli",
     "owner": "LeonardPauli",
-    "lastUpdated": "2017-02-07 10:34:02 UTC"
+    "lastUpdated": "2017-07-18 16:58:21 UTC"
   },
   {
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
@@ -81,7 +184,7 @@
     "title": "Ace Jump",
     "author": "Andrey Shakhmin",
     "owner": "turbobabr",
-    "lastUpdated": "2017-03-26 11:54:21 UTC"
+    "lastUpdated": "2017-05-29 07:06:46 UTC"
   },
   {
     "description": "Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.",
@@ -97,7 +200,7 @@
     "title": "HTML Export",
     "author": "Mel Ludowise",
     "owner": "mludowise",
-    "lastUpdated": "2017-04-19 00:41:32 UTC"
+    "lastUpdated": "2017-07-07 18:49:53 UTC"
   },
   {
     "description": "Generates a HTML click-through prototype of your responsive website design.",
@@ -105,7 +208,7 @@
     "title": "Click-Thru Prototype",
     "author": "Mark Horgan",
     "owner": "markhorgan",
-    "lastUpdated": "2017-04-18 20:04:53 UTC"
+    "lastUpdated": "2017-06-09 09:22:29 UTC"
   },
   {
     "description": "Design responsive screens and easily see all screen sizes at once.",
@@ -114,7 +217,7 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "author": "Anima Team",
     "owner": "AnimaApp",
-    "lastUpdated": "2017-04-17 19:43:33 UTC"
+    "lastUpdated": "2017-08-02 13:00:50 UTC"
   },
   {
     "description": "Select all exportable layers, slices, and artboards.",
@@ -122,7 +225,7 @@
     "title": "Select Exportables",
     "author": "Kenji Wellman",
     "owner": "yargies",
-    "lastUpdated": "2016-10-17 16:04:06 UTC"
+    "lastUpdated": "2017-07-24 18:48:21 UTC"
   },
   {
     "description": "Quick Export layers/artboards/symbols as PNG Plugin for Sketch.",
@@ -130,7 +233,7 @@
     "title": "Quick Export as PNG",
     "author": "Richard Gazdik",
     "owner": "richardgazdik",
-    "lastUpdated": "2017-01-19 02:13:45 UTC"
+    "lastUpdated": "2017-07-11 01:00:47 UTC"
   },
   {
     "description": "Clear export options for all elements on all pages in a Sketch file.",
@@ -186,7 +289,7 @@
     "title": "Sync",
     "author": "Stanford Rosenthal",
     "owner": "nolastan",
-    "lastUpdated": "2017-04-09 23:52:45 UTC"
+    "lastUpdated": "2017-05-02 16:37:55 UTC"
   },
   {
     "description": "Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.",
@@ -209,7 +312,7 @@
     "title": "Checkpoints Plugin for Sketch",
     "author": "Emin İnanç Ünlü",
     "owner": "einancunlu",
-    "lastUpdated": "2016-05-21 10:35:14 UTC"
+    "lastUpdated": "2017-06-25 08:10:28 UTC"
   },
   {
     "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.",
@@ -217,7 +320,7 @@
     "title": "Flatten Plugin for Sketch",
     "author": "Emin İnanç Ünlü",
     "owner": "einancunlu",
-    "lastUpdated": "2017-04-11 18:23:40 UTC"
+    "lastUpdated": "2017-07-06 21:33:34 UTC"
   },
   {
     "description": "Disconnect / unlink selection from symbols and shared styles.",
@@ -256,7 +359,7 @@
     "name": "SketchingOn",
     "owner": "WorkingOn",
     "homepage": "https://www.workingon.co",
-    "lastUpdated": "2016-05-04 22:57:14 UTC"
+    "lastUpdated": "2017-05-07 01:22:47 UTC"
   },
   {
     "description": "Resizes the selected layer to cover its containing artboard in Sketch.",
@@ -280,7 +383,7 @@
     "title": "Remove Fills and Borders",
     "author": "Seb Jachec",
     "owner": "sebj",
-    "lastUpdated": "2015-10-26 21:34:25 UTC"
+    "lastUpdated": "2017-06-02 16:18:58 UTC"
   },
   {
     "description": "Rename multiple layers at once in Sketch.",
@@ -312,7 +415,7 @@
     "title": "Sketch Preview",
     "author": "Marc Schwieterman",
     "owner": "marcisme",
-    "lastUpdated": "2016-11-05 19:33:37 UTC"
+    "lastUpdated": "2017-06-03 03:08:19 UTC"
   },
   {
     "description": "A collection of script commands for Bohemian Coding's Sketch.app",
@@ -331,11 +434,12 @@
     "lastUpdated": "2016-10-01 00:28:00 UTC"
   },
   {
-    "description": "A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.",
+    "description": "Keep your Sketch files organized, batch rename layers and artboards.",
     "name": "RenameIt",
+    "title": "Rename It",
     "owner": "rodi01",
     "author": "Rodrigo Soares",
-    "lastUpdated": "2017-04-29 01:23:32 UTC"
+    "lastUpdated": "2017-08-07 06:07:23 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -350,7 +454,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2017-04-05 07:29:54 UTC"
+    "lastUpdated": "2017-07-25 14:38:53 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -358,7 +462,7 @@
     "title": "Content Generator",
     "author": "Timur Carpeev",
     "owner": "timuric",
-    "lastUpdated": "2017-04-04 06:39:40 UTC"
+    "lastUpdated": "2017-06-30 14:43:33 UTC"
   },
   {
     "description": "A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.",
@@ -374,7 +478,7 @@
     "title": "Select Group Layers",
     "author": "Matt McManus",
     "owner": "mattmcmanus",
-    "lastUpdated": "2016-11-04 19:31:52 UTC"
+    "lastUpdated": "2017-07-06 20:07:45 UTC"
   },
   {
     "description": "A collection of Sketch Plugins for creating placeholder images.",
@@ -382,35 +486,42 @@
     "author": "Tyler Gaw",
     "name": "day-player",
     "title": "Day Player",
-    "lastUpdated": "2016-11-13 22:27:43 UTC"
+    "lastUpdated": "2017-06-26 18:15:46 UTC"
   },
   {
     "description": "Convert to Layers on Sketch from JSON (with Fireworks PNG structure).",
     "owner": "littlebusters",
     "name": "JSON-to-Layers",
     "title": "JSON to Layers",
-    "lastUpdated": "2016-12-03 03:19:32 UTC"
+    "lastUpdated": "2017-06-13 14:34:41 UTC"
   },
   {
     "description": "You can change the layer name by Regexp in Sketch 3.",
     "owner": "littlebusters",
     "name": "Regexp-Rename",
     "title": "Regexp Rename",
-    "lastUpdated": "2017-01-07 03:23:01 UTC"
+    "lastUpdated": "2017-06-13 14:34:30 UTC"
   },
   {
     "description": "Copy mixin code for SCSS, Less and Stylus to clipboard in Sketch 3.",
     "owner": "littlebusters",
     "title": "CSS Sprite Mixin",
     "name": "Sketch-CSS-Sprite-Mixin",
-    "lastUpdated": "2016-11-20 08:29:58 UTC"
+    "lastUpdated": "2017-06-08 14:26:19 UTC"
   },
   {
     "description": "Switch text spacing with OpenType features.",
     "owner": "littlebusters",
     "title": "Switch Text Spacing",
     "name": "Switch-Text-Spacing",
-    "lastUpdated": "2017-01-09 16:18:23 UTC"
+    "lastUpdated": "2017-06-13 14:35:10 UTC"
+  },
+  {
+    "description": "Convert from Sketch to JSON w/assets and JSON w/assets to Sketch. ",
+    "owner": "littlebusters",
+    "title": "Sketch Exchanger",
+    "name": "Sketch-Exchanger",
+    "lastUpdated": "2017-06-13 14:35:27 UTC"
   },
   {
     "description": "A Sketch plugin that lets you preview your current artboard in the Dock.",
@@ -418,14 +529,14 @@
     "author": "Christian Petersen",
     "title": "Dockpreview",
     "name": "sketch-dockpreview",
-    "lastUpdated": "2017-04-28 08:51:01 UTC"
+    "lastUpdated": "2017-06-02 10:51:03 UTC"
   },
   {
     "description": "Flowchart diagram plugin for Bohemian Coding Sketch app.",
     "owner": "tadija",
     "author": "Marko Tadić",
     "name": "AEFlowchart",
-    "lastUpdated": "2016-11-20 20:31:02 UTC"
+    "lastUpdated": "2017-07-01 15:42:01 UTC"
   },
   {
     "description": "Split and Divide plugins for Sketch3 app.",
@@ -440,7 +551,7 @@
     "owner": "turbobabr",
     "author": "Andrey Shakhmin",
     "name": "Duplicator",
-    "lastUpdated": "2017-03-26 12:15:31 UTC"
+    "lastUpdated": "2017-08-03 13:16:48 UTC"
   },
   {
     "description": "A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.",
@@ -456,7 +567,7 @@
     "author": "Florian Schulz",
     "title": "Color Contrast Analyser",
     "name": "Sketch-Color-Contrast-Analyser",
-    "lastUpdated": "2017-04-27 16:03:15 UTC"
+    "lastUpdated": "2017-08-04 11:41:15 UTC"
   },
   {
     "description": "Plugin that allows you to set the line height of a text layer as a multiple of the font size.",
@@ -488,7 +599,7 @@
     "author": "Mikko Tapionlinna",
     "title": "Artboardzoom",
     "name": "ArtboardZoom",
-    "lastUpdated": "2015-11-05 08:34:18 UTC"
+    "lastUpdated": "2017-06-21 05:18:11 UTC"
   },
   {
     "description": "Bookmark your place and zoom in Sketch.app",
@@ -496,22 +607,14 @@
     "author": "Mikko Tapionlinna",
     "title": "Bookmark 🔖",
     "name": "Bookmark",
-    "lastUpdated": "2017-03-15 08:31:10 UTC"
+    "lastUpdated": "2017-06-20 13:45:46 UTC"
   },
   {
     "description": "iOS icon generator plugin for Bohemian Coding Sketch app.",
     "owner": "tadija",
     "author": "Marko Tadić",
     "name": "AEIconizer",
-    "lastUpdated": "2016-08-07 19:06:45 UTC"
-  },
-  {
-    "description": "Generates a typographic scale from selected text layers.",
-    "name": "sketch-plugin-typographic-scale",
-    "title": "Typographic Scale",
-    "author": "Henryk Wollik",
-    "owner": "automat",
-    "lastUpdated": "2014-10-07 11:08:32 UTC"
+    "lastUpdated": "2017-07-01 13:43:45 UTC"
   },
   {
     "description": "Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.",
@@ -526,7 +629,7 @@
     "author": "Harold.Luo",
     "title": "Sketch Divine Proportions",
     "name": "sketch-divine-proportions",
-    "lastUpdated": "2017-01-09 13:41:34 UTC"
+    "lastUpdated": "2017-08-02 17:20:27 UTC"
   },
   {
     "description": "Remove all guides from the artboard with a shortcut.",
@@ -558,7 +661,7 @@
     "title": "Sketch Notebook",
     "name": "Sketch-Notebook",
     "homepage": "http://marcosvid.al/sketch-notebook",
-    "lastUpdated": "2016-11-16 18:29:49 UTC"
+    "lastUpdated": "2017-05-06 18:34:12 UTC"
   },
   {
     "description": "Modulizer plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes.",
@@ -582,14 +685,14 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2017-04-28 20:50:28 UTC"
+    "lastUpdated": "2017-05-05 00:07:16 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
     "owner": "elihorne",
     "author": "Eli Horne",
     "name": "smartboards",
-    "lastUpdated": "2016-10-17 18:42:04 UTC"
+    "lastUpdated": "2017-06-11 16:53:58 UTC"
   },
   {
     "description": "Sketch plugin to align selected layers to the bottom one.",
@@ -636,7 +739,7 @@
     "author": "Ken Moore",
     "title": "Better Paste",
     "name": "Sketch-Better-Paste",
-    "lastUpdated": "2017-03-06 08:46:59 UTC"
+    "lastUpdated": "2017-06-29 18:58:33 UTC"
   },
   {
     "description": "Update a button's label and it gets resized automatically, preserving existing padding.",
@@ -644,7 +747,7 @@
     "author": "Ken Moore",
     "title": "Relabel Button",
     "name": "Sketch-Relabel-Button",
-    "lastUpdated": "2017-04-03 16:28:43 UTC"
+    "lastUpdated": "2017-07-12 00:33:43 UTC"
   },
   {
     "description": "Pull to center: Move selected shapes or layers toward center of artboard.",
@@ -660,7 +763,7 @@
     "author": "Delighted Inc.",
     "title": "Scale All in Place",
     "name": "sketch-scale-all-in-place",
-    "lastUpdated": "2017-01-09 06:21:28 UTC"
+    "lastUpdated": "2017-06-20 21:56:33 UTC"
   },
   {
     "description": "Upload to CloudApp: Upload the current artboard or page to CloudApp.",
@@ -676,14 +779,14 @@
     "author": "Florian Schulz",
     "title": "Sketch Mate",
     "name": "Sketch-Mate",
-    "lastUpdated": "2017-04-27 12:29:45 UTC"
+    "lastUpdated": "2017-07-28 14:23:19 UTC"
   },
   {
     "description": "Distribute selection objects vertically or horizontally with a given spacing between them.",
     "name": "SketchDistributor",
     "author": "Peter Strömberg",
     "owner": "PEZ",
-    "lastUpdated": "2017-02-18 12:35:32 UTC"
+    "lastUpdated": "2017-06-08 11:52:49 UTC"
   },
   {
     "description": "Export a full story flow and dev spec in one shortcut.",
@@ -699,7 +802,7 @@
     "title": "Artboard Tools",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2016-01-08 18:50:34 UTC"
+    "lastUpdated": "2017-07-26 19:41:05 UTC"
   },
   {
     "description": "Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.",
@@ -715,7 +818,7 @@
     "title": "Mail Merge",
     "author": "Robert Clarke",
     "owner": "kumo",
-    "lastUpdated": "2016-05-30 20:35:17 UTC"
+    "lastUpdated": "2017-07-01 13:12:34 UTC"
   },
   {
     "description": "Generate user walkthroughs from Artboards in Sketch.",
@@ -723,7 +826,7 @@
     "title": "User Flows",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2017-04-16 16:36:58 UTC"
+    "lastUpdated": "2017-06-29 05:28:02 UTC"
   },
   {
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
@@ -731,7 +834,7 @@
     "title": "Utility Belt",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2016-09-08 17:09:37 UTC"
+    "lastUpdated": "2017-07-07 14:38:04 UTC"
   },
   {
     "description": "A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.",
@@ -747,14 +850,14 @@
     "owner": "preciousforever",
     "title": "Sketch Data Populator",
     "name": "sketch-data-populator",
-    "lastUpdated": "2017-04-11 13:37:41 UTC"
+    "lastUpdated": "2017-06-19 20:10:14 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
-    "owner": "preciousforever",
-    "author": "precious design studio",
-    "title": "Sketch Aspect Ratio",
     "name": "sketch-aspect-ratio",
+    "title": "Sketch Aspect Ratio",
+    "author": "precious design studio",
+    "owner": "preciousforever",
     "lastUpdated": "2017-01-13 13:43:56 UTC"
   },
   {
@@ -763,7 +866,7 @@
     "title": "Sketch Tiles",
     "author": "Robert Clarke",
     "owner": "kumo",
-    "lastUpdated": "2015-06-06 06:54:34 UTC"
+    "lastUpdated": "2017-07-01 13:13:10 UTC"
   },
   {
     "description": "Sketch plugin for swaping styles between two layers.",
@@ -771,7 +874,7 @@
     "title": "Swap Styles",
     "author": "Oz Pinhas",
     "owner": "ozzik",
-    "lastUpdated": "2016-10-13 17:17:32 UTC"
+    "lastUpdated": "2017-06-18 16:47:16 UTC"
   },
   {
     "description": "Sketch plugin to swap positions of two elements.",
@@ -786,7 +889,7 @@
     "title": "Sketch Make Long Shadow",
     "author": "Jay Holtslander",
     "owner": "JayHoltslander",
-    "lastUpdated": "2017-03-24 17:15:24 UTC"
+    "lastUpdated": "2017-06-12 15:07:17 UTC"
   },
   {
     "description": "Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.",
@@ -819,7 +922,7 @@
     "title": "IconSlate",
     "author": "Jérémy Marchand",
     "owner": "kodlian",
-    "lastUpdated": "2015-12-05 10:23:28 UTC"
+    "lastUpdated": "2017-05-06 21:22:31 UTC"
   },
   {
     "description": "Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes.",
@@ -936,7 +1039,7 @@
     "title": "Flowmate",
     "author": "Sanghun Woo",
     "owner": "wodory",
-    "lastUpdated": "2016-02-04 01:46:25 UTC"
+    "lastUpdated": "2017-05-10 13:19:00 UTC"
   },
   {
     "description": "A Sketch Plugin that creates a local web server for your Sketch Documents.",
@@ -964,14 +1067,6 @@
     "lastUpdated": "2017-04-09 09:20:21 UTC"
   },
   {
-    "description": "Sketch plugin to increase or decrease the corner radius on rectangle shapes using keyboard shortcuts.",
-    "name": "sketch-radius",
-    "title": "Corner Radius Shortcuts Plugin for Sketch",
-    "author": "Arjen van Reeven",
-    "owner": "arjenvr",
-    "lastUpdated": "2015-08-22 21:02:54 UTC"
-  },
-  {
     "description": "State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.",
     "name": "statemachine-sketch",
     "title": "State Machine",
@@ -993,15 +1088,7 @@
     "title": "Artboard Tricks",
     "author": "Roman Nurik",
     "owner": "romannurik",
-    "lastUpdated": "2017-02-14 17:53:32 UTC"
-  },
-  {
-    "description": "Font awesome plugin for sketch",
-    "name": "sketch-use-fontawesome",
-    "title": "Use Font Awesome",
-    "author": "Kerem Sevencan",
-    "owner": "keremciu",
-    "lastUpdated": "2017-03-17 13:13:05 UTC"
+    "lastUpdated": "2017-07-12 20:47:17 UTC"
   },
   {
     "description": "Use icon fonts in sketch",
@@ -1009,21 +1096,21 @@
     "title": "Use Icon Fonts in Sketch",
     "author": "Kerem Sevencan",
     "owner": "keremciu",
-    "lastUpdated": "2017-04-28 10:29:41 UTC"
+    "lastUpdated": "2017-06-28 20:49:12 UTC"
   },
   {
     "description": "Some handy tools for Sketch",
     "name": "Handy-Tools",
     "title": "Handy Tools",
     "owner": "webpatch",
-    "lastUpdated": "2015-12-07 14:59:36 UTC"
+    "lastUpdated": "2017-05-03 07:31:18 UTC"
   },
   {
     "description": "Easily import symbols from another Sketch file",
     "name": "sketch-import-symbols",
     "title": "Import Symbols",
     "owner": "kmerc",
-    "lastUpdated": "2017-04-13 18:28:23 UTC"
+    "lastUpdated": "2017-07-18 21:05:34 UTC"
   },
   {
     "description": "Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)",
@@ -1080,14 +1167,6 @@
     "lastUpdated": "2016-11-14 08:11:14 UTC"
   },
   {
-    "description": "Sketch plugin that helps you prepare frame sequences to combine with Generate Gif plugin to generate animated gifs inside Sketch. Perfect for Dribbble.",
-    "name": "frame-sequencer",
-    "title": "Frame Sequencer",
-    "author": "Dawid Woźniak",
-    "owner": "dawidw",
-    "lastUpdated": "2015-08-20 14:06:10 UTC"
-  },
-  {
     "description": "Sketch Plugin to generate iOS view code",
     "name": "iosViews",
     "author": "Andrew Charkin",
@@ -1095,60 +1174,20 @@
     "lastUpdated": "2017-04-17 15:53:22 UTC"
   },
   {
-    "description": "List all exportable layers/slices and navigate to selection.",
-    "name": "Find-Slice-Sketch-Plugin",
-    "title": "FindSlice",
-    "author": "Adam Kirk",
-    "owner": "atomkirk",
-    "lastUpdated": "2015-08-17 16:29:42 UTC"
-  },
-  {
-    "description": "A template/example Sketch plugin with a UI built in Interface Builder and connected to CocoaScript through black magic",
-    "name": "Sketch-NibUITemplatePlugin",
-    "title": "Sketch Nib UI Template Plugin",
-    "author": "Roman Nurik",
-    "owner": "romannurik",
-    "lastUpdated": "2015-08-13 05:41:32 UTC"
-  },
-  {
-    "description": "Sketch plugin that generates Objective-C Color Theme files.",
-    "name": "Sketch-Color-Theme-Plugin",
-    "title": "Sketch Color Theme Plugin",
-    "author": "Alejandro Martínez",
-    "owner": "alexito4",
-    "lastUpdated": "2015-08-12 18:57:51 UTC"
-  },
-  {
-    "description": "Plugin to create motion designs in Sketch",
-    "name": "Sketch-Motion",
-    "title": "Sketch Motion",
-    "author": "Nicholas Wallen",
-    "owner": "nwallen",
-    "lastUpdated": "2015-08-12 06:59:10 UTC"
-  },
-  {
-    "description": "Sketch all caps plugin",
-    "name": "Sketch-All-Caps",
-    "title": "Sketch All Caps",
-    "author": "Eivind Bøhler",
-    "owner": "eivindbohler",
-    "lastUpdated": "2015-08-08 07:07:33 UTC"
-  },
-  {
     "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
     "name": "Unsplash-It-Sketch",
     "title": "Unsplash It",
     "author": "Manuele Capacci",
     "owner": "fhuel",
-    "lastUpdated": "2017-03-20 15:59:06 UTC"
+    "lastUpdated": "2017-06-01 13:19:55 UTC"
   },
   {
     "description": "Sketch 3 plugin to do a simple find and replace on text within layers",
     "name": "Sketch-Find-And-Replace",
     "title": "Find And Replace",
-    "author": "Martin Steven",
-    "owner": "mscodemonkey",
-    "lastUpdated": "2017-02-15 20:12:57 UTC"
+    "author": "Martin Steven. Maintained by Thierry Charbonnel",
+    "owner": "thierryc",
+    "lastUpdated": "2017-08-01 17:50:24 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
@@ -1156,7 +1195,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2016-08-01 16:16:47 UTC"
+    "lastUpdated": "2017-07-14 11:49:51 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -1180,7 +1219,7 @@
     "title": "Sketch Palettes",
     "author": "Andrew Fiorillo",
     "owner": "andrewfiorillo",
-    "lastUpdated": "2017-04-27 13:41:00 UTC"
+    "lastUpdated": "2017-07-21 17:52:45 UTC"
   },
   {
     "description": "A plugin that integrates constraints in Sketch to lay out layers.",
@@ -1188,7 +1227,17 @@
     "title": "Sketch Constraints",
     "author": "Marc Bouchenoire",
     "owner": "bouchenoiremarc",
-    "lastUpdated": "2017-04-04 07:14:10 UTC"
+    "homepage": "https://github.com/bouchenoiremarc/Sketch-Constraints",
+    "lastUpdated": "2017-07-05 14:08:04 UTC"
+  },
+  {
+    "description": "A Sketch plugin that uses the Mapbox API to fill layers with specific and custom maps.",
+    "name": "Sketch-Maps",
+    "title": "Sketch Maps",
+    "author": "Marc Bouchenoire",
+    "owner": "bouchenoiremarc",
+    "homepage": "https://github.com/bouchenoiremarc/Sketch-Maps",
+    "lastUpdated": "2017-09-10 22:39:00 UTC"
   },
   {
     "description": "Sort artboards and layers by name",
@@ -1196,7 +1245,7 @@
     "title": "Sort Me",
     "author": "Roman Shamin",
     "owner": "romashamin",
-    "lastUpdated": "2016-05-12 14:23:32 UTC"
+    "lastUpdated": "2017-08-01 12:05:16 UTC"
   },
   {
     "description": "A Sketch plugin that changes your text to TitleCase",
@@ -1227,7 +1276,7 @@
     "title": "Date Generator",
     "author": "Bernardo Horta",
     "owner": "bshorta",
-    "lastUpdated": "2017-03-02 19:07:46 UTC"
+    "lastUpdated": "2017-07-17 08:58:59 UTC"
   },
   {
     "description": "A plugin that selects layers with similar attributes to those of the layer currently selected.",
@@ -1235,14 +1284,14 @@
     "title": "Select Similar Layers",
     "owner": "wonderbit",
     "author": "Wessley Roche",
-    "lastUpdated": "2017-03-10 08:12:28 UTC"
+    "lastUpdated": "2017-08-03 19:38:54 UTC"
   },
   {
     "description": "CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.",
     "name": "CSSketch",
     "author": "John Coates",
     "owner": "JohnCoates",
-    "lastUpdated": "2017-04-04 06:40:51 UTC"
+    "lastUpdated": "2017-07-26 22:42:21 UTC"
   },
   {
     "description": "Sketch Plugin to round shape size to the nearest multiple of 8",
@@ -1258,7 +1307,7 @@
     "title": "Unlock All Layers & Unlock Hover",
     "author": "Truth Labs",
     "owner": "truthlabs",
-    "lastUpdated": "2016-10-05 19:30:36 UTC"
+    "lastUpdated": "2017-06-08 19:34:26 UTC"
   },
   {
     "description": "This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design",
@@ -1337,7 +1386,7 @@
     "title": "Fluid for Sketch",
     "owner": "matt-curtis",
     "author": "Matt Curtis",
-    "lastUpdated": "2017-04-04 06:36:36 UTC"
+    "lastUpdated": "2017-07-03 22:21:13 UTC"
   },
   {
     "description": "Text Size Validator for iOS or Android UI Designers.",
@@ -1360,7 +1409,7 @@
     "name": "Comma",
     "owner": "margusholland",
     "author": "Margus Holland",
-    "lastUpdated": "2017-03-30 14:13:24 UTC"
+    "lastUpdated": "2017-06-29 13:56:07 UTC"
   },
   {
     "description": "A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated",
@@ -1368,7 +1417,7 @@
     "title": "Place Linked Bitmap",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2017-04-07 13:52:43 UTC"
+    "lastUpdated": "2017-07-06 15:08:12 UTC"
   },
   {
     "description": "Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.",
@@ -1386,12 +1435,12 @@
     "lastUpdated": "2015-12-10 09:22:34 UTC"
   },
   {
-    "description": "Some scripts for Bohemian Coding’s Sketch.",
+    "description": "Make Sketch more efficient. A lot of useful plugins in one.",
     "name": "Automate-Sketch",
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2017-04-27 10:29:36 UTC"
+    "lastUpdated": "2017-08-03 11:29:38 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1408,7 +1457,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2016-12-22 10:00:15 UTC"
+    "lastUpdated": "2017-06-01 23:13:51 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -1424,7 +1473,7 @@
     "title": "Copy & Paste Guides",
     "author": "Pixelpillow",
     "owner": "pixelpillow",
-    "lastUpdated": "2015-12-14 16:19:43 UTC"
+    "lastUpdated": "2017-05-10 17:18:47 UTC"
   },
   {
     "description": "Sketch plugin to export assets at different scale sizes",
@@ -1440,7 +1489,7 @@
     "title": "Sketch Image Average Color",
     "author": "Antonio J. Martinez",
     "owner": "AntonioJMartinez",
-    "lastUpdated": "2016-08-17 11:47:09 UTC"
+    "lastUpdated": "2017-07-02 15:04:10 UTC"
   },
   {
     "description": "Sketch plugin to generate FramerJS prototypes. Just have your motion done.",
@@ -1449,7 +1498,7 @@
     "author": "Timur Nurutdinov",
     "owner": "timurnurutdinov",
     "homepage": "http://timurnurutdinov.github.io/framerinventory/",
-    "lastUpdated": "2017-04-28 11:28:45 UTC"
+    "lastUpdated": "2017-07-18 09:01:25 UTC"
   },
   {
     "description": "Convert all your similar layers to symbols with a single click.",
@@ -1473,7 +1522,7 @@
     "title": "Replace Colour",
     "author": "Lewis Howles",
     "owner": "lewishowles",
-    "lastUpdated": "2017-04-14 11:46:59 UTC"
+    "lastUpdated": "2017-05-06 21:09:01 UTC"
   },
   {
     "description": "Sketch plug-in to distribute layers evenly",
@@ -1489,7 +1538,7 @@
     "title": "Bound with Box",
     "author": "Lewis Howles",
     "owner": "lewishowles",
-    "lastUpdated": "2017-02-12 14:11:20 UTC"
+    "lastUpdated": "2017-05-06 21:08:25 UTC"
   },
   {
     "description": "Sketch plugin to paste an image from your clipboard as the fill for any shape",
@@ -1505,7 +1554,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2017-04-18 10:11:11 UTC"
+    "lastUpdated": "2017-07-12 09:19:54 UTC"
   },
   {
     "description": "A plugin that creates a circle with a configurable number of segments.",
@@ -1530,7 +1579,7 @@
     "title": "Select Parent Artboards",
     "owner": "nefaurk",
     "author": "Nefaur Khandker",
-    "lastUpdated": "2017-03-07 16:10:17 UTC"
+    "lastUpdated": "2017-06-29 02:02:54 UTC"
   },
   {
     "description": "Copy & paste only shadow styles from layers without others styles getting in the way.",
@@ -1568,7 +1617,7 @@
     "name": "sketch-dynamic-button-3.5",
     "title": "Dynamic button plugin for Sketch.app 3.5",
     "owner": "fuggfuggfugg",
-    "lastUpdated": "2017-03-13 04:52:18 UTC"
+    "lastUpdated": "2017-07-09 01:35:47 UTC"
   },
   {
     "description": "Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages",
@@ -1584,7 +1633,7 @@
     "title": "Base64 PNG Export",
     "owner": "jawayang",
     "author": "james yang",
-    "lastUpdated": "2016-03-04 15:05:33 UTC"
+    "lastUpdated": "2017-05-14 16:23:20 UTC"
   },
   {
     "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
@@ -1599,7 +1648,7 @@
     "name": "styledrop",
     "owner": "ryanmclaughlin",
     "author": "Ryan McLaughlin",
-    "lastUpdated": "2017-04-12 23:26:21 UTC"
+    "lastUpdated": "2017-06-01 23:42:12 UTC"
   },
   {
     "description": "Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.",
@@ -1629,7 +1678,7 @@
     "name": "Prism",
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
-    "lastUpdated": "2017-04-28 09:38:18 UTC"
+    "lastUpdated": "2017-08-07 09:58:01 UTC"
   },
   {
     "description": "Sketch plugin to pseudolocalize text layers",
@@ -1644,7 +1693,7 @@
     "name": "AnimateMate",
     "owner": "Creatide",
     "author": "Sakari Niittymaa",
-    "lastUpdated": "2016-11-09 15:37:54 UTC"
+    "lastUpdated": "2017-07-14 05:27:48 UTC"
   },
   {
     "description": "Export Sketch Artboard to Trello",
@@ -1682,7 +1731,7 @@
     "name": "Formr",
     "owner": "lessthanzero",
     "author": "Alexander Katin",
-    "lastUpdated": "2017-03-25 22:44:25 UTC"
+    "lastUpdated": "2017-07-29 19:46:01 UTC"
   },
   {
     "description": "A plugin for Sketch to fix all of those partial pixels",
@@ -1710,11 +1759,10 @@
   },
   {
     "description": "A sketch plugin to support the open color file format",
-    "name": "sketch-opencolor",
     "title": "Open Color Plugin for Sketch",
     "owner": "opencolor-tools",
     "author": "OpenColor",
-    "lastUpdated": "2016-12-16 09:48:24 UTC"
+    "homepage": "http://opencolor.tools/"
   },
   {
     "description": "Multi step user flows in Framer.js",
@@ -1729,7 +1777,7 @@
     "name": "arrowfy",
     "owner": "joclin",
     "author": "Jocelyn Lin",
-    "lastUpdated": "2016-09-06 19:14:07 UTC"
+    "lastUpdated": "2017-06-12 02:05:55 UTC"
   },
   {
     "description": "A Sketch plugin that adjusts a shape layer according to the attributes of a text layer",
@@ -1791,7 +1839,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2017-04-15 17:13:38 UTC"
+    "lastUpdated": "2017-06-01 16:04:44 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -1799,7 +1847,7 @@
     "name": "compo-sketch",
     "owner": "romashamin",
     "author": "Roman Shamin",
-    "lastUpdated": "2016-11-09 08:40:13 UTC"
+    "lastUpdated": "2017-08-01 12:07:21 UTC"
   },
   {
     "description": "Quickly generate a rectangle or oval with specific dimensions and positioning.",
@@ -1811,19 +1859,17 @@
   },
   {
     "description": "Automated and mathematically precise optical adjustments in Sketch.",
-    "name": "optically-sketch-plugin",
     "title": "Optically for Sketch",
     "author": "Vlad Danilov",
     "owner": "vmdanilov",
-    "homepage": "http://designplugins.com/optically",
-    "lastUpdated": "2016-06-15 07:05:26 UTC"
+    "homepage": "http://designplugins.com/optically"
   },
   {
     "description": "Extract background fill image in Sketch",
     "name": "ImageExtractorSketch",
     "owner": "mendyismyname",
     "author": "Mendy Seldowitz",
-    "lastUpdated": "2016-06-19 23:35:39 UTC"
+    "lastUpdated": "2017-06-20 20:12:47 UTC"
   },
   {
     "description": "Create different artboard states and switch between them easily",
@@ -1838,7 +1884,7 @@
     "title": "Sketch SF UI Font Fixer",
     "owner": "kylehickinson",
     "author": "Kyle Hickinson",
-    "lastUpdated": "2017-03-26 03:35:56 UTC"
+    "lastUpdated": "2017-06-08 03:51:53 UTC"
   },
   {
     "description": "This plugin helps you easily duplicate your objects to all Artboards.",
@@ -1904,21 +1950,21 @@
     "author": "Code Arrows",
     "homepage": "https://sketchfocus.com",
     "downloadURL": "https://sketchfocus.com/static/plugin/SketchFocus.zip",
-    "lastUpdated": "2017-01-12 21:37:13 UTC"
+    "lastUpdated": "2017-06-01 23:15:59 UTC"
   },
   {
     "description": "Sketch Plugin to find and select font items in a current page",
     "name": "FontFinder",
     "owner": "ukn530",
     "author": "Tatsuya Uchida",
-    "lastUpdated": "2016-11-16 12:39:35 UTC"
+    "lastUpdated": "2017-07-07 14:06:05 UTC"
   },
   {
     "description": "Sketch Internationalization Plugin",
     "name": "SketchI18N",
     "owner": "cute",
     "author": "Guangming Li ",
-    "lastUpdated": "2017-04-24 08:39:25 UTC"
+    "lastUpdated": "2017-08-01 22:53:00 UTC"
   },
   {
     "description": "A Sketch plugin for easy multi-language design",
@@ -1933,21 +1979,21 @@
     "name": "Paster",
     "owner": "Volorf",
     "author": "Oleg Frolov",
-    "lastUpdated": "2016-11-06 17:44:20 UTC"
+    "lastUpdated": "2017-05-09 14:41:36 UTC"
   },
   {
     "description": "A Sketch plugin to create element with the keyboards!",
     "name": "Shapr",
     "owner": "vincenzopetito",
     "author": "Vincenzo Petito",
-    "lastUpdated": "2016-10-27 20:45:47 UTC"
+    "lastUpdated": "2017-07-31 08:19:55 UTC"
   },
   {
     "description": "Sketch Plugin for wrapping a new artboard around what you've selected",
     "name": "SizeArtboard",
     "owner": "BrendanMiller",
     "author": "brendan miller",
-    "lastUpdated": "2016-06-27 20:14:01 UTC"
+    "lastUpdated": "2017-06-01 23:24:22 UTC"
   },
   {
     "description": "A simple Sketch plugin to generate artboard-based changelogs",
@@ -1963,7 +2009,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2017-04-26 00:55:20 UTC"
+    "lastUpdated": "2017-06-30 22:14:58 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -1987,7 +2033,7 @@
     "name": "shared-text-styles",
     "owner": "nilshoenson",
     "author": "Nils Hoenson",
-    "lastUpdated": "2017-03-24 16:22:49 UTC"
+    "lastUpdated": "2017-06-27 09:04:09 UTC"
   },
   {
     "description": "Sketch plugin for adding page numbers to artboards.",
@@ -2011,7 +2057,7 @@
     "title": "Toggle Constrain Proportions",
     "owner": "ErikFontanel",
     "author": "Erik Gelderblom",
-    "lastUpdated": "2017-03-29 15:33:33 UTC"
+    "lastUpdated": "2017-07-03 18:11:12 UTC"
   },
   {
     "description": "A sketch plugin to select all the child layers of a group.",
@@ -2027,7 +2073,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2017-04-19 02:25:12 UTC"
+    "lastUpdated": "2017-08-04 11:38:13 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2043,7 +2089,7 @@
     "title": "Quick Presentation",
     "owner": "timothywhalin",
     "author": "Timothy Whalin",
-    "lastUpdated": "2017-04-14 16:26:39 UTC"
+    "lastUpdated": "2017-07-25 15:04:08 UTC"
   },
   {
     "description": "A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices, you can choose to autosave in a path or not.",
@@ -2051,7 +2097,7 @@
     "title": "Coffee Slice",
     "owner": "KivyGogh",
     "author": "goudan",
-    "lastUpdated": "2016-10-14 07:12:45 UTC"
+    "lastUpdated": "2017-05-03 08:56:11 UTC"
   },
   {
     "description": "Sketch plugin that arranges symbol artboards",
@@ -2066,7 +2112,7 @@
     "name": "sketch-duplicatesymbol",
     "owner": "marianomike",
     "author": "Mike Mariano",
-    "lastUpdated": "2016-09-03 04:19:30 UTC"
+    "lastUpdated": "2017-06-01 23:56:49 UTC"
   },
   {
     "description": "Sketch plugin for convert and copy text layers into HTML lists.",
@@ -2074,7 +2120,7 @@
     "title": "Sketch Markup Listify",
     "owner": "marisaroque",
     "author": "Marisa Roque",
-    "lastUpdated": "2016-11-17 15:33:45 UTC"
+    "lastUpdated": "2017-06-07 17:18:13 UTC"
   },
   {
     "description": "A latin text generator similar to Lorem Ipsum. The plugin outputs randomly ordered paragraph text with three variations. You can use a random word count, a specific word count or inject random content into an existing text blocks.",
@@ -2128,7 +2174,7 @@
     "name": "slicer",
     "owner": "ozzik",
     "author": "Oz Pinhas",
-    "lastUpdated": "2017-01-15 20:41:19 UTC"
+    "lastUpdated": "2017-06-18 17:03:23 UTC"
   },
   {
     "description": "Organize your symbols page and layer list, based on the symbol names.",
@@ -2136,7 +2182,7 @@
     "title": "Symbol Organizer",
     "owner": "sonburn",
     "author": "Jason Burns",
-    "lastUpdated": "2017-04-15 03:45:27 UTC"
+    "lastUpdated": "2017-08-04 09:06:46 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.",
@@ -2168,7 +2214,7 @@
     "title": "Font Packer",
     "owner": "bigxixi",
     "author": "Big XiXi",
-    "lastUpdated": "2016-10-24 11:38:20 UTC"
+    "lastUpdated": "2017-07-25 19:02:31 UTC"
   },
   {
     "description": "Sketch3 plugin, One key export Android/iOS App icons.",
@@ -2184,7 +2230,7 @@
     "title": "Push and Shove",
     "owner": "ozzik",
     "author": "Oz Pinhas",
-    "lastUpdated": "2017-03-14 06:12:21 UTC"
+    "lastUpdated": "2017-06-18 16:54:07 UTC"
   },
   {
     "description": "Sketch plugin that lets you quickly apply colors from the color palette to selected elements- 🎨",
@@ -2199,7 +2245,7 @@
     "title": "Find All Instances of Symbol",
     "owner": "nmwoods1",
     "author": "nmwoods1",
-    "lastUpdated": "2016-10-23 22:06:14 UTC"
+    "lastUpdated": "2017-07-14 00:16:13 UTC"
   },
   {
     "description": "Add Guides to edges and midpoints at once.",
@@ -2207,7 +2253,7 @@
     "title": "Sketch Guides",
     "owner": "luvmex",
     "author": "Celyn Xie",
-    "lastUpdated": "2017-01-30 12:35:22 UTC"
+    "lastUpdated": "2017-05-11 07:36:55 UTC"
   },
   {
     "description": "Exports a simple website using a bunch of conventions and a Sketch document as the structure.",
@@ -2231,7 +2277,7 @@
     "title": "Butter",
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
-    "lastUpdated": "2016-12-12 12:27:03 UTC"
+    "lastUpdated": "2017-07-11 03:27:08 UTC"
   },
   {
     "description": "Rename all symbol instances to the name of their master.",
@@ -2271,7 +2317,7 @@
     "title": "Sketch Select",
     "owner": "canisminor1990",
     "author": "Canis Minor",
-    "lastUpdated": "2016-12-13 09:13:33 UTC"
+    "lastUpdated": "2017-08-04 05:16:42 UTC"
   },
   {
     "description": "A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.",
@@ -2279,7 +2325,7 @@
     "title": "Sketch Color Contrast Analyzer",
     "owner": "eaugustine",
     "author": null,
-    "lastUpdated": "2016-11-21 16:50:28 UTC"
+    "lastUpdated": "2017-05-10 14:57:06 UTC"
   },
   {
     "description": "Sketch plugin for creating a clickthrough HTMLprototype",
@@ -2287,7 +2333,7 @@
     "title": "Sketch To Clickthrough HTML",
     "owner": "amin-nas",
     "author": "Amin",
-    "lastUpdated": "2017-01-24 23:49:43 UTC"
+    "lastUpdated": "2017-05-12 17:38:51 UTC"
   },
   {
     "description": "Helps you to save all text data on current page in customizable format and filter the excess.",
@@ -2303,7 +2349,7 @@
     "title": "Sketch Color Vars",
     "owner": "philsinatra",
     "author": "Phil Sinatra",
-    "lastUpdated": "2017-03-14 13:13:34 UTC"
+    "lastUpdated": "2017-07-07 13:04:13 UTC"
   },
   {
     "description": "Make great typography [Sketch plugin]",
@@ -2319,7 +2365,7 @@
     "title": "HSL Color Picker",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2017-04-18 04:09:14 UTC"
+    "lastUpdated": "2017-06-29 04:31:20 UTC"
   },
   {
     "description": "A sketch plugin for taking notes",
@@ -2327,7 +2373,7 @@
     "title": "Notes",
     "owner": "cshdllr",
     "author": "Jason Cashdollar",
-    "lastUpdated": "2017-03-28 04:39:07 UTC"
+    "lastUpdated": "2017-07-04 17:36:09 UTC"
   },
   {
     "description": "Automatically create RTL layouts of your designs with this plugin for Bohemian Coding's Sketch 3",
@@ -2335,7 +2381,7 @@
     "title": "Sketch RTL",
     "owner": "devinmancuso",
     "author": "Devin Mancuso",
-    "lastUpdated": "2017-01-22 22:58:15 UTC"
+    "lastUpdated": "2017-08-03 16:07:32 UTC"
   },
   {
     "description": "Manage the prefixes of your layers, artboards or symbols",
@@ -2351,7 +2397,7 @@
     "title": "Fitter Sketch Plugin",
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
-    "lastUpdated": "2016-11-15 13:33:27 UTC"
+    "lastUpdated": "2017-07-12 15:04:41 UTC"
   },
   {
     "description": "Generate Chinese names for text layers.",
@@ -2365,9 +2411,9 @@
     "description": "A basic spellchecker that checks all layers on a page in Sketch",
     "name": "sketch-spellcheck-all-layers",
     "title": "Sketch Spellcheck All Layers",
-    "owner": "ethology-co",
-    "author": "Ethology",
-    "lastUpdated": "2017-04-07 14:56:28 UTC"
+    "owner": "Tallwave",
+    "author": "Tallwave",
+    "lastUpdated": "2017-07-28 05:57:10 UTC"
   },
   {
     "description": "Plugin to fill a layer with a map generated from a location (Powered by Google Maps)",
@@ -2375,7 +2421,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2017-04-16 14:12:44 UTC"
+    "lastUpdated": "2017-06-21 21:31:34 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2383,7 +2429,7 @@
     "title": "Nudged",
     "owner": "KevinWoodhouse",
     "author": "Kevin Woodhouse",
-    "lastUpdated": "2017-03-17 14:22:12 UTC"
+    "lastUpdated": "2017-07-03 12:32:11 UTC"
   },
   {
     "description": "A Sketch plugin to export sketch file to Adobe After Effect",
@@ -2391,7 +2437,7 @@
     "title": "Sketch2AE",
     "owner": "bigxixi",
     "author": "Big XiXi",
-    "lastUpdated": "2017-02-12 01:56:46 UTC"
+    "lastUpdated": "2017-08-07 05:43:16 UTC"
   },
   {
     "description": "A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.",
@@ -2399,7 +2445,7 @@
     "title": "Sketch Swatches",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2017-04-27 10:28:59 UTC"
+    "lastUpdated": "2017-06-02 16:24:04 UTC"
   },
   {
     "description": "A Sketch Plugin for history back and forward.",
@@ -2407,7 +2453,7 @@
     "title": "Sketch Hback Plugin",
     "owner": "YusukeKokubo",
     "author": "Yusuke Kokubo",
-    "lastUpdated": "2017-04-20 01:30:36 UTC"
+    "lastUpdated": "2017-06-05 01:12:15 UTC"
   },
   {
     "description": "Remove duplicate styles in Sketch",
@@ -2423,7 +2469,7 @@
     "title": "TinyFaces 👦🏼👨🏾👩🏻",
     "owner": "maximedegreve",
     "author": "Maxime De Greve",
-    "lastUpdated": "2017-02-09 07:31:46 UTC"
+    "lastUpdated": "2017-06-21 20:13:55 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play",
@@ -2431,7 +2477,7 @@
     "title": "Sketchsize",
     "owner": "samlfsun",
     "author": "samlfsun",
-    "lastUpdated": "2017-01-11 08:10:43 UTC"
+    "lastUpdated": "2017-06-02 00:00:44 UTC"
   },
   {
     "description": "A Sketch Plugin to generate .clr(Color Palette) file from selected layers.",
@@ -2439,7 +2485,7 @@
     "title": "Sketch Color Palette",
     "owner": "nerd0geek1",
     "author": "Kohei Tabata",
-    "lastUpdated": "2017-01-26 17:05:21 UTC"
+    "lastUpdated": "2017-07-10 11:04:09 UTC"
   },
   {
     "description": "Adds ability to have dynamic symbol buttons which resizes when the text changes.",
@@ -2447,7 +2493,7 @@
     "title": "Dynamic Symbol Button",
     "author": "Kristof Dreier",
     "owner": "herrkris",
-    "lastUpdated": "2017-03-03 20:26:40 UTC"
+    "lastUpdated": "2017-06-03 08:16:33 UTC"
   },
   {
     "description": "A simple Sketch plugin for replacing images with your copied image of your clipboard.",
@@ -2455,7 +2501,7 @@
     "title": "Sketch Image Replaste",
     "owner": "mheesakkers",
     "author": "Misha",
-    "lastUpdated": "2017-04-20 13:18:24 UTC"
+    "lastUpdated": "2017-06-06 09:49:34 UTC"
   },
   {
     "description": "A Sketch plugin for managing all plugin shortcuts.",
@@ -2463,7 +2509,7 @@
     "title": "Sketch Plugin Monster",
     "owner": "PeachScript",
     "author": "Peach",
-    "lastUpdated": "2017-03-13 11:57:00 UTC"
+    "lastUpdated": "2017-07-31 06:34:22 UTC"
   },
   {
     "description": "Sketch App Plugin For Applying Random Colors To A Selection Of Objects.",
@@ -2471,7 +2517,7 @@
     "title": "Randomcolors",
     "owner": "avadhbsd",
     "author": "Avadh",
-    "lastUpdated": "2017-03-11 07:44:50 UTC"
+    "lastUpdated": "2017-07-13 18:17:49 UTC"
   },
   {
     "description": "Rotate the orientation of an artboard - from portrait to landscape, and vice versa.",
@@ -2495,7 +2541,7 @@
     "title": "Ps Guides",
     "owner": "pratikjshah",
     "author": "Pratik Shah",
-    "lastUpdated": "2017-04-21 19:18:47 UTC"
+    "lastUpdated": "2017-07-20 11:23:35 UTC"
   },
   {
     "description": "Sketch plugin for create squircle shapes.",
@@ -2503,7 +2549,7 @@
     "title": "Egmont Plugin",
     "owner": "interfacemarket",
     "author": "Interface.Market",
-    "lastUpdated": "2017-04-15 13:31:52 UTC"
+    "lastUpdated": "2017-06-01 23:23:42 UTC"
   },
   {
     "description": "Export all pages, current page or selected artboards into a PDF — based on a range of settings",
@@ -2511,7 +2557,7 @@
     "title": "📕 PDF Export",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2017-04-06 07:45:42 UTC"
+    "lastUpdated": "2017-07-12 03:28:45 UTC"
   },
   {
     "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
@@ -2519,7 +2565,7 @@
     "title": "Nudge Resize",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2017-03-09 13:36:06 UTC"
+    "lastUpdated": "2017-06-04 11:43:50 UTC"
   },
   {
     "description": "Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts",
@@ -2527,7 +2573,7 @@
     "title": "Nudge Corner Radius",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2017-03-12 00:05:00 UTC"
+    "lastUpdated": "2017-06-29 12:14:23 UTC"
   },
   {
     "description": "Simple scritp to create layers as margins",
@@ -2543,7 +2589,7 @@
     "title": "Sketch Styles Generator",
     "owner": "lucaorio",
     "author": "Luca Orio",
-    "lastUpdated": "2017-03-15 16:10:11 UTC"
+    "lastUpdated": "2017-07-10 19:30:31 UTC"
   },
   {
     "description": "Sketch plugin to stack a selection horizontally or vertically.",
@@ -2570,12 +2616,12 @@
     "lastUpdated": "2017-03-06 19:16:58 UTC"
   },
   {
-    "description": "A Sketch plugin to count: characters, words, whitespace, and paragraphs",
+    "description": "A plugin for Sketch to convert selected layers to individual symbols.",
     "name": "sketch-batch-create-symbols",
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2017-03-31 22:12:50 UTC"
+    "lastUpdated": "2017-05-30 18:12:46 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -2584,7 +2630,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2017-04-10 04:01:48 UTC"
+    "lastUpdated": "2017-07-17 09:10:59 UTC"
   },
   {
     "title": "Diverse UI Sketch Plugin",
@@ -2600,7 +2646,7 @@
     "author": "Finch.io",
     "owner": "finchalyzer",
     "name": "slinky",
-    "lastUpdated": "2017-04-08 09:01:03 UTC"
+    "lastUpdated": "2017-06-29 14:14:10 UTC"
   },
   {
     "title": "FlipSize",
@@ -2608,7 +2654,7 @@
     "author": "Jakub Juszczak",
     "owner": "apertureless",
     "name": "sketch-flip-size",
-    "lastUpdated": "2017-04-05 14:55:09 UTC"
+    "lastUpdated": "2017-06-10 11:47:06 UTC"
   },
   {
     "title": "English and Persian Lorem Ipsum",
@@ -2616,7 +2662,7 @@
     "author": "Mohammad Reza Mahmoudi",
     "owner": "Rezaaa",
     "name": "english-and-persian-lorem-ipsum",
-    "lastUpdated": "2017-04-06 13:45:27 UTC"
+    "lastUpdated": "2017-06-22 10:22:42 UTC"
   },
   {
     "title": "Cleanup Useless Groups",
@@ -2624,7 +2670,7 @@
     "author": "Ale Muñoz",
     "owner": "bomberstudios",
     "name": "Cleanup-Useless-Groups",
-    "lastUpdated": "2017-04-11 11:00:51 UTC"
+    "lastUpdated": "2017-06-02 00:07:16 UTC"
   },
   {
     "title": "Sketch Query Selection",
@@ -2632,7 +2678,7 @@
     "author": "Francis",
     "owner": "FrancisVega",
     "name": "sketch-query-selection",
-    "lastUpdated": "2017-04-21 11:34:51 UTC"
+    "lastUpdated": "2017-05-01 15:55:13 UTC"
   },
   {
     "title": "Bootstrap Grid",
@@ -2640,7 +2686,7 @@
     "author": "Vitaliy Kirenkov",
     "owner": "De-La-Vega",
     "name": "BootstrapGrid",
-    "lastUpdated": "2017-04-19 20:01:24 UTC"
+    "lastUpdated": "2017-06-15 13:20:45 UTC"
   },
   {
     "title": "Texts Translate",
@@ -2648,7 +2694,7 @@
     "author": "Santi",
     "owner": "laresgoiti",
     "name": "texts_translate",
-    "lastUpdated": "2017-04-20 21:21:36 UTC"
+    "lastUpdated": "2017-08-01 19:49:26 UTC"
   },
   {
     "title": "Sketch Arrange Artboards",
@@ -2656,7 +2702,7 @@
     "author": "Ken Moore",
     "owner": "kenmoore",
     "name": "sketch-arrange-artboards",
-    "lastUpdated": "2017-04-11 18:22:54 UTC"
+    "lastUpdated": "2017-06-28 15:25:54 UTC"
   },
   {
     "title": "Sketch Artboard",
@@ -2664,7 +2710,7 @@
     "author": "Ken Moore",
     "owner": "kenmoore",
     "name": "sketch-artboard",
-    "lastUpdated": "2017-04-11 16:58:18 UTC"
+    "lastUpdated": "2017-06-29 04:53:40 UTC"
   },
   {
     "title": "CopyColor",
@@ -2680,14 +2726,14 @@
     "author": "Justinmind",
     "owner": "vconesa",
     "name": "justinmind-sketch",
-    "lastUpdated": "2017-04-26 23:10:04 UTC"
+    "lastUpdated": "2017-06-09 23:07:36 UTC"
   },
   {
     "owner": "mludowise",
     "name": "Sketch-Plugin-Manager",
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "description": "Keeping your Sketch plugins up to date with the power of Git.",
-    "lastUpdated": "2017-04-17 23:24:00 UTC",
+    "lastUpdated": "2017-06-21 20:36:59 UTC",
     "title": "Sketch Plugin Manager 🔌",
     "author": "Mel Ludowise"
   },
@@ -2697,7 +2743,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "copy-framer-code",
-    "lastUpdated": "2017-05-03 07:43:59 UTC"
+    "lastUpdated": "2017-06-02 13:44:48 UTC"
   },
   {
     "title": "Table of Contents",
@@ -2705,6 +2751,347 @@
     "author": "You-Wen Liang (Mark)",
     "owner": "youwenliang",
     "name": "Table-of-Contents",
-    "lastUpdated": "2017-04-28 15:50:07 UTC"
+    "lastUpdated": "2017-06-23 03:48:54 UTC"
+  },
+  {
+    "title": "IconFlower",
+    "description": "Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.",
+    "author": "Avadh",
+    "owner": "avadhbsd",
+    "name": "IconFlower",
+    "homepage": "https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6",
+    "lastUpdated": "2017-05-30 20:17:26 UTC"
+  },
+  {
+    "title": "Fontily",
+    "description": " Sketch plugin for finding & replacing fonts for Sketch 3+",
+    "author": "partyka1",
+    "owner": "partyka1",
+    "name": "Fontily",
+    "lastUpdated": "2016-12-29 06:35:14 UTC"
+  },
+  {
+    "title": "Sketch Copy Paste Layout Settings",
+    "description": "Copy layout settings from one artboard and paste into multiples artboards.",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "sketch-copy-paste-layout-settings",
+    "lastUpdated": "2017-06-02 20:43:03 UTC"
+  },
+  {
+    "title": "Skatter",
+    "description": " A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes. ",
+    "author": "Josh Djuric",
+    "owner": "joshdjuric",
+    "name": "Skatter",
+    "lastUpdated": "2017-06-23 11:02:02 UTC"
+  },
+  {
+    "title": "Freeman Finchart Sketchplugin",
+    "description": "Draw financial chart like candle-stick or line chart like a boss.",
+    "author": "freeman990",
+    "owner": "freeman990",
+    "name": "Freeman-FinChart-SketchPlugin",
+    "lastUpdated": "2017-06-14 05:41:06 UTC"
+  },
+  {
+    "title": "Sketch Move Half Pixel",
+    "description": "🐾 Move layers half pixel",
+    "author": "Canis Minor",
+    "owner": "canisminor1990",
+    "name": "sketch-move-half-pixel",
+    "lastUpdated": "2017-08-07 07:22:49 UTC"
+  },
+  {
+    "title": "Appalette",
+    "description": "A Sketch plugin that let you find the color palette of (almost) any App.",
+    "author": "Carlos Navarro",
+    "owner": "Carlosarturo28",
+    "name": "Appalette",
+    "lastUpdated": "2017-06-06 20:56:24 UTC"
+  },
+  {
+    "title": "Seca",
+    "description": "Your friendly Sketch slicing helper for symbols",
+    "author": "iGenius",
+    "owner": "iGenius-Srl",
+    "name": "Seca",
+    "lastUpdated": "2017-06-12 07:53:54 UTC"
+  },
+  {
+    "title": "Sync To Slides",
+    "description": "Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step",
+    "author": "Siddhartha",
+    "owner": "websiddu",
+    "name": "sync-to-slides",
+    "homepage": "https://websiddu.github.io/sync-to-slides/",
+    "lastUpdated": "2017-06-08 05:11:52 UTC"
+  },
+  {
+    "title": "Sketch Search Everywhere",
+    "description": "Search layer and select it, by matching textValue, name or ObjectID.",
+    "author": "捻捻转儿",
+    "owner": "MrPeak",
+    "name": "sketch-search-everywhere",
+    "lastUpdated": "2017-06-25 04:37:38 UTC"
+  },
+  {
+    "title": "Sketch Show Layer Info",
+    "description": "Show selected layer's ObjectID, Class and ID. It is of great use for plugin development or file parsing.",
+    "author": "捻捻转儿",
+    "owner": "MrPeak",
+    "name": "sketch-show-layer-info",
+    "lastUpdated": "2017-06-23 17:50:27 UTC"
+  },
+  {
+    "title": "Numbering Machine",
+    "description": "Sketch plugin to generate IDs or Numbers for documents and export to PDF. Useful if you need to generate thousands pages with same template but with different IDs.",
+    "author": "Andrey Kolpakov",
+    "owner": "akolpakov",
+    "name": "sketch-numbering-machine",
+    "lastUpdated": "2017-07-12 08:47:29 UTC"
+  },
+  {
+    "description": "Add, share and discuss your Sketch artboards with the team in RealtimeBoard. The plugin allow to sync the artboards with the boards in one click",
+    "name": "sketch_plugin",
+    "title": "RealtimeBoard plugin for Sketch",
+    "owner": "RealtimeBoard",
+    "author": "RealtimeBoard",
+    "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
+    "lastUpdated": "2017-07-25 20:16:30 UTC"
+  },
+  {
+    "title": "ImageOptim Sketch Plugin",
+    "description": "ImageOptim plugin for the Sketch app",
+    "author": "ImageOptim",
+    "owner": "ImageOptim",
+    "name": "sketch-plugin",
+    "lastUpdated": "2017-05-11 21:51:32 UTC"
+  },
+  {
+    "title": "Images Reinvented",
+    "description": "A better way to use images in Sketch.",
+    "author": "Matthias Martin",
+    "owner": "roydigerhund",
+    "name": "Images-Reinvented",
+    "lastUpdated": "2017-08-01 14:08:26 UTC"
+  },
+  {
+    "title": "giancartboard",
+    "description": "Sketch plugin to export artboards in folders automatically numbered",
+    "author": "Matteo Vacca",
+    "owner": "MattCowBoy",
+    "name": "giancartboard",
+    "lastUpdated": "2017-07-10 13:05:11 UTC"
+  },
+  {
+    "title": "Gifmock For Sketch",
+    "description": "Easily create GIFs from your mocks",
+    "author": "Steven Fabre",
+    "owner": "stevenfabre",
+    "name": "Gifmock-for-Sketch",
+    "lastUpdated": "2017-07-04 23:42:35 UTC"
+  },
+  {
+    "title": "Logodrop",
+    "description": "A Sketch Plugin to get brand logos right into Sketch App.",
+    "author": "Iconscout",
+    "owner": "Iconscout",
+    "name": "logodrop",
+    "lastUpdated": "2017-07-14 14:51:08 UTC"
+  },
+  {
+    "title": "Moodboard Builder ",
+    "description": "A streamlined Sketch plugin for creating moodboards quickly and easily. Just do a search, check the suitable images, and - voila -  you have a beautiful moodboard. Keep inspired! 💡",
+    "author": "Reinvently",
+    "owner": "Reinvently",
+    "name": "moodboards-sketch-plugin",
+    "homepage": "http://reinvently.com/moodboard-builder-sketch-plugin/",
+    "lastUpdated": "2017-07-14 11:04:29 UTC"
+  },
+  {
+    "description": "Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.",
+    "name": "Google-sheets-content-sync-sketch-plugin",
+    "title": "Google Sheets Content Sync",
+    "owner": "DWilliames",
+    "author": "David Williames",
+    "lastUpdated": "2017-07-29 06:52:57 UTC"
+  },
+  {
+    "title": "Sketch Material",
+    "description": "Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc… ",
+    "author": "Siddhartha Gudipati",
+    "owner": "websiddu",
+    "name": "sketch-material",
+    "lastUpdated": "2017-07-21 06:45:35 UTC"
+  },
+  {
+    "title": "Sketch Number Artboards",
+    "description": "Sketch plugin to number artboards in order",
+    "author": "Mason Lee",
+    "owner": "mmasonlee",
+    "name": "sketch-number-artboards",
+    "lastUpdated": "2017-08-02 06:36:12 UTC"
+  },
+  {
+    "title": "Sketchplugin Align Artboards",
+    "description": "Easily aligns all artboards vertical or horizontal by name. Uses the same convention as 'Sketch export folder structure 'parent/child'.",
+    "author": "Doub.co",
+    "owner": "doubco",
+    "name": "sketchplugin-align-artboards",
+    "lastUpdated": "2017-05-25 15:13:45 UTC"
+  },
+  {
+    "title": "Icondrop",
+    "description": "Get access to 300,000+ icons right into Sketch App",
+    "author": "Iconscout",
+    "owner": "iconscout",
+    "name": "icondrop",
+    "lastUpdated": "2017-07-26 07:41:03 UTC"
+  },
+  {
+    "title": "Lists.design",
+    "description": "Populate text layers with realistic data from Lists.design",
+    "author": "Rafael E. Belliard",
+    "owner": "rebelliard",
+    "name": "sketch-plugin-lists.design",
+    "lastUpdated": "2017-08-05 02:47:55 UTC"
+  },
+  {
+    "owner": "Smartling",
+    "title": "Smartling",
+    "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
+    "homepage": "https://smartling.github.io/smartling-sketch-plugin/"
+  },
+  {
+    "title": "Sketch Name Organizer",
+    "description": "🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.",
+    "author": "Canis Minor",
+    "owner": "canisminor1990",
+    "name": "sketch-name-organizer",
+    "lastUpdated": "2017-08-04 05:44:14 UTC"
+  },
+  {
+    "title": "Instance Locator",
+    "description": "Locate instances of a selected symbol and navigate to them, anywhere in the doc.",
+    "author": "Derek Nguyen",
+    "owner": "d4rekanguok",
+    "name": "instance-locator",
+    "lastUpdated": "2017-08-07 07:54:57 UTC"
+  },
+  {
+    "title": "Merge Duplicate Symbols",
+    "description": "Sketch.app plugin to merge symbols with the same name.",
+    "author": "Oscar Oto",
+    "owner": "oodesign",
+    "name": "merge-duplicate-symbols",
+    "lastUpdated": "2017-08-05 15:53:39 UTC"
+  },
+  {
+    "title": "Blender",
+    "description": "A sketch plugin to create awesome gradient layers",
+    "author": "bunnieabc",
+    "owner": "bunnieabc",
+    "name": "Blender",
+    "lastUpdated": "2017-08-08 07:54:10 UTC"
+  },
+  {
+    "owner": "lstore.graphics",
+    "title": "7 Columns Calendar Creator",
+    "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
+    "homepage": "https://lstore.graphics/plugins/calendar/",
+    "author": "lstore.graphics"
+  },
+  {
+    "title": "Sketch Slicer",
+    "description": "Create slice layers from selected layers, with padding or set a fixed size.",
+    "author": "Derek Nguyen",
+    "owner": "d4rekanguok",
+    "name": "sketch-slicer",
+    "lastUpdated": "2017-08-10 09:04:21 UTC"
+  },
+  {
+    "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
+    "name": "sketch-map-creator",
+    "title": "Map Creator for Sketch",
+    "owner": "terence55",
+    "author": "Terence Wu",
+    "homepage": "https://github.com/terence55/sketch-map-creator",
+    "lastUpdated": "2017-08-11 11:58:00 UTC"
+  },
+  {
+    "title": "Sketch Palette Generator",
+    "description": "Output a JSON colour palette to Sketch 💎",
+    "author": "awkward",
+    "owner": "awkward",
+    "name": "sketch-palette-generator",
+    "lastUpdated": "2017-08-11 15:14:46 UTC"
+  },
+  {
+    "title": "Avocode Sketch Plugin",
+    "description": "Sync Sketch designs to Avocode.",
+    "author": "Avocode Inc.",
+    "homepage": "https://avocode.com/download?origin=sketch",
+    "lastUpdated": "2017-10-06 10:09:55 UTC"
+  },
+  {
+    "title": "Squash",
+    "name": "squash-sketchplugin",
+    "owner": "mcansh",
+    "appcast": "https://raw.githubusercontent.com/mcansh/squash-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/mcansh/squash-sketchplugin",
+    "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
+    "description": "Export and optimize images with Realmac Squash"
+  },
+  {
+    "title": "Jira Cloud for Sketch",
+    "description": "Export designs, assets, and feedback to Jira Cloud.",
+    "author": "Atlassian",
+    "owner": "atlassian",
+    "name": "jira-cloud-for-sketch",
+    "homepage": "https://sketch.atlassian.com/",
+    "lastUpdated": "2017-09-04 05:31:42 UTC"
+  },
+  {
+    "title": "Sketch Title Case",
+    "description": "Sketch Plugin to make text Title Case",
+    "author": "Mattias Hemmingsson",
+    "owner": "Hemmingsson",
+    "name": "Sketch-Title-Case",
+    "lastUpdated": "2017-09-01 13:20:24 UTC"
+  },
+  {
+    "title": "Sketch Resize",
+    "description": "Resize (not scale) multiple layers at once via shortcut.",
+    "author": "Luca Orio",
+    "owner": "lucaorio",
+    "name": "sketch-resize",
+    "lastUpdated": "2017-09-03 12:29:00 UTC"
+  },
+  {
+    "title": "sketch-find-all-instances-of-symbol",
+    "name": "sketch-find-all-instances-of-symbol",
+    "owner": "mcansh",
+    "appcast": "https://raw.githubusercontent.com/mcansh/sketch-find-all-instances-of-symbol/master/.appcast.xml",
+    "homepage": "https://github.com/mcansh/sketch-find-all-instances-of-symbol",
+    "author": "Logan McAnsh",
+    "description": "Find all instances of a symbol in Sketch",
+    "lastUpdated": "2017-09-20 12:29:00 UTC"
+  },
+  {
+    "title": "Sketch Symbol Importer",
+    "description": "Import symbols from on Sketch file into another. Maintains overrides and updates existing symbols in place.",
+    "author": "sketch-symbol-importer",
+    "owner": "sketch-symbol-importer",
+    "name": "sketch-symbol-importer",
+    "lastUpdated": "2017-08-30 23:19:45 UTC"
+  },
+  {
+    "title": "Symbol and Artboard Organizer",
+    "description": "Organize your symbols and artboards.",
+    "author": "Myrronth",
+    "owner": "Myrronth",
+    "name": "symbol-and-artboard-organizer",
+    "lastUpdated": "2017-09-28 11:48:00 UTC"
   }
 ]
