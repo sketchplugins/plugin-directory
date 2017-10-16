@@ -84,6 +84,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dynamic Symbol Button](https://github.com/herrkris/sketch-dynamic-symbol-button), by Kristof Dreier: Adds ability to have dynamic symbol buttons which resizes when the text changes.
 - [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Egmont Plugin](https://github.com/interfacemarket/egmont-plugin), by Interface.Market: Sketch plugin for create squircle shapes.
+- [emmet-sketch](https://github.com/lifeiscontent/emmet-sketch), by lifeiscontent: Sketch Plugin to use emmet in Sketch
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: A Sketch extension to generate english and persian lorem ipsum text.
 - [Enumerator](https://github.com/scottsavarie/enumerator), by Scott Savarie: Sketch plugin to rename and number your artboards or layers based on their x,y position
 - [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch), by herrhelms: Add evenly distributed guides to artboards.
@@ -135,6 +136,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Keyboard Resize](https://github.com/angistudio/sketch-keyboard-resize), by ANGI studio: A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Turn your Sketch design into a live website.
 - [Layer Renamer](https://github.com/leonardpauli/layerrenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)
+- [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer), by zeroheight: Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚
 - [Lists.design](https://github.com/rebelliard/sketch-plugin-lists.design), by Rafael E. Belliard: Populate text layers with realistic data from Lists.design
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Logodrop](https://github.com/iconscout/logodrop), by Iconscout: A Sketch Plugin to get brand logos right into Sketch App.
@@ -177,7 +179,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Pull to Center](https://github.com/delighted/sketch-pull-to-center), by Delighted Inc.: Pull to center: Move selected shapes or layers toward center of artboard.
 - [Push and Shove](https://github.com/ozzik/push-and-shove), by Oz Pinhas: Sketch plugin for resizing, aligning and generally manipulating layers wickedly
 - [Qordoba for Sketch](https://www.qordoba.com), by Qordoba: Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.
-- [QRCode for Sketch Local Sharing](https://github.com/dex1t/qrcode-for-sketch-local-sharing), by Takaya Deguchi: This plugin show QR Code for Local Sharing URL (Sketch 3.4 Featrue). Read this QR code when checking your design on smartphone.
 - [Quick Export as PNG](https://github.com/richardgazdik/sketch-quickexport), by Richard Gazdik: Quick Export layers/artboards/symbols as PNG Plugin for Sketch.
 - [Quick Presentation](https://github.com/timothywhalin/sketch-quick-presentation), by Timothy Whalin: A Sketch plugin to quickly share multiple artboards with an optional title.
 - [QuickColor](https://github.com/colesperks/quickcolor), by Cole Perkins: Sketch plugin that lets you quickly apply colors from the color palette to selected elements- 🎨
@@ -351,7 +352,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Table of Contents](https://github.com/youwenliang/table-of-contents), by You-Wen Liang (Mark): Sketch plugin for generating table of contents for documentations
 - [Texts Translate](https://github.com/laresgoiti/texts_translate), by Santi: Manage Sketch texts in multiple locales.
 - [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
-- [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase
 - [Todo Sketch Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
@@ -364,7 +364,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
 - [ViewController for Framer](https://github.com/awt2542/viewcontroller-for-framer), by Andreas Wahlström: Multi step user flows in Framer.js
 - [Wanderer](https://github.com/turbobabr/sketch-wanderer), by Andrey Shakhmin: Frictionless, Finder like navigation in layer list by using beloved arrow keys and simple shortcuts.
-- [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
 - [webalize](https://github.com/vesely/webalize), by David Veselý: Sketch plugin to webalize layers name.
 - [WeSketch](https://github.com/weixin/WeSketch), by Tencent Wechat Team: A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.
 - [WordCloud](https://github.com/ediathome/WordCloud), by Martin Kolb: Create basic word clouds and tag clouds.
@@ -378,6 +377,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer), by zeroheight: Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚
 - [Font Buddy](https://github.com/AnimaApp/FontBuddy), by Anima Team: Install missing fonts & free fonts directly from Sketch.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
 - [Symbol and Artboard Organizer](https://github.com/myrronth/symbol-and-artboard-organizer), by Myrronth: Organize your symbols and artboards.
@@ -739,6 +739,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Plugins](https://github.com/alssndro/sandros-sketch-plugins), by Alessandro: A library of Sketch Plugins aimed towards working with horizontal/vertical grid layouts and typography.
 - [Colorpeek](https://github.com/peterwooley/colorpeek-sketch-plugin), by Peter Wooley: Gathers the colors used in your selected layers and shows them in Colorpeek.
 - [Rename Layers](https://github.com/sebj/rename-layers), by Seb Jachec: Rename multiple layers at once in Sketch.
-- [Watch Icon](https://github.com/maxchen/watch-icon), by MaxChen: Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.
-- [QRCode for Sketch Local Sharing](https://github.com/dex1t/qrcode-for-sketch-local-sharing), by Takaya Deguchi: This plugin show QR Code for Local Sharing URL (Sketch 3.4 Featrue). Read this QR code when checking your design on smartphone.
-- [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase

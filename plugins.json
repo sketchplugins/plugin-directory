@@ -3107,7 +3107,16 @@
     "title": "emmet-sketch",
     "name": "emmet-sketch",
     "owner": "lifeiscontent",
+    "description": "Sketch Plugin to use emmet in Sketch",
     "appcast": "https://raw.githubusercontent.com/lifeiscontent/emmet-sketch/master/.appcast.xml",
     "homepage": "https://github.com/lifeiscontent/emmet-sketch"
+  },
+  {
+    "title": "Library Symbol Replacer",
+    "description": "Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚",
+    "author": "zeroheight",
+    "owner": "zeroheight",
+    "name": "library-symbol-replacer",
+    "lastUpdated": "2017-10-16 08:18:53 UTC"
   }
 ]
