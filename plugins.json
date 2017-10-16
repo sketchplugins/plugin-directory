@@ -3102,5 +3102,12 @@
     "owner": "Myrronth",
     "name": "symbol-and-artboard-organizer",
     "lastUpdated": "2017-09-28 11:48:00 UTC"
+  },
+  {
+    "title": "emmet-sketch",
+    "name": "emmet-sketch",
+    "owner": "lifeiscontent",
+    "appcast": "https://raw.githubusercontent.com/lifeiscontent/emmet-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/lifeiscontent/emmet-sketch"
   }
 ]
