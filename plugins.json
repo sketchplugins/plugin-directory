@@ -3133,5 +3133,13 @@
     "owner": "sonburn",
     "name": "symbol-instance-sheet",
     "lastUpdated": "2017-10-18 04:10:06 UTC"
+  },
+  {
+    "title": "Symbol Instance Locator",
+    "description": "Locate all instances of a selected symbol or instance.",
+    "author": "Jason Burns",
+    "owner": "sonburn",
+    "name": "symbol-instance-locator",
+    "lastUpdated": "2017-10-19 02:07:55 UTC"
   }
 ]
