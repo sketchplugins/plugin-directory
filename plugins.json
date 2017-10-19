@@ -3118,5 +3118,12 @@
     "owner": "zeroheight",
     "name": "library-symbol-replacer",
     "lastUpdated": "2017-10-16 08:18:53 UTC"
+  },
+  {
+    "title": "Abstract",
+    "description": "Abstract is a file management and version control tool for Sketch files",
+    "author": "Abstract",
+    "homepage": "https://www.goabstract.com/",
+    "lastUpdated": "2017-10-19 08:18:53 UTC"
   }
 ]

@@ -5,6 +5,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 **Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
 
 - [7 Columns Calendar Creator](https://lstore.graphics/plugins/calendar/), by lstore.graphics: An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month
+- [Abstract](https://www.goabstract.com/), by Abstract: Abstract is a file management and version control tool for Sketch files
 - [Ace Jump](https://github.com/turbobabr/sketch-ace-jump), by Andrey Shakhmin: Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 - [Adjust Button Shape](https://github.com/psilfver/sketch-adjust-button-shape), by Petter: A Sketch plugin that adjusts a shape layer according to the attributes of a text layer
 - [AEFlowchart](https://github.com/tadija/aeflowchart), by Marko Tadić: Flowchart diagram plugin for Bohemian Coding Sketch app.
@@ -377,6 +378,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Abstract](https://www.goabstract.com/), by Abstract: Abstract is a file management and version control tool for Sketch files
 - [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer), by zeroheight: Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚
 - [Font Buddy](https://github.com/AnimaApp/FontBuddy), by Anima Team: Install missing fonts & free fonts directly from Sketch.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
