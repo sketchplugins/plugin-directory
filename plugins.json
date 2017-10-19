@@ -3141,5 +3141,13 @@
     "owner": "sonburn",
     "name": "symbol-instance-locator",
     "lastUpdated": "2017-10-19 02:07:55 UTC"
+  },
+  {
+    "title": "Symbol Swapper",
+    "description": "Swap the selected symbols and/or symbol instances to a master of the same name in a library.",
+    "author": "Jason Burns",
+    "owner": "sonburn",
+    "name": "symbol-swapper",
+    "lastUpdated": "2017-10-19 07:36:31 UTC"
   }
 ]
