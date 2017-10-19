@@ -3125,5 +3125,13 @@
     "author": "Abstract",
     "homepage": "https://www.goabstract.com/",
     "lastUpdated": "2017-10-19 08:18:53 UTC"
+  },
+  {
+    "title": "Symbol Instance Sheet",
+    "description": "Generate a sheet of symbol instances from your current document or a library.",
+    "author": "Jason Burns",
+    "owner": "sonburn",
+    "name": "symbol-instance-sheet",
+    "lastUpdated": "2017-10-18 04:10:06 UTC"
   }
 ]
