@@ -351,6 +351,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer), by Jason Burns: Organize your symbols page and layer list, based on the symbol names.
 - [Symbol Spacer Sketch Plugin](https://github.com/novemberfiveco/symbol-spacer-sketch-plugin), by Geert Wille: Automatically resize spacing symbols to correct size when changing to different one
 - [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
+- [Sympli](https://sympli.io), by Sympli: Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode.
 - [Sync](https://github.com/nolastan/sync.sketchplugin), by Stanford Rosenthal: Use Google Sheets to sync typography across your team.
 - [Sync To Slides](https://websiddu.github.io/sync-to-slides/), by Siddhartha: Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step
 - [Table of Contents](https://github.com/youwenliang/table-of-contents), by You-Wen Liang (Mark): Sketch plugin for generating table of contents for documentations
@@ -381,6 +382,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Sympli](https://sympli.io), by Sympli: Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode.
 - [Abstract](https://www.goabstract.com/), by Abstract: Abstract is a file management and version control tool for Sketch files
 - [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
 - [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
