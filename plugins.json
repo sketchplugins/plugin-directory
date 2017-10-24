@@ -3156,5 +3156,13 @@
     "author": "Sympli",
     "homepage": "https://sympli.io",
     "lastUpdated": "2017-10-20 08:18:53 UTC"
+  },
+  {
+    "title": "Sketch Text Style Master",
+    "description": "Sketch plugin providing utilities for working with shared text styles",
+    "author": "Aparajita Fishman",
+    "owner": "aparajita",
+    "name": "sketch-text-style-master",
+    "lastUpdated": "2017-10-24 00:04:45 UTC"
   }
 ]
