@@ -142,6 +142,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Logodrop](https://github.com/iconscout/logodrop), by Iconscout: A Sketch Plugin to get brand logos right into Sketch App.
 - [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
+- [Loose!](https://github.com/teeerevor/loose-sketch-plugin), by Trev Wolf: Nock... Mark... Draw... Loose!... Turns those lines into arrows. Adds arrowheads to the ends of your paths. Toggle nock and tip ends. Update color, weight and vector of your arrow. Boom!
 - [Magic Mirror](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
 - [MagicPresenter](https://github.com/magicsketch/magicpresenter), by jamztang: Sketch Plugin to Present Slides or Deck directly in Sketch 3
 - [Mail Merge](https://github.com/kumo/sketch-mail-merge), by Robert Clarke: Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
