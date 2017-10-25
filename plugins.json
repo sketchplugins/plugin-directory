@@ -1,4 +1,13 @@
 [
+   {
+    "description": "Turn your lines into arrows",
+    "name": "Loose!",
+    "title": "Loose!",
+    "owner": "Trev Wolft",
+    "author": "Trev Wolf",
+    "homepage": "https://github.com/teeerevor/loose-sketch-plugin",
+    "lastUpdated": "2017-10-25 11:01:00 UTC"
+  },
   {
     "description": "Install missing fonts & free fonts directly from Sketch.",
     "name": "Font Buddy",
