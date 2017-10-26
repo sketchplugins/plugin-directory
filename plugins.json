@@ -1,5 +1,5 @@
 [
-   {
+  {
     "description": "Turn your lines into arrows",
     "name": "Loose!",
     "title": "Loose!",
@@ -3173,5 +3173,13 @@
     "owner": "aparajita",
     "name": "sketch-text-style-master",
     "lastUpdated": "2017-10-24 00:04:45 UTC"
+  },
+  {
+    "title": "Swappr",
+    "description": "Swap layer positions and styles",
+    "author": "pranusarna94",
+    "owner": "pranusarna94",
+    "name": "Swappr",
+    "lastUpdated": "2017-10-21 11:26:25 UTC"
   }
 ]
