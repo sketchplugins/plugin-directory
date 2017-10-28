@@ -3181,5 +3181,12 @@
     "owner": "pranusarna94",
     "name": "Swappr",
     "lastUpdated": "2017-10-21 11:26:25 UTC"
+  },
+  {
+    "title": "latex-sketch-plugin",
+    "name": "latex-sketch-plugin",
+    "owner": "heytitle",
+    "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/heytitle/latex-sketch-plugin"
   }
 ]
