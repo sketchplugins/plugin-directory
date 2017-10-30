@@ -3183,7 +3183,8 @@
     "lastUpdated": "2017-10-21 11:26:25 UTC"
   },
   {
-    "title": "latex-sketch-plugin",
+    "title": "LaTeX Sketch Plugin",
+    "description": "This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas",
     "name": "latex-sketch-plugin",
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
