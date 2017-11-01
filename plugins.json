@@ -3189,5 +3189,13 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin"
+  },
+  {
+    "title": "gif.me",
+    "description": "Add GIFs and videos to your Sketch files",
+    "name": "sketch-gifme-plugin",
+    "owner": "the gif.me team",
+    "homepage": "http://www.sketchgif.me/",
+    "lastUpdated": "2017-11-01 07:54:12 UTC"
   }
 ]
