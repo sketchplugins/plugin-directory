@@ -3199,8 +3199,9 @@
     "lastUpdated": "2017-11-01 07:54:12 UTC"
   },
   {
-    "title": "@skpm/sketch-debugger",
-    "name": "sketch-debugger",
+    "title": "Sketch Debugger",
+    "name": "Debugger",
+    "description": "See your plugin logs, inspect the state of Sketch documents, explore actions, etc.",
     "owner": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-debugger/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-debugger"
