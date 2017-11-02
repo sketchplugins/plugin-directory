@@ -3197,5 +3197,14 @@
     "owner": "the gif.me team",
     "homepage": "http://www.sketchgif.me/",
     "lastUpdated": "2017-11-01 07:54:12 UTC"
+  },
+  {
+    "title": "Sketch Syntax Highlighter",
+    "description": "Automatically highlight the syntax of any code snippet, right within Sketch.",
+    "author": "Daniel Guillan & Javi Sanchez",
+    "owner": "danielguillan",
+    "name": "sketch-syntax-highlighter",
+    "homepage": "https://danielguillan.github.io/sketch-syntax-highlighter/",
+    "lastUpdated": "2017-11-02 10:02:17 UTC"
   }
 ]
