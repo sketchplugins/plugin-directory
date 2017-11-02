@@ -301,6 +301,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
 - [Sketch Swatches](https://github.com/ashung/sketch_swatches), by Ashung Hung: A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 - [Sketch Symbol Importer](https://github.com/sketch-symbol-importer/sketch-symbol-importer), by sketch-symbol-importer: Import symbols from on Sketch file into another. Maintains overrides and updates existing symbols in place.
+- [Sketch Syntax Highlighter](https://danielguillan.github.io/sketch-syntax-highlighter/), by Daniel Guillan & Javi Sanchez: Automatically highlight the syntax of any code block.
 - [Sketch Text Style Master](https://github.com/aparajita/sketch-text-style-master), by Aparajita Fishman: Sketch plugin providing utilities for working with shared text styles
 - [Sketch Text Tools](https://github.com/automat/sketch-text-tools), by Henryk Wollik: Sketch App Typography Plugin for working with font metrics, aligning text-layers and building typographic systems.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
