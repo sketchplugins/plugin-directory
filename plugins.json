@@ -3181,5 +3181,28 @@
     "owner": "pranusarna94",
     "name": "Swappr",
     "lastUpdated": "2017-10-21 11:26:25 UTC"
+  },
+  {
+    "title": "LaTeX Sketch Plugin",
+    "description": "This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas",
+    "name": "latex-sketch-plugin",
+    "owner": "heytitle",
+    "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/heytitle/latex-sketch-plugin"
+  },
+  {
+    "title": "gif.me",
+    "description": "Add GIFs and videos to your Sketch files",
+    "name": "sketch-gifme-plugin",
+    "owner": "the gif.me team",
+    "homepage": "http://www.sketchgif.me/",
+    "lastUpdated": "2017-11-01 07:54:12 UTC"
+  },
+  {
+    "title": "@skpm/sketch-debugger",
+    "name": "sketch-debugger",
+    "owner": "skpm",
+    "appcast": "https://raw.githubusercontent.com/skpm/sketch-debugger/master/.appcast.xml",
+    "homepage": "https://github.com/skpm/sketch-debugger"
   }
 ]
