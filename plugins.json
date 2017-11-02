@@ -3199,8 +3199,17 @@
     "lastUpdated": "2017-11-01 07:54:12 UTC"
   },
   {
+    "title": "Sketch Syntax Highlighter",
+    "description": "Automatically highlight the syntax of any code snippet, right within Sketch.",
+    "author": "Daniel Guillan & Javi Sanchez",
+    "owner": "danielguillan",
+    "name": "sketch-syntax-highlighter",
+    "homepage": "https://danielguillan.github.io/sketch-syntax-highlighter/",
+    "lastUpdated": "2017-11-02 10:02:17 UTC"
+  },
+  {
     "title": "Sketch Debugger",
-    "name": "Debugger",
+    "name": "sketch-debugger",
     "description": "See your plugin logs, inspect the state of Sketch documents, explore actions, etc.",
     "owner": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-debugger/master/.appcast.xml",
