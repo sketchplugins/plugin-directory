@@ -3230,5 +3230,13 @@
     "owner": "sonburn",
     "name": "shared-style-finder",
     "lastUpdated": "2017-11-06 12:40:20 UTC"
+  },
+  {
+    "title": "Z Rating",
+    "description": "Sketch plugin for designers @zomato to quickly change and maintain restaurant ratings",
+    "author": "Pranu Sarna",
+    "owner": "pranusarna94",
+    "name": "z-rating",
+    "lastUpdated": "2017-11-04 15:24:08 UTC"
   }
 ]
