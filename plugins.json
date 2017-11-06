@@ -3222,5 +3222,13 @@
     "owner": "sonburn",
     "name": "unused-style-remover",
     "lastUpdated": "2017-11-06 13:50:03 UTC"
+  },
+  {
+    "title": "Shared Style Finder",
+    "description": "Find instances of a shared layer or text style.",
+    "author": "Jason Burns",
+    "owner": "sonburn",
+    "name": "shared-style-finder",
+    "lastUpdated": "2017-11-06 12:40:20 UTC"
   }
 ]
