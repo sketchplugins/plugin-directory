@@ -3214,5 +3214,13 @@
     "owner": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-debugger/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-debugger"
+  },
+  {
+    "title": "Unused Style Remover",
+    "description": "Remove unused layer and text styles.",
+    "author": "Jason Burns",
+    "owner": "sonburn",
+    "name": "unused-style-remover",
+    "lastUpdated": "2017-11-06 13:50:03 UTC"
   }
 ]
