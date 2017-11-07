@@ -299,6 +299,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Spellcheck All Layers](https://github.com/tallwave/sketch-spellcheck-all-layers), by Tallwave: A basic spellchecker that checks all layers on a page in Sketch
 - [Sketch State Switch Master](https://github.com/einancunlu/sketch-state-switch-master), by Emin İnanç Ünlü: Define different states and switch between them like a boss.
 - [Sketch Storyboard](https://github.com/britesnow/sketch-storyboard), by Jeremy Chone: Export a full story flow and dev spec in one shortcut.
+- [Sketch Style Master](https://github.com/aparajita/sketch-style-master), by Aparajita Fishman: Sketch plugin for renaming shared styles
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator), by Luca Orio: Generate hundreds of Sketch Shared Styles in a matter of seconds.
 - [Sketch Swatches](https://github.com/ashung/sketch_swatches), by Ashung Hung: A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 - [Sketch Symbol Importer](https://github.com/sketch-symbol-importer/sketch-symbol-importer), by sketch-symbol-importer: Import symbols from on Sketch file into another. Maintains overrides and updates existing symbols in place.
@@ -390,6 +391,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Sketch Style Master](https://github.com/aparajita/sketch-style-master), by Aparajita Fishman: Sketch plugin for renaming shared styles
 - [Unused Style Remover](https://github.com/sonburn/unused-style-remover), by Jason Burns: Remove unused layer and text styles.
 - [Shared Style Finder](https://github.com/sonburn/shared-style-finder), by Jason Burns: Find instances of a shared layer or text style.
 - [Z Rating](https://github.com/pranusarna94/z-rating), by Pranu Sarna: Sketch plugin for designers @zomato to quickly change and maintain restaurant ratings
