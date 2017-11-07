@@ -3238,5 +3238,13 @@
     "owner": "aparajita",
     "name": "sketch-style-master",
     "lastUpdated": "2017-11-07 05:58:13 UTC"
+  },
+  {
+    "title": "Sketch Groupie",
+    "description": "Sketch plugin providing commands to align layers with their parent group",
+    "author": "Aparajita Fishman",
+    "owner": "aparajita",
+    "name": "sketch-groupie",
+    "lastUpdated": "2017-11-07 17:17:16 UTC"
   }
 ]
