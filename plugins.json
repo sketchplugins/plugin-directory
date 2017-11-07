@@ -3167,14 +3167,6 @@
     "lastUpdated": "2017-10-20 08:18:53 UTC"
   },
   {
-    "title": "Sketch Text Style Master",
-    "description": "Sketch plugin providing utilities for working with shared text styles",
-    "author": "Aparajita Fishman",
-    "owner": "aparajita",
-    "name": "sketch-text-style-master",
-    "lastUpdated": "2017-10-24 00:04:45 UTC"
-  },
-  {
     "title": "Swappr",
     "description": "Swap layer positions and styles",
     "author": "pranusarna94",
@@ -3238,5 +3230,13 @@
     "owner": "pranusarna94",
     "name": "z-rating",
     "lastUpdated": "2017-11-04 15:24:08 UTC"
+  },
+  {
+    "title": "Sketch Style Master",
+    "description": "Sketch plugin for renaming shared styles",
+    "author": "Aparajita Fishman",
+    "owner": "aparajita",
+    "name": "sketch-style-master",
+    "lastUpdated": "2017-11-07 05:58:13 UTC"
   }
 ]
