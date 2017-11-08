@@ -3246,5 +3246,13 @@
     "owner": "aparajita",
     "name": "sketch-groupie",
     "lastUpdated": "2017-11-07 17:17:16 UTC"
+  },
+  {
+    "title": "P5 Sketchplugin",
+    "description": "A plugin for using p5.js code inside Sketch",
+    "author": "Jacopo Colò",
+    "owner": "jacopocolo",
+    "name": "p5-sketchplugin",
+    "lastUpdated": "2017-11-08 15:45:56 UTC"
   }
 ]
