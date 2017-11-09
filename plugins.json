@@ -3254,5 +3254,12 @@
     "owner": "jacopocolo",
     "name": "p5-sketchplugin",
     "lastUpdated": "2017-11-08 15:45:56 UTC"
+  },
+  {
+    "title": "@skpm/sketch-debugger",
+    "name": "sketch-dev-tools",
+    "owner": "skpm",
+    "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
+    "homepage": "https://github.com/skpm/sketch-dev-tools"
   }
 ]
