@@ -1,5 +1,14 @@
 [
   {
+    "title": "Indigo Sketch Exporter",
+    "description": "Export to Indigo Studio to create interactive, animated prototypes. Get real user feedback through included usability studies with video replays.",
+    "author": "Indigo Studio",
+    "owner": "indigostudio",
+    "name": "indigo-sketch-plugin",
+    "homepage": "https://indigo.infragistics.com/sketch-home",
+    "lastUpdated": "2017-11-10 20:27:36 UTC"
+  },
+  {
     "description": "Turn your lines into arrows",
     "name": "Loose!",
     "title": "Loose!",
