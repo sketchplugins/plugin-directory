@@ -3265,5 +3265,14 @@
     "owner": "jacopocolo",
     "name": "p5-sketchplugin",
     "lastUpdated": "2017-11-08 15:45:56 UTC"
+  },
+  {
+    "title": "Units",
+    "description": "A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.",
+    "author": "Dennis Ploeger",
+    "owner": "dploeger",
+    "name": "sketch-plugin-units",
+    "lastUpdated": "2017-11-15 21:07:56 UTC",
+    "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   }
 ]
