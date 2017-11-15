@@ -1,5 +1,14 @@
 [
   {
+    "description": "Export layer as email attachment",
+    "name": "sendTo",
+    "title": "sendTo",
+    "owner": "Udi Gindi",
+    "author": "Udi Gindi",
+    "homepage": "https://github.com/udi-gindi/sendTo",
+    "lastUpdated": "2017-11-9 16:45:54 UTC"
+  },
+  {
     "title": "Indigo Sketch Exporter",
     "description": "Export to Indigo Studio to create interactive, animated prototypes. Get real user feedback through included usability studies with video replays.",
     "author": "Indigo Studio",
