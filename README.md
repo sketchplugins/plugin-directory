@@ -224,7 +224,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Shapr](https://github.com/vincenzopetito/shapr), by Vincenzo Petito: A Sketch plugin to create element with the keyboards!
 - [Shared Style Finder](https://github.com/sonburn/shared-style-finder), by Jason Burns: Find instances of a shared layer or text style.
 - [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles), by Nils Hoenson: Easily import and export your Text Styles in Sketch.
-- [Sharpen Images](https://github.com/axmsv/sharpen-images-sketch), by axmsv: Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.
 - [Sheetie](https://github.com/joemanto/sheetie), by Joe Manto: Sketch 3 Plugin that makes a SpriteSheets to export or use
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [SizeArtboard](https://github.com/brendanmiller/sizeartboard), by brendan miller: Sketch Plugin for wrapping a new artboard around what you've selected
@@ -739,7 +738,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by herrhelms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
 - [Sketch Repeat](https://github.com/keremciu/sketch-repeat), by Kerem Sevencan: This plugin helps you easily duplicate your objects to all Artboards.
 - [Todo Sketch Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
-- [Sharpen Images](https://github.com/axmsv/sharpen-images-sketch), by axmsv: Sharpen Images plugin allows to apply Sharpen filter to your image layers in Sketch.
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
 - [Select Invisible Layers](https://github.com/keremciu/sketch-select-invisible-layers), by Kerem Sevencan: Select invisible layers on current page
 - [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
