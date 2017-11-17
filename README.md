@@ -231,6 +231,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SizeArtboard](https://github.com/brendanmiller/sizeartboard), by brendan miller: Sketch Plugin for wrapping a new artboard around what you've selected
 - [Skatter](https://github.com/joshdjuric/skatter), by Josh Djuric: A plugin with tools (currently very basic tools) to assist with creating patterns out of shapes.
 - [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
+- [Sketch Align To Grid](https://github.com/pravdomil/sketch-align-to-grid), by Pravdomil: Let's align selection to grid
 - [Sketch Arrange Artboards](https://github.com/kenmoore/sketch-arrange-artboards), by Ken Moore: Layout all artboards in a grid with user-specified number of rows
 - [Sketch Artboard](https://github.com/kenmoore/sketch-artboard), by Ken Moore: Next Artboard / Previous Artboard
 - [Sketch Aspect Ratio](https://github.com/preciousforever/sketch-aspect-ratio), by precious design studio: A simple plugin to apply preset or custom aspect ratios to a selected layer.
@@ -394,6 +395,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Sketch Align To Grid](https://github.com/pravdomil/sketch-align-to-grid), by Pravdomil: Let's align selection to grid
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Indigo Sketch Exporter](https://indigo.infragistics.com/sketch-home), by Indigo Studio: Export to Indigo Studio to create interactive, animated prototypes. Get real user feedback through included usability studies with video replays.
 - [sendTo](https://github.com/udi-gindi/sendTo), by Udi Gindi: Export layer as email attachment
@@ -657,7 +659,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Marginbox](https://github.com/francisvega/sketch-marginbox), by Francis: Simple scritp to create layers as margins
 - [Qordoba for Sketch](https://www.qordoba.com), by Qordoba: Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.
 - [Align To](https://github.com/lucienlee/alignto), by Lucien Lee: Sketch 3 plugin that align layers relative to more options.
-- [Align to grid](https://github.com/pravdomil/sketch-align-to-grid) by pravdomil.com
 - [Random Sizing](https://github.com/longzheng/sketch-randomsize), by Long Zheng: Sketch plugin to randomly resize selected elements.
 - [SVGO Compressor](https://github.com/bohemiancoding/svgo-compressor), by Bohemian Coding: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)

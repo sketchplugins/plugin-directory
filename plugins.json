@@ -3275,5 +3275,13 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools"
+  },
+  {
+    "title": "Sketch Align To Grid",
+    "description": "Let's align selection to grid",
+    "author": "Pravdomil",
+    "owner": "pravdomil",
+    "name": "sketch-align-to-grid",
+    "lastUpdated": "2017-11-17 20:08:12 UTC"
   }
 ]
