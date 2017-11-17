@@ -3283,5 +3283,13 @@
     "owner": "pravdomil",
     "name": "sketch-align-to-grid",
     "lastUpdated": "2017-11-17 20:08:12 UTC"
+  },
+  {
+    "title": "Translate.me",
+    "description": "Translations. Simplified. Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.",
+    "author": "Eduardo Gómez Vásquez",
+    "owner": "eddiesigner",
+    "name": "sketch-translate-me",
+    "lastUpdated": "2017-11-17 02:50:18 UTC"
   }
 ]
