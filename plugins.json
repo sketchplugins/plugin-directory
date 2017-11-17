@@ -3274,5 +3274,12 @@
     "name": "sketch-plugin-units",
     "lastUpdated": "2017-11-15 21:07:56 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
+  },
+  {
+    "title": "@skpm/sketch-debugger",
+    "name": "sketch-dev-tools",
+    "owner": "skpm",
+    "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
+    "homepage": "https://github.com/skpm/sketch-dev-tools"
   }
 ]
