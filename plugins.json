@@ -3276,9 +3276,11 @@
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
-    "title": "@skpm/sketch-debugger",
+    "title": "Sketch DevTools",
+    "description": "See your plugin logs, inspect the state of Sketch documents, explore actions, and more",
     "name": "sketch-dev-tools",
     "owner": "skpm",
+    "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools"
   }
