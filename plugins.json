@@ -3211,14 +3211,6 @@
     "lastUpdated": "2017-11-02 10:02:17 UTC"
   },
   {
-    "title": "Sketch Debugger",
-    "name": "sketch-debugger",
-    "description": "See your plugin logs, inspect the state of Sketch documents, explore actions, etc.",
-    "owner": "skpm",
-    "appcast": "https://raw.githubusercontent.com/skpm/sketch-debugger/master/.appcast.xml",
-    "homepage": "https://github.com/skpm/sketch-debugger"
-  },
-  {
     "title": "Unused Style Remover",
     "description": "Remove unused layer and text styles.",
     "author": "Jason Burns",
@@ -3274,5 +3266,37 @@
     "name": "sketch-plugin-units",
     "lastUpdated": "2017-11-15 21:07:56 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
+  },
+  {
+    "title": "Sketch DevTools",
+    "description": "See your plugin logs, inspect the state of Sketch documents, explore actions, and more",
+    "name": "sketch-dev-tools",
+    "owner": "skpm",
+    "author": "skpm",
+    "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
+    "homepage": "https://github.com/skpm/sketch-dev-tools"
+  },
+  {
+    "title": "Sketch Align To Grid",
+    "description": "Let's align selection to grid",
+    "author": "Pravdomil",
+    "owner": "pravdomil",
+    "name": "sketch-align-to-grid",
+    "lastUpdated": "2017-11-17 20:08:12 UTC"
+  },
+  {
+    "title": "Translate.me",
+    "description": "Translations. Simplified. Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.",
+    "author": "Eduardo Gómez Vásquez",
+    "owner": "eddiesigner",
+    "name": "sketch-translate-me",
+    "lastUpdated": "2017-11-17 02:50:18 UTC"
+  },
+  {
+    "title": "sketch-primitive",
+    "name": "sketch-primitive",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-primitive/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-primitive"
   }
 ]
