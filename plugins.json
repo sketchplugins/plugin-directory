@@ -3300,5 +3300,12 @@
     "owner": "eddiesigner",
     "name": "sketch-translate-me",
     "lastUpdated": "2017-11-17 02:50:18 UTC"
+  },
+  {
+    "title": "sketch-primitive",
+    "name": "sketch-primitive",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-primitive/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-primitive"
   }
 ]
