@@ -1,5 +1,14 @@
 [
   {
+    "description": "Emulate blend functionality from Adobe Illustrator",
+    "name": "Smudge",
+    "title": "Smudge",
+    "owner": "Matthew Kaufer",
+    "author": "Matthew Kaufer",
+    "homepage": "https://github.com/mjkaufer/smudge",
+    "lastUpdated": "2017-11-25 3:00:00 UTC"
+  },
+  {
     "description": "Export layer as email attachment",
     "name": "sendTo",
     "title": "sendTo",
