@@ -3300,5 +3300,13 @@
     "owner": "eddiesigner",
     "name": "sketch-translate-me",
     "lastUpdated": "2017-11-17 02:50:18 UTC"
+  },
+  {
+    "title": "PinLog",
+    "description": "A plugin that would help you note your changeLog and can help other people to find the change in sketch",
+    "author": "Twox",
+    "owner": "zhongerxin",
+    "name": "PinLog",
+    "lastUpdated": "2017-11-27 13:56:02 UTC"
   }
 ]
