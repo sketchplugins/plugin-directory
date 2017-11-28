@@ -3311,7 +3311,7 @@
   },
   {
     "title": "Fix Sketch Trackpad Speed",
-    "description": "Speed up your scrolling across all artboards.",
+    "description": "Speed up your scrolling across all artboards",
     "author": "Pravdomil",
     "owner": "pravdomil",
     "name": "FixSketchTrackpadSpeed",
