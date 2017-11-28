@@ -3308,5 +3308,13 @@
     "owner": "zhongerxin",
     "name": "PinLog",
     "lastUpdated": "2017-11-27 13:56:02 UTC"
+  },
+  {
+    "title": "Fix Sketch Trackpad Speed",
+    "description": "Speed up your scrolling across all artboards.",
+    "author": "Pravdomil",
+    "owner": "pravdomil",
+    "name": "FixSketchTrackpadSpeed",
+    "lastUpdated": "2017-11-28 14:30:02 UTC"
   }
 ]
