@@ -18,8 +18,8 @@
     "lastUpdated": "2017-11-9 16:45:54 UTC"
   },
   {
-    "title": "Indigo Sketch Exporter",
-    "description": "Export to Indigo Studio to create interactive, animated prototypes. Get real user feedback through included usability studies with video replays.",
+    "title": "Export to Indigo",
+    "description": "Generate Indigo Studio projects from your artboards to create interactive, animated prototypes. Get real user feedback through included usability studies with video replays.",
     "author": "Indigo Studio",
     "owner": "indigostudio",
     "name": "indigo-sketch-plugin",
