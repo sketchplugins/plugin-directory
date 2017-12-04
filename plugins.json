@@ -484,7 +484,9 @@
     "title": "Rename It",
     "owner": "rodi01",
     "author": "Rodrigo Soares",
-    "lastUpdated": "2017-08-07 06:07:23 UTC"
+    "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
+    "homepage": "http://rodi01.github.io/RenameIt/",
+    "lastUpdated": "2017-12-03 06:00:00 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
