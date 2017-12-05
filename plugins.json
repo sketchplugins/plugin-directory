@@ -3327,5 +3327,15 @@
     "owner": "pravdomil",
     "name": "FixSketchTrackpadSpeed",
     "lastUpdated": "2017-11-28 14:30:02 UTC"
+  },
+  {
+    "title": "Caravel",
+    "description": "Export your artboards directly to Caravel projects.",
+    "author": "CaravelDesign",
+    "owner": "CaravelDesign",
+    "name": "caravel-design",
+    "lastUpdated": "2017-12-05 15:48:00 UTC",
+    "appcast": "https://github.com/CaravelDesign/caravel.sketchplugin/master/appcast.xml",
+    "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin"
   }
 ]
