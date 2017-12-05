@@ -1,5 +1,14 @@
 [
   {
+    "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
+    "name": "SketchCleaner",
+    "title": "SketchCleaner",
+    "owner": "Yummygum",
+    "author": "Yummygum",
+    "homepage": "http://www.sketchcleaner.com/",
+    "lastUpdated": "2017-12-05 10:10:40 UTC"
+  },
+  {
     "description": "Emulate blend functionality from Adobe Illustrator",
     "name": "Smudge",
     "title": "Smudge",
