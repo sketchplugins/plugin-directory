@@ -3327,5 +3327,12 @@
     "owner": "pravdomil",
     "name": "FixSketchTrackpadSpeed",
     "lastUpdated": "2017-11-28 14:30:02 UTC"
+  },
+  {
+    "title": "sketch-wcag",
+    "name": "sketch-wcag",
+    "owner": "bryanberger",
+    "appcast": "https://raw.githubusercontent.com/bryanberger/sketch-wcag/master/.appcast.xml",
+    "homepage": "https://github.com/bryanberger/sketch-wcag"
   }
 ]
