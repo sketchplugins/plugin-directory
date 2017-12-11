@@ -3336,5 +3336,15 @@
     "name": "sketch-wcag",
     "appcast": "https://raw.githubusercontent.com/bryanberger/sketch-wcag/master/.appcast.xml",
     "homepage": "https://github.com/bryanberger/sketch-wcag"
+  },
+  {
+    "title": "Caravel",
+    "description": "Export your artboards directly to Caravel projects.",
+    "author": "CaravelDesign",
+    "owner": "CaravelDesign",
+    "name": "caravel-design",
+    "lastUpdated": "2017-12-05 15:48:00 UTC",
+    "appcast": "https://github.com/CaravelDesign/caravel.sketchplugin/master/appcast.xml",
+    "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin"
   }
 ]

@@ -41,6 +41,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Bound with Box](https://github.com/lewishowles/sketch-bound-with-box), by Lewis Howles: Draws a rectangle of the same size, shape and position as the selected layer, with possible padding.
 - [Butter](https://github.com/pberrecloth/butter-sketch-plugin), by Peter Berrecloth: Butter will butt your layers together.
 - [CanvasFlip](https://canvasflip.com/), by CanvasFlip: Sync and generate specs from sketch artboards to CanvasFlip.
+- [Caravel](https://github.com/CaravelDesign/caravel.sketchplugin), by CaravelDesign: Export your artboards directly to Caravel projects.
 - [Chain](https://lalomrtnz.github.io/Chain/), by Lalo Mrtnz: Dynamic color relations in Sketch.
 - [Changelog](https://github.com/jacopocolo/changelog.sketchplugin), by Jacopo Colò: A simple Sketch plugin to generate artboard-based changelogs
 - [Character Count](https://github.com/andrewfiorillo/sketch-character-count), by Andrew Fiorillo: Sketch plugin to count number of characters in a text layer
@@ -399,6 +400,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Caravel](https://github.com/CaravelDesign/caravel.sketchplugin), by CaravelDesign: Export your artboards directly to Caravel projects.
 - [SketchCleaner](http://www.sketchcleaner.com/), by Yummygum: Sketch plugin that helps you get your design files as clean as a whistle.
 - [Rename It](http://rodi01.github.io/RenameIt/), by Rodrigo Soares: Keep your Sketch files organized, batch rename layers and artboards.
 - [Fix Sketch Trackpad Speed](https://github.com/pravdomil/fixsketchtrackpadspeed), by Pravdomil: Speed up your scrolling across all artboards
