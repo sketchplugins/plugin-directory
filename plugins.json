@@ -3329,6 +3329,15 @@
     "lastUpdated": "2017-11-28 14:30:02 UTC"
   },
   {
+    "title": "Sketch WCAG",
+    "description": "A Sketch plugin that lets you contrast test your entire color palette against the WCAG guidelines all at once",
+    "author": "Bryan Berger",
+    "owner": "bryanberger",
+    "name": "sketch-wcag",
+    "appcast": "https://raw.githubusercontent.com/bryanberger/sketch-wcag/master/.appcast.xml",
+    "homepage": "https://github.com/bryanberger/sketch-wcag"
+  },
+  {
     "title": "Caravel",
     "description": "Export your artboards directly to Caravel projects.",
     "author": "CaravelDesign",
