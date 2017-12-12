@@ -3358,6 +3358,7 @@
   },
   {
     "title": "Sketch-Icons",
+    "description": "Import your icons, apply a color mask and create a dynamic icons library.",
     "name": "Sketch-Icons",
     "owner": "AMoreaux",
     "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
