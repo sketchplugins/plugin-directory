@@ -2,7 +2,7 @@
   {
     "description": "Sketch plugin that allows you to import a set of icons and automatically apply a color mask.",
     "name": "Sketch-Icons",
-    "title": "Sketch-Icons",
+    "title": "Sketch Icons",
     "owner": "AMoreaux",
     "author": "Valentin Chrétien, Antoine Moreaux",
     "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
