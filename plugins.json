@@ -3355,5 +3355,12 @@
     "lastUpdated": "2017-12-05 15:48:00 UTC",
     "appcast": "https://github.com/CaravelDesign/caravel.sketchplugin/master/appcast.xml",
     "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin"
+  },
+  {
+    "title": "Sketch-Icons",
+    "name": "Sketch-Icons",
+    "owner": "AMoreaux",
+    "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
+    "homepage": "https://github.com/AMoreaux/Sketch-Icons"
   }
 ]
