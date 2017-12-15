@@ -3355,5 +3355,13 @@
     "lastUpdated": "2017-12-05 15:48:00 UTC",
     "appcast": "https://github.com/CaravelDesign/caravel.sketchplugin/master/appcast.xml",
     "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin"
+  },
+  {
+    "title": "Move To Library Sketchplugin",
+    "description": " You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine ",
+    "author": "Ahmed Genaidy",
+    "owner": "ahmedmigo",
+    "name": "Move-to-library-sketchplugin",
+    "lastUpdated": "2017-12-14 13:13:20 UTC"
   }
 ]
