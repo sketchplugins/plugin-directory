@@ -1,5 +1,14 @@
 [
   {
+    "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
+    "name": "Storyboard Export",
+    "title": "Export Sketch designs to load into Storyboard Suite",
+    "owner": "Crank Software Inc.",
+    "author": "Crank Software Inc.",
+    "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
+    "lastUpdated": "2017-12-18 12:00:00 UTC"
+  },
+  {
     "description": "Sketch plugin that allows you to import a set of icons and automatically apply a color mask.",
     "name": "Sketch Icons",
     "title": "Sketch Icons",
@@ -3365,3 +3374,4 @@
     "lastUpdated": "2017-12-14 13:13:20 UTC"
   }
 ]
+
