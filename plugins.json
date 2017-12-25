@@ -3363,5 +3363,13 @@
     "owner": "ahmedmigo",
     "name": "Move-to-library-sketchplugin",
     "lastUpdated": "2017-12-14 13:13:20 UTC"
+  },
+  {
+    "title": "I Want Apple System Font",
+    "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
+    "author": "usagimaru",
+    "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
+    "name": "i-want-apple-system-font",
+    "lastUpdated": "2017-12-23 18:39:06 UTC"
   }
 ]
