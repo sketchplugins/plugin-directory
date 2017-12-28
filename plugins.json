@@ -1,8 +1,8 @@
 [
   {
-    "description": "A plugin to help working with bootstrap grids and grids in general",
-    "name": "Bootstrap helpers",
-    "title": "Create (Bootstrap) grids and align and de-/increase width of layers accordingly",
+    "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
+    "name": "Bootstrap Helpers",
+    "title": "Bootstrap Helpers",
     "owner": "Konstantin Demblin",
     "author": "Konstantin Demblin",
     "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
