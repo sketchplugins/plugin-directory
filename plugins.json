@@ -1,5 +1,14 @@
 [
   {
+    "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
+    "name": "Bootstrap Helpers",
+    "title": "Bootstrap Helpers",
+    "owner": "Konstantin Demblin",
+    "author": "Konstantin Demblin",
+    "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
+    "lastUpdated": "2017-12-28 12:00:00 UTC"
+  },
+  {
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
     "name": "Storyboard Export",
     "title": "Export Sketch designs to load into Storyboard Suite",
