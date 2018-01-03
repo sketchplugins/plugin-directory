@@ -1,5 +1,23 @@
 [
   {
+    "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
+    "name": "Bootstrap Helpers",
+    "title": "Bootstrap Helpers",
+    "owner": "Konstantin Demblin",
+    "author": "Konstantin Demblin",
+    "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
+    "lastUpdated": "2017-12-28 12:00:00 UTC"
+  },
+  {
+    "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
+    "name": "Storyboard Export",
+    "title": "Export Sketch designs to load into Storyboard Suite",
+    "owner": "Crank Software Inc.",
+    "author": "Crank Software Inc.",
+    "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
+    "lastUpdated": "2017-12-18 12:00:00 UTC"
+  },
+  {
     "description": "Sketch plugin that allows you to import a set of icons and automatically apply a color mask.",
     "name": "Sketch Icons",
     "title": "Sketch Icons",
@@ -3355,6 +3373,30 @@
     "lastUpdated": "2017-12-05 15:48:00 UTC",
     "appcast": "https://github.com/CaravelDesign/caravel.sketchplugin/master/appcast.xml",
     "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin"
+  },
+  {
+    "title": "Move To Library Sketchplugin",
+    "description": " You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine ",
+    "author": "Ahmed Genaidy",
+    "owner": "ahmedmigo",
+    "name": "Move-to-library-sketchplugin",
+    "lastUpdated": "2017-12-14 13:13:20 UTC"
+  },
+  {
+    "title": "I Want Apple System Font",
+    "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
+    "author": "usagimaru",
+    "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
+    "name": "i-want-apple-system-font",
+    "lastUpdated": "2017-12-23 18:39:06 UTC"
+  },
+  {
+    "title": "Clipboard to Tilled Fill",
+    "description": "Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).",
+    "author": "midiway",
+    "homepage": "https://github.com/midiway/Clipboard2TilledFill",
+    "name": "Clipboard2TilledFill",
+    "lastUpdated": "2017-12-26 18:39:06 UTC"
   },
   {
     "title": "Sketch-Icons",
