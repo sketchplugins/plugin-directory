@@ -18,15 +18,6 @@
     "lastUpdated": "2017-12-18 12:00:00 UTC"
   },
   {
-    "description": "Sketch plugin that allows you to import a set of icons and automatically apply a color mask.",
-    "name": "Sketch Icons",
-    "title": "Sketch Icons",
-    "owner": "AMoreaux",
-    "author": "Valentin Chrétien, Antoine Moreaux",
-    "homepage": "https://github.com/AMoreaux/Sketch-Icons",
-    "lastUpdated": "2017-12-12 11:41:00 UTC"
-  },
-  {
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
     "name": "SketchCleaner",
     "title": "SketchCleaner",
@@ -3397,5 +3388,13 @@
     "homepage": "https://github.com/midiway/Clipboard2TilledFill",
     "name": "Clipboard2TilledFill",
     "lastUpdated": "2017-12-26 18:39:06 UTC"
+  },
+  {
+    "title": "Sketch-Icons",
+    "description": "Import your icons, apply a color mask and create a dynamic icons library.",
+    "name": "Sketch-Icons",
+    "owner": "AMoreaux",
+    "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
+    "homepage": "https://github.com/AMoreaux/Sketch-Icons"
   }
 ]
