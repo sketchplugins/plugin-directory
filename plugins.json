@@ -1,5 +1,14 @@
 [
   {
+    "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
+    "name": "FontRapid",
+    "title": "FontRapid",
+    "owner": "FontRapid Team",
+    "author": "FontRapid Team",
+    "homepage": "https://fontrapid.com",
+    "lastUpdated": "2018-1-11 08:00:00 UTC"
+  },
+  {
     "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
     "name": "Bootstrap Helpers",
     "title": "Bootstrap Helpers",
