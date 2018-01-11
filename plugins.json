@@ -3026,14 +3026,6 @@
     "lastUpdated": "2017-07-26 07:41:03 UTC"
   },
   {
-    "title": "Lists.design",
-    "description": "Populate text layers with realistic data from Lists.design",
-    "author": "Rafael E. Belliard",
-    "owner": "rebelliard",
-    "name": "sketch-plugin-lists.design",
-    "lastUpdated": "2017-08-05 02:47:55 UTC"
-  },
-  {
     "owner": "Smartling",
     "title": "Smartling",
     "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
