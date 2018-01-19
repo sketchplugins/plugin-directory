@@ -3397,5 +3397,13 @@
     "author": "FontRapid Team",
     "homepage": "https://fontrapid.com",
     "lastUpdated": "2018-1-12 12:00:00 UTC"
+  },
+  {
+    "title": "ui-struct",
+    "description": "Display Topographic Information",
+    "name": "UI-Struct",
+    "owner": "ziven27",
+    "appcast": "https://raw.githubusercontent.com/ziven27/UI-Struct/master/.appcast.xml",
+    "homepage": "https://github.com/ziven27/UI-Struct"
   }
 ]
