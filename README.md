@@ -376,6 +376,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Translate.me](https://github.com/eddiesigner/sketch-translate-me), by Eduardo Gómez Vásquez: Translations. Simplified. Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
 - [Typograph](https://github.com/dezonik/typograph), by Dmitry Gerasimov: Typograph — Sketch plugin and js-library
+- [UI Struct](https://github.com/ziven27/UI-Struct), by ziven27: Display topographic information
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Unlock All Layers & Unlock Hover](https://github.com/truthlabs/sketch-unlock-all-layers), by Truth Labs: Unlock all layers on the current artboard using ⌘⌥L
 - [Unsplash It](https://github.com/fhuel/unsplash-it-sketch), by Manuele Capacci: A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
@@ -399,7 +400,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 
 ## Sorted by last update (newest on top)
-
+- [UI Struct](https://github.com/ziven27/UI-Struct), by ziven27: Display topographic information
 - [FontRapid](https://fontrapid.com), by FontRapid Team: FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).
 - [Bootstrap Helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers), by Konstantin Demblin: A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.
 - [Clipboard to Tilled Fill](https://github.com/midiway/Clipboard2TilledFill), by midiway: Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).
