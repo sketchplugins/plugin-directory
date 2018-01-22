@@ -3415,5 +3415,13 @@
     "author": "Yusuke Saitoh",
     "homepage": "https://github.com/yusukesaitoh/sketch-select-same-symbols",
     "lastUpdated": "2018-01-08 03:53:49 UTC"
+  },
+  {
+    "title": "Sketch Show Bounding Boxes",
+    "description": "Sketch plugin that shows bounding boxes of all layers",
+    "author": "Pravdomil",
+    "owner": "pravdomil",
+    "name": "Sketch-Show-Bounding-Boxes",
+    "lastUpdated": "2018-01-20 22:16:22 UTC"
   }
 ]
