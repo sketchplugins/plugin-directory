@@ -3397,5 +3397,14 @@
     "author": "FontRapid Team",
     "homepage": "https://fontrapid.com",
     "lastUpdated": "2018-1-12 12:00:00 UTC"
+  },
+  {
+    "title": "Select Same Symbols",
+    "description": "Select same symbols as the currently selected symbol.",
+    "owner": "yusukesaitoh",
+    "name": "sketch-select-same-symbols",
+    "author": "Yusuke Saitoh",
+    "homepage": "https://github.com/yusukesaitoh/sketch-select-same-symbols",
+    "lastUpdated": "2018-01-08 03:53:49 UTC"
   }
 ]
