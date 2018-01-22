@@ -3423,5 +3423,13 @@
     "owner": "pravdomil",
     "name": "Sketch-Show-Bounding-Boxes",
     "lastUpdated": "2018-01-20 22:16:22 UTC"
+  },
+  {
+    "title": "StyleClip",
+    "description": "Sketch plugin that copies an element's styles directly to your Mac clipboard. Supports CSS & SCSS",
+    "author": "Vincent",
+    "owner": "liawesomesaucer",
+    "name": "StyleClip",
+    "lastUpdated": "2018-01-16 11:02:17 UTC"
   }
 ]
