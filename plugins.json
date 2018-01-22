@@ -3406,5 +3406,14 @@
     "appcast": "https://raw.githubusercontent.com/ziven27/Sketch-topographic/master/.appcast.xml",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
     "author": "ziven27"
+  },
+  {
+    "title": "Select Same Symbols",
+    "description": "Select same symbols as the currently selected symbol.",
+    "owner": "yusukesaitoh",
+    "name": "sketch-select-same-symbols",
+    "author": "Yusuke Saitoh",
+    "homepage": "https://github.com/yusukesaitoh/sketch-select-same-symbols",
+    "lastUpdated": "2018-01-08 03:53:49 UTC"
   }
 ]
