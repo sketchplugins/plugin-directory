@@ -3440,5 +3440,20 @@
     "owner": "sergeydmitriev",
     "name": "HandyMenu-SketchPlugin",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin"
+  },
+  {
+    "title": "chart",
+    "description": "Create the most popular types of charts by real or random data",
+    "author": "Pavel Kuligin",
+    "owner": "pavelkuligin",
+    "name": "chart",
+    "lastUpdated": "2018-01-23 06:57:56 UTC"
+  },
+  {
+    "description": "Version control for designers",
+    "title": "Plant",
+    "author": "Plant",
+    "homepage": "https://plantapp.io",
+    "lastUpdated": "2018-01-22 00:07:16 UTC"
   }
 ]
