@@ -3432,5 +3432,13 @@
     "owner": "liawesomesaucer",
     "name": "StyleClip",
     "lastUpdated": "2018-01-16 11:02:17 UTC"
+  },
+  {
+    "title": "chart",
+    "description": "Create the most popular types of charts by real or random data",
+    "author": "Pavel Kuligin",
+    "owner": "pavelkuligin",
+    "name": "chart",
+    "lastUpdated": "2018-01-23 06:57:56 UTC"
   }
 ]
