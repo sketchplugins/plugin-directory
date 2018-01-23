@@ -3434,6 +3434,14 @@
     "lastUpdated": "2018-01-16 11:02:17 UTC"
   },
   {
+    "title": "Handy Menu",
+    "description": "Gives quick access to your plugins through context menu",
+    "author": "Sergey Dmitriev",
+    "owner": "sergeydmitriev",
+    "name": "HandyMenu-SketchPlugin",
+    "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin"
+  },
+  {
     "title": "chart",
     "description": "Create the most popular types of charts by real or random data",
     "author": "Pavel Kuligin",
