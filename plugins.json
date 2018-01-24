@@ -3455,5 +3455,13 @@
     "author": "Plant",
     "homepage": "https://plantapp.io",
     "lastUpdated": "2018-01-22 00:07:16 UTC"
+  },
+  {
+    "title": "DeepSelect",
+    "description": "A quick and easy way to select layers inside a group, filtering by layer type",
+    "name": "DeepSelect",
+    "owner": "fhuel",
+    "appcast": "https://raw.githubusercontent.com/fhuel/DeepSelect/master/.appcast.xml",
+    "homepage": "https://github.com/fhuel/DeepSelect"
   }
 ]
