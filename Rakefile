@@ -143,11 +143,14 @@ task :lastUpdated do
     if plugin['owner'] && plugin['name']
       puts "Updating #{titlefy(plugin['name'])}"
       plugin_url = plugin['owner'] + "/" + plugin['name']
-      repo = client.repo(plugin_url)
-      user = client.user(plugin['owner'])
-
-      puts "— Plugin was updated at #{repo.pushed_at}"
-      plugin['lastUpdated'] = repo.pushed_at
+      begin
+        repo = client.repo(plugin_url)
+        user = client.user(plugin['owner'])
+        puts "— Plugin was updated at #{repo.pushed_at}"
+        plugin['lastUpdated'] = repo.pushed_at
+      rescue Exception => e
+        puts "— Repo not available"
+      end
 
       # if plugin['name'] == plugin['title'] && plugin['title'] == nil
       #   puts "— Plugin title is wrong, fixing"
@@ -157,7 +160,7 @@ task :lastUpdated do
     puts
   end
 
-  File.open("plugins-new.json","w") do |f|
+  File.open("plugins.json","w") do |f|
     f.write(JSON.pretty_generate(json_data, :indent => "  "))
   end
 
