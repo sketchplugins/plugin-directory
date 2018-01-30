@@ -184,6 +184,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Plant](https://plantapp.io), by Plant: Version control for designers
 - [Prefixation Sketch Plugin](https://github.com/pberrecloth/prefixation-sketch-plugin), by Peter Berrecloth: Manage the prefixes of your layers, artboards or symbols
 - [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
+- [Proportional Replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
 - [Prott Sketch Plugin](https://github.com/goodpatch/prott-sketch-plugin), by Goodpatch Inc.: Sync Sketch artboards to Prott like a boss.
 - [Ps Guides](https://github.com/pratikjshah/ps-guides), by Pratik Shah: Quickly generate Guides for a selected element in Sketch
 - [Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers
@@ -802,3 +803,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Font Size Checker](https://github.com/feb19/sketch-font-size-checker), by Nobuhiro Takahashi: Text Size Validator for iOS or Android UI Designers.
 - [Disconnect for Sketch](https://github.com/einancunlu/disconnect-for-sketch), by Emin İnanç Ünlü: Disconnect / unlink selection from symbols and shared styles.
 - [Pseudol10n](https://github.com/arieare/sketch-pseudol10n), by Arie Aulia Nugraha: Sketch plugin to pseudolocalize text layers
+- [Proportional Replicator](https://github.com/aleludovici/sketch-proportional-replicator), by Alessandro Ludovici: This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.
