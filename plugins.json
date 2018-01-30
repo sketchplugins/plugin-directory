@@ -1,5 +1,14 @@
 [
   {
+    "description": "Access Shutterstock's stunning images without leaving your workspace.",
+    "name": "Shutterstock",
+    "title": "Shutterstock",
+    "owner": "Shutterstock",
+    "author": "Shutterstock, Inc.",
+    "homepage": "https://www.shutterstock.com/special/sketchplugin",
+    "lastUpdated": "2018-01-19 16:09:47 UTC"
+  },
+  {
     "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
     "name": "sketch-bootstrap-helpers",
     "title": "Bootstrap Helpers",
