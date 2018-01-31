@@ -3480,5 +3480,13 @@
     "appcast": "https://raw.githubusercontent.com/fhuel/DeepSelect/master/.appcast.xml",
     "homepage": "https://github.com/fhuel/DeepSelect",
     "lastUpdated": "2018-01-23 18:17:49 UTC"
+  },
+  {
+    "title": "SketchSeparateShapes",
+    "description": "A Sketch-app plugin that does a ”boolean” separate operation on two selected shapes. Like divide in Pathfinder in Adobe Illustrator.",
+    "author": "Peter Strömberg",
+    "owner": "PEZ",
+    "name": "SketchSeparateShapes",
+    "lastUpdated": "2018-01-30 19:12:14 UTC"
   }
 ]
