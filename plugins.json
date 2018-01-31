@@ -3482,12 +3482,12 @@
     "lastUpdated": "2018-01-23 18:17:49 UTC"
   },
   {
-    "title": "SketchSeparateShapes",
+    "title": "Separate Shapes",
     "description": "A Sketch-app plugin that does a ”boolean” separate operation on two selected shapes. Like divide in Pathfinder in Adobe Illustrator.",
     "author": "Peter Strömberg",
     "owner": "PEZ",
     "name": "SketchSeparateShapes",
-    "lastUpdated": "2018-01-30 19:12:14 UTC"
+    "lastUpdated": "2018-01-31 17:00:00 UTC"
   },
   {
     "title": "Sketch Copy Layers Styles",
