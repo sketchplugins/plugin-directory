@@ -3488,5 +3488,13 @@
     "owner": "PEZ",
     "name": "SketchSeparateShapes",
     "lastUpdated": "2018-01-30 19:12:14 UTC"
+  },
+  {
+    "title": "Sketch Copy Layers Styles",
+    "description": "Sketch plugin to copy Layers and Text styles",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "Sketch-Copy-Layers-Styles",
+    "lastUpdated": "2018-01-30 18:41:43 UTC"
   }
 ]
