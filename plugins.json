@@ -3496,5 +3496,13 @@
     "owner": "FrancisVega",
     "name": "Sketch-Copy-Layers-Styles",
     "lastUpdated": "2018-01-30 18:41:43 UTC"
+  },
+  {
+    "title": "Sketch User Flows",
+    "description": "A Sketch Plug-in for importing/exporting user flow and interface definitions from Reqfire.",
+    "author": "reqfire",
+    "owner": "reqfire",
+    "name": "sketch-user-flows",
+    "lastUpdated": "2018-01-29 06:10:42 UTC"
   }
 ]
