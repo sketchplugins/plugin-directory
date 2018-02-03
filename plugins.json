@@ -3504,5 +3504,13 @@
     "owner": "reqfire",
     "name": "sketch-user-flows",
     "lastUpdated": "2018-01-29 06:10:42 UTC"
+  },
+  {
+    "description": "Automated padding, spacing and alignment for your Sketch layers",
+    "name": "paddy-sketch-plugin",
+    "title": "Paddy",
+    "owner": "DWilliames",
+    "author": "David Williames",
+    "lastUpdated": "2018-02-03 12:00:00 UTC"
   }
 ]
