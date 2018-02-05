@@ -1,5 +1,14 @@
 [
   {
+    "description": "Adds prototyping to Sketch including transitions between screens and layer animation.",
+    "name": "protowire",
+    "title": "Protowire",
+    "owner": "markhorgan",
+    "author": "Mark Horgan",
+    "homepage": "https://protowire.com",
+    "lastUpdated": "2018-02-05 10:27:00 UTC"
+  },
+  {
     "description": "Access Shutterstock's stunning images without leaving your workspace.",
     "name": "Shutterstock",
     "title": "Shutterstock",
