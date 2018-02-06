@@ -3521,5 +3521,14 @@
     "owner": "DWilliames",
     "author": "David Williames",
     "lastUpdated": "2018-02-03 12:00:00 UTC"
+  },
+  {
+    "title": "sketch-style-libraries",
+    "description": "Sync layer & text styles from any Sketch Library",
+    "name": "sketch-style-libraries",
+    "owner": "sigtm",
+    "appcast": "https://raw.githubusercontent.com/sigtm/sketch-style-libraries/master/.appcast.xml",
+    "homepage": "https://github.com/sigtm/sketch-style-libraries",
+    "author": "Sigurd Mannsaker"
   }
 ]
