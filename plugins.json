@@ -435,7 +435,7 @@
     "author": "thetylerwolf",
     "owner": "thetylerwolf",
     "homepage": "http://thetylerwolf.github.io/sketch-data-studio",
-    "lastUpdated": "2017-11-05 11:01:08 UTC"
+    "lastUpdated": "2018-02-01 19:33:56 UTC"
   },
   {
     "description": "A Sketch plugin that calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.",
@@ -808,7 +808,7 @@
     "author": "Raureif",
     "title": "Click Dummy",
     "name": "sketch-click-dummy",
-    "lastUpdated": "2017-08-15 02:54:14 UTC"
+    "lastUpdated": "2018-02-01 17:42:23 UTC"
   },
   {
     "description": "Sketch app plugin for displaying Google material design color palette.",
@@ -878,7 +878,7 @@
     "name": "SketchDistributor",
     "author": "Peter Strömberg",
     "owner": "PEZ",
-    "lastUpdated": "2017-06-08 11:52:49 UTC"
+    "lastUpdated": "2018-02-06 14:56:25 UTC"
   },
   {
     "description": "Export a full story flow and dev spec in one shortcut.",
@@ -894,7 +894,7 @@
     "title": "Artboard Tools",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2017-12-06 21:28:01 UTC"
+    "lastUpdated": "2018-02-05 09:11:38 UTC"
   },
   {
     "description": "Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.",
@@ -1180,7 +1180,7 @@
     "title": "Artboard Tricks",
     "author": "Roman Nurik",
     "owner": "romannurik",
-    "lastUpdated": "2018-01-22 02:43:56 UTC"
+    "lastUpdated": "2018-01-26 02:48:14 UTC"
   },
   {
     "description": "Use icon fonts in sketch",
@@ -1525,7 +1525,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2018-01-23 02:25:10 UTC"
+    "lastUpdated": "2018-01-26 13:11:23 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1816,7 +1816,7 @@
     "name": "Formr",
     "owner": "lessthanzero",
     "author": "Alexander Katin",
-    "lastUpdated": "2017-07-29 19:46:01 UTC"
+    "lastUpdated": "2018-02-01 20:41:50 UTC"
   },
   {
     "description": "A plugin for Sketch to fix all of those partial pixels",
@@ -2118,7 +2118,7 @@
     "name": "shared-text-styles",
     "owner": "nilshoenson",
     "author": "Nils Hoenson",
-    "lastUpdated": "2018-01-18 21:51:37 UTC"
+    "lastUpdated": "2018-02-06 20:32:58 UTC"
   },
   {
     "description": "Sketch plugin for adding page numbers to artboards.",
@@ -2158,7 +2158,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2018-01-19 11:00:26 UTC"
+    "lastUpdated": "2018-02-05 09:58:34 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2221,7 +2221,7 @@
     "title": "Sketch Grid Master",
     "owner": "exevil",
     "author": "Vyacheslav Dubovitsky",
-    "lastUpdated": "2017-10-12 22:05:28 UTC"
+    "lastUpdated": "2018-01-31 09:43:09 UTC"
   },
   {
     "description": "Tiny single-command Sketch plugin that renames every symbol instance with its master's name.",
@@ -2731,7 +2731,7 @@
     "author": "Finch.io",
     "owner": "finchalyzer",
     "name": "slinky",
-    "lastUpdated": "2017-12-04 14:28:07 UTC"
+    "lastUpdated": "2018-02-05 21:14:21 UTC"
   },
   {
     "title": "FlipSize",
@@ -2818,7 +2818,7 @@
     "name": "Sketch-Plugin-Manager",
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "description": "Keeping your Sketch plugins up to date with the power of Git.",
-    "lastUpdated": "2017-12-09 01:24:10 UTC",
+    "lastUpdated": "2018-02-06 17:59:19 UTC",
     "title": "Sketch Plugin Manager 🔌",
     "author": "Mel Ludowise"
   },
@@ -2861,7 +2861,7 @@
     "author": "Francis",
     "owner": "FrancisVega",
     "name": "sketch-copy-paste-layout-settings",
-    "lastUpdated": "2017-10-17 11:33:05 UTC"
+    "lastUpdated": "2018-01-30 15:31:20 UTC"
   },
   {
     "title": "Skatter",
@@ -3326,7 +3326,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2018-01-18 11:23:39 UTC"
+    "lastUpdated": "2018-01-31 09:40:20 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3334,7 +3334,7 @@
     "author": "Pravdomil",
     "owner": "pravdomil",
     "name": "sketch-align-to-grid",
-    "lastUpdated": "2018-01-20 22:56:40 UTC"
+    "lastUpdated": "2018-01-27 17:13:47 UTC"
   },
   {
     "title": "Translate.me",
@@ -3358,7 +3358,7 @@
     "author": "Pravdomil",
     "owner": "pravdomil",
     "name": "FixSketchTrackpadSpeed",
-    "lastUpdated": "2018-01-21 11:58:43 UTC"
+    "lastUpdated": "2018-02-04 17:30:26 UTC"
   },
   {
     "title": "Sketch WCAG",
@@ -3411,7 +3411,7 @@
     "owner": "AMoreaux",
     "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
     "homepage": "https://github.com/AMoreaux/Sketch-Icons",
-    "lastUpdated": "2018-01-21 18:56:42 UTC"
+    "lastUpdated": "2018-01-31 10:21:15 UTC"
   },
   {
     "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
@@ -3448,7 +3448,7 @@
     "owner": "pravdomil",
     "name": "Sketch-Show-Bounding-Boxes",
     "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes",
-    "lastUpdated": "2018-01-22 10:28:43 UTC"
+    "lastUpdated": "2018-01-27 17:13:13 UTC"
   },
   {
     "title": "StyleClip",
@@ -3456,7 +3456,7 @@
     "author": "Vincent",
     "owner": "liawesomesaucer",
     "name": "StyleClip",
-    "lastUpdated": "2018-01-18 21:38:39 UTC"
+    "lastUpdated": "2018-01-30 18:26:10 UTC"
   },
   {
     "title": "Handy Menu",
@@ -3472,7 +3472,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2018-01-23 16:20:45 UTC"
+    "lastUpdated": "2018-02-04 12:00:34 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3488,7 +3488,7 @@
     "owner": "fhuel",
     "appcast": "https://raw.githubusercontent.com/fhuel/DeepSelect/master/.appcast.xml",
     "homepage": "https://github.com/fhuel/DeepSelect",
-    "lastUpdated": "2018-01-23 18:17:49 UTC"
+    "lastUpdated": "2018-02-06 10:15:39 UTC"
   },
   {
     "title": "Separate Shapes",
@@ -3496,7 +3496,7 @@
     "author": "Peter Strömberg",
     "owner": "PEZ",
     "name": "SketchSeparateShapes",
-    "lastUpdated": "2018-01-31 17:00:00 UTC"
+    "lastUpdated": "2018-02-06 15:02:15 UTC"
   },
   {
     "title": "Sketch Copy Layers Styles",
@@ -3504,7 +3504,7 @@
     "author": "Francis",
     "owner": "FrancisVega",
     "name": "Sketch-Copy-Layers-Styles",
-    "lastUpdated": "2018-01-30 18:41:43 UTC"
+    "lastUpdated": "2018-02-06 17:07:55 UTC"
   },
   {
     "title": "Sketch User Flows",
@@ -3512,7 +3512,7 @@
     "author": "reqfire",
     "owner": "reqfire",
     "name": "sketch-user-flows",
-    "lastUpdated": "2018-01-29 06:10:42 UTC"
+    "lastUpdated": "2018-02-07 05:07:12 UTC"
   },
   {
     "description": "Automated padding, spacing and alignment for your Sketch layers",
@@ -3520,15 +3520,16 @@
     "title": "Paddy",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2018-02-03 12:00:00 UTC"
+    "lastUpdated": "2018-02-06 11:33:15 UTC"
   },
   {
-    "title": "sketch-style-libraries",
+    "title": "Sketch Style Libraries",
     "description": "Sync layer & text styles from any Sketch Library",
     "name": "sketch-style-libraries",
     "owner": "sigtm",
     "appcast": "https://raw.githubusercontent.com/sigtm/sketch-style-libraries/master/.appcast.xml",
     "homepage": "https://github.com/sigtm/sketch-style-libraries",
-    "author": "Sigurd Mannsaker"
+    "author": "Sigurd Mannsaker",
+    "lastUpdated": "2018-02-07 09:25:26 UTC"
   }
 ]
