@@ -1,5 +1,14 @@
 [
   {
+    "description": "Generate Isometric views from Artboards and Rectangles.",
+    "name": "SketchIsometric",
+    "title": "Sketch Isometric",
+    "owner": "sureskumar",
+    "author": "Sures Kumar",
+    "homepage": "https://github.com/sureskumar/sketch-isometric",
+    "lastUpdated": "2018-02-11 07:00:00 UTC"
+  },
+  {
     "description": "Adds prototyping to Sketch including transitions between screens and layer animation.",
     "name": "protowire",
     "title": "Protowire",
