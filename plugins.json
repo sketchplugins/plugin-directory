@@ -3540,5 +3540,13 @@
     "homepage": "https://github.com/sigtm/sketch-style-libraries",
     "author": "Sigurd Mannsaker",
     "lastUpdated": "2018-02-07 09:25:26 UTC"
+  },
+  {
+    "title": "Sketch Split Shape",
+    "description": "Sketch plugin to split up a rectangle evenly by a user generated value",
+    "author": "kupe517",
+    "owner": "kupe517",
+    "name": "sketch-split-shape",
+    "lastUpdated": "2018-02-21 16:56:18 UTC"
   }
 ]
