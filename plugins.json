@@ -3548,5 +3548,13 @@
     "owner": "kupe517",
     "name": "sketch-split-shape",
     "lastUpdated": "2018-02-21 16:56:18 UTC"
+  },
+  {
+    "title": "angle",
+    "description": "Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.",
+    "name": "Angle-Sketch-Plugin",
+    "owner": "MengTo",
+    "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/MengTo/Angle-Sketch-Plugin"
   }
 ]
