@@ -403,7 +403,7 @@
     "title": "Prott Sketch Plugin",
     "author": "Goodpatch Inc.",
     "owner": "goodpatch",
-    "lastUpdated": "2017-08-28 04:48:36 UTC"
+    "lastUpdated": "2018-02-21 01:30:54 UTC"
   },
   {
     "description": "Save important stages of your artboards in the blink of an eye, and then, move fast and break things.",
@@ -540,7 +540,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2018-01-13 02:10:30 UTC"
+    "lastUpdated": "2018-02-19 05:11:55 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -555,7 +555,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2018-01-15 23:02:04 UTC"
+    "lastUpdated": "2018-02-13 10:13:20 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -668,7 +668,7 @@
     "author": "Florian Schulz",
     "title": "Color Contrast Analyser",
     "name": "Sketch-Color-Contrast-Analyser",
-    "lastUpdated": "2017-08-04 11:41:15 UTC"
+    "lastUpdated": "2018-02-22 08:09:17 UTC"
   },
   {
     "description": "Plugin that allows you to set the line height of a text layer as a multiple of the font size.",
@@ -722,7 +722,7 @@
     "owner": "x-raizor",
     "author": "Andrew Shapiro",
     "name": "Efficiency",
-    "lastUpdated": "2017-03-26 17:29:44 UTC"
+    "lastUpdated": "2018-02-12 21:16:57 UTC"
   },
   {
     "description": "A plugin for Sketch to generate divine proportions automatically.",
@@ -1070,7 +1070,7 @@
     "title": "ZEN Sketch",
     "author": "Francis Vega",
     "owner": "FrancisVega",
-    "lastUpdated": "2017-02-19 09:59:25 UTC"
+    "lastUpdated": "2018-02-13 17:39:41 UTC"
   },
   {
     "description": "Align text layer vertically based on its baseline and cap height.",
@@ -1157,7 +1157,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2017-12-08 12:55:56 UTC"
+    "lastUpdated": "2018-02-19 07:52:33 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -1288,7 +1288,7 @@
     "title": "Find And Replace",
     "author": "Martin Steven. Maintained by Thierry Charbonnel",
     "owner": "thierryc",
-    "lastUpdated": "2018-01-09 15:21:52 UTC"
+    "lastUpdated": "2018-02-19 16:14:32 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
@@ -1534,7 +1534,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2018-01-26 13:11:23 UTC"
+    "lastUpdated": "2018-02-22 10:20:48 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1559,7 +1559,7 @@
     "title": "Copy Swift Code",
     "author": "Atsushi NAGASE",
     "owner": "ngs",
-    "lastUpdated": "2017-08-16 12:59:51 UTC"
+    "lastUpdated": "2018-02-23 06:04:59 UTC"
   },
   {
     "description": "Easily copy, paste or remove guides from/to your artboard(s).",
@@ -1665,7 +1665,7 @@
     "author": "Qordoba",
     "owner": "Qordobacode",
     "homepage": "https://www.qordoba.com",
-    "lastUpdated": "2017-09-01 17:19:43 UTC"
+    "lastUpdated": "2018-02-08 19:26:04 UTC"
   },
   {
     "description": "A Sketch plugin that selects the parent artboards of the current selection",
@@ -1772,7 +1772,7 @@
     "name": "Prism",
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
-    "lastUpdated": "2017-10-25 06:36:37 UTC"
+    "lastUpdated": "2018-02-19 18:28:13 UTC"
   },
   {
     "description": "Sketch plugin to pseudolocalize text layers",
@@ -2167,7 +2167,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2018-02-05 09:58:34 UTC"
+    "lastUpdated": "2018-02-13 09:20:39 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2276,7 +2276,7 @@
     "title": "Symbol Organizer",
     "owner": "sonburn",
     "author": "Jason Burns",
-    "lastUpdated": "2017-12-06 14:59:46 UTC"
+    "lastUpdated": "2018-02-15 14:55:33 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.",
@@ -2331,7 +2331,7 @@
     "name": "QuickColor",
     "owner": "colesperks",
     "author": "Cole Perkins",
-    "lastUpdated": "2017-04-13 21:06:53 UTC"
+    "lastUpdated": "2018-02-19 04:07:46 UTC"
   },
   {
     "description": "A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards",
@@ -2467,7 +2467,7 @@
     "title": "Notes",
     "owner": "cshdllr",
     "author": "Jason Cashdollar",
-    "lastUpdated": "2017-08-15 00:21:09 UTC"
+    "lastUpdated": "2018-02-14 06:55:40 UTC"
   },
   {
     "description": "Automatically create RTL layouts of your designs with this plugin for Bohemian Coding's Sketch 3",
@@ -2675,7 +2675,7 @@
     "title": "Sketch Marginbox",
     "owner": "FrancisVega",
     "author": "Francis",
-    "lastUpdated": "2017-03-23 22:21:34 UTC"
+    "lastUpdated": "2018-02-13 15:00:19 UTC"
   },
   {
     "description": "Generate hundreds of Sketch Shared Styles in a matter of seconds.",
@@ -2827,7 +2827,7 @@
     "name": "Sketch-Plugin-Manager",
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "description": "Keeping your Sketch plugins up to date with the power of Git.",
-    "lastUpdated": "2018-02-06 17:59:19 UTC",
+    "lastUpdated": "2018-02-18 09:46:08 UTC",
     "title": "Sketch Plugin Manager 🔌",
     "author": "Mel Ludowise"
   },
@@ -3128,7 +3128,7 @@
     "homepage": "https://github.com/mcansh/squash-sketchplugin",
     "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
     "description": "Export and optimize images with Realmac Squash",
-    "lastUpdated": "2017-12-13 17:41:27 UTC"
+    "lastUpdated": "2018-02-09 23:42:19 UTC"
   },
   {
     "title": "Jira Cloud for Sketch",
@@ -3163,7 +3163,7 @@
     "homepage": "https://github.com/mcansh/sketch-find-all-instances-of-symbol",
     "author": "Logan McAnsh",
     "description": "Find all instances of a symbol in Sketch",
-    "lastUpdated": "2017-12-13 17:42:33 UTC"
+    "lastUpdated": "2018-02-10 16:48:45 UTC"
   },
   {
     "title": "Sketch Symbol Importer",
@@ -3227,7 +3227,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-swapper",
-    "lastUpdated": "2017-12-08 22:34:53 UTC"
+    "lastUpdated": "2018-02-08 02:42:21 UTC"
   },
   {
     "title": "Sympli",
@@ -3335,7 +3335,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2018-01-31 09:40:20 UTC"
+    "lastUpdated": "2018-02-08 08:45:36 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3395,7 +3395,7 @@
     "author": "Ahmed Genaidy",
     "owner": "ahmedmigo",
     "name": "Move-to-library-sketchplugin",
-    "lastUpdated": "2018-01-22 22:15:55 UTC"
+    "lastUpdated": "2018-02-22 14:03:48 UTC"
   },
   {
     "title": "I Want Apple System Font",
@@ -3457,7 +3457,7 @@
     "owner": "pravdomil",
     "name": "Sketch-Show-Bounding-Boxes",
     "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes",
-    "lastUpdated": "2018-01-27 17:13:13 UTC"
+    "lastUpdated": "2018-02-13 14:45:27 UTC"
   },
   {
     "title": "StyleClip",
@@ -3481,7 +3481,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2018-02-04 12:00:34 UTC"
+    "lastUpdated": "2018-02-22 08:19:25 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3505,7 +3505,7 @@
     "author": "Peter Strömberg",
     "owner": "PEZ",
     "name": "SketchSeparateShapes",
-    "lastUpdated": "2018-02-06 15:02:15 UTC"
+    "lastUpdated": "2018-02-11 12:08:22 UTC"
   },
   {
     "title": "Sketch Copy Layers Styles",
@@ -3521,7 +3521,7 @@
     "author": "reqfire",
     "owner": "reqfire",
     "name": "sketch-user-flows",
-    "lastUpdated": "2018-02-07 05:07:12 UTC"
+    "lastUpdated": "2018-02-20 05:54:12 UTC"
   },
   {
     "description": "Automated padding, spacing and alignment for your Sketch layers",
@@ -3529,7 +3529,7 @@
     "title": "Paddy",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2018-02-06 11:33:15 UTC"
+    "lastUpdated": "2018-02-18 06:27:39 UTC"
   },
   {
     "title": "Sketch Style Libraries",
@@ -3539,7 +3539,7 @@
     "appcast": "https://raw.githubusercontent.com/sigtm/sketch-style-libraries/master/.appcast.xml",
     "homepage": "https://github.com/sigtm/sketch-style-libraries",
     "author": "Sigurd Mannsaker",
-    "lastUpdated": "2018-02-07 09:25:26 UTC"
+    "lastUpdated": "2018-02-17 12:52:22 UTC"
   },
   {
     "title": "Sketch Split Shape",
@@ -3547,7 +3547,7 @@
     "author": "kupe517",
     "owner": "kupe517",
     "name": "sketch-split-shape",
-    "lastUpdated": "2018-02-21 16:56:18 UTC"
+    "lastUpdated": "2018-02-22 06:31:18 UTC"
   },
   {
     "title": "Angle",
