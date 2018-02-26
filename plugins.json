@@ -3556,5 +3556,13 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle"
+  },
+  {
+    "title": "Handymenu Sketchplugin",
+    "description": "Quick access to Sketch App plugins through contextual menu",
+    "author": "Sergey Dmitriev",
+    "owner": "sergeishere",
+    "name": "HandyMenu-SketchPlugin",
+    "lastUpdated": "2018-02-25 16:31:56 UTC"
   }
 ]
