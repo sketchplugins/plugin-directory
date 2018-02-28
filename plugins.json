@@ -3564,5 +3564,15 @@
     "owner": "sergeishere",
     "name": "HandyMenu-SketchPlugin",
     "lastUpdated": "2018-02-25 16:31:56 UTC"
+  },
+  {
+    "title": "Fast Text Transfer",
+    "description": "Lightning fast copying, pasting and swapping text.",
+    "name": "sketch-fast-text-transfer",
+    "owner": "jbentzen",
+    "author": "Jesper Bentzen",
+    "homepage": "https://github.com/jbentzen/sketch-fast-text-transfer",
+    "appcast": "https://raw.githubusercontent.com/jbentzen/sketch-fast-text-transfer/master/.appcast.xml",
+    "lastUpdated": "2018-02-25 12:16:00 UTC"
   }
 ]
