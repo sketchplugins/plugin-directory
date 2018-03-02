@@ -3575,7 +3575,7 @@
     "appcast": "https://raw.githubusercontent.com/jbentzen/sketch-fast-text-transfer/master/.appcast.xml",
     "lastUpdated": "2018-02-25 12:16:00 UTC"
   },
-    {
+  {
     "title": "SnipSnap",
     "description": "Remove extra padding on multiple layers or artboards with ease.",
     "name": "SnipSnap-Plugin",
@@ -3583,6 +3583,13 @@
     "author": "Wes Craig",
     "homepage": "https://github.com/wescraig/SnipSnap",
     "lastUpdated": "2018-02-28 03:55:00 UTC"
+  },
+  {
+    "title": "Sketch Smart Style Switcher",
+    "description": "Switch to an existing test style if attributes matches.",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "Sketch-Smart-Style-Switcher",
+    "lastUpdated": "2018-03-01 13:05:50 UTC"
   }
-
 ]
