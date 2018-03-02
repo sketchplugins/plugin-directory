@@ -3558,7 +3558,7 @@
     "homepage": "https://designcode.io/angle"
   },
   {
-    "title": "Handymenu Sketchplugin",
+    "title": "HandyMenu",
     "description": "Quick access to Sketch App plugins through contextual menu",
     "author": "Sergey Dmitriev",
     "owner": "sergeishere",
@@ -3574,5 +3574,15 @@
     "homepage": "https://github.com/jbentzen/sketch-fast-text-transfer",
     "appcast": "https://raw.githubusercontent.com/jbentzen/sketch-fast-text-transfer/master/.appcast.xml",
     "lastUpdated": "2018-02-25 12:16:00 UTC"
+  },
+    {
+    "title": "SnipSnap",
+    "description": "Remove extra padding on multiple layers or artboards with ease.",
+    "name": "SnipSnap-Plugin",
+    "owner": "wescraig",
+    "author": "Wes Craig",
+    "homepage": "https://github.com/wescraig/SnipSnap",
+    "lastUpdated": "2018-02-28 03:55:00 UTC"
   }
+
 ]
