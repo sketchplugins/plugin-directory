@@ -3593,6 +3593,15 @@
     "lastUpdated": "2018-03-01 13:05:50 UTC"
   },
   {
+    "title": "sketch-bacon-ipsum",
+    "description": "A simple & easy Bacon Ipsum text generator for Sketch.",
+    "name": "sketch-bacon-ipsum",
+    "owner": "zcallan",
+    "appcast": "https://raw.githubusercontent.com/zcallan/sketch-bacon-ipsum/master/.appcast.xml",
+    "homepage": "https://github.com/zcallan/sketch-bacon-ipsum",
+    "author": "zcallan\n <kaln.delbridge@hotmail.com\n>"
+  },
+  {
     "title": "artboars-explorer",
     "description": " Add utility functionnalities to Sketch's artboards",
     "name": "artboards-explorer",
