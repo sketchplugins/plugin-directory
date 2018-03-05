@@ -3600,5 +3600,14 @@
     "appcast": "https://raw.githubusercontent.com/zcallan/sketch-bacon-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/zcallan/sketch-bacon-ipsum",
     "author": "zcallan\n <kaln.delbridge@hotmail.com\n>"
+  },
+  {
+    "title": "artboars-explorer",
+    "description": " Add utility functionnalities to Sketch's artboards",
+    "name": "artboards-explorer",
+    "owner": "Hito01",
+    "appcast": "https://raw.githubusercontent.com/Hito01/artboards-explorer/master/.appcast.xml",
+    "homepage": "https://github.com/Hito01/artboards-explorer",
+    "author": "Nicolas Collard\n <niko.collard@gmail.com\n>"
   }
 ]
