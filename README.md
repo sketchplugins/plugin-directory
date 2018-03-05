@@ -23,6 +23,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by herrhelms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
+- [Artboards Explorer](https://github.com/Hito01/artboards-explorer), by Nicolas Collard: Add utility functionnalities to Sketch's artboards
 - [Artboards to PDF](https://github.com/andrewfiorillo/sketch-artboards-to-pdf), by Andrew Fiorillo: Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages
 - [Artboardzoom](https://github.com/arkkimaagi/artboardzoom), by Mikko Tapionlinna: "Zoom" to currently selected Artboard.
 - [Artwork Fetcher](https://github.com/mmth/sketch-artwork-fetcher), by Semibold Mammoth: Sketch.app plugin for fetching artworks from Last.fm web-service and filling selected shapes with them. Allows to fetch artworks by their album and/or artist names.
@@ -30,6 +31,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Design responsive screens and easily see all screen sizes at once.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
+- [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
 - [Base64 PNG Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
