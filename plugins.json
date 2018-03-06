@@ -3609,5 +3609,14 @@
     "appcast": "https://raw.githubusercontent.com/Hito01/artboards-explorer/master/.appcast.xml",
     "homepage": "https://github.com/Hito01/artboards-explorer",
     "author": "Nicolas Collard"
+  },
+  {
+    "title": "nudgefromrtl",
+    "description": "Quickly resize a layer horizontally from right to left with keyboard shortcuts",
+    "name": "NudgeRTL",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/NudgeRTL/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/NudgeRTL",
+    "author": "Kevin Gutowski"
   }
 ]
