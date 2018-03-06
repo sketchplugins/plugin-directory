@@ -208,7 +208,7 @@
     "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://launchpad.animaapp.com",
-    "lastUpdated": "2017-12-06 14:51:19 UTC"
+    "lastUpdated": "2018-02-28 13:24:23 UTC"
   },
   {
     "description": "Create basic word clouds and tag clouds.",
@@ -316,7 +316,7 @@
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "author": "Anima Team",
     "owner": "AnimaApp",
-    "lastUpdated": "2018-01-05 01:57:45 UTC"
+    "lastUpdated": "2018-02-28 13:25:50 UTC"
   },
   {
     "description": "Select all exportable layers, slices, and artboards.",
@@ -540,7 +540,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2018-02-19 05:11:55 UTC"
+    "lastUpdated": "2018-02-27 17:58:05 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -555,7 +555,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2018-02-13 10:13:20 UTC"
+    "lastUpdated": "2018-03-02 05:27:47 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -1157,7 +1157,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2018-02-19 07:52:33 UTC"
+    "lastUpdated": "2018-03-04 17:59:51 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -1534,7 +1534,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2018-02-22 10:20:48 UTC"
+    "lastUpdated": "2018-03-01 07:19:38 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1902,7 +1902,9 @@
     "title": "SVGO Compressor",
     "owner": "BohemianCoding",
     "author": "Bohemian Coding",
-    "lastUpdated": "2017-11-06 10:19:59 UTC"
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/svgo-compressor/develop/.appcast.xml",
+    "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
+    "lastUpdated": "2018-03-05 09:44:58 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2058,7 +2060,7 @@
     "name": "SketchI18N",
     "owner": "cute",
     "author": "Guangming Li ",
-    "lastUpdated": "2017-12-20 15:05:09 UTC"
+    "lastUpdated": "2018-02-28 23:27:34 UTC"
   },
   {
     "description": "A Sketch plugin for easy multi-language design",
@@ -2103,7 +2105,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2018-01-10 01:00:26 UTC"
+    "lastUpdated": "2018-02-27 18:05:26 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2167,7 +2169,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2018-02-13 09:20:39 UTC"
+    "lastUpdated": "2018-03-01 09:25:34 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2563,7 +2565,7 @@
     "title": "TinyFaces 👦🏼👨🏾👩🏻",
     "owner": "maximedegreve",
     "author": "Maxime De Greve",
-    "lastUpdated": "2017-10-16 08:19:12 UTC"
+    "lastUpdated": "2018-02-26 23:17:57 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play",
@@ -2659,7 +2661,7 @@
     "title": "Nudge Resize",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2017-06-04 11:43:50 UTC"
+    "lastUpdated": "2018-02-25 04:33:43 UTC"
   },
   {
     "description": "Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts",
@@ -2827,7 +2829,7 @@
     "name": "Sketch-Plugin-Manager",
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
     "description": "Keeping your Sketch plugins up to date with the power of Git.",
-    "lastUpdated": "2018-02-18 09:46:08 UTC",
+    "lastUpdated": "2018-03-02 00:02:51 UTC",
     "title": "Sketch Plugin Manager 🔌",
     "author": "Mel Ludowise"
   },
@@ -3017,7 +3019,7 @@
     "author": "Siddhartha Gudipati",
     "owner": "websiddu",
     "name": "sketch-material",
-    "lastUpdated": "2017-12-13 07:41:53 UTC"
+    "lastUpdated": "2018-02-24 10:55:32 UTC"
   },
   {
     "title": "Sketch Number Artboards",
@@ -3111,7 +3113,7 @@
     "author": "awkward",
     "owner": "awkward",
     "name": "sketch-palette-generator",
-    "lastUpdated": "2017-12-29 10:04:08 UTC"
+    "lastUpdated": "2018-02-25 16:06:16 UTC"
   },
   {
     "title": "Avocode Sketch Plugin",
@@ -3196,7 +3198,7 @@
     "author": "zeroheight",
     "owner": "zeroheight",
     "name": "library-symbol-replacer",
-    "lastUpdated": "2017-11-30 16:58:18 UTC"
+    "lastUpdated": "2018-02-25 10:39:30 UTC"
   },
   {
     "title": "Abstract",
@@ -3343,7 +3345,7 @@
     "author": "Pravdomil",
     "owner": "pravdomil",
     "name": "sketch-align-to-grid",
-    "lastUpdated": "2018-01-27 17:13:47 UTC"
+    "lastUpdated": "2018-02-27 23:00:57 UTC"
   },
   {
     "title": "Translate.me",
@@ -3367,7 +3369,7 @@
     "author": "Pravdomil",
     "owner": "pravdomil",
     "name": "FixSketchTrackpadSpeed",
-    "lastUpdated": "2018-02-04 17:30:26 UTC"
+    "lastUpdated": "2018-02-27 22:43:51 UTC"
   },
   {
     "title": "Sketch WCAG",
@@ -3457,7 +3459,7 @@
     "owner": "pravdomil",
     "name": "Sketch-Show-Bounding-Boxes",
     "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes",
-    "lastUpdated": "2018-02-13 14:45:27 UTC"
+    "lastUpdated": "2018-02-27 22:43:40 UTC"
   },
   {
     "title": "StyleClip",
@@ -3481,7 +3483,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2018-02-22 08:19:25 UTC"
+    "lastUpdated": "2018-02-26 09:20:02 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3521,7 +3523,7 @@
     "author": "reqfire",
     "owner": "reqfire",
     "name": "sketch-user-flows",
-    "lastUpdated": "2018-02-20 05:54:12 UTC"
+    "lastUpdated": "2018-03-01 23:40:04 UTC"
   },
   {
     "description": "Automated padding, spacing and alignment for your Sketch layers",
@@ -3529,7 +3531,7 @@
     "title": "Paddy",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2018-02-18 06:27:39 UTC"
+    "lastUpdated": "2018-03-01 21:43:57 UTC"
   },
   {
     "title": "Sketch Style Libraries",
@@ -3563,7 +3565,7 @@
     "author": "Sergey Dmitriev",
     "owner": "sergeishere",
     "name": "HandyMenu-SketchPlugin",
-    "lastUpdated": "2018-02-25 16:31:56 UTC"
+    "lastUpdated": "2018-02-23 21:52:09 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -3573,7 +3575,7 @@
     "author": "Jesper Bentzen",
     "homepage": "https://github.com/jbentzen/sketch-fast-text-transfer",
     "appcast": "https://raw.githubusercontent.com/jbentzen/sketch-fast-text-transfer/master/.appcast.xml",
-    "lastUpdated": "2018-02-25 12:16:00 UTC"
+    "lastUpdated": "2018-02-25 12:19:41 UTC"
   },
   {
     "title": "SnipSnap",
@@ -3590,7 +3592,7 @@
     "author": "Francis",
     "owner": "FrancisVega",
     "name": "Sketch-Smart-Style-Switcher",
-    "lastUpdated": "2018-03-01 13:05:50 UTC"
+    "lastUpdated": "2018-03-03 20:46:54 UTC"
   },
   {
     "title": "Bacon Ipsum",
@@ -3599,7 +3601,8 @@
     "owner": "zcallan",
     "appcast": "https://raw.githubusercontent.com/zcallan/sketch-bacon-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/zcallan/sketch-bacon-ipsum",
-    "author": "zcallan"
+    "author": "zcallan",
+    "lastUpdated": "2018-03-05 01:39:50 UTC"
   },
   {
     "title": "Artboards Explorer",
@@ -3608,6 +3611,7 @@
     "owner": "Hito01",
     "appcast": "https://raw.githubusercontent.com/Hito01/artboards-explorer/master/.appcast.xml",
     "homepage": "https://github.com/Hito01/artboards-explorer",
-    "author": "Nicolas Collard"
+    "author": "Nicolas Collard",
+    "lastUpdated": "2018-03-03 16:25:14 UTC"
   }
 ]
