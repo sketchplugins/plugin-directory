@@ -3577,9 +3577,9 @@
     "lastUpdated": "2018-02-28 03:55:00 UTC"
   },
   {
-    "title": "Tranpose",
+    "title": "Transpose",
     "description": "Transpose your selection and set pixel margins between elements.",
-    "name": "Tranpose-Plugin",
+    "name": "Transpose-Plugin",
     "owner": "wescraig",
     "author": "Wes Craig",
     "homepage": "https://github.com/wescraig/Transpose",
