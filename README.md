@@ -77,7 +77,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Day Player](https://github.com/tylergaw/day-player), by Tyler Gaw: A collection of Sketch Plugins for creating placeholder images.
 - [DeepSelect](https://github.com/fhuel/DeepSelect), by fhuel: A quick and easy way to select layers inside a group, filtering by layer type
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
-- [Disconnect for Sketch](https://github.com/einancunlu/disconnect-for-sketch), by Emin İnanç Ünlü: Disconnect / unlink selection from symbols and shared styles.
 - [Diverse UI Sketch Plugin](https://github.com/reneepadgham/diverseui-sketch-plugin), by Renée Padgham: The official Sketch plugin for Diverse UI.
 - [Divider](https://github.com/jawayang/sketch-divider), by james yang: A plugin for Sketch to equal division layers by container.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
@@ -390,6 +389,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
 - [Todo Sketch Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
+- [Tranpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [Translate.me](https://github.com/eddiesigner/sketch-translate-me), by Eduardo Gómez Vásquez: Translations. Simplified. Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
 - [Typograph](https://github.com/dezonik/typograph), by Dmitry Gerasimov: Typograph — Sketch plugin and js-library
@@ -418,6 +418,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Tranpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
 - [Fast Text Transfer](https://github.com/jbentzen/sketch-fast-text-transfer), by Jesper Bentzen: Lightning fast copying, pasting and swapping text.
 - [Copy Swift Code](https://github.com/ngs/sketchplugin-swift-color), by Atsushi NAGASE: A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.
@@ -820,4 +821,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch User Flows](https://github.com/ribot/sketch-user-flow-docs), by ribot: This plugin lets you link images in a document with an extenal image file and update them all at once.
 - [Divider](https://github.com/jawayang/sketch-divider), by james yang: A plugin for Sketch to equal division layers by container.
 - [Font Size Checker](https://github.com/feb19/sketch-font-size-checker), by Nobuhiro Takahashi: Text Size Validator for iOS or Android UI Designers.
-- [Disconnect for Sketch](https://github.com/einancunlu/disconnect-for-sketch), by Emin İnanç Ünlü: Disconnect / unlink selection from symbols and shared styles.
