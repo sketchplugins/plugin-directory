@@ -3618,5 +3618,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/NudgeRTL/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/NudgeRTL",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "svg-insert",
+    "description": "Insert SVG code as a Layer.",
+    "name": "SVG-Insert",
+    "owner": "tankxu",
+    "appcast": "https://raw.githubusercontent.com/tankxu/SVG-Insert/master/.appcast.xml",
+    "homepage": "https://github.com/tankxu/SVG-Insert",
+    "author": "tankxu"
   }
 ]
