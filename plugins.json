@@ -3585,6 +3585,15 @@
     "lastUpdated": "2018-02-28 03:55:00 UTC"
   },
   {
+    "title": "Transpose",
+    "description": "Transpose your selection and set pixel margins between elements.",
+    "name": "Transpose-Plugin",
+    "owner": "wescraig",
+    "author": "Wes Craig",
+    "homepage": "https://github.com/wescraig/Transpose",
+    "lastUpdated": "2018-02-28 03:55:00 UTC"
+  },
+  {
     "title": "Sketch Smart Style Switcher",
     "description": "Switch to an existing test style if attributes matches.",
     "author": "Francis",
