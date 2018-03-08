@@ -3558,6 +3558,14 @@
     "homepage": "https://designcode.io/angle"
   },
   {
+    "title": "HandyMenu",
+    "description": "Quick access to Sketch App plugins through contextual menu",
+    "author": "Sergey Dmitriev",
+    "owner": "sergeishere",
+    "name": "HandyMenu-SketchPlugin",
+    "lastUpdated": "2018-02-25 16:31:56 UTC"
+  },
+  {
     "title": "Fast Text Transfer",
     "description": "Lightning fast copying, pasting and swapping text.",
     "name": "sketch-fast-text-transfer",
@@ -3567,7 +3575,7 @@
     "appcast": "https://raw.githubusercontent.com/jbentzen/sketch-fast-text-transfer/master/.appcast.xml",
     "lastUpdated": "2018-02-25 12:16:00 UTC"
   },
-    {
+  {
     "title": "SnipSnap",
     "description": "Remove extra padding on multiple layers or artboards with ease.",
     "name": "SnipSnap-Plugin",
@@ -3584,6 +3592,49 @@
     "author": "Wes Craig",
     "homepage": "https://github.com/wescraig/Transpose",
     "lastUpdated": "2018-02-28 03:55:00 UTC"
+  },
+  {
+    "title": "Sketch Smart Style Switcher",
+    "description": "Switch to an existing test style if attributes matches.",
+    "author": "Francis",
+    "owner": "FrancisVega",
+    "name": "Sketch-Smart-Style-Switcher",
+    "lastUpdated": "2018-03-01 13:05:50 UTC"
+  },
+  {
+    "title": "Bacon Ipsum",
+    "description": "A simple & easy Bacon Ipsum text generator for Sketch.",
+    "name": "sketch-bacon-ipsum",
+    "owner": "zcallan",
+    "appcast": "https://raw.githubusercontent.com/zcallan/sketch-bacon-ipsum/master/.appcast.xml",
+    "homepage": "https://github.com/zcallan/sketch-bacon-ipsum",
+    "author": "zcallan"
+  },
+  {
+    "title": "Artboards Explorer",
+    "description": "Add utility functionnalities to Sketch's artboards",
+    "name": "artboards-explorer",
+    "owner": "Hito01",
+    "appcast": "https://raw.githubusercontent.com/Hito01/artboards-explorer/master/.appcast.xml",
+    "homepage": "https://github.com/Hito01/artboards-explorer",
+    "author": "Nicolas Collard"
+  },
+  {
+    "title": "nudgefromrtl",
+    "description": "Quickly resize a layer horizontally from right to left with keyboard shortcuts",
+    "name": "NudgeRTL",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/NudgeRTL/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/NudgeRTL",
+    "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Flow Exporter",
+    "description": "A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.",
+    "name": "Sketch-FlowExporter",
+    "owner": "romannurik",
+    "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
+    "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
+    "author": "Roman Nurik"
   }
-
 ]
