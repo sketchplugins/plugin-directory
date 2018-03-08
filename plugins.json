@@ -3620,7 +3620,7 @@
     "author": "Kevin Gutowski"
   },
   {
-    "title": "FlowExporter",
+    "title": "Flow Exporter",
     "description": "A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.",
     "name": "Sketch-FlowExporter",
     "owner": "romannurik",
