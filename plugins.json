@@ -3585,6 +3585,15 @@
     "lastUpdated": "2018-02-28 03:55:00 UTC"
   },
   {
+    "title": "Transpose",
+    "description": "Transpose your selection and set pixel margins between elements.",
+    "name": "Transpose-Plugin",
+    "owner": "wescraig",
+    "author": "Wes Craig",
+    "homepage": "https://github.com/wescraig/Transpose",
+    "lastUpdated": "2018-02-28 03:55:00 UTC"
+  },
+  {
     "title": "Sketch Smart Style Switcher",
     "description": "Switch to an existing test style if attributes matches.",
     "author": "Francis",
@@ -3627,5 +3636,14 @@
     "appcast": "https://raw.githubusercontent.com/tankxu/SVG-Insert/master/.appcast.xml",
     "homepage": "https://github.com/tankxu/SVG-Insert",
     "author": "tankxu"
+  },
+  {
+    "title": "Flow Exporter",
+    "description": "A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.",
+    "name": "Sketch-FlowExporter",
+    "owner": "romannurik",
+    "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
+    "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
+    "author": "Roman Nurik"
   }
 ]
