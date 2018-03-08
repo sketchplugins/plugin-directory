@@ -3618,5 +3618,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/NudgeRTL/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/NudgeRTL",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "FlowExporter",
+    "description": "A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.",
+    "name": "Sketch-FlowExporter",
+    "owner": "romannurik",
+    "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
+    "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
+    "author": "Roman Nurik"
   }
 ]
