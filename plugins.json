@@ -3658,7 +3658,7 @@
     "appcast": "https://plotapp.co/appcast.xml"
   },
   {
-    "title": "Textbox fit content",
+    "title": "Textbox fit Content",
     "description": "This plugin sets the height of a selected text layer or all text layers in a selected group to it's content's height.",
     "name": "sketch-textbox-fit-content",
     "owner": "juliussohn",
