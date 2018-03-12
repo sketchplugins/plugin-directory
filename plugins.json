@@ -1,5 +1,14 @@
 [
   {
+    "description": "Legend for your Sketch Symbols.",
+    "name": "SketchSymbolLegend",
+    "title": "Sketch Symbol Legend",
+    "owner": "amimagid",
+    "author": "Ami Magid",
+    "homepage": "https://github.com/amimagid/sketch-symbol-legend",
+    "lastUpdated": "2018-03-12 07:00:00 UTC"
+  },
+  {
     "description": "Generate Isometric views from Artboards and Rectangles.",
     "name": "SketchIsometric",
     "title": "Sketch Isometric",
