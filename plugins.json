@@ -3674,5 +3674,14 @@
     "appcast": "https://raw.githubusercontent.com/juliussohn/sketch-textbox-fit-content/master/.appcast.xml",
     "homepage": "https://github.com/juliussohn/sketch-textbox-fit-content",
     "author": "Julius Sohn"
+  },
+  {
+    "title": "sketch-seu",
+    "description": "a simple plugin",
+    "name": "sketch-seu",
+    "owner": "wwsun",
+    "appcast": "https://raw.githubusercontent.com/wwsun/sketch-seu/master/.appcast.xml",
+    "homepage": "https://github.com/wwsun/sketch-seu",
+    "author": "jingzhuang.sww"
   }
 ]
