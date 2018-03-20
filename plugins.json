@@ -1,5 +1,14 @@
 [
   {
+    "description": "Create beautiful timeline animations and GIFs in Sketch",
+    "name": "Timeline",
+    "title": "Timeline",
+    "owner": "Anima Team",
+    "author": "Anima Team",
+    "homepage": "https://timeline.animaapp.com",
+    "lastUpdated": "2018-03-19 3:00:00 UTC"
+  },
+  {
     "description": "Legend for your Sketch Symbols.",
     "name": "SketchSymbolLegend",
     "title": "Sketch Symbol Legend",
