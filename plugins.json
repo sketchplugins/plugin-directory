@@ -1,5 +1,14 @@
 [
   {
+    "description": "Draw on a canvas and render to sketch",
+    "name": "DrawAndRender",
+    "title": "Draw and Render",
+    "owner": "nichenqin",
+    "author": "nichenqin",
+    "homepage": "https://github.com/nichenqin/draw-and-render-sketch-plugin",
+    "lastUpdated": "2018-03-24 22:00:00 UTC"
+  },
+  {
     "description": "Create beautiful timeline animations and GIFs in Sketch",
     "name": "Timeline",
     "title": "Timeline",
