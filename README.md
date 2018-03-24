@@ -80,6 +80,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
 - [Diverse UI Sketch Plugin](https://github.com/reneepadgham/diverseui-sketch-plugin), by Renée Padgham: The official Sketch plugin for Diverse UI.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
+- [Draw and Render](https://github.com/nichenqin/draw-and-render-sketch-plugin), by nichenqin: Draw on a canvas and render to sketch
 - [Duplicate to New Artboard](https://github.com/delighted/sketch-duplicate-to-new-artboard), by Delighted Inc.: Sketch plugin to duplicate the current selection(s) to new artboard(s).
 - [Duplicator](https://github.com/turbobabr/duplicator), by Andrey Shakhmin: A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
 - [Dynamic button plugin for Sketch.app 3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5), by fuggfuggfugg: Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.
@@ -425,6 +426,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Draw and Render](https://github.com/nichenqin/draw-and-render-sketch-plugin), by nichenqin: Draw on a canvas and render to sketch
 - [Timeline](https://timeline.animaapp.com), by Anima Team: Create beautiful timeline animations and GIFs in Sketch
 - [Sketch Symbol Legend](https://github.com/amimagid/sketch-symbol-legend), by Ami Magid: Legend for your Sketch Symbols.
 - [SVGO Compressor](https://sketchapp.com/extensions/plugins/svgo-compressor/), by Bohemian Coding: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
@@ -441,8 +443,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SketchI18N](https://github.com/cute/sketchi18n), by Guangming Li : Sketch Internationalization Plugin
 - [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Design responsive screens and easily see all screen sizes at once.
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Turn your Sketch design into a live HTML website.
-- [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
+- [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [Sketch Align To Grid](https://github.com/pravdomil/sketch-align-to-grid), by Pravdomil: Let's align selection to grid
 - [Fix Sketch Trackpad Speed](https://github.com/pravdomil/fixsketchtrackpadspeed), by Pravdomil: Speed up your scrolling across all artboards
 - [Sketch Show Bounding Boxes](https://github.com/pravdomil/Sketch-Show-Bounding-Boxes), by Pravdomil: Sketch plugin that shows bounding boxes of all layers
