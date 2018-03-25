@@ -3683,5 +3683,14 @@
     "appcast": "https://raw.githubusercontent.com/juliussohn/sketch-textbox-fit-content/master/.appcast.xml",
     "homepage": "https://github.com/juliussohn/sketch-textbox-fit-content",
     "author": "Julius Sohn"
+  },
+  {
+    "title": "draw-and-render",
+    "description": "A plugin to render canvas to sketch",
+    "name": "draw-and-render-sketch-plugin",
+    "owner": "nichenqin",
+    "appcast": "https://raw.githubusercontent.com/nichenqin/draw-and-render-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/nichenqin/draw-and-render-sketch-plugin",
+    "author": "nichenqin"
   }
 ]
