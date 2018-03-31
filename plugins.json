@@ -3694,6 +3694,16 @@
     "author": "nichenqin"
   },
   {
+    "description": "A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.",
+    "name": "autopdfexporter",
+    "title": "Auto PDF Exporter nSlicer",
+    "owner": "KhY",
+    "author": "KhY",
+    "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
+    "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
+    "lastUpdated": "2018-03-31 10:10:40 UTC"
+  },
+  {
     "title": "sketch-hyphenator",
     "description": "Sketch plugin that hyphenates text",
     "name": "sketch-hyphenator",
