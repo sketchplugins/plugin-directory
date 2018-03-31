@@ -68,6 +68,7 @@
     "title": "SketchCleaner",
     "owner": "KhY",
     "author": "KhY",
+    "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
     "lastUpdated": "2018-03-31 10:10:40 UTC"
   },
