@@ -29,6 +29,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artwork Fetcher](https://github.com/mmth/sketch-artwork-fetcher), by Semibold Mammoth: Sketch.app plugin for fetching artworks from Last.fm web-service and filling selected shapes with them. Allows to fetch artworks by their album and/or artist names.
 - [Atomic Sketch Plugin](https://atomic.io/sketch), by Atomic.io: Exports Sketch Files to Atomic
 - [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Design responsive screens and easily see all screen sizes at once.
+- [Auto PDF Exporter nSlicer](https://github.com/Atim33/autopdfexporter-sketch-plugin/), by KhY: A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
@@ -80,6 +81,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
 - [Diverse UI Sketch Plugin](https://github.com/reneepadgham/diverseui-sketch-plugin), by Renée Padgham: The official Sketch plugin for Diverse UI.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
+- [draw-and-render](https://github.com/nichenqin/draw-and-render-sketch-plugin), by nichenqin: A plugin to render canvas to sketch
 - [Duplicate to New Artboard](https://github.com/delighted/sketch-duplicate-to-new-artboard), by Delighted Inc.: Sketch plugin to duplicate the current selection(s) to new artboard(s).
 - [Duplicator](https://github.com/turbobabr/duplicator), by Andrey Shakhmin: A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
 - [Dynamic button plugin for Sketch.app 3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5), by fuggfuggfugg: Dynamic button plug-in for Sketch.app 3.5 allows to create buttons with fixed paddings no matter what text you add.
@@ -182,11 +184,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
 - [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [Perfecter](https://github.com/volorf/perfecter), by Oleg Frolov: Make great typography [Sketch plugin]
+- [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [PinLog](https://github.com/zhongerxin/pinlog), by Twox: A plugin that would help you note your changeLog and can help other people to find the change in sketch
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [Plant](https://plantapp.io), by Plant: Version control for designers
 - [Plot](https://plotapp.co), by Jordan Singer: Collaborate with your design team in a new way
+- [polaris-telescope](https://github.com/Shopify/polaris-telescope), by Shopify: Access Shopify Polaris from Sketch to speed up your design or development workflow
 - [Prefixation Sketch Plugin](https://github.com/pberrecloth/prefixation-sketch-plugin), by Peter Berrecloth: Manage the prefixes of your layers, artboards or symbols
 - [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [Protowire](https://protowire.com), by Mark Horgan: Adds prototyping to Sketch including transitions between screens and layer animation.
@@ -337,6 +341,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch WCAG](https://github.com/bryanberger/sketch-wcag), by Bryan Berger: A Sketch plugin that lets you contrast test your entire color palette against the WCAG guidelines all at once
 - [sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol), by Mike Mariano: Sketch plugin that creates a new symbol out of a selected symbol
 - [sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol), by Logan McAnsh: Find all instances of a symbol in Sketch
+- [sketch-hyphenator](https://github.com/golmakov/sketch-hyphenator), by Aleksander Golmakov: Sketch plugin that hyphenates text
 - [Sketch-Icons](https://github.com/AMoreaux/Sketch-Icons), by AMoreaux: Import your icons, apply a color mask and create a dynamic icons library.
 - [Sketch-topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
 - [Sketch2AE](https://github.com/bigxixi/sketch2ae), by Big XiXi: A Sketch plugin to export sketch file to Adobe After Effect
@@ -425,6 +430,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Auto PDF Exporter nSlicer](https://github.com/Atim33/autopdfexporter-sketch-plugin/), by KhY: A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.
+- [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [Timeline](https://timeline.animaapp.com), by Anima Team: Create beautiful timeline animations and GIFs in Sketch
 - [Sketch Symbol Legend](https://github.com/amimagid/sketch-symbol-legend), by Ami Magid: Legend for your Sketch Symbols.
 - [SVGO Compressor](https://sketchapp.com/extensions/plugins/svgo-compressor/), by Bohemian Coding: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.

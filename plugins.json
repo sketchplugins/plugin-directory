@@ -3719,5 +3719,13 @@
     "owner": "Shopify",
     "appcast": "https://raw.githubusercontent.com/Shopify/polaris-telescope/master/.appcast.xml",
     "homepage": "https://github.com/Shopify/polaris-telescope"
+  },
+  {
+    "title": "Perfecto-",
+    "description": "A sketch plugin to round off all sub-pixel layers at once",
+    "author": "Pranu Sarna",
+    "owner": "pranusarna94",
+    "name": "Perfecto-",
+    "lastUpdated": "2018-03-30 08:24:44 UTC"
   }
 ]
