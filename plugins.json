@@ -3701,5 +3701,13 @@
     "appcast": "https://raw.githubusercontent.com/golmakov/sketch-hyphenator/master/.appcast.xml",
     "homepage": "https://github.com/golmakov/sketch-hyphenator",
     "author": "Aleksander Golmakov"
+  },
+  {
+    "title": "polaris-telescope",
+    "description": "Access Shopify Polaris from Sketch to speed up your design or development workflow",
+    "name": "polaris-telescope",
+    "owner": "Shopify",
+    "appcast": "https://raw.githubusercontent.com/Shopify/polaris-telescope/master/.appcast.xml",
+    "homepage": "https://github.com/Shopify/polaris-telescope"
   }
 ]
