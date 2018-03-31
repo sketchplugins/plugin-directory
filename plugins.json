@@ -66,20 +66,20 @@
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
     "name": "SketchCleaner",
     "title": "SketchCleaner",
-    "owner": "KhY",
-    "author": "KhY",
-    "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
-    "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
-    "lastUpdated": "2018-03-31 10:10:40 UTC"
+    "owner": "Yummygum",
+    "author": "Yummygum",
+    "homepage": "http://www.sketchcleaner.com/",
+    "lastUpdated": "2017-12-05 10:10:40 UTC"
   },
   {
     "description": "A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.",
     "name": "autopdfexporter",
     "title": "Auto PDF Exporter nSlicer",
-    "owner": "Yummygum",
-    "author": "Yummygum",
-    "homepage": "http://www.sketchcleaner.com/",
-    "lastUpdated": "2017-12-05 10:10:40 UTC"
+    "owner": "KhY",
+    "author": "KhY",
+    "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
+    "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
+    "lastUpdated": "2018-03-31 10:10:40 UTC"
   },
   {
     "description": "Emulate blend functionality from Adobe Illustrator",
