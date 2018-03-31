@@ -3702,5 +3702,22 @@
     "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
     "lastUpdated": "2018-03-31 10:10:40 UTC"
+  },
+  {
+    "title": "sketch-hyphenator",
+    "description": "Sketch plugin that hyphenates text",
+    "name": "sketch-hyphenator",
+    "owner": "golmakov",
+    "appcast": "https://raw.githubusercontent.com/golmakov/sketch-hyphenator/master/.appcast.xml",
+    "homepage": "https://github.com/golmakov/sketch-hyphenator",
+    "author": "Aleksander Golmakov"
+  },
+  {
+    "title": "polaris-telescope",
+    "description": "Access Shopify Polaris from Sketch to speed up your design or development workflow",
+    "name": "polaris-telescope",
+    "owner": "Shopify",
+    "appcast": "https://raw.githubusercontent.com/Shopify/polaris-telescope/master/.appcast.xml",
+    "homepage": "https://github.com/Shopify/polaris-telescope"
   }
 ]
