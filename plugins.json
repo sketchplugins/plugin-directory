@@ -3727,5 +3727,14 @@
     "owner": "pranusarna94",
     "name": "Perfecto-",
     "lastUpdated": "2018-03-30 08:24:44 UTC"
+  },
+  {
+    "title": "SketchReloadPlugins",
+    "description": "Reload Plugins.",
+    "name": "SketchReloadPlugins",
+    "owner": "liangjingyang",
+    "appcast": "https://raw.githubusercontent.com/liangjingyang/SketchReloadPlugins/master/.appcast.xml",
+    "homepage": "https://github.com/liangjingyang/SketchReloadPlugins",
+    "author": "Simple Liang"
   }
 ]
