@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reverse the position or depth of selected elements.",
+    "name": "sketch-reverse",
+    "title": "Sketch Reverse",
+    "owner": "lucaorio",
+    "author": "Luca Orio",
+    "homepage": "https://github.com/lucaorio/sketch-reverse",
+    "lastUpdated": "2018-04-05 00:00:00 UTC"
+  },
+  {
     "description": "Create beautiful timeline animations and GIFs in Sketch",
     "name": "Timeline",
     "title": "Timeline",
@@ -2703,6 +2712,7 @@
     "title": "Sketch Styles Generator",
     "owner": "lucaorio",
     "author": "Luca Orio",
+    "homepage": "https://github.com/lucaorio/sketch-styles-generator",
     "lastUpdated": "2017-09-04 22:48:50 UTC"
   },
   {
@@ -3173,6 +3183,7 @@
     "author": "Luca Orio",
     "owner": "lucaorio",
     "name": "sketch-resize",
+    "homepage": "https://github.com/lucaorio/sketch-resize",
     "lastUpdated": "2017-10-01 00:48:57 UTC"
   },
   {
