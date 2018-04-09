@@ -331,7 +331,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
 - [Sketch Title Case](https://github.com/hemmingsson/sketch-title-case), by Mattias Hemmingsson: Sketch Plugin to make text Title Case
 - [Sketch To Clickthrough HTML](https://github.com/amin-nas/sketch-to-clickthrough-html), by Amin: Sketch plugin for creating a clickthrough HTMLprototype
-- [Sketch to Trello](https://github.com/jclappiway/sketch-to-trello), by lefrancois: Export Sketch Artboard to Trello
 - [Sketch to VR](https://github.com/auxdesigner/sketch-to-vr), by Liu Liu: Personal fun project - turn your mocks into VR
 - [Sketch Translation](https://github.com/hoai265/language-sketch-plugin), by Hoai Nguyen: A Sketch plugin for easy multi-language design
 - [Sketch User Flows](https://github.com/reqfire/sketch-user-flows), by reqfire: A Sketch Plug-in for importing/exporting user flow and interface definitions from Reqfire.
@@ -390,10 +389,12 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer), by Jason Burns: Organize your symbols page and layer list, based on the symbol names.
 - [Symbol Spacer Sketch Plugin](https://github.com/novemberfiveco/symbol-spacer-sketch-plugin), by Geert Wille: Automatically resize spacing symbols to correct size when changing to different one
 - [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
+- [Symbols Manager](https://gumroad.com/l/sketch-symbols-manager), by Jaer Pollux: A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.
 - [Sympli](https://sympli.io), by Sympli: Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode.
 - [Sync](https://github.com/nolastan/sync.sketchplugin), by Stanford Rosenthal: Use Google Sheets to sync typography across your team.
 - [Sync To Slides](https://websiddu.github.io/sync-to-slides/), by Siddhartha: Sync to Slides is a Sketch plugin that will help you upload your artboards to Google Slides directly without an export step
 - [Table of Contents](https://github.com/youwenliang/table-of-contents), by You-Wen Liang (Mark): Sketch plugin for generating table of contents for documentations
+- [Text Styles Manager](https://gum.co/sketch-text-styles-manager), by Jaer Pollux: A fast and easy way to manage all your Text Styles. No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.
 - [Textbox fit Content](https://github.com/juliussohn/sketch-textbox-fit-content), by Julius Sohn: This plugin sets the height of a selected text layer or all text layers in a selected group to it's content's height.
 - [Texts Translate](https://github.com/laresgoiti/texts_translate), by Santi: Manage Sketch texts in multiple locales.
 - [Timeline](https://timeline.animaapp.com), by Anima Team: Create beautiful timeline animations and GIFs in Sketch
@@ -833,4 +834,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [San Francisco UI Font Fixer](https://github.com/elethom/sketch-sfui-font-fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
 - [ScreenFork](https://github.com/screenfork/screenfork), by ScreenFork: ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix
-- [Sketch to Trello](https://github.com/jclappiway/sketch-to-trello), by lefrancois: Export Sketch Artboard to Trello

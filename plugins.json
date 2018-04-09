@@ -3747,5 +3747,17 @@
     "appcast": "https://raw.githubusercontent.com/liangjingyang/SketchReloadPlugins/master/.appcast.xml",
     "homepage": "https://github.com/liangjingyang/SketchReloadPlugins",
     "author": "Simple Liang"
+  },
+  {
+    "description": "A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.",
+    "title": "Symbols Manager",
+    "author": "Jaer Pollux",
+    "homepage": "https://gumroad.com/l/sketch-symbols-manager"
+  },
+  {
+    "description": "A fast and easy way to manage all your Text Styles. No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.",
+    "title": "Text Styles Manager",
+    "author": "Jaer Pollux",
+    "homepage": "https://gum.co/sketch-text-styles-manager"
   }
 ]
