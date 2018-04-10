@@ -3759,5 +3759,13 @@
     "title": "Text Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gum.co/sketch-text-styles-manager"
+  },
+  {
+    "title": "Icon Tools",
+    "description": "Sketch.app plugin to clean icons and to prepare them for a clean export without tints and masks.",
+    "author": "Oscar Oto",
+    "owner": "oodesign",
+    "name": "icon-tools",
+    "lastUpdated": "2018-04-09 22:28:29 UTC"
   }
 ]
