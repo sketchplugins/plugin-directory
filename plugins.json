@@ -3767,5 +3767,14 @@
     "owner": "oodesign",
     "name": "icon-tools",
     "lastUpdated": "2018-04-09 22:28:29 UTC"
+  },
+  {
+    "title": "Rapid-Translate",
+    "description": "A plugin for rapid transformation",
+    "name": "Rapid-Translate",
+    "owner": "AoschkA",
+    "appcast": "https://raw.githubusercontent.com/AoschkA/Rapid-Translate/master/.appcast.xml",
+    "homepage": "https://github.com/AoschkA/Rapid-Translate",
+    "author": "Jonas Praëm Andreassen"
   }
 ]
