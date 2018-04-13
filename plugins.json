@@ -3767,5 +3767,14 @@
     "owner": "oodesign",
     "name": "icon-tools",
     "lastUpdated": "2018-04-09 22:28:29 UTC"
+  },
+  {
+    "title": "browser-preview",
+    "description": "Quickly preview an artboard in your browser.",
+    "name": "browser-preview",
+    "owner": "lukasoppermann",
+    "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
+    "homepage": "https://github.com/lukasoppermann/browser-preview",
+    "author": "Lukas Oppermann"
   }
 ]
