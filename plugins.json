@@ -3785,5 +3785,13 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "author": "mathieudutour"
+  },
+  {
+    "title": "polyglot",
+    "description": "Text translations",
+    "name": "polyglot",
+    "owner": "fruitfrills",
+    "appcast": "https://raw.githubusercontent.com/fruitfrills/polyglot/master/.appcast.xml",
+    "homepage": "https://github.com/fruitfrills/polyglot"
   }
 ]
