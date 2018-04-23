@@ -3820,5 +3820,13 @@
     "appcast": "https://raw.githubusercontent.com/alex-matt/sketch-lightwire-plugin/master/.appcast.xml",
     "homepage": "https://github.com/alex-matt/sketch-lightwire-plugin",
     "author": "Alex & Matt"
+  },
+  {
+    "title": "Sketch Library Unlinker",
+    "description": "A Sketch plugin that unlinks all symbols in a document that are linked to a specific library",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "sketch-library-unlinker",
+    "lastUpdated": "2018-04-23 20:01:13 UTC"
   }
 ]
