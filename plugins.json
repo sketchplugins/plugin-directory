@@ -3828,5 +3828,13 @@
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
     "lastUpdated": "2018-04-23 20:01:13 UTC"
+  },
+  {
+    "title": "Format Symbol Names",
+    "description": "A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "format-symbol-names",
+    "lastUpdated": "2018-04-17 17:00:49 UTC"
   }
 ]
