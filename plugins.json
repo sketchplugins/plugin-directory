@@ -3769,6 +3769,15 @@
     "lastUpdated": "2018-04-09 22:28:29 UTC"
   },
   {
+    "title": "SVGO Export",
+    "description": "Uses SVGO to compress exported SVG assets",
+    "name": "sketch-plugin-svgo-unique-id",
+    "owner": "josephmcasey",
+    "appcast": "https://raw.githubusercontent.com/josephmcasey/sketch-plugin-svgo-unique-id/master/.appcast.xml",
+    "homepage": "https://github.com/josephmcasey/sketch-plugin-svgo-unique-id",
+    "author": "Joseph Casey"
+  },
+  {
     "title": "browser-preview",
     "description": "Quickly preview an artboard in your browser.",
     "name": "browser-preview",
@@ -3793,5 +3802,14 @@
     "owner": "fruitfrills",
     "appcast": "https://raw.githubusercontent.com/fruitfrills/polyglot/master/.appcast.xml",
     "homepage": "https://github.com/fruitfrills/polyglot"
+  },
+  {
+    "title": "sketch2vd",
+    "description": "A Sketch plugin that exports selected layers to VectorDrawable for Android.",
+    "name": "sketch2vd",
+    "owner": "alexjlockwood",
+    "appcast": "https://raw.githubusercontent.com/alexjlockwood/sketch2vd/master/.appcast.xml",
+    "homepage": "https://github.com/alexjlockwood/sketch2vd",
+    "author": "Alex Lockwood"
   }
 ]
