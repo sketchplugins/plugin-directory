@@ -3769,6 +3769,15 @@
     "lastUpdated": "2018-04-09 22:28:29 UTC"
   },
   {
+    "title": "SVGO Export",
+    "description": "Uses SVGO to compress exported SVG assets",
+    "name": "sketch-plugin-svgo-unique-id",
+    "owner": "josephmcasey",
+    "appcast": "https://raw.githubusercontent.com/josephmcasey/sketch-plugin-svgo-unique-id/master/.appcast.xml",
+    "homepage": "https://github.com/josephmcasey/sketch-plugin-svgo-unique-id",
+    "author": "Joseph Casey"
+  },
+  {
     "title": "browser-preview",
     "description": "Quickly preview an artboard in your browser.",
     "name": "browser-preview",
