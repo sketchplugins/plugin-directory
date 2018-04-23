@@ -3776,5 +3776,23 @@
     "appcast": "https://raw.githubusercontent.com/josephmcasey/sketch-plugin-svgo-unique-id/master/.appcast.xml",
     "homepage": "https://github.com/josephmcasey/sketch-plugin-svgo-unique-id",
     "author": "Joseph Casey"
+  },
+  {
+    "title": "browser-preview",
+    "description": "Quickly preview an artboard in your browser.",
+    "name": "browser-preview",
+    "owner": "lukasoppermann",
+    "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
+    "homepage": "https://github.com/lukasoppermann/browser-preview",
+    "author": "Lukas Oppermann"
+  },
+  {
+    "title": "Rough",
+    "description": "Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.",
+    "name": "rough-sketch",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/rough-sketch",
+    "author": "mathieudutour"
   }
 ]
