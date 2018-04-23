@@ -3796,6 +3796,14 @@
     "author": "mathieudutour"
   },
   {
+    "title": "polyglot",
+    "description": "Text translations",
+    "name": "polyglot",
+    "owner": "fruitfrills",
+    "appcast": "https://raw.githubusercontent.com/fruitfrills/polyglot/master/.appcast.xml",
+    "homepage": "https://github.com/fruitfrills/polyglot"
+  },
+  {
     "title": "sketch2vd",
     "description": "A Sketch plugin that exports selected layers to VectorDrawable for Android.",
     "name": "sketch2vd",
