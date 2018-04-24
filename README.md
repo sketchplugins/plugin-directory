@@ -220,6 +220,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Replace Colour](https://github.com/lewishowles/sketch-replace-colour), by Lewis Howles: Replace all fill or text colours matching the selected layer
 - [Replace Images](https://github.com/shakemno/sketch-replace-images), by shakemno: Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.
 - [Reselect](http://www.reselect.co), by Michael Fouquet: Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).
+- [Reset Image Aspect Ratio](https://github.com/perrysmotors/reset-image-aspect-ratio), by Giles Perry: A Sketch plugin that resets the aspect ratio of selected images.
 - [Resize Commands](https://github.com/angistudio/sketch-resize-commands), by ANGI studio: A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.
 - [Rotate Artboard Orientation](https://github.com/mmilano/sketch-rotate-artboards), by Michel Milano: Rotate the orientation of an artboard - from portrait to landscape, and vice versa.
 - [Rotator](https://github.com/pberrecloth/rotator-sketch-plugin), by Peter Berrecloth: Rotate objects at preset amounts
@@ -439,6 +440,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Reset Image Aspect Ratio](https://github.com/perrysmotors/reset-image-aspect-ratio), by Giles Perry: A Sketch plugin that resets the aspect ratio of selected images.
 - [Sketch Library Unlinker](https://github.com/perrysmotors/sketch-library-unlinker), by Giles Perry: A Sketch plugin that unlinks all symbols in a document that are linked to a specific library
 - [Format Symbol Names](https://github.com/perrysmotors/format-symbol-names), by Giles Perry: A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page
 - [Icon Tools](https://github.com/oodesign/icon-tools), by Oscar Oto: Sketch.app plugin to clean icons and to prepare them for a clean export without tints and masks.

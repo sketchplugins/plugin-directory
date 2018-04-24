@@ -3836,5 +3836,13 @@
     "owner": "perrysmotors",
     "name": "format-symbol-names",
     "lastUpdated": "2018-04-17 17:00:49 UTC"
+  },
+  {
+    "title": "Reset Image Aspect Ratio",
+    "description": "A Sketch plugin that resets the aspect ratio of selected images.",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "reset-image-aspect-ratio",
+    "lastUpdated": "2018-04-24 11:53:53 UTC"
   }
 ]
