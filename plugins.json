@@ -1,14 +1,5 @@
 [
   {
-    "description": "Correct character spacing for InterUI font.",
-    "name": "InterUI-Character-Spacing",
-    "title": "📏 InterUI Character Spacing",
-    "owner": "Michael Nissen",
-    "author": "Michael Nissen",
-    "homepage": "https://michealnissen.me",
-    "lastUpdated": "2018-04-22 00: 00: 00 UTC"
-  },
-  {
     "description": "Reverse the position or depth of selected elements.",
     "name": "sketch-reverse",
     "title": "Sketch Reverse",
@@ -3778,6 +3769,15 @@
     "lastUpdated": "2018-04-09 22:28:29 UTC"
   },
   {
+    "title": "SVGO Export",
+    "description": "Uses SVGO to compress exported SVG assets",
+    "name": "sketch-plugin-svgo-unique-id",
+    "owner": "josephmcasey",
+    "appcast": "https://raw.githubusercontent.com/josephmcasey/sketch-plugin-svgo-unique-id/master/.appcast.xml",
+    "homepage": "https://github.com/josephmcasey/sketch-plugin-svgo-unique-id",
+    "author": "Joseph Casey"
+  },
+  {
     "title": "browser-preview",
     "description": "Quickly preview an artboard in your browser.",
     "name": "browser-preview",
@@ -3794,5 +3794,64 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "author": "mathieudutour"
+  },
+  {
+    "title": "polyglot",
+    "description": "Text translations",
+    "name": "polyglot",
+    "owner": "fruitfrills",
+    "appcast": "https://raw.githubusercontent.com/fruitfrills/polyglot/master/.appcast.xml",
+    "homepage": "https://github.com/fruitfrills/polyglot"
+  },
+  {
+    "title": "sketch2vd",
+    "description": "A Sketch plugin that exports selected layers to VectorDrawable for Android.",
+    "name": "sketch2vd",
+    "owner": "alexjlockwood",
+    "appcast": "https://raw.githubusercontent.com/alexjlockwood/sketch2vd/master/.appcast.xml",
+    "homepage": "https://github.com/alexjlockwood/sketch2vd",
+    "author": "Alex Lockwood"
+  },
+  {
+    "title": "Lightwire",
+    "description": "Plugin with ready-to-use wireframes that help you to bring your ideas to life fast and easy. You can find necessary wireframes using categories or search.",
+    "name": "sketch-lightwire-plugin",
+    "owner": "alex-matt",
+    "appcast": "https://raw.githubusercontent.com/alex-matt/sketch-lightwire-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/alex-matt/sketch-lightwire-plugin",
+    "author": "Alex & Matt"
+  },
+  {
+    "title": "Sketch Library Unlinker",
+    "description": "A Sketch plugin that unlinks all symbols in a document that are linked to a specific library",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "sketch-library-unlinker",
+    "lastUpdated": "2018-04-23 20:01:13 UTC"
+  },
+  {
+    "title": "Format Symbol Names",
+    "description": "A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "format-symbol-names",
+    "lastUpdated": "2018-04-17 17:00:49 UTC"
+  },
+  {
+    "title": "Reset Image Aspect Ratio",
+    "description": "A Sketch plugin that resets the aspect ratio of selected images.",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "reset-image-aspect-ratio",
+    "lastUpdated": "2018-04-24 11:53:53 UTC"
+  },
+  {
+    "title": "InterUICharacterSpacing",
+    "description": "Package to correct the character spacing for the InterUI font in Sketch",
+    "name": "InterUI-Character-Spacing",
+    "owner": "qruzz",
+    "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
+    "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
+    "author": "Michael Nissen"
   }
 ]
