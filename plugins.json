@@ -3853,5 +3853,14 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen"
+  },
+  {
+    "title": "Chromata",
+    "description": "Find rogue colors",
+    "name": "chromata",
+    "owner": "abnamrocoesd",
+    "appcast": "https://raw.githubusercontent.com/abnamrocoesd/Chromata/master/.appcast.xml",
+    "homepage": "https://github.com/abnamrocoesd/Chromata",
+    "author": "Vladimir Ionița"
   }
 ]
