@@ -3844,5 +3844,14 @@
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
     "lastUpdated": "2018-04-24 11:53:53 UTC"
+  },
+  {
+    "title": "InterUICharacterSpacing",
+    "description": "Package to correct the character spacing for the InterUI font in Sketch",
+    "name": "InterUI-Character-Spacing",
+    "owner": "qruzz",
+    "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
+    "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
+    "author": "Michael Nissen"
   }
 ]

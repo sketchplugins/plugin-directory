@@ -435,11 +435,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [zeroheight](https://zeroheight.com), by zeroheight: Organise and share your design libraries using folders and get a living styleguide for free
 - [Zoom Alert](https://github.com/nathco/zoom-alert), by Nathan Rutzky: Sketch.app plugin for showing zoom notifications
+- [📏 InterUI Character Spacing](https://michealnissen.me), by Michael Nissen: Correct character spacing for InterUI font.
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 
 
 ## Sorted by last update (newest on top)
 
+- [📏 InterUI Character Spacing](https://michealnissen.me), by Michael Nissen: Correct character spacing for InterUI font.
 - [Reset Image Aspect Ratio](https://github.com/perrysmotors/reset-image-aspect-ratio), by Giles Perry: A Sketch plugin that resets the aspect ratio of selected images.
 - [Sketch Library Unlinker](https://github.com/perrysmotors/sketch-library-unlinker), by Giles Perry: A Sketch plugin that unlinks all symbols in a document that are linked to a specific library
 - [Format Symbol Names](https://github.com/perrysmotors/format-symbol-names), by Giles Perry: A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page
