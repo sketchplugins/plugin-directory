@@ -50,6 +50,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Changelog](https://github.com/jacopocolo/changelog.sketchplugin), by Jacopo Colò: A simple Sketch plugin to generate artboard-based changelogs
 - [chart](https://github.com/pavelkuligin/chart), by Pavel Kuligin: Create the most popular types of charts by real or random data
 - [Checkpoints Plugin for Sketch](https://github.com/einancunlu/checkpoints-plugin-for-sketch), by Emin İnanç Ünlü: Save important stages of your artboards in the blink of an eye, and then, move fast and break things.
+- [Chromata](https://github.com/abnamrocoesd/Chromata), by Vladimir Ionița: Find rogue colors
 - [Chromatic Sketch](https://github.com/petterheterjag/chromatic-sketch), by Petter Nilsson: Create good-looking and perceptually uniform gradients and color scales.
 - [Clean Up SF UI Type](https://github.com/schwa23/cleanupsfui), by Joshua Dickens: Sketch Plugin to clean up SF UI fonts character spacing & normalize text & display variants.
 - [Cleanup Useless Groups](https://github.com/bomberstudios/cleanup-useless-groups), by Ale Muñoz: A Sketch plugin that cleans up your layer list by removing empty groups and flattening deeply nested groups.
