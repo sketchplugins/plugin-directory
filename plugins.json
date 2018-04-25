@@ -3862,5 +3862,14 @@
     "appcast": "https://raw.githubusercontent.com/abnamrocoesd/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/abnamrocoesd/Chromata",
     "author": "Vladimir Ionița"
-  }
+  },
+  {
+    "description": "Update all the colors in an artboard to the latest Bonsai colors.",
+    "name": "Bonsai",
+    "title": "Bonsai Standards",
+    "owner": "Hui Zheng",
+    "author": "Hui Zheng",
+    "homepage": "https://github.com/thechinesekid/bonsai-plugin",
+    "lastUpdated": "2018-04-25 00:00:00 UTC"
+  },
 ]
