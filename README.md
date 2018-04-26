@@ -37,6 +37,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
 - [Blender](https://github.com/bunnieabc/blender), by bunnieabc: A sketch plugin to create awesome gradient layers
+- [Bonsai](https://github.com/thechinesekid/bonsai-plugin), by thechinesekid: A sketch plugin to automatically update your artboard to Bonsai standards
 - [Bookmark 🔖](https://github.com/arkkimaagi/bookmark), by Mikko Tapionlinna: Bookmark your place and zoom in Sketch.app
 - [Bootstrap Grid](https://github.com/de-la-vega/bootstrapgrid), by Vitaliy Kirenkov: Sketch plugin inserts correct bootstrap grid in nested blocks.
 - [Bootstrap Guides](https://github.com/tomoyukikashiro/sketch-bootstrap-guides), by Tomoyuki Kashiro: Generate guides along with twitter bootstrap grid system.
