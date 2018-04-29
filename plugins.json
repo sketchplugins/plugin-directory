@@ -1,5 +1,14 @@
 [
   {
+    "description": "Plugin to translate Sketch files into via Google Translate.",
+    "name": "sketch-auto-translate",
+    "title": "Sketch Auto Translate",
+    "owner": "symdesign",
+    "author": "Friedrich Schultheiss",
+    "homepage": "https://github.com/symdesign/sketch-auto-translate",
+    "lastUpdated": "2018-04-29 09:20:00 CEST"
+  },
+  {
     "description": "Reverse the position or depth of selected elements.",
     "name": "sketch-reverse",
     "title": "Sketch Reverse",
@@ -3871,5 +3880,5 @@
     "author": "Hui Zheng",
     "homepage": "https://github.com/thechinesekid/bonsai-plugin",
     "lastUpdated": "2018-04-25 00:00:00 UTC"
-  },
+  }
 ]
