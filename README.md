@@ -852,3 +852,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [San Francisco UI Font Fixer](https://github.com/elethom/sketch-sfui-font-fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
 - [ScreenFork](https://github.com/screenfork/screenfork), by ScreenFork: ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix
+- [y-tools](https://github.com/yued-fe/y-tools), by yued-fe team: Sketch plugins from yued-fe team, Scope Icon: Wrap Icon with a square(4n)
