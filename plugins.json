@@ -3880,5 +3880,14 @@
     "author": "Hui Zheng",
     "homepage": "https://github.com/thechinesekid/bonsai-plugin",
     "lastUpdated": "2018-04-25 00:00:00 UTC"
+  },
+  {
+    "description": "Plugin for Sketch for handling layout and sizing of layers automatically based on their names.",
+    "name": "pixelperfect",
+    "title": "Pixel Perfect",
+    "owner": "Mattias Eriksson",
+    "author": "Mattias Eriksson",
+    "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
+    "lastUpdated": "2018-04-29 00:00:00 UTC"
   }
 ]
