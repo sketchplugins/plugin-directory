@@ -3846,7 +3846,7 @@
     "lastUpdated": "2018-04-24 11:53:53 UTC"
   },
   {
-    "title": "InterUICharacterSpacing",
+    "title": "Inter UI Character Spacing",
     "description": "Package to correct the character spacing for the InterUI font in Sketch",
     "name": "InterUI-Character-Spacing",
     "owner": "qruzz",
