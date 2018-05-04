@@ -1,5 +1,14 @@
 [
   {
+    "description": "Plugin to translate Sketch files into via Google Translate.",
+    "name": "sketch-auto-translate",
+    "title": "Sketch Auto Translate",
+    "owner": "symdesign",
+    "author": "Friedrich Schultheiss",
+    "homepage": "https://github.com/symdesign/sketch-auto-translate",
+    "lastUpdated": "2018-04-29 09:20:00 CEST"
+  },
+  {
     "description": "Reverse the position or depth of selected elements.",
     "name": "sketch-reverse",
     "title": "Sketch Reverse",
@@ -3879,5 +3888,23 @@
     "author": "Hui Zheng",
     "homepage": "https://github.com/thechinesekid/bonsai-plugin",
     "lastUpdated": "2018-04-25 00:00:00 UTC"
+  },
+  {
+    "title": "y-tools",
+    "description": "Sketch plugin tools yued-fe.TM",
+    "name": "y-tools",
+    "owner": "yued-fe",
+    "appcast": "https://raw.githubusercontent.com/yued-fe/y-tools/master/.appcast.xml",
+    "homepage": "https://github.com/yued-fe/y-tools",
+    "author": "yued-fe.TM"
+  },
+  {
+    "description": "Plugin for Sketch for handling layout and sizing of layers automatically based on their names.",
+    "name": "pixelperfect",
+    "title": "Pixel Perfect",
+    "owner": "Mattias Eriksson",
+    "author": "Mattias Eriksson",
+    "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
+    "lastUpdated": "2018-04-29 00:00:00 UTC"
   }
 ]

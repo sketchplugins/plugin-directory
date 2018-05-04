@@ -29,6 +29,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Design responsive screens and easily see all screen sizes at once.
 - [Auto PDF Exporter nSlicer](https://github.com/Atim33/autopdfexporter-sketch-plugin/), by KhY: A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
+- [Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
 - [Base64 PNG Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
@@ -187,10 +188,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
-- [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
 - [Perfecter](https://github.com/volorf/perfecter), by Oleg Frolov: Make great typography [Sketch plugin]
 - [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [PinLog](https://github.com/zhongerxin/pinlog), by Twox: A plugin that would help you note your changeLog and can help other people to find the change in sketch
+- [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [Plant](https://plantapp.io), by Plant: Version control for designers
@@ -228,7 +229,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rotate Artboard Orientation](https://github.com/mmilano/sketch-rotate-artboards), by Michel Milano: Rotate the orientation of an artboard - from portrait to landscape, and vice versa.
 - [Rotator](https://github.com/pberrecloth/rotator-sketch-plugin), by Peter Berrecloth: Rotate objects at preset amounts
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
-- [San Francisco UI Font Fixer](https://github.com/elethom/sketch-sfui-font-fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
 - [Sass Colors](https://github.com/arshad/sketch-sass-colors), by Arshad Chummun: Displays colors as preconfigure Sass variables for Sketch.
 - [Save with Device Frame](https://github.com/redgell/save-with-frame), by redgell: Sketch Plugin to generate pngs of artboards wrapped in a phone skin.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
@@ -238,7 +238,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Select Child Layers](https://github.com/jshuaf/select-children), by Joshua Fang: A sketch plugin to select all the child layers of a group.
 - [Select Exportables](https://github.com/yargies/sketch-select-exportables), by Kenji Wellman: Select all exportable layers, slices, and artboards.
 - [Select Group Layers](https://github.com/mattmcmanus/select-group-layers-sketch-plugin), by Matt McManus: Select all child layers of a group with a key command.
-- [Select Invisible Layers](https://github.com/keremciu/sketch-select-invisible-layers), by Kerem Sevencan: Select invisible layers on current page
 - [Select Parent Artboards](https://github.com/nefaurk/select-parent-artboards), by Nefaur Khandker: A Sketch plugin that selects the parent artboards of the current selection
 - [Select Same Symbols](https://github.com/yusukesaitoh/sketch-select-same-symbols), by Yusuke Saitoh: Select same symbols as the currently selected symbol.
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
@@ -444,6 +443,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 ## Sorted by last update (newest on top)
 
 - [⚓️ Sketch - SelectPlus](https://github.com/nathan5x/sketch-selectplus), by Sabarinathan Masilamani: Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.
+- [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Bonsai Standards](https://github.com/thechinesekid/bonsai-plugin), by Hui Zheng: Update all the colors in an artboard to the latest Bonsai colors.
 - [Reset Image Aspect Ratio](https://github.com/perrysmotors/reset-image-aspect-ratio), by Giles Perry: A Sketch plugin that resets the aspect ratio of selected images.
 - [Sketch Library Unlinker](https://github.com/perrysmotors/sketch-library-unlinker), by Giles Perry: A Sketch plugin that unlinks all symbols in a document that are linked to a specific library
@@ -849,6 +849,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Repeat](https://github.com/keremciu/sketch-repeat), by Kerem Sevencan: This plugin helps you easily duplicate your objects to all Artboards.
 - [Todo Sketch Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
-- [Select Invisible Layers](https://github.com/keremciu/sketch-select-invisible-layers), by Kerem Sevencan: Select invisible layers on current page
-- [Path Prefix Remover](https://github.com/elethom/sketch-pathprefixremover), by Elethom Hunter: Remove path prefix for symbol instances.
-- [San Francisco UI Font Fixer](https://github.com/elethom/sketch-sfui-font-fixer), by Elethom Hunter: Adjusts font, character spacing, line height for labels using San Francisco font.
+- [y-tools](https://github.com/yued-fe/y-tools), by yued-fe team: Sketch plugins from yued-fe team, Scope Icon: Wrap Icon with a square(4n)
