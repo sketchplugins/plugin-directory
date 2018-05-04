@@ -1,5 +1,14 @@
 [
   {
+    "description": "Plugin to translate Sketch files into via Google Translate.",
+    "name": "sketch-auto-translate",
+    "title": "Sketch Auto Translate",
+    "owner": "symdesign",
+    "author": "Friedrich Schultheiss",
+    "homepage": "https://github.com/symdesign/sketch-auto-translate",
+    "lastUpdated": "2018-04-29 09:20:00 CEST"
+  },
+  {
     "description": "Reverse the position or depth of selected elements.",
     "name": "sketch-reverse",
     "title": "Sketch Reverse",
@@ -167,6 +176,14 @@
     "owner": "alanfraneo",
     "author": "Alan Francis",
     "lastUpdated": "2017-09-19 12:40:36 UTC"
+  },
+  {
+    "description": "Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.",
+    "name": "sketch-selectplus",
+    "title": "⚓️ Sketch - SelectPlus",
+    "owner": "nathan5x",
+    "author": "Sabarinathan Masilamani",
+    "lastUpdated": "2018-04-30 12:10:36 UTC"
   },
   {
     "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
@@ -3879,5 +3896,23 @@
     "owner": "andex",
     "appcast": "https://raw.githubusercontent.com/andex/ggradient/master/.appcast.xml",
     "homepage": "https://github.com/andex/ggradient"
+  },
+  {
+    "title": "y-tools",
+    "description": "Sketch plugin tools yued-fe.TM",
+    "name": "y-tools",
+    "owner": "yued-fe",
+    "appcast": "https://raw.githubusercontent.com/yued-fe/y-tools/master/.appcast.xml",
+    "homepage": "https://github.com/yued-fe/y-tools",
+    "author": "yued-fe.TM"
+  },
+  {
+    "description": "Plugin for Sketch for handling layout and sizing of layers automatically based on their names.",
+    "name": "pixelperfect",
+    "title": "Pixel Perfect",
+    "owner": "Mattias Eriksson",
+    "author": "Mattias Eriksson",
+    "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
+    "lastUpdated": "2018-04-29 00:00:00 UTC"
   }
 ]
