@@ -3933,5 +3933,13 @@
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
     "lastUpdated": "2018-04-29 00:00:00 UTC"
+  },
+  {
+    "title": "Photo Grid",
+    "description": "A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.",
+    "author": "Giles Perry",
+    "owner": "perrysmotors",
+    "name": "photo-grid",
+    "lastUpdated": "2018-05-04 10:58:15 UTC"
   }
 ]
