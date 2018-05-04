@@ -436,11 +436,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [zeroheight](https://zeroheight.com), by zeroheight: Organise and share your design libraries using folders and get a living styleguide for free
 - [Zoom Alert](https://github.com/nathco/zoom-alert), by Nathan Rutzky: Sketch.app plugin for showing zoom notifications
+- [⚓️ Sketch - SelectPlus](https://github.com/nathan5x/sketch-selectplus), by Sabarinathan Masilamani: Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 
 
 ## Sorted by last update (newest on top)
 
+- [⚓️ Sketch - SelectPlus](https://github.com/nathan5x/sketch-selectplus), by Sabarinathan Masilamani: Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Bonsai Standards](https://github.com/thechinesekid/bonsai-plugin), by Hui Zheng: Update all the colors in an artboard to the latest Bonsai colors.
 - [Reset Image Aspect Ratio](https://github.com/perrysmotors/reset-image-aspect-ratio), by Giles Perry: A Sketch plugin that resets the aspect ratio of selected images.

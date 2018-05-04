@@ -178,6 +178,14 @@
     "lastUpdated": "2017-09-19 12:40:36 UTC"
   },
   {
+    "description": "Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.",
+    "name": "sketch-selectplus",
+    "title": "⚓️ Sketch - SelectPlus",
+    "owner": "nathan5x",
+    "author": "Sabarinathan Masilamani",
+    "lastUpdated": "2018-04-30 12:10:36 UTC"
+  },
+  {
     "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
     "name": "WeSketch",
     "title": "WeSketch",
