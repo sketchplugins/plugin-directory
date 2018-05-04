@@ -847,3 +847,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Repeat](https://github.com/keremciu/sketch-repeat), by Kerem Sevencan: This plugin helps you easily duplicate your objects to all Artboards.
 - [Todo Sketch Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
 - [SketchPlugins](https://github.com/eachandother/sketchplugins), by conorluddy: Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.
+- [y-tools](https://github.com/yued-fe/y-tools), by yued-fe team: Sketch plugins from yued-fe team, Scope Icon: Wrap Icon with a square(4n)
