@@ -3871,5 +3871,13 @@
     "author": "Hui Zheng",
     "homepage": "https://github.com/thechinesekid/bonsai-plugin",
     "lastUpdated": "2018-04-25 00:00:00 UTC"
+  },
+  {
+    "title": "GGradient",
+    "description": "Simple way to create perfect gradient",
+    "name": "ggradient",
+    "owner": "andex",
+    "appcast": "https://raw.githubusercontent.com/andex/ggradient/master/.appcast.xml",
+    "homepage": "https://github.com/andex/ggradient"
   }
 ]
