@@ -3941,5 +3941,14 @@
     "owner": "perrysmotors",
     "name": "photo-grid",
     "lastUpdated": "2018-05-04 10:58:15 UTC"
+  },
+  {
+    "title": "Stickers",
+    "description": "A Sketch plugin that lets you browse and quickly drag+drop stickers (specially tagged layers) in your Sketch Libraries.",
+    "name": "Sketch-Stickers",
+    "owner": "romannurik",
+    "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
+    "homepage": "https://github.com/romannurik/Sketch-Stickers",
+    "author": "Roman Nurik"
   }
 ]
