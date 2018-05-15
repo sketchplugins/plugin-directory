@@ -3957,5 +3957,14 @@
     "author": "Google",
     "homepage": "https://material.io/tools/theme-editor",
     "lastUpdated": "2018-05-08 21:00:00 UTC"
+  },
+  {
+    "title": "sketch-style-to-react-native",
+    "description": "Sketch plugin that copies an element's styles in React Native way directly to your Mac clipboard.",
+    "name": "sketch-style-to-react-native",
+    "owner": "futantan",
+    "appcast": "https://raw.githubusercontent.com/futantan/sketch-style-to-react-native/master/.appcast.xml",
+    "homepage": "https://github.com/futantan/sketch-style-to-react-native",
+    "author": "Tantan Fu"
   }
 ]
