@@ -3957,5 +3957,14 @@
     "author": "Google",
     "homepage": "https://material.io/tools/theme-editor",
     "lastUpdated": "2018-05-08 21:00:00 UTC"
+  },
+  {
+    "title": "👾 Pixel Perfect",
+    "description": "Plugin for handling layouts and sizing of layers automatically in Sketch based on the layer names.",
+    "name": "sketchplugin-pixelperfect",
+    "owner": "materik",
+    "appcast": "https://raw.githubusercontent.com/materik/sketchplugin-pixelperfect/master/.appcast.xml",
+    "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
+    "author": "Mattias Eriksson"
   }
 ]
