@@ -3966,5 +3966,13 @@
     "appcast": "https://raw.githubusercontent.com/futantan/sketch-style-to-react-native/master/.appcast.xml",
     "homepage": "https://github.com/futantan/sketch-style-to-react-native",
     "author": "Tantan Fu"
+  },
+  {
+    "title": "ColorBrightness",
+    "description": "Color Brightness sketch plugin",
+    "author": "Andrey Anashkin",
+    "owner": "andex",
+    "name": "ColorBrightness",
+    "lastUpdated": "2018-05-16 17:53:42 UTC"
   }
 ]

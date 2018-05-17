@@ -63,6 +63,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Coffee Slice](https://github.com/kivygogh/coffee-slice), by goudan: A Sketch plugin to make the standard slicing with a user-given viewBox size automatically and creating multiple sizes(1x/2x/3x) of your slices, you can choose to autosave in a path or not.
 - [Color Contrast Analyser](https://github.com/getflourish/sketch-color-contrast-analyser), by Florian Schulz: A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0.
 - [Color Copier](https://github.com/mfouquet/color-copier), by Michael Fouquet: Sketch Plugin to quickly copy color RGB/HEX values.
+- [ColorBrightness](https://github.com/andex/colorbrightness), by Andrey Anashkin: Color Brightness sketch plugin
 - [Comma](https://github.com/margusholland/comma), by Margus Holland: Sketch plugin for text modifications
 - [Compo](https://github.com/romashamin/compo-sketch), by Roman Shamin: Makes it easier to work with interface components in Sketch
 - [Content Generator](https://github.com/timuric/content-generator-sketch-plugin), by Timur Carpeev: Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
@@ -352,6 +353,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol), by Logan McAnsh: Find all instances of a symbol in Sketch
 - [sketch-hyphenator](https://github.com/golmakov/sketch-hyphenator), by Aleksander Golmakov: Sketch plugin that hyphenates text
 - [Sketch-Icons](https://github.com/AMoreaux/Sketch-Icons), by AMoreaux: Import your icons, apply a color mask and create a dynamic icons library.
+- [sketch-style-to-react-native](https://github.com/futantan/sketch-style-to-react-native), by Tantan Fu: Sketch plugin that copies an element's styles in React Native way directly to your Mac clipboard.
 - [Sketch-topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
 - [Sketch2AE](https://github.com/bigxixi/sketch2ae), by Big XiXi: A Sketch plugin to export sketch file to Adobe After Effect
 - [sketch2vd](https://github.com/alexjlockwood/sketch2vd), by Alex Lockwood: A Sketch plugin that exports selected layers to VectorDrawable for Android.
@@ -446,6 +448,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [ColorBrightness](https://github.com/andex/colorbrightness), by Andrey Anashkin: Color Brightness sketch plugin
 - [Material Plugin](https://material.io/tools/theme-editor), by Google: Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.
 - [GGradient](https://github.com/andex/ggradient), by andex: Simple way to create perfect gradient
 - [Chromata](https://github.com/abnamrocoesd/Chromata), by Vladimir Ionița: Find rogue colors
