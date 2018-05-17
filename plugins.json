@@ -18,13 +18,13 @@
     "lastUpdated": "2018-04-10 02:18:33 UTC"
   },
   {
-    "description": "Create beautiful timeline animations and GIFs in Sketch",
+    "description": "Create beautiful timeline animations and export GIF or MP4",
     "name": "Timeline",
     "title": "Timeline",
     "owner": "Anima Team",
     "author": "Anima Team",
     "homepage": "https://timeline.animaapp.com",
-    "lastUpdated": "2018-03-19 3:00:00 UTC"
+    "lastUpdated": "2018-05-16 3:00:00 UTC"
   },
   {
     "description": "Legend for your Sketch Symbols.",
@@ -246,13 +246,13 @@
     "lastUpdated": "2018-03-29 08:40:13 UTC"
   },
   {
-    "description": "Turn your Sketch design into a live HTML website.",
+    "description": "Export your Sketch design into HTML website.",
     "title": "Launchpad",
     "name": "Launchpad",
     "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://launchpad.animaapp.com",
-    "lastUpdated": "2018-03-27 21:00:47 UTC"
+    "lastUpdated": "2018-05-16 3:00:00 UTC"
   },
   {
     "description": "Create basic word clouds and tag clouds.",
@@ -354,13 +354,13 @@
     "lastUpdated": "2017-10-11 12:53:04 UTC"
   },
   {
-    "description": "Design responsive screens and easily see all screen sizes at once.",
+    "description": "Responsive design inside Sketch. Design for all screen sizes on one artboard.",
     "name": "Auto-Layout",
     "title": "Auto Layout",
     "homepage": "https://animaapp.github.io/Auto-Layout/",
     "author": "Anima Team",
     "owner": "AnimaApp",
-    "lastUpdated": "2018-04-03 20:24:09 UTC"
+    "lastUpdated": "2018-05-16 3:00:00 UTC"
   },
   {
     "description": "Select all exportable layers, slices, and artboards.",
