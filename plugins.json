@@ -1695,12 +1695,14 @@
     "lastUpdated": "2017-10-17 08:22:44 UTC"
   },
   {
-    "description": "A plugin that creates a circle with a configurable number of segments.",
+    "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
     "name": "gb-sketch-segmentcircle",
     "title": "Segmented Circle",
     "owner": "design4use",
     "author": "German Bauer",
-    "lastUpdated": "2016-11-29 06:55:01 UTC"
+    "lastUpdated": "2018-05-20 06:55:01 UTC",
+    "appcast" : "https://raw.githubusercontent.com/design4use/gb-sketch-segmentcircle/master/appcast.xml",
+    "homepage" : "https://github.com/design4use/gb-sketch-segmentcircle"
   },
   {
     "description": "Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.",
@@ -3982,5 +3984,14 @@
     "owner": "kd-co",
     "appcast": "https://raw.githubusercontent.com/kd-co/charapara-sketch-extension/master/.appcast.xml",
     "homepage": "https://github.com/kd-co/charapara-sketch-extension"
+  },
+  {
+    "title": "Drake",
+    "description": "Sketch app plugin for generating dummy Drake content such as photos and lyrics.",
+    "name": "Drake-Sketch-Plugin",
+    "owner": "okcoker",
+    "appcast": "https://raw.githubusercontent.com/okcoker/Drake-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/okcoker/Drake-Sketch-Plugin",
+    "author": "Sean Coker"
   }
 ]
