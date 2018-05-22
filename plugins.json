@@ -3974,5 +3974,14 @@
     "owner": "andex",
     "name": "ColorBrightness",
     "lastUpdated": "2018-05-16 17:53:42 UTC"
+  },
+  {
+    "title": "Drake",
+    "description": "Sketch app plugin for generating dummy Drake content such as photos and lyrics.",
+    "name": "Drake-Sketch-Plugin",
+    "owner": "okcoker",
+    "appcast": "https://raw.githubusercontent.com/okcoker/Drake-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/okcoker/Drake-Sketch-Plugin",
+    "author": "Sean Coker"
   }
 ]
