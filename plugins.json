@@ -3978,6 +3978,14 @@
     "lastUpdated": "2018-05-16 17:53:42 UTC"
   },
   {
+    "title": "charapara",
+    "description": "Charapara, an initiative by Kerala Designers Collaborative (KDCo), is a dummy text generator for Malayalam",
+    "name": "charapara-sketch-extension",
+    "owner": "kd-co",
+    "appcast": "https://raw.githubusercontent.com/kd-co/charapara-sketch-extension/master/.appcast.xml",
+    "homepage": "https://github.com/kd-co/charapara-sketch-extension"
+  },
+  {
     "title": "Drake",
     "description": "Sketch app plugin for generating dummy Drake content such as photos and lyrics.",
     "name": "Drake-Sketch-Plugin",
