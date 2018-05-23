@@ -783,7 +783,7 @@
     "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
-    "lastUpdated": "2018-05-23 23:41:49 UTC"
+    "lastUpdated": "2018-05-23 13:20:38 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -791,7 +791,7 @@
     "title": "Align To",
     "author": "Lucien Lee",
     "owner": "LucienLee",
-    "lastUpdated": "2017-12-13 13:20:38 UTC"
+    "lastUpdated": "2017-12-13 09:49:51 UTC"
   },
   {
     "description": "Sketch Plugin to quickly copy color RGB/HEX values.",
