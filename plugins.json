@@ -4000,6 +4000,7 @@
     "name": "Nucleus",
     "owner": "levtolstoi",
     "appcast": "https://raw.githubusercontent.com/levtolstoi/Nucleus/master/.appcast.xml",
-    "homepage": "https://github.com/levtolstoi/Nucleus"
+    "homepage": "https://github.com/levtolstoi/Nucleus",
+    "author": "levtolstoi"
   }
 ]
