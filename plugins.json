@@ -1701,8 +1701,8 @@
     "owner": "design4use",
     "author": "German Bauer",
     "lastUpdated": "2018-05-20 06:55:01 UTC",
-    "appcast" : "https://raw.githubusercontent.com/design4use/gb-sketch-segmentcircle/master/appcast.xml",
-    "homepage" : "https://github.com/design4use/gb-sketch-segmentcircle"
+    "appcast": "https://raw.githubusercontent.com/design4use/gb-sketch-segmentcircle/master/appcast.xml",
+    "homepage": "https://github.com/design4use/gb-sketch-segmentcircle"
   },
   {
     "description": "Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.",
@@ -3993,5 +3993,13 @@
     "appcast": "https://raw.githubusercontent.com/okcoker/Drake-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/okcoker/Drake-Sketch-Plugin",
     "author": "Sean Coker"
+  },
+  {
+    "title": "Nucleus",
+    "description": "Plugin for create Atomic Design concept in Sketch and export scss-map for front-end",
+    "name": "Nucleus",
+    "owner": "levtolstoi",
+    "appcast": "https://raw.githubusercontent.com/levtolstoi/Nucleus/master/.appcast.xml",
+    "homepage": "https://github.com/levtolstoi/Nucleus"
   }
 ]
