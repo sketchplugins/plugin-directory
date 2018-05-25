@@ -1,4 +1,12 @@
-[
+[  
+  {
+    "title": "Nucleus",
+    "description": "Plugin for create Atomic Design concept in Sketch and export scss-map for front-end",
+    "author": "Ivan Belkov",
+    "owner": "Ivan Belkov",
+    "homepage": "https://github.com/levtolstoi/Nucleus",
+    "lastUpdated": "2018-05-25 10:09:45 UTC"
+  },
   {
     "description": "Plugin to translate Sketch files into via Google Translate.",
     "name": "sketch-auto-translate",
