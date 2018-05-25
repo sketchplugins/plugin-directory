@@ -3993,5 +3993,11 @@
     "appcast": "https://raw.githubusercontent.com/okcoker/Drake-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/okcoker/Drake-Sketch-Plugin",
     "author": "Sean Coker"
+  },
+  {
+    "title": "Assistant",
+    "description": "Talk to Sketch",
+    "author": "Jordan Singer",
+    "homepage": "https://github.com/jordansinger/Assistant"
   }
 ]
