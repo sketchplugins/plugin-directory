@@ -1,4 +1,4 @@
-const { readFile, writeFile, readdir } = require("fs").promises
+const { readFile, writeFile, readdir, stat } = require("fs").promises
 const exec = require("util").promisify(require("child_process").exec)
 
 main()
@@ -56,10 +56,6 @@ function checkRequiredFields(plugins) {
  * @returns {Promise<SketchDirectory>}
  */
 async function getGithubPlugins() {
-  try {
-    await spawn("rm", ["-rf", "clones"])
-  } catch {}
-
   const plugins = []
   const repos = (await readFile("directory/github.txt", "utf8")).split("\n")
   let i = 0
@@ -94,9 +90,11 @@ async function getGithubPlugin(owner, name) {
 
   // clone
   try {
-    await spawn("git", ["clone", "--depth", 1, url, target], {
-      stdio: "inherit",
-    })
+    try {
+      await spawn("git", ["pull"], { cwd: target })
+    } catch {
+      await spawn("git", ["clone", "--depth", 1, url, target])
+    }
   } catch {
     throw new Error("Can't clone repository")
   }
