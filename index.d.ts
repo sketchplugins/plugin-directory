@@ -9,3 +9,5 @@ type SketchPlugin = {
   name?: string, // GitHub repo name
   lastUpdated?: string, // last commit date
 };
+
+type SketchDirectory = SketchPlugin[];
