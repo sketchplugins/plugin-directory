@@ -50,7 +50,7 @@ async function replaceDirectoryInReadme(directory) {
     const readme = await readFile("README.md", "utf8")
     const newReadme = readme.replace(
       /(<!-- directory_start -->).*(<!-- directory_end -->)/s,
-      (string, start, end) => start + "\n" + directory + end,
+      (string, start, end) => start + "\n" + directory + "\n" + end,
     )
     await writeFile("README.md", newReadme)
   } catch {
