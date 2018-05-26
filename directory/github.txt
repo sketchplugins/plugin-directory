@@ -1,10 +1,8 @@
-usagimaru/Sketch-AppleSystemFont-Plugin
 midiway/Clipboard2TilledFill
 symdesign/sketch-auto-translate
 lucaorio/sketch-reverse
-Anima Team/Timeline
-amimagid/SketchSymbolLegend
-sureskumar/SketchIsometric
+wix-incubator/sketch-symbol-legend
+sureskumar/Sketch-Isometric
 markhorgan/protowire
 Shutterstock/Shutterstock
 konki-vienna/sketch-bootstrap-helpers

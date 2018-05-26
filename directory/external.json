@@ -1,5 +1,19 @@
 [
   {
+    "title": "Timeline",
+    "description": "Create beautiful timeline animations and export GIF or MP4",
+    "author": "Anima Team",
+    "homepage": "https://timeline.animaapp.com",
+    "lastUpdated": "2018-05-16 3:00:00 UTC"
+  },
+  {
+    "title": "I Want Apple System Font",
+    "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
+    "author": "usagimaru",
+    "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
+    "lastUpdated": "2017-12-23 18:39:06 UTC"
+  },
+  {
     "title": "Symbol Spacer Sketch Plugin",
     "description": "Automatically resize spacing symbols to correct size when changing to different one",
     "author": "Geert Wille",
