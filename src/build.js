@@ -73,7 +73,7 @@ async function replaceDirectoryInReadme(directory) {
 }
 
 /**
- * @returns {Promise<SketchPlugin[]>}
+ * @returns {Promise<SketchDirectory>}
  */
 async function getExternalPlugins() {
   try {
@@ -88,7 +88,7 @@ async function getExternalPlugins() {
 }
 
 /**
- * @param {SketchPlugin[]} plugins
+ * @param {SketchDirectory} plugins
  * @returns {Promise<void>}
  */
 async function savePlugins(plugins) {
