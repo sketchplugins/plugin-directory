@@ -27,7 +27,7 @@ async function main() {
     console.log("Done")
     process.exit(0)
   } catch (e) {
-    console.log(e instanceof Error ? e.message : e)
+    console.log(e instanceof Error ? e.message : e || "")
     process.exit(1)
   }
 }
