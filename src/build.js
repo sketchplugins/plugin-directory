@@ -54,7 +54,6 @@ function checkRequiredFields(plugins) {
 /**
  * @returns {Promise<SketchDirectory>}
  */
-
 async function getGithubPlugins() {
   return []
 }
