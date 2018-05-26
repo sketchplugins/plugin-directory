@@ -118,7 +118,7 @@ async function getGithubPlugin(owner, name) {
   try {
     const manifestJsonPath =
       target + "/" + pluginPath + "/Contents/Sketch/manifest.json"
-    manifest = JSON.parse(await readFile(manifestJsonPath))
+    manifest = JSON.parse(await readFile(manifestJsonPath, "utf8"))
     if (!(manifest instanceof Object)) {
       throw new Error()
     }
