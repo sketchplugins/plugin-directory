@@ -99,22 +99,30 @@ async function getGithubPlugin(owner, name) {
     throw new Error("Can't clone repository")
   }
 
-  // find Sketch plugin
-  let pluginPath
+  // find manifest.json
+  let manifestJsonPath
   try {
-    pluginPath = (await readdir(target)).find(f => f.endsWith(".sketchplugin"))
-    if (!pluginPath) {
-      throw new Error()
+    try {
+      manifestJsonPath = target + "/src/manifest.json"
+      await stat(manifestJsonPath)
+    } catch {
+      const pluginPath = (await readdir(target)).find(f =>
+        f.endsWith(".sketchplugin"),
+      )
+      if (!pluginPath) {
+        throw new Error()
+      }
+      manifestJsonPath =
+        target + "/" + pluginPath + "/Contents/Sketch/manifest.json"
+      await stat(manifestJsonPath)
     }
   } catch {
-    throw new Error("Can't find any Sketch plugin")
+    throw new Error("Can't find manifest.json")
   }
 
   // read manifest.json
   let manifest
   try {
-    const manifestJsonPath =
-      target + "/" + pluginPath + "/Contents/Sketch/manifest.json"
     manifest = JSON.parse(await readFile(manifestJsonPath, "utf8"))
     if (!(manifest instanceof Object)) {
       throw new Error()
