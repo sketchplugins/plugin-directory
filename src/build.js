@@ -59,7 +59,9 @@ function checkRequiredFields(plugins) {
  */
 async function getGithubPlugins() {
   const plugins = []
-  const repos = (await readFile("directory/github.txt", "utf8")).split("\n")
+  const repos = (await readFile("directory/github.txt", "utf8"))
+    .trim()
+    .split("\n")
   let i = 0
   for (const repo of repos) {
     i++
