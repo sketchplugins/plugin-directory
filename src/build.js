@@ -78,7 +78,7 @@ async function getGithubPlugins() {
     } catch (e) {
       console.log(e instanceof Error ? e.message : e || "")
     } finally {
-      console.log("\n\n")
+      console.log("\n")
     }
   }
   return plugins
