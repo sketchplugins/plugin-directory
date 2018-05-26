@@ -1,7 +1,7 @@
 [
   {
-    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
     "title": "CanvasFlip",
+    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
     "author": "CanvasFlip",
     "homepage": "https://canvasflip.com/",
     "lastUpdated": "2017-06-28 10:30:30 UTC"
@@ -13,14 +13,14 @@
     "author": "Sketch Runner"
   },
   {
-    "description": "A sketch plugin to support the open color file format",
     "title": "Open Color Plugin for Sketch",
+    "description": "A sketch plugin to support the open color file format",
     "author": "OpenColor",
     "homepage": "http://opencolor.tools/"
   },
   {
-    "description": "Automated and mathematically precise optical adjustments in Sketch.",
     "title": "Optically for Sketch",
+    "description": "Automated and mathematically precise optical adjustments in Sketch.",
     "author": "Vlad Danilov",
     "homepage": "http://designplugins.com/optically"
   },
@@ -32,8 +32,8 @@
     "lastUpdated": "2016-07-12 00:00:00 UTC"
   },
   {
-    "description": "Convert your Sketch drawings into Swift or Objective-C",
     "title": "PaintCode Code Generator",
+    "description": "Convert your Sketch drawings into Swift or Objective-C",
     "author": "PixelCut",
     "homepage": "https://www.paintcodeapp.com/sketch",
     "downloadURL": "https://www.paintcodeapp.com/sketch",
@@ -86,20 +86,20 @@
     "appcast": "https://plotapp.co/appcast.xml"
   },
   {
-    "description": "A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.",
     "title": "Symbols Manager",
+    "description": "A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-symbols-manager"
   },
   {
-    "description": "A fast and easy way to manage all your Text Styles. No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.",
     "title": "Text Styles Manager",
+    "description": "A fast and easy way to manage all your Text Styles. No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.",
     "author": "Jaer Pollux",
     "homepage": "https://gum.co/sketch-text-styles-manager"
   },
   {
-    "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
     "title": "Material Plugin",
+    "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
     "author": "Google",
     "homepage": "https://material.io/tools/theme-editor",
     "lastUpdated": "2018-05-08 21:00:00 UTC"
