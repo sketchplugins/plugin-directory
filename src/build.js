@@ -138,9 +138,8 @@ async function getGithubPlugin(owner, name, i, length) {
   // update lastUpdated
   let lastUpdated
   try {
-    lastUpdated = unixToUTC(
-      (await exec("git log -1 --format=%cd --date=unix")).stdout,
-    )
+    const cmd = "git log -1 --format=%cd --date=unix"
+    lastUpdated = unixToUTC((await exec(cmd, { cwd: target })).stdout)
   } catch {
     throw new Error("Can't compute lastUpdated field")
   }

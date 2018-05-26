@@ -373,7 +373,7 @@
     "description": "Allows to paste the clipboard image as tilled fill of selected layers/shapes.",
     "author": "Ramon Mendes",
     "homepage": "https://github.com/MISoftware/Clipboard2TilledFill",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-27 0:34:51 UTC"
   },
   {
     "owner": "symdesign",
@@ -383,7 +383,7 @@
     "author": "Friedrich Schultheiss",
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
     "appcast": "https://github.com/symdesign/sketch-auto-translate/raw/master/Versions/SketchAutoTranslatev1.0.zip",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-5 8:56:17 UTC"
   },
   {
     "owner": "lucaorio",
@@ -393,7 +393,7 @@
     "author": "Luca Orio",
     "homepage": "https://github.com/lucaorio/sketch-reverse",
     "appcast": "https://raw.githubusercontent.com/lucaorio/sketch-reverse/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-10 4:18:32 UTC"
   },
   {
     "owner": "wix-incubator",
@@ -402,7 +402,7 @@
     "description": "a Sketch legend for symbols ",
     "author": "Wix.com",
     "homepage": "https://github.com/wix-incubator/sketch-symbol-legend",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 11:42:25 UTC"
   },
   {
     "owner": "sureskumar",
@@ -412,7 +412,7 @@
     "author": "Sures Kumar",
     "homepage": "http://www.sureskumar.com",
     "appcast": "http://www.sureskumar.com/sketch-isometric/sketch-isometric.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-12 7:45:26 UTC"
   },
   {
     "owner": "mjkaufer",
@@ -421,7 +421,7 @@
     "description": "",
     "author": "mjkaufer",
     "homepage": "https://github.com/mjkaufer/smudge",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-25 4:25:53 UTC"
   },
   {
     "owner": "udi-gindi",
@@ -430,7 +430,7 @@
     "description": "",
     "author": "udi-gindi",
     "homepage": "https://github.com/udi-gindi/sendTo",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-9 16:40:45 UTC"
   },
   {
     "owner": "indigostudio",
@@ -440,7 +440,7 @@
     "author": "Infragistics",
     "homepage": "https://github.com/indigostudio/indigo-sketch-plugin",
     "appcast": "https://indigo.infragistics.com/sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-16 14:42:14 UTC"
   },
   {
     "owner": "sureskumar",
@@ -450,7 +450,7 @@
     "author": "Sures Kumar",
     "homepage": "http://www.sureskumar.com",
     "appcast": "http://www.sureskumar.com/sketchplay/sketchplay.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-18 7:7:23 UTC"
   },
   {
     "owner": "awkward",
@@ -460,7 +460,7 @@
     "author": "Awkward",
     "homepage": "https://github.com/awkward/Alembic",
     "appcast": "https://raw.githubusercontent.com/awkward/Alembic/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-22 15:51:14 UTC"
   },
   {
     "owner": "sureskumar",
@@ -470,7 +470,7 @@
     "author": "Sures Kumar",
     "homepage": "http://www.sureskumar.com",
     "appcast": "http://www.sureskumar.com/singleborder/singleborder.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-12 8:1:6 UTC"
   },
   {
     "owner": "alanfraneo",
@@ -480,7 +480,7 @@
     "author": "Alan Francis",
     "homepage": "https://github.com/alanfraneo/sketch-neo-preview/",
     "appcast": "https://raw.githubusercontent.com/alanfraneo/sketch-neo-preview/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-19 14:40:39 UTC"
   },
   {
     "owner": "nathan5x",
@@ -490,7 +490,7 @@
     "author": "Sabarinathan Masilmani",
     "homepage": "https://github.com/nathan5x/Sketch-SelectPlus",
     "appcast": "https://raw.githubusercontent.com/nathan5x/Sketch-SelectPlus/master/updates/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 21:34:35 UTC"
   },
   {
     "owner": "weixin",
@@ -500,7 +500,7 @@
     "author": "Tencent WeChat",
     "homepage": "https://github.com/weixin/WeSketch",
     "appcast": "https://wximg.qq.com/tmt/sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 5:20:53 UTC"
   },
   {
     "owner": "sureskumar",
@@ -510,7 +510,7 @@
     "author": "Sures Kumar",
     "homepage": "http://www.sureskumar.com",
     "appcast": "http://www.sureskumar.com/palettestripes/palettestripes.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-23 6:21:44 UTC"
   },
   {
     "owner": "sureskumar",
@@ -520,7 +520,7 @@
     "author": "Sures Kumar",
     "homepage": "http://www.sureskumar.com",
     "appcast": "http://www.sureskumar.com/supershapes/supershapes.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-20 11:21:46 UTC"
   },
   {
     "owner": "mfouquet",
@@ -530,7 +530,7 @@
     "author": "mfouquet",
     "homepage": "https://github.com/mfouquet/Reselect",
     "appcast": "https://raw.githubusercontent.com/mfouquet/Reselect/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-16 22:10:47 UTC"
   },
   {
     "owner": "Ashung",
@@ -540,7 +540,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/design-systems",
     "appcast": "https://ashung.github.io/design-systems/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 5:58:10 UTC"
   },
   {
     "owner": "ediathome",
@@ -550,7 +550,7 @@
     "author": "Martin Kolb",
     "homepage": "https://github.com/ediathome/WordCloud",
     "appcast": "https://api.sketchpacks.com/v1/plugins/de.vt-learn.wordcloud/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-6 18:9:13 UTC"
   },
   {
     "owner": "petterheterjag",
@@ -560,7 +560,7 @@
     "author": "Petter Nilsson",
     "homepage": "https://github.com/petterheterjag/chromatic-sketch",
     "appcast": "https://github.com/petterheterjag/chromatic-sketch/blob/master/appcast.xml?raw=true",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-23 21:19:56 UTC"
   },
   {
     "owner": "stark-contrast",
@@ -570,7 +570,7 @@
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "https://github.com/stark-contrast/stark-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-5 22:54:35 UTC"
   },
   {
     "owner": "sureskumar",
@@ -580,7 +580,7 @@
     "author": "Sures Kumar",
     "homepage": "http://www.sureskumar.com",
     "appcast": "http://www.sureskumar.com/looper/looper.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-7 20:57:8 UTC"
   },
   {
     "owner": "LeonardPauli",
@@ -590,7 +590,7 @@
     "author": "Leonard Pauli",
     "homepage": "https://github.com/LeonardPauli/LayerRenamer",
     "appcast": "https://github.com/LeonardPauli/LayerRenamer/blob/master/appcast.xml?raw=true",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-18 18:58:17 UTC"
   },
   {
     "owner": "turbobabr",
@@ -599,7 +599,7 @@
     "description": "",
     "author": "turbobabr",
     "homepage": "https://github.com/turbobabr/sketch-wanderer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-16 8:52:59 UTC"
   },
   {
     "owner": "mludowise",
@@ -608,7 +608,7 @@
     "description": "Export HTML from a Sketch file.",
     "author": "Mel Ludowise",
     "homepage": "https://github.com/mludowise/Sketch-HTML-Export",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-7 20:49:33 UTC"
   },
   {
     "owner": "markhorgan",
@@ -618,7 +618,7 @@
     "author": "Mark Horgan",
     "homepage": "https://github.com/markhorgan/click-thru-prototype",
     "appcast": "https://raw.githubusercontent.com/markhorgan/click-thru-prototype/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-11 14:52:6 UTC"
   },
   {
     "owner": "AnimaApp",
@@ -628,7 +628,7 @@
     "author": "Anima App",
     "homepage": "https://www.animaapp.com",
     "appcast": "https://www.animaapp.com/timeline/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-15 23:10:19 UTC"
   },
   {
     "owner": "yargies",
@@ -637,7 +637,7 @@
     "description": "A simple plugin for Sketch to select all exportable layers, slices, and artboards.",
     "author": "Kenji Wellman",
     "homepage": "https://github.com/yargies/sketch-select-exportables",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-24 20:48:11 UTC"
   },
   {
     "owner": "richardgazdik",
@@ -646,7 +646,7 @@
     "description": "Exports selected layers as pngs, to file or clipboard.",
     "author": "Richard Gazdik",
     "homepage": "http://richard.gazdik.name",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-15 10:59:5 UTC"
   },
   {
     "owner": "richardgazdik",
@@ -655,7 +655,7 @@
     "description": "Group and align your symbols and artboards by name",
     "author": "Richard Gazdik",
     "homepage": "https://github.com/richardgazdik/sketch-align",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-7-10 23:58:39 UTC"
   },
   {
     "owner": "onmyway133",
@@ -664,7 +664,7 @@
     "description": "Sketch in action",
     "author": "Khoa Pham",
     "homepage": "https://github.com/onmyway133/sketch-action",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-5 23:26:58 UTC"
   },
   {
     "owner": "herrhelms",
@@ -673,7 +673,7 @@
     "description": "Add evenly distributed guides to any artboard",
     "author": "herrhelms",
     "homepage": "https://github.com/herrhelms/even-guides-sketch",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-7-25 1:14:45 UTC"
   },
   {
     "owner": "FreakLand",
@@ -682,7 +682,7 @@
     "description": "Generates a preview of your current artboard and shows in your web browser.",
     "author": "Jul Ceballos",
     "homepage": "https://github.com/FreakLand/sketch-browser-preview",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-18 5:38:54 UTC"
   },
   {
     "owner": "goodpatch",
@@ -691,7 +691,7 @@
     "description": "Sync Sketch artboards to Prott like a boss.",
     "author": "Goodpatch, Inc.",
     "homepage": "https://prottapp.com/",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-21 2:29:57 UTC"
   },
   {
     "owner": "einancunlu",
@@ -701,7 +701,7 @@
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Checkpoints-Plugin-for-Sketch",
     "appcast": "https://raw.githubusercontent.com/einancunlu/Checkpoints-Plugin-for-Sketch/master/Checkpoints.sketchplugin/Contents/Sketch/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-25 10:10:21 UTC"
   },
   {
     "owner": "einancunlu",
@@ -711,7 +711,7 @@
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch",
     "appcast": "https://raw.githubusercontent.com/einancunlu/Flatten-Plugin-for-Sketch/master/Flatten.sketchplugin/Contents/Sketch/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-20 18:15:41 UTC"
   },
   {
     "owner": "einancunlu",
@@ -720,7 +720,7 @@
     "description": "Disconnect/unlink selection from symbols and shared styles.",
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Disconnect-for-Sketch",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-3-10 14:9:36 UTC"
   },
   {
     "owner": "einancunlu",
@@ -729,7 +729,7 @@
     "description": "Define different states and switch between them like a boss.",
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Sketch-State-Switch-Master",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-0-27 12:52:25 UTC"
   },
   {
     "owner": "einancunlu",
@@ -738,7 +738,7 @@
     "description": "Calculates and applies the correct color for you to get actual design color after applying it to a translucent UIToolbar or UINavigationBar.",
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Sketch-iOS-Bar-Color-Calculator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-3-15 13:12:0 UTC"
   },
   {
     "owner": "sebj",
@@ -747,7 +747,7 @@
     "description": "Resizes the selected layer to cover its containing artboard",
     "author": "Seb Jachec",
     "homepage": "https://github.com/sebj/Cover-Artboard",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-26 22:23:59 UTC"
   },
   {
     "owner": "sebj",
@@ -756,7 +756,7 @@
     "description": "Invert a layer's background color",
     "author": "Seb Jachec",
     "homepage": "https://github.com/sebj/Invert-Background-Color",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-4-5 22:33:41 UTC"
   },
   {
     "owner": "sebj",
@@ -765,7 +765,7 @@
     "description": "Remove a layer's fills and borders",
     "author": "Seb Jachec",
     "homepage": "https://github.com/sebj/Remove-Fills-and-Borders",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-26 22:34:20 UTC"
   },
   {
     "owner": "sebj",
@@ -774,7 +774,7 @@
     "description": "Rename multiple layers at once",
     "author": "Seb Jachec",
     "homepage": "https://github.com/sebj/Rename-Layers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-11-2 15:16:20 UTC"
   },
   {
     "owner": "sebj",
@@ -783,7 +783,7 @@
     "description": "Selects all layers of the same name",
     "author": "Seb Jachec",
     "homepage": "https://github.com/sebj/Select-By-Name",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-26 22:30:56 UTC"
   },
   {
     "owner": "sebj",
@@ -792,7 +792,7 @@
     "description": "Creates artboards and export options necessary to export a .iconset",
     "author": "Seb Jachec",
     "homepage": "https://github.com/sebj/Setup-Iconset-Artboards",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-26 22:20:15 UTC"
   },
   {
     "owner": "marcisme",
@@ -802,7 +802,7 @@
     "author": "Marc Schwieterman",
     "homepage": "https://github.com/marcisme/sketch-preview",
     "appcast": "https://raw.githubusercontent.com/marcisme/sketch-preview/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-26 17:44:43 UTC"
   },
   {
     "owner": "bomberstudios",
@@ -811,7 +811,7 @@
     "description": "A collection of utilities to make working with Sketch a bit more pleasant",
     "author": "Ale Muñoz",
     "homepage": "http://github.com/bomberstudios/sketch-commands",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-21 17:41:40 UTC"
   },
   {
     "owner": "rodi01",
@@ -820,7 +820,7 @@
     "description": "",
     "author": "rodi01",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-27 23:14:45 UTC"
   },
   {
     "owner": "hrescak",
@@ -829,7 +829,7 @@
     "description": "Various Sketch commands to make work with layers easier",
     "author": "Matej Hrescak",
     "homepage": "https://github.com/hrescak/Sketch-Layer-Tools",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-1-4 23:31:51 UTC"
   },
   {
     "owner": "utom",
@@ -839,7 +839,7 @@
     "author": "utom",
     "homepage": "http://utom.design/measure/",
     "appcast": "https://raw.githubusercontent.com/utom/sketch-measure/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-13 13:7:11 UTC"
   },
   {
     "owner": "timuric",
@@ -849,7 +849,7 @@
     "author": "Timur Carpeev",
     "homepage": "https://github.com/timuric/Content-generator-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/timuric/Content-generator-sketch-plugin/master/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-27 23:23:58 UTC"
   },
   {
     "owner": "mattmcmanus",
@@ -858,7 +858,7 @@
     "description": "Select child or sibling layers with a key command",
     "author": "Matt McManus",
     "homepage": "https://github.com/mattmcmanus/select-group-layers-sketch-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-19 20:27:17 UTC"
   },
   {
     "owner": "littlebusters",
@@ -868,7 +868,7 @@
     "author": "littlebusters",
     "homepage": "https://github.com/littlebusters/JSON-to-Layers",
     "appcast": "https://raw.githubusercontent.com/littlebusters/JSON-to-Layers/master/JSON%20to%20Layers.sketchplugin/Contents/Resources/update.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-13 16:34:2 UTC"
   },
   {
     "owner": "littlebusters",
@@ -878,7 +878,7 @@
     "author": "littlebusters",
     "homepage": "https://github.com/littlebusters/Regexp-Rename",
     "appcast": "https://raw.githubusercontent.com/littlebusters/Regexp-Rename/master/Sketch%20Regexp%20Rename.sketchplugin/Contents/Resources/update.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-13 16:34:15 UTC"
   },
   {
     "owner": "littlebusters",
@@ -888,7 +888,7 @@
     "author": "littlebusters",
     "homepage": "https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin",
     "appcast": "https://raw.githubusercontent.com/littlebusters/Sketch-CSS-Sprite-Mixin/master/Sketch%20CSS%20Sprite%20Mixin.sketchplugin/Contents/Resources/update.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-8 16:26:13 UTC"
   },
   {
     "owner": "littlebusters",
@@ -898,7 +898,7 @@
     "author": "littlebusters",
     "homepage": "https://github.com/littlebusters/Switch-Text-Spacing",
     "appcast": "https://raw.githubusercontent.com/littlebusters/Switch-Text-Spacing/master/Switch%20Text%20Spacing.sketchplugin/Contents/Resources/update.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-13 16:33:48 UTC"
   },
   {
     "owner": "littlebusters",
@@ -908,7 +908,7 @@
     "author": "littlebusters",
     "homepage": "https://github.com/littlebusters/Sketch-Exchanger",
     "appcast": "https://raw.githubusercontent.com/littlebusters/Sketch-Exchanger/master/Sketch%20Exchanger.sketchplugin/Contents/Resources/update.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-17 11:36:49 UTC"
   },
   {
     "owner": "fnky",
@@ -918,7 +918,7 @@
     "author": "Christian Petersen",
     "homepage": "http://github.com/fnky/sketch-dockpreview",
     "appcast": "https://api.sketchpacks.com/v1/plugins/io.cbp.sketch.dockpreview/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-2 12:50:37 UTC"
   },
   {
     "owner": "tadija",
@@ -928,7 +928,7 @@
     "author": "tadija",
     "homepage": "https://github.com/tadija/AEFlowchart",
     "appcast": "https://github.com/tadija/AEFlowchart/blob/master/AEFlowchart.sketchplugin/Contents/Sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-12 20:58:37 UTC"
   },
   {
     "owner": "KrevedAccky",
@@ -937,7 +937,7 @@
     "description": "Simple plugin for splitting shapes.",
     "author": "Konstantin Raspopov",
     "homepage": "https://github.com/KrevedAccky/SketchSplitDivide",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-9-3 21:14:59 UTC"
   },
   {
     "owner": "turbobabr",
@@ -946,7 +946,7 @@
     "description": "",
     "author": "Andrey Shakhmin",
     "homepage": "https://github.com/turbobabr/Duplicator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-16 8:39:33 UTC"
   },
   {
     "owner": "GeertWille",
@@ -955,7 +955,7 @@
     "description": "Plugins to export assets to different platforms",
     "author": "Geert Wille",
     "homepage": "https://github.com/GeertWille/sketch-export-assets",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-15 12:58:43 UTC"
   },
   {
     "owner": "nathco",
@@ -964,7 +964,7 @@
     "description": "Swap fill and border color for all selected layers.",
     "author": "Nathan Rutzky",
     "homepage": "https://github.com/nathco/Swap-Fill-Border",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-28 16:11:50 UTC"
   },
   {
     "owner": "getflourish",
@@ -973,7 +973,7 @@
     "description": "Review, import & export styles in Sketch.",
     "author": "Florian Schulz",
     "homepage": "https://github.com/getflourish/Sketch-Style-Inventory",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-14 13:55:42 UTC"
   },
   {
     "owner": "Arkkimaagi",
@@ -983,7 +983,7 @@
     "author": "Mikko Tapionlinna",
     "homepage": "https://github.com/Arkkimaagi/ArtboardZoom",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.github.arkkimaagi.artboardzoom/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-2 8:47:16 UTC"
   },
   {
     "owner": "Arkkimaagi",
@@ -993,7 +993,7 @@
     "author": "Mikko Tapionlinna",
     "homepage": "https://github.com/Arkkimaagi/Bookmark",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.github.arkkimaagi.bookmark/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-20 15:45:39 UTC"
   },
   {
     "owner": "tadija",
@@ -1003,7 +1003,7 @@
     "author": "tadija",
     "homepage": "https://github.com/tadija/AEIconizer",
     "appcast": "https://github.com/tadija/AEIconizer/blob/master/AEIconizer.sketchplugin/Contents/Sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-29 0:19:48 UTC"
   },
   {
     "owner": "x-raizor",
@@ -1012,7 +1012,7 @@
     "description": "Sketch app plugins for efficient text manipulation and add ranodmness to items size and positions",
     "author": "Andrew Shapiro, Aby Nimbalkar",
     "homepage": "https://github.com/x-raizor/Efficiency",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-12 22:16:48 UTC"
   },
   {
     "owner": "ichord",
@@ -1022,7 +1022,7 @@
     "author": "Chord.Luo",
     "homepage": "https://github.com/ichord/sketch-divine-proportions",
     "appcast": "https://raw.githubusercontent.com/ichord/sketch-divine-proportions/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-2 19:15:4 UTC"
   },
   {
     "owner": "ichik",
@@ -1031,7 +1031,7 @@
     "description": "",
     "author": "ichik",
     "homepage": "https://github.com/ichik/RemoveAllGuides",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 16:50:44 UTC"
   },
   {
     "owner": "LucienLee",
@@ -1040,7 +1040,7 @@
     "description": "Plugin that align layer relative to more options for Bohemian Coding's Sketch 3",
     "author": "Lucien Lee",
     "homepage": "https://github.com/LucienLee/AlignTo",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-13 10:49:51 UTC"
   },
   {
     "owner": "marcosvidal",
@@ -1049,7 +1049,7 @@
     "description": "Documenting design made easy",
     "author": "Marcos Vidal",
     "homepage": "http://marcosvid.al/sketch-notebook",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-10 11:7:22 UTC"
   },
   {
     "owner": "Falkeyn",
@@ -1058,7 +1058,7 @@
     "description": "Sketch.app plugin for auto-paddings",
     "author": "Falkeyn",
     "homepage": "https://github.com/Falkeyn/Modulizer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-31 20:31:15 UTC"
   },
   {
     "owner": "graphical-iain",
@@ -1067,7 +1067,7 @@
     "description": "Copt SCSS color variable declarations to your clipboard from a selection of color shape objects",
     "author": "iain eudailey",
     "homepage": "http://github.com/graphical-iain/Copy-SCSS-Colors",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-22 20:44:27 UTC"
   },
   {
     "owner": "zeplin",
@@ -1076,7 +1076,7 @@
     "description": "Export artboards to a Zeplin project. 🚀",
     "author": "Zeplin, Inc.",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 23:27:20 UTC"
   },
   {
     "owner": "elihorne",
@@ -1086,7 +1086,7 @@
     "author": "Eli Horne",
     "homepage": "https://github.com/elihorne/smartboards",
     "appcast": "https://raw.githubusercontent.com/elihorne/smartboards/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-11 18:51:29 UTC"
   },
   {
     "owner": "rodi01",
@@ -1095,7 +1095,7 @@
     "description": "A simple plugin that helps you align the top selected layer(s) to the bottom selected one",
     "author": "Rodrigo Soares",
     "homepage": "https://github.com/rodi01/Align-To-Layer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-6-21 18:58:46 UTC"
   },
   {
     "owner": "nickstamas",
@@ -1104,7 +1104,7 @@
     "description": "Better exporting for Android",
     "author": "Nick Stamas",
     "homepage": "https://github.com/nickstamas/Sketch-Better-Android-Export",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-0-25 19:30:4 UTC"
   },
   {
     "owner": "Raureif",
@@ -1113,7 +1113,7 @@
     "description": "Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.",
     "author": "Raureif",
     "homepage": "http://github.com/raureif",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-1 18:42:22 UTC"
   },
   {
     "owner": "t32k",
@@ -1122,7 +1122,7 @@
     "description": "Sketch app plugin for displaying Google material design color palette.",
     "author": "Koji Ishimoto",
     "homepage": "https://github.com/t32k/material-design-color-palette",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-1-6 3:26:35 UTC"
   },
   {
     "owner": "longzheng",
@@ -1131,7 +1131,7 @@
     "description": "Randomly resize selected elements",
     "author": "Long Zheng",
     "homepage": "https://github.com/longzheng/sketch-randomSize",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-22 8:10:13 UTC"
   },
   {
     "owner": "kenmoore",
@@ -1140,7 +1140,7 @@
     "description": "Paste like it was meant to be--into the area you're viewing.",
     "author": "Ken Moore",
     "homepage": "https://github.com/kenmoore/Sketch-Better-Paste",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-6 19:20:44 UTC"
   },
   {
     "owner": "kenmoore",
@@ -1149,7 +1149,7 @@
     "description": "Relabel and automatically resize a button (or similar grouped set of layers)",
     "author": "Ken Moore",
     "homepage": "https://github.com/kenmoore/Sketch-Relabel-Button",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-12 2:33:43 UTC"
   },
   {
     "owner": "delighted",
@@ -1158,7 +1158,7 @@
     "description": "Sketch plugin to move selected shapes or layers toward the center of artboard.",
     "author": "Mike Gowen",
     "homepage": "https://github.com/delighted/sketch-pull-to-center",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-22 22:57:49 UTC"
   },
   {
     "owner": "delighted",
@@ -1167,7 +1167,7 @@
     "description": "Sketch plugin to scale all selected layers, in place, from center.",
     "author": "Mike Gowen",
     "homepage": "https://github.com/delighted/sketch-scale-all-in-place",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-22 22:54:36 UTC"
   },
   {
     "owner": "delighted",
@@ -1176,7 +1176,7 @@
     "description": "Sketch plugin to upload the selected artboard to CloudApp.",
     "author": "Mike Gowen",
     "homepage": "https://github.com/delighted/sketch-upload-to-cloudapp",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-13 7:36:38 UTC"
   },
   {
     "owner": "PEZ",
@@ -1186,7 +1186,7 @@
     "author": "Better Than Tomorrow",
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "appcast": "https://raw.githubusercontent.com/PEZ/SketchDistributor/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-6 15:56:16 UTC"
   },
   {
     "owner": "BriteSnow",
@@ -1196,7 +1196,7 @@
     "author": "jeremychone",
     "homepage": "https://github.com/BriteSnow/sketch-storyboard",
     "appcast": "https://raw.githubusercontent.com/BriteSnow/sketch-storyboard/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-2 19:37:35 UTC"
   },
   {
     "owner": "frankko",
@@ -1206,7 +1206,7 @@
     "author": "Frank Kolodziej",
     "homepage": "https://github.com/frankko/Artboard-Tools",
     "appcast": "https://raw.githubusercontent.com/frankko/Artboard-Tools/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 18:16:13 UTC"
   },
   {
     "owner": "kumo",
@@ -1215,7 +1215,7 @@
     "description": "Plugin to merge CSV and templates",
     "author": "Rob Clarke",
     "homepage": "http://github.com/kumo/sketch-mail-merge",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-11 10:57:9 UTC"
   },
   {
     "owner": "abynim",
@@ -1225,7 +1225,7 @@
     "author": "Aby Nimbalkar",
     "homepage": "https://abynim.github.io/UserFlows",
     "appcast": "https://raw.githubusercontent.com/abynim/UserFlows/v2/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 6:35:29 UTC"
   },
   {
     "owner": "frankko",
@@ -1235,7 +1235,7 @@
     "author": "Frank Kolodziej",
     "homepage": "https://github.com/frankko/UtilityBelt",
     "appcast": "https://raw.githubusercontent.com/frankko/UtilityBelt/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 18:22:50 UTC"
   },
   {
     "owner": "preciousforever",
@@ -1245,7 +1245,7 @@
     "author": "precious design studio",
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "appcast": "https://raw.githubusercontent.com/preciousforever/sketch-data-populator/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-24 0:47:17 UTC"
   },
   {
     "owner": "JayHoltslander",
@@ -1254,7 +1254,7 @@
     "description": "Create long shadows quickly and easily.",
     "author": "Jay Holtslander",
     "homepage": "https://github.com/JayHoltslander/Sketch-Make-Long-Shadow",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-17 2:7:40 UTC"
   },
   {
     "owner": "tokuda109",
@@ -1263,7 +1263,7 @@
     "description": "Switch artboard.",
     "author": "Tsuyoshi Tokuda",
     "homepage": "https://github.com/tokuda109/SwitchArtboard.sketchplugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-4-10 13:17:42 UTC"
   },
   {
     "owner": "kodlian",
@@ -1272,7 +1272,7 @@
     "description": "Export icons with Icon Slate",
     "author": "Jeremy Marchand",
     "homepage": "https://github.com/kodlian/iconslate-sketchplugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-6 20:16:54 UTC"
   },
   {
     "owner": "hrescak",
@@ -1281,7 +1281,7 @@
     "description": "CSS Flexbox layout inside of Sketch",
     "author": "Matej Hrescak",
     "homepage": "https://github.com/hrescak/Sketch-Flex-Layout",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-25 19:0:13 UTC"
   },
   {
     "owner": "zhifengkoh",
@@ -1290,7 +1290,7 @@
     "description": "Resizes artboards to fit their content",
     "author": "Zhifeng Koh",
     "homepage": "https://github.com/zhifengkoh/resize_artboard",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-1-17 15:38:54 UTC"
   },
   {
     "owner": "lmwebdesign",
@@ -1299,7 +1299,7 @@
     "description": "Quickly change border and fills colors from pre-set color palette.",
     "author": "Luis Martinez",
     "homepage": "https://github.com/lmwebdesign/Sketch3-ColorSwitch",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-6-9 20:43:18 UTC"
   },
   {
     "owner": "abynim",
@@ -1308,7 +1308,7 @@
     "description": "Export Sketch layers directly to Xcode.",
     "author": "Aby Nimbalkar",
     "homepage": "https://github.com/abynim/Xport",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-22 14:8:15 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -1318,7 +1318,7 @@
     "author": "Francis Vega",
     "homepage": "https://github.com/FrancisVega/ZEN-Sketch",
     "appcast": "https://raw.githubusercontent.com/FrancisVega/ZEN-Sketch/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-9 9:52:37 UTC"
   },
   {
     "owner": "matt-curtis",
@@ -1327,7 +1327,7 @@
     "description": "A Sketch plugin demo for Responsive Design",
     "author": "Matt Curtis",
     "homepage": "https://github.com/matt-curtis/Archetype",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-11 20:52:25 UTC"
   },
   {
     "owner": "abynim",
@@ -1336,7 +1336,7 @@
     "description": "Draw pie charts",
     "author": "Aby Nimbalkar",
     "homepage": "https://github.com/abynim/sketchy-pies",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-13 5:10:4 UTC"
   },
   {
     "owner": "nerthase",
@@ -1345,7 +1345,7 @@
     "description": "Trim Artboard around content layers",
     "author": "Mario De Santis",
     "homepage": "https://github.com/nerthase/TrimArtboard",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-4-26 16:5:50 UTC"
   },
   {
     "owner": "mmth",
@@ -1354,7 +1354,7 @@
     "description": "Plugin to fetch artworks by their album or artist names",
     "author": "Maxim Melnikov",
     "homepage": "http://github.com/mmth/sketch-artwork-fetcher",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-8 0:13:41 UTC"
   },
   {
     "owner": "dezonik",
@@ -1363,7 +1363,7 @@
     "description": "It makes good text from “horrible”. Puts quotes “outside and ‘inside’ proposals”. Puts a non-breaking spaces after one-letter words, after russian unions and in 100 % or 50 ₽. Removes spaces and divides the number on the level in $100 and €15 800. Translate m2 to m² and so on. Now coder not ashamed to paste the text from the artboard ©. It's like a 2 * 2 = 4 ± 0. — Really, wonderful plugin!",
     "author": "@dezonik",
     "homepage": "http://dezonik.com/typograph/en",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-24 22:26:27 UTC"
   },
   {
     "owner": "uetchy",
@@ -1372,7 +1372,7 @@
     "description": "Sketch plugin to make paths be snapped to grid.",
     "author": "Yasuaki Uechi",
     "homepage": "https://github.com/uetchy/Sketch-StickyGrid",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-3 6:42:31 UTC"
   },
   {
     "owner": "wodory",
@@ -1381,7 +1381,7 @@
     "description": "Draw flowchart rapidly",
     "author": "Sanghun, Woo",
     "homepage": "http://github.com/wodory/flowmate",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-10 15:18:52 UTC"
   },
   {
     "owner": "matt-curtis",
@@ -1390,7 +1390,7 @@
     "description": "Creates a local web server for Sketch documents.",
     "author": "Matt Curtis",
     "homepage": "https://github.com/matt-curtis/Sketch-Server",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-1-22 16:26:9 UTC"
   },
   {
     "owner": "romashamin",
@@ -1399,7 +1399,7 @@
     "description": "Helps manage state of components like Page Controls and Tab Bars",
     "author": "Roman Shamin",
     "homepage": "https://github.com/romashamin/statemachine-sketch",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-7-22 18:9:29 UTC"
   },
   {
     "owner": "keremciu",
@@ -1408,7 +1408,7 @@
     "description": "Select invisible layers on current page in Sketch",
     "author": "Kerem Sevencan",
     "homepage": "https://github.com/keremciu/sketch-select-invisible-layers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-5-7 19:21:14 UTC"
   },
   {
     "owner": "romannurik",
@@ -1417,7 +1417,7 @@
     "description": "",
     "author": "Roman Nurik",
     "homepage": "https://github.com/romannurik/Sketch-ArtboardTricks",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 5:23:6 UTC"
   },
   {
     "owner": "keremciu",
@@ -1427,7 +1427,7 @@
     "author": "Kerem Sevencan",
     "homepage": "https://github.com/keremciu/sketch-iconfont",
     "appcast": "https://raw.githubusercontent.com/keremciu/sketch-iconfont/master/version.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-7 1:42:31 UTC"
   },
   {
     "owner": "webpatch",
@@ -1436,7 +1436,7 @@
     "description": "Some handy tools for Sketch",
     "author": "webpatch",
     "homepage": "https://github.com/webpatch/Handy-Tools",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-3 9:31:18 UTC"
   },
   {
     "owner": "kmerc",
@@ -1445,7 +1445,7 @@
     "description": "Plugin to import symbols from another Sketch file.",
     "author": "Caleb Mercer",
     "homepage": "https://github.com/kmerc/sketch-import-symbols",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-14 9:18:23 UTC"
   },
   {
     "owner": "soulchild",
@@ -1454,7 +1454,7 @@
     "description": "Find and insert logos in SVG/PNG-format from various sources",
     "author": "Tobi Kremer",
     "homepage": "https://github.com/soulchild/sketch-logo-fetcher",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-21 8:59:0 UTC"
   },
   {
     "owner": "andrewfiorillo",
@@ -1463,7 +1463,7 @@
     "description": "Sketch plugin to count the number of characters in a text layer",
     "author": "Andrew Fiorillo",
     "homepage": "http://github.com/andrewfiorillo/sketch-character-count",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-1-24 17:27:18 UTC"
   },
   {
     "owner": "jonmmay",
@@ -1472,7 +1472,7 @@
     "description": "Import and Export app UI for use with ScrollMotion SmartStudio",
     "author": "Jon May",
     "homepage": "https://github.com/jonmmay/sketch-scrollmotion",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-3-16 22:37:13 UTC"
   },
   {
     "owner": "ribot",
@@ -1481,7 +1481,7 @@
     "description": "Example Sketch Plugin using resources from within the bundle and a library script.",
     "author": "ribot",
     "homepage": "https://github.com/ribot/sketch-user-flow-docs",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-0-26 11:14:20 UTC"
   },
   {
     "owner": "devxoul",
@@ -1490,7 +1490,7 @@
     "description": "A simple plugin that generates export sizes of layers.",
     "author": "Suyeol Jeon",
     "homepage": "https://github.com/devxoul/sketch-export-sizes-generator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-18 16:9:42 UTC"
   },
   {
     "owner": "abynim",
@@ -1499,7 +1499,7 @@
     "description": "Align Text Layers by their baselines.",
     "author": "abynim",
     "homepage": "https://github.com/abynim/BaseAlign",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-17 1:56:14 UTC"
   },
   {
     "owner": "fhuel",
@@ -1509,7 +1509,7 @@
     "author": "Manuele Capacci",
     "homepage": "https://github.com/fhuel/Unsplash-It-Sketch",
     "appcast": "https://github.com/fhuel/Unsplash-It-Sketch/blob/master/Unsplash%20It.sketchplugin/Contents/Sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-29 18:46:32 UTC"
   },
   {
     "owner": "thierryc",
@@ -1519,7 +1519,7 @@
     "author": "Martin Steven and Thierry Charbonnel",
     "homepage": "https://github.com/thierryc/Sketch-Find-And-Replace/",
     "appcast": "https://raw.githubusercontent.com/thierryc/Sketch-Find-And-Replace/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 20:3:33 UTC"
   },
   {
     "owner": "shakemno",
@@ -1528,7 +1528,7 @@
     "description": "",
     "author": "shakemno",
     "homepage": "https://github.com/shakemno/sketch-replace-images",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-23 19:17:23 UTC"
   },
   {
     "owner": "schwa23",
@@ -1538,7 +1538,7 @@
     "author": "Joshua Dickens",
     "homepage": "https://github.com/schwa23/cleanupsfui",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.schwa23.cleanupsfuitype/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-13 1:43:21 UTC"
   },
   {
     "owner": "andrewfiorillo",
@@ -1548,7 +1548,7 @@
     "author": "Andrew Fiorillo",
     "homepage": "http://github.com/andrewfiorillo/sketch-palettes",
     "appcast": "https://raw.githubusercontent.com/andrewfiorillo/sketch-palettes/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-26 2:32:16 UTC"
   },
   {
     "owner": "bouchenoiremarc",
@@ -1558,7 +1558,7 @@
     "author": "Marc Bouchenoire",
     "homepage": "https://github.com/bouchenoiremarc/Sketch-Constraints",
     "appcast": "https://raw.githubusercontent.com/bouchenoiremarc/Sketch-Constraints/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 12:3:9 UTC"
   },
   {
     "owner": "bouchenoiremarc",
@@ -1568,7 +1568,7 @@
     "author": "Marc Bouchenoire",
     "homepage": "https://github.com/bouchenoiremarc/Sketch-Maps",
     "appcast": "https://raw.githubusercontent.com/bouchenoiremarc/Sketch-Maps/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 16:2:44 UTC"
   },
   {
     "owner": "romashamin",
@@ -1578,7 +1578,7 @@
     "author": "Roman Shamin",
     "homepage": "https://github.com/romashamin/sort-me-sketch",
     "appcast": "https://raw.githubusercontent.com/romashamin/sort-me-sketch/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-1 14:5:2 UTC"
   },
   {
     "owner": "delighted",
@@ -1587,7 +1587,7 @@
     "description": "Sketch plugin to duplicate the current selection(s) to new artboard(s).",
     "author": "Mike Gowen",
     "homepage": "https://github.com/delighted/sketch-duplicate-to-new-artboard",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-12 23:8:8 UTC"
   },
   {
     "owner": "bshorta",
@@ -1597,7 +1597,7 @@
     "author": "Bernardo Horta",
     "homepage": "http://bernardo.cc",
     "appcast": "http://bernardo.cc/misc/date-generator-sketch/date-generator-appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-17 10:58:49 UTC"
   },
   {
     "owner": "wonderbit",
@@ -1606,7 +1606,7 @@
     "description": "A plugin that selects layers with similar attributes to those of the layer currently selected.",
     "author": "Wessley Roche",
     "homepage": "https://github.com/wonderbit/sketch-select-similar-layers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-16 8:33:4 UTC"
   },
   {
     "owner": "acollurafici",
@@ -1615,7 +1615,7 @@
     "description": "",
     "author": "Anthony Collurafici",
     "homepage": "http://www.checkyourvector.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-24 18:38:36 UTC"
   },
   {
     "owner": "truthlabs",
@@ -1625,7 +1625,7 @@
     "author": "Truth Labs",
     "homepage": "https://github.com/truthlabs/sketch-unlock-all-layers",
     "appcast": "https://raw.githubusercontent.com/truthlabs/sketch-unlock-all-layers/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-8 21:27:57 UTC"
   },
   {
     "owner": "sagishrieber",
@@ -1634,7 +1634,7 @@
     "description": "This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design",
     "author": "Sagi Shrieber, HackingUI.com",
     "homepage": "https://github.com/sagishrieber/sketch-any-icon-fetcher",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-27 19:21:7 UTC"
   },
   {
     "owner": "Creatide",
@@ -1643,7 +1643,7 @@
     "description": "Very simple Sketch plugin to update Text layer names from their own text values.",
     "author": "Creatide",
     "homepage": "http://github.com/Creatide/Sketch_Update-Text-Layer-Name",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-9 22:56:10 UTC"
   },
   {
     "owner": "tomorrowkey",
@@ -1652,7 +1652,7 @@
     "description": "Apply mosaic easily",
     "author": "tomorrowkey",
     "homepage": "https://github.com/tomorrowkey/sketch3-mosaic-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-8-19 8:13:46 UTC"
   },
   {
     "owner": "arshad",
@@ -1661,7 +1661,7 @@
     "description": "Sass Colors for Sketch",
     "author": "Arshad Chummun",
     "homepage": "https://github.com/arshad/Sketch-Sass-Colors",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-11-15 7:46:23 UTC"
   },
   {
     "owner": "kvendrik",
@@ -1670,7 +1670,7 @@
     "description": "Replaces layer values in groups with JSON data",
     "author": "Koen Vendrik",
     "homepage": "http://github.com/kvendrik/sketch-json-parser",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-5-18 17:47:28 UTC"
   },
   {
     "owner": "heysketch",
@@ -1679,7 +1679,7 @@
     "description": "Allows to pick border color for selected layers using standard Sketch color picker",
     "author": "Aby Nimbalkar & Andrey Shakhmin",
     "homepage": "https://github.com/heysketch/sketch-color-picker-plus",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-9-30 8:58:39 UTC"
   },
   {
     "owner": "automat",
@@ -1688,7 +1688,7 @@
     "description": "",
     "author": "Henryk Wollik",
     "homepage": "https://github.com/automat/sketch-text-tools",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-16 15:35:37 UTC"
   },
   {
     "owner": "matt-curtis",
@@ -1698,7 +1698,7 @@
     "author": "Matt Curtis",
     "homepage": "https://github.com/matt-curtis/Fluid-for-Sketch",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.matt-curtis.sketch.constraints/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-4 0:20:25 UTC"
   },
   {
     "owner": "feb19",
@@ -1707,7 +1707,7 @@
     "description": "Font Size Validator for Mobile UI Design",
     "author": "Nobuhiro Takahashi",
     "homepage": "http://feb19.jp",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-3-12 1:10:40 UTC"
   },
   {
     "owner": "dex1t",
@@ -1716,7 +1716,7 @@
     "description": "Show QR Code for Local Sharing",
     "author": "dex1t",
     "homepage": "https://github.com/dex1t/QRCode-for-Sketch-Local-Sharing",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-10-15 18:43:51 UTC"
   },
   {
     "owner": "margusholland",
@@ -1726,7 +1726,7 @@
     "author": "Margus Holland",
     "homepage": "https://github.com/margusholland/Comma",
     "appcast": "https://raw.githubusercontent.com/margusholland/Comma/master/comma-plugin-appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-22 19:48:8 UTC"
   },
   {
     "owner": "frankko",
@@ -1736,7 +1736,7 @@
     "author": "Frank Kolodziej",
     "homepage": "https://github.com/frankko/Place-Linked-Bitmap",
     "appcast": "https://raw.githubusercontent.com/frankko/Place-Linked-Bitmap/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 18:19:56 UTC"
   },
   {
     "owner": "MaxChen",
@@ -1745,7 +1745,7 @@
     "description": "A plugin that automatically resizes artwork for Apple Watch icon.",
     "author": "Max Chen",
     "homepage": "https://github.com/MaxChen/Watch-Icon",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-10-19 0:56:43 UTC"
   },
   {
     "owner": "peterwooley",
@@ -1754,7 +1754,7 @@
     "description": "Gathers the colors used in your selected layers and shows them in Colorpeek.",
     "author": "Peter Wooley",
     "homepage": "https://github.com/peterwooley/colorpeek-sketch-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2015-11-10 10:20:6 UTC"
   },
   {
     "owner": "Ashung",
@@ -1764,7 +1764,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "appcast": "https://ashung.github.io/Automate-Sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 14:1:33 UTC"
   },
   {
     "owner": "dawidw",
@@ -1773,7 +1773,7 @@
     "description": "Let's you move selected layers verticaly and horizontaly.",
     "author": "Dawid Woźniak",
     "homepage": "https://github.com/dawidw/move-it",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-1-1 13:15:3 UTC"
   },
   {
     "owner": "Proto-io",
@@ -1782,7 +1782,7 @@
     "description": "Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.",
     "author": "Protoio Inc.",
     "homepage": "https://proto.io/en/new-features/photoshop-and-sketch-plugins",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-11 14:41:24 UTC"
   },
   {
     "owner": "ngs",
@@ -1791,7 +1791,7 @@
     "description": "Copy fill color as Swift code",
     "author": "Atsushi Nagase",
     "homepage": "http://github.com/ngs/sketchplugin-swift-color",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-23 7:4:58 UTC"
   },
   {
     "owner": "pixelpillow",
@@ -1800,7 +1800,7 @@
     "description": "Copy & Paste Guides",
     "author": "Enzio Rossa",
     "homepage": "https://pixelpillow.nl",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-10 19:18:46 UTC"
   },
   {
     "owner": "kang-chen",
@@ -1809,7 +1809,7 @@
     "description": "A simple plugin to add iOS and Android exports with shortcut.",
     "author": "Philippe Hong, Kang Chen",
     "homepage": "https://github.com/kang-chen/sketch-export-generator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-23 22:43:24 UTC"
   },
   {
     "owner": "timurnurutdinov",
@@ -1819,7 +1819,7 @@
     "author": "Timur Nurutdinov",
     "homepage": "https://timurnurutdinov.github.io/framerinventory/?utm_source=plugin&utm_medium=manifest",
     "appcast": "https://raw.githubusercontent.com/timurnurutdinov/framerinventory/master/plugin-appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-8 15:55:26 UTC"
   },
   {
     "owner": "websiddu",
@@ -1828,7 +1828,7 @@
     "description": "Create symbols from same named layer groups.",
     "author": "Siddhartha Gudipati",
     "homepage": "https://github.com/websiddu/sketch-symbol-me",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-1-5 6:55:33 UTC"
   },
   {
     "owner": "peterwooley",
@@ -1837,7 +1837,7 @@
     "description": "Copies fill, border, or text color to the clipboard as HSLA",
     "author": "Peter Wooley",
     "homepage": "https://github.com/peterwooley/copy-color-as-hsla",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-0-12 18:22:17 UTC"
   },
   {
     "owner": "lewishowles",
@@ -1846,7 +1846,7 @@
     "description": "Replace all fill, border, shadow or text colours matching the selected layer's colour with the specified hex, or update matching hue values with the hue from the specified hex or hue value",
     "author": "Lewis Howles",
     "homepage": "https://github.com/lewishowles/sketch-replace-colour",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-6 23:8:58 UTC"
   },
   {
     "owner": "wonderbit",
@@ -1855,7 +1855,7 @@
     "description": "A Sketch.app plug-in to properly distribute layers horizontally or vertically.",
     "author": "Wessley Roche",
     "homepage": "https://github.com/wonderbit/sketch-distribute-layers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-0-26 16:45:52 UTC"
   },
   {
     "owner": "lewishowles",
@@ -1864,7 +1864,7 @@
     "description": "This plugin takes the selected layer(s) and draws a rectangle around them.",
     "author": "Lewis Howles",
     "homepage": "https://github.com/lewishowles/sketch-bound-with-box",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-6 23:8:23 UTC"
   },
   {
     "owner": "ScottSavarie",
@@ -1873,7 +1873,7 @@
     "description": "Paste whatever image is on your clipboard as the fill for any shape.",
     "author": "Scott Savarie",
     "homepage": "http://github.com/ScottSavarie/Clipboard-Fill",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-11 20:17:12 UTC"
   },
   {
     "owner": "design4use",
@@ -1883,7 +1883,7 @@
     "author": "German Bauer",
     "homepage": "https://github.com/design4use/gb-sketch-segmentcircle",
     "appcast": "https://raw.githubusercontent.com/design4use/gb-sketch-segmentcircle/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 23:30:12 UTC"
   },
   {
     "owner": "Qordobacode",
@@ -1892,7 +1892,7 @@
     "description": "Integration with Qordoba Translation Platform",
     "author": "Qordoba",
     "homepage": "https://qordoba.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 22:8:2 UTC"
   },
   {
     "owner": "nefaurk",
@@ -1902,7 +1902,7 @@
     "author": "Nefaur Khandker",
     "homepage": "http://github.com/nefaurk/select-parent-artboards",
     "appcast": "https://nefaurk.github.io/sketch-plugins/appcast/select-parent-artboards.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-13 20:9:57 UTC"
   },
   {
     "owner": "ryanjohnson-me",
@@ -1911,7 +1911,7 @@
     "description": "Copies just the shadows from a layer, and allows pasting onto other layers",
     "author": "Ryan Johnson",
     "homepage": "https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-11 14:13:28 UTC"
   },
   {
     "owner": "keiwes",
@@ -1920,7 +1920,7 @@
     "description": "Sets artboards or rectangles to mobile sizes.",
     "author": "Keith Weston",
     "homepage": "https://github.com/keiwes/Sketch-Mobile-Sizes",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-1-6 3:48:12 UTC"
   },
   {
     "owner": "Volorf",
@@ -1929,7 +1929,7 @@
     "description": "Plugin to create sparkline graph",
     "author": "Oleg Frolov",
     "homepage": "https://github.com/Volorf/Sparkliner",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-4 21:27:53 UTC"
   },
   {
     "owner": "lorenzwoehr",
@@ -1938,7 +1938,7 @@
     "description": "Optimize your typography based on font size, line-height and width.",
     "author": "Lorenz Woehr",
     "homepage": "https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-26 11:7:2 UTC"
   },
   {
     "owner": "fuggfuggfugg",
@@ -1948,7 +1948,7 @@
     "author": "Fugg Fugg",
     "homepage": "https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5",
     "appcast": "https://api.sketchpacks.com/v1/plugins/me.fugg.dynamicbutton3.5/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-9 3:35:39 UTC"
   },
   {
     "owner": "andrewfiorillo",
@@ -1957,7 +1957,7 @@
     "description": "Sketch plugin to export artboards to PDF slideshow, from either the current page or from all pages",
     "author": "Andrew Fiorillo",
     "homepage": "http://github.com/andrewfiorillo/sketch-artboards-to-pdf",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-10 19:6:16 UTC"
   },
   {
     "owner": "jawayang",
@@ -1966,7 +1966,7 @@
     "description": "export base64/png for sketch 43",
     "author": "James Yang",
     "homepage": "http://jamestw.logdown.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-14 18:23:12 UTC"
   },
   {
     "owner": "AleLudovici",
@@ -1975,7 +1975,7 @@
     "description": "This plugin takes the selected layer and create new copies of proportional size to the original. You choose the proportion by specifying the multipliers for the width and height of the selected layer.",
     "author": "Alessandro Ludovici",
     "homepage": "https://github.com/AleLudovici/sketch-proportional-replicator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-2-1 21:8:37 UTC"
   },
   {
     "owner": "eachandother",
@@ -1984,7 +1984,7 @@
     "description": "Plugins to create a new page for each artboard in the current page. For best results, ensure that the artboards aren't wrapped in a containing master artboard.",
     "author": "Conor",
     "homepage": "https://github.com/eachandother/SketchPlugins",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-5-8 16:14:55 UTC"
   },
   {
     "owner": "arshad",
@@ -1993,7 +1993,7 @@
     "description": "Quick artboard navigation for Sketch.",
     "author": "Arshad Chummun",
     "homepage": "https://github.com/arshad/Sketch-Navigator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-12 13:39:19 UTC"
   },
   {
     "owner": "jawayang",
@@ -2002,7 +2002,7 @@
     "description": "divide selected",
     "author": "James Yang",
     "homepage": "http://jamestw.logdown.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-3-12 9:23:27 UTC"
   },
   {
     "owner": "Creatide",
@@ -2011,7 +2011,7 @@
     "description": "Create your animations directly in Sketch using AnimateMate.",
     "author": "Creatide",
     "homepage": "http://github.com/Creatide/AnimateMate",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-14 7:21:52 UTC"
   },
   {
     "owner": "jclappiway",
@@ -2020,7 +2020,7 @@
     "description": "Export Sketch Artboard to Trello",
     "author": "Appiway",
     "homepage": "http://appiway.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-4-13 15:56:55 UTC"
   },
   {
     "owner": "wuwa",
@@ -2029,7 +2029,7 @@
     "description": "A small sketch command to copy items to all artboards and re-update them as well",
     "author": "Ben Benhorin",
     "homepage": "https://github.com/wuwa/sketch-copy-to-all",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-12 11:53:58 UTC"
   },
   {
     "owner": "jaimeeee",
@@ -2038,7 +2038,7 @@
     "description": "Copy fill color as Objective-C code",
     "author": "Jaime Zaragoza",
     "homepage": "https://github.com/jaimeeee/sketchplugin-objc-color",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-3-22 3:3:48 UTC"
   },
   {
     "owner": "levinmejia",
@@ -2047,7 +2047,7 @@
     "description": "Say goodbye to Lorem Ipsum: populate your Sketch documents with meaningful data.",
     "author": "precious design studio + Shopify",
     "homepage": "https://github.com/levinmejia/sketch-shopify-data-populator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-1-2 18:8:19 UTC"
   },
   {
     "owner": "awt2542",
@@ -2056,7 +2056,7 @@
     "description": "",
     "author": "Andreas",
     "homepage": "https://github.com/awt2542/ViewController-for-Framer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-26 20:35:40 UTC"
   },
   {
     "owner": "joclin",
@@ -2066,7 +2066,7 @@
     "author": "Jocelyn Lin",
     "homepage": "https://github.com/joclin/arrowfy",
     "appcast": "https://github.com/joclin/arrowfy/blob/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-16 23:54:53 UTC"
   },
   {
     "owner": "psilfver",
@@ -2075,7 +2075,7 @@
     "description": "Adjust a shape layer according to the attributes of a text layer",
     "author": "Petter Silfver",
     "homepage": "https://github.com/psilfver/sketch-adjust-button-shape",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-4-9 23:11:46 UTC"
   },
   {
     "owner": "redgell",
@@ -2084,7 +2084,7 @@
     "description": "Plugin to export artboards with phone frame",
     "author": "Rob Edgell",
     "homepage": "https://github.com/redgell/Save-with-Frame",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-0-12 18:9:41 UTC"
   },
   {
     "owner": "BohemianCoding",
@@ -2093,7 +2093,7 @@
     "description": "",
     "author": "BohemianCoding",
     "homepage": "https://github.com/BohemianCoding/svgo-compressor",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-19 23:46:28 UTC"
   },
   {
     "owner": "Elethom",
@@ -2102,7 +2102,7 @@
     "description": "Adjusts font, character spacing, line height for labels using San Francisco font.",
     "author": "Elethom Hunter",
     "homepage": "https://github.com/Elethom/Sketch-SFUI-Font-Fixer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-5-6 10:16:50 UTC"
   },
   {
     "owner": "Elethom",
@@ -2111,7 +2111,7 @@
     "description": "Remove path prefix for symbol instances.",
     "author": "Elethom Hunter",
     "homepage": "https://github.com/Elethom/Sketch-PathPrefixRemover",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-5-6 11:47:32 UTC"
   },
   {
     "owner": "wakatime",
@@ -2121,7 +2121,7 @@
     "author": "WakaTime",
     "homepage": "https://github.com/wakatime/sketch-wakatime",
     "appcast": "https://raw.githubusercontent.com/wakatime/sketch-wakatime/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-1 18:4:20 UTC"
   },
   {
     "owner": "romashamin",
@@ -2131,7 +2131,7 @@
     "author": "Roman Shamin",
     "homepage": "https://github.com/romashamin/compo-sketch",
     "appcast": "https://raw.githubusercontent.com/romashamin/compo-sketch/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-1 14:7:4 UTC"
   },
   {
     "owner": "ElliotEKJ",
@@ -2140,7 +2140,7 @@
     "description": "Generate a shape with specific dimensions.",
     "author": "Elliot Jackson",
     "homepage": "https://github.com/elliotekj/specify",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-29 13:0:3 UTC"
   },
   {
     "owner": "mendyismyname",
@@ -2149,7 +2149,7 @@
     "description": "Extract images from selected objects with fills",
     "author": "mendyismyname",
     "homepage": "https://github.com/mendyismyname/ImageExtractorSketch",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-4 18:52:17 UTC"
   },
   {
     "owner": "edenvidal",
@@ -2158,7 +2158,7 @@
     "description": "Create different artboard states and switch between them easily",
     "author": "Eden Vidal",
     "homepage": "http://edenvidal.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-7-26 15:21:57 UTC"
   },
   {
     "owner": "keremciu",
@@ -2167,7 +2167,7 @@
     "description": "Duplicate your objects to all Artboards.",
     "author": "Kerem Sevencan",
     "homepage": "https://github.com/keremciu/sketch-repeat",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-6-7 16:17:40 UTC"
   },
   {
     "owner": "andrewdbass",
@@ -2176,7 +2176,7 @@
     "description": "Keep track of Todo items all on one page",
     "author": "Andrew Bass",
     "homepage": "https://github.com/andrewdbass/Todo-Sketch-Plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-6-6 5:48:23 UTC"
   },
   {
     "owner": "auxdesigner",
@@ -2185,7 +2185,7 @@
     "description": "Turn your Mocks into VR. ",
     "author": "Liu Liu",
     "homepage": "https://github.com/auxdesigner/Sketch-to-VR",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-8 21:13:58 UTC"
   },
   {
     "owner": "nathco",
@@ -2194,7 +2194,7 @@
     "description": "Show a small notification with the document zoom percent.",
     "author": "Nathan Rutzky",
     "homepage": "https://github.com/nathco/Zoom-Alert",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-12 6:36:2 UTC"
   },
   {
     "owner": "JoeManto",
@@ -2203,7 +2203,7 @@
     "description": "Makes SpriteSheets to export or use",
     "author": "Joe Manto",
     "homepage": "https://github.com/JoeManto/Sheetie",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-3 23:25:59 UTC"
   },
   {
     "owner": "codearrows",
@@ -2213,7 +2213,7 @@
     "author": "Code Arrows",
     "homepage": "https://sketchfocus.com",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.codearrows.sketch.SketchFocus/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-28 11:10:35 UTC"
   },
   {
     "owner": "ukn530",
@@ -2223,7 +2223,7 @@
     "author": "Tatsuya Uchida",
     "homepage": "https://github.com/ukn530/FontFinder",
     "appcast": "https://raw.githubusercontent.com/ukn530/FontFinder/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-11 10:44:55 UTC"
   },
   {
     "owner": "hoai265",
@@ -2232,7 +2232,7 @@
     "description": "A Sketch plugin for easy multi-language design.",
     "author": "Hoai Nguyen",
     "homepage": "https://github.com/hoai265/Language-Sketch-Plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-14 5:43:18 UTC"
   },
   {
     "owner": "Volorf",
@@ -2241,7 +2241,7 @@
     "description": "Multi pasting for Sketch text layers",
     "author": "Oleg Frolov",
     "homepage": "https://github.com/Volorf/Paster",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-6 6:3:4 UTC"
   },
   {
     "owner": "vincenzopetito",
@@ -2251,7 +2251,7 @@
     "author": "Vincenzo Petito",
     "homepage": "http://vincenzopetito.com",
     "appcast": "https://github.com/vincenzopetito/Shapr/shapr-appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-31 10:19:54 UTC"
   },
   {
     "owner": "BrendanMiller",
@@ -2261,7 +2261,7 @@
     "author": "Brendan Miller and Alfie La Peter",
     "homepage": "https://github.com/BrendanMiller/SizeArtboard",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.example.sketch.6f2c3d8b-6b8a-4e22-b03b-80e26fbc3bf2/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-26 20:45:56 UTC"
   },
   {
     "owner": "jacopocolo",
@@ -2270,7 +2270,7 @@
     "description": "",
     "author": "jacopocolo",
     "homepage": "https://github.com/jacopocolo/changelog.sketchplugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-6 20:3:21 UTC"
   },
   {
     "owner": "contentsync",
@@ -2280,7 +2280,7 @@
     "author": "Syncify",
     "homepage": "https://github.com/contentsync/SketchContentSync",
     "appcast": "https://cast.appcastify.com/contentsync/contentsync.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-27 18:58:55 UTC"
   },
   {
     "owner": "peterwooley",
@@ -2289,7 +2289,7 @@
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
     "author": "Peter Wooley",
     "homepage": "https://github.com/peterwooley/get-margins",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-7-5 20:19:22 UTC"
   },
   {
     "owner": "nilshoenson",
@@ -2299,7 +2299,7 @@
     "author": "Nils Hoenson/Yummygum",
     "homepage": "https://github.com/nilshoenson/shared-text-styles",
     "appcast": "https://raw.githubusercontent.com/nilshoenson/shared-text-styles/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-22 22:17:52 UTC"
   },
   {
     "owner": "gotomedia",
@@ -2308,7 +2308,7 @@
     "description": "Add page numbers to artboards",
     "author": "Jeffrey Chiang",
     "homepage": "https://github.com/gotomedia/Sketch-PageNumbers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-7 23:49:49 UTC"
   },
   {
     "owner": "ErikFontanel",
@@ -2317,7 +2317,7 @@
     "description": "Removes all disabled styles from the selected layers",
     "author": "Erik Gelderblom",
     "homepage": "https://github.com/ErikFontanel/sketch-remove-all-disabled-styles",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-7-15 19:21:48 UTC"
   },
   {
     "owner": "ErikFontanel",
@@ -2327,7 +2327,7 @@
     "author": "Erik Gelderblom",
     "homepage": "https://github.com/erikfontanel/toggleconstrainproportions/",
     "appcast": "https://raw.githubusercontent.com/ErikFontanel/sketch-toggle-constrain-proportions/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-3 20:8:12 UTC"
   },
   {
     "owner": "jshuaf",
@@ -2336,7 +2336,7 @@
     "description": "Select all children layers with a single command!",
     "author": "Joshua Fang",
     "homepage": "http://github.com/jshuaf/select-children",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-6-29 14:13:24 UTC"
   },
   {
     "owner": "Ashung",
@@ -2346,7 +2346,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/Android_Res_Export",
     "appcast": "https://ashung.github.io/Android_Res_Export/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-20 13:28:10 UTC"
   },
   {
     "owner": "timothywhalin",
@@ -2356,7 +2356,7 @@
     "author": "Tim Whalin",
     "homepage": "https://github.com/timothywhalin/Sketch-Quick-Presentation",
     "appcast": "https://raw.githubusercontent.com/timothywhalin/Sketch-Quick-Presentation/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-8 22:8:16 UTC"
   },
   {
     "owner": "KivyGogh",
@@ -2365,7 +2365,7 @@
     "description": "Simple slicing.",
     "author": "goudan",
     "homepage": "https://github.com/KivyGogh/Coffee-Slice",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-3 10:56:10 UTC"
   },
   {
     "owner": "fliptopbox",
@@ -2374,7 +2374,7 @@
     "description": "Generates latin paragraph text, with random or specific word counts. The plugin can also insert text to existing text blocks.",
     "author": "Bruce Thomas",
     "homepage": "https://github.com/fliptopbox/random-ipsom",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-2 13:3:45 UTC"
   },
   {
     "owner": "exevil",
@@ -2384,7 +2384,7 @@
     "author": "Vyacheslav Dubovitsky",
     "homepage": "https://github.com/exevil/sketch-grid-master",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.exevil.grid-master/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-31 10:43:2 UTC"
   },
   {
     "owner": "marcelinollano",
@@ -2393,7 +2393,7 @@
     "description": "Mark artboards and layers as pending or done",
     "author": "Marcelino Llano",
     "homepage": "https://github.com/marcelinollano/sketch-review",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-8-13 0:48:30 UTC"
   },
   {
     "owner": "nathco",
@@ -2402,7 +2402,7 @@
     "description": "Adds support for exporting ICNS and animated GIF file formats.",
     "author": "Nathan Rutzky",
     "homepage": "https://github.com/nathco/Export-More",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-8 21:1:37 UTC"
   },
   {
     "owner": "Vesely",
@@ -2411,7 +2411,7 @@
     "description": "Convert layout or group name to url-friendly name.",
     "author": "David Veselý 🤑",
     "homepage": "https://github.com/vesely/webalize",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-12 11:51:11 UTC"
   },
   {
     "owner": "ozzik",
@@ -2421,7 +2421,7 @@
     "author": "Oz Pinhas",
     "homepage": "https://github.com/ozzik/slicer",
     "appcast": "https://raw.githubusercontent.com/ozzik/slicer/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-18 19:3:18 UTC"
   },
   {
     "owner": "sonburn",
@@ -2431,7 +2431,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/symbol-organizer",
     "appcast": "https://raw.githubusercontent.com/sonburn/symbol-organizer/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 21:44:16 UTC"
   },
   {
     "owner": "ANGIstudio",
@@ -2440,7 +2440,7 @@
     "description": "Resize and reposition objects by using simple arithmetic commands, like 'b+20,lr+20'. Multiple objects are supported.",
     "author": "Andre Jilderda",
     "homepage": "https://github.com/ANGIstudio/Sketch-Resize-Commands",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-24 13:46:48 UTC"
   },
   {
     "owner": "ANGIstudio",
@@ -2449,7 +2449,7 @@
     "description": "Easily copy and paste width, height, x & y values from and to objects",
     "author": "Andre Jilderda",
     "homepage": "https://github.com/ANGIstudio/Sketch-Copy-Paste-Position-Size",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-12 21:8:36 UTC"
   },
   {
     "owner": "ANGIstudio",
@@ -2458,7 +2458,7 @@
     "description": "Quickly resize objects with keyboard shortcuts",
     "author": "Andre Jilderda",
     "homepage": "https://github.com/ANGIstudio/Sketch-Keyboard-Resize",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-12 21:4:47 UTC"
   },
   {
     "owner": "bigxixi",
@@ -2468,7 +2468,7 @@
     "author": "BigXiXi",
     "homepage": "https://github.com/bigxixi/Font-Packer",
     "appcast": "https://raw.githubusercontent.com/bigxixi/Font-Packer/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-15 10:13:30 UTC"
   },
   {
     "owner": "work4blue",
@@ -2477,7 +2477,7 @@
     "description": "One key to export Android/iOS App icons.",
     "author": "Andrew Huang",
     "homepage": "https://github.com/work4blue/sketch-app-asset-export",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-1-14 15:1:23 UTC"
   },
   {
     "owner": "ozzik",
@@ -2487,7 +2487,7 @@
     "author": "Oz Pinhas",
     "homepage": "https://github.com/ozzik/push-and-shove",
     "appcast": "https://raw.githubusercontent.com/ozzik/push-and-shove/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-18 18:54:1 UTC"
   },
   {
     "owner": "nmwoods1",
@@ -2496,7 +2496,7 @@
     "description": "Find and list what pages your symbol instances are on",
     "author": "Nick Woods",
     "homepage": "https://github.com/nmwoods1/Sketch---Find-all-instances-of-symbol",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-14 2:16:12 UTC"
   },
   {
     "owner": "mamuso",
@@ -2505,7 +2505,7 @@
     "description": "Build a website using a bunch of conventions and the Sketch document as the structure.",
     "author": "Manuel Muñoz Solera",
     "homepage": "https://github.com/mamuso/sketch-designdoc",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-11-6 20:39:2 UTC"
   },
   {
     "owner": "mamuso",
@@ -2514,7 +2514,7 @@
     "description": "Our design team swiss knife.",
     "author": "Manuel Muñoz Solera",
     "homepage": "https://github.com/mamuso/sketch-truncate-textlines",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-9-25 9:28:50 UTC"
   },
   {
     "owner": "pberrecloth",
@@ -2524,7 +2524,7 @@
     "author": "Peter Berrecloth & David Williames",
     "homepage": "https://github.com/pberrecloth/butter-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/pberrecloth/butter-sketch-plugin/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-25 20:15:20 UTC"
   },
   {
     "owner": "sonburn",
@@ -2534,7 +2534,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/symbol-instance-renamer",
     "appcast": "https://raw.githubusercontent.com/sonburn/symbol-instance-renamer/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 17:55:4 UTC"
   },
   {
     "owner": "tomoyukikashiro",
@@ -2543,7 +2543,7 @@
     "description": "generate guides along with twitter bootstrap grid system.",
     "author": "Tomoyuki Kashiro",
     "homepage": "https://github.com/tomoyukikashiro/Sketch-bootstrap-guides",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-11-25 23:58:32 UTC"
   },
   {
     "owner": "canisminor1990",
@@ -2552,7 +2552,7 @@
     "description": "",
     "author": "canisminor1990",
     "homepage": "https://github.com/canisminor1990/sketch-select",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-9 4:15:22 UTC"
   },
   {
     "owner": "amin-nas",
@@ -2561,7 +2561,7 @@
     "description": "Sketch plugin to create click-through HTML",
     "author": "Amin Nassiri",
     "homepage": "https://github.com/amin-nas/Sketch-to-Clickthrough-HTML",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-20 22:52:0 UTC"
   },
   {
     "owner": "philsinatra",
@@ -2571,7 +2571,7 @@
     "author": "Phil Sinatra",
     "homepage": "https://github.com/philsinatra/Sketch-Color-Vars",
     "appcast": "https://raw.githubusercontent.com/philsinatra/Sketch-Color-Vars/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-7 15:3:28 UTC"
   },
   {
     "owner": "Volorf",
@@ -2580,7 +2580,7 @@
     "description": "Perfect your typography",
     "author": "Oleg Frolov",
     "homepage": "https://github.com/Volorf/Perfecter",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-3-6 12:44:36 UTC"
   },
   {
     "owner": "Ashung",
@@ -2590,7 +2590,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/HSL_Color_Picker",
     "appcast": "https://ashung.github.io/HSL_Color_Picker/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 5:59:25 UTC"
   },
   {
     "owner": "cshdllr",
@@ -2600,7 +2600,7 @@
     "author": "Jason Cashdollar",
     "homepage": "https://github.com/cshdllr/Notes",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.jasoncashdollar.sketchplugins.notes/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-14 7:55:17 UTC"
   },
   {
     "owner": "pberrecloth",
@@ -2609,7 +2609,7 @@
     "description": "Manage prefixes",
     "author": "Peter Berrecloth",
     "homepage": "https://github.com/pberrecloth/prefixation-sketch-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-10-15 20:31:29 UTC"
   },
   {
     "owner": "pberrecloth",
@@ -2618,7 +2618,7 @@
     "description": "Resizes the selected layer to cover its containing artboard",
     "author": "Peter Berrecloth",
     "homepage": "https://github.com/pberrecloth/fitter-sketch-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-12 11:8:54 UTC"
   },
   {
     "owner": "JJYing",
@@ -2627,7 +2627,7 @@
     "description": "生成中文假名",
     "author": "JJ Ying",
     "homepage": "http://jjying.com",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2016-11-19 19:43:32 UTC"
   },
   {
     "owner": "Tallwave",
@@ -2636,7 +2636,7 @@
     "description": "Spell Check the entire page",
     "author": "Tallwave",
     "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-28 7:55:44 UTC"
   },
   {
     "owner": "eddiesigner",
@@ -2646,7 +2646,7 @@
     "author": "Craftbot",
     "homepage": "https://github.com/eddiesigner/sketch-map-generator",
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-map-generator/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-9 21:43:5 UTC"
   },
   {
     "owner": "KevinWoodhouse",
@@ -2655,7 +2655,7 @@
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
     "author": "Kevin Woodhouse",
     "homepage": "https://github.com/kevinwoodhouse/sketch-nudged",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-12 16:6:7 UTC"
   },
   {
     "owner": "bigxixi",
@@ -2665,7 +2665,7 @@
     "author": "BigXiXI",
     "homepage": "https://github.com/bigxixi/Sketch2AE",
     "appcast": "https://raw.githubusercontent.com/bigxixi/Sketch2AE/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-15 7:55:37 UTC"
   },
   {
     "owner": "Ashung",
@@ -2675,7 +2675,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/Sketch_Swatches",
     "appcast": "https://ashung.github.io/Sketch_Swatches/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 6:2:13 UTC"
   },
   {
     "owner": "YusukeKokubo",
@@ -2685,7 +2685,7 @@
     "author": "Yusuke Kokubo",
     "homepage": "https://github.com/YusukeKokubo/sketch-hback-plugin",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.phantomtype.sketch.hback/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-5 3:12:14 UTC"
   },
   {
     "owner": "dinozavrix",
@@ -2694,7 +2694,7 @@
     "description": "",
     "author": "dinozavrix",
     "homepage": "https://github.com/dinozavrix/sketch_fix_styles",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-0-11 16:0:27 UTC"
   },
   {
     "owner": "samlfsun",
@@ -2703,7 +2703,7 @@
     "description": "",
     "author": "jcluan&samlfsun",
     "homepage": "https://github.com/samlfsun/SketchSize",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-15 8:22:13 UTC"
   },
   {
     "owner": "nerd0geek1",
@@ -2712,7 +2712,7 @@
     "description": "A Sketch Plugin to generate .clr(Color Palette) file from selected layers.",
     "author": "Kohei Tabata",
     "homepage": "https://github.com/nerd0geek1/SketchColorPalette",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-0-26 18:3:32 UTC"
   },
   {
     "owner": "herrkris",
@@ -2722,7 +2722,7 @@
     "author": "Kristof Dreier",
     "homepage": "https://github.com/herrkris/sketch-dynamic-button-symbol",
     "appcast": "https://api.sketchpacks.com/v1/plugins/dreier.kristof.rbs/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-30 13:43:8 UTC"
   },
   {
     "owner": "mheesakkers",
@@ -2731,7 +2731,7 @@
     "description": "Replace your image with your pasteboard image",
     "author": "Misha Heesakkers",
     "homepage": "https://github.com/mheesakkers/sketch-image-replaste",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-24 8:39:40 UTC"
   },
   {
     "owner": "PeachScript",
@@ -2741,7 +2741,7 @@
     "author": "PeachScript",
     "homepage": "https://github.com/PeachScript/sketch-plugin-monster",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.peachscript.pluginMonster/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-24 4:38:13 UTC"
   },
   {
     "owner": "avadhbsd",
@@ -2750,7 +2750,7 @@
     "description": "",
     "author": "avadhbsd",
     "homepage": "https://github.com/avadhbsd/RandomColors",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-11 8:44:35 UTC"
   },
   {
     "owner": "ScottSavarie",
@@ -2759,7 +2759,7 @@
     "description": "Enumerate your layer or artboard names based on their x and y position",
     "author": "Scott Savarie",
     "homepage": "http://github.com/ScottSavarie/Enumerator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-1-27 10:9:20 UTC"
   },
   {
     "owner": "pratikjshah",
@@ -2769,7 +2769,7 @@
     "author": "Pratik Shah",
     "homepage": "http://guides.pratikshah.website/",
     "appcast": "https://raw.githubusercontent.com/pratikjshah/PS-Guides/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-20 13:23:34 UTC"
   },
   {
     "owner": "interfacemarket",
@@ -2779,7 +2779,7 @@
     "author": "Interface.Market",
     "homepage": "https://github.com/interfacemarket/Egmont-plugin",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-14 20:47:58 UTC"
   },
   {
     "owner": "DWilliames",
@@ -2789,7 +2789,7 @@
     "author": "David Williames",
     "homepage": "https://github.com/DWilliames/PDF-export",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.davidwilliames.sketch.pdf-export/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-12 5:28:44 UTC"
   },
   {
     "owner": "DWilliames",
@@ -2799,7 +2799,7 @@
     "author": "David Williames",
     "homepage": "https://github.com/DWilliames/nudge-resize-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/DWilliames/nudge-resize-sketch-plugin/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-25 5:33:29 UTC"
   },
   {
     "owner": "DWilliames",
@@ -2808,7 +2808,7 @@
     "description": "Change the corner radius of a shape through quick keyboard shortcuts",
     "author": "David Williames",
     "homepage": "https://github.com/DWilliames/nudge-corner-radius",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-29 14:14:22 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -2817,7 +2817,7 @@
     "description": "Marginbox",
     "author": "hisconer@gmail.com",
     "homepage": "https://github.com/FrancisVega/sketch-marginbox",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-23 23:21:33 UTC"
   },
   {
     "owner": "lucaorio",
@@ -2827,7 +2827,7 @@
     "author": "Luca Orio",
     "homepage": "https://github.com/lucaorio/sketch-styles-generator",
     "appcast": "https://raw.githubusercontent.com/lucaorio/sketch-styles-generator/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 20:36:35 UTC"
   },
   {
     "owner": "ScottSavarie",
@@ -2836,7 +2836,7 @@
     "description": "Stack Selection Vertically or Horizontally",
     "author": "Scott Savarie",
     "homepage": "https://github.com/ScottSavarie/stacker",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-1-27 10:3:15 UTC"
   },
   {
     "owner": "freeauto",
@@ -2845,7 +2845,7 @@
     "description": "A Sketch plugin to generate lorem ipsum text.",
     "author": "Richard Gong",
     "homepage": "https://github.com/freeauto/sketch-lorem-ipsum-2017",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-8 23:40:24 UTC"
   },
   {
     "owner": "joshkissel",
@@ -2854,7 +2854,7 @@
     "description": "Sketch plugin to count characters, words, white space, and paragraphs.",
     "author": "Josh Kissel",
     "homepage": "http://github.com/joshkissel/",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-2-6 20:16:57 UTC"
   },
   {
     "owner": "demersdesigns",
@@ -2864,7 +2864,7 @@
     "author": "Paul Demers",
     "homepage": "https://github.com/demersdesigns/sketch-batch-symbols",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.example.sketch.batch-create-symbols/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-30 14:26:54 UTC"
   },
   {
     "owner": "mfouquet",
@@ -2874,7 +2874,7 @@
     "author": "Michael Fouquet",
     "homepage": "https://github.com/mfouquet/NudgePushShove",
     "appcast": "https://raw.githubusercontent.com/mfouquet/NudgePushShove/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-29 4:1:4 UTC"
   },
   {
     "owner": "reneepadgham",
@@ -2884,7 +2884,7 @@
     "author": "Yefim Vedernikoff and Renee Padgham",
     "homepage": "https://www.diverseui.com",
     "appcast": "https://raw.githubusercontent.com/reneepadgham/diverseui-sketch-plugin/master/update/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-28 22:35:47 UTC"
   },
   {
     "owner": "apertureless",
@@ -2894,7 +2894,7 @@
     "author": "Jakub Juszczak",
     "homepage": "https://github.com/apertureless/sketch-flip-size",
     "appcast": "https://api.sketchpacks.com/v1/plugins/de.apertureless.sketch-flip-size/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-10 13:46:56 UTC"
   },
   {
     "owner": "bomberstudios",
@@ -2904,7 +2904,7 @@
     "author": "Ale Muñoz",
     "homepage": "https://github.com/bomberstudios/Cleanup-Useless-Groups",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.example.sketch.d2c66cff-a235-44dd-854e-2a7497e32c1b/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-24 18:56:59 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -2913,7 +2913,7 @@
     "description": "Query Selection",
     "author": "hisconer@gmail.com",
     "homepage": "https://github.com/FrancisVega/sketch-query-selection",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-1 17:55:6 UTC"
   },
   {
     "owner": "De-La-Vega",
@@ -2922,7 +2922,7 @@
     "description": "Set bootstrap grid",
     "author": "Kirenkov Vitaliy",
     "homepage": "https://github.com/De-La-Vega/BootstrapGrid",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-15 15:20:45 UTC"
   },
   {
     "owner": "laresgoiti",
@@ -2932,7 +2932,7 @@
     "author": "Santi Laresgoiti Navarro",
     "homepage": "https://github.com/laresgoiti/texts_translate",
     "appcast": "https://raw.githubusercontent.com/laresgoiti/texts_translate/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-6-23 17:26:8 UTC"
   },
   {
     "owner": "kenmoore",
@@ -2941,7 +2941,7 @@
     "description": "Layout all artboards neatly in a grid with user-specified number of rows",
     "author": "Ken Moore",
     "homepage": "https://github.com/kenmoore/sketch-arrange-artboards",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-28 17:25:45 UTC"
   },
   {
     "owner": "kenmoore",
@@ -2950,7 +2950,7 @@
     "description": "Move to next/previous artboard or page",
     "author": "Ken Moore",
     "homepage": "https://github.com/kenmoore/sketch-artboard",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-6 19:17:59 UTC"
   },
   {
     "owner": "vconesa",
@@ -2960,7 +2960,7 @@
     "author": "Justinmind",
     "homepage": "https://github.com/vconesa/justinmind-sketch",
     "appcast": "https://raw.githubusercontent.com/vconesa/justinmind-sketch/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-23 19:53:32 UTC"
   },
   {
     "owner": "mludowise",
@@ -2969,7 +2969,7 @@
     "description": "Keeping your Sketch plugins up to date with the power of Git.",
     "author": "Mel Ludowise",
     "homepage": "https://mludowise.github.io/Sketch-Plugin-Manager",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-2 1:2:25 UTC"
   },
   {
     "owner": "perrysmotors",
@@ -2979,7 +2979,7 @@
     "author": "Giles Perry",
     "homepage": "https://github.com/perrysmotors/copy-framer-code",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.gilesperry.copy-framer-code/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-26 11:21:15 UTC"
   },
   {
     "owner": "avadhbsd",
@@ -2989,7 +2989,7 @@
     "author": "Avadh BS Dwivedi",
     "homepage": "https://github.com/avadhbsd/IconFlower",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.bohemiancoding.sketch.runscriptidentifier/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-24 14:37:19 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -2999,7 +2999,7 @@
     "author": "Francis Vega",
     "homepage": "https://github.com/FrancisVega/sketch-copy-paste-layout-settings",
     "appcast": "https://raw.githubusercontent.com/FrancisVega/sketch-copy-paste-layout-settings/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-8 23:10:35 UTC"
   },
   {
     "owner": "joshdjuric",
@@ -3009,7 +3009,7 @@
     "author": "Josh Djuric",
     "homepage": "https://github.com/joshdjuric/Skatter",
     "appcast": "https://raw.githubusercontent.com/joshdjuric/Skatter/master/skatter-appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-10 18:0:37 UTC"
   },
   {
     "owner": "freeman990",
@@ -3018,7 +3018,7 @@
     "description": "Draw candlestick chart with options and line chart with volume in Sketch, with built-in real data.",
     "author": "Freeman Sun",
     "homepage": "https://github.com/freeman990/Freeman-FinChart-SketchPlugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-27 14:12:54 UTC"
   },
   {
     "owner": "Carlosarturo28",
@@ -3028,7 +3028,7 @@
     "author": "Carlos Navarro",
     "homepage": "https://github.com/Carlosarturo28/Appalette",
     "appcast": "https://raw.githubusercontent.com/Carlosarturo28/Appalette/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-9 14:5:12 UTC"
   },
   {
     "owner": "iGenius-Srl",
@@ -3037,7 +3037,7 @@
     "description": "Exporting sketch to platforms",
     "author": "iGenius Srl",
     "homepage": "https://github.com/iGenius-Srl/Seca",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-12 9:53:51 UTC"
   },
   {
     "owner": "websiddu",
@@ -3047,7 +3047,7 @@
     "author": "Siddhartha Gudipati",
     "homepage": "http://websiddu.github.io/sketch-to-slides",
     "appcast": "https://websiddu.github.io/sync-to-slides/files/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-8 7:11:37 UTC"
   },
   {
     "owner": "MrPeak",
@@ -3056,7 +3056,7 @@
     "description": "Search layer and select it, by matching `textValue`, `name` or `ObjectID`.",
     "author": "MrPeak",
     "homepage": "https://github.com/MrPeak/sketch-search-everywhere",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-25 6:37:27 UTC"
   },
   {
     "owner": "MrPeak",
@@ -3065,7 +3065,7 @@
     "description": "Show ObjectID, Name, Class of selected layer. It is of great use for plugin development or file parsing",
     "author": "MrPeak",
     "homepage": "https://github.com/MrPeak/sketch-show-layer-info",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-23 19:50:27 UTC"
   },
   {
     "owner": "akolpakov",
@@ -3074,7 +3074,7 @@
     "description": "Sketch plugin to generate PDF document out of selected artboards with numbers in place of placeholder",
     "author": "Andrey Kolpakov",
     "homepage": "http://github.com/aakolpakov/sketch-numbering-machine",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-5-9 15:7:11 UTC"
   },
   {
     "owner": "RealtimeBoard",
@@ -3084,7 +3084,7 @@
     "author": "RealtimeBoard",
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "appcast": "https://raw.githubusercontent.com/RealtimeBoard/sketch_plugin/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 14:46:8 UTC"
   },
   {
     "owner": "roydigerhund",
@@ -3093,7 +3093,7 @@
     "description": "A better way to use images in Sketch.",
     "author": "Matthias Martin",
     "homepage": "https://github.com/roydigerhund/Images-Reinvented",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-23 0:1:50 UTC"
   },
   {
     "owner": "Iconscout",
@@ -3103,7 +3103,7 @@
     "author": "Iconscout",
     "homepage": "https://iconscout.com",
     "appcast": "https://raw.githubusercontent.com/Iconscout/logodrop/master/Logodrop.sketchplugin/Contents/Sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-9 10:42:58 UTC"
   },
   {
     "owner": "DWilliames",
@@ -3113,7 +3113,7 @@
     "author": "David Williames",
     "homepage": "https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/DWilliames/Google-sheets-content-sync-sketch-plugin/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-23 12:59:57 UTC"
   },
   {
     "owner": "websiddu",
@@ -3123,7 +3123,7 @@
     "author": "Siddhartha Gudipati",
     "homepage": "https://github.com/websiddu/sketch-material",
     "appcast": "https://sketch-material.firebaseapp.com/static/sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-13 17:37:8 UTC"
   },
   {
     "owner": "mmasonlee",
@@ -3132,7 +3132,7 @@
     "description": "Sketch plugin to number artboards in order",
     "author": "Mason Lee",
     "homepage": "https://github.com/mmasonlee/sketch-number-artboards",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-2 8:36:6 UTC"
   },
   {
     "owner": "doubco",
@@ -3141,7 +3141,7 @@
     "description": "Aligns all artboards vertical or horizontal by name. Uses the same convention as 'Sketch export folder structure 'parent/child'.",
     "author": "Doub.co",
     "homepage": "https://github.com/doubco/sketchplugin-align-artboards",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-4-25 17:13:45 UTC"
   },
   {
     "owner": "iconscout",
@@ -3151,7 +3151,7 @@
     "author": "Iconscout",
     "homepage": "https://iconscout.com",
     "appcast": "https://raw.githubusercontent.com/Iconscout/icondrop/master/Icondrop.sketchplugin/Contents/Sketch/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-18 14:40:38 UTC"
   },
   {
     "owner": "canisminor1990",
@@ -3160,7 +3160,7 @@
     "description": "",
     "author": "canisminor1990",
     "homepage": "https://github.com/canisminor1990/sketch-name-organizer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-13 3:6:11 UTC"
   },
   {
     "owner": "d4rekanguok",
@@ -3170,7 +3170,7 @@
     "author": "Derek Nguyen",
     "homepage": "https://github.com/d4rekanguok/instance-locator",
     "appcast": "https://raw.githubusercontent.com/d4rekanguok/instance-locator/master/version.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-11 9:20:14 UTC"
   },
   {
     "owner": "oodesign",
@@ -3180,7 +3180,7 @@
     "author": "oodesign",
     "homepage": "https://github.com/oodesign/merge-duplicate-symbols",
     "appcast": "https://raw.githubusercontent.com/oodesign/merge-duplicate-symbols/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-19 2:27:31 UTC"
   },
   {
     "owner": "bunnieabc",
@@ -3190,7 +3190,7 @@
     "author": "Yu Hsuan Lin",
     "homepage": "https://github.com/bunnieabc/Blender",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.bunnieabc.blender/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-16 6:27:43 UTC"
   },
   {
     "owner": "d4rekanguok",
@@ -3199,7 +3199,7 @@
     "description": "",
     "author": "d4rekanguok",
     "homepage": "https://github.com/d4rekanguok/sketch-slicer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-13 14:56:50 UTC"
   },
   {
     "owner": "terence55",
@@ -3209,7 +3209,7 @@
     "author": "Terence Wu",
     "homepage": "https://github.com/terence55/sketch-map-creator",
     "appcast": "https://raw.githubusercontent.com/terence55/sketch-map-creator/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-11 5:56:40 UTC"
   },
   {
     "owner": "awkward",
@@ -3219,7 +3219,7 @@
     "author": "awkward",
     "homepage": "https://github.com/awkward/sketch-palette-generator",
     "appcast": "https://raw.githubusercontent.com/awkward/sketch-palette-generator/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-6 14:27:18 UTC"
   },
   {
     "owner": "atlassian",
@@ -3229,7 +3229,7 @@
     "author": "Atlassian",
     "homepage": "https://github.com/atlassian/jira-cloud-for-sketch",
     "appcast": "https://s3-us-west-2.amazonaws.com/atlassian-sketch-plugin/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-9 8:5:47 UTC"
   },
   {
     "owner": "Hemmingsson",
@@ -3238,7 +3238,7 @@
     "description": "Capitalizes all words except articles, conjunctions, and prepositions for a selected text layer",
     "author": "Mattias Hemmingsson",
     "homepage": "mattias.lol",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-8 16:58:31 UTC"
   },
   {
     "owner": "lucaorio",
@@ -3248,7 +3248,7 @@
     "author": "Luca Orio",
     "homepage": "https://github.com/lucaorio/sketch-resize",
     "appcast": "https://raw.githubusercontent.com/lucaorio/sketch-resize/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-10 4:20:54 UTC"
   },
   {
     "owner": "mcansh",
@@ -3257,7 +3257,7 @@
     "description": "",
     "author": "mcansh",
     "homepage": "https://github.com/mcansh/sketch-find-all-instances-of-symbol",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-8-27 4:13:12 UTC"
   },
   {
     "owner": "sketch-symbol-importer",
@@ -3266,7 +3266,7 @@
     "description": "Import symbols from on Sketch file into another. Maintains overrides and updates existing symbols in place.",
     "author": "Drew Loomer",
     "homepage": "https://github.com/sketch-symbol-importer/sketch-symbol-importer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-7-28 17:56:5 UTC"
   },
   {
     "owner": "zeroheight",
@@ -3276,7 +3276,7 @@
     "author": "zeroheight team",
     "homepage": "https://github.com/zeroheight/library-symbol-replacer",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.zeroheight.library-symbol-replacer/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-15 11:34:20 UTC"
   },
   {
     "owner": "sonburn",
@@ -3286,7 +3286,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/symbol-instance-sheet",
     "appcast": "https://raw.githubusercontent.com/sonburn/symbol-instance-sheet/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-15 15:50:51 UTC"
   },
   {
     "owner": "sonburn",
@@ -3296,7 +3296,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/symbol-instance-locator",
     "appcast": "https://raw.githubusercontent.com/sonburn/symbol-instance-locator/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 18:57:6 UTC"
   },
   {
     "owner": "sonburn",
@@ -3306,7 +3306,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/symbol-swapper",
     "appcast": "https://raw.githubusercontent.com/sonburn/symbol-swapper/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-15 3:40:50 UTC"
   },
   {
     "owner": "heytitle",
@@ -3315,7 +3315,7 @@
     "description": "",
     "author": "heytitle",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-9-31 0:43:51 UTC"
   },
   {
     "owner": "danielguillan",
@@ -3324,7 +3324,7 @@
     "description": "Syntax highlighter for code snippets, right within Sketch.",
     "author": "Daniel Guillan and Javi Sánchez-Marín",
     "homepage": "danielguillan.github.io/sketch-syntax-highlighter/",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-4 0:10:23 UTC"
   },
   {
     "owner": "sonburn",
@@ -3334,7 +3334,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/unused-style-remover",
     "appcast": "https://raw.githubusercontent.com/sonburn/unused-style-remover/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 19:14:44 UTC"
   },
   {
     "owner": "sonburn",
@@ -3344,7 +3344,7 @@
     "author": "Jason Burns",
     "homepage": "https://github.com/sonburn/shared-style-finder",
     "appcast": "https://raw.githubusercontent.com/sonburn/shared-style-finder/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 18:46:7 UTC"
   },
   {
     "owner": "pranusarna94",
@@ -3353,7 +3353,7 @@
     "description": "",
     "author": "pranusarna94",
     "homepage": "https://github.com/pranusarna94/z-rating",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-4 16:24:43 UTC"
   },
   {
     "owner": "aparajita",
@@ -3363,7 +3363,7 @@
     "author": "Aparajita Fishman",
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "appcast": "https://raw.githubusercontent.com/aparajita/sketch-style-master/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 17:22:22 UTC"
   },
   {
     "owner": "aparajita",
@@ -3373,7 +3373,7 @@
     "author": "Aparajita Fishman",
     "homepage": "https://github.com/aparajita/sketch-groupie",
     "appcast": "https://raw.githubusercontent.com/aparajita/sketch-groupie/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-3 22:25:38 UTC"
   },
   {
     "owner": "jacopocolo",
@@ -3383,7 +3383,7 @@
     "author": "Jacopo Colò",
     "homepage": "https://github.com/jacopocolo/p5-sketchplugin",
     "appcast": "https://raw.githubusercontent.com/jacopocolo/p5-sketchplugin/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-14 11:24:59 UTC"
   },
   {
     "owner": "dploeger",
@@ -3393,7 +3393,7 @@
     "author": "Dennis Ploeger",
     "homepage": "https://github.com/dploeger/sketch-plugin-units",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-10-16 14:48:17 UTC"
   },
   {
     "owner": "skpm",
@@ -3402,7 +3402,7 @@
     "description": "",
     "author": "skpm",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-25 11:3:16 UTC"
   },
   {
     "owner": "pravdomil",
@@ -3412,7 +3412,7 @@
     "author": "pravdomil.com",
     "homepage": "https://github.com/pravdomil/Sketch-Align-to-Grid#readme",
     "appcast": "https://raw.githubusercontent.com/pravdomil/Sketch-Align-to-Grid/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-24 16:40:46 UTC"
   },
   {
     "owner": "eddiesigner",
@@ -3422,7 +3422,7 @@
     "author": "Craftbot",
     "homepage": "https://github.com/eddiesigner/sketch-translate-me",
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-translate-me/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-13 16:33:42 UTC"
   },
   {
     "owner": "zhongerxin",
@@ -3432,7 +3432,7 @@
     "author": "Twox",
     "homepage": "zhonger.xin",
     "appcast": "https://raw.githubusercontent.com/zhongerxin/PinLog/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2017-11-15 2:51:37 UTC"
   },
   {
     "owner": "pravdomil",
@@ -3442,7 +3442,7 @@
     "author": "pravdomil.com",
     "homepage": "https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed#readme",
     "appcast": "https://raw.githubusercontent.com/pravdomil/Fix-Sketch-Trackpad-Speed/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-24 16:41:23 UTC"
   },
   {
     "owner": "bryanberger",
@@ -3451,7 +3451,7 @@
     "description": "Test your color palette against the WCAG 2.0 guidelines.",
     "author": "@bryanberger",
     "homepage": "https://github.com/bryanberger/sketch-wcag",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-4 22:5:6 UTC"
   },
   {
     "owner": "ahmedmigo",
@@ -3460,7 +3460,7 @@
     "description": "Move symbols from project files to library",
     "author": "Ahmed Genaidy",
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 20:15:35 UTC"
   },
   {
     "owner": "AMoreaux",
@@ -3470,7 +3470,7 @@
     "author": "Valentin Chrétien, Antoine Moreaux",
     "homepage": "https://github.com/AMoreaux/Sketch-Icons",
     "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 10:55:38 UTC"
   },
   {
     "owner": "ziven27",
@@ -3479,7 +3479,7 @@
     "description": "Display Topographic Information",
     "author": "ziven27",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-4 13:4:16 UTC"
   },
   {
     "owner": "yusukesaitoh",
@@ -3488,7 +3488,7 @@
     "description": "Select same symbols as the currently selected symbol",
     "author": "Yusuke Saitoh",
     "homepage": "https://github.com/yusukesaitoh/sketch-select-same-symbols",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-0-8 4:53:49 UTC"
   },
   {
     "owner": "pravdomil",
@@ -3498,7 +3498,7 @@
     "author": "pravdomil.com",
     "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes#readme",
     "appcast": "https://raw.githubusercontent.com/pravdomil/Sketch-Show-Bounding-Boxes/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-24 16:41:5 UTC"
   },
   {
     "owner": "liawesomesaucer",
@@ -3507,7 +3507,7 @@
     "description": "A sketch plugin for copying an element's styles to clipboard",
     "author": "Vincent Liaw",
     "homepage": "https://github.com/liawesomesaucer/StyleClip",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-26 18:41:53 UTC"
   },
   {
     "owner": "pavelkuligin",
@@ -3517,7 +3517,7 @@
     "author": "Pavel Kuligin",
     "homepage": "https://github.com/pavelkuligin/chart",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.sketchapp.examples.chart/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 16:10:10 UTC"
   },
   {
     "owner": "fhuel",
@@ -3526,7 +3526,7 @@
     "description": "",
     "author": "fhuel",
     "homepage": "https://github.com/fhuel/DeepSelect",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-6 11:15:38 UTC"
   },
   {
     "owner": "PEZ",
@@ -3536,7 +3536,7 @@
     "author": "PEZ",
     "homepage": "https://github.com/PEZ/SketchSeparateShapes",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.betterthantomorrow.sketch.separate/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-9 21:40:59 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -3545,7 +3545,7 @@
     "description": "Copy and Paste Shared Styles between layers.",
     "author": "hisconer@gmail.com",
     "homepage": "https://github.com/FrancisVega/Sketch-Copy-Layers-Styles",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-6 18:7:49 UTC"
   },
   {
     "owner": "reqfire",
@@ -3555,7 +3555,7 @@
     "author": "Reqfire",
     "homepage": "https://github.com/reqfire/sketch-user-flows",
     "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-2 0:40:3 UTC"
   },
   {
     "owner": "DWilliames",
@@ -3565,7 +3565,7 @@
     "author": "David Williames",
     "homepage": "https://github.com/DWilliames/paddy-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/DWilliames/paddy-sketch-plugin/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-30 23:1:44 UTC"
   },
   {
     "owner": "sigtm",
@@ -3574,7 +3574,7 @@
     "description": "Sync layer & text styles with any Sketch Library",
     "author": "Sigurd Mannsaker",
     "homepage": "https://github.com/sigtm/sketch-style-libraries",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-18 9:20:49 UTC"
   },
   {
     "owner": "MengTo",
@@ -3583,7 +3583,7 @@
     "description": "Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.",
     "author": "Design+Code",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-23 0:40:13 UTC"
   },
   {
     "owner": "sergeishere",
@@ -3593,7 +3593,7 @@
     "author": "Sergey Dmitriev",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
     "appcast": "https://raw.githubusercontent.com/sergeishere/HandyMenu-SketchPlugin/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-19 16:24:41 UTC"
   },
   {
     "owner": "jbentzen",
@@ -3603,7 +3603,7 @@
     "author": "Jesper Bentzen",
     "homepage": "https://github.com/jbentzen/sketch-fast-text-transfer",
     "appcast": "https://raw.githubusercontent.com/jbentzen/sketch-fast-text-transfer/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-1-25 13:16:3 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -3613,7 +3613,7 @@
     "author": "Francis Vega",
     "homepage": "www.inartx.com",
     "appcast": "https://raw.githubusercontent.com/FrancisVega/Sketch-Smart-Style-Switcher/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-8 23:6:3 UTC"
   },
   {
     "owner": "zcallan",
@@ -3622,7 +3622,7 @@
     "description": "",
     "author": "Callan Delbridge",
     "homepage": "https://github.com/zcallan/sketch-bacon-ipsum",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-13 14:26:48 UTC"
   },
   {
     "owner": "Hito01",
@@ -3631,7 +3631,7 @@
     "description": "",
     "author": "Hito01",
     "homepage": "https://github.com/Hito01/artboards-explorer",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-3 17:25:8 UTC"
   },
   {
     "owner": "KevinGutowski",
@@ -3640,7 +3640,7 @@
     "description": "Quickly resize a layer horizontally from right to left with keyboard shortcuts",
     "author": "Kevin Gutowski",
     "homepage": "https://github.com/KevinGutowski/NudgeRTL",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-16 22:49:58 UTC"
   },
   {
     "owner": "tankxu",
@@ -3649,7 +3649,7 @@
     "description": "Insert SVG code as a Layer",
     "author": "tankxu",
     "homepage": "https://github.com/tankxu/SVG-Insert",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-9 14:26:0 UTC"
   },
   {
     "owner": "romannurik",
@@ -3658,7 +3658,7 @@
     "description": "",
     "author": "romannurik",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 5:17:23 UTC"
   },
   {
     "owner": "juliussohn",
@@ -3667,7 +3667,7 @@
     "description": "",
     "author": "juliussohn",
     "homepage": "https://github.com/juliussohn/sketch-textbox-fit-content",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-21 16:40:18 UTC"
   },
   {
     "owner": "nichenqin",
@@ -3676,7 +3676,7 @@
     "description": "",
     "author": "nichenqin",
     "homepage": "https://github.com/nichenqin/draw-and-render-sketch-plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-27 7:9:31 UTC"
   },
   {
     "owner": "golmakov",
@@ -3685,7 +3685,7 @@
     "description": "",
     "author": "golmakov",
     "homepage": "https://github.com/golmakov/sketch-hyphenator",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-25 6:10:0 UTC"
   },
   {
     "owner": "Shopify",
@@ -3694,7 +3694,7 @@
     "description": "A plugin to let everyone access Polaris directly from within Sketch.",
     "author": "Shopify",
     "homepage": "https://github.com/Shopify/polaris-telescope",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-27 22:16:7 UTC"
   },
   {
     "owner": "pranusarna94",
@@ -3703,7 +3703,7 @@
     "description": "",
     "author": "Pranu Sarna",
     "homepage": "https://github.com/pranusarna94/Perfecto-",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-2-28 15:53:49 UTC"
   },
   {
     "owner": "liangjingyang",
@@ -3712,7 +3712,7 @@
     "description": "",
     "author": "liangjingyang",
     "homepage": "https://github.com/liangjingyang/SketchReloadPlugins",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-4 1:53:45 UTC"
   },
   {
     "owner": "oodesign",
@@ -3722,7 +3722,7 @@
     "author": "oodesign",
     "homepage": "https://github.com/oodesign/icon-tools",
     "appcast": "https://raw.githubusercontent.com/oodesign/icon-tools/master/appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-10 7:54:49 UTC"
   },
   {
     "owner": "josephmcasey",
@@ -3731,7 +3731,7 @@
     "description": "",
     "author": "josephmcasey",
     "homepage": "https://github.com/josephmcasey/sketch-plugin-svgo-unique-id",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-12 22:52:17 UTC"
   },
   {
     "owner": "lukasoppermann",
@@ -3740,7 +3740,7 @@
     "description": "Quickly preview an artboard in your browser.",
     "author": "Lukas Oppermann",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-23 10:42:21 UTC"
   },
   {
     "owner": "mathieudutour",
@@ -3749,7 +3749,7 @@
     "description": "",
     "author": "mathieudutour",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-18 15:31:16 UTC"
   },
   {
     "owner": "fruitfrills",
@@ -3758,7 +3758,7 @@
     "description": "",
     "author": "fruitfrills",
     "homepage": "https://github.com/fruitfrills/polyglot",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-14 19:12:5 UTC"
   },
   {
     "owner": "alexjlockwood",
@@ -3767,7 +3767,7 @@
     "description": "",
     "author": "alexjlockwood",
     "homepage": "https://github.com/alexjlockwood/sketch2vd",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-21 0:36:37 UTC"
   },
   {
     "owner": "alex-matt",
@@ -3777,7 +3777,7 @@
     "author": "alex-matt",
     "homepage": "https://github.com/alex-matt/sketch-lightwire-plugin",
     "appcast": "https://raw.githubusercontent.com/alex-matt/sketch-lightwire-plugin/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-27 15:41:42 UTC"
   },
   {
     "owner": "perrysmotors",
@@ -3787,7 +3787,7 @@
     "author": "Giles Perry",
     "homepage": "https://github.com/perrysmotors/sketch-library-unlinker",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.gilesperry.sketch-library-unlinker/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-26 11:26:4 UTC"
   },
   {
     "owner": "perrysmotors",
@@ -3797,7 +3797,7 @@
     "author": "Giles Perry",
     "homepage": "https://github.com/perrysmotors/format-symbol-names",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.gilesperry.format-symbol-names/appcast",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-3-26 11:30:37 UTC"
   },
   {
     "owner": "perrysmotors",
@@ -3806,7 +3806,7 @@
     "description": "",
     "author": "perrysmotors",
     "homepage": "https://github.com/perrysmotors/reset-image-aspect-ratio",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-12 18:0:27 UTC"
   },
   {
     "owner": "qruzz",
@@ -3815,7 +3815,7 @@
     "description": "",
     "author": "Michael Nissen",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-15 22:9:0 UTC"
   },
   {
     "owner": "abnamrocoesd",
@@ -3825,7 +3825,7 @@
     "author": "Vladimir Ionita",
     "homepage": "https://github.com/abnamrocoesd/chromata",
     "appcast": "https://github.com/abnamrocoesd/Chromata/blob/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-22 9:22:28 UTC"
   },
   {
     "owner": "andex",
@@ -3835,7 +3835,7 @@
     "author": "Andrey Anashkin",
     "homepage": "https://github.com/andex/ggradient",
     "appcast": "https://raw.githubusercontent.com/andex/ggradient/master/.appcast.xml",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-7 11:16:42 UTC"
   },
   {
     "owner": "yued-fe",
@@ -3844,7 +3844,7 @@
     "description": "Sketch plugin tools from yued-fe.TM",
     "author": "yued-fe.TM",
     "homepage": "https://github.com/yued-fe/y-tools",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-16 14:34:39 UTC"
   },
   {
     "owner": "perrysmotors",
@@ -3853,7 +3853,7 @@
     "description": "",
     "author": "perrysmotors",
     "homepage": "https://github.com/perrysmotors/photo-grid",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-8 14:2:28 UTC"
   },
   {
     "owner": "romannurik",
@@ -3862,7 +3862,7 @@
     "description": "",
     "author": "romannurik",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-21 5:18:26 UTC"
   },
   {
     "owner": "futantan",
@@ -3871,7 +3871,7 @@
     "description": "",
     "author": "futantan",
     "homepage": "https://github.com/futantan/sketch-style-to-react-native",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-16 3:37:11 UTC"
   },
   {
     "owner": "andex",
@@ -3880,7 +3880,7 @@
     "description": "",
     "author": "andex",
     "homepage": "https://github.com/andex/ColorBrightness",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-17 22:5:41 UTC"
   },
   {
     "owner": "kd-co",
@@ -3889,7 +3889,7 @@
     "description": "",
     "author": "Anoop Sethumadhavan",
     "homepage": "https://www.charapara.in",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-24 8:36:9 UTC"
   },
   {
     "owner": "okcoker",
@@ -3898,7 +3898,7 @@
     "description": "Sketch app plugin for generating dummy Drake content such as photos and lyrics.",
     "author": "Sean Coker",
     "homepage": "https://github.com/okcoker/Drake-Sketch-Plugin",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-20 12:54:27 UTC"
   },
   {
     "owner": "levtolstoi",
@@ -3907,6 +3907,6 @@
     "description": "Plugin for create Atomic Design concept in Sketch and export with a scss-map for front-end",
     "author": "Ivan Belkov",
     "homepage": "https://github.com/levtolstoi/Nucleus",
-    "lastUpdated": "2018-4-26 20:48:38 UTC"
+    "lastUpdated": "2018-4-25 12:9:45 UTC"
   }
 ]
