@@ -24,10 +24,10 @@ async function main() {
     await replaceDirectoryInReadme(directory)
 
     // 4. done
-    console.log("Done")
+    console.log("done")
     process.exit(0)
   } catch (e) {
-    console.log("Error", e instanceof Error ? e.message : e || "")
+    console.log("error", e instanceof Error ? e.message : e || "")
     process.exit(1)
   }
 }
@@ -76,7 +76,7 @@ async function getGithubPlugins() {
         const plugin = await getGithubPlugin(owner, name, i, repos.length)
         plugins.push(plugin)
       } catch (e) {
-        console.log("Warning", e instanceof Error ? e.message : e || "")
+        console.log("warning", e instanceof Error ? e.message : e || "")
       }
     }
     return plugins
