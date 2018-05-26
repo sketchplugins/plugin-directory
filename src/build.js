@@ -56,7 +56,110 @@ function checkRequiredFields(plugins) {
  * @returns {Promise<SketchDirectory>}
  */
 async function getGithubPlugins() {
-  return []
+  try {
+    await spawn("rm", ["-rf", "clones"])
+  } catch {}
+
+  const plugins = []
+  const repos = (await readFile("directory/github.txt", "utf8")).split("\n")
+  let i = 0
+  for (const repo of repos) {
+    i++
+    const parts = repo.split("/")
+    if (parts.length !== 2) {
+      continue
+    }
+    const [owner, name] = parts
+
+    try {
+      console.log(i + "/" + repos.length)
+      const plugin = await getGithubPlugin(owner, name)
+      plugins.push(plugin)
+    } catch (e) {
+      console.log("Can't get plugin", e instanceof Error ? e.message : e || "")
+    } finally {
+      console.log("\n\n")
+    }
+  }
+  return plugins
+}
+
+/**
+ * @param {string} owner
+ * @param {string} name
+ * @returns {Promise<SketchPlugin>}
+ */
+async function getGithubPlugin(owner, name) {
+  // clone
+  const url = ("https://github.com/" + owner + "/" + name).replace(/ /g, "%20")
+  const target = "clones/" + owner + "/" + name
+  await spawn("git", ["clone", "--depth", 1, url, target], { stdio: "inherit" })
+
+  // find Sketch plugin
+  let pluginPath
+  try {
+    pluginPath = (await readdir(target)).find(f => f.endsWith(".sketchplugin"))
+    if (!pluginPath) {
+      throw new Error()
+    }
+  } catch {
+    throw new Error("Can't find any Sketch plugin")
+  }
+
+  // find manifest.json
+  let manifest
+  try {
+    const manifestJsonPath =
+      target + "/" + pluginPath + "/Contents/Sketch/manifest.json"
+    manifest = JSON.parse(await readFile(manifestJsonPath))
+    if (!(manifest instanceof Object)) {
+      throw new Error()
+    }
+  } catch {
+    throw new Error("Can't get manifest.json")
+  }
+  const { title, description, author, homepage, appcast } = manifest
+
+  // update lastUpdated
+  let lastUpdated
+  try {
+    lastUpdated = unixToUTC(
+      (await exec("git log -1 --format=%cd --date=unix")).stdout,
+    )
+  } catch {
+    throw new Error("Can't compute lastUpdated field")
+  }
+
+  return {
+    owner,
+    name,
+
+    title: typeof title === "string" ? title : name,
+    description: typeof description === "string" ? description : "",
+    author: typeof author === "string" ? author : owner,
+    homepage: typeof homepage === "string" ? homepage : url,
+    appcast: typeof appcast === "string" ? appcast : undefined,
+
+    lastUpdated,
+  }
+}
+
+function unixToUTC(unixTimestamp) {
+  const d = new Date(unixTimestamp * 1000)
+  return (
+    d.getFullYear() +
+    "-" +
+    d.getMonth() +
+    "-" +
+    d.getDate() +
+    " " +
+    d.getHours() +
+    ":" +
+    d.getMinutes() +
+    ":" +
+    d.getSeconds() +
+    " UTC"
+  )
 }
 
 /**
