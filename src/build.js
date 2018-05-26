@@ -49,7 +49,7 @@ function checkRequiredFields(plugins) {
       continue
     }
     throw new Error(
-      "Field " + field + " not found in\n" + JSON.stringify(plugin, null, 2),
+      "Required fields missing in\n" + JSON.stringify(plugin, null, 2),
     )
   }
 }
