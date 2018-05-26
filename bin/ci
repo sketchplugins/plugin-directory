@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+set -e
+
+npm run build
+
+if [ "$CONTINUOUS_INTEGRATION" == "true" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
+    git config user.email "<>"
+    git config user.name "ci"
+
+    echo "Committing..."
+    git reset
+    git checkout master
+    git add README.md plugins.json
+    if [ "$(git status --porcelain)" != "" ]; then
+        git commit -m "build"
+        git push "https://$GITHUB_TOKEN@github.com/$TRAVIS_REPO_SLUG.git"
+    fi
+fi
