@@ -133,7 +133,7 @@ async function getGithubPlugin(owner, name, i, length) {
   } catch {
     throw new Error("Can't read manifest.json")
   }
-  const { title, description, author, homepage, appcast } = manifest
+  const { name: title, description, author, homepage, appcast } = manifest
 
   // update lastUpdated
   let lastUpdated
