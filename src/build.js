@@ -113,7 +113,7 @@ async function getGithubPlugin(owner, name) {
     throw new Error("Can't find any Sketch plugin")
   }
 
-  // find manifest.json
+  // read manifest.json
   let manifest
   try {
     const manifestJsonPath =
@@ -123,7 +123,7 @@ async function getGithubPlugin(owner, name) {
       throw new Error()
     }
   } catch {
-    throw new Error("Can't get manifest.json")
+    throw new Error("Can't read manifest.json")
   }
   const { title, description, author, homepage, appcast } = manifest
 
