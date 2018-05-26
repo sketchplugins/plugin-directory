@@ -39,16 +39,18 @@ async function main() {
  * @param {SketchDirectory} plugins
  */
 function checkRequiredFields(plugins) {
-  const fields = ["title", "description", "author", "homepage"]
   for (const plugin of plugins) {
-    for (const field of fields) {
-      if (isNonEmptyString(plugin[field])) {
-        continue
-      }
-      throw new Error(
-        "Field " + field + " not found in\n" + JSON.stringify(plugin, null, 2),
-      )
+    if (
+      isNonEmptyString(plugin.title) &&
+      typeof plugin.description === "string" &&
+      isNonEmptyString(plugin.author) &&
+      isNonEmptyString(plugin.homepage)
+    ) {
+      continue
     }
+    throw new Error(
+      "Field " + field + " not found in\n" + JSON.stringify(plugin, null, 2),
+    )
   }
 }
 
