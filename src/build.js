@@ -42,7 +42,7 @@ function checkRequiredFields(plugins) {
   const fields = ["title", "description", "author", "homepage"]
   for (const plugin of plugins) {
     for (const field of fields) {
-      if (typeof plugin[field] === "string") {
+      if (isNonEmptyString(plugin[field])) {
         continue
       }
       throw new Error(
