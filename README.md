@@ -12,6 +12,24 @@ List of Sketch plugins hosted at GitHub in alphabetical order
 
 Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "name": "github_name", "name": "github_repo" }` and open pull request.
 
+## Directory
+
+You can [get directory in JSON format](plugins.json) with following schema:
+
+```typescript
+type plugin = {
+  owner: string, // GitHub user name
+  name: string, // GitHub repo name
+  lastUpdated: string, // last commit date
+  
+  title: string, // from manifest.json
+  description: string, // from manifest.json
+  appcast: string, // from manifest.json
+  homepage: string, // from manifest.json
+  author: string, // from manifest.json
+}
+```
+
 <!-- repo_list_start -->
 
 - [7 Columns Calendar Creator](https://lstore.graphics/plugins/calendar/), by lstore.graphics: An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month
