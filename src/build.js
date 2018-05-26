@@ -31,6 +31,14 @@ async function main() {
 // Helpers
 //
 /**
+ * @returns {Promise<SketchDirectory>}
+ */
+
+async function getGithubPlugins() {
+  return []
+}
+
+/**
  * @param {SketchPlugin[]} plugins
  * @returns {Promise<SketchPlugin[]>}
  */
