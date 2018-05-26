@@ -14,7 +14,7 @@ For plugins hosted on GitHub [edit github.txt](edit/master/directory/github.txt)
 
 ## Directory in JSON
 
-You can get [directory in JSON](plugins.json) with following schema:
+You can get [directory in JSON](plugins.json) with following [schema](index.d.ts):
 
 ```typescript
 type SketchPlugin = {
