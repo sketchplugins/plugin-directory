@@ -9,7 +9,7 @@ async function main() {
     const plugins = await revise(p)
     savePlugins(plugins)
 
-    // 2. generate directory
+    // 2. replace directory in readme
     const directory = plugins
       .sort(sortByName)
       .map(
