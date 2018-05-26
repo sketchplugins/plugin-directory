@@ -31,6 +31,23 @@ async function main() {
 // Helpers
 //
 /**
+ * @param {SketchDirectory} plugins
+ */
+function checkRequiredFields(plugins) {
+  const fields = ["title", "description", "author", "homepage"]
+  for (const plugin of plugins) {
+    for (const field of fields) {
+      if (typeof plugin[field] === "string") {
+        continue
+      }
+      throw new Error(
+        "Field " + field + " not found in\n" + JSON.stringify(plugin, null, 2),
+      )
+    }
+  }
+}
+
+/**
  * @returns {Promise<SketchDirectory>}
  */
 
