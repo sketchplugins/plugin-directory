@@ -30,6 +30,10 @@ async function main() {
 //
 // Helpers
 //
+/**
+ * @param {SketchPlugin[]} plugins
+ * @returns {Promise<SketchPlugin[]>}
+ */
 async function revise(plugins) {
   return plugins
 }
