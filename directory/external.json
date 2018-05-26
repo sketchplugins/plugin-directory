@@ -193,87 +193,104 @@
     "title": "Foreign Ipsum",
     "description": "Generate text for your mockups in multiple languages 🗺",
     "author": "Braxton Huff",
+    "homepage": "https://github.com/3raxton/ForeignIpsum",
     "lastUpdated": "2017-06-08 21:19:04 UTC"
   },
   {
     "title": "Ace Jump",
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
     "author": "Andrey Shakhmin",
+    "homepage": "https://github.com/turbobabr/sketch-ace-jump",
     "lastUpdated": "2017-05-29 07:06:46 UTC"
   },
   {
     "title": "Sync",
     "description": "Use Google Sheets to sync typography across your team.",
     "author": "Stanford Rosenthal",
+    "homepage": "https://github.com/nolastan/sync.sketchplugin",
     "lastUpdated": "2017-05-02 16:37:55 UTC"
   },
   {
     "title": "SketchingOn",
     "description": "Quickly select and share work in progress with your team via WorkingOn.",
     "homepage": "https://www.workingon.co",
+    "author": "SketchingOn",
     "lastUpdated": "2017-05-07 01:22:47 UTC"
   },
   {
     "title": "Sketch Plugins",
     "description": "Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.",
     "author": "Josh Wayne",
+    "homepage": "https://github.com/joshwayne/jw-sketch-plugins",
     "lastUpdated": "2016-10-01 00:28:00 UTC"
   },
   {
     "title": "Day Player",
     "description": "A collection of Sketch Plugins for creating placeholder images.",
     "author": "Tyler Gaw",
+    "homepage": "https://github.com/tylergaw/day-player",
     "lastUpdated": "2017-06-26 18:15:46 UTC"
   },
   {
     "title": "Sketch Aspect Ratio",
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
     "author": "precious design studio",
+    "homepage": "https://github.com/preciousforever/sketch-aspect-ratio",
     "lastUpdated": "2017-01-13 13:43:56 UTC"
   },
   {
     "title": "Swap Elements",
     "description": "Sketch plugin to swap positions of two elements.",
+    "author": "interacthings",
+    "homepage": "https://github.com/interacthings/swap-elements",
     "lastUpdated": "2017-12-03 18:11:55 UTC"
   },
   {
     "title": "Charts",
     "description": "Quickly insert charts into Sketch.",
     "author": "Stanford Rosenthal",
+    "homepage": "https://github.com/nolastan/charts.sketchplugin",
     "lastUpdated": "2015-10-26 01:09:04 UTC"
   },
   {
     "title": "Select All Slices",
     "description": "Sketch app plugin to select all slices in current page.",
     "author": "Takao Chiba",
+    "homepage": "https://github.com/chibatching/select_all_slices",
     "lastUpdated": "2016-08-10 02:26:37 UTC"
   },
   {
     "title": "Pseudol10n",
     "description": "Sketch plugin to pseudolocalize text layers",
     "author": "Arie Aulia Nugraha",
+    "homepage": "https://github.com/arieare/Sketch-Pseudol10n",
     "lastUpdated": "2016-03-30 03:33:25 UTC"
   },
   {
+    "title": "QuickColor",
     "description": "Sketch plugin that lets you quickly apply colors from the color palette to selected elements- 🎨",
     "author": "Cole Perkins",
+    "homepage": "https://github.com/colesperks/QuickColor",
     "lastUpdated": "2018-02-19 04:07:46 UTC"
   },
   {
     "title": "SketchTape",
     "description": "Connect two shapes in Sketch app.",
     "author": "Roger Jungemann",
+    "homepage": "https://github.com/rjungemann/SketchTape.sketchplugin",
     "lastUpdated": "2016-10-16 10:29:57 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
     "description": "ImageOptim plugin for the Sketch app",
     "author": "ImageOptim",
+    "homepage": "https://github.com/ImageOptim/Sketch-plugin",
     "lastUpdated": "2017-11-06 11:10:09 UTC"
   },
   {
     "title": "emmet-sketch",
     "description": "Sketch Plugin to use emmet in Sketch",
+    "author": "Aaron Reisman",
     "homepage": "https://github.com/lifeiscontent/emmet-sketch",
     "appcast": "https://raw.githubusercontent.com/lifeiscontent/emmet-sketch/master/.appcast.xml",
     "lastUpdated": "2017-10-12 16:22:47 UTC"
@@ -281,6 +298,7 @@
   {
     "title": "gif.me",
     "description": "Add GIFs and videos to your Sketch files",
+    "author": "gif.me",
     "homepage": "http://www.sketchgif.me/",
     "lastUpdated": "2017-11-01 07:54:12 UTC"
   },
@@ -309,6 +327,7 @@
     "title": "Sketch Split Shape",
     "description": "Sketch plugin to split up a rectangle evenly by a user generated value",
     "author": "kupe517",
+    "homepage": "https://github.com/kupe517/sketch-split-shape",
     "lastUpdated": "2018-05-01 16:45:20 UTC"
   },
   {
