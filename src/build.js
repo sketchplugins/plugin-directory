@@ -59,27 +59,27 @@ function checkRequiredFields(plugins) {
  */
 async function getGithubPlugins() {
   try {
-  const plugins = []
-  const repos = (await readFile("directory/github.txt", "utf8"))
-    .trim()
-    .split("\n")
-  let i = 0
-  for (const repo of repos) {
-    i++
-    const parts = repo.split("/")
-    if (parts.length !== 2) {
-      continue
-    }
-    const [owner, name] = parts
+    const plugins = []
+    const repos = (await readFile("directory/github.txt", "utf8"))
+      .trim()
+      .split("\n")
+    let i = 0
+    for (const repo of repos) {
+      i++
+      const parts = repo.split("/")
+      if (parts.length !== 2) {
+        continue
+      }
+      const [owner, name] = parts
 
-    try {
-      const plugin = await getGithubPlugin(owner, name, i, repos.length)
-      plugins.push(plugin)
-    } catch (e) {
-      console.log("Warning", e instanceof Error ? e.message : e || "")
+      try {
+        const plugin = await getGithubPlugin(owner, name, i, repos.length)
+        plugins.push(plugin)
+      } catch (e) {
+        console.log("Warning", e instanceof Error ? e.message : e || "")
+      }
     }
-  }
-  return plugins
+    return plugins
   } catch {
     throw new Error("Error occurred while reading GitHub plugins")
   }
