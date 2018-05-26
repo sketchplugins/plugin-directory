@@ -225,7 +225,7 @@ async function getExternalPlugins() {
  */
 async function savePlugins(plugins) {
   try {
-    await writeFile("plugins.json", JSON.stringify(plugins))
+    await writeFile("plugins.json", JSON.stringify(plugins, null, 2))
   } catch {
     throw new Error("Error occurred while saving plugins")
   }
