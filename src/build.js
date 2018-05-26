@@ -1,5 +1,5 @@
 const { readFile, writeFile, readdir, stat } = require("fs").promises
-const exec = require("util").promisify(require("child_process").exec)
+const execFile = require("util").promisify(require("child_process").execFile)
 
 main()
 
@@ -144,8 +144,10 @@ async function getGithubPlugin(owner, name, i, length) {
   // update lastUpdated
   let lastUpdated
   try {
-    const cmd = "git log -1 --format=%cd --date=unix"
-    lastUpdated = unixToUTC((await exec(cmd, { cwd: target })).stdout)
+    const args = "log -1 --format=%cd --date=unix".split(" ")
+    lastUpdated = unixToUTC(
+      (await execFile("git", args, { cwd: target })).stdout,
+    )
   } catch {
     throw new Error("Can't compute lastUpdated field")
   }
