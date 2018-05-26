@@ -14,7 +14,7 @@ For plugins hosted on GitHub [edit github.txt](edit/master/directory/github.txt)
 
 ## Directory in JSON
 
-Up to date directory in JSON format can be found in [plugins.json file](plugins.json) with schema described in [index.d.ts](index.d.ts).
+Up to date directory in JSON format can be found in [plugins.json](plugins.json) with schema described in [index.d.ts](index.d.ts).
 
 ## Directory
 
