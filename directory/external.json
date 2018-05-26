@@ -139,5 +139,212 @@
     "author": "Google",
     "homepage": "https://material.io/tools/theme-editor",
     "lastUpdated": "2018-05-08 21:00:00 UTC"
+  },
+  {
+    "title": "Protowire",
+    "description": "Adds prototyping to Sketch including transitions between screens and layer animation.",
+    "author": "Mark Horgan",
+    "homepage": "https://protowire.com",
+    "lastUpdated": "2018-02-05 10:27:00 UTC"
+  },
+  {
+    "title": "Shutterstock",
+    "description": "Access Shutterstock's stunning images without leaving your workspace.",
+    "author": "Shutterstock, Inc.",
+    "homepage": "https://www.shutterstock.com/special/sketchplugin",
+    "lastUpdated": "2018-01-19 16:09:47 UTC"
+  },
+  {
+    "title": "Storyboard Export",
+    "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
+    "author": "Crank Software Inc.",
+    "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
+    "lastUpdated": "2017-12-18 19:30:13 UTC"
+  },
+  {
+    "title": "SketchCleaner",
+    "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
+    "author": "Yummygum",
+    "homepage": "http://www.sketchcleaner.com/",
+    "lastUpdated": "2017-12-05 10:10:40 UTC"
+  },
+  {
+    "title": "Loose!",
+    "description": "Turn your lines into arrows",
+    "author": "Trev Wolf",
+    "homepage": "https://github.com/teeerevor/loose-sketch-plugin",
+    "lastUpdated": "2017-10-25 11:01:00 UTC"
+  },
+  {
+    "title": "Font Buddy",
+    "description": "Install missing fonts & free fonts directly from Sketch.",
+    "author": "Anima Team",
+    "homepage": "https://github.com/AnimaApp/FontBuddy",
+    "lastUpdated": "2017-10-09 20:10:00 UTC"
+  },
+  {
+    "title": "zeroheight",
+    "description": "Organise and share your design libraries using folders and get a living styleguide for free",
+    "author": "zeroheight",
+    "homepage": "https://zeroheight.com",
+    "lastUpdated": "2017-06-04 20:26:41 UTC"
+  },
+  {
+    "title": "Foreign Ipsum",
+    "description": "Generate text for your mockups in multiple languages 🗺",
+    "author": "Braxton Huff",
+    "lastUpdated": "2017-06-08 21:19:04 UTC"
+  },
+  {
+    "title": "Ace Jump",
+    "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
+    "author": "Andrey Shakhmin",
+    "lastUpdated": "2017-05-29 07:06:46 UTC"
+  },
+  {
+    "title": "Sync",
+    "description": "Use Google Sheets to sync typography across your team.",
+    "author": "Stanford Rosenthal",
+    "lastUpdated": "2017-05-02 16:37:55 UTC"
+  },
+  {
+    "title": "SketchingOn",
+    "description": "Quickly select and share work in progress with your team via WorkingOn.",
+    "homepage": "https://www.workingon.co",
+    "lastUpdated": "2017-05-07 01:22:47 UTC"
+  },
+  {
+    "title": "Sketch Plugins",
+    "description": "Josh Wayne's plugins for Sketch. So far, it includes two very interesting commands for working with text layers.",
+    "author": "Josh Wayne",
+    "lastUpdated": "2016-10-01 00:28:00 UTC"
+  },
+  {
+    "title": "Day Player",
+    "description": "A collection of Sketch Plugins for creating placeholder images.",
+    "author": "Tyler Gaw",
+    "lastUpdated": "2017-06-26 18:15:46 UTC"
+  },
+  {
+    "title": "Sketch Aspect Ratio",
+    "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
+    "author": "precious design studio",
+    "lastUpdated": "2017-01-13 13:43:56 UTC"
+  },
+  {
+    "title": "Swap Elements",
+    "description": "Sketch plugin to swap positions of two elements.",
+    "lastUpdated": "2017-12-03 18:11:55 UTC"
+  },
+  {
+    "title": "Charts",
+    "description": "Quickly insert charts into Sketch.",
+    "author": "Stanford Rosenthal",
+    "lastUpdated": "2015-10-26 01:09:04 UTC"
+  },
+  {
+    "title": "Select All Slices",
+    "description": "Sketch app plugin to select all slices in current page.",
+    "author": "Takao Chiba",
+    "lastUpdated": "2016-08-10 02:26:37 UTC"
+  },
+  {
+    "title": "Pseudol10n",
+    "description": "Sketch plugin to pseudolocalize text layers",
+    "author": "Arie Aulia Nugraha",
+    "lastUpdated": "2016-03-30 03:33:25 UTC"
+  },
+  {
+    "description": "Sketch plugin that lets you quickly apply colors from the color palette to selected elements- 🎨",
+    "author": "Cole Perkins",
+    "lastUpdated": "2018-02-19 04:07:46 UTC"
+  },
+  {
+    "title": "SketchTape",
+    "description": "Connect two shapes in Sketch app.",
+    "author": "Roger Jungemann",
+    "lastUpdated": "2016-10-16 10:29:57 UTC"
+  },
+  {
+    "title": "ImageOptim Sketch Plugin",
+    "description": "ImageOptim plugin for the Sketch app",
+    "author": "ImageOptim",
+    "lastUpdated": "2017-11-06 11:10:09 UTC"
+  },
+  {
+    "title": "emmet-sketch",
+    "description": "Sketch Plugin to use emmet in Sketch",
+    "homepage": "https://github.com/lifeiscontent/emmet-sketch",
+    "appcast": "https://raw.githubusercontent.com/lifeiscontent/emmet-sketch/master/.appcast.xml",
+    "lastUpdated": "2017-10-12 16:22:47 UTC"
+  },
+  {
+    "title": "gif.me",
+    "description": "Add GIFs and videos to your Sketch files",
+    "homepage": "http://www.sketchgif.me/",
+    "lastUpdated": "2017-11-01 07:54:12 UTC"
+  },
+  {
+    "title": "Caravel",
+    "description": "Export your artboards directly to Caravel projects.",
+    "author": "CaravelDesign",
+    "homepage": "https://github.com/CaravelDesign/caravel.sketchplugin",
+    "lastUpdated": "2017-12-05 15:48:00 UTC",
+    "appcast": "https://github.com/CaravelDesign/caravel.sketchplugin/master/appcast.xml"
+  },
+  {
+    "title": "FontRapid",
+    "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
+    "author": "FontRapid Team",
+    "homepage": "https://fontrapid.com",
+    "lastUpdated": "2018-1-12 12:00:00 UTC"
+  },
+  {
+    "title": "Handy Menu",
+    "description": "Gives quick access to your plugins through context menu",
+    "author": "Sergey Dmitriev",
+    "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin"
+  },
+  {
+    "title": "Sketch Split Shape",
+    "description": "Sketch plugin to split up a rectangle evenly by a user generated value",
+    "author": "kupe517",
+    "lastUpdated": "2018-05-01 16:45:20 UTC"
+  },
+  {
+    "title": "SnipSnap",
+    "description": "Remove extra padding on multiple layers or artboards with ease.",
+    "author": "Wes Craig",
+    "homepage": "https://github.com/wescraig/SnipSnap",
+    "lastUpdated": "2018-02-28 03:55:00 UTC"
+  },
+  {
+    "title": "Transpose",
+    "description": "Transpose your selection and set pixel margins between elements.",
+    "author": "Wes Craig",
+    "homepage": "https://github.com/wescraig/Transpose",
+    "lastUpdated": "2018-02-28 03:55:00 UTC"
+  },
+  {
+    "title": "Auto PDF Exporter nSlicer",
+    "description": "A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.",
+    "author": "KhY",
+    "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
+    "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
+    "lastUpdated": "2018-03-31 10:10:40 UTC"
+  },
+  {
+    "title": "Bonsai Standards",
+    "description": "Update all the colors in an artboard to the latest Bonsai colors.",
+    "author": "Hui Zheng",
+    "homepage": "https://github.com/thechinesekid/bonsai-plugin",
+    "lastUpdated": "2018-04-25 00:00:00 UTC"
+  },
+  {
+    "title": "Pixel Perfect",
+    "description": "Plugin for Sketch for handling layout and sizing of layers automatically based on their names.",
+    "author": "Mattias Eriksson",
+    "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
+    "lastUpdated": "2018-04-29 00:00:00 UTC"
   }
 ]

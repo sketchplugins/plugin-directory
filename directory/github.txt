@@ -3,16 +3,10 @@ symdesign/sketch-auto-translate
 lucaorio/sketch-reverse
 wix-incubator/sketch-symbol-legend
 sureskumar/Sketch-Isometric
-markhorgan/protowire
-Shutterstock/Shutterstock
 konki-vienna/sketch-bootstrap-helpers
-cranksoftwaredev/SketchPlugins
-Yummygum/SketchCleaner
 mjkaufer/smudge
 udi-gindi/sendTo
 indigostudio/indigo-sketch-plugin
-Trev Wolft/Loose!
-AnimaApp/Font Buddy
 sureskumar/Sketch-Play
 LaloMrtnz/Chain
 awkward/Alembic
@@ -28,12 +22,9 @@ AnimaApp/Launchpad
 ediathome/WordCloud
 petterheterjag/chromatic-sketch
 stark-contrast/stark-sketch-plugin
-zeroheight/zeroheight-sketch-plugin
-3raxton/foreignipsum
 Volorf/Gridy
 sureskumar/Looper
 LeonardPauli/LayerRenamer
-turbobabr/sketch-ace-jump
 turbobabr/sketch-wanderer
 mludowise/sketch-html-export
 markhorgan/click-thru-prototype
@@ -46,7 +37,6 @@ onmyway133/sketch-action
 herrhelms/radial-lines-sketch
 herrhelms/even-guides-sketch
 herrhelms/social-artboards-sketch
-nolastan/sync.sketchplugin
 FreakLand/sketch-browser-preview
 goodpatch/Prott-Sketch-Plugin
 einancunlu/Checkpoints-Plugin-for-Sketch
@@ -55,7 +45,6 @@ einancunlu/Disconnect-for-Sketch
 einancunlu/Sketch-State-Switch-Master
 thetylerwolf/sketch-data-studio
 einancunlu/Sketch-iOS-Bar-Color-Calculator
-WorkingOn/SketchingOn
 sebj/Cover-Artboard
 sebj/Invert-Background-Color
 sebj/Remove-Fills-and-Borders
@@ -64,14 +53,12 @@ sebj/Select-By-Name
 sebj/Setup-Iconset-Artboards
 marcisme/sketch-preview
 bomberstudios/sketch-commands
-joshwayne/jw-sketch-plugins
 rodi01/RenameIt
 hrescak/Sketch-Layer-Tools
 utom/sketch-measure
 timuric/Content-generator-sketch-plugin
 alssndro/sandros-sketch-plugins
 mattmcmanus/select-group-layers-sketch-plugin
-tylergaw/day-player
 littlebusters/JSON-to-Layers
 littlebusters/Regexp-Rename
 littlebusters/Sketch-CSS-Sprite-Mixin
@@ -119,18 +106,14 @@ abynim/userflows
 frankko/UtilityBelt
 preciousforever/sketch-bounding-boxer
 preciousforever/sketch-data-populator
-preciousforever/sketch-aspect-ratio
 kumo/sketch-tiles
 ozzik/swap-styles
-interacthings/swap-elements
 JayHoltslander/Sketch-Make-Long-Shadow
 tudou527/marketch
-nolastan/charts.sketchplugin
 tokuda109/SwitchArtboard.sketchplugin
 kodlian/IconSlate-sketchplugin
 hrescak/Sketch-Flex-Layout
 zhifengkoh/resize_artboard
-chibatching/select_all_slices
 lmwebdesign/Sketch3-ColorSwitch
 abynim/Xport
 FrancisVega/ZEN-Sketch
@@ -222,7 +205,6 @@ eachandother/SketchPlugins
 arshad/Sketch-Navigator
 jawayang/Sketch-Divider
 LaloMrtnz/Prism
-arieare/Sketch-Pseudol10n
 Creatide/AnimateMate
 jclappiway/sketch-to-trello
 nahitheper/SwiftColorPalette
@@ -288,7 +270,6 @@ ANGIstudio/Sketch-Keyboard-Resize
 bigxixi/Font-Packer
 work4blue/sketch-app-asset-export
 ozzik/push-and-shove
-colesperks/QuickColor
 nmwoods1/Sketch---Find-all-instances-of-symbol
 luvmex/Sketch-Guides
 mamuso/sketch-designdoc
@@ -296,7 +277,6 @@ mamuso/sketch-truncate-textlines
 pberrecloth/butter-sketch-plugin
 sonburn/symbol-instance-renamer
 tomoyukikashiro/Sketch-bootstrap-guides
-rjungemann/SketchTape.sketchplugin
 pberrecloth/rotator-sketch-plugin
 canisminor1990/sketch-select
 eaugustine/Sketch-Color-Contrast-Analyzer
@@ -366,7 +346,6 @@ MrPeak/sketch-search-everywhere
 MrPeak/sketch-show-layer-info
 akolpakov/sketch-numbering-machine
 RealtimeBoard/sketch_plugin
-ImageOptim/sketch-plugin
 roydigerhund/Images-Reinvented
 MattCowBoy/giancartboard
 stevenfabre/Gifmock-for-Sketch
@@ -390,14 +369,12 @@ lucaorio/sketch-resize
 mcansh/sketch-find-all-instances-of-symbol
 sketch-symbol-importer/sketch-symbol-importer
 Myrronth/symbol-and-artboard-organizer
-lifeiscontent/emmet-sketch
 zeroheight/library-symbol-replacer
 sonburn/symbol-instance-sheet
 sonburn/symbol-instance-locator
 sonburn/symbol-swapper
 pranusarna94/Swappr
 heytitle/latex-sketch-plugin
-the gif.me team/sketch-gifme-plugin
 danielguillan/sketch-syntax-highlighter
 sonburn/unused-style-remover
 sonburn/shared-style-finder
@@ -412,15 +389,12 @@ eddiesigner/sketch-translate-me
 zhongerxin/PinLog
 pravdomil/FixSketchTrackpadSpeed
 bryanberger/sketch-wcag
-CaravelDesign/caravel-design
 ahmedmigo/Move-to-library-sketchplugin
 AMoreaux/Sketch-Icons
-FontRapid Team/FontRapid
 ziven27/Sketch-topographic
 yusukesaitoh/sketch-select-same-symbols
 pravdomil/Sketch-Show-Bounding-Boxes
 liawesomesaucer/StyleClip
-sergeydmitriev/HandyMenu-SketchPlugin
 pavelkuligin/chart
 fhuel/DeepSelect
 PEZ/SketchSeparateShapes
@@ -428,12 +402,9 @@ FrancisVega/Sketch-Copy-Layers-Styles
 reqfire/sketch-user-flows
 DWilliames/paddy-sketch-plugin
 sigtm/sketch-style-libraries
-kupe517/sketch-split-shape
 MengTo/Angle-Sketch-Plugin
 sergeishere/HandyMenu-SketchPlugin
 jbentzen/sketch-fast-text-transfer
-wescraig/SnipSnap-Plugin
-wescraig/Transpose-Plugin
 FrancisVega/Sketch-Smart-Style-Switcher
 zcallan/sketch-bacon-ipsum
 Hito01/artboards-explorer
@@ -442,7 +413,6 @@ tankxu/SVG-Insert
 romannurik/Sketch-FlowExporter
 juliussohn/sketch-textbox-fit-content
 nichenqin/draw-and-render-sketch-plugin
-KhY/autopdfexporter
 golmakov/sketch-hyphenator
 Shopify/polaris-telescope
 pranusarna94/Perfecto-
@@ -459,10 +429,8 @@ perrysmotors/format-symbol-names
 perrysmotors/reset-image-aspect-ratio
 qruzz/InterUI-Character-Spacing
 abnamrocoesd/chromata
-Hui Zheng/Bonsai
 andex/ggradient
 yued-fe/y-tools
-Mattias Eriksson/pixelperfect
 perrysmotors/photo-grid
 romannurik/Sketch-Stickers
 futantan/sketch-style-to-react-native
