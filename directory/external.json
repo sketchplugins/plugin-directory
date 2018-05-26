@@ -10,13 +10,11 @@
     "description": "Speed up your Sketch workflow",
     "title": "Sketch Runner",
     "homepage": "http://sketchrunner.com",
-    "author": "Sketch Runner",
-    "owner": "SketchRunner"
+    "author": "Sketch Runner"
   },
   {
     "description": "A sketch plugin to support the open color file format",
     "title": "Open Color Plugin for Sketch",
-    "owner": "opencolor-tools",
     "author": "OpenColor",
     "homepage": "http://opencolor.tools/"
   },
@@ -24,14 +22,12 @@
     "description": "Automated and mathematically precise optical adjustments in Sketch.",
     "title": "Optically for Sketch",
     "author": "Vlad Danilov",
-    "owner": "vmdanilov",
     "homepage": "http://designplugins.com/optically"
   },
   {
     "title": "Atomic Sketch Plugin",
     "description": "Exports Sketch Files to Atomic",
     "author": "Atomic.io",
-    "owner": "Atomic.io",
     "homepage": "https://atomic.io/sketch",
     "lastUpdated": "2016-07-12 00:00:00 UTC"
   },
@@ -39,19 +35,16 @@
     "description": "Convert your Sketch drawings into Swift or Objective-C",
     "title": "PaintCode Code Generator",
     "author": "PixelCut",
-    "owner": "PixelCut",
     "homepage": "https://www.paintcodeapp.com/sketch",
     "downloadURL": "https://www.paintcodeapp.com/sketch",
     "lastUpdated": "2016-07-21 08:15:01 UTC"
   },
   {
-    "owner": "Smartling",
     "title": "Smartling",
     "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
     "homepage": "https://smartling.github.io/smartling-sketch-plugin/"
   },
   {
-    "owner": "lstore.graphics",
     "title": "7 Columns Calendar Creator",
     "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
     "homepage": "https://lstore.graphics/plugins/calendar/",
