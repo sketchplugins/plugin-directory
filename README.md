@@ -24,9 +24,9 @@ type SketchPlugin = {
   
   title: string, // from manifest.json
   description: string, // from manifest.json
-  appcast: string, // from manifest.json
-  homepage: string, // from manifest.json
   author: string, // from manifest.json
+  homepage: string, // from manifest.json
+  appcast: string, // from manifest.json
 }
 ```
 
