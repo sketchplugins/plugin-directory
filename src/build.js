@@ -11,6 +11,7 @@ async function main() {
 
     // 2. generate directory
     const directory = plugins
+      .sort(sortByName)
       .map(
         p => `- [${p.title}](${p.homepage}) by ${p.author}: ${p.description}`,
       )
@@ -31,6 +32,17 @@ async function main() {
 //
 async function revise(plugins) {
   return plugins
+}
+function sortByName(a, b) {
+  const nameA = a.name.toLowerCase()
+  const nameB = b.name.toLowerCase()
+  if (nameA < nameB) {
+    return -1
+  }
+  if (nameA > nameB) {
+    return 1
+  }
+  return 0
 }
 
 async function replaceDirectoryInReadme(directory) {
