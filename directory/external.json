@@ -1,0 +1,130 @@
+[
+  {
+    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
+    "title": "CanvasFlip",
+    "author": "CanvasFlip",
+    "homepage": "https://canvasflip.com/",
+    "lastUpdated": "2017-06-28 10:30:30 UTC"
+  },
+  {
+    "description": "Speed up your Sketch workflow",
+    "title": "Sketch Runner",
+    "homepage": "http://sketchrunner.com",
+    "author": "Sketch Runner",
+    "owner": "SketchRunner"
+  },
+  {
+    "description": "A sketch plugin to support the open color file format",
+    "title": "Open Color Plugin for Sketch",
+    "owner": "opencolor-tools",
+    "author": "OpenColor",
+    "homepage": "http://opencolor.tools/"
+  },
+  {
+    "description": "Automated and mathematically precise optical adjustments in Sketch.",
+    "title": "Optically for Sketch",
+    "author": "Vlad Danilov",
+    "owner": "vmdanilov",
+    "homepage": "http://designplugins.com/optically"
+  },
+  {
+    "title": "Atomic Sketch Plugin",
+    "description": "Exports Sketch Files to Atomic",
+    "author": "Atomic.io",
+    "owner": "Atomic.io",
+    "homepage": "https://atomic.io/sketch",
+    "lastUpdated": "2016-07-12 00:00:00 UTC"
+  },
+  {
+    "description": "Convert your Sketch drawings into Swift or Objective-C",
+    "title": "PaintCode Code Generator",
+    "author": "PixelCut",
+    "owner": "PixelCut",
+    "homepage": "https://www.paintcodeapp.com/sketch",
+    "downloadURL": "https://www.paintcodeapp.com/sketch",
+    "lastUpdated": "2016-07-21 08:15:01 UTC"
+  },
+  {
+    "owner": "Smartling",
+    "title": "Smartling",
+    "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
+    "homepage": "https://smartling.github.io/smartling-sketch-plugin/"
+  },
+  {
+    "owner": "lstore.graphics",
+    "title": "7 Columns Calendar Creator",
+    "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
+    "homepage": "https://lstore.graphics/plugins/calendar/",
+    "author": "lstore.graphics"
+  },
+  {
+    "title": "Avocode Sketch Plugin",
+    "description": "Sync Sketch designs to Avocode.",
+    "author": "Avocode Inc.",
+    "homepage": "https://avocode.com/download?origin=sketch",
+    "lastUpdated": "2017-10-06 10:09:55 UTC"
+  },
+  {
+    "title": "Abstract",
+    "description": "Abstract is a file management and version control tool for Sketch files",
+    "author": "Abstract",
+    "homepage": "https://www.goabstract.com/",
+    "lastUpdated": "2017-10-19 08:18:53 UTC"
+  },
+  {
+    "title": "Sympli",
+    "description": "Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode.",
+    "author": "Sympli",
+    "homepage": "https://sympli.io",
+    "lastUpdated": "2017-10-20 08:18:53 UTC"
+  },
+  {
+    "title": "I Want Apple System Font",
+    "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
+    "author": "usagimaru",
+    "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
+    "name": "i-want-apple-system-font",
+    "lastUpdated": "2017-12-23 18:39:06 UTC"
+  },
+  {
+    "title": "Clipboard to Tilled Fill",
+    "description": "Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).",
+    "author": "midiway",
+    "homepage": "https://github.com/midiway/Clipboard2TilledFill",
+    "name": "Clipboard2TilledFill",
+    "lastUpdated": "2017-12-26 18:39:06 UTC"
+  },
+  {
+    "description": "Version control for designers",
+    "title": "Plant",
+    "author": "Plant",
+    "homepage": "https://plantapp.io",
+    "lastUpdated": "2018-01-22 00:07:16 UTC"
+  },
+  {
+    "title": "Plot",
+    "description": "Collaborate with your design team in a new way",
+    "author": "Jordan Singer",
+    "homepage": "https://plotapp.co",
+    "appcast": "https://plotapp.co/appcast.xml"
+  },
+  {
+    "description": "A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.",
+    "title": "Symbols Manager",
+    "author": "Jaer Pollux",
+    "homepage": "https://gumroad.com/l/sketch-symbols-manager"
+  },
+  {
+    "description": "A fast and easy way to manage all your Text Styles. No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.",
+    "title": "Text Styles Manager",
+    "author": "Jaer Pollux",
+    "homepage": "https://gum.co/sketch-text-styles-manager"
+  },
+  {
+    "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
+    "title": "Material Plugin",
+    "author": "Google",
+    "homepage": "https://material.io/tools/theme-editor",
+    "lastUpdated": "2018-05-08 21:00:00 UTC"
+  }
+]
