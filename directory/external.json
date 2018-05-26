@@ -41,6 +41,7 @@
   {
     "title": "Smartling",
     "description": "Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.",
+    "author": "Smartling",
     "homepage": "https://smartling.github.io/smartling-sketch-plugin/"
   },
   {
