@@ -1,0 +1,9 @@
+language: node_js
+node_js: node
+script: npm run ci
+cache:
+  directories:
+    - clones
+    - node_modules
+notifications:
+  email: false
