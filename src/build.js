@@ -70,8 +70,7 @@ async function getGithubPlugins() {
     const [owner, name] = parts
 
     try {
-      console.log(i + "/" + repos.length)
-      const plugin = await getGithubPlugin(owner, name)
+      const plugin = await getGithubPlugin(owner, name, i, repos.length)
       plugins.push(plugin)
     } catch (e) {
       console.log("Warning", e instanceof Error ? e.message : e || "")
@@ -83,12 +82,14 @@ async function getGithubPlugins() {
 /**
  * @param {string} owner
  * @param {string} name
+ * @param {number} i
+ * @param {number} length
  * @returns {Promise<SketchPlugin>}
  */
-async function getGithubPlugin(owner, name) {
+async function getGithubPlugin(owner, name, i, length) {
   const url = ("https://github.com/" + owner + "/" + name).replace(/ /g, "%20")
   const target = "clones/" + owner + "/" + name
-  console.log(url)
+  console.log(i + "/" + length + " " + url)
 
   // clone
   try {
