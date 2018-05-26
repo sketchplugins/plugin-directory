@@ -1,3 +1,5 @@
+type SketchDirectory = SketchPlugin[];
+
 type SketchPlugin = {
   title: string, // from manifest.json
   description: string, // from manifest.json
@@ -9,5 +11,3 @@ type SketchPlugin = {
   name?: string, // GitHub repo name
   lastUpdated?: string, // last commit date
 };
-
-type SketchDirectory = SketchPlugin[];
