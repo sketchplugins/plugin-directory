@@ -4,14 +4,16 @@ main()
 
 async function main() {
   try {
-    // 1. revise plugins
+    // 1. get plugins
     const externalPlugins = await getExternalPlugins()
     const githubPlugins = await getGithubPlugins()
     const plugins = [...externalPlugins, ...githubPlugins]
     checkRequiredFields(plugins)
+
+    // 2. generate plugins.json
     savePlugins(plugins)
 
-    // 2. replace directory in readme
+    // 3. replace directory in readme.md
     const directory = plugins
       .sort(sortByName)
       .map(
@@ -20,7 +22,7 @@ async function main() {
       .join("\n")
     await replaceDirectoryInReadme(directory)
 
-    // 3. done
+    // 4. done
     console.log("Done")
     process.exit(0)
   } catch (e) {
