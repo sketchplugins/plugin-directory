@@ -1,3 +1,31 @@
+const { readFile, writeFile } = require("fs").promises
+
+main()
+
+async function main() {
+  try {
+    // 1. revise plugins
+    const p = await getPlugins()
+    const plugins = await revise(p)
+    savePlugins(plugins)
+
+    // 2. generate directory
+    const directory = plugins
+      .map(
+        p => `- [${p.title}](${p.homepage}) by ${p.author}: ${p.description}`,
+      )
+      .join("\n")
+    await replaceDirectoryInReadme(directory)
+
+    // 3. done
+    console.log("Done")
+    process.exit(0)
+  } catch (e) {
+    console.log(e instanceof Error ? e.message : e)
+    process.exit(1)
+  }
+}
+
 //
 // Helpers
 //
