@@ -5,7 +5,7 @@ main()
 async function main() {
   try {
     // 1. revise plugins
-    const p = await getPlugins()
+    const p = await getExternalPlugins()
     const plugins = await revise(p)
     savePlugins(plugins)
 
@@ -75,9 +75,9 @@ async function replaceDirectoryInReadme(directory) {
 /**
  * @returns {Promise<SketchPlugin[]>}
  */
-async function getPlugins() {
+async function getExternalPlugins() {
   try {
-    const result = JSON.parse(await readFile("plugins.json", "utf8"))
+    const result = JSON.parse(await readFile("directory/external.json", "utf8"))
     if (!(result instanceof Object)) {
       throw new Error()
     }
