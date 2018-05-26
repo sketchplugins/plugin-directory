@@ -5,8 +5,10 @@ main()
 async function main() {
   try {
     // 1. revise plugins
-    const p = await getExternalPlugins()
-    const plugins = await revise(p)
+    const externalPlugins = await getExternalPlugins()
+    const githubPlugins = await getGithubPlugins()
+    const plugins = [...externalPlugins, ...githubPlugins]
+    checkRequiredFields(plugins)
     savePlugins(plugins)
 
     // 2. replace directory in readme
