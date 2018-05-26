@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "ci": "bin/ci",
+    "build": "node src/build.js"
+  },
+  "devDependencies": {
+    "@types/node": "^10.1.2"
+  }
+}
