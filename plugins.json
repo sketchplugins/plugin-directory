@@ -4002,5 +4002,14 @@
     "appcast": "https://raw.githubusercontent.com/levtolstoi/Nucleus/master/.appcast.xml",
     "homepage": "https://github.com/levtolstoi/Nucleus",
     "author": "levtolstoi"
+  },
+  {
+    "title": "Overlay",
+    "description": "Description",
+    "name": "overlay-plugin",
+    "owner": "theodo",
+    "appcast": "https://raw.githubusercontent.com/theodo/overlay-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/theodo/overlay-plugin",
+    "author": "Overlay Team"
   }
 ]
