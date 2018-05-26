@@ -1,3 +1,16 @@
+async function replaceDirectoryInReadme(directory) {
+  try {
+    const readme = await readFile("README.md", "utf8")
+    const newReadme = readme.replace(
+      /(<!-- directory_start -->).*(<!-- directory_end -->)/s,
+      (string, start, end) => start + "\n" + directory + end,
+    )
+    await writeFile("README.md", newReadme)
+  } catch {
+    throw new Error("Error while replacing directory in readme")
+  }
+}
+
 /**
  * @returns {Promise<SketchPlugin[]>}
  */
