@@ -2,7 +2,7 @@
 
 # Sketch Plugin Directory
 
-List of Sketch plugins hosted at GitHub in alphabetical order
+List of Sketch plugins hosted at GitHub in last updated order
 
  
 
