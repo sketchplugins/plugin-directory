@@ -8,7 +8,10 @@ List of Sketch plugins hosted at GitHub in alphabetical order
 
 </div>
 
-**Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
+## Add your plugin
+
+Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "name": "github_name", "name": "github_repo" }` and open pull request.
+
 
 - [7 Columns Calendar Creator](https://lstore.graphics/plugins/calendar/), by lstore.graphics: An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month
 - [Abstract](https://www.goabstract.com/), by Abstract: Abstract is a file management and version control tool for Sketch files
