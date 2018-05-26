@@ -19,7 +19,6 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 ## Directory
 
 <!-- directory_start -->
-
 - [7 Columns Calendar Creator](https://lstore.graphics/plugins/calendar/), by lstore.graphics: An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month
 - [Abstract](https://www.goabstract.com/), by Abstract: Abstract is a file management and version control tool for Sketch files
 - [Ace Jump](https://github.com/turbobabr/sketch-ace-jump), by Andrey Shakhmin: Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
