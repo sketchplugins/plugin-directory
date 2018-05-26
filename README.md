@@ -12,6 +12,7 @@ List of Sketch plugins hosted at GitHub in alphabetical order
 
 Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "name": "github_name", "name": "github_repo" }` and open pull request.
 
+<!-- repo_list_start -->
 
 - [7 Columns Calendar Creator](https://lstore.graphics/plugins/calendar/), by lstore.graphics: An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month
 - [Abstract](https://www.goabstract.com/), by Abstract: Abstract is a file management and version control tool for Sketch files
@@ -886,3 +887,5 @@ Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "name": "gi
 - [Artboard presets for social media images](https://github.com/herrhelms/social-artboards-sketch), by herrhelms: This is a Plugin for Sketch App that adds artboard presets for the most common image dimensions of different social media platforms.
 - [Sketch Repeat](https://github.com/keremciu/sketch-repeat), by Kerem Sevencan: This plugin helps you easily duplicate your objects to all Artboards.
 - [Todo Sketch Plugin](https://github.com/andrewdbass/todo-sketch-plugin), by Andrew Bass: simple tool to create todo notes for your sketch file
+
+<!-- repo_list_end -->
