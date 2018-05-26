@@ -17,7 +17,7 @@ Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "owner": "g
 You can get [directory in JSON](plugins.json) with following schema:
 
 ```typescript
-type Plugin = {
+type SketchPlugin = {
   owner: string, // GitHub user name
   name: string, // GitHub repo name
   lastUpdated: string, // last commit date
