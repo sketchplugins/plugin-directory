@@ -16,7 +16,7 @@ async function main() {
 
     // 3. replace directory in readme.md
     const directory = plugins
-      .sort(sortByName)
+      .sort(sortByTitle)
       .map(
         p => `- [${p.title}](${p.homepage}) by ${p.author}: ${p.description}`,
       )
@@ -171,13 +171,13 @@ function unixToUTC(unixTimestamp) {
  * @param {SketchPlugin} b
  * @returns {number}
  */
-function sortByName(a, b) {
-  const nameA = a.name.toLowerCase()
-  const nameB = b.name.toLowerCase()
-  if (nameA < nameB) {
+function sortByTitle(a, b) {
+  const titleA = a.title.toLowerCase()
+  const titleB = b.title.toLowerCase()
+  if (titleA < titleB) {
     return -1
   }
-  if (nameA > nameB) {
+  if (titleA > titleB) {
     return 1
   }
   return 0
