@@ -10,7 +10,7 @@ List of Sketch plugins hosted at GitHub in alphabetical order
 
 ## Adding, updating, removing your plugin
 
-For plugins with `.sketchplugin` folder in source root on GitHub [edit github.txt](edit/master/directory/github.txt) otherwise [edit external.json](edit/master/directory/external.json) and open pull request.
+For plugins with `.sketchplugin` folder in source root or `src/manifest.json` on GitHub [edit github.txt](edit/master/directory/github.txt) otherwise [edit external.json](edit/master/directory/external.json) and open pull request.
 
 ## Directory in JSON
 
