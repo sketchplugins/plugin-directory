@@ -138,11 +138,11 @@ async function getGithubPlugin(owner, name) {
     owner,
     name,
 
-    title: typeof title === "string" ? title : name,
-    description: typeof description === "string" ? description : "",
-    author: typeof author === "string" ? author : owner,
-    homepage: typeof homepage === "string" ? homepage : url,
-    appcast: typeof appcast === "string" ? appcast : undefined,
+    title: isNonEmptyString(title) ? title : name,
+    description: isNonEmptyString(description) ? description : "",
+    author: isNonEmptyString(author) ? author : owner,
+    homepage: isNonEmptyString(homepage) ? homepage : url,
+    appcast: isNonEmptyString(appcast) ? appcast : undefined,
 
     lastUpdated,
   }
@@ -164,6 +164,10 @@ function unixToUTC(unixTimestamp) {
     d.getSeconds() +
     " UTC"
   )
+}
+
+function isNonEmptyString(value) {
+  return typeof value === "string" && value.length
 }
 
 /**
