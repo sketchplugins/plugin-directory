@@ -12,9 +12,9 @@ List of Sketch plugins hosted at GitHub in last updated order
 
 Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "owner": "github_name", "name": "github_repo_name" }` and open pull request.
 
-## Directory in JSON format
+## Directory in JSON
 
-You can get [directory in JSON format](plugins.json) with following schema:
+You can get [directory in JSON](plugins.json) with following schema:
 
 ```typescript
 type Plugin = {
