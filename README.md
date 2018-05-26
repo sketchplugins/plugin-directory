@@ -14,7 +14,7 @@ Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "owner": "g
 
 ## Directory
 
-You can [get directory in JSON format](plugins.json) with following schema:
+You can get [directory in JSON format](plugins.json) with following schema:
 
 ```typescript
 type Plugin = {
