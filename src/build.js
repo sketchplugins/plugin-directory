@@ -92,6 +92,7 @@ async function getGithubPlugins() {
 async function getGithubPlugin(owner, name) {
   const url = ("https://github.com/" + owner + "/" + name).replace(/ /g, "%20")
   const target = "clones/" + owner + "/" + name
+  console.log(url)
 
   // clone
   try {
