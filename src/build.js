@@ -58,6 +58,7 @@ function checkRequiredFields(plugins) {
  * @returns {Promise<SketchDirectory>}
  */
 async function getGithubPlugins() {
+  try {
   const plugins = []
   const repos = (await readFile("directory/github.txt", "utf8"))
     .trim()
@@ -79,6 +80,9 @@ async function getGithubPlugins() {
     }
   }
   return plugins
+  } catch {
+    throw new Error("Error occurred while reading GitHub plugins")
+  }
 }
 
 /**
