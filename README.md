@@ -22,7 +22,7 @@ type SketchPlugin = {
   description: string, // from manifest.json
   author: string, // from manifest.json
   homepage: string, // from manifest.json
-  appcast: string, // from manifest.json
+  appcast?: string, // from manifest.json
   
   owner?: string, // GitHub user name
   name?: string, // GitHub repo name
