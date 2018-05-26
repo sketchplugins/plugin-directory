@@ -83,7 +83,7 @@ async function getExternalPlugins() {
     }
     return result
   } catch {
-    throw new Error("Error occurred while reading plugins")
+    throw new Error("Error occurred while reading external plugins")
   }
 }
 
