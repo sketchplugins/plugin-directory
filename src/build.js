@@ -1,4 +1,5 @@
 const { readFile, writeFile } = require("fs").promises
+const exec = require("util").promisify(require("child_process").exec)
 
 main()
 
