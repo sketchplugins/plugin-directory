@@ -98,3 +98,15 @@ async function savePlugins(plugins) {
     throw new Error("Error occurred while saving plugins")
   }
 }
+
+async function spawn(...args) {
+  return new Promise((resolve, reject) => {
+    const spawnProcess = require("child_process").spawn(...args)
+    spawnProcess.on("error", error => {
+      reject(error)
+    })
+    spawnProcess.on("close", code => {
+      code ? reject() : resolve()
+    })
+  })
+}
