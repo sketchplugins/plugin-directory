@@ -170,14 +170,6 @@ function unixToUTC(unixTimestamp) {
 }
 
 /**
- * @param {SketchPlugin[]} plugins
- * @returns {Promise<SketchPlugin[]>}
- */
-async function revise(plugins) {
-  return plugins
-}
-
-/**
  * @param {SketchPlugin} a
  * @param {SketchPlugin} b
  * @returns {number}
