@@ -8,9 +8,9 @@ List of Sketch plugins hosted at GitHub in alphabetical order
 
 </div>
 
-## Add your plugin
+## Adding, updating, removing your plugin
 
-Prepend new line to [plugins.json](edit/master/plugins.json) with `{ "owner": "github_name", "name": "github_repo_name" }` and open pull request.
+For plugins hosted on GitHub [edit github.txt](edit/master/directory/github.txt) otherwise [edit external.json](edit/master/directory/external.json) and open pull request.
 
 ## Directory in JSON
 
