@@ -34,6 +34,11 @@ async function revise(plugins) {
   return plugins
 }
 
+/**
+ * @param {SketchPlugin} a
+ * @param {SketchPlugin} b
+ * @returns {number}
+ */
 function sortByName(a, b) {
   const nameA = a.name.toLowerCase()
   const nameB = b.name.toLowerCase()
@@ -46,6 +51,10 @@ function sortByName(a, b) {
   return 0
 }
 
+/**
+ * @param {string} directory
+ * @returns {Promise<void>}
+ */
 async function replaceDirectoryInReadme(directory) {
   try {
     const readme = await readFile("README.md", "utf8")
@@ -74,6 +83,10 @@ async function getPlugins() {
   }
 }
 
+/**
+ * @param {SketchPlugin[]} plugins
+ * @returns {Promise<void>}
+ */
 async function savePlugins(plugins) {
   try {
     await writeFile("plugins.json", JSON.stringify(plugins))
