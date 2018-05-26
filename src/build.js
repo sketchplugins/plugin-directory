@@ -33,6 +33,7 @@ async function main() {
 async function revise(plugins) {
   return plugins
 }
+
 function sortByName(a, b) {
   const nameA = a.name.toLowerCase()
   const nameB = b.name.toLowerCase()
