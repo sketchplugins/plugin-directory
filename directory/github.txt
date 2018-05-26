@@ -1,3 +1,5 @@
+usagimaru/Sketch-AppleSystemFont-Plugin
+midiway/Clipboard2TilledFill
 symdesign/sketch-auto-translate
 lucaorio/sketch-reverse
 Anima Team/Timeline

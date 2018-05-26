@@ -79,22 +79,6 @@
     "lastUpdated": "2017-10-20 08:18:53 UTC"
   },
   {
-    "title": "I Want Apple System Font",
-    "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
-    "author": "usagimaru",
-    "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
-    "name": "i-want-apple-system-font",
-    "lastUpdated": "2017-12-23 18:39:06 UTC"
-  },
-  {
-    "title": "Clipboard to Tilled Fill",
-    "description": "Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).",
-    "author": "midiway",
-    "homepage": "https://github.com/midiway/Clipboard2TilledFill",
-    "name": "Clipboard2TilledFill",
-    "lastUpdated": "2017-12-26 18:39:06 UTC"
-  },
-  {
     "description": "Version control for designers",
     "title": "Plant",
     "author": "Plant",
