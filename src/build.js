@@ -90,10 +90,17 @@ async function getGithubPlugins() {
  * @returns {Promise<SketchPlugin>}
  */
 async function getGithubPlugin(owner, name) {
-  // clone
   const url = ("https://github.com/" + owner + "/" + name).replace(/ /g, "%20")
-  const target = "clones/" + owner + "/" + name
-  await spawn("git", ["clone", "--depth", 1, url, target], { stdio: "inherit" })
+
+  // clone
+  try {
+    const target = "clones/" + owner + "/" + name
+    await spawn("git", ["clone", "--depth", 1, url, target], {
+      stdio: "inherit",
+    })
+  } catch {
+    throw new Error("Can't clone repository")
+  }
 
   // find Sketch plugin
   let pluginPath
