@@ -24,7 +24,6 @@ nathan5x/sketch-selectplus
 weixin/WeSketch
 sureskumar/palette-stripes
 sureskumar/super-shapes
-novemberfiveco/symbol-spacer-sketch-plugin
 mfouquet/Reselect
 Ashung/design-systems
 AnimaApp/Launchpad
@@ -209,7 +208,6 @@ lewishowles/sketch-replace-colour
 wonderbit/sketch-distribute-layers
 lewishowles/sketch-bound-with-box
 ScottSavarie/Clipboard-Fill
-mathieudutour/git-sketch-plugin
 design4use/gb-sketch-segmentcircle
 Qordobacode/qordoba-for-sketch
 nefaurk/select-parent-artboards
@@ -388,7 +386,6 @@ bunnieabc/Blender
 d4rekanguok/sketch-slicer
 terence55/sketch-map-creator
 awkward/sketch-palette-generator
-mcansh/squash-sketchplugin
 atlassian/jira-cloud-for-sketch
 Hemmingsson/Sketch-Title-Case
 lucaorio/sketch-resize

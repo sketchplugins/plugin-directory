@@ -1,5 +1,27 @@
 [
   {
+    "title": "Symbol Spacer Sketch Plugin",
+    "description": "Automatically resize spacing symbols to correct size when changing to different one",
+    "author": "Geert Wille",
+    "homepage": "https://github.com/novemberfiveco/symbol-spacer-sketch-plugin",
+    "lastUpdated": "2017-10-19 22:41:55 UTC"
+  },
+  {
+    "title": "Git Sketch Plugin",
+    "description": "A Git client generating pretty diffs built right into Sketch.",
+    "author": "Mathieu Dutour",
+    "homepage": "https://github.com/mathieudutour/git-sketch-plugin",
+    "lastUpdated": "2017-10-17 08:22:44 UTC"
+  },
+  {
+    "title": "Squash",
+    "description": "Export and optimize images with Realmac Squash",
+    "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
+    "homepage": "https://github.com/mcansh/squash-sketchplugin",
+    "appcast": "https://raw.githubusercontent.com/mcansh/squash-sketchplugin/master/.appcast.xml",
+    "lastUpdated": "2018-03-11 21:26:08 UTC"
+  },
+  {
     "title": "CanvasFlip",
     "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
     "author": "CanvasFlip",
