@@ -1,3 +1,7 @@
+async function revise(plugins) {
+  return plugins
+}
+
 async function replaceDirectoryInReadme(directory) {
   try {
     const readme = await readFile("README.md", "utf8")
