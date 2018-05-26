@@ -76,7 +76,7 @@ async function getGithubPlugins() {
       const plugin = await getGithubPlugin(owner, name)
       plugins.push(plugin)
     } catch (e) {
-      console.log("Can't get plugin", e instanceof Error ? e.message : e || "")
+      console.log(e instanceof Error ? e.message : e || "")
     } finally {
       console.log("\n\n")
     }
