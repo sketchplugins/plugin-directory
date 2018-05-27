@@ -8,7 +8,7 @@ build() {
 
         git checkout master
         git add README.md plugins.json
-        if [ "$(git status --porcelain)" != "" ]; then
+        if [ "$(git diff --cached --stat)" != "" ]; then
             git commit -m "build"
             git push "https://$GITHUB_TOKEN@github.com/$TRAVIS_REPO_SLUG.git"
         fi
