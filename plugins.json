@@ -777,9 +777,11 @@
     "lastUpdated": "2017-08-02 17:20:27 UTC"
   },
   {
-    "description": "Removes all the guides from selected artboards.",
+    "description": "Removes all guides from selected artboards.",
     "owner": "ichik",
+    "author": "Vadim Mikhnov",
     "title": "Remove All Guides",
+    "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
     "lastUpdated": "2018-05-23 13:20:38 UTC"
