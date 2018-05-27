@@ -3,7 +3,6 @@
 set -e
 
 build() {
-
     if [ "$CONTINUOUS_INTEGRATION" == "true" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
         npm run build
 
