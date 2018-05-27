@@ -1581,6 +1581,15 @@
     "lastUpdated": "2017-7-1 14:5:2 UTC"
   },
   {
+    "owner": "jessebilsten",
+    "name": "Sketch-TitleCase",
+    "title": "Title Case",
+    "description": "A plugin to change a selected text layer into Title Case",
+    "author": "Jesse Bilsten",
+    "homepage": "https://github.com/jessebilsten/Sketch-TitleCase",
+    "lastUpdated": "2018-4-27 3:46:26 UTC"
+  },
+  {
     "owner": "delighted",
     "name": "sketch-duplicate-to-new-artboard",
     "title": "Duplicate to new artboard",
@@ -2030,6 +2039,15 @@
     "author": "Ben Benhorin",
     "homepage": "https://github.com/wuwa/sketch-copy-to-all",
     "lastUpdated": "2016-8-12 11:53:58 UTC"
+  },
+  {
+    "owner": "stackdevelopment",
+    "name": "sketch-pixel-cleanup",
+    "title": "Pixel Cleanup",
+    "description": "Turn all of those pesky partial pixels into the real deal.",
+    "author": "Avery Bloom",
+    "homepage": "https://github.com/swiadek/pixel-perfecter-sketch-plugin",
+    "lastUpdated": "2018-4-26 21:59:36 UTC"
   },
   {
     "owner": "jaimeeee",

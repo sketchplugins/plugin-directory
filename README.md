@@ -221,6 +221,7 @@ Press 'cmd + 4' to show the menu.
 - [Perfecto-](https://github.com/pranusarna94/Perfecto-) by Pranu Sarna: 
 - [photo-grid](https://github.com/perrysmotors/photo-grid) by perrysmotors: 
 - [Pin Log](zhonger.xin) by Twox: Easy pin and easy Log 
+- [Pixel Cleanup](https://github.com/swiadek/pixel-perfecter-sketch-plugin) by Avery Bloom: Turn all of those pesky partial pixels into the real deal.
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect) by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Place Linked Bitmap](https://github.com/frankko/Place-Linked-Bitmap) by Frank Kolodziej: Place external bitmap files into Sketch; update Sketch layers after external bitmaps are updated.
 - [Plant](https://plantapp.io) by Plant: Version control for designers
@@ -405,6 +406,7 @@ Press 'cmd + 4' to show the menu.
 - [Texts Translation](https://github.com/laresgoiti/texts_translate) by Santi Laresgoiti Navarro: Texts translation in Sketch
 - [The Icon Fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher) by Sagi Shrieber, HackingUI.com: This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design
 - [Timeline](https://timeline.animaapp.com) by Anima Team: Create beautiful timeline animations and export GIF or MP4
+- [Title Case](https://github.com/jessebilsten/Sketch-TitleCase) by Jesse Bilsten: A plugin to change a selected text layer into Title Case
 - [Title Case](mattias.lol) by Mattias Hemmingsson: Capitalizes all words except articles, conjunctions, and prepositions for a selected text layer
 - [Todo](https://github.com/andrewdbass/Todo-Sketch-Plugin) by Andrew Bass: Keep track of Todo items all on one page
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/toggleconstrainproportions/) by Erik Gelderblom: Toggles the contrain proportions setting
