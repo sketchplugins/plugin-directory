@@ -4,9 +4,6 @@ set -e
 
 if [ "$CONTINUOUS_INTEGRATION" == "true" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     npm run build
-    
-    git config user.email ""
-    git config user.name "ci"
 
     echo "Committing..."
     git reset
