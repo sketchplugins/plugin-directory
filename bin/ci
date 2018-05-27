@@ -6,8 +6,6 @@ build() {
     if [ "$CONTINUOUS_INTEGRATION" == "true" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
         npm run build
 
-        echo "Committing..."
-        git reset
         git checkout master
         git add README.md plugins.json
         if [ "$(git status --porcelain)" != "" ]; then
