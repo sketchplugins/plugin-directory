@@ -4002,5 +4002,13 @@
     "appcast": "https://raw.githubusercontent.com/levtolstoi/Nucleus/master/.appcast.xml",
     "homepage": "https://github.com/levtolstoi/Nucleus",
     "author": "levtolstoi"
+  },
+  {
+    "title": "Assistant",
+    "description": "Talk to Sketch",
+    "author": "Jordan Singer",
+    "owner": "jordansinger",
+    "name": "Assistant",
+    "lastUpdated": "2018-05-25 20:19:46 UTC"
   }
 ]
