@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "@types/node": "^10.1.2"
+  },
+  "dependencies": {
+    "json5": "^1.0.1"
   }
 }

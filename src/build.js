@@ -1,5 +1,6 @@
 const { readFile, writeFile, readdir, stat } = require("fs").promises
 const execFile = require("util").promisify(require("child_process").execFile)
+const JSON5 = require("json5")
 
 main()
 
@@ -132,7 +133,7 @@ async function getGithubPlugin(owner, name, i, length) {
   // read manifest.json
   let manifest
   try {
-    manifest = JSON.parse(await readFile(manifestJsonPath, "utf8"))
+    manifest = JSON5.parse(await readFile(manifestJsonPath, "utf8"))
     if (!(manifest instanceof Object)) {
       throw new Error()
     }
