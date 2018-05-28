@@ -37,25 +37,6 @@ async function main() {
 // Helpers
 //
 /**
- * @param {SketchDirectory} plugins
- */
-function checkRequiredFields(plugins) {
-  for (const plugin of plugins) {
-    if (
-      isNonEmptyString(plugin.title) &&
-      typeof plugin.description === "string" &&
-      isNonEmptyString(plugin.author) &&
-      isNonEmptyString(plugin.homepage)
-    ) {
-      continue
-    }
-    throw new Error(
-      "Required fields missing in\n" + JSON.stringify(plugin, null, 2),
-    )
-  }
-}
-
-/**
  * @returns {Promise<SketchDirectory>}
  */
 async function getGithubPlugins() {
@@ -189,6 +170,25 @@ function unixToUTC(unixTimestamp) {
 
 function isNonEmptyString(value) {
   return typeof value === "string" && value.length
+}
+
+/**
+ * @param {SketchDirectory} plugins
+ */
+function checkRequiredFields(plugins) {
+  for (const plugin of plugins) {
+    if (
+      isNonEmptyString(plugin.title) &&
+      typeof plugin.description === "string" &&
+      isNonEmptyString(plugin.author) &&
+      isNonEmptyString(plugin.homepage)
+    ) {
+      continue
+    }
+    throw new Error(
+      "Required fields missing in\n" + JSON.stringify(plugin, null, 2),
+    )
+  }
 }
 
 /**
