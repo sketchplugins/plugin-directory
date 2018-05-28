@@ -147,7 +147,6 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Golden Line Height](https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin) by Lorenz Woehr: Optimize your typography based on font size, line-height and width.
 - [Grid Master](https://github.com/exevil/sketch-grid-master) by Vyacheslav Dubovitsky: Plugin that makes toggling visibility of grid and layout for multiple artboards real
 - [Groupie](https://github.com/aparajita/sketch-groupie) by Aparajita Fishman: Moves selected layers relative to the parent group.
-- [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin) by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin) by Sergey Dmitriev: Quick access to handpicked plugins through a contextual menu.
 Press 'cmd + 4' to show the menu.
 - [Handy Tools](https://github.com/webpatch/Handy-Tools) by webpatch: Some handy tools for Sketch

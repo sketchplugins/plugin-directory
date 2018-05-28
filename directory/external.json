@@ -318,12 +318,6 @@
     "lastUpdated": "2018-1-12 12:00:00 UTC"
   },
   {
-    "title": "Handy Menu",
-    "description": "Gives quick access to your plugins through context menu",
-    "author": "Sergey Dmitriev",
-    "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin"
-  },
-  {
     "title": "Sketch Split Shape",
     "description": "Sketch plugin to split up a rectangle evenly by a user generated value",
     "author": "kupe517",
