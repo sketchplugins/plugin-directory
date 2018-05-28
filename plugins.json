@@ -415,6 +415,16 @@
     "lastUpdated": "2018-4-12 7:45:26 UTC"
   },
   {
+    "owner": "konki-vienna",
+    "name": "sketch-bootstrap-helpers",
+    "title": "Bootstrap Helpers",
+    "description": "Some tools to help working with bootstrap grids",
+    "author": "Konstantin Demblin",
+    "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers/blob/master/README.md",
+    "appcast": "https://github.com/konki-vienna/sketch-bootstrap-helpers/raw/master/appcast.xml",
+    "lastUpdated": "2018-4-28 9:28:21 UTC"
+  },
+  {
     "owner": "mjkaufer",
     "name": "smudge",
     "title": "smudge",
@@ -711,7 +721,7 @@
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch",
     "appcast": "https://raw.githubusercontent.com/einancunlu/Flatten-Plugin-for-Sketch/master/Flatten.sketchplugin/Contents/Sketch/appcast",
-    "lastUpdated": "2018-4-20 18:15:41 UTC"
+    "lastUpdated": "2018-4-27 22:22:5 UTC"
   },
   {
     "owner": "einancunlu",
@@ -1186,7 +1196,7 @@
     "author": "Better Than Tomorrow",
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "appcast": "https://raw.githubusercontent.com/PEZ/SketchDistributor/master/appcast.xml",
-    "lastUpdated": "2018-1-6 15:56:16 UTC"
+    "lastUpdated": "2018-4-28 12:24:41 UTC"
   },
   {
     "owner": "BriteSnow",
@@ -2405,6 +2415,15 @@
     "lastUpdated": "2018-0-31 10:43:2 UTC"
   },
   {
+    "owner": "exevil",
+    "name": "sketch-rename-instances",
+    "title": "Rename Instances",
+    "description": "Renames every symbol instance with its master's name",
+    "author": "Vyacheslav Dubovitsky",
+    "homepage": "https://github.com/exevil/sketch-rename-instances",
+    "lastUpdated": "2018-4-27 11:0:22 UTC"
+  },
+  {
     "owner": "marcelinollano",
     "name": "sketch-review",
     "title": "Review",
@@ -2580,6 +2599,15 @@
     "author": "Amin Nassiri",
     "homepage": "https://github.com/amin-nas/Sketch-to-Clickthrough-HTML",
     "lastUpdated": "2017-8-20 22:52:0 UTC"
+  },
+  {
+    "owner": "exevil",
+    "name": "Sketch-Export-Text",
+    "title": "Export All Text",
+    "description": "Exports all text from current page",
+    "author": "exevil",
+    "homepage": "https://github.com/exevil/Sketch-Export-Text",
+    "lastUpdated": "2018-4-27 12:23:50 UTC"
   },
   {
     "owner": "philsinatra",
@@ -3141,7 +3169,7 @@
     "author": "Siddhartha Gudipati",
     "homepage": "https://github.com/websiddu/sketch-material",
     "appcast": "https://sketch-material.firebaseapp.com/static/sketch/appcast.xml",
-    "lastUpdated": "2018-2-13 17:37:8 UTC"
+    "lastUpdated": "2018-4-28 0:38:16 UTC"
   },
   {
     "owner": "mmasonlee",
@@ -3285,6 +3313,16 @@
     "author": "Drew Loomer",
     "homepage": "https://github.com/sketch-symbol-importer/sketch-symbol-importer",
     "lastUpdated": "2017-7-28 17:56:5 UTC"
+  },
+  {
+    "owner": "Myrronth",
+    "name": "symbol-and-artboard-organizer",
+    "title": "Symbol and Artboard Organizer",
+    "description": "Plugin to organize artboards and symbols",
+    "author": "Tobias Kreß",
+    "homepage": "https://github.com/Myrronth/symbol-and-artboard-organizer",
+    "appcast": "https://github.com/Myrronth/symbol-and-artboard-organizer/appcast.xml",
+    "lastUpdated": "2018-4-28 8:2:11 UTC"
   },
   {
     "owner": "zeroheight",
@@ -3843,7 +3881,7 @@
     "author": "Vladimir Ionita",
     "homepage": "https://github.com/abnamrocoesd/chromata",
     "appcast": "https://github.com/abnamrocoesd/Chromata/blob/master/.appcast.xml",
-    "lastUpdated": "2018-4-22 9:22:28 UTC"
+    "lastUpdated": "2018-4-27 12:53:13 UTC"
   },
   {
     "owner": "andex",

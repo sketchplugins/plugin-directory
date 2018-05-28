@@ -60,6 +60,7 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Bonsai Standards](https://github.com/thechinesekid/bonsai-plugin) by Hui Zheng: Update all the colors in an artboard to the latest Bonsai colors.
 - [Bookmark 🔖](https://github.com/Arkkimaagi/Bookmark) by Mikko Tapionlinna: Bookmark your place and zoom in Sketch.app
 - [Bootstrap grid](https://github.com/De-La-Vega/BootstrapGrid) by Kirenkov Vitaliy: Set bootstrap grid
+- [Bootstrap Helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers/blob/master/README.md) by Konstantin Demblin: Some tools to help working with bootstrap grids
 - [Browser Preview](https://github.com/FreakLand/sketch-browser-preview) by Jul Ceballos: Generates a preview of your current artboard and shows in your web browser.
 - [Butter](https://github.com/pberrecloth/butter-sketch-plugin) by Peter Berrecloth & David Williames: Butts layers together
 - [Button](https://github.com/kenmoore/Sketch-Relabel-Button) by Ken Moore: Relabel and automatically resize a button (or similar grouped set of layers)
@@ -120,6 +121,7 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Enumerator](http://github.com/ScottSavarie/Enumerator) by Scott Savarie: Enumerate your layer or artboard names based on their x and y position
 - [Evenly Distributed Guides](https://github.com/herrhelms/even-guides-sketch) by herrhelms: Add evenly distributed guides to any artboard
 - [Exchanger](https://github.com/littlebusters/Sketch-Exchanger) by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
+- [Export All Text](https://github.com/exevil/Sketch-Export-Text) by exevil: Exports all text from current page
 - [Export More...](https://github.com/nathco/Export-More) by Nathan Rutzky: Adds support for exporting ICNS and animated GIF file formats.
 - [Export Sizes Generator](https://github.com/devxoul/sketch-export-sizes-generator) by Suyeol Jeon: A simple plugin that generates export sizes of layers.
 - [Extract Images](https://github.com/mendyismyname/ImageExtractorSketch) by mendyismyname: Extract images from selected objects with fills
@@ -145,9 +147,9 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Golden Line Height](https://github.com/lorenzwoehr/Golden-Ratio-Line-Height-Sketch-Plugin) by Lorenz Woehr: Optimize your typography based on font size, line-height and width.
 - [Grid Master](https://github.com/exevil/sketch-grid-master) by Vyacheslav Dubovitsky: Plugin that makes toggling visibility of grid and layout for multiple artboards real
 - [Groupie](https://github.com/aparajita/sketch-groupie) by Aparajita Fishman: Moves selected layers relative to the parent group.
+- [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin) by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin) by Sergey Dmitriev: Quick access to handpicked plugins through a contextual menu.
 Press 'cmd + 4' to show the menu.
-- [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin) by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [Handy Tools](https://github.com/webpatch/Handy-Tools) by webpatch: Some handy tools for Sketch
 - [HistoryBack](https://github.com/YusukeKokubo/sketch-hback-plugin) by Yusuke Kokubo: Sketch Plugin for history back and forward.
 - [HSL Color Picker](https://github.com/Ashung/HSL_Color_Picker) by Ashung Hung: HSL Color Picker for Sketch.
@@ -248,6 +250,7 @@ Press 'cmd + 4' to show the menu.
 - [Remove All Disabled Styles](https://github.com/ErikFontanel/sketch-remove-all-disabled-styles) by Erik Gelderblom: Removes all disabled styles from the selected layers
 - [Remove Fills and Borders](https://github.com/sebj/Remove-Fills-and-Borders) by Seb Jachec: Remove a layer's fills and borders
 - [RemoveAllGuides](https://github.com/ichik/RemoveAllGuides) by ichik: 
+- [Rename Instances](https://github.com/exevil/sketch-rename-instances) by Vyacheslav Dubovitsky: Renames every symbol instance with its master's name
 - [Rename Layers](https://github.com/sebj/Rename-Layers) by Seb Jachec: Rename multiple layers at once
 - [RenameIt](http://rodi01.github.io/RenameIt/) by rodi01: 
 - [Repeat](https://github.com/keremciu/sketch-repeat) by Kerem Sevencan: Duplicate your objects to all Artboards.
@@ -391,6 +394,7 @@ Press 'cmd + 4' to show the menu.
 - [Swatches](https://github.com/Ashung/Sketch_Swatches) by Ashung Hung: Swatches for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 - [Switch Artboard](https://github.com/tokuda109/SwitchArtboard.sketchplugin) by Tsuyoshi Tokuda: Switch artboard.
 - [Switch Text Spacing](https://github.com/littlebusters/Switch-Text-Spacing) by littlebusters: Switch for Text Spacing of OpenType Features.
+- [Symbol and Artboard Organizer](https://github.com/Myrronth/symbol-and-artboard-organizer) by Tobias Kreß: Plugin to organize artboards and symbols
 - [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator) by Jason Burns: Locate all instances of a selected symbol or instance.
 - [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer) by Jason Burns: Rename symbol instances to the name of their master.
 - [Symbol Instance Sheet](https://github.com/sonburn/symbol-instance-sheet) by Jason Burns: Generate a sheet of symbol instances from your current document or a library.
