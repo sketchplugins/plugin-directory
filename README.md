@@ -50,6 +50,7 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [artboards-explorer](https://github.com/Hito01/artboards-explorer) by Hito01: 
 - [ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) by Mikko Tapionlinna: Tiny Sketch.app plugin for zooming to Artboard of currently selected object.
 - [Artwork Fetcher](http://github.com/mmth/sketch-artwork-fetcher) by Maxim Melnikov: Plugin to fetch artworks by their album or artist names
+- [Assistant](https://github.com/jordansinger/Assistant) by Paint: Talk to Sketch
 - [Atomic Sketch Plugin](https://atomic.io/sketch) by Atomic.io: Exports Sketch Files to Atomic
 - [Auto PDF Exporter nSlicer](https://github.com/Atim33/autopdfexporter-sketch-plugin/) by KhY: A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) by Ashung Hung: Make your workflow more efficient.

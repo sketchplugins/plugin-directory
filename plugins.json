@@ -361,6 +361,16 @@
     "lastUpdated": "2018-04-29 00:00:00 UTC"
   },
   {
+    "owner": "jordansinger",
+    "name": "Assistant",
+    "title": "Assistant",
+    "description": "Talk to Sketch",
+    "author": "Paint",
+    "homepage": "https://github.com/jordansinger/Assistant",
+    "appcast": "https://ai.paint.design/appcast.xml",
+    "lastUpdated": "2018-4-25 16:43:20 UTC"
+  },
+  {
     "owner": "midiway",
     "name": "Clipboard2TilledFill",
     "title": "Clipboard to Tilled Fill",

@@ -1,3 +1,4 @@
+jordansinger/Assistant
 midiway/Clipboard2TilledFill
 symdesign/sketch-auto-translate
 lucaorio/sketch-reverse
