@@ -224,7 +224,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Regexp Rename](https://github.com/littlebusters/regexp-rename), by littlebusters: You can change the layer name by Regexp in Sketch 3.
 - [Relabel Button](https://github.com/kenmoore/sketch-relabel-button), by Ken Moore: Update a button's label and it gets resized automatically, preserving existing padding.
 - [Remove all Disabled Styles](https://github.com/erikfontanel/sketch-remove-all-disabled-styles), by Erik Gelderblom: A simple plugin that removes all disabled styles from all layers in the current selection.
-- [Remove All Guides](https://github.com/ichik/removeallguides), by ichik: Remove all guides from the artboard with a shortcut.
+- [Remove All Guides](https://github.com/ichik/removeallguides), by Vadim Mikhnov: Removes all the guides from selected artboards.
 - [Remove Fills and Borders](https://github.com/sebj/remove-fills-and-borders), by Seb Jachec: Remove a layer's fills and borders in Sketch.
 - [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
 - [Rename It](http://rodi01.github.io/RenameIt/), by Rodrigo Soares: Keep your Sketch files organized, batch rename layers and artboards.
@@ -453,11 +453,12 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 ## Sorted by last update (newest on top)
 
 - [Assistant](https://github.com/jordansinger/assistant), by Jordan Singer: Talk to Sketch
+- [Remove All Guides](https://github.com/ichik/removeallguides), by Vadim Mikhnov: Removes all the guides from selected artboards.
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
 - [ColorBrightness](https://github.com/andex/colorbrightness), by Andrey Anashkin: Color Brightness sketch plugin
-- [Launchpad](https://launchpad.animaapp.com), by Anima Team: Export your Sketch design into HTML website.
-- [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Responsive design inside Sketch. Design for all screen sizes on one artboard.
 - [Timeline](https://timeline.animaapp.com), by Anima Team: Create beautiful timeline animations and export GIF or MP4
+- [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Responsive design inside Sketch. Design for all screen sizes on one artboard.
+- [Launchpad](https://launchpad.animaapp.com), by Anima Team: Export your Sketch design into HTML website.
 - [Material Plugin](https://material.io/tools/theme-editor), by Google: Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.
 - [GGradient](https://github.com/andex/ggradient), by andex: Simple way to create perfect gradient
 - [Chromata](https://github.com/abnamrocoesd/Chromata), by Vladimir Ionița: Find rogue colors
@@ -568,8 +569,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Plugin Manager 🔌](https://mludowise.github.io/Sketch-Plugin-Manager), by Mel Ludowise: Keeping your Sketch plugins up to date with the power of Git.
 - [Sketch User Flows](https://github.com/reqfire/sketch-user-flows), by reqfire: A Sketch Plug-in for importing/exporting user flow and interface definitions from Reqfire.
 - [SketchI18N](https://github.com/cute/sketchi18n), by Guangming Li : Sketch Internationalization Plugin
-- [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
+- [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [Sketch Align To Grid](https://github.com/pravdomil/sketch-align-to-grid), by Pravdomil: Let's align selection to grid
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
@@ -832,7 +833,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Upload to CloudApp](https://github.com/delighted/sketch-upload-to-cloudapp), by Delighted Inc.: Upload to CloudApp: Upload the current artboard or page to CloudApp.
 - [Sketch Browser Preview](https://github.com/freakland/sketch-browser-preview), by FreakLand: Generates a preview (⌘ + ⇧ + .) of your current artboard and shows in your web browser.
 - [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
-- [Remove All Guides](https://github.com/ichik/removeallguides), by ichik: Remove all guides from the artboard with a shortcut.
 - [Material Design Color Palette](https://github.com/t32k/material-design-color-palette), by t32k: Sketch app plugin for displaying Google material design color palette.
 - [Sketch Layer Tools](https://github.com/hrescak/sketch-layer-tools), by Matej Hrescak: A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.
 - [Move It](https://github.com/dawidw/move-it), by Dawid Woźniak: Sketch plugin that let's you move selected layers verticaly and horizontaly.
