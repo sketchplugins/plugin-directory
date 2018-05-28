@@ -103,7 +103,9 @@ async function getGithubPlugin(owner, name, i, length) {
     try {
       await spawn("git", ["pull"], { cwd: target })
     } catch {
-      await spawn("git", ["clone", "--depth", 1, url, target])
+      await spawn("git", ["clone", "--depth", 1, url, target], {
+        stdio: "inherit",
+      })
     }
   } catch {
     throw new Error("Can't clone repository")
