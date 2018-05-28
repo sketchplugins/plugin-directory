@@ -361,6 +361,15 @@
     "lastUpdated": "2018-04-29 00:00:00 UTC"
   },
   {
+    "owner": "larsenwork",
+    "name": "sketch-easing-gradient",
+    "title": "easing-gradient",
+    "description": "Supercharge your gradients in Sketch with no-linear color mix and custom color spaces",
+    "author": "@larsenwork",
+    "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
+    "lastUpdated": "2018-4-27 21:14:30 UTC"
+  },
+  {
     "owner": "jordansinger",
     "name": "Assistant",
     "title": "Assistant",
