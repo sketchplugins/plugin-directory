@@ -777,11 +777,14 @@
     "lastUpdated": "2017-08-02 17:20:27 UTC"
   },
   {
-    "description": "Remove all guides from the artboard with a shortcut.",
+    "description": "Removes all the guides from selected artboards.",
     "owner": "ichik",
+    "author": "Vadim Mikhnov",
     "title": "Remove All Guides",
     "name": "RemoveAllGuides",
-    "lastUpdated": "2017-02-11 23:41:49 UTC"
+    "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
+    "homepage": "https://github.com/ichik/removeallguides",
+    "lastUpdated": "2018-05-23 13:20:38 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -4011,5 +4014,13 @@
     "appcast": "https://raw.githubusercontent.com/larsenwork/sketch-easing-gradient/master/.appcast.xml",
     "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
     "author": "larsenwork"
+  },
+  {
+    "title": "Assistant",
+    "description": "Talk to Sketch",
+    "author": "Jordan Singer",
+    "owner": "jordansinger",
+    "name": "Assistant",
+    "lastUpdated": "2018-05-25 20:19:46 UTC"
   }
 ]
