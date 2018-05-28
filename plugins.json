@@ -361,6 +361,16 @@
     "lastUpdated": "2018-04-29 00:00:00 UTC"
   },
   {
+    "owner": "pravdomil",
+    "name": "Sketch-cats",
+    "title": "Sketch cats",
+    "description": "Render layers in Sketch as various images of cats",
+    "author": "pravdomil.com",
+    "homepage": "https://github.com/pravdomil/Sketch-cats#readme",
+    "appcast": "https://raw.githubusercontent.com/pravdomil/Sketch-cats/master/.appcast.xml",
+    "lastUpdated": "2018-4-28 13:21:34 UTC"
+  },
+  {
     "owner": "larsenwork",
     "name": "sketch-easing-gradient",
     "title": "easing-gradient",

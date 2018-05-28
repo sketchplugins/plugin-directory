@@ -339,6 +339,7 @@ Press 'cmd + 4' to show the menu.
 - [Sketch bootstrap guides](https://github.com/tomoyukikashiro/Sketch-bootstrap-guides) by Tomoyuki Kashiro: generate guides along with twitter bootstrap grid system.
 - [Sketch Bound with Box](https://github.com/lewishowles/sketch-bound-with-box) by Lewis Howles: This plugin takes the selected layer(s) and draws a rectangle around them.
 - [Sketch Bounding Boxer](https://github.com/preciousforever/sketch-bounding-boxer) by precious design studio: Toggle visibility of 'boundingBox' layers in a Sketch document
+- [Sketch cats](https://github.com/pravdomil/Sketch-cats#readme) by pravdomil.com: Render layers in Sketch as various images of cats
 - [Sketch Color Palette](https://github.com/nerd0geek1/SketchColorPalette) by Kohei Tabata: A Sketch Plugin to generate .clr(Color Palette) file from selected layers.
 - [Sketch Color Vars](https://github.com/philsinatra/Sketch-Color-Vars) by Phil Sinatra: A Sketch plugin that will export the fill color of selected layers to SCSS, LESS and CSS files.
 - [Sketch Commands](http://github.com/bomberstudios/sketch-commands) by Ale Muñoz: A collection of utilities to make working with Sketch a bit more pleasant
