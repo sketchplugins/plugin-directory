@@ -385,15 +385,15 @@ jacopocolo/p5-sketchplugin
 dploeger/sketch-plugin-units
 skpm/sketch-dev-tools
 pravdomil/sketch-align-to-grid
+pravdomil/FixSketchTrackpadSpeed
+pravdomil/Sketch-Show-Bounding-Boxes
 eddiesigner/sketch-translate-me
 zhongerxin/PinLog
-pravdomil/FixSketchTrackpadSpeed
 bryanberger/sketch-wcag
 ahmedmigo/Move-to-library-sketchplugin
 AMoreaux/Sketch-Icons
 ziven27/Sketch-topographic
 yusukesaitoh/sketch-select-same-symbols
-pravdomil/Sketch-Show-Bounding-Boxes
 liawesomesaucer/StyleClip
 pavelkuligin/chart
 fhuel/DeepSelect

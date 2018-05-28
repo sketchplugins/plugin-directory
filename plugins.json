@@ -3995,6 +3995,26 @@
     "lastUpdated": "2018-4-24 16:40:46 UTC"
   },
   {
+    "owner": "pravdomil",
+    "name": "FixSketchTrackpadSpeed",
+    "title": "Fix Trackpad Speed",
+    "description": "Sketch plugin that speeds up scrolling across all artboards",
+    "author": "pravdomil.com",
+    "homepage": "https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed#readme",
+    "appcast": "https://raw.githubusercontent.com/pravdomil/Fix-Sketch-Trackpad-Speed/master/.appcast.xml",
+    "lastUpdated": "2018-4-24 16:41:23 UTC"
+  },
+  {
+    "owner": "pravdomil",
+    "name": "Sketch-Show-Bounding-Boxes",
+    "title": "Show Bounding Boxes ",
+    "description": "Sketch plugin that shows bounding boxes of all layers",
+    "author": "pravdomil.com",
+    "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes#readme",
+    "appcast": "https://raw.githubusercontent.com/pravdomil/Sketch-Show-Bounding-Boxes/master/.appcast.xml",
+    "lastUpdated": "2018-4-24 16:41:5 UTC"
+  },
+  {
     "owner": "eddiesigner",
     "name": "sketch-translate-me",
     "title": "Translate.me",
@@ -4013,16 +4033,6 @@
     "homepage": "zhonger.xin",
     "appcast": "https://raw.githubusercontent.com/zhongerxin/PinLog/master/.appcast.xml",
     "lastUpdated": "2017-11-15 2:51:37 UTC"
-  },
-  {
-    "owner": "pravdomil",
-    "name": "FixSketchTrackpadSpeed",
-    "title": "Fix Trackpad Speed",
-    "description": "Sketch plugin that speeds up scrolling across all artboards",
-    "author": "pravdomil.com",
-    "homepage": "https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed#readme",
-    "appcast": "https://raw.githubusercontent.com/pravdomil/Fix-Sketch-Trackpad-Speed/master/.appcast.xml",
-    "lastUpdated": "2018-4-24 16:41:23 UTC"
   },
   {
     "owner": "bryanberger",
@@ -4069,16 +4079,6 @@
     "author": "Yusuke Saitoh",
     "homepage": "https://github.com/yusukesaitoh/sketch-select-same-symbols",
     "lastUpdated": "2018-0-8 4:53:49 UTC"
-  },
-  {
-    "owner": "pravdomil",
-    "name": "Sketch-Show-Bounding-Boxes",
-    "title": "Show Bounding Boxes ",
-    "description": "Sketch plugin that shows bounding boxes of all layers",
-    "author": "pravdomil.com",
-    "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes#readme",
-    "appcast": "https://raw.githubusercontent.com/pravdomil/Sketch-Show-Bounding-Boxes/master/.appcast.xml",
-    "lastUpdated": "2018-4-24 16:41:5 UTC"
   },
   {
     "owner": "liawesomesaucer",
