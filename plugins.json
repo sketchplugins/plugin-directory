@@ -4007,6 +4007,15 @@
     "author": "levtolstoi"
   },
   {
+    "title": "sketch-easing-gradients",
+    "description": "Supercharge your gradients in Sketch with no-linear color mix and custom color spaces",
+    "name": "sketch-easing-gradient",
+    "owner": "larsenwork",
+    "appcast": "https://raw.githubusercontent.com/larsenwork/sketch-easing-gradient/master/.appcast.xml",
+    "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
+    "author": "larsenwork"
+  },
+  {
     "title": "Assistant",
     "description": "Talk to Sketch",
     "author": "Jordan Singer",
