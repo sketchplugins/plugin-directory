@@ -252,7 +252,7 @@
     "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://launchpad.animaapp.com",
-    "lastUpdated": "2018-05-26 15:34:59 UTC"
+    "lastUpdated": "2018-05-28 17:02:05 UTC"
   },
   {
     "description": "Create basic word clouds and tag clouds.",
@@ -903,7 +903,7 @@
     "author": "Delighted Inc.",
     "name": "sketch-pull-to-center",
     "title": "Pull to Center",
-    "lastUpdated": "2017-01-09 06:20:25 UTC"
+    "lastUpdated": "2018-05-22 20:58:00 UTC"
   },
   {
     "description": "Scale all in place: Resize all selected shapes or layers, in place, from center.",
@@ -934,7 +934,7 @@
     "name": "SketchDistributor",
     "author": "Peter Strömberg",
     "owner": "PEZ",
-    "lastUpdated": "2018-05-28 10:32:26 UTC"
+    "lastUpdated": "2018-05-29 05:21:50 UTC"
   },
   {
     "description": "Export a full story flow and dev spec in one shortcut.",
@@ -990,7 +990,7 @@
     "author": "precious design studio",
     "title": "Sketch Bounding Boxer",
     "name": "sketch-bounding-boxer",
-    "lastUpdated": "2018-05-26 15:46:45 UTC"
+    "lastUpdated": "2018-05-28 19:40:15 UTC"
   },
   {
     "description": "A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.",
@@ -1163,7 +1163,7 @@
     "name": "Typograph",
     "author": "Dmitry Gerasimov",
     "owner": "dezonik",
-    "lastUpdated": "2017-03-24 21:26:36 UTC"
+    "lastUpdated": "2018-05-28 11:19:18 UTC"
   },
   {
     "description": "Sketch plugin to make paths be snapped to grid.",
@@ -1212,7 +1212,7 @@
     "title": "Export for Replia",
     "author": "Kazuya Hirobe",
     "owner": "bunguu",
-    "lastUpdated": "2018-05-26 16:10:54 UTC"
+    "lastUpdated": "2018-05-30 06:11:46 UTC"
   },
   {
     "description": "State Machine is a Sketch plugin. Installing it will allow you to use ⌃⌘S to switch an active tab on a tab bar you’re designing, an active navigation section in a menu, or a page number in a pagination control.",
@@ -1319,7 +1319,7 @@
     "name": "iosViews",
     "author": "Andrew Charkin",
     "owner": "Charimon",
-    "lastUpdated": "2018-05-26 16:12:20 UTC"
+    "lastUpdated": "2018-05-30 08:13:17 UTC"
   },
   {
     "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
@@ -1581,7 +1581,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2018-05-23 12:08:48 UTC"
+    "lastUpdated": "2018-05-29 11:38:31 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1852,7 +1852,7 @@
     "title": "SwiftColorPalette",
     "owner": "nahitheper",
     "author": "nahitheper",
-    "lastUpdated": "2018-05-26 16:15:50 UTC"
+    "lastUpdated": "2018-05-30 07:01:23 UTC"
   },
   {
     "description": "Speed up your Sketch workflow",
@@ -2109,7 +2109,7 @@
     "name": "SketchI18N",
     "owner": "cute",
     "author": "Guangming Li ",
-    "lastUpdated": "2018-05-26 16:18:01 UTC"
+    "lastUpdated": "2018-05-29 07:52:16 UTC"
   },
   {
     "description": "A Sketch plugin for easy multi-language design",
@@ -2265,7 +2265,7 @@
     "title": "Sketch Markup Listify",
     "owner": "marisaroque",
     "author": "Marisa Roque",
-    "lastUpdated": "2018-05-26 16:19:48 UTC"
+    "lastUpdated": "2018-05-29 14:59:20 UTC"
   },
   {
     "description": "A latin text generator similar to Lorem Ipsum. The plugin outputs randomly ordered paragraph text with three variations. You can use a random word count, a specific word count or inject random content into an existing text blocks.",
@@ -2526,7 +2526,7 @@
     "title": "Sketch RTL",
     "owner": "devinmancuso",
     "author": "Devin Mancuso",
-    "lastUpdated": "2018-05-26 16:27:55 UTC"
+    "lastUpdated": "2018-05-28 23:37:33 UTC"
   },
   {
     "description": "Manage the prefixes of your layers, artboards or symbols",
@@ -2654,7 +2654,7 @@
     "title": "Sketch Plugin Monster",
     "owner": "PeachScript",
     "author": "Peach",
-    "lastUpdated": "2018-05-24 02:41:58 UTC"
+    "lastUpdated": "2018-05-28 16:19:45 UTC"
   },
   {
     "description": "Sketch App Plugin For Applying Random Colors To A Selection Of Objects.",
@@ -2864,7 +2864,7 @@
     "author": "Poyi",
     "owner": "poyi",
     "name": "CopyColor",
-    "lastUpdated": "2018-05-26 16:26:18 UTC"
+    "lastUpdated": "2018-05-29 17:52:22 UTC"
   },
   {
     "title": "Justinmind Sketch",
@@ -3448,7 +3448,7 @@
     "author": "Ahmed Genaidy",
     "owner": "ahmedmigo",
     "name": "Move-to-library-sketchplugin",
-    "lastUpdated": "2018-05-10 18:15:36 UTC"
+    "lastUpdated": "2018-05-28 13:39:05 UTC"
   },
   {
     "title": "I Want Apple System Font",
@@ -3750,7 +3750,7 @@
     "appcast": "https://raw.githubusercontent.com/golmakov/sketch-hyphenator/master/.appcast.xml",
     "homepage": "https://github.com/golmakov/sketch-hyphenator",
     "author": "Aleksander Golmakov",
-    "lastUpdated": "2018-05-25 04:10:10 UTC"
+    "lastUpdated": "2018-05-30 13:06:52 UTC"
   },
   {
     "title": "polaris-telescope",
@@ -3900,7 +3900,7 @@
     "appcast": "https://raw.githubusercontent.com/abnamrocoesd/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/abnamrocoesd/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2018-05-28 10:08:59 UTC"
+    "lastUpdated": "2018-05-28 12:35:31 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4019,7 +4019,7 @@
     "appcast": "https://raw.githubusercontent.com/larsenwork/sketch-easing-gradient/master/.appcast.xml",
     "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
     "author": "larsenwork",
-    "lastUpdated": "2018-05-27 19:14:36 UTC"
+    "lastUpdated": "2018-05-30 08:16:28 UTC"
   },
   {
     "title": "Assistant",
@@ -4035,7 +4035,7 @@
     "author": "pravdomil",
     "owner": "pravdomil",
     "name": "Sketch-cats",
-    "lastUpdated": "2018-05-24 15:36:50 UTC"
+    "lastUpdated": "2018-05-28 11:21:35 UTC"
   },
   {
     "title": "Overrideit Sketchplugin",
@@ -4043,6 +4043,6 @@
     "author": "Ahmed Genaidy",
     "owner": "ahmedmigo",
     "name": "overrideit-sketchplugin",
-    "lastUpdated": "2018-05-30 13:52:42 UTC"
+    "lastUpdated": "2018-05-30 12:07:24 UTC"
   }
 ]
