@@ -4036,5 +4036,13 @@
     "owner": "pravdomil",
     "name": "Sketch-cats",
     "lastUpdated": "2018-05-24 15:36:50 UTC"
+  },
+  {
+    "title": "Overrideit Sketchplugin",
+    "description": "Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features.",
+    "author": "Ahmed Genaidy",
+    "owner": "ahmedmigo",
+    "name": "overrideit-sketchplugin",
+    "lastUpdated": "2018-05-30 13:52:42 UTC"
   }
 ]
