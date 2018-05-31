@@ -383,11 +383,11 @@
   {
     "owner": "larsenwork",
     "name": "sketch-easing-gradient",
-    "title": "easing-gradient",
+    "title": "Easing Gradient",
     "description": "Supercharge your gradients in Sketch with no-linear color mix and custom color spaces",
     "author": "@larsenwork",
     "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
-    "lastUpdated": "2018-4-27 21:14:30 UTC"
+    "lastUpdated": "2018-4-30 10:16:22 UTC"
   },
   {
     "owner": "jordansinger",
@@ -603,7 +603,7 @@
     "author": "Anima App",
     "homepage": "https://www.animaapp.com",
     "appcast": "https://www.animaapp.com/timeline/appcast.xml",
-    "lastUpdated": "2018-2-20 15:14:14 UTC"
+    "lastUpdated": "2018-4-28 19:2:5 UTC"
   },
   {
     "owner": "ediathome",
@@ -837,7 +837,7 @@
     "description": "Plugin to import data from CSV to generate tables and charts. Also generate random data for charts.",
     "author": "Tyler Wolf",
     "homepage": "http://thetylerwolf.github.io/sketch-data-studio",
-    "lastUpdated": "2017-10-5 12:1:7 UTC"
+    "lastUpdated": "2018-4-30 19:34:42 UTC"
   },
   {
     "owner": "einancunlu",
@@ -1340,7 +1340,7 @@
     "author": "Better Than Tomorrow",
     "homepage": "https://github.com/PEZ/SketchDistributor",
     "appcast": "https://raw.githubusercontent.com/PEZ/SketchDistributor/master/appcast.xml",
-    "lastUpdated": "2018-4-28 12:32:17 UTC"
+    "lastUpdated": "2018-4-31 8:23:28 UTC"
   },
   {
     "owner": "BriteSnow",
@@ -1407,7 +1407,7 @@
     "description": "Toggle visibility of 'boundingBox' layers in a Sketch document",
     "author": "precious design studio",
     "homepage": "https://github.com/preciousforever/sketch-bounding-boxer",
-    "lastUpdated": "2018-3-19 21:51:54 UTC"
+    "lastUpdated": "2018-4-28 21:31:52 UTC"
   },
   {
     "owner": "preciousforever",
@@ -1626,7 +1626,7 @@
     "description": "Sketch Plugins to export selected artboard or layers for Replia",
     "author": "Kazuya Hirobe",
     "homepage": "https://github.com/bunguu/SketchExportForRepliaPlugin",
-    "lastUpdated": "2017-8-3 6:58:22 UTC"
+    "lastUpdated": "2018-4-30 8:11:45 UTC"
   },
   {
     "owner": "romashamin",
@@ -1753,7 +1753,7 @@
     "description": "A way to export ios Shapes to swift Path code",
     "author": "Charimon",
     "homepage": "https://github.com/Charimon/iosViews",
-    "lastUpdated": "2017-3-17 17:53:21 UTC"
+    "lastUpdated": "2018-4-30 10:13:16 UTC"
   },
   {
     "owner": "fhuel",
@@ -1987,7 +1987,7 @@
     "description": "Plugin to find pixel imperfect layers in your document.",
     "author": "Jakub Świadek, Vyacheslav Dubovitsky, Vincent Esche",
     "homepage": "https://github.com/swiadek/pixel-perfecter-sketch-plugin",
-    "lastUpdated": "2017-7-21 2:41:15 UTC"
+    "lastUpdated": "2018-4-30 22:18:17 UTC"
   },
   {
     "owner": "matt-curtis",
@@ -2063,7 +2063,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "appcast": "https://ashung.github.io/Automate-Sketch/appcast.xml",
-    "lastUpdated": "2018-4-23 14:1:33 UTC"
+    "lastUpdated": "2018-4-29 13:36:13 UTC"
   },
   {
     "owner": "dawidw",
@@ -2357,7 +2357,7 @@
     "description": "Sketch Plugin using export UIColor values from within Color Palette",
     "author": "Nahit Rüştü Heper",
     "homepage": "https://github.com/nahitheper/SwiftColorPalette",
-    "lastUpdated": "2016-9-18 9:32:33 UTC"
+    "lastUpdated": "2018-4-30 9:1:22 UTC"
   },
   {
     "owner": "wuwa",
@@ -2804,7 +2804,7 @@
     "author": "Marisa Roque",
     "homepage": "https://github.com/marisaroque/sketch-markup-listify",
     "appcast": "https://raw.githubusercontent.com/marisaroque/sketch-markup-listify/master/appcast.xml",
-    "lastUpdated": "2017-8-19 0:11:5 UTC"
+    "lastUpdated": "2018-4-29 16:59:18 UTC"
   },
   {
     "owner": "fliptopbox",
@@ -3095,7 +3095,7 @@
     "author": "Devin Mancuso",
     "homepage": "https://github.com/devinmancuso/sketch-rtl/#readme",
     "appcast": "https://raw.githubusercontent.com/devinmancuso/sketch-rtl/master/appcast.xml",
-    "lastUpdated": "2017-7-3 18:5:42 UTC"
+    "lastUpdated": "2018-4-29 1:37:32 UTC"
   },
   {
     "owner": "pberrecloth",
@@ -3246,7 +3246,7 @@
     "author": "PeachScript",
     "homepage": "https://github.com/PeachScript/sketch-plugin-monster",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.peachscript.pluginMonster/appcast",
-    "lastUpdated": "2018-4-24 4:38:13 UTC"
+    "lastUpdated": "2018-4-28 18:19:40 UTC"
   },
   {
     "owner": "avadhbsd",
@@ -3494,7 +3494,7 @@
     "description": "provides shortcuts to copy a layer's fill or border color as well as text color hex value.",
     "author": "Poyi Chen",
     "homepage": "https://github.com/poyi/CopyColor",
-    "lastUpdated": "2017-7-10 7:11:32 UTC"
+    "lastUpdated": "2018-4-29 19:52:21 UTC"
   },
   {
     "owner": "vconesa",
@@ -4089,7 +4089,7 @@
     "description": "Move symbols from project files to library",
     "author": "Ahmed Genaidy",
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
-    "lastUpdated": "2018-4-10 20:15:35 UTC"
+    "lastUpdated": "2018-4-28 15:39:4 UTC"
   },
   {
     "owner": "AMoreaux",
@@ -4136,7 +4136,7 @@
     "author": "Pavel Kuligin",
     "homepage": "https://github.com/pavelkuligin/chart",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.sketchapp.examples.chart/appcast",
-    "lastUpdated": "2018-4-21 16:10:10 UTC"
+    "lastUpdated": "2018-4-31 11:12:4 UTC"
   },
   {
     "owner": "fhuel",
@@ -4304,7 +4304,7 @@
     "description": "",
     "author": "golmakov",
     "homepage": "https://github.com/golmakov/sketch-hyphenator",
-    "lastUpdated": "2018-4-25 6:10:0 UTC"
+    "lastUpdated": "2018-4-31 8:59:13 UTC"
   },
   {
     "owner": "Shopify",
@@ -4444,7 +4444,7 @@
     "author": "Vladimir Ionita",
     "homepage": "https://github.com/abnamrocoesd/chromata",
     "appcast": "https://github.com/abnamrocoesd/Chromata/blob/master/.appcast.xml",
-    "lastUpdated": "2018-4-27 12:53:13 UTC"
+    "lastUpdated": "2018-4-28 14:35:29 UTC"
   },
   {
     "owner": "andex",

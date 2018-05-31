@@ -126,7 +126,7 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Dynamic Button Symbol](https://github.com/herrkris/sketch-dynamic-button-symbol) by Kristof Dreier: 
 - [DynamicButton3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5) by Fugg Fugg: DynamicButton for Sketch 3.5 and after.
 - [Each&Other - Create pages from artboards, and copy all text from page](https://github.com/eachandother/SketchPlugins) by Conor: Plugins to create a new page for each artboard in the current page. For best results, ensure that the artboards aren't wrapped in a containing master artboard.
-- [easing-gradient](https://github.com/larsenwork/sketch-easing-gradient) by @larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
+- [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient) by @larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
 - [Efficiency](https://github.com/x-raizor/Efficiency) by Andrew Shapiro, Aby Nimbalkar: Sketch app plugins for efficient text manipulation and add ranodmness to items size and positions
 - [Egmont Plugin](https://github.com/interfacemarket/Egmont-plugin) by Interface.Market: Plugin for create curvature continuity corners.
 - [emmet-sketch](https://github.com/lifeiscontent/emmet-sketch) by Aaron Reisman: Sketch Plugin to use emmet in Sketch
