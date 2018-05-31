@@ -213,10 +213,10 @@ function sortByTitle(a, b) {
 
 /**
  * @param {string} section
- * @param {string} directory
+ * @param {string} content
  * @returns {Promise<void>}
  */
-async function replaceInReadme(section, directory) {
+async function replaceInReadme(section, content) {
   try {
     const readme = await readFile("README.md", "utf8")
     const regex = new RegExp(
@@ -225,7 +225,7 @@ async function replaceInReadme(section, directory) {
     )
     const newReadme = readme.replace(
       regex,
-      (string, start, end) => start + "\n" + directory + "\n" + end,
+      (string, start, end) => start + "\n" + content + "\n" + end,
     )
     await writeFile("README.md", newReadme)
   } catch {
