@@ -12,7 +12,7 @@ async function main() {
     const plugins = [...externalPlugins, ...githubPlugins]
     checkRequiredFields(plugins)
 
-    // 2. generate plugins.json
+    // 2. save plugins into plugins.json
     savePlugins(plugins)
 
     // 3. replace directory in readme.md
