@@ -25,7 +25,7 @@ async function main() {
         p => `- [${p.title}](${p.homepage}) by ${p.author}: ${p.description}`,
       )
       .join("\n")
-    await replaceInReadme(directory)
+    await replaceInReadme("directory", directory)
 
     // 4. done
     console.log("done")
@@ -212,19 +212,24 @@ function sortByTitle(a, b) {
 }
 
 /**
+ * @param {string} section
  * @param {string} directory
  * @returns {Promise<void>}
  */
-async function replaceInReadme(directory) {
+async function replaceInReadme(section, directory) {
   try {
     const readme = await readFile("README.md", "utf8")
+    const regex = new RegExp(
+      "(<!-- " + section + "_start -->).*(<!-- " + section + "_end -->)",
+      "s",
+    )
     const newReadme = readme.replace(
-      /(<!-- directory_start -->).*(<!-- directory_end -->)/s,
+      regex,
       (string, start, end) => start + "\n" + directory + "\n" + end,
     )
     await writeFile("README.md", newReadme)
   } catch {
-    throw new Error("Error while replacing directory in readme")
+    throw new Error("Error while replacing readme")
   }
 }
 
