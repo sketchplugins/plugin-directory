@@ -7,15 +7,18 @@ main()
 async function main() {
   try {
     // 1. get plugins
+    console.log("1. collecting plugins")
     const externalPlugins = await getExternalPlugins()
     const githubPlugins = await getGithubPlugins()
     const plugins = [...externalPlugins, ...githubPlugins]
     checkRequiredFields(plugins)
 
     // 2. save plugins into plugins.json
+    console.log("2. saving " + plugins.length + " plugins into plugins.json")
     savePlugins(plugins)
 
     // 3. replace directory in readme.md
+    console.log("3. saving readme.md")
     const directory = plugins
       .sort(sortByTitle)
       .map(
