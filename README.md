@@ -240,6 +240,7 @@ Press 'cmd + 4' to show the menu.
 - [Open Color Plugin for Sketch](http://opencolor.tools/) by OpenColor: A sketch plugin to support the open color file format
 - [Optically for Sketch](http://designplugins.com/optically) by Vlad Danilov: Automated and mathematically precise optical adjustments in Sketch.
 - [Organize Symbols](http://uiuxartist.com) by Mike Mariano: Organizes symbol artboards into one row.
+- [Overrideit 🔁](https://github.com/ahmedmigo/overrideit-sketchplugin) by Ahmed Genaidy: Search in overrides, and in overrides dropdowns
 - [p5](https://github.com/jacopocolo/p5-sketchplugin) by Jacopo Colò: A plugin to run some P5.js code inside Sketch
 - [Paddy](https://github.com/DWilliames/paddy-sketch-plugin) by David Williames: Automated padding, spacing and alignment for your Sketch layers
 - [Page Numbers](https://github.com/gotomedia/Sketch-PageNumbers) by Jeffrey Chiang: Add page numbers to artboards

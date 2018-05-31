@@ -361,6 +361,16 @@
     "lastUpdated": "2018-04-29 00:00:00 UTC"
   },
   {
+    "owner": "ahmedmigo",
+    "name": "overrideit-sketchplugin",
+    "title": "Overrideit 🔁",
+    "description": "Search in overrides, and in overrides dropdowns",
+    "author": "Ahmed Genaidy",
+    "homepage": "https://github.com/ahmedmigo/overrideit-sketchplugin",
+    "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+    "lastUpdated": "2018-4-31 11:50:13 UTC"
+  },
+  {
     "owner": "pravdomil",
     "name": "Sketch-cats",
     "title": "Sketch cats",
