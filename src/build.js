@@ -80,7 +80,7 @@ async function getGithubPlugins() {
 async function getGithubPlugin(owner, name, i, length) {
   const url = ("https://github.com/" + owner + "/" + name).replace(/ /g, "%20")
   const target = "clones/" + owner + "/" + name
-  console.log(i + "/" + length + " " + url)
+  console.log(i + "/" + length + "\t" + url)
 
   // clone
   try {
