@@ -25,7 +25,7 @@ async function main() {
         p => `- [${p.title}](${p.homepage}) by ${p.author}: ${p.description}`,
       )
       .join("\n")
-    await replaceDirectoryInReadme(directory)
+    await replaceInReadme(directory)
 
     // 4. done
     console.log("done")
@@ -215,7 +215,7 @@ function sortByTitle(a, b) {
  * @param {string} directory
  * @returns {Promise<void>}
  */
-async function replaceDirectoryInReadme(directory) {
+async function replaceInReadme(directory) {
   try {
     const readme = await readFile("README.md", "utf8")
     const newReadme = readme.replace(
