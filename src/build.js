@@ -50,14 +50,14 @@ async function getGithubPlugins() {
       .split("\n")
     let i = 0
     for (const repo of repos) {
-      i++
-      const parts = repo.split("/")
-      if (parts.length !== 2) {
-        continue
-      }
-      const [owner, name] = parts
-
       try {
+        i++
+        const parts = repo.split("/")
+        if (parts.length !== 2) {
+          throw new Error("Can't parse repository name " + repo)
+        }
+        const [owner, name] = parts
+
         const plugin = await getGithubPlugin(owner, name, i, repos.length)
         plugins.push(plugin)
       } catch (e) {
