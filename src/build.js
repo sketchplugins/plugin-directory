@@ -36,9 +36,6 @@ async function main() {
   }
 }
 
-//
-// Helpers
-//
 /**
  * @returns {Promise<SketchDirectory>}
  */
