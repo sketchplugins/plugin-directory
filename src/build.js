@@ -31,7 +31,7 @@ async function main() {
     console.log("done")
     process.exit(0)
   } catch (e) {
-    console.log("error", e instanceof Error ? e.message : e || "")
+    console.log("error", e instanceof Error ? e.message : typeof e === "string" ? e : "😞")
     process.exit(1)
   }
 }
@@ -58,7 +58,7 @@ async function getGithubPlugins() {
         const plugin = await getGithubPlugin(owner, name, i, repos.length)
         plugins.push(plugin)
       } catch (e) {
-        console.log("warning", e instanceof Error ? e.message : e || "")
+        console.log("warning", e instanceof Error ? e.message : typeof e === "string" ? e : "😞")
       }
     }
     return plugins
