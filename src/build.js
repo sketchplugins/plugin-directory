@@ -259,6 +259,7 @@ async function savePlugins(plugins) {
 
 async function spawn(...args) {
   return new Promise((resolve, reject) => {
+    // @ts-ignore
     const spawnProcess = require("child_process").spawn(...args)
     spawnProcess.on("error", error => {
       reject(error)
