@@ -10,7 +10,7 @@ build() {
         git add README.md plugins.json
         if [ "$(git diff --cached --stat)" != "" ]; then
             git commit -m "build"
-            git push "https://$GITHUB_TOKEN@github.com/$TRAVIS_REPO_SLUG.git"
+            git push "https://$GH_TOKEN@github.com/$TRAVIS_REPO_SLUG.git"
         fi
     fi
 }
