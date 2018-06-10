@@ -4044,5 +4044,14 @@
     "owner": "ahmedmigo",
     "name": "overrideit-sketchplugin",
     "lastUpdated": "2018-05-30 12:07:24 UTC"
+  },
+  {
+    "title": "lucid",
+    "description": "color change syncing app",
+    "name": "color-changing-app-sketch",
+    "owner": "matthewfowles",
+    "appcast": "https://raw.githubusercontent.com/matthewfowles/color-changing-app-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/matthewfowles/color-changing-app-sketch",
+    "author": "Matt Fowles"
   }
 ]
