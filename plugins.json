@@ -669,6 +669,15 @@
     "lastUpdated": "2018-01-17 10:38:19 UTC"
   },
   {
+    "description": "Plugin can apply other fonts for each character type of Text Layer.",
+    "name": "Sketch-Font-Mixer",
+    "title": "Font Mixer",
+    "owner": "littlebusters",
+    "author": "littlebusters",
+    "homepage": "https://github.com/littlebusters/Sketch-Font-Mixer",
+    "lastUpdated": "2018-06-09 02:47:20 UTC"
+  },
+  {
     "description": "A Sketch plugin that lets you preview your current artboard in the Dock.",
     "owner": "fnky",
     "author": "Christian Petersen",
