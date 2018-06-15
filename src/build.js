@@ -45,20 +45,14 @@ async function main() {
 async function getGithubPlugins() {
   try {
     const plugins = []
-    const repos = (await readFile("directory/github.txt", "utf8"))
+    const urls = (await readFile("directory/git.txt", "utf8"))
       .trim()
       .split("\n")
     let i = 0
-    for (const repo of repos) {
+    for (const url of urls) {
       try {
         i++
-        const parts = repo.split("/")
-        if (parts.length !== 2) {
-          throw new Error("Can't parse repository name " + repo)
-        }
-        const [owner, name] = parts
-
-        const plugin = await getGithubPlugin(owner, name, i, repos.length)
+        const plugin = await getGitPlugin(url, i, urls.length)
         plugins.push(plugin)
       } catch (e) {
         console.log(
@@ -74,16 +68,20 @@ async function getGithubPlugins() {
 }
 
 /**
- * @param {string} owner
- * @param {string} name
+ * @param {string} url
  * @param {number} i
  * @param {number} length
  * @returns {Promise<SketchPlugin>}
  */
-async function getGithubPlugin(owner, name, i, length) {
-  const url = ("https://github.com/" + owner + "/" + name).replace(/ /g, "%20")
-  const target = "clones/" + owner + "/" + name
+async function getGitPlugin(url, i, length) {
   console.log(i + "/" + length + "\t" + url)
+
+  const [, owner, name] = url.match(/\/([^\/]+)\/([^\/]+)\.git$/)
+  if (!owner || !name) {
+    throw new Error("Can't parse repository name and owner")
+  }
+
+  const target = "clones/" + owner + "/" + name
 
   // clone
   try {
@@ -149,7 +147,9 @@ async function getGithubPlugin(owner, name, i, length) {
     title: isNonEmptyString(title) ? title : name,
     description: isNonEmptyString(description) ? description : "",
     author: isNonEmptyString(author) ? author : owner,
-    homepage: isNonEmptyString(homepage) ? homepage : url,
+    homepage: isNonEmptyString(homepage)
+      ? homepage
+      : url.replace(/\.git$/g, ""),
     appcast: isNonEmptyString(appcast) ? appcast : undefined,
 
     lastUpdated,
