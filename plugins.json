@@ -368,7 +368,7 @@
     "author": "Ahmed Genaidy",
     "homepage": "https://github.com/ahmedmigo/overrideit-sketchplugin",
     "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
-    "lastUpdated": "2018-4-31 11:50:13 UTC"
+    "lastUpdated": "2018-5-14 17:5:5 UTC"
   },
   {
     "owner": "pravdomil",
@@ -383,11 +383,11 @@
   {
     "owner": "larsenwork",
     "name": "sketch-easing-gradient",
-    "title": "Easing Gradient",
+    "title": "🌈 Easing Gradient",
     "description": "Supercharge your gradients in Sketch with no-linear color mix and custom color spaces",
     "author": "@larsenwork",
     "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
-    "lastUpdated": "2018-5-4 8:48:44 UTC"
+    "lastUpdated": "2018-5-14 22:15:48 UTC"
   },
   {
     "owner": "jordansinger",
@@ -660,9 +660,9 @@
     "title": "LayerRenamer",
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch (v.45)",
     "author": "Leonard Pauli",
-    "homepage": "https://github.com/LeonardPauli/LayerRenamer",
-    "appcast": "https://github.com/LeonardPauli/LayerRenamer/blob/master/appcast.xml?raw=true",
-    "lastUpdated": "2017-6-18 18:58:17 UTC"
+    "homepage": "https://github.com/leonardpauli/layer-renamer",
+    "appcast": "https://github.com/leonardpauli/layer-renamer/blob/master/appcast.xml?raw=true",
+    "lastUpdated": "2018-5-15 1:3:39 UTC"
   },
   {
     "owner": "turbobabr",
@@ -806,11 +806,11 @@
     "owner": "einancunlu",
     "name": "Flatten-Plugin-for-Sketch",
     "title": "Flatten",
-    "description": "Flatten single or multiple layers instantly, create shared artboard styles, keep all of them updated like a boss and boost your Sketch documents’ performance.",
+    "description": "Flatten and mirror layers without destructing and update them like a boss.",
     "author": "Emin Inanc Unlu",
     "homepage": "https://github.com/einancunlu/Flatten-Plugin-for-Sketch",
-    "appcast": "https://raw.githubusercontent.com/einancunlu/Flatten-Plugin-for-Sketch/master/Flatten.sketchplugin/Contents/Sketch/appcast",
-    "lastUpdated": "2018-4-27 22:22:5 UTC"
+    "appcast": "https://raw.githubusercontent.com/einancunlu/Flatten-Plugin-for-Sketch/master/appcast.xml",
+    "lastUpdated": "2018-5-14 23:3:28 UTC"
   },
   {
     "owner": "einancunlu",
@@ -1417,7 +1417,7 @@
     "author": "precious design studio",
     "homepage": "https://github.com/preciousforever/sketch-data-populator",
     "appcast": "https://raw.githubusercontent.com/preciousforever/sketch-data-populator/master/appcast.xml",
-    "lastUpdated": "2018-4-24 0:47:17 UTC"
+    "lastUpdated": "2018-5-11 10:44:24 UTC"
   },
   {
     "owner": "kumo",
@@ -1572,7 +1572,7 @@
     "description": "It makes good text from “horrible”. Puts quotes “outside and ‘inside’ proposals”. Puts a non-breaking spaces after one-letter words, after russian unions and in 100 % or 50 ₽. Removes spaces and divides the number on the level in $100 and €15 800. Translate m2 to m² and so on. Now coder not ashamed to paste the text from the artboard ©. It's like a 2 * 2 = 4 ± 0. — Really, wonderful plugin!",
     "author": "@dezonik",
     "homepage": "http://dezonik.com/typograph/en",
-    "lastUpdated": "2017-2-24 22:26:27 UTC"
+    "lastUpdated": "2018-5-5 16:31:6 UTC"
   },
   {
     "owner": "uetchy",
@@ -2063,7 +2063,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/Automate-Sketch",
     "appcast": "https://ashung.github.io/Automate-Sketch/appcast.xml",
-    "lastUpdated": "2018-5-1 7:40:8 UTC"
+    "lastUpdated": "2018-5-12 6:42:49 UTC"
   },
   {
     "owner": "dawidw",
@@ -2457,7 +2457,7 @@
     "description": "",
     "author": "BohemianCoding",
     "homepage": "https://github.com/BohemianCoding/svgo-compressor",
-    "lastUpdated": "2018-2-19 23:46:28 UTC"
+    "lastUpdated": "2018-5-15 0:56:21 UTC"
   },
   {
     "owner": "screenfork",
@@ -2616,7 +2616,7 @@
     "author": "@liguangming",
     "homepage": "http://liguangming.com",
     "appcast": "https://sketchi18n.github.io/appcast/appcast.xml",
-    "lastUpdated": "2018-4-25 1:57:45 UTC"
+    "lastUpdated": "2018-5-5 8:20:55 UTC"
   },
   {
     "owner": "hoai265",
@@ -2724,12 +2724,12 @@
   {
     "owner": "ErikFontanel",
     "name": "sketch-toggle-constrain-proportions",
-    "title": "Toggle Constrain Proportions",
-    "description": "Toggles the contrain proportions setting",
-    "author": "Erik Gelderblom",
-    "homepage": "https://github.com/erikfontanel/toggleconstrainproportions/",
+    "title": "sketch-toggle-constrain-proportions",
+    "description": "",
+    "author": "ErikFontanel",
+    "homepage": "https://github.com/ErikFontanel/sketch-toggle-constrain-proportions",
     "appcast": "https://raw.githubusercontent.com/ErikFontanel/sketch-toggle-constrain-proportions/master/appcast.xml",
-    "lastUpdated": "2017-6-3 20:8:12 UTC"
+    "lastUpdated": "2018-5-12 12:52:13 UTC"
   },
   {
     "owner": "jshuaf",
@@ -3160,7 +3160,7 @@
     "author": "BigXiXI",
     "homepage": "https://github.com/bigxixi/Sketch2AE",
     "appcast": "https://raw.githubusercontent.com/bigxixi/Sketch2AE/master/appcast.xml",
-    "lastUpdated": "2018-2-15 7:55:37 UTC"
+    "lastUpdated": "2018-5-5 12:7:5 UTC"
   },
   {
     "owner": "Ashung",
@@ -3170,7 +3170,7 @@
     "author": "Ashung Hung",
     "homepage": "https://github.com/Ashung/Sketch_Swatches",
     "appcast": "https://ashung.github.io/Sketch_Swatches/appcast.xml",
-    "lastUpdated": "2018-4-10 6:2:13 UTC"
+    "lastUpdated": "2018-5-9 17:8:56 UTC"
   },
   {
     "owner": "YusukeKokubo",
@@ -3294,7 +3294,7 @@
     "author": "Interface.Market",
     "homepage": "https://github.com/interfacemarket/Egmont-plugin",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/appcast",
-    "lastUpdated": "2017-9-14 20:47:58 UTC"
+    "lastUpdated": "2018-5-12 22:0:34 UTC"
   },
   {
     "owner": "DWilliames",
@@ -3439,7 +3439,7 @@
     "author": "Ale Muñoz",
     "homepage": "https://github.com/bomberstudios/Cleanup-Useless-Groups",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.example.sketch.d2c66cff-a235-44dd-854e-2a7497e32c1b/appcast",
-    "lastUpdated": "2017-7-24 18:56:59 UTC"
+    "lastUpdated": "2018-5-12 10:58:22 UTC"
   },
   {
     "owner": "FrancisVega",
@@ -3982,7 +3982,7 @@
     "author": "Aparajita Fishman",
     "homepage": "https://github.com/aparajita/sketch-style-master",
     "appcast": "https://raw.githubusercontent.com/aparajita/sketch-style-master/master/appcast.xml",
-    "lastUpdated": "2018-4-23 17:22:22 UTC"
+    "lastUpdated": "2018-5-10 22:23:39 UTC"
   },
   {
     "owner": "aparajita",
@@ -4051,7 +4051,7 @@
     "author": "pravdomil.com",
     "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes#readme",
     "appcast": "https://raw.githubusercontent.com/pravdomil/Sketch-Show-Bounding-Boxes/master/.appcast.xml",
-    "lastUpdated": "2018-4-24 16:41:5 UTC"
+    "lastUpdated": "2018-5-6 14:55:6 UTC"
   },
   {
     "owner": "eddiesigner",
@@ -4089,7 +4089,8 @@
     "description": "Move symbols from project files to library",
     "author": "Ahmed Genaidy",
     "homepage": "https://github.com/ahmedmigo/Move-to-library-sketchplugin",
-    "lastUpdated": "2018-4-28 15:39:4 UTC"
+    "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+    "lastUpdated": "2018-5-14 14:30:8 UTC"
   },
   {
     "owner": "AMoreaux",
@@ -4136,7 +4137,7 @@
     "author": "Pavel Kuligin",
     "homepage": "https://github.com/pavelkuligin/chart",
     "appcast": "https://api.sketchpacks.com/v1/plugins/com.sketchapp.examples.chart/appcast",
-    "lastUpdated": "2018-4-31 11:12:4 UTC"
+    "lastUpdated": "2018-5-6 15:56:4 UTC"
   },
   {
     "owner": "fhuel",
@@ -4268,7 +4269,7 @@
     "description": "Insert SVG code as a Layer",
     "author": "tankxu",
     "homepage": "https://github.com/tankxu/SVG-Insert",
-    "lastUpdated": "2018-2-9 14:26:0 UTC"
+    "lastUpdated": "2018-5-6 9:57:16 UTC"
   },
   {
     "owner": "romannurik",
@@ -4481,7 +4482,7 @@
     "description": "",
     "author": "romannurik",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
-    "lastUpdated": "2018-4-21 5:18:26 UTC"
+    "lastUpdated": "2018-5-12 4:50:47 UTC"
   },
   {
     "owner": "futantan",
@@ -4526,6 +4527,6 @@
     "description": "Plugin for create Atomic Design concept in Sketch and export with a scss-map for front-end",
     "author": "Ivan Belkov",
     "homepage": "https://github.com/levtolstoi/Nucleus",
-    "lastUpdated": "2018-4-25 12:9:45 UTC"
+    "lastUpdated": "2018-5-14 9:26:2 UTC"
   }
 ]

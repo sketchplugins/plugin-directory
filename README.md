@@ -126,7 +126,6 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Dynamic Button Symbol](https://github.com/herrkris/sketch-dynamic-button-symbol) by Kristof Dreier: 
 - [DynamicButton3.5](https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5) by Fugg Fugg: DynamicButton for Sketch 3.5 and after.
 - [Each&Other - Create pages from artboards, and copy all text from page](https://github.com/eachandother/SketchPlugins) by Conor: Plugins to create a new page for each artboard in the current page. For best results, ensure that the artboards aren't wrapped in a containing master artboard.
-- [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient) by @larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
 - [Efficiency](https://github.com/x-raizor/Efficiency) by Andrew Shapiro, Aby Nimbalkar: Sketch app plugins for efficient text manipulation and add ranodmness to items size and positions
 - [Egmont Plugin](https://github.com/interfacemarket/Egmont-plugin) by Interface.Market: Plugin for create curvature continuity corners.
 - [emmet-sketch](https://github.com/lifeiscontent/emmet-sketch) by Aaron Reisman: Sketch Plugin to use emmet in Sketch
@@ -144,7 +143,7 @@ Up to date directory in JSON format can be found in [plugins.json](plugins.json)
 - [Find and Replace](https://github.com/thierryc/Sketch-Find-And-Replace/) by Martin Steven and Thierry Charbonnel: A robust tool for changing text within layers and symbol overrides.
 - [Fitter](https://github.com/pberrecloth/fitter-sketch-plugin) by Peter Berrecloth: Resizes the selected layer to cover its containing artboard
 - [Fix Trackpad Speed](https://github.com/pravdomil/Fix-Sketch-Trackpad-Speed#readme) by pravdomil.com: Sketch plugin that speeds up scrolling across all artboards
-- [Flatten](https://github.com/einancunlu/Flatten-Plugin-for-Sketch) by Emin Inanc Unlu: Flatten single or multiple layers instantly, create shared artboard styles, keep all of them updated like a boss and boost your Sketch documents’ performance.
+- [Flatten](https://github.com/einancunlu/Flatten-Plugin-for-Sketch) by Emin Inanc Unlu: Flatten and mirror layers without destructing and update them like a boss.
 - [Flowmate - Task](http://github.com/wodory/flowmate) by Sanghun, Woo: Draw flowchart rapidly
 - [Font Buddy](https://github.com/AnimaApp/FontBuddy) by Anima Team: Install missing fonts & free fonts directly from Sketch.
 - [Font Finder](https://github.com/ukn530/FontFinder) by Tatsuya Uchida: Plugin to find and select fonts used in a current page
@@ -199,7 +198,7 @@ Press 'cmd + 4' to show the menu.
 - [latex-sketch-plugin](https://github.com/heytitle/latex-sketch-plugin) by heytitle: 
 - [Layer Comps](https://github.com/ozgurgunes/Sketch-Layer-Comps) by Ozgur Gunes: A plugin which saves and applies layer states to create different compositions of current page.
 - [Layer Tools](https://github.com/hrescak/Sketch-Layer-Tools) by Matej Hrescak: Various Sketch commands to make work with layers easier
-- [LayerRenamer](https://github.com/LeonardPauli/LayerRenamer) by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45)
+- [LayerRenamer](https://github.com/leonardpauli/layer-renamer) by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45)
 - [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer) by zeroheight team: replace local symbols with library symbols
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher) by Tobi Kremer: Find and insert logos in SVG/PNG-format from various sources
 - [Logodrop](https://iconscout.com) by Iconscout: Get all brand logos right into Sketch App
@@ -401,6 +400,7 @@ Press 'cmd + 4' to show the menu.
 - [sketch-style-to-react-native](https://github.com/futantan/sketch-style-to-react-native) by futantan: 
 - [sketch-textbox-fit-content](https://github.com/juliussohn/sketch-textbox-fit-content) by juliussohn: 
 - [Sketch-to-trello](http://appiway.com) by Appiway: Export Sketch Artboard to Trello
+- [sketch-toggle-constrain-proportions](https://github.com/ErikFontanel/sketch-toggle-constrain-proportions) by ErikFontanel: 
 - [sketch-wanderer](https://github.com/turbobabr/sketch-wanderer) by turbobabr: 
 - [sketch-wcag](https://github.com/bryanberger/sketch-wcag) by @bryanberger: Test your color palette against the WCAG 2.0 guidelines.
 - [sketch2vd](https://github.com/alexjlockwood/sketch2vd) by alexjlockwood: 
@@ -472,7 +472,6 @@ Press 'cmd + 4' to show the menu.
 - [Title Case](https://github.com/jessebilsten/Sketch-TitleCase) by Jesse Bilsten: A plugin to change a selected text layer into Title Case
 - [Title Case](mattias.lol) by Mattias Hemmingsson: Capitalizes all words except articles, conjunctions, and prepositions for a selected text layer
 - [Todo](https://github.com/andrewdbass/Todo-Sketch-Plugin) by Andrew Bass: Keep track of Todo items all on one page
-- [Toggle Constrain Proportions](https://github.com/erikfontanel/toggleconstrainproportions/) by Erik Gelderblom: Toggles the contrain proportions setting
 - [Toggle-NoPrint-Visibility-Sketch-Plugin](https://github.com/sudilkovsky/Toggle-NoPrint-Visibility-Sketch-Plugin) by Denis Susilkovsky: 
 - [Translate.me](https://github.com/eddiesigner/sketch-translate-me) by Craftbot: Plugin to translate Sketch files in any language
 - [Translation](https://github.com/hoai265/Language-Sketch-Plugin) by Hoai Nguyen: A Sketch plugin for easy multi-language design.
@@ -504,6 +503,7 @@ Press 'cmd + 4' to show the menu.
 - [⚓️ Sketch SelectPlus](https://github.com/nathan5x/Sketch-SelectPlus) by Sabarinathan Masilmani: SelectPlus offers a dedicated engine to select layers of different types, including Shape types (Rectangles, Polygon, Line, Oval,...).
 - [⚡️ Google Sheets content sync](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin) by David Williames: Sync content within a Google Sheets document, to text layers — based on their names
 - [中文姓名生成器](http://jjying.com) by JJ Ying: 生成中文假名
+- [🌈 Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient) by @larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
 - [🎨 Appalette](https://github.com/Carlosarturo28/Appalette) by Carlos Navarro: Find the color palette of (almost) any App.
 - [🏷 Sketch Legend](https://github.com/wix-incubator/sketch-symbol-legend) by Wix.com: a Sketch legend for symbols 
 - [🐻 Export Design Doc](https://github.com/mamuso/sketch-designdoc) by Manuel Muñoz Solera: Build a website using a bunch of conventions and the Sketch document as the structure.
