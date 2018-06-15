@@ -10,7 +10,7 @@ List of Sketch plugins in alphabetical order
 
 ## Adding, updating, removing your plugin
 
-- [edit github.txt](edit/master/directory/github.txt) if your plugin is on GitHub and `*.sketchplugin/Contents/Sketch/manifest.json` or `src/manifest.json` is present
+- [edit git.txt](edit/master/directory/git.txt) if your plugin is on GitHub or GitLab and `*.sketchplugin/Contents/Sketch/manifest.json` or `src/manifest.json` is present
 - otherwise [edit external.json](edit/master/directory/external.json)
 
 ## Directory in JSON
