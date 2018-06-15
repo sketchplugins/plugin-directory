@@ -4044,5 +4044,13 @@
     "owner": "ahmedmigo",
     "name": "overrideit-sketchplugin",
     "lastUpdated": "2018-05-30 12:07:24 UTC"
+  },
+  {
+    "title": "WeTransfer",
+    "description": "Share artboards and pages via WeTransfer",
+    "author": "WeTransfer",
+    "owner": "WeTransfer",
+    "name": "Sketch-Plugin",
+    "lastUpdated": "2018-06-13 16:20:00 UTC"
   }
 ]
