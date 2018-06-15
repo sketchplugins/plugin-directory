@@ -361,6 +361,15 @@
     "lastUpdated": "2018-04-29 00:00:00 UTC"
   },
   {
+    "owner": "wetransfer",
+    "name": "sketch-plugin",
+    "title": "WeTransfer",
+    "description": "Share artboards and pages via WeTransfer",
+    "author": "WeTransfer",
+    "homepage": "https://github.com/wetransfer/sketch-plugin",
+    "lastUpdated": "2018-5-13 17:14:55 UTC"
+  },
+  {
     "owner": "ahmedmigo",
     "name": "overrideit-sketchplugin",
     "title": "Overrideit 🔁",

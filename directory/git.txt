@@ -1,3 +1,4 @@
+https://github.com/wetransfer/sketch-plugin.git
 https://github.com/ahmedmigo/overrideit-sketchplugin.git
 https://github.com/pravdomil/Sketch-cats.git
 https://github.com/larsenwork/sketch-easing-gradient.git

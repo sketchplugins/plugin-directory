@@ -492,6 +492,7 @@ Press 'cmd + 4' to show the menu.
 - [WakaTime](https://github.com/wakatime/sketch-wakatime) by WakaTime: Time tracking and metrics automatically generated from your Sketch usage.
 - [Watch Icon](https://github.com/MaxChen/Watch-Icon) by Max Chen: A plugin that automatically resizes artwork for Apple Watch icon.
 - [Webalize Layers/Groups name.](https://github.com/vesely/webalize) by David Veselý 🤑: Convert layout or group name to url-friendly name.
+- [WeTransfer](https://github.com/wetransfer/sketch-plugin) by WeTransfer: Share artboards and pages via WeTransfer
 - [WordCloud](https://github.com/ediathome/WordCloud) by Martin Kolb: A Sketch plugin for creating word and tag clouds
 - [Xport](https://github.com/abynim/Xport) by Aby Nimbalkar: Export Sketch layers directly to Xcode.
 - [y-tools](https://github.com/yued-fe/y-tools) by yued-fe.TM: Sketch plugin tools from yued-fe.TM
