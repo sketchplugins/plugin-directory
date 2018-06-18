@@ -4053,5 +4053,13 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-unsplasher/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-unsplasher",
     "author": "Giles Perry"
+  },
+  {
+    "title": "WeTransfer",
+    "description": "Share artboards and pages via WeTransfer",
+    "author": "WeTransfer",
+    "owner": "WeTransfer",
+    "name": "Sketch-Plugin",
+    "lastUpdated": "2018-06-13 16:20:00 UTC"
   }
 ]
