@@ -4060,5 +4060,14 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch"
+  },
+  {
+    "title": "monaco-example",
+    "description": "monaco demo",
+    "name": "monaco-sketch-example",
+    "owner": "ryenbeatty",
+    "appcast": "https://raw.githubusercontent.com/ryenbeatty/monaco-sketch-example/master/.appcast.xml",
+    "homepage": "https://github.com/ryenbeatty/monaco-sketch-example",
+    "author": "Ryen"
   }
 ]
