@@ -4014,6 +4014,15 @@
     "lastUpdated": "2018-05-30 12:07:24 UTC"
   },
   {
+    "title": "Roller by Toybox",
+    "description": "Roller is the first Linter for Designers. It works just like spell-check but within your Sketch files.",
+    "name": "roller",
+    "owner": "toyboxsystems",
+    "appcast": "https://raw.githubusercontent.com/toyboxsystems/roller/master/.appcast.xml",
+    "homepage": "https://github.com/toyboxsystems/roller",
+    "author": "Jono Kolnik"
+  },
+  {
     "title": "Unsplasher",
     "description": "Fills shapes or symbols with images from Unsplash",
     "name": "sketch-unsplasher",
