@@ -4052,5 +4052,13 @@
     "owner": "WeTransfer",
     "name": "Sketch-Plugin",
     "lastUpdated": "2018-06-13 16:20:00 UTC"
+  },
+  {
+    "title": "frontify-plugin",
+    "description": "Connecting your brand and design worlds",
+    "name": "sketch",
+    "owner": "Frontify",
+    "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
+    "homepage": "https://github.com/Frontify/sketch"
   }
 ]
