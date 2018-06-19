@@ -30,6 +30,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Assistant](https://github.com/jordansinger/assistant), by Jordan Singer: Talk to Sketch
 - [Auto Layout](https://animaapp.github.io/Auto-Layout/), by Anima Team: Responsive design inside Sketch. Design for all screen sizes on one artboard.
 - [Auto PDF Exporter nSlicer](https://github.com/Atim33/autopdfexporter-sketch-plugin/), by KhY: A Sketch Plugin to auto-export all '[S]' Prefix artboards to a single pdf.
+- [AutoFixiOSTextLineHeight](https://github.com/youngxkk/AutoFixiOSTextLineHeight), by youngxkk: Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
@@ -115,7 +116,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Flow Exporter](https://github.com/romannurik/Sketch-FlowExporter), by Roman Nurik: A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.
 - [Flowmate](https://github.com/wodory/flowmate), by Sanghun Woo: Sketch Plugin to draw flowchart and diagram
 - [Fluid for Sketch](https://github.com/matt-curtis/fluid-for-sketch), by Matt Curtis: Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
-- [Font Buddy](https://github.com/AnimaApp/FontBuddy), by Anima Team: Install missing fonts & free fonts directly from Sketch.
+- [Font Buddy](https://github.com/animaapp/fontbuddy), by Anima Team: Install missing fonts & free fonts directly from Sketch.
 - [Font Mixer](https://github.com/littlebusters/Sketch-Font-Mixer), by littlebusters: Plugin can apply other fonts for each character type of Text Layer.
 - [Font Packer](https://github.com/bigxixi/font-packer), by Big XiXi: A Sketch plugin to collect font files you used in your sketch file.
 - [FontFinder](https://github.com/ukn530/fontfinder), by Tatsuya Uchida: Sketch Plugin to find and select font items in a current page
@@ -236,6 +237,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Reselect](http://www.reselect.co), by Michael Fouquet: Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).
 - [Reset Image Aspect Ratio](https://github.com/perrysmotors/reset-image-aspect-ratio), by Giles Perry: A Sketch plugin that resets the aspect ratio of selected images.
 - [Resize Commands](https://github.com/angistudio/sketch-resize-commands), by ANGI studio: A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.
+- [Roller by Toybox](https://github.com/toyboxsystems/roller), by Jono Kolnik: Roller is the first Linter for Designers. It works just like spell-check but within your Sketch files.
 - [Rotate Artboard Orientation](https://github.com/mmilano/sketch-rotate-artboards), by Michel Milano: Rotate the orientation of an artboard - from portrait to landscape, and vice versa.
 - [Rotator](https://github.com/pberrecloth/rotator-sketch-plugin), by Peter Berrecloth: Rotate objects at preset amounts
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
@@ -439,6 +441,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Unlock All Layers & Unlock Hover](https://github.com/truthlabs/sketch-unlock-all-layers), by Truth Labs: Unlock all layers on the current artboard using ⌘⌥L
 - [Unsplash It](https://github.com/fhuel/unsplash-it-sketch), by Manuele Capacci: A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
+- [Unsplasher](https://github.com/perrysmotors/sketch-unsplasher), by Giles Perry: Fills shapes or symbols with images from Unsplash
 - [Unused Style Remover](https://github.com/sonburn/unused-style-remover), by Jason Burns: Remove unused layer and text styles.
 - [Update Text Layer Name](https://github.com/creatide/sketch_update-text-layer-name), by Creatide: Sketch plugin to update Text layer names from their own text values.
 - [Upload to CloudApp](https://github.com/delighted/sketch-upload-to-cloudapp), by Delighted Inc.: Upload to CloudApp: Upload the current artboard or page to CloudApp.
@@ -464,9 +467,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Font Mixer](https://github.com/littlebusters/Sketch-Font-Mixer), by littlebusters: Plugin can apply other fonts for each character type of Text Layer.
+- [AutoFixiOSTextLineHeight](https://github.com/youngxkk/AutoFixiOSTextLineHeight), by youngxkk: Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.
 - [Align and Resize To Layout](https://github.com/kevinvbre/align-and-resize-to-layout), by Kevin: Align and resize layers to your layout in Sketch
 - [WeTransfer](https://github.com/wetransfer/sketch-plugin), by WeTransfer: Share artboards and pages via WeTransfer
+- [Font Mixer](https://github.com/littlebusters/Sketch-Font-Mixer), by littlebusters: Plugin can apply other fonts for each character type of Text Layer.
 - [sketch-hyphenator](https://github.com/golmakov/sketch-hyphenator), by Aleksander Golmakov: Sketch plugin that hyphenates text
 - [Overrideit Sketchplugin](https://github.com/ahmedmigo/overrideit-sketchplugin), by Ahmed Genaidy: Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features.
 - [sketch-easing-gradients](https://github.com/larsenwork/sketch-easing-gradient), by larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
@@ -684,8 +688,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboards Explorer](https://github.com/Hito01/artboards-explorer), by Nicolas Collard: Add utility functionnalities to Sketch's artboards
 - [Sketch Plugin Manager 🔌](https://mludowise.github.io/Sketch-Plugin-Manager), by Mel Ludowise: Keeping your Sketch plugins up to date with the power of Git.
 - [Sketch User Flows](https://github.com/reqfire/sketch-user-flows), by reqfire: A Sketch Plug-in for importing/exporting user flow and interface definitions from Reqfire.
-- [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
 - [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
+- [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [Fast Text Transfer](https://github.com/jbentzen/sketch-fast-text-transfer), by Jesper Bentzen: Lightning fast copying, pasting and swapping text.
 - [Nudge Resize](https://github.com/dwilliames/nudge-resize-sketch-plugin), by David Williames: Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts
@@ -908,5 +912,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
 - [Get Margins](https://github.com/peterwooley/get-margins), by Peter Wooley: Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.
 - [Select Child Layers](https://github.com/jshuaf/select-children), by Joshua Fang: A sketch plugin to select all the child layers of a group.
-- [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
-- [AutoFixiOSTextLineHeight](https://github.com/youngxkk/AutoFixiOSTextLineHeight), by youngxkk: Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.
