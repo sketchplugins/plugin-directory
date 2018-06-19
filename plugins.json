@@ -4022,7 +4022,7 @@
     "lastUpdated": "2018-06-13 16:20:00 UTC"
   },
   {
-    "title": "frontify-plugin",
+    "title": "Frontify Plugin",
     "description": "Connecting your brand and design worlds",
     "name": "sketch",
     "owner": "Frontify",
@@ -4036,5 +4036,11 @@
     "owner": "KevinvBre",
     "name": "Align-and-resize-to-layout",
     "lastUpdated": "2018-06-18 18:06:02 UTC"
+  },
+  {
+    "title": "Stackswell",
+    "author": "Joseph Mueller & Parth P",
+    "description": "Sketch plugin to update type and symbols based on the artboard width.",
+    "homepage": "https://stackswell.io"
   }
 ]
