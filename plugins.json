@@ -4057,6 +4057,15 @@
     "homepage": "https://github.com/Frontify/sketch"
   },
   {
+    "title": "AutoFixiOSTextLineHeight",
+    "description": "Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.",
+    "name": "AutoFixiOSTextLineHeight-Sketch-Plugin",
+    "owner": "youngxkk",
+    "homepage": "https://github.com/youngxkk/AutoFixiOSTextLineHeight",
+    "author": "youngxkk",
+    "lastUpdated": "2018-06-19 17:45:55 UTC"
+  },
+  {
     "title": "Align and Resize To Layout",
     "description": "Align and resize layers to your layout in Sketch",
     "author": "Kevin",
