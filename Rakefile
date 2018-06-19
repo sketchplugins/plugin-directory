@@ -71,6 +71,7 @@ EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
     if is_plugin_too_old? plugin
+      puts "#{plugin['name'] ? plugin['name'] : plugin['title']} is too old, maybe check lastUpdated?"
       next
     end
 
@@ -493,6 +494,40 @@ def check_for_duplicates(plugin, plugins)
     end
   end
   return -1
+end
+
+desc "Print Star Ranking"
+task :stars do
+
+  require 'octokit'
+  client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
+  json_data = get_plugins_from_json
+  json_data.each do |plugin|
+    # Only check for last push date for plugins with a repo
+    if plugin['owner'] && plugin['name']
+      plugin_url = plugin['owner'] + "/" + plugin['name']
+      begin
+        repo = client.repo(plugin_url)
+        puts "#{repo.watchers},#{titlefy(plugin['name'])}"
+        # user = client.user(plugin['owner'])
+        # puts "— Plugin was updated at #{repo.pushed_at}"
+        # plugin['lastUpdated'] = repo.pushed_at
+      rescue Exception => e
+        puts "— Repo not available for #{plugin_url}"
+      end
+
+      # if plugin['name'] == plugin['title'] && plugin['title'] == nil
+      #   puts "— Plugin title is wrong, fixing"
+      #   plugin['title'] = titlefy(plugin['name'])
+      # end
+    end
+  end
+
+  # File.open("plugins.json","w") do |f|
+  #   f.write(JSON.pretty_generate(json_data, :indent => "  "))
+  # end
+
+  
 end
 
 desc "Default: generate README.md from plugin"
