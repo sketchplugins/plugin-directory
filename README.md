@@ -918,3 +918,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
 - [Get Margins](https://github.com/peterwooley/get-margins), by Peter Wooley: Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.
 - [Select Child Layers](https://github.com/jshuaf/select-children), by Joshua Fang: A sketch plugin to select all the child layers of a group.
+- [GuideGuide](https://guideguide.me), by Cameron McEfee: Easy grids and guides in your favorite design tools
