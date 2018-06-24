@@ -3995,5 +3995,14 @@
     "author": "Joseph Mueller & Parth P",
     "description": "Sketch plugin to update type and symbols based on the artboard width.",
     "homepage": "https://stackswell.io"
+  },
+  {
+    "title": "Typesettings",
+    "description": "A quest for consistency",
+    "name": "typesettings-sketch-plugin",
+    "owner": "buames",
+    "appcast": "https://raw.githubusercontent.com/buames/typesettings-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/buames/typesettings-sketch-plugin",
+    "author": "buames"
   }
 ]
