@@ -3997,6 +3997,15 @@
     "homepage": "https://stackswell.io"
   },
   {
+    "title": "Typesettings",
+    "description": "A quest for consistency",
+    "name": "typesettings-sketch-plugin",
+    "owner": "buames",
+    "appcast": "https://raw.githubusercontent.com/buames/typesettings-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/buames/typesettings-sketch-plugin",
+    "author": "buames"
+  },
+  {
     "title": "keyColor",
     "description": "A Sketch plugin to apply colors via the keyboard.",
     "author": "Kevin Gutowski",
