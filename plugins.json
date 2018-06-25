@@ -4004,5 +4004,13 @@
     "appcast": "https://raw.githubusercontent.com/buames/typesettings-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/buames/typesettings-sketch-plugin",
     "author": "buames"
+  },
+  {
+    "title": "keyColor",
+    "description": "A Sketch plugin to apply colors via the keyboard.",
+    "author": "Kevin Gutowski",
+    "owner": "KevinGutowski",
+    "name": "keyColor",
+    "lastUpdated": "2018-06-25 06:33:30 UTC"
   }
 ]

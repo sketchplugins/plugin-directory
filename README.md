@@ -158,6 +158,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [JSON to Layers](https://github.com/littlebusters/json-to-layers), by littlebusters: Convert to Layers on Sketch from JSON (with Fireworks PNG structure).
 - [Justinmind Sketch](https://github.com/vconesa/justinmind-sketch), by Justinmind: You can export artboards, layers and pages you’ve made in Sketch to Justinmind and turn them into interactive shareable prototypes.
 - [Keyboard Resize](https://github.com/angistudio/sketch-keyboard-resize), by ANGI studio: A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.
+- [keyColor](https://github.com/kevingutowski/keycolor), by Kevin Gutowski: A Sketch plugin to apply colors via the keyboard.
 - [LaTeX Sketch Plugin](https://github.com/heytitle/latex-sketch-plugin), by heytitle: This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Export your Sketch design into HTML website.
 - [Layer Renamer](https://github.com/leonardpauli/layerrenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)
@@ -248,7 +249,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Seca](https://github.com/igenius-srl/seca), by iGenius: Your friendly Sketch slicing helper for symbols
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
-- [Select Child Layers](https://github.com/jshuaf/select-children), by Joshua Fang: A sketch plugin to select all the child layers of a group.
 - [Select Exportables](https://github.com/yargies/sketch-select-exportables), by Kenji Wellman: Select all exportable layers, slices, and artboards.
 - [Select Group Layers](https://github.com/mattmcmanus/select-group-layers-sketch-plugin), by Matt McManus: Select all child layers of a group with a key command.
 - [Select Parent Artboards](https://github.com/nefaurk/select-parent-artboards), by Nefaur Khandker: A Sketch plugin that selects the parent artboards of the current selection
@@ -468,6 +468,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [keyColor](https://github.com/kevingutowski/keycolor), by Kevin Gutowski: A Sketch plugin to apply colors via the keyboard.
 - [AutoFixiOSTextLineHeight](https://github.com/youngxkk/AutoFixiOSTextLineHeight), by youngxkk: Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.
 - [WeTransfer](https://github.com/wetransfer/sketch-plugin), by WeTransfer: Share artboards and pages via WeTransfer
 - [Overrideit Sketchplugin](https://github.com/ahmedmigo/overrideit-sketchplugin), by Ahmed Genaidy: Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features.
@@ -917,4 +918,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Align artboards and symbols](https://github.com/richardgazdik/sketch-align), by Richard Gazdik: Group and align your Sketch symbols and artboards by name.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
 - [Get Margins](https://github.com/peterwooley/get-margins), by Peter Wooley: Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.
-- [Select Child Layers](https://github.com/jshuaf/select-children), by Joshua Fang: A sketch plugin to select all the child layers of a group.
