@@ -3995,5 +3995,13 @@
     "author": "Joseph Mueller & Parth P",
     "description": "Sketch plugin to update type and symbols based on the artboard width.",
     "homepage": "https://stackswell.io"
+  },
+  {
+    "title": "keyColor",
+    "description": "A Sketch plugin to apply colors via the keyboard.",
+    "author": "Kevin Gutowski",
+    "owner": "KevinGutowski",
+    "name": "keyColor",
+    "lastUpdated": "2018-06-25 06:33:30 UTC"
   }
 ]
