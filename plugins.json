@@ -4012,6 +4012,15 @@
     "author": "Kevin Gutowski",
     "owner": "KevinGutowski",
     "name": "keyColor",
-    "lastUpdated": "2018-06-25 06:33:29 UTC"
+    "lastUpdated": "2018-06-25 06:33:30 UTC"
+  },
+  {
+    "title": "Copy as React Component (JSX)",
+    "description": "Generate a React components from Sketch with a keyboard shortcut",
+    "name": "sketch-copy-as-react-component",
+    "owner": "jasondonnette",
+    "appcast": "https://raw.githubusercontent.com/jasondonnette/sketch-copy-as-react-component/master/.appcast.xml",
+    "homepage": "https://github.com/jasondonnette/sketch-copy-as-react-component",
+    "author": "Jason Donnette"
   }
 ]
