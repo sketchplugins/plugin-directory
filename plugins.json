@@ -306,7 +306,7 @@
     "title": "Layer Renamer",
     "author": "Leonard Pauli",
     "owner": "LeonardPauli",
-    "lastUpdated": "2018-06-18 21:34:41 UTC"
+    "lastUpdated": "2018-06-23 18:25:09 UTC"
   },
   {
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
@@ -434,7 +434,7 @@
     "title": "Prott Sketch Plugin",
     "author": "Goodpatch Inc.",
     "owner": "goodpatch",
-    "lastUpdated": "2018-02-21 01:30:54 UTC"
+    "lastUpdated": "2018-06-25 08:52:20 UTC"
   },
   {
     "description": "Save important stages of your artboards in the blink of an eye, and then, move fast and break things.",
@@ -450,7 +450,7 @@
     "title": "Flatten Plugin for Sketch",
     "author": "Emin İnanç Ünlü",
     "owner": "einancunlu",
-    "lastUpdated": "2018-06-14 21:06:05 UTC"
+    "lastUpdated": "2018-06-23 22:04:57 UTC"
   },
   {
     "description": "Disconnect / unlink selection from symbols and shared styles.",
@@ -789,7 +789,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2018-05-09 21:27:22 UTC"
+    "lastUpdated": "2018-06-21 01:30:48 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -922,7 +922,7 @@
     "title": "User Flows",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2018-05-23 04:35:30 UTC"
+    "lastUpdated": "2018-06-25 04:29:28 UTC"
   },
   {
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
@@ -1483,7 +1483,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2018-06-18 12:47:49 UTC"
+    "lastUpdated": "2018-06-25 06:10:36 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3611,7 +3611,7 @@
     "appcast": "https://raw.githubusercontent.com/juliussohn/sketch-textbox-fit-content/master/.appcast.xml",
     "homepage": "https://github.com/juliussohn/sketch-textbox-fit-content",
     "author": "Julius Sohn",
-    "lastUpdated": "2018-03-21 15:40:24 UTC"
+    "lastUpdated": "2018-06-22 14:23:45 UTC"
   },
   {
     "title": "draw-and-render",
@@ -3934,7 +3934,7 @@
     "author": "Ahmed Genaidy",
     "owner": "ahmedmigo",
     "name": "overrideit-sketchplugin",
-    "lastUpdated": "2018-06-19 08:01:58 UTC"
+    "lastUpdated": "2018-06-22 16:06:13 UTC"
   },
   {
     "title": "Roller by Toybox",
@@ -3944,7 +3944,7 @@
     "appcast": "https://raw.githubusercontent.com/toyboxsystems/roller/master/.appcast.xml",
     "homepage": "https://github.com/toyboxsystems/roller",
     "author": "Jono Kolnik",
-    "lastUpdated": "2018-06-14 17:59:23 UTC"
+    "lastUpdated": "2018-06-20 18:20:41 UTC"
   },
   {
     "title": "Unsplasher",
@@ -4003,7 +4003,8 @@
     "owner": "buames",
     "appcast": "https://raw.githubusercontent.com/buames/typesettings-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/buames/typesettings-sketch-plugin",
-    "author": "buames"
+    "author": "buames",
+    "lastUpdated": "2018-06-24 22:41:20 UTC"
   },
   {
     "title": "keyColor",
@@ -4011,6 +4012,6 @@
     "author": "Kevin Gutowski",
     "owner": "KevinGutowski",
     "name": "keyColor",
-    "lastUpdated": "2018-06-25 06:33:30 UTC"
+    "lastUpdated": "2018-06-25 06:33:29 UTC"
   }
 ]
