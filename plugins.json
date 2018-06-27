@@ -306,7 +306,7 @@
     "title": "Layer Renamer",
     "author": "Leonard Pauli",
     "owner": "LeonardPauli",
-    "lastUpdated": "2018-06-23 18:25:09 UTC"
+    "lastUpdated": "2018-06-25 15:25:22 UTC"
   },
   {
     "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
@@ -3382,7 +3382,7 @@
     "appcast": "https://raw.githubusercontent.com/ziven27/Sketch-topographic/master/.appcast.xml",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
     "author": "ziven27",
-    "lastUpdated": "2018-04-04 11:04:31 UTC"
+    "lastUpdated": "2018-06-25 17:26:27 UTC"
   },
   {
     "title": "Select Same Symbols",
@@ -3846,7 +3846,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2018-06-12 02:50:52 UTC"
+    "lastUpdated": "2018-06-26 04:05:00 UTC"
   },
   {
     "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
@@ -3962,7 +3962,7 @@
     "author": "WeTransfer",
     "owner": "WeTransfer",
     "name": "Sketch-Plugin",
-    "lastUpdated": "2018-06-19 08:17:39 UTC"
+    "lastUpdated": "2018-06-26 07:31:37 UTC"
   },
   {
     "title": "Frontify Plugin",
@@ -4004,7 +4004,7 @@
     "appcast": "https://raw.githubusercontent.com/buames/typesettings-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/buames/typesettings-sketch-plugin",
     "author": "buames",
-    "lastUpdated": "2018-06-24 22:41:20 UTC"
+    "lastUpdated": "2018-06-26 06:13:52 UTC"
   },
   {
     "title": "keyColor",
@@ -4012,7 +4012,7 @@
     "author": "Kevin Gutowski",
     "owner": "KevinGutowski",
     "name": "keyColor",
-    "lastUpdated": "2018-06-25 06:33:30 UTC"
+    "lastUpdated": "2018-06-25 16:44:30 UTC"
   },
   {
     "title": "Copy as React Component (JSX)",
@@ -4021,6 +4021,7 @@
     "owner": "jasondonnette",
     "appcast": "https://raw.githubusercontent.com/jasondonnette/sketch-copy-as-react-component/master/.appcast.xml",
     "homepage": "https://github.com/jasondonnette/sketch-copy-as-react-component",
-    "author": "Jason Donnette"
+    "author": "Jason Donnette",
+    "lastUpdated": "2018-06-26 01:56:37 UTC"
   }
 ]
