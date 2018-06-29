@@ -158,7 +158,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Jira Cloud for Sketch](https://sketch.atlassian.com/), by Atlassian: Export designs, assets, and feedback to Jira Cloud.
 - [JSON to Layers](https://github.com/littlebusters/json-to-layers), by littlebusters: Convert to Layers on Sketch from JSON (with Fireworks PNG structure).
 - [Justinmind Sketch](https://github.com/vconesa/justinmind-sketch), by Justinmind: You can export artboards, layers and pages you’ve made in Sketch to Justinmind and turn them into interactive shareable prototypes.
-- [Kitchen](https://github.com/ant-design/kitchen), by AntDesign: Make your design work delicious 🍽.
+- [Kitchen](https://github.com/ant-design/kitchen), by Ant-Design: Make your design work delicious 🍽.
 - [Keyboard Resize](https://github.com/angistudio/sketch-keyboard-resize), by ANGI studio: A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.
 - [keyColor](https://github.com/kevingutowski/keycolor), by Kevin Gutowski: A Sketch plugin to apply colors via the keyboard.
 - [LaTeX Sketch Plugin](https://github.com/heytitle/latex-sketch-plugin), by heytitle: This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas
