@@ -4038,5 +4038,13 @@
     "owner": "ant-design",
     "name": "kitchen",
     "lastUpdated": "2018-07-02 02:01:18 UTC"
+  },
+  {
+    "title": "Emoji Autocomplete Sketch Plugin",
+    "description": "While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒",
+    "author": "Zeplin",
+    "owner": "zeplin",
+    "name": "emoji-autocomplete-sketch-plugin",
+    "lastUpdated": "2018-07-10 13:57:02 UTC"
   }
 ]
