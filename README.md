@@ -467,7 +467,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Zoom Alert](https://github.com/nathco/zoom-alert), by Nathan Rutzky: Sketch.app plugin for showing zoom notifications
 - [⚓️ Sketch - SelectPlus](https://github.com/nathan5x/sketch-selectplus), by Sabarinathan Masilamani: Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
-
+- [IconScope](https://github.com/ziven27/Sketch-IconScope), by ziven27: Wrap the Icon with a square(4n) scope.
 
 ## Sorted by last update (newest on top)
 
@@ -924,3 +924,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Remove all Disabled Styles](https://github.com/erikfontanel/sketch-remove-all-disabled-styles), by Erik Gelderblom: A simple plugin that removes all disabled styles from all layers in the current selection.
 - [Align artboards and symbols](https://github.com/richardgazdik/sketch-align), by Richard Gazdik: Group and align your Sketch symbols and artboards by name.
 - [Select All Slices](https://github.com/chibatching/select_all_slices), by Takao Chiba: Sketch app plugin to select all slices in current page.
+- [IconScope](https://github.com/ziven27/Sketch-IconScope), by ziven27: Wrap the Icon with a square(4n) scope.
