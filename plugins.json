@@ -4046,5 +4046,13 @@
     "owner": "zeplin",
     "name": "emoji-autocomplete-sketch-plugin",
     "lastUpdated": "2018-07-10 13:57:02 UTC"
+  },
+  {
+    "title": "adjustToFit",
+    "description": "A quick Sketch plugin to resize text layers, groups, and artboards to fit their content. Also supports nested resizing.",
+    "name": "sketch-adjusttofit",
+    "owner": "andyault",
+    "appcast": "https://raw.githubusercontent.com/andyault/sketch-adjusttofit/master/.appcast.xml",
+    "homepage": "https://github.com/andyault/sketch-adjusttofit"
   }
 ]
