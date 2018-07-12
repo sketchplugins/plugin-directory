@@ -4046,5 +4046,12 @@
     "owner": "zeplin",
     "name": "emoji-autocomplete-sketch-plugin",
     "lastUpdated": "2018-07-10 13:57:02 UTC"
+  },
+  {
+    "description": "Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch",
+    "title": "GuideGuide",
+    "author": "Cameron McEfee",
+    "homepage": "https://guideguide.me",
+    "lastUpdated": "2018-07-12 21:00:00 UTC"
   }
 ]
