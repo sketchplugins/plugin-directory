@@ -1,5 +1,15 @@
 [
   {
+    "description": "Plugin to using resources of Fusion Design.",
+    "name": "fusion-cool",
+    "title": "FusionCool",
+    "owner": "wwsun",
+    "author": "wwsun",
+    "homepage": "https://github.com/alibaba-fusion/cool",
+    "appcast": "https://alifd.oss-cn-hangzhou.aliyuncs.com/sketch-fusion/appcast.xml",
+    "lastUpdated": "2018-07-12 14:54:22 UTC"
+  },
+  {
     "description": "Plugin to translate Sketch files into via Google Translate.",
     "name": "sketch-auto-translate",
     "title": "Sketch Auto Translate",
