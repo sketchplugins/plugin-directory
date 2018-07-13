@@ -1,5 +1,15 @@
 [
   {
+    "description": "Plugin to using resources of Fusion Design.",
+    "name": "fusion-cool",
+    "title": "FusionCool",
+    "owner": "wwsun",
+    "author": "wwsun",
+    "homepage": "https://github.com/alibaba-fusion/cool",
+    "appcast": "https://alifd.oss-cn-hangzhou.aliyuncs.com/sketch-fusion/appcast.xml",
+    "lastUpdated": "2018-07-12 14:54:22 UTC"
+  },
+  {
     "description": "Plugin to translate Sketch files into via Google Translate.",
     "name": "sketch-auto-translate",
     "title": "Sketch Auto Translate",
@@ -4054,5 +4064,20 @@
     "owner": "andyault",
     "appcast": "https://raw.githubusercontent.com/andyault/sketch-adjusttofit/master/.appcast.xml",
     "homepage": "https://github.com/andyault/sketch-adjusttofit"
+  },
+  {
+    "description": "Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch",
+    "title": "GuideGuide",
+    "author": "Cameron McEfee",
+    "homepage": "https://guideguide.me",
+    "lastUpdated": "2018-07-12 21:00:00 UTC"
+  },
+  {
+    "title": "Sketch Iconscope",
+    "description": "Wrap the Icon with a square(4n) scope.",
+    "author": "ziven27",
+    "owner": "ziven27",
+    "name": "Sketch-IconScope",
+    "lastUpdated": "2018-07-10 12:20:15 UTC"
   }
 ]
