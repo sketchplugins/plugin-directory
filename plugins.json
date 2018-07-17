@@ -4079,5 +4079,13 @@
     "owner": "ziven27",
     "name": "Sketch-IconScope",
     "lastUpdated": "2018-07-10 12:20:15 UTC"
+  },
+  {
+    "title": "exporter",
+    "description": "Exports Sketch artboards into linked HTML files.",
+    "author": "MaxBazarov",
+    "owner": "MaxBazarov",
+    "name": "exporter",
+    "lastUpdated": "2018-07-16 14:24:33 UTC"
   }
 ]

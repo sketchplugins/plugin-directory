@@ -106,6 +106,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Export Symbols](https://github.com/marianomike/sketch-exportsymbols), by Mike Mariano: Sketch Plugins
 - [Export to Indigo](https://indigo.infragistics.com/sketch-home), by Indigo Studio: Generate Indigo Studio projects from your artboards to create interactive, animated prototypes. Get real user feedback through included usability studies with video replays.
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
+- [exporter](https://github.com/maxbazarov/exporter), by MaxBazarov: Exports Sketch artboards into linked HTML files.
 - [Fake Chinese Name for Sketch](https://github.com/jjying/fake-chinese-name-for-sketch), by JJ Ying: Generate Chinese names for text layers.
 - [Fast Text Transfer](https://github.com/jbentzen/sketch-fast-text-transfer), by Jesper Bentzen: Lightning fast copying, pasting and swapping text.
 - [Find All Instances of Symbol](https://github.com/nmwoods1/sketch---find-all-instances-of-symbol), by nmwoods1: A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards
@@ -473,6 +474,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [exporter](https://github.com/maxbazarov/exporter), by MaxBazarov: Exports Sketch artboards into linked HTML files.
 - [GuideGuide](https://guideguide.me), by Cameron McEfee: Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch
 - [FusionCool](https://github.com/alibaba-fusion/cool), by wwsun: Plugin to using resources of Fusion Design.
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
@@ -511,8 +513,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
 - [Cleanup Useless Groups](https://github.com/bomberstudios/cleanup-useless-groups), by Ale Muñoz: A Sketch plugin that cleans up your layer list by removing empty groups and flattening deeply nested groups.
 - [Caravel](https://github.com/CaravelDesign/caravel.sketchplugin), by CaravelDesign: Export your artboards directly to Caravel projects.
-- [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [HandyMenu](https://github.com/sergeishere/handymenu-sketchplugin), by Sergey Dmitriev: Quick access to Sketch App plugins through contextual menu
+- [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [Sketch Style Master](https://github.com/aparajita/sketch-style-master), by Aparajita Fishman: Sketch plugin for renaming shared styles
 - [Angle](https://designcode.io/angle), by MengTo: Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.
 - [Sketch Swatches](https://github.com/ashung/sketch_swatches), by Ashung Hung: A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
