@@ -3361,6 +3361,14 @@
     "lastUpdated": "2017-12-23 18:39:06 UTC"
   },
   {
+    "title": "SketchTurbo",
+    "description": "A plugin for Sketch that adjusts scroll speed on a canvas.",
+    "author": "usagimaru",
+    "homepage": "https://github.com/usagimaru/SketchTurbo",
+    "name": "SketchTurbo",
+    "lastUpdated": "2018-07-18 17:00:00 UTC"
+  },
+  {
     "title": "Clipboard to Tilled Fill",
     "description": "Allows you to copy a image file from Finder (PNG, JPG) and set it as tilled fill of selected shape(s).",
     "author": "midiway",

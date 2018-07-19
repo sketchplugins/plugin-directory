@@ -388,6 +388,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketchsize](https://github.com/samlfsun/sketchsize), by samlfsun: A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play
 - [SketchTape](https://github.com/rjungemann/sketchtape.sketchplugin), by Roger Jungemann: Connect two shapes in Sketch app.
 - [SketchTextSourcer](https://github.com/hamidp/sketchtextsourcer), by Hamid Palo: Sketch plugin for easily populating a bunch of text layers from a source.
+- [SketchTurbo](https://github.com/usagimaru/SketchTurbo), by usagimaru: A plugin for Sketch that adjusts scroll speed on a canvas.
 - [Sketchy Pies](https://github.com/abynim/sketchy-pies), by Aby Nimbalkar: A Sketch plugin to magically convert regular circle layers into pie charts!
 - [slicer](https://github.com/ozzik/slicer), by Oz Pinhas: Your friendly Sketch slicing helper
 - [Slinky](https://github.com/finchalyzer/slinky), by Finch.io: Export your Sketch designs as HTML email templates
@@ -474,6 +475,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [SketchTurbo](https://github.com/usagimaru/SketchTurbo), by usagimaru: A plugin for Sketch that adjusts scroll speed on a canvas.
 - [exporter](https://github.com/maxbazarov/exporter), by MaxBazarov: Exports Sketch artboards into linked HTML files.
 - [GuideGuide](https://guideguide.me), by Cameron McEfee: Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch
 - [FusionCool](https://github.com/alibaba-fusion/cool), by wwsun: Plugin to using resources of Fusion Design.
