@@ -4106,12 +4106,20 @@
     "lastUpdated": "2018-07-16 14:24:33 UTC"
   },
   {
-    "title": "cracker9-sketch-plugin",
+    "title": "Cracker9 Sketch Plugin",
     "description": "cracker9 codesnippet sketch plugin",
     "name": "cracker9-sketch-plugin",
     "owner": "Cracker9",
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9"
+  },
+  {
+    "title": "Convert To Grayscale",
+    "description": "A simple Sketch plugin to convert selected shapes to grayscale colors",
+    "author": "Misha",
+    "owner": "mheesakkers",
+    "name": "sketch-plugin-convert-to-grayscale",
+    "lastUpdated": "2018-07-25 19:26:12 UTC"
   }
 ]
