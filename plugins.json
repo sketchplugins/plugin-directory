@@ -4087,5 +4087,14 @@
     "owner": "MaxBazarov",
     "name": "exporter",
     "lastUpdated": "2018-07-16 14:24:33 UTC"
+  },
+  {
+    "title": "cracker9-sketch-plugin",
+    "description": "cracker9 codesnippet sketch plugin",
+    "name": "cracker9-sketch-plugin",
+    "owner": "Cracker9",
+    "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
+    "author": "Cracker9"
   }
 ]
