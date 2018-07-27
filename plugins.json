@@ -3068,13 +3068,13 @@
     "lastUpdated": "2017-08-13 12:56:58 UTC"
   },
   {
-    "description": "Plugin to create a static map(Baidu, MapBox) with custom options.",
+    "description": "Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options",
     "name": "sketch-map-creator",
     "title": "Map Creator for Sketch",
     "owner": "terence55",
     "author": "Terence Wu",
     "homepage": "https://github.com/terence55/sketch-map-creator",
-    "lastUpdated": "2017-08-11 03:59:35 UTC"
+    "lastUpdated": "2018-07-24 02:56:15 UTC"
   },
   {
     "title": "Sketch Palette Generator",
@@ -3368,6 +3368,14 @@
     "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
     "name": "i-want-apple-system-font",
     "lastUpdated": "2017-12-23 18:39:06 UTC"
+  },
+  {
+    "title": "SketchTurbo",
+    "description": "A plugin for Sketch that adjusts scroll speed on a canvas.",
+    "author": "usagimaru",
+    "homepage": "https://github.com/usagimaru/SketchTurbo",
+    "name": "SketchTurbo",
+    "lastUpdated": "2018-07-18 17:00:00 UTC"
   },
   {
     "title": "Clipboard to Tilled Fill",
@@ -4096,5 +4104,14 @@
     "owner": "MaxBazarov",
     "name": "exporter",
     "lastUpdated": "2018-07-16 14:24:33 UTC"
+  },
+  {
+    "title": "cracker9-sketch-plugin",
+    "description": "cracker9 codesnippet sketch plugin",
+    "name": "cracker9-sketch-plugin",
+    "owner": "Cracker9",
+    "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
+    "author": "Cracker9"
   }
 ]
