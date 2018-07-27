@@ -1,5 +1,14 @@
 [
   {
+    "description": "Add blur effect to artboards for testing visual hierarchy easily in your design process.",
+    "name": "blur_artboard",
+    "title": "Blur Artboard",
+    "owner": "Duan",
+    "author": "Duan",
+    "homepage": "http://blur.duanjun.net",
+    "lastUpdated": "2018-07-22 14:00:00 UTC"
+  },
+  {
     "description": "Plugin to using resources of Fusion Design.",
     "name": "fusion-cool",
     "title": "FusionCool",
