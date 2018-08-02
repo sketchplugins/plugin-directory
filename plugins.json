@@ -3068,13 +3068,13 @@
     "lastUpdated": "2017-08-13 12:56:58 UTC"
   },
   {
-    "description": "Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options",
+    "description": "Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options, and location search is available now",
     "name": "sketch-map-creator",
     "title": "Map Creator for Sketch",
     "owner": "terence55",
     "author": "Terence Wu",
     "homepage": "https://github.com/terence55/sketch-map-creator",
-    "lastUpdated": "2018-07-24 02:56:15 UTC"
+    "lastUpdated": "2018-08-02 08:50:15 UTC"
   },
   {
     "title": "Sketch Palette Generator",

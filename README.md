@@ -178,7 +178,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Magic Mirror](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
 - [MagicPresenter](https://github.com/magicsketch/magicpresenter), by jamztang: Sketch Plugin to Present Slides or Deck directly in Sketch 3
 - [Mail Merge](https://github.com/kumo/sketch-mail-merge), by Robert Clarke: Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
-- [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options
+- [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options, and location search is available now
 - [Marketch](http://tudou527.github.io/marketch/), by tudou527: Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.
 - [Material Design Color Palette](https://github.com/t32k/material-design-color-palette), by t32k: Sketch app plugin for displaying Google material design color palette.
 - [Material Plugin](https://material.io/tools/theme-editor), by Google: Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.
@@ -475,8 +475,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options, and location search is available now
 - [Convert To Grayscale](https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale), by Misha: A simple Sketch plugin to convert selected shapes to grayscale colors
-- [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options
 - [Blur Artboard](http://blur.duanjun.net), by Duan: Add blur effect to artboards for testing visual hierarchy easily in your design process.
 - [SketchTurbo](https://github.com/usagimaru/SketchTurbo), by usagimaru: A plugin for Sketch that adjusts scroll speed on a canvas.
 - [exporter](https://github.com/maxbazarov/exporter), by MaxBazarov: Exports Sketch artboards into linked HTML files.
