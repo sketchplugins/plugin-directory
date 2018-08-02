@@ -4130,5 +4130,14 @@
     "appcast": "https://raw.githubusercontent.com/duyluonganduin/acl-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/duyluonganduin/acl-sketch-plugin",
     "author": "Duy Luong"
+  },
+  {
+    "title": "sketch-replace-layer",
+    "description": "Replace selected layer(s) with copied content/layer(s)",
+    "name": "sketch-replace-layer",
+    "owner": "daneden",
+    "appcast": "https://raw.githubusercontent.com/daneden/sketch-replace-layer/master/.appcast.xml",
+    "homepage": "https://github.com/daneden/sketch-replace-layer",
+    "author": "Daniel Eden"
   }
 ]
