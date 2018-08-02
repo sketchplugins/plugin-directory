@@ -4121,5 +4121,14 @@
     "owner": "mheesakkers",
     "name": "sketch-plugin-convert-to-grayscale",
     "lastUpdated": "2018-07-25 19:26:12 UTC"
+  },
+  {
+    "title": "acl-sketch-plugin",
+    "description": "Internal tool for Anduin Design Team",
+    "name": "acl-sketch-plugin",
+    "owner": "duyluonganduin",
+    "appcast": "https://raw.githubusercontent.com/duyluonganduin/acl-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/duyluonganduin/acl-sketch-plugin",
+    "author": "Duy Luong"
   }
 ]
