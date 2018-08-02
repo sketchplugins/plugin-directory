@@ -4121,5 +4121,14 @@
     "owner": "mheesakkers",
     "name": "sketch-plugin-convert-to-grayscale",
     "lastUpdated": "2018-07-25 19:26:12 UTC"
+  },
+  {
+    "title": "sketch-replace-layer",
+    "description": "Replace selected layer(s) with copied content/layer(s)",
+    "name": "sketch-replace-layer",
+    "owner": "daneden",
+    "appcast": "https://raw.githubusercontent.com/daneden/sketch-replace-layer/master/.appcast.xml",
+    "homepage": "https://github.com/daneden/sketch-replace-layer",
+    "author": "Daniel Eden"
   }
 ]
