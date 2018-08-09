@@ -4148,5 +4148,14 @@
     "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
     "homepage": "https://github.com/wantedly/sketch-wt-design",
     "author": "Yoshinori Kawasaki"
+  },
+  {
+    "title": "Artboard Manager",
+    "description": "Because moving artboards manually is *so* 2016.",
+    "name": "artboard-manager",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
+    "author": "Ale Muñoz"
   }
 ]
