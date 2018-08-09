@@ -4139,5 +4139,14 @@
     "appcast": "https://raw.githubusercontent.com/daneden/sketch-replace-layer/master/.appcast.xml",
     "homepage": "https://github.com/daneden/sketch-replace-layer",
     "author": "Daniel Eden"
+  },
+  {
+    "title": "WtDesign",
+    "description": "Sketch plugin for Wantedly Design System",
+    "name": "sketch-wt-design",
+    "owner": "wantedly",
+    "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
+    "homepage": "https://github.com/wantedly/sketch-wt-design",
+    "author": "Yoshinori Kawasaki"
   }
 ]
