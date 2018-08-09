@@ -4148,5 +4148,14 @@
     "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
     "homepage": "https://github.com/wantedly/sketch-wt-design",
     "author": "Yoshinori Kawasaki"
+  },
+  {
+    "title": "Sketch Image Compressor",
+    "description": "A Plugin that compresses bitmap assets, right when you export them. This Plugin *requires* Sketch 3.8.",
+    "name": "sketch-image-compressor",
+    "owner": "BohemianCoding",
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-image-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/BohemianCoding/sketch-image-compressor",
+    "author": "Ale Muñoz"
   }
 ]
