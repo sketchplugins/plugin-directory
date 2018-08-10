@@ -4157,5 +4157,14 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "event-badges-by-david",
+    "description": "A Sketch plugin to make a large quantity of name tags for any kind of events.",
+    "name": "event-badges-by-david",
+    "owner": "designforhuman",
+    "appcast": "https://raw.githubusercontent.com/designforhuman/event-badges-by-david/master/.appcast.xml",
+    "homepage": "https://github.com/designforhuman/event-badges-by-david",
+    "author": "davidlee"
   }
 ]
