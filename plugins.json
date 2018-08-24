@@ -4157,5 +4157,12 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "ColorSpark for Sketch",
+    "name": "colorspark-for-sketch",
+    "description": "A simple tool to help designers discover unique colors and gradients directly in Sketch.",
+    "author": "Luke Johnson",
+    "homepage": "https://colorspark.app/sketch"
   }
 ]
