@@ -4157,5 +4157,13 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "typex",
+    "description": "Highly configurable text styles to web (css, sass, html, json, ...) export plugin",
+    "name": "typex",
+    "owner": "reinvanoyen",
+    "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
+    "homepage": "https://github.com/reinvanoyen/typex"
   }
 ]
