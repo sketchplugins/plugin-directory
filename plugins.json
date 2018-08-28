@@ -4157,5 +4157,14 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "Better Shadow",
+    "description": "Quickly generate multi-layered shadow to mimic non-linear decay.",
+    "name": "sketch-better-shadow",
+    "owner": "JJ Ying",
+    "appcast": "https://raw.githubusercontent.com/JJYing/Sketch-Better-Shadow/master/appcast.xml",
+    "homepage": "https://github.com/JJYing/Sketch-Better-Shadow",
+    "author": "JJ Ying"
   }
 ]
