@@ -4167,6 +4167,15 @@
     "author": "Ale Muñoz"
   },
   {
+    "title": "advanced-responsive-images-default",
+    "description": "Generate default images according to the sizes given.",
+    "name": "advanced-responsive-images-default",
+    "owner": "Nkzq",
+    "appcast": "https://raw.githubusercontent.com/Nkzq/advanced-responsive-images-default/master/.appcast.xml",
+    "homepage": "https://github.com/Nkzq/advanced-responsive-images-default",
+    "author": "Romain Lefort"
+  },
+  {
     "title": "typex",
     "description": "Highly configurable text styles to web (css, sass, html, json, ...) export plugin",
     "name": "typex",
