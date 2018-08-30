@@ -4167,6 +4167,15 @@
     "author": "Ale Muñoz"
   },
   {
+    "title": "event-badges-by-david",
+    "description": "A Sketch plugin to make a large quantity of name tags for any kind of events",
+    "name": "event-badges-by-david",
+    "owner": "designforhuman",
+    "appcast": "https://raw.githubusercontent.com/designforhuman/event-badges-by-david/master/.appcast.xml",
+    "homepage": "https://github.com/designforhuman/event-badges-by-david",
+    "author": "davidlee"
+  },
+  {
     "title": "triangle-field",
     "description": "Generate Delaunay triangle tessellation inside a shape.",
     "name": "triangle-fields",
