@@ -4157,5 +4157,14 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "Gaia",
+    "description": "简单易用，高效协同的原型设计工具",
+    "name": "gaia-sketch",
+    "owner": "ronghui1219",
+    "appcast": "https://raw.githubusercontent.com/ronghui1219/gaia-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/ronghui1219/gaia-sketch",
+    "author": "ronghui.zrh"
   }
 ]
