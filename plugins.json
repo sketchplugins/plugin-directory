@@ -4167,6 +4167,14 @@
     "author": "Ale Muñoz"
   },
   {
+    "title": "typex",
+    "description": "Highly configurable text styles to web (css, sass, html, json, ...) export plugin",
+    "name": "typex",
+    "owner": "reinvanoyen",
+    "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
+    "homepage": "https://github.com/reinvanoyen/typex"
+  },
+  {
     "title": "ColorSpark for Sketch",
     "name": "colorspark-for-sketch",
     "description": "A simple tool to help designers discover unique colors and gradients directly in Sketch.",
