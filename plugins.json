@@ -4167,6 +4167,15 @@
     "author": "Ale Muñoz"
   },
   {
+    "title": "Kopie",
+    "description": "The copy editing tool for web and product design",
+    "name": "kopie",
+    "owner": "kopie",
+    "appcast": "http://kopie-sketch.s3.amazonaws.com/appcast.xml",
+    "homepage": "https://kopie.io",
+    "author": "Kopie"
+  },
+  {
     "title": "event-badges-by-david",
     "description": "A Sketch plugin to make a large quantity of name tags for any kind of events",
     "name": "event-badges-by-david",
