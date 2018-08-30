@@ -3989,7 +3989,7 @@
     "author": "WeTransfer",
     "owner": "WeTransfer",
     "name": "Sketch-Plugin",
-    "lastUpdated": "2018-06-26 07:31:37 UTC"
+    "lastUpdated": "2018-08-13 17:06:66 UTC"
   },
   {
     "title": "Frontify Plugin",
@@ -4150,6 +4150,14 @@
     "author": "Yoshinori Kawasaki"
   },
   {
+    "title": "Sketch Image Compressor",
+    "description": "A Plugin that compresses bitmap assets, right when you export them. This Plugin *requires* Sketch 3.8.",
+    "name": "sketch-image-compressor",
+    "owner": "BohemianCoding",
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-image-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/BohemianCoding/sketch-image-compressor",
+  },
+  {
     "title": "Artboard Manager",
     "description": "Because moving artboards manually is *so* 2016.",
     "name": "artboard-manager",
@@ -4164,5 +4172,32 @@
     "description": "A simple tool to help designers discover unique colors and gradients directly in Sketch.",
     "author": "Luke Johnson",
     "homepage": "https://colorspark.app/sketch"
+  },
+  {
+    "title": "Kopie",
+    "description": "The copy editing tool for web and product design",
+    "name": "kopie",
+    "owner": "kopie",
+    "appcast": "http://kopie-sketch.s3.amazonaws.com/appcast.xml",
+    "homepage": "https://kopie.io",
+    "author": "Kopie"
+  },
+  {
+    "title": "event-badges-by-david",
+    "description": "A Sketch plugin to make a large quantity of name tags for any kind of events",
+    "name": "event-badges-by-david",
+    "owner": "designforhuman",
+    "appcast": "https://raw.githubusercontent.com/designforhuman/event-badges-by-david/master/.appcast.xml",
+    "homepage": "https://github.com/designforhuman/event-badges-by-david",
+    "author": "davidlee"
+  },
+  {
+    "title": "triangle-field",
+    "description": "Generate Delaunay triangle tessellation inside a shape.",
+    "name": "triangle-fields",
+    "owner": "0la0",
+    "appcast": "https://raw.githubusercontent.com/0la0/triangle-fields/master/.appcast.xml",
+    "homepage": "https://github.com/0la0/triangle-fields",
+    "author": "Luke Anderson"
   }
 ]
