@@ -4167,6 +4167,13 @@
     "author": "Ale Muñoz"
   },
   {
+    "title": "ColorSpark for Sketch",
+    "name": "colorspark-for-sketch",
+    "description": "A simple tool to help designers discover unique colors and gradients directly in Sketch.",
+    "author": "Luke Johnson",
+    "homepage": "https://colorspark.app/sketch"
+  },
+  {
     "title": "Kopie",
     "description": "The copy editing tool for web and product design",
     "name": "kopie",
