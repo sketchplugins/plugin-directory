@@ -4225,5 +4225,14 @@
     "appcast": "https://raw.githubusercontent.com/0la0/triangle-fields/master/.appcast.xml",
     "homepage": "https://github.com/0la0/triangle-fields",
     "author": "Luke Anderson"
+  },
+  {
+    "title": "sd-changer",
+    "description": "Converts Apple SD Gothic Neo font to SF Pro Display",
+    "name": "sd-changer",
+    "owner": "yeun",
+    "appcast": "https://raw.githubusercontent.com/yeun/sd-changer/master/.appcast.xml",
+    "homepage": "https://github.com/yeun/sd-changer",
+    "author": "jeongheeyeun"
   }
 ]
