@@ -4225,5 +4225,14 @@
     "appcast": "https://raw.githubusercontent.com/0la0/triangle-fields/master/.appcast.xml",
     "homepage": "https://github.com/0la0/triangle-fields",
     "author": "Luke Anderson"
+  },
+  {
+    "title": "sensive-test",
+    "description": "Sync your .sketch documents with your Sensive account.",
+    "name": "sensive-sketch",
+    "owner": "rnmp",
+    "appcast": "https://raw.githubusercontent.com/rnmp/sensive-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/rnmp/sensive-sketch",
+    "author": "Sensive Team"
   }
 ]
