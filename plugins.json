@@ -4225,5 +4225,14 @@
     "appcast": "https://raw.githubusercontent.com/0la0/triangle-fields/master/.appcast.xml",
     "homepage": "https://github.com/0la0/triangle-fields",
     "author": "Luke Anderson"
+  },
+  {
+    "title": "Inker8",
+    "description": "A spec exporter for Sketch which can copy text/css/svg icons with only one click.",
+    "name": "Inker8",
+    "owner": "zaaack",
+    "appcast": "https://raw.githubusercontent.com/inker8/sketch-plugin/master/appcast.xml",
+    "homepage": "https://github.com/inker8/sketch-plugin",
+    "author": "Zack Young"
   }
 ]
