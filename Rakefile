@@ -70,8 +70,17 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
+    name   = plugin['name']
+    title  = plugin['title'] || name
+    owner  = plugin['owner']
+    author = plugin['author'] || owner
+    url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
+    desc   = plugin['description'].strip
+
+    # puts title
+
     if is_plugin_too_old? plugin
-      puts "#{plugin['name'] ? plugin['name'] : plugin['title']} is too old, maybe check lastUpdated?"
+      puts "#{title} is too old, lastUpdated: #{plugin['lastUpdated']}"
       next
     end
 
@@ -79,12 +88,6 @@ EOF
       next
     end
 
-    name   = plugin['name']
-    owner  = plugin['owner']
-    author = plugin['author'] || owner
-    title  = plugin['title'] || name
-    url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc   = plugin['description'].strip
     output << "- [#{title}](#{url}), by #{author}:"
     if !desc.empty?
       output << " #{desc}"
