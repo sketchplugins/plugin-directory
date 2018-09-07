@@ -4264,5 +4264,14 @@
     "appcast": "https://raw.githubusercontent.com/inker8/sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/inker8/sketch-plugin",
     "author": "Zack Young"
+  },
+  {
+    "title": "Awesome Image Compressor",
+    "description": "Compress exported image assets",
+    "name": "awesome-image-compressor",
+    "owner": "naoyawatanabe",
+    "appcast": "https://raw.githubusercontent.com/naoyawatanabe/awesome-image-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/naoyawatanabe/awesome-image-compressor",
+    "author": "Naoya Watanabe"
   }
 ]
