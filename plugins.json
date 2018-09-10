@@ -4273,5 +4273,14 @@
     "appcast": "https://raw.githubusercontent.com/naoyawatanabe/awesome-image-compressor/master/.appcast.xml",
     "homepage": "https://github.com/naoyawatanabe/awesome-image-compressor",
     "author": "Naoya Watanabe"
+  },
+  {
+    "title": "Text to Styles",
+    "description": "Generates Sketch type styles programmatically from Artboards",
+    "name": "text-to-styles",
+    "owner": "tbrasington",
+    "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
+    "homepage": "https://github.com/tbrasington/text-to-styles",
+    "author": "Thomas Brasington"
   }
 ]
