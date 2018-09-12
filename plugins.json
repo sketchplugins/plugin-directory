@@ -4282,5 +4282,14 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington"
+  },
+  {
+    "title": "Contrast",
+    "description": "A Sketch plugin to show a pass/fail type contrast report.",
+    "name": "sketch-contrast",
+    "owner": "romannurik",
+    "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
+    "homepage": "https://github.com/romannurik/Sketch-Contrast",
+    "author": "Roman Nurik"
   }
 ]
