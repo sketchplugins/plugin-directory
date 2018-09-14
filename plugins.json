@@ -1,5 +1,15 @@
 [
   {
+    "title": "6Spiral",
+    "description": "6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.",
+    "name": "6Spiral",
+    "owner": "matej-marjanovic",
+    "author": "Matej Marjanovic",
+    "appcast": "https://raw.githubusercontent.com/matej-marjanovic/6Spiral-Sketch-Plugin/master/appcast.xml",
+    "homepage": "https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin",
+    "lastUpdated": "2018-09-12 10:20:00 UTC"
+  },
+  {
     "title": "Specify (Alpha)",
     "description": "Export styles and assets to your Specify Libraries.",
     "name": "Specify",
