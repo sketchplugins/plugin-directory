@@ -4284,6 +4284,15 @@
     "author": "Thomas Brasington"
   },
   {
+    "title": "Contrast",
+    "description": "A Sketch plugin to show a pass/fail type contrast report.",
+    "name": "Sketch-Contrast",
+    "owner": "romannurik",
+    "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
+    "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
+    "author": "Roman Nurik"
+  },
+  {
     "title": "sensive-sketch",
     "description": "Sync your .sketch documents with your Sensive account.",
     "name": "sensive-sketch",
