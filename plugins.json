@@ -4309,5 +4309,13 @@
     "owner": "rnmp",
     "appcast": "https://raw.githubusercontent.com/rnmp/sensive-sketch/master/.appcast.xml",
     "homepage": "https://github.com/rnmp/sensive-sketch"
+  },
+  {
+    "title": "Sketch Plugin Skew",
+    "description": "A Sketch plugin for skewing (or shearing) shapes horizontally or vertically.",
+    "author": "Misha",
+    "owner": "mheesakkers",
+    "name": "sketch-plugin-skew",
+    "lastUpdated": "2018-09-13 21:01:13 UTC"
   }
 ]
