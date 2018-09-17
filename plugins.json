@@ -214,12 +214,12 @@
     "lastUpdated": "2018-05-21 19:34:43 UTC"
   },
   {
-    "description": "A set of plugins for Sketch include making lines & notes, UI Kit & Color sync, font & text replacing.",
-    "name": "WeSketch",
-    "title": "WeSketch",
+    "description": "A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.",
+    "name": "Miaow",
+    "title": "Miaow",
     "owner": "weixin",
-    "author": "Tencent Wechat Team",
-    "homepage": "https://github.com/weixin/WeSketch",
+    "author": "Tencent WeChat Team",
+    "homepage": "https://github.com/weixin/Miaow",
     "lastUpdated": "2018-08-27 02:46:05 UTC"
   },
   {
