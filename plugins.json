@@ -4317,5 +4317,13 @@
     "owner": "mheesakkers",
     "name": "sketch-plugin-skew",
     "lastUpdated": "2018-09-13 21:01:13 UTC"
+  },
+  {
+    "title": "ElevationShadows",
+    "name": "Elevation-Shadows",
+    "owner": "YitingLiu",
+    "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
+    "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
+    "author": "Yiting Liu"
   }
 ]
