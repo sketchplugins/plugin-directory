@@ -4319,6 +4319,15 @@
     "lastUpdated": "2018-09-13 21:01:13 UTC"
   },
   {
+    "title": "scssketch",
+    "description": "Custom tools for living the ultimate the TAND&M life. Built with love and care by Sarah Aslanifar, Drew Vosburg, and Max Oppenheimer",
+    "name": "scssketch",
+    "owner": "devmynd",
+    "appcast": "https://raw.githubusercontent.com/devmynd/scssketch/master/.appcast.xml",
+    "homepage": "https://github.com/devmynd/scssketch",
+    "author": "TAND&M"
+  },
+  {
     "title": "ElevationShadows",
     "name": "Elevation-Shadows",
     "owner": "YitingLiu",
