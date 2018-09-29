@@ -4334,5 +4334,14 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu"
+  },
+  {
+    "title": "Sketch QR Code",
+    "description": "A Plugin for generate SVG QR Code in Sketch app.",
+    "name": "sketch-qr-code",
+    "owner": "lerte",
+    "appcast": "https://raw.githubusercontent.com/lerte/sketch-qr-code/master/.appcast.xml",
+    "homepage": "https://github.com/lerte/sketch-qr-code",
+    "author": "Lerte Smith"
   }
 ]
