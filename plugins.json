@@ -4306,7 +4306,7 @@
     "title": "Sensive",
     "description": "Create a collaboration hub for your .sketch files.",
     "name": "sensive-sketch",
-    "owner": "rnmp",
+    "owner": "sensive",
     "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
     "homepage": "https://sensive.co"
   },
