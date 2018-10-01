@@ -4303,12 +4303,12 @@
     "author": "Roman Nurik"
   },
   {
-    "title": "sensive-sketch",
-    "description": "Sync your .sketch documents with your Sensive account.",
+    "title": "Sensive",
+    "description": "Create a collaboration hub for your .sketch files.",
     "name": "sensive-sketch",
-    "owner": "rnmp",
-    "appcast": "https://raw.githubusercontent.com/rnmp/sensive-sketch/master/.appcast.xml",
-    "homepage": "https://github.com/rnmp/sensive-sketch"
+    "owner": "sensive",
+    "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
+    "homepage": "https://sensive.co"
   },
   {
     "title": "Sketch Plugin Skew",
