@@ -4334,5 +4334,14 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu"
+  },
+  {
+    "title": "ds-automator-sketch-plugin",
+    "description": "Плагин предназначен для автоматизации работы дизайнеров, в рамках существующих требований к оформлению дизайн-макетов.",
+    "name": "ds-automator-sketch-plugin",
+    "owner": "pavelneznanov",
+    "appcast": "https://raw.githubusercontent.com/pavelneznanov/ds-automator-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/pavelneznanov/ds-automator-sketch-plugin",
+    "author": "Pavel Neznanov"
   }
 ]
