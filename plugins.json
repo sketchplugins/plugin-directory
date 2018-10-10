@@ -4338,6 +4338,15 @@
     "author": "Yiting Liu"
   },
   {
+    "title": "ds-automator-sketch-plugin",
+    "description": "Tools for automating designer work",
+    "name": "ds-automator-sketch-plugin",
+    "owner": "pavelneznanov",
+    "appcast": "https://raw.githubusercontent.com/pavelneznanov/ds-automator-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/pavelneznanov/ds-automator-sketch-plugin",
+    "author": "Pavel Neznanov"
+  },
+  {
     "title": "Sketch QR Code",
     "description": "A Plugin for generate SVG QR Code in Sketch app.",
     "name": "sketch-qr-code",
