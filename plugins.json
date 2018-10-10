@@ -309,7 +309,7 @@
     "lastUpdated": "2018-03-24 23:53:15 UTC"
   },
   {
-    "description": "Organise and share your design libraries using folders and get a living styleguide for free",
+    "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
     "title": "zeroheight",
     "author": "zeroheight",
     "homepage": "https://zeroheight.com"
@@ -4328,8 +4328,9 @@
     "author": "TAND&M"
   },
   {
-    "title": "ElevationShadows",
+    "title": "Elevation Shadows",
     "name": "Elevation-Shadows",
+    "description": "A Sketch Plugin to apply consistent Elevation Shadows",
     "owner": "YitingLiu",
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
