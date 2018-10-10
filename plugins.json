@@ -4354,5 +4354,11 @@
     "appcast": "https://raw.githubusercontent.com/lerte/sketch-qr-code/master/.appcast.xml",
     "homepage": "https://github.com/lerte/sketch-qr-code",
     "author": "Lerte Smith"
+  },
+  {
+    "description": "A fast and easy way to manage all your layer styles. No more hassle with long and complex style names, or renaming tons of styles because you misspelled a folder name.",
+    "title": "Layer Styles Manager",
+    "author": "Jaer Pollux",
+    "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
   }
 ]
