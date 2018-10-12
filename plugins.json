@@ -331,6 +331,14 @@
     "lastUpdated": "2018-05-26 15:18:32 UTC"
   },
   {
+    "title": "Gutter Cutter",
+    "description": "A Sketch plugin to create custom grids with guides",
+    "name": "Gutter Cutter",
+    "owner": "GCampi",
+    "author": "Gabriele Campi",
+    "homepage": "https://github.com/GCampi/gutter-cutter",
+  },
+  {
     "description": "Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",
     "name": "Looper",
     "title": "Looper",
