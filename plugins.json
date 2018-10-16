@@ -4360,5 +4360,14 @@
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
+  },
+  {
+    "title": "SVG to React Component",
+    "description": "Sketch plugin to compress SVG and transform it to React (include React Native) components. By copy React component directly to you clipboard or export as files.",
+    "name": "sketch-svg-to-react-component",
+    "owner": "reeli",
+    "appcast": "https://raw.githubusercontent.com/reeli/sketch-svg-to-react-component/master/.appcast.xml",
+    "homepage": "https://github.com/reeli/sketch-svg-to-react-component",
+    "author": "reeli"
   }
 ]
