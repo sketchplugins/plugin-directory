@@ -950,3 +950,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy SCSS Colors](https://github.com/graphical-iain/copy-scss-colors), by Iain Eudailey: Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.
 - [Xport](https://github.com/abynim/xport), by Aby Nimbalkar: A Sketch Plugin to export image assets directly to Xcode
 - [Prefixation Sketch Plugin](https://github.com/pberrecloth/prefixation-sketch-plugin), by Peter Berrecloth: Manage the prefixes of your layers, artboards or symbols
+- [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
