@@ -4360,5 +4360,14 @@
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
+  },
+  {
+    "title": "IBAN",
+    "description": "Generate a random IBAN number.",
+    "name": "sketch-plugin-iban",
+    "owner": "idriesalbender",
+    "appcast": "https://raw.githubusercontent.com/idriesalbender/sketch-plugin-iban/master/.appcast.xml",
+    "homepage": "https://github.com/idriesalbender/sketch-plugin-iban",
+    "author": "iab"
   }
 ]
