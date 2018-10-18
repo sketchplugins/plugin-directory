@@ -4360,5 +4360,14 @@
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
+  },
+  {
+    "title": "Sketch Auto Mask",
+    "description": "A better masking tool. Create a mask snapped to a selected group, image, or layer with a handy shortcut. The mask stays selected for easy editing.",
+    "name": "SketchAutoMask",
+    "owner": "patrickhill",
+    "homepage": "http://sketchautomask.com",
+    "author": "Patrick Hill",
+    "lastUpdated": "2018-10-08 18:58:19 UTC"
   }
 ]
