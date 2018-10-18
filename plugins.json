@@ -4360,5 +4360,14 @@
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
+  },
+  {
+    "title": "Données Québec",
+    "description": "Données localisées pour le Québec",
+    "name": "DonneesQuebecSketchPlugin",
+    "owner": "bnc-nbc-design",
+    "appcast": "https://raw.githubusercontent.com/bnc-nbc-design/DonneesQuebecSketchPlugin/master/.appcast.xml",
+    "homepage": "https://github.com/bnc-nbc-design/DonneesQuebecSketchPlugin",
+    "author": "Emile Aublet"
   }
 ]
