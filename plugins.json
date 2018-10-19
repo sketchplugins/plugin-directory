@@ -1,5 +1,14 @@
 [
   {
+    "title": "Symbol Text Inspector",
+    "description": "Easily inspect the specifications of all text overrides in symbols, including in nested symbols.",
+    "name": "SymbolTextInspector",
+    "owner": "dbilyk",
+    "author": "Dmitri Bilyk",
+    "appcast": "https://raw.githubusercontent.com/dbilyk/SymbolTextInspector/master/appcast.xml",
+    "lastUpdated": "2018-09-12 10:20:00 UTC" 
+  },
+  {
     "title": "6Spiral",
     "description": "6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.",
     "name": "6Spiral",
@@ -4369,5 +4378,21 @@
     "appcast": "https://raw.githubusercontent.com/sebcglbailey/sketch-system-styles/master/.appcast.xml",
     "homepage": "https://github.com/sebcglbailey/sketch-system-styles",
     "author": "Seb Bailey"
+  },
+  {
+    "title": "SVG to React Component",
+    "description": "Sketch plugin to compress SVG and transform it to React (include React Native) components. By copy React component directly to you clipboard or export as files.",
+    "name": "sketch-svg-to-react-component",
+    "owner": "reeli",
+    "appcast": "https://raw.githubusercontent.com/reeli/sketch-svg-to-react-component/master/.appcast.xml",
+    "homepage": "https://github.com/reeli/sketch-svg-to-react-component",
+    "author": "reeli"
+  },
+  {
+    "title": "Gutter Cutter",
+    "description": "A Sketch plugin to create custom grids with guides",
+    "name": "gutter-cutter",
+    "owner": "GCampi",
+    "author": "Gabriele Campi"
   }
 ]
