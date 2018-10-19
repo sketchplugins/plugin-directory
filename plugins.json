@@ -4371,6 +4371,15 @@
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
   },
   {
+    "title": "system-styles",
+    "description": "Generate all the text styles you'll need, including alignment and colour.",
+    "name": "sketch-system-styles",
+    "owner": "sebcglbailey",
+    "appcast": "https://raw.githubusercontent.com/sebcglbailey/sketch-system-styles/master/.appcast.xml",
+    "homepage": "https://github.com/sebcglbailey/sketch-system-styles",
+    "author": "Seb Bailey"
+  },
+  {
     "title": "SVG to React Component",
     "description": "Sketch plugin to compress SVG and transform it to React (include React Native) components. By copy React component directly to you clipboard or export as files.",
     "name": "sketch-svg-to-react-component",
