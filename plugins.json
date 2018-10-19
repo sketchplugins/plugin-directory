@@ -4360,5 +4360,12 @@
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
+  },
+  {
+    "title": "Gutter Cutter",
+    "description": "A Sketch plugin to create custom grids with guides",
+    "name": "gutter-cutter",
+    "owner": "GCampi",
+    "author": "Gabriele Campi"
   }
 ]
