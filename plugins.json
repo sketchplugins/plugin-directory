@@ -4360,5 +4360,14 @@
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
     "homepage": "https://gumroad.com/l/sketch-shared-styles-manager"
+  },
+  {
+    "title": "stuffing",
+    "description": "A DataSupplier plugin which supplies chinese data.",
+    "name": "Sketch-Stuffing",
+    "owner": "Ashung",
+    "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
+    "homepage": "https://github.com/Ashung/Sketch-Stuffing",
+    "author": "Ashung"
   }
 ]
