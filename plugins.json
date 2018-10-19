@@ -4364,9 +4364,8 @@
   {
     "title": "Gutter Cutter",
     "description": "A Sketch plugin to create custom grids with guides",
-    "name": "Gutter Cutter",
+    "name": "gutter-cutter",
     "owner": "GCampi",
-    "author": "Gabriele Campi",
-    "homepage": "https://github.com/GCampi/gutter-cutter"
+    "author": "Gabriele Campi"
   }
 ]
