@@ -1,5 +1,14 @@
 [
   {
+    "title": "Laboji",
+    "description": "A sketch plugin for adding emoji on layer name like colorful labels or tags.",
+    "name": "Laboji",
+    "owner": "Mohammad Reza Mahmoudi",
+    "author": "Mohammad Reza Mahmoudi",
+    "homepage": "https://github.com/rezaaa/Laboji",
+    "lastUpdated": "2018-10-12 00:20:00 UTC" 
+  },
+  {
     "title": "Symbol Text Inspector",
     "description": "Easily inspect the specifications of all text overrides in symbols, including in nested symbols.",
     "name": "SymbolTextInspector",
