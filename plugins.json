@@ -6,7 +6,7 @@
     "owner": "dbilyk",
     "author": "Dmitri Bilyk",
     "appcast": "https://raw.githubusercontent.com/dbilyk/SymbolTextInspector/master/appcast.xml",
-    "lastUpdated": "2018-09-12 10:20:00 UTC" 
+    "lastUpdated": "2018-09-12 10:20:00 UTC"
   },
   {
     "title": "6Spiral",
@@ -4394,5 +4394,14 @@
     "name": "gutter-cutter",
     "owner": "GCampi",
     "author": "Gabriele Campi"
+  },
+  {
+    "title": "lazyboards",
+    "description": "Artboard tools to help you with tedious batch tasks.",
+    "name": "sketch-lazyboards",
+    "owner": "lazybearcreations",
+    "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazyboards/master/.appcast.xml",
+    "homepage": "https://github.com/lazybearcreations/sketch-lazyboards",
+    "author": "Adam Bruzon"
   }
 ]
