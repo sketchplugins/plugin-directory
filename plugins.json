@@ -6,7 +6,7 @@
     "owner": "dbilyk",
     "author": "Dmitri Bilyk",
     "appcast": "https://raw.githubusercontent.com/dbilyk/SymbolTextInspector/master/appcast.xml",
-    "lastUpdated": "2018-09-12 10:20:00 UTC" 
+    "lastUpdated": "2018-09-12 10:20:00 UTC"
   },
   {
     "title": "6Spiral",
@@ -4394,5 +4394,14 @@
     "name": "gutter-cutter",
     "owner": "GCampi",
     "author": "Gabriele Campi"
+  },
+  {
+    "title": "Chippen charts",
+    "description": "Bar chart creator for your mockups using random data. Change the size of selected rectangles. Works for both horizontal and vertical bar charts. Made with love in Chippendale.",
+    "name": "sketch-chippencharts",
+    "owner": "smallmultiples",
+    "appcast": "https://raw.githubusercontent.com/smallmultiples/sketch-chippencharts/master/.appcast.xml",
+    "homepage": "https://github.com/smallmultiples/sketch-chippencharts",
+    "author": "Martin von Lupin"
   }
 ]
