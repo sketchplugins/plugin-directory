@@ -1,5 +1,14 @@
 [
   {
+    "title": "Laboji",
+    "description": "A sketch plugin for adding emoji on layer name like colorful labels or tags.",
+    "name": "Laboji",
+    "owner": "Mohammad Reza Mahmoudi",
+    "author": "Mohammad Reza Mahmoudi",
+    "homepage": "https://github.com/rezaaa/Laboji",
+    "lastUpdated": "2018-10-12 00:20:00 UTC" 
+  },
+  {
     "title": "Symbol Text Inspector",
     "description": "Easily inspect the specifications of all text overrides in symbols, including in nested symbols.",
     "name": "SymbolTextInspector",
@@ -4403,5 +4412,14 @@
     "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazyboards/master/.appcast.xml",
     "homepage": "https://github.com/lazybearcreations/sketch-lazyboards",
     "author": "Adam Bruzon"
+  },
+  {
+    "title": "stuffing",
+    "description": "A DataSupplier plugin which supplies chinese data.",
+    "name": "Sketch-Stuffing",
+    "owner": "Ashung",
+    "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
+    "homepage": "https://github.com/Ashung/Sketch-Stuffing",
+    "author": "Ashung"
   }
 ]
