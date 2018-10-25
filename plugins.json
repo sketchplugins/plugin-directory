@@ -15,7 +15,7 @@
     "owner": "dbilyk",
     "author": "Dmitri Bilyk",
     "appcast": "https://raw.githubusercontent.com/dbilyk/SymbolTextInspector/master/appcast.xml",
-    "lastUpdated": "2018-09-12 10:20:00 UTC" 
+    "lastUpdated": "2018-09-12 10:20:00 UTC"
   },
   {
     "title": "6Spiral",
@@ -4403,5 +4403,14 @@
     "name": "gutter-cutter",
     "owner": "GCampi",
     "author": "Gabriele Campi"
+  },
+  {
+    "title": "stuffing",
+    "description": "A DataSupplier plugin which supplies chinese data.",
+    "name": "Sketch-Stuffing",
+    "owner": "Ashung",
+    "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
+    "homepage": "https://github.com/Ashung/Sketch-Stuffing",
+    "author": "Ashung"
   }
 ]
