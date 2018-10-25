@@ -4405,6 +4405,15 @@
     "author": "Gabriele Campi"
   },
   {
+    "title": "Chippen charts",
+    "description": "Bar chart creator for your mockups using random data. Change the size of selected rectangles. Works for both horizontal and vertical bar charts. Made with love in Chippendale.",
+    "name": "sketch-chippencharts",
+    "owner": "smallmultiples",
+    "appcast": "https://raw.githubusercontent.com/smallmultiples/sketch-chippencharts/master/.appcast.xml",
+    "homepage": "https://github.com/smallmultiples/sketch-chippencharts",
+    "author": "Martin von Lupin"
+  },
+  {
     "title": "lazyboards",
     "description": "Artboard tools to help you with tedious batch tasks.",
     "name": "sketch-lazyboards",
