@@ -4405,6 +4405,15 @@
     "author": "Gabriele Campi"
   },
   {
+    "title": "lazyboards",
+    "description": "Artboard tools to help you with tedious batch tasks.",
+    "name": "sketch-lazyboards",
+    "owner": "lazybearcreations",
+    "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazyboards/master/.appcast.xml",
+    "homepage": "https://github.com/lazybearcreations/sketch-lazyboards",
+    "author": "Adam Bruzon"
+  },
+  {
     "title": "stuffing",
     "description": "A DataSupplier plugin which supplies chinese data.",
     "name": "Sketch-Stuffing",
