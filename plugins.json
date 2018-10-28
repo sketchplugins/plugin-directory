@@ -6,7 +6,7 @@
     "owner": "Mohammad Reza Mahmoudi",
     "author": "Mohammad Reza Mahmoudi",
     "homepage": "https://github.com/rezaaa/Laboji",
-    "lastUpdated": "2018-10-12 00:20:00 UTC" 
+    "lastUpdated": "2018-10-12 00:20:00 UTC"
   },
   {
     "title": "Symbol Text Inspector",
@@ -4430,5 +4430,14 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung"
+  },
+  {
+    "title": "slice-it",
+    "description": "Slice-it tool, Export the slices from the local sketch file in png,jpeg,svg",
+    "name": "sketch-slice-it",
+    "owner": "deepakshrma",
+    "appcast": "https://raw.githubusercontent.com/deepakshrma/sketch-slice-it/master/.appcast.xml",
+    "homepage": "https://github.com/deepakshrma/sketch-slice-it",
+    "author": "xdeepakv"
   }
 ]
