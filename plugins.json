@@ -6,7 +6,7 @@
     "owner": "Mohammad Reza Mahmoudi",
     "author": "Mohammad Reza Mahmoudi",
     "homepage": "https://github.com/rezaaa/Laboji",
-    "lastUpdated": "2018-10-12 00:20:00 UTC" 
+    "lastUpdated": "2018-10-12 00:20:00 UTC"
   },
   {
     "title": "Symbol Text Inspector",
@@ -4430,5 +4430,14 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung"
+  },
+  {
+    "title": "toggleLayers",
+    "description": "One action to toggle layers on / off so that you can more easily remap this to a custom keyboard shortcut.",
+    "name": "toggleLayers",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/toggleLayers/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/toggleLayers",
+    "author": "Kevin Gutowski"
   }
 ]
