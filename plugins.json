@@ -6,7 +6,7 @@
     "owner": "Mohammad Reza Mahmoudi",
     "author": "Mohammad Reza Mahmoudi",
     "homepage": "https://github.com/rezaaa/Laboji",
-    "lastUpdated": "2018-10-12 00:20:00 UTC" 
+    "lastUpdated": "2018-10-12 00:20:00 UTC"
   },
   {
     "title": "Symbol Text Inspector",
@@ -4430,5 +4430,13 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung"
+  },
+  {
+    "title": "Protoship Codegen Sketch Client",
+    "description": "Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy",
+    "name": "codegen-sketch-client",
+    "owner": "protoship",
+    "appcast": "https://raw.githubusercontent.com/protoship/codegen-sketch-client/master/.appcast.xml",
+    "homepage": "https://github.com/protoship/codegen-sketch-client"
   }
 ]
