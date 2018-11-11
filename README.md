@@ -61,6 +61,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [charapara](https://github.com/kd-co/charapara-sketch-extension), by kd-co: Charapara, an initiative by Kerala Designers Collaborative (KDCo), is a dummy text generator for Malayalam
 - [chart](https://github.com/pavelkuligin/chart), by Pavel Kuligin: Create the most popular types of charts by real or random data
 - [Checkpoints Plugin for Sketch](https://github.com/einancunlu/checkpoints-plugin-for-sketch), by Emin İnanç Ünlü: Save important stages of your artboards in the blink of an eye, and then, move fast and break things.
+- [Chippen charts](https://github.com/smallmultiples/sketch-chippencharts), by Martin von Lupin: Bar chart creator for your mockups using random data. Change the size of selected rectangles. Works for both horizontal and vertical bar charts. Made with love in Chippendale.
 - [Chromata](https://github.com/abnamrocoesd/Chromata), by Vladimir Ionița: Find rogue colors
 - [Chromatic Sketch](https://github.com/petterheterjag/chromatic-sketch), by Petter Nilsson: Create good-looking and perceptually uniform gradients and color scales.
 - [Clean Up SF UI Type](https://github.com/schwa23/cleanupsfui), by Joshua Dickens: Sketch Plugin to clean up SF UI fonts character spacing & normalize text & display variants.
@@ -180,6 +181,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Export your Sketch design into HTML website.
 - [Layer Renamer](https://github.com/leonardpauli/layerrenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)
 - [Layer Styles Manager](https://gumroad.com/l/sketch-shared-styles-manager), by Jaer Pollux: A fast and easy way to manage all your layer styles. No more hassle with long and complex style names, or renaming tons of styles because you misspelled a folder name.
+- [lazyboards](https://github.com/lazybearcreations/sketch-lazyboards), by Adam Bruzon: Artboard tools to help you with tedious batch tasks.
 - [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer), by zeroheight: Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚
 - [Lightwire](https://github.com/alex-matt/sketch-lightwire-plugin), by Alex & Matt: Plugin with ready-to-use wireframes that help you to bring your ideas to life fast and easy. You can find necessary wireframes using categories or search.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
@@ -258,7 +260,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rotate Artboard Orientation](https://github.com/mmilano/sketch-rotate-artboards), by Michel Milano: Rotate the orientation of an artboard - from portrait to landscape, and vice versa.
 - [Rotator](https://github.com/pberrecloth/rotator-sketch-plugin), by Peter Berrecloth: Rotate objects at preset amounts
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
-- [Sass Colors](https://github.com/arshad/sketch-sass-colors), by Arshad Chummun: Displays colors as preconfigure Sass variables for Sketch.
 - [Save with Device Frame](https://github.com/redgell/save-with-frame), by redgell: Sketch Plugin to generate pngs of artboards wrapped in a phone skin.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [ScreenFork](https://github.com/screenfork/screenfork), by ScreenFork: ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix
@@ -300,7 +301,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Count Text](https://github.com/joshkissel/sketch-count-text), by Josh Kissel: A Sketch plugin to count: characters, words, whitespace, and paragraphs
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
-- [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc), by Manuel Muñoz: Exports a simple website using a bunch of conventions and a Sketch document as the structure.
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
 - [Sketch Divine Proportions](https://github.com/ichord/sketch-divine-proportions), by Harold.Luo: A plugin for Sketch to generate divine proportions automatically.
 - [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
@@ -422,6 +422,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Stickers](https://github.com/romannurik/Sketch-Stickers), by Roman Nurik: A Sketch plugin that lets you browse and quickly drag+drop stickers (specially tagged layers) in your Sketch Libraries.
 - [StickyGrid](https://github.com/uetchy/sketch-stickygrid), by Yasuaki Uechi: Sketch plugin to make paths be snapped to grid.
 - [Storyboard Export](https://github.com/cranksoftwaredev/SketchPlugins), by Crank Software Inc.: Export Sketch based designs to be used within Crank Software's Storyboard Suite
+- [stuffing](https://github.com/Ashung/Sketch-Stuffing), by Ashung: A DataSupplier plugin which supplies chinese data.
 - [Style Inventory](https://github.com/getflourish/sketch-style-inventory), by Florian Schulz: Generate a visual style sheet with all colors and text styles that you are using in Sketch.
 - [StyleClip](https://github.com/liawesomesaucer/styleclip), by Vincent: Sketch plugin that copies an element's styles directly to your Mac clipboard. Supports CSS & SCSS
 - [styledrop](https://github.com/ryanmclaughlin/styledrop), by Ryan McLaughlin: A plugin for Sketch allows you to easily copy styles from one layer to another.
@@ -465,6 +466,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Typesettings](https://github.com/buames/typesettings-sketch-plugin), by buames: A quest for consistency
 - [typex](https://github.com/reinvanoyen/typex), by reinvanoyen: Highly configurable text styles to web (css, sass, html, json, ...) export plugin
 - [Typograph](https://github.com/dezonik/typograph), by Dmitry Gerasimov: Typograph — Sketch plugin and js-library
+- [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Unlock All Layers & Unlock Hover](https://github.com/truthlabs/sketch-unlock-all-layers), by Truth Labs: Unlock all layers on the current artboard using ⌘⌥L
 - [Unsplash It](https://github.com/fhuel/unsplash-it-sketch), by Manuele Capacci: A plugin to quickly include great looking image from Unsplash.com in your Sketch projects.
@@ -947,5 +949,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Better Android Export](https://github.com/nickstamas/sketch-better-android-export), by Nick Stamas: A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.
 - [Fix Styles](https://github.com/dinozavrix/sketch_fix_styles), by dinozavrix: Remove duplicate styles in Sketch
 - [Bootstrap Guides](https://github.com/tomoyukikashiro/sketch-bootstrap-guides), by Tomoyuki Kashiro: Generate guides along with twitter bootstrap grid system.
-- [Sass Colors](https://github.com/arshad/sketch-sass-colors), by Arshad Chummun: Displays colors as preconfigure Sass variables for Sketch.
-- [Sketch Design Doc](https://github.com/mamuso/sketch-designdoc), by Manuel Muñoz: Exports a simple website using a bunch of conventions and a Sketch document as the structure.
