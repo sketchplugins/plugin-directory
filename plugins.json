@@ -6,7 +6,7 @@
     "owner": "Mohammad Reza Mahmoudi",
     "author": "Mohammad Reza Mahmoudi",
     "homepage": "https://github.com/rezaaa/Laboji",
-    "lastUpdated": "2018-10-12 00:20:00 UTC" 
+    "lastUpdated": "2018-10-12 00:20:00 UTC"
   },
   {
     "title": "Symbol Text Inspector",
@@ -4430,5 +4430,14 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung"
+  },
+  {
+    "title": "add-trailing-space",
+    "description": "add trailing space into selected text layers",
+    "name": "sketch-add-trailing-space",
+    "owner": "tgfjt",
+    "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-add-trailing-space/master/.appcast.xml",
+    "homepage": "https://github.com/tgfjt/sketch-add-trailing-space#readme",
+    "author": "tgfjt"
   }
 ]
