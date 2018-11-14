@@ -1,5 +1,14 @@
 [
   {
+    "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
+    "name": "Jane Doe",
+    "title": "Jane Doe",
+    "owner": "Konstantin Demblin",
+    "author": "Konstantin Demblin",
+    "homepage": "https://github.com/konki-vienna/jane_doe",
+    "lastUpdated": "2018-11-14 12:00:00 UTC"
+  },
+  {
     "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
     "name": "Bootstrap Helpers",
     "title": "Bootstrap Helpers",
