@@ -4374,6 +4374,16 @@
     "author": "Lerte Smith"
   },
   {
+    "title": "Android Screenshot",
+    "description": "A Sketch plugin to take screenshots of Android device connected over USB.",
+    "name": "fr.y3s.sketch.screenshot",
+    "owner": "Sylvain Leris",
+    "author": "Sylvain Leris",
+    "appcast": "https://raw.githubusercontent.com/sylvainleris/fr.y3s.sketch.screenshot/master/appcast.xml",
+    "homepage": "https://github.com/sylvainleris/fr.y3s.sketch.screenshot",
+    "lastUpdated": "2018-10-17 20:30:00 UTC"
+  },
+  {
     "description": "A fast and easy way to manage all your layer styles. No more hassle with long and complex style names, or renaming tons of styles because you misspelled a folder name.",
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
