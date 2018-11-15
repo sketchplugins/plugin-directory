@@ -4452,6 +4452,14 @@
     "author": "Ashung"
   },
   {
+    "title": "Protoship Codegen Sketch Client",
+    "description": "Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy",
+    "name": "codegen-sketch-client",
+    "owner": "protoship",
+    "appcast": "https://raw.githubusercontent.com/protoship/codegen-sketch-client/master/.appcast.xml",
+    "homepage": "https://github.com/protoship/codegen-sketch-client"
+  },
+  {
     "title": "toggleLayers",
     "description": "One action to toggle layers on / off so that you can more easily remap this to a custom keyboard shortcut.",
     "name": "toggleLayers",
