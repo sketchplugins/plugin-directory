@@ -4452,6 +4452,15 @@
     "author": "Ashung"
   },
   {
+    "title": "uiLogos",
+    "description": "Insert professionally designed dummy logos of companies.",
+    "name": "uiLogos",
+    "owner": "realvjy",
+    "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
+    "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
+    "author": "vijay verma"
+  },
+  {
     "title": "Protoship Codegen Sketch Client",
     "description": "Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy",
     "name": "codegen-sketch-client",
