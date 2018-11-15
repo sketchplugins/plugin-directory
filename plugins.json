@@ -4452,6 +4452,15 @@
     "author": "Ashung"
   },
   {
+    "title": "sketch-pochette",
+    "description": "A Sketch plugin that lets you carry your most used properties close to your mouse",
+    "name": "sketch-pochette",
+    "owner": "zehfernandes",
+    "appcast": "https://raw.githubusercontent.com/zehfernandes/sketch-pochette/master/.appcast.xml",
+    "homepage": "https://github.com/zehfernandes/sketch-pochette",
+    "author": "Zeh Fernandes"
+  },
+  {
     "title": "100-shapesum",
     "description": "Lorem Ipsum Sketch plugin based on 100 Shapes tone of voice.",
     "name": "100-shapesum",
