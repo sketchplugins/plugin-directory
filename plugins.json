@@ -4452,6 +4452,15 @@
     "author": "Ashung"
   },
   {
+    "title": "sketch-codelight",
+    "description": "Highlight code inside Text layers in Sketch",
+    "name": "sketch-codelight",
+    "owner": "somebee",
+    "appcast": "https://raw.githubusercontent.com/somebee/sketch-codelight/master/.appcast.xml",
+    "homepage": "https://github.com/somebee/sketch-codelight",
+    "author": "somebee"
+  },
+  {
     "title": "Seoul",
     "description": "A DataSupplier plugin",
     "name": "Seoul",
