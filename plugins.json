@@ -4452,6 +4452,15 @@
     "author": "Ashung"
   },
   {
+    "title": "toggleLayers",
+    "description": "One action to toggle layers on / off so that you can more easily remap this to a custom keyboard shortcut.",
+    "name": "toggleLayers",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/toggleLayers/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/toggleLayers",
+    "author": "Kevin Gutowski"
+  },
+  {
     "title": "Spooky",
     "description": "Is this image ~🎃🔪spooky🔪🎃~ enough? You'll never have to ask yourself that question again. Happy Halloween!",
     "name": "spooky-sketch",
