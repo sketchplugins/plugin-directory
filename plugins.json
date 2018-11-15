@@ -4452,6 +4452,14 @@
     "author": "Ashung"
   },
   {
+    "title": "100-shapesum",
+    "description": "Lorem Ipsum Sketch plugin based on 100 Shapes tone of voice.",
+    "name": "100-shapesum",
+    "owner": "markaleksanderh",
+    "appcast": "https://raw.githubusercontent.com/markaleksanderh/100-shapesum/master/.appcast.xml",
+    "homepage": "https://github.com/markaleksanderh/100-shapesum"
+  },
+  {
     "title": "uiLogos",
     "description": "Insert professionally designed dummy logos of companies.",
     "name": "uiLogos",
