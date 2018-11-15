@@ -225,6 +225,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Page Numbers](https://github.com/gotomedia/sketch-pagenumbers), by gotomedia: Sketch plugin for adding page numbers to artboards.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
+- [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
 - [Paster](https://github.com/volorf/paster), by Oleg Frolov: Sketch plugin. Paste text data from clipboard to Sketch text layers
 - [Perfecter](https://github.com/volorf/perfecter), by Oleg Frolov: Make great typography [Sketch plugin]
 - [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
@@ -306,6 +307,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Copy Layers Styles](https://github.com/francisvega/sketch-copy-layers-styles), by Francis: Sketch plugin to copy Layers and Text styles
 - [Sketch Copy Paste Layout Settings](https://github.com/francisvega/sketch-copy-paste-layout-settings), by Francis: Copy layout settings from one artboard and paste into multiples artboards.
 - [Sketch Count Text](https://github.com/joshkissel/sketch-count-text), by Josh Kissel: A Sketch plugin to count: characters, words, whitespace, and paragraphs
+- [Sketch Data Faker](https://github.com/paintedbicycle/sketch-data-faker), by paintedbicycle: A Sketch data plugin providing data for you mockups from Faker.js
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
@@ -508,6 +510,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 ## Sorted by last update (newest on top)
 
 - [Jane Doe](https://github.com/konki-vienna/jane_doe), by Konstantin Demblin: This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.
+- [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
 - [Timelapse](https://timelapsesketch.com), by Team Timelapse: Create beautiful high-speed videos of your work in Sketch and show off your progress.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
 - [Laboji](https://github.com/rezaaa/Laboji), by Mohammad Reza Mahmoudi: A sketch plugin for adding emoji on layer name like colorful labels or tags.

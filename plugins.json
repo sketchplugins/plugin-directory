@@ -16,7 +16,7 @@
     "owner": "Team Timelapse",
     "homepage": "https://timelapsesketch.com",
     "appcast": "https://www.animaapp.com/timelapse/appcast.xml",
-    "lastUpdated": "2018-11-01 00:20:00 UTC" 
+    "lastUpdated": "2018-11-01 00:20:00 UTC"
   },
   {
     "title": "Laboji",
@@ -4564,5 +4564,13 @@
     "appcast": "https://raw.githubusercontent.com/deepakshrma/sketch-slice-it/master/.appcast.xml",
     "homepage": "https://github.com/deepakshrma/sketch-slice-it",
     "author": "xdeepakv"
+  },
+  {
+    "title": "Paste Direct",
+    "description": "Design like a guitarist!",
+    "author": "Sudev Kiyada",
+    "owner": "yudiz-solutions",
+    "name": "paste-direct",
+    "lastUpdated": "2018-11-10 22:49:42 UTC"
   }
 ]
