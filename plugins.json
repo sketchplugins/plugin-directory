@@ -4452,6 +4452,15 @@
     "author": "Ashung"
   },
   {
+    "title": "Drafta",
+    "description": "Export designs directly to Drafta",
+    "name": "drafta",
+    "owner": "fragmentlv",
+    "appcast": "https://raw.githubusercontent.com/fragmentlv/drafta/master/.appcast.xml",
+    "homepage": "https://github.com/fragmentlv/drafta",
+    "author": "Fragment"
+  },
+  {
     "title": "add-trailing-space",
     "description": "add trailing space into selected text layers",
     "name": "sketch-add-trailing-space",
