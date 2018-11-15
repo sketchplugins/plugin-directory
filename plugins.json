@@ -4452,6 +4452,15 @@
     "author": "Ashung"
   },
   {
+    "title": "Spooky",
+    "description": "Is this image ~🎃🔪spooky🔪🎃~ enough? You'll never have to ask yourself that question again. Happy Halloween!",
+    "name": "spooky-sketch",
+    "owner": "eliasjulian",
+    "appcast": "https://raw.githubusercontent.com/eliasjulian/spooky-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/eliasjulian/spooky-sketch",
+    "author": "Elias Julian"
+  },
+  {
     "title": "sketch-codelight",
     "description": "Highlight code inside Text layers in Sketch",
     "name": "sketch-codelight",
