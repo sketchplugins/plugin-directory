@@ -4461,6 +4461,14 @@
     "author": "Ashung"
   },
   {
+    "title": "Sketch Data Faker",
+    "description": "A Sketch data plugin providing data for you mockups from Faker.js",
+    "name": "sketch-data-faker",
+    "owner": "paintedbicycle",
+    "appcast": "https://raw.githubusercontent.com/paintedbicycle/sketch-data-faker/master/.appcast.xml",
+    "homepage": "https://github.com/paintedbicycle/sketch-data-faker"
+  },
+  {
     "title": "Drafta",
     "description": "Export designs directly to Drafta",
     "name": "drafta",
