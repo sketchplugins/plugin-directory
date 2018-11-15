@@ -1,5 +1,15 @@
 [
   {
+    "title": "Timelapse",
+    "description": "Create beautiful high-speed videos of your work in Sketch and show off your progress.",
+    "name": "Timelapse",
+    "author": "Team Timelapse",
+    "owner": "Team Timelapse",
+    "homepage": "https://timelapsesketch.com",
+    "appcast": "https://www.animaapp.com/timelapse/appcast.xml",
+    "lastUpdated": "2018-11-01 00:20:00 UTC" 
+  },
+  {
     "title": "Laboji",
     "description": "A sketch plugin for adding emoji on layer name like colorful labels or tags.",
     "name": "Laboji",
@@ -4374,6 +4384,16 @@
     "author": "Lerte Smith"
   },
   {
+    "title": "Android Screenshot",
+    "description": "A Sketch plugin to take screenshots of Android device connected over USB.",
+    "name": "fr.y3s.sketch.screenshot",
+    "owner": "Sylvain Leris",
+    "author": "Sylvain Leris",
+    "appcast": "https://raw.githubusercontent.com/sylvainleris/fr.y3s.sketch.screenshot/master/appcast.xml",
+    "homepage": "https://github.com/sylvainleris/fr.y3s.sketch.screenshot",
+    "lastUpdated": "2018-10-17 20:30:00 UTC"
+  },
+  {
     "description": "A fast and easy way to manage all your layer styles. No more hassle with long and complex style names, or renaming tons of styles because you misspelled a folder name.",
     "title": "Layer Styles Manager",
     "author": "Jaer Pollux",
@@ -4439,5 +4459,58 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma"
+  },
+  {
+    "title": "Protoship Codegen Sketch Client",
+    "description": "Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy",
+    "name": "codegen-sketch-client",
+    "owner": "protoship",
+    "appcast": "https://raw.githubusercontent.com/protoship/codegen-sketch-client/master/.appcast.xml",
+    "homepage": "https://github.com/protoship/codegen-sketch-client"
+  },
+  {
+    "title": "toggleLayers",
+    "description": "One action to toggle layers on / off so that you can more easily remap this to a custom keyboard shortcut.",
+    "name": "toggleLayers",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/toggleLayers/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/toggleLayers",
+    "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Spooky",
+    "description": "Is this image ~🎃🔪spooky🔪🎃~ enough? You'll never have to ask yourself that question again. Happy Halloween!",
+    "name": "spooky-sketch",
+    "owner": "eliasjulian",
+    "appcast": "https://raw.githubusercontent.com/eliasjulian/spooky-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/eliasjulian/spooky-sketch",
+    "author": "Elias Julian"
+  },
+  {
+    "title": "sketch-codelight",
+    "description": "Highlight code inside Text layers in Sketch",
+    "name": "sketch-codelight",
+    "owner": "somebee",
+    "appcast": "https://raw.githubusercontent.com/somebee/sketch-codelight/master/.appcast.xml",
+    "homepage": "https://github.com/somebee/sketch-codelight",
+    "author": "somebee"
+  },
+  {
+    "title": "Seoul",
+    "description": "A DataSupplier plugin",
+    "name": "Seoul",
+    "owner": "sunkibaek",
+    "appcast": "https://raw.githubusercontent.com/sunkibaek/Seoul/master/.appcast.xml",
+    "homepage": "https://github.com/sunkibaek/Seoul",
+    "author": "Sunki Baek"
+  },
+  {
+    "title": "slice-it",
+    "description": "Slice-it tool, Export the slices from the local sketch file in png,jpeg,svg",
+    "name": "sketch-slice-it",
+    "owner": "deepakshrma",
+    "appcast": "https://raw.githubusercontent.com/deepakshrma/sketch-slice-it/master/.appcast.xml",
+    "homepage": "https://github.com/deepakshrma/sketch-slice-it",
+    "author": "xdeepakv"
   }
 ]
