@@ -4442,6 +4442,15 @@
     "author": "Ashung"
   },
   {
+    "title": "Seoul",
+    "description": "A DataSupplier plugin",
+    "name": "Seoul",
+    "owner": "sunkibaek",
+    "appcast": "https://raw.githubusercontent.com/sunkibaek/Seoul/master/.appcast.xml",
+    "homepage": "https://github.com/sunkibaek/Seoul",
+    "author": "Sunki Baek"
+  },
+  {
     "title": "slice-it",
     "description": "Slice-it tool, Export the slices from the local sketch file in png,jpeg,svg",
     "name": "sketch-slice-it",
