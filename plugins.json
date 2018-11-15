@@ -1,5 +1,14 @@
 [
   {
+    "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
+    "name": "Jane Doe",
+    "title": "Jane Doe",
+    "owner": "Konstantin Demblin",
+    "author": "Konstantin Demblin",
+    "homepage": "https://github.com/konki-vienna/jane_doe",
+    "lastUpdated": "2018-11-14 12:00:00 UTC"
+  },
+  {
     "title": "Timelapse",
     "description": "Create beautiful high-speed videos of your work in Sketch and show off your progress.",
     "name": "Timelapse",
