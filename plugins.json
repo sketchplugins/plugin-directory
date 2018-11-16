@@ -6,6 +6,7 @@
     "owner": "CanvasFlip Inc",
     "author": "CanvasFlip Inc",
     "homepage": "https://www.canvasflip.com/visual-inspector/scribble/",
+    "appcast": "https://github.com/manish1988/scribble-sketch-plugin/blob/master/appcast.xml",
     "lastUpdated": "2018-11-16 12:00:00 UTC"
   },
   {
