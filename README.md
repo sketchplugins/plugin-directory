@@ -270,6 +270,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Save with Device Frame](https://github.com/redgell/save-with-frame), by redgell: Sketch Plugin to generate pngs of artboards wrapped in a phone skin.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [ScreenFork](https://github.com/screenfork/screenfork), by ScreenFork: ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix
+- [Scribble](https://www.canvasflip.com/visual-inspector/scribble/), by CanvasFlip Inc: Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.
 - [scssketch](https://github.com/devmynd/scssketch), by TAND&M: Custom tools for living the ultimate the TAND&M life. Built with love and care by Sarah Aslanifar, Drew Vosburg, and Max Oppenheimer
 - [sd-changer](https://github.com/yeun/sd-changer), by jeongheeyeun: Converts Apple SD Gothic Neo font to SF Pro Display
 - [Seca](https://github.com/igenius-srl/seca), by iGenius: Your friendly Sketch slicing helper for symbols
