@@ -4605,5 +4605,13 @@
     "author": "Skuko",
     "homepage": "http://www.sketch2web.skuko.com",
     "lastUpdated": "2018-10-19"
+  },
+  {
+    "title": "PersianSupplier",
+    "description": "Sketch Plugin for supplying dynamic persian data.",
+    "author": "Hirad Arshadi",
+    "owner": "hiradarshadi",
+    "name": "PersianSupplier",
+    "lastUpdated": "2018-11-10 23:30:43 UTC"
   }
 ]
