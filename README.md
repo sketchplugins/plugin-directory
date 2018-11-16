@@ -407,6 +407,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch-topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
 - [Sketch2AE](https://github.com/bigxixi/sketch2ae), by Big XiXi: A Sketch plugin to export sketch file to Adobe After Effect
 - [sketch2vd](https://github.com/alexjlockwood/sketch2vd), by Alex Lockwood: A Sketch plugin that exports selected layers to VectorDrawable for Android.
+- [Sketch2Web](http://www.sketch2web.skuko.com), by Skuko: Export your project to web in just one click.
 - [SketchCleaner](http://www.sketchcleaner.com/), by Yummygum: Sketch plugin that helps you get your design files as clean as a whistle.
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [SketchDistributor](https://github.com/pez/sketchdistributor), by Peter Strömberg: Distribute selection objects vertically or horizontally with a given spacing between them.
@@ -518,6 +519,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Lottie Sketch Export](https://github.com/buba447/lottie-sketch-export), by Brandon Withrow: Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON
 - [Sketch Rename Artboards](https://github.com/kevinvbre/sketch-rename-artboards), by Kevin van Breemaat: Rename Artboards based on their X and Y locations in Sketch
 - [Timelapse](https://timelapsesketch.com), by Team Timelapse: Create beautiful high-speed videos of your work in Sketch and show off your progress.
+- [Sketch2Web](http://www.sketch2web.skuko.com), by Skuko: Export your project to web in just one click.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
 - [Laboji](https://github.com/rezaaa/Laboji), by Mohammad Reza Mahmoudi: A sketch plugin for adding emoji on layer name like colorful labels or tags.
 - [Sketch Plugin Skew](https://github.com/mheesakkers/sketch-plugin-skew), by Misha: A Sketch plugin for skewing (or shearing) shapes horizontally or vertically.
