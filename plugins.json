@@ -4590,5 +4590,13 @@
     "owner": "buba447",
     "name": "Lottie-Sketch-Export",
     "lastUpdated": "2018-11-02 17:46:53 UTC"
+  },
+  {
+    "title": "Sketch Rename Artboards",
+    "description": "Rename Artboards based on their X and Y locations in Sketch",
+    "author": "Kevin van Breemaat",
+    "owner": "KevinvBre",
+    "name": "Sketch-Rename-Artboards",
+    "lastUpdated": "2018-11-01 16:38:52 UTC"
   }
 ]

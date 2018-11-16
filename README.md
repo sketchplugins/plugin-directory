@@ -361,6 +361,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Preview](https://github.com/marcisme/sketch-preview), by Marc Schwieterman: This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.
 - [Sketch QR Code](https://github.com/lerte/sketch-qr-code), by Lerte Smith: A Plugin for generate SVG QR Code in Sketch app.
 - [Sketch Query Selection](https://github.com/francisvega/sketch-query-selection), by Francis: Filter selection layers by type
+- [Sketch Rename Artboards](https://github.com/kevinvbre/sketch-rename-artboards), by Kevin van Breemaat: Rename Artboards based on their X and Y locations in Sketch
 - [Sketch Resize](https://github.com/lucaorio/sketch-resize), by Luca Orio: Resize (not scale) multiple layers at once via shortcut.
 - [Sketch Reverse](https://github.com/lucaorio/sketch-reverse), by Luca Orio: Reverse the position or depth of selected elements.
 - [Sketch RTL](https://github.com/devinmancuso/sketch-rtl), by Devin Mancuso: Automatically create RTL layouts of your designs with this plugin for Bohemian Coding's Sketch 3
@@ -515,12 +516,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Jane Doe](https://github.com/konki-vienna/jane_doe), by Konstantin Demblin: This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.
 - [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
 - [Lottie Sketch Export](https://github.com/buba447/lottie-sketch-export), by Brandon Withrow: Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON
+- [Sketch Rename Artboards](https://github.com/kevinvbre/sketch-rename-artboards), by Kevin van Breemaat: Rename Artboards based on their X and Y locations in Sketch
 - [Timelapse](https://timelapsesketch.com), by Team Timelapse: Create beautiful high-speed videos of your work in Sketch and show off your progress.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
 - [Laboji](https://github.com/rezaaa/Laboji), by Mohammad Reza Mahmoudi: A sketch plugin for adding emoji on layer name like colorful labels or tags.
 - [Sketch Plugin Skew](https://github.com/mheesakkers/sketch-plugin-skew), by Misha: A Sketch plugin for skewing (or shearing) shapes horizontally or vertically.
-- [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
 - [6Spiral](https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin), by Matej Marjanovic: 6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.
+- [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
 - [Overrideit Sketchplugin](https://github.com/ahmedmigo/overrideit-sketchplugin), by Ahmed Genaidy: Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
@@ -563,8 +565,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Make Long Shadow](https://github.com/jayholtslander/sketch-make-long-shadow), by Jay Holtslander: A plugin for Sketch to create long shadows from a shape.
 - [Sketch Image Compressor](https://github.com/BohemianCoding/sketch-image-compressor), by BohemianCoding: A Plugin that compresses bitmap assets, right when you export them. This Plugin *requires* Sketch 3.8.
 - [States](https://github.com/edenvidal/states), by Eden Vidal: Create different artboard states and switch between them easily
-- [HandyMenu](https://github.com/sergeishere/handymenu-sketchplugin), by Sergey Dmitriev: Quick access to Sketch App plugins through contextual menu
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
+- [HandyMenu](https://github.com/sergeishere/handymenu-sketchplugin), by Sergey Dmitriev: Quick access to Sketch App plugins through contextual menu
 - [WeTransfer](https://github.com/wetransfer/sketch-plugin), by WeTransfer: Share artboards and pages via WeTransfer
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
 - [y-tools](https://github.com/yued-fe/y-tools), by yued-fe.TM: Sketch plugin tools yued-fe.TM
