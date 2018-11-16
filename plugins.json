@@ -1,5 +1,15 @@
 [
   {
+    "description": "Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.",
+    "name": "Scribble",
+    "title": "Scribble",
+    "owner": "CanvasFlip Inc",
+    "author": "CanvasFlip Inc",
+    "homepage": "https://www.canvasflip.com/visual-inspector/scribble/",
+    "appcast": "https://github.com/manish1988/scribble-sketch-plugin/blob/master/appcast.xml",
+    "lastUpdated": "2018-11-16 12:00:00 UTC"
+  },
+  {
     "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
     "name": "Jane Doe",
     "title": "Jane Doe",
@@ -3586,14 +3596,6 @@
     "lastUpdated": "2018-06-09 17:52:08 UTC"
   },
   {
-    "title": "HandyMenu",
-    "description": "Quick access to Sketch App plugins through contextual menu",
-    "author": "Sergey Dmitriev",
-    "owner": "sergeishere",
-    "name": "HandyMenu-SketchPlugin",
-    "lastUpdated": "2018-08-08 21:13:49 UTC"
-  },
-  {
     "title": "Fast Text Transfer",
     "description": "Lightning fast copying, pasting and swapping text.",
     "name": "sketch-fast-text-transfer",
@@ -4572,5 +4574,46 @@
     "owner": "yudiz-solutions",
     "name": "paste-direct",
     "lastUpdated": "2018-11-10 22:49:42 UTC"
+  },
+  {
+    "title": "Lottie Sketch Export",
+    "description": "Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON",
+    "author": "Brandon Withrow",
+    "owner": "buba447",
+    "name": "Lottie-Sketch-Export",
+    "lastUpdated": "2018-11-02 17:46:53 UTC"
+  },
+  {
+    "title": "Sketch Rename Artboards",
+    "description": "Rename Artboards based on their X and Y locations in Sketch",
+    "author": "Kevin van Breemaat",
+    "owner": "KevinvBre",
+    "name": "Sketch-Rename-Artboards",
+    "lastUpdated": "2018-11-01 16:38:52 UTC"
+  },
+  {
+    "title": "Sketch2Web",
+    "description": "Export your project to web in just one click.",
+    "author": "Skuko",
+    "homepage": "http://www.sketch2web.skuko.com",
+    "lastUpdated": "2018-10-19"
+  },
+  {
+    "title": "PersianSupplier",
+    "description": "Sketch Plugin for supplying dynamic persian data.",
+    "author": "Hirad Arshadi",
+    "owner": "hiradarshadi",
+    "name": "PersianSupplier",
+    "lastUpdated": "2018-11-10 23:30:43 UTC"
+  },
+  {
+    "title": "Primary Sync",
+    "description": "Sync your Sketch designs 💎 with Primary's user flows and design documents.",
+    "name": "Primary Sync",
+    "owner": "Primary-app",
+    "author": "Primary",
+    "appcast": "https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml",
+    "homepage": "https://github.com/Primary-app/primary-sync",
+    "lastUpdated": "2018-07-30 19:57:00 UTC"
   }
 ]
