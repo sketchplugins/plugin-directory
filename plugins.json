@@ -3596,14 +3596,6 @@
     "lastUpdated": "2018-06-09 17:52:08 UTC"
   },
   {
-    "title": "HandyMenu",
-    "description": "Quick access to Sketch App plugins through contextual menu",
-    "author": "Sergey Dmitriev",
-    "owner": "sergeishere",
-    "name": "HandyMenu-SketchPlugin",
-    "lastUpdated": "2018-08-08 21:13:49 UTC"
-  },
-  {
     "title": "Fast Text Transfer",
     "description": "Lightning fast copying, pasting and swapping text.",
     "name": "sketch-fast-text-transfer",
@@ -4613,5 +4605,15 @@
     "owner": "hiradarshadi",
     "name": "PersianSupplier",
     "lastUpdated": "2018-11-10 23:30:43 UTC"
+  },
+  {
+    "title": "Primary Sync",
+    "description": "Sync your Sketch designs 💎 with Primary's user flows and design documents.",
+    "name": "Primary Sync",
+    "owner": "Primary-app",
+    "author": "Primary",
+    "appcast": "https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml",
+    "homepage": "https://github.com/Primary-app/primary-sync",
+    "lastUpdated": "2018-07-30 19:57:00 UTC"
   }
 ]

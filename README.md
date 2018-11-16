@@ -158,7 +158,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Gutter Cutter](https://github.com/gcampi/gutter-cutter), by Gabriele Campi: A Sketch plugin to create custom grids with guides
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [Handy Tools](https://github.com/webpatch/handy-tools), by webpatch: Some handy tools for Sketch
-- [HandyMenu](https://github.com/sergeishere/handymenu-sketchplugin), by Sergey Dmitriev: Quick access to Sketch App plugins through contextual menu
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [HTML Export](https://github.com/mludowise/sketch-html-export), by Mel Ludowise: Generates an HTML page of images from your artboard.
 - [I Want Apple System Font](https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin), by usagimaru: A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)
@@ -240,6 +239,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Plot](https://plotapp.co), by Jordan Singer: Collaborate with your design team in a new way
 - [polaris-telescope](https://github.com/Shopify/polaris-telescope), by Shopify: Access Shopify Polaris from Sketch to speed up your design or development workflow
 - [polyglot](https://github.com/fruitfrills/polyglot), by fruitfrills: Text translations
+- [Primary Sync](https://github.com/Primary-app/primary-sync), by Primary: Sync your Sketch designs 💎 with Primary's user flows and design documents.
 - [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [Protoship Codegen Sketch Client](https://github.com/protoship/codegen-sketch-client), by protoship: Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy
 - [Protowire](https://protowire.com), by Mark Horgan: Adds prototyping to Sketch including transitions between screens and layer animation.
@@ -569,7 +569,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Make Long Shadow](https://github.com/jayholtslander/sketch-make-long-shadow), by Jay Holtslander: A plugin for Sketch to create long shadows from a shape.
 - [Sketch Image Compressor](https://github.com/BohemianCoding/sketch-image-compressor), by BohemianCoding: A Plugin that compresses bitmap assets, right when you export them. This Plugin *requires* Sketch 3.8.
 - [States](https://github.com/edenvidal/states), by Eden Vidal: Create different artboard states and switch between them easily
-- [HandyMenu](https://github.com/sergeishere/handymenu-sketchplugin), by Sergey Dmitriev: Quick access to Sketch App plugins through contextual menu
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
 - [WeTransfer](https://github.com/wetransfer/sketch-plugin), by WeTransfer: Share artboards and pages via WeTransfer
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
@@ -599,6 +598,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Swatches](https://github.com/ashung/sketch_swatches), by Ashung Hung: A swatches plugin for Sketch, include Material Design, Open Color, RAL, TOYO, Pantone and more.
 - [sketch-replace-layer](https://github.com/daneden/sketch-replace-layer), by Daniel Eden: Replace selected layer(s) with copied content/layer(s)
 - [keyColor](https://github.com/kevingutowski/keycolor), by Kevin Gutowski: A Sketch plugin to apply colors via the keyboard.
+- [Primary Sync](https://github.com/Primary-app/primary-sync), by Primary: Sync your Sketch designs 💎 with Primary's user flows and design documents.
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [Table of Contents](https://github.com/youwenliang/table-of-contents), by You-Wen Liang (Mark): Sketch plugin for generating table of contents for documentations
 - [Paddy](https://github.com/dwilliames/paddy-sketch-plugin), by David Williames: Automated padding, spacing and alignment for your Sketch layers
