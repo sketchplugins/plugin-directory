@@ -4582,5 +4582,13 @@
     "owner": "yudiz-solutions",
     "name": "paste-direct",
     "lastUpdated": "2018-11-10 22:49:42 UTC"
+  },
+  {
+    "title": "Lottie Sketch Export",
+    "description": "Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON",
+    "author": "Brandon Withrow",
+    "owner": "buba447",
+    "name": "Lottie-Sketch-Export",
+    "lastUpdated": "2018-11-02 17:46:53 UTC"
   }
 ]
