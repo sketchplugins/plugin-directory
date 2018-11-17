@@ -4615,5 +4615,14 @@
     "appcast": "https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml",
     "homepage": "https://github.com/Primary-app/primary-sync",
     "lastUpdated": "2018-07-30 19:57:00 UTC"
+  },
+  {
+    "title": "rename-layers-based-on-textstyle",
+    "description": "Renames text layers in the current page based on their text style name",
+    "name": "rename-layers-based-on-textstyle",
+    "owner": "tbrasington",
+    "appcast": "https://raw.githubusercontent.com/tbrasington/rename-layers-based-on-textstyle/master/.appcast.xml",
+    "homepage": "https://github.com/tbrasington/rename-layers-based-on-textstyle",
+    "author": "Thomas Brasington"
   }
 ]
