@@ -4632,5 +4632,12 @@
     "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
     "homepage": "https://github.com/ysjn/bold-it",
     "author": "ysjn"
+  },
+  {
+    "title": "schematic",
+    "name": "schematic-sketch",
+    "owner": "saltfoundry",
+    "appcast": "https://raw.githubusercontent.com/saltfoundry/schematic-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/saltfoundry/schematic-sketch"
   }
 ]
