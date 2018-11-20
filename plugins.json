@@ -4624,5 +4624,13 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/rename-layers-based-on-textstyle/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/rename-layers-based-on-textstyle",
     "author": "Thomas Brasington"
+  },
+  {
+    "title": "bold-it",
+    "name": "bold-it",
+    "owner": "ysjn",
+    "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
+    "homepage": "https://github.com/ysjn/bold-it",
+    "author": "ysjn"
   }
 ]
