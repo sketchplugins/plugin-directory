@@ -4631,6 +4631,16 @@
     "owner": "ysjn",
     "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
     "homepage": "https://github.com/ysjn/bold-it",
-    "author": "ysjn"
+    "author": "ysjn",
+    "description": ""
+  },
+  {
+    "title": "Pointbreak",
+    "name": "pointbreak",
+    "description": "Add breakpoints to artboards so you can have mobile and desktop designs on the one artboard.",
+    "author": "Mark Horgan",
+    "homepage": "https://pointbreak.protowire.com",
+    "appcast": "https://update.protowire.com/plugins/sketch/pointbreak/appcast.xml",
+    "lastUpdated": "2018-11-14 12:25:00 UTC"
   }
 ]
