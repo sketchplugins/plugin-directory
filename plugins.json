@@ -4632,5 +4632,12 @@
     "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
     "homepage": "https://github.com/ysjn/bold-it",
     "author": "ysjn"
+  },
+  {
+    "title": "VK-Data",
+    "name": "vkdata-sketchplugin",
+    "owner": "VKCOM",
+    "appcast": "https://raw.githubusercontent.com/VKCOM/vkdata-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/VKCOM/vkdata-sketchplugin"
   }
 ]
