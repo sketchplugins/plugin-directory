@@ -4642,5 +4642,12 @@
     "homepage": "https://pointbreak.protowire.com",
     "appcast": "https://update.protowire.com/plugins/sketch/pointbreak/appcast.xml",
     "lastUpdated": "2018-11-14 12:25:00 UTC"
+  },
+  {
+    "title": "VK-Data",
+    "name": "vkdata-sketchplugin",
+    "owner": "VKCOM",
+    "appcast": "https://raw.githubusercontent.com/VKCOM/vkdata-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/VKCOM/vkdata-sketchplugin"
   }
 ]
