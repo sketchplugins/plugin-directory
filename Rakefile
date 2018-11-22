@@ -65,11 +65,14 @@ task :readme do
 
 A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
-**Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
+**Note:** if you want to add yours, just open an issue with the URL, send a pull request, or use [skpm](https://skpm.io) to develop it (skpm takes care of publishing automatically). Once your plugin is added here, it will appear on [the website](https://sketchapp.com/extensions/plugins) as soon as we make a new deploy (that can take anywhere from a few minutes to a few days)
 
 EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
+
+    puts "Processing #{plugin}"
+
     name   = plugin['name']
     title  = plugin['title'] || name
     owner  = plugin['owner']
@@ -77,7 +80,6 @@ EOF
     url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
     desc   = plugin['description'].strip
 
-    # puts title
 
     if is_plugin_too_old? plugin
       puts "#{title} is too old, lastUpdated: #{plugin['lastUpdated']}"

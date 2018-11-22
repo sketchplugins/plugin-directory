@@ -4646,6 +4646,7 @@
   {
     "title": "VK-Data",
     "name": "vkdata-sketchplugin",
+    "description": "Plugin for using data from your account at vk.com",
     "owner": "VKCOM",
     "appcast": "https://raw.githubusercontent.com/VKCOM/vkdata-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/VKCOM/vkdata-sketchplugin"
