@@ -4627,12 +4627,12 @@
   },
   {
     "title": "bold-it",
+    "description": "Bold-it is a super simple plugin that bolds user-specified keyword in selected text layers.",
     "name": "bold-it",
     "owner": "ysjn",
     "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
     "homepage": "https://github.com/ysjn/bold-it",
-    "author": "ysjn",
-    "description": ""
+    "author": "ysjn"
   },
   {
     "title": "Pointbreak",
