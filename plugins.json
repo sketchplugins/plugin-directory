@@ -4650,5 +4650,14 @@
     "owner": "VKCOM",
     "appcast": "https://raw.githubusercontent.com/VKCOM/vkdata-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/VKCOM/vkdata-sketchplugin"
+  },
+  {
+    "title": "DesignToken2Code",
+    "description": "Convert design tokens to SCSS variables as code",
+    "name": "DesignToken2Code",
+    "owner": "m-yoshiro",
+    "appcast": "https://raw.githubusercontent.com/m-yoshiro/DesignToken2Code/master/.appcast.xml",
+    "homepage": "https://github.com/m-yoshiro/DesignToken2Code",
+    "author": "m-yoshiro"
   }
 ]
