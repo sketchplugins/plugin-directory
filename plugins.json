@@ -1,5 +1,15 @@
 [
   {
+    "description": "Awesome Product Design Tool",
+    "name": "🐳 蓝湖",
+    "title": "🐳 蓝湖",
+    "owner": "lanhuapp.com",
+    "author": "lanhuapp.com",
+    "homepage": "https://lanhuapp.com/mac",
+    "appcast": "http://d.lanhuapp.com/appcast.xml",
+    "lastUpdated": "2018-10-26 22:33:33 UTC"
+  },
+  {
     "description": "Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.",
     "name": "Scribble",
     "title": "Scribble",
