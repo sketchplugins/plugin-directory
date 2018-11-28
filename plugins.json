@@ -4659,5 +4659,14 @@
     "appcast": "https://raw.githubusercontent.com/m-yoshiro/DesignToken2Code/master/.appcast.xml",
     "homepage": "https://github.com/m-yoshiro/DesignToken2Code",
     "author": "m-yoshiro"
+  },
+  {
+    "title": "sketch-export-to",
+    "description": "Export an artboard layers to json or markdown",
+    "name": "sketch-export",
+    "owner": "mascardoso",
+    "appcast": "https://raw.githubusercontent.com/mascardoso/sketch-export/master/.appcast.xml",
+    "homepage": "https://github.com/mascardoso/sketch-export",
+    "author": "Marco Cardoso"
   }
 ]
