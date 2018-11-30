@@ -49,7 +49,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Better Shadow](https://github.com/JJYing/Sketch-Better-Shadow), by JJ Ying: Quickly generate multi-layered shadow to mimic non-linear decay.
 - [Blender](https://github.com/bunnieabc/blender), by bunnieabc: A sketch plugin to create awesome gradient layers
 - [Blur Artboard](http://blur.duanjun.net), by Duan: Add blur effect to artboards for testing visual hierarchy easily in your design process.
-- [bold-it](https://github.com/ysjn/bold-it), by ysjn:
+- [bold-it](https://github.com/ysjn/bold-it), by ysjn: Bold-it is a super simple plugin that bolds user-specified keyword in selected text layers.
 - [Bonsai Standards](https://github.com/thechinesekid/bonsai-plugin), by Hui Zheng: Update all the colors in an artboard to the latest Bonsai colors.
 - [Bookmark 🔖](https://github.com/arkkimaagi/bookmark), by Mikko Tapionlinna: Bookmark your place and zoom in Sketch.app
 - [Bootstrap Grid](https://github.com/de-la-vega/bootstrapgrid), by Vitaliy Kirenkov: Sketch plugin inserts correct bootstrap grid in nested blocks.
@@ -97,6 +97,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Day Player](https://github.com/tylergaw/day-player), by Tyler Gaw: A collection of Sketch Plugins for creating placeholder images.
 - [DeepSelect](https://github.com/fhuel/DeepSelect), by fhuel: A quick and easy way to select layers inside a group, filtering by layer type
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
+- [DesignToken2Code](https://github.com/m-yoshiro/DesignToken2Code), by m-yoshiro: Convert design tokens to SCSS variables as code
 - [Diverse UI Sketch Plugin](https://github.com/reneepadgham/diverseui-sketch-plugin), by Renée Padgham: The official Sketch plugin for Diverse UI.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
 - [Drafta](https://github.com/fragmentlv/drafta), by Fragment: Export designs directly to Drafta
@@ -263,6 +264,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
 - [Rename It](http://rodi01.github.io/RenameIt/), by Rodrigo Soares: Keep your Sketch files organized, batch rename layers and artboards.
 - [rename-layers-based-on-textstyle](https://github.com/tbrasington/rename-layers-based-on-textstyle), by Thomas Brasington: Renames text layers in the current page based on their text style name
+- [Renamer](https://github.com/webkul/renamer), by Nitish Khagwal: Select multiple layers and rename all of them on the go.
 - [Replace Colour](https://github.com/lewishowles/sketch-replace-colour), by Lewis Howles: Replace all fill or text colours matching the selected layer
 - [Replace Images](https://github.com/shakemno/sketch-replace-images), by shakemno: Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.
 - [Reselect](http://www.reselect.co), by Michael Fouquet: Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).
@@ -400,6 +402,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sketch-codelight](https://github.com/somebee/sketch-codelight), by somebee: Highlight code inside Text layers in Sketch
 - [sketch-duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol), by Mike Mariano: Sketch plugin that creates a new symbol out of a selected symbol
 - [sketch-easing-gradients](https://github.com/larsenwork/sketch-easing-gradient), by larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
+- [sketch-export-to](https://github.com/mascardoso/sketch-export), by Marco Cardoso: Export an artboard layers to json or markdown
 - [sketch-find-all-instances-of-symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol), by Logan McAnsh: Find all instances of a symbol in Sketch
 - [sketch-hyphenator](https://github.com/golmakov/sketch-hyphenator), by Aleksander Golmakov: Sketch plugin that hyphenates text
 - [Sketch-Icons](https://github.com/AMoreaux/Sketch-Icons), by AMoreaux: Import your icons, apply a color mask and create a dynamic icons library.
@@ -512,11 +515,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [zeroheight](https://zeroheight.com), by zeroheight: Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻
 - [⚓️ Sketch - SelectPlus](https://github.com/nathan5x/sketch-selectplus), by Sabarinathan Masilamani: Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.
+- [🐳 蓝湖](https://lanhuapp.com/mac), by lanhuapp.com: Awesome Product Design Tool
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 
 
 ## Sorted by last update (newest on top)
 
+- [Renamer](https://github.com/webkul/renamer), by Nitish Khagwal: Select multiple layers and rename all of them on the go.
 - [Scribble](https://www.canvasflip.com/visual-inspector/scribble/), by CanvasFlip Inc: Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.
 - [Pointbreak](https://pointbreak.protowire.com), by Mark Horgan: Add breakpoints to artboards so you can have mobile and desktop designs on the one artboard.
 - [Jane Doe](https://github.com/konki-vienna/jane_doe), by Konstantin Demblin: This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.
@@ -525,12 +530,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Lottie Sketch Export](https://github.com/buba447/lottie-sketch-export), by Brandon Withrow: Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON
 - [Sketch Rename Artboards](https://github.com/kevinvbre/sketch-rename-artboards), by Kevin van Breemaat: Rename Artboards based on their X and Y locations in Sketch
 - [Timelapse](https://timelapsesketch.com), by Team Timelapse: Create beautiful high-speed videos of your work in Sketch and show off your progress.
+- [🐳 蓝湖](https://lanhuapp.com/mac), by lanhuapp.com: Awesome Product Design Tool
 - [Sketch2Web](http://www.sketch2web.skuko.com), by Skuko: Export your project to web in just one click.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
 - [Laboji](https://github.com/rezaaa/Laboji), by Mohammad Reza Mahmoudi: A sketch plugin for adding emoji on layer name like colorful labels or tags.
 - [Sketch Plugin Skew](https://github.com/mheesakkers/sketch-plugin-skew), by Misha: A Sketch plugin for skewing (or shearing) shapes horizontally or vertically.
-- [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
 - [6Spiral](https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin), by Matej Marjanovic: 6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.
+- [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
 - [Overrideit Sketchplugin](https://github.com/ahmedmigo/overrideit-sketchplugin), by Ahmed Genaidy: Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
