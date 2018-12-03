@@ -4678,5 +4678,14 @@
     "appcast": "https://raw.githubusercontent.com/mascardoso/sketch-export/master/.appcast.xml",
     "homepage": "https://github.com/mascardoso/sketch-export",
     "author": "Marco Cardoso"
+  },
+  {
+    "title": "davinci_vip",
+    "description": "dvc",
+    "name": "dvc_sketch_plugin",
+    "owner": "dvcdv",
+    "appcast": "https://raw.githubusercontent.com/dvcdv/dvc_sketch_plugin/master/.appcast.xml",
+    "homepage": "https://github.com/dvcdv/dvc_sketch_plugin",
+    "author": "D2C"
   }
 ]
