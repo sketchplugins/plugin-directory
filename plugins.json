@@ -1,5 +1,15 @@
 [
   {
+    "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
+    "name": "Renamer",
+    "title": "Renamer",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "homepage": "https://github.com/webkul/renamer",
+    "appcast": "https://raw.githubusercontent.com/webkul/renamer/master/appcast.xml",
+    "lastUpdated": "2018-11-30 01:20:00 UTC"
+  },
+  {
     "description": "Awesome Product Design Tool",
     "name": "🐳 蓝湖",
     "title": "🐳 蓝湖",
