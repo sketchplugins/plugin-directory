@@ -4678,5 +4678,14 @@
     "appcast": "https://raw.githubusercontent.com/mascardoso/sketch-export/master/.appcast.xml",
     "homepage": "https://github.com/mascardoso/sketch-export",
     "author": "Marco Cardoso"
+  },
+  {
+    "title": "sketch-afux-tools",
+    "description": "Sketch tools for AFUX",
+    "name": "sketch-afux-tools",
+    "owner": "canisminor1990",
+    "appcast": "https://raw.githubusercontent.com/canisminor1990/sketch-afux-tools/master/.appcast.xml",
+    "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
+    "author": "CanisMinor"
   }
 ]
