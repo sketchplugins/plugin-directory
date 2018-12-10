@@ -4729,5 +4729,14 @@
     "homepage": "https://github.com/canisminor1990/sketch-afux-tools",
     "author": "CanisMinor",
     "lastUpdated": "2018-12-04 08:29:01 UTC"
+  },
+  {
+    "title": "davinci_vip",
+    "description": "dvc",
+    "name": "dvc_sketch_plugin",
+    "owner": "dvcdv",
+    "appcast": "https://raw.githubusercontent.com/dvcdv/dvc_sketch_plugin/master/.appcast.xml",
+    "homepage": "https://github.com/dvcdv/dvc_sketch_plugin",
+    "author": "D2C"
   }
 ]
