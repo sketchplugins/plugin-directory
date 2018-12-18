@@ -539,6 +539,7 @@
     "title": "Prott Sketch Plugin",
     "author": "Goodpatch Inc.",
     "owner": "goodpatch",
+    "appcast": "https://raw.githubusercontent.com/goodpatch/Prott-Sketch-Plugin/master/.appcast.xml",
     "lastUpdated": "2018-11-30 05:05:38 UTC"
   },
   {
