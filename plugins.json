@@ -4741,6 +4741,14 @@
     "lastUpdated": "2018-12-04 08:29:01 UTC"
   },
   {
+    "title": "Envato Elements",
+    "description": "Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!",
+    "name": "extensions-sketch-plugin",
+    "owner": "envato",
+    "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/envato/extensions-sketch-plugin"
+  },
+  {
     "title": "davinci_vip",
     "description": "dvc",
     "name": "dvc_sketch_plugin",
