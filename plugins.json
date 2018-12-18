@@ -4741,6 +4741,15 @@
     "lastUpdated": "2018-12-04 08:29:01 UTC"
   },
   {
+    "title": "Anto",
+    "description": "Sketch tools for AFUX",
+    "name": "anto",
+    "owner": "canisminor1990",
+    "appcast": "https://raw.githubusercontent.com/canisminor1990/anto/master/.appcast.xml",
+    "homepage": "https://github.com/canisminor1990/anto",
+    "author": "CanisMinor"
+  },
+  {
     "title": "Envato Elements",
     "description": "Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!",
     "name": "extensions-sketch-plugin",
