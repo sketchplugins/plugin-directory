@@ -1,5 +1,14 @@
 [
   {
+    "description": "Keep your Sketch files immaculately clean and in order.",
+    "name": "File Cleaner",
+    "title": "File Cleaner",
+    "owner": "Monzo",
+    "author": "Monzo",
+    "homepage": "https://github.com/monzo/file-cleaner",
+    "lastUpdated": "2018-12-11 15:30:00 UTC"
+  },
+  {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
     "name": "Renamer",
     "title": "Renamer",
@@ -539,6 +548,7 @@
     "title": "Prott Sketch Plugin",
     "author": "Goodpatch Inc.",
     "owner": "goodpatch",
+    "appcast": "https://raw.githubusercontent.com/goodpatch/Prott-Sketch-Plugin/master/.appcast.xml",
     "lastUpdated": "2018-11-30 05:05:38 UTC"
   },
   {
@@ -4738,5 +4748,42 @@
     "appcast": "https://raw.githubusercontent.com/canisminor1990/anto/master/.appcast.xml",
     "homepage": "https://github.com/canisminor1990/anto",
     "author": "CanisMinor"
+  },
+  {
+    "title": "Envato Elements",
+    "description": "Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!",
+    "name": "extensions-sketch-plugin",
+    "owner": "envato",
+    "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/envato/extensions-sketch-plugin"
+  },
+  {
+    "title": "davinci_vip",
+    "description": "dvc",
+    "name": "dvc_sketch_plugin",
+    "owner": "dvcdv",
+    "appcast": "https://raw.githubusercontent.com/dvcdv/dvc_sketch_plugin/master/.appcast.xml",
+    "homepage": "https://github.com/dvcdv/dvc_sketch_plugin",
+    "author": "D2C"
+  },
+  {
+    "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
+    "name": "Renamer",
+    "title": "Renamer",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "homepage": "https://github.com/webkul/renamer",
+    "appcast": "https://raw.githubusercontent.com/webkul/renamer/master/appcast.xml",
+    "lastUpdated": "2018-12-03 08:19:26 UTC"
+  },
+  {
+    "description": "Coolest handpicked Gradient Palette for super amazing stuff",
+    "name": "CoolHue",
+    "title": "CoolHue",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "homepage": "https://github.com/webkul/coolhue",
+    "appcast": "https://raw.githubusercontent.com/webkul/coolhue/master/appcast.xml",
+    "lastUpdated": "2018-12-03 08:19:26 UTC"
   }
 ]
