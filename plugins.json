@@ -1,5 +1,24 @@
 [
   {
+    "description": "Keep your Sketch files immaculately clean and in order.",
+    "name": "File Cleaner",
+    "title": "File Cleaner",
+    "owner": "Monzo",
+    "author": "Monzo",
+    "homepage": "https://github.com/monzo/file-cleaner",
+    "lastUpdated": "2018-12-11 15:30:00 UTC"
+  },
+  {
+    "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
+    "name": "Renamer",
+    "title": "Renamer",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "homepage": "https://github.com/webkul/renamer",
+    "appcast": "https://raw.githubusercontent.com/webkul/renamer/master/appcast.xml",
+    "lastUpdated": "2018-12-03 08:19:26 UTC"
+  },
+  {
     "description": "Awesome Product Design Tool",
     "name": "🐳 蓝湖",
     "title": "🐳 蓝湖",

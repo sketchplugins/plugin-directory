@@ -126,6 +126,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [exporter](https://github.com/maxbazarov/exporter), by MaxBazarov: Exports Sketch artboards into linked HTML files.
 - [Fake Chinese Name for Sketch](https://github.com/jjying/fake-chinese-name-for-sketch), by JJ Ying: Generate Chinese names for text layers.
 - [Fast Text Transfer](https://github.com/jbentzen/sketch-fast-text-transfer), by Jesper Bentzen: Lightning fast copying, pasting and swapping text.
+- [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Find All Instances of Symbol](https://github.com/nmwoods1/sketch---find-all-instances-of-symbol), by nmwoods1: A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
 - [Fitter Sketch Plugin](https://github.com/pberrecloth/fitter-sketch-plugin), by Peter Berrecloth: Fit layer to artboard width, height or both
@@ -523,6 +524,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Sketch QR Code](https://github.com/lerte/sketch-qr-code), by Lerte Smith: A Plugin for generate SVG QR Code in Sketch app.
 - [Overrideit Sketchplugin](https://github.com/ahmedmigo/overrideit-sketchplugin), by Ahmed Genaidy: Overrideit is sketch plugin that allow designers to search in overridelist and overrides dropdowns, and with many other features.
 - [exporter](https://github.com/maxbazarov/exporter), by MaxBazarov: Exports Sketch artboards into linked HTML files.
