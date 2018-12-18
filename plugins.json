@@ -1,15 +1,5 @@
 [
   {
-    "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
-    "name": "Renamer",
-    "title": "Renamer",
-    "owner": "Webkul",
-    "author": "Webkul, Nitish Khagwal",
-    "homepage": "https://github.com/webkul/renamer",
-    "appcast": "https://raw.githubusercontent.com/webkul/renamer/master/appcast.xml",
-    "lastUpdated": "2018-12-03 08:19:26 UTC"
-  },
-  {
     "description": "Awesome Product Design Tool",
     "name": "🐳 蓝湖",
     "title": "🐳 蓝湖",
@@ -539,6 +529,7 @@
     "title": "Prott Sketch Plugin",
     "author": "Goodpatch Inc.",
     "owner": "goodpatch",
+    "appcast": "https://raw.githubusercontent.com/goodpatch/Prott-Sketch-Plugin/master/.appcast.xml",
     "lastUpdated": "2018-11-30 05:05:38 UTC"
   },
   {
@@ -4738,5 +4729,25 @@
     "appcast": "https://raw.githubusercontent.com/dvcdv/dvc_sketch_plugin/master/.appcast.xml",
     "homepage": "https://github.com/dvcdv/dvc_sketch_plugin",
     "author": "D2C"
+  },
+  {
+    "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
+    "name": "Renamer",
+    "title": "Renamer",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "homepage": "https://github.com/webkul/renamer",
+    "appcast": "https://raw.githubusercontent.com/webkul/renamer/master/appcast.xml",
+    "lastUpdated": "2018-12-03 08:19:26 UTC"
+  },
+  {
+    "description": "Coolest handpicked Gradient Palette for super amazing stuff",
+    "name": "CoolHue",
+    "title": "CoolHue",
+    "owner": "Webkul",
+    "author": "Webkul, Nitish Khagwal",
+    "homepage": "https://github.com/webkul/coolhue",
+    "appcast": "https://raw.githubusercontent.com/webkul/coolhue/master/appcast.xml",
+    "lastUpdated": "2018-12-03 08:19:26 UTC"
   }
 ]
