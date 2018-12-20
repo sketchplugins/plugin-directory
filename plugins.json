@@ -4798,9 +4798,9 @@
   {
     "title": "Userflows",
     "name": "Sketch-user-flows",
+    "description": "Plugin for generating easy to use user flows in Sketch",
     "owner": "faridsabitov",
     "appcast": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/.appcast.xml",
-    "homepage": "https://github.com/faridsabitov/Sketch-user-flows",
     "author": "Farid Sabitov"
   }
 ]
