@@ -4785,5 +4785,14 @@
     "homepage": "https://github.com/webkul/coolhue",
     "appcast": "https://raw.githubusercontent.com/webkul/coolhue/master/appcast.xml",
     "lastUpdated": "2018-12-03 08:19:26 UTC"
+  },
+  {
+    "title": "Annotations",
+    "description": "Hide/show layer groups named 'Annotations'.",
+    "name": "annotations-sketch-plugin",
+    "owner": "BaguetteEngineering",
+    "appcast": "https://raw.githubusercontent.com/BaguetteEngineering/annotations-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/BaguetteEngineering/annotations-sketch-plugin",
+    "author": "Baguette Engineering"
   }
 ]
