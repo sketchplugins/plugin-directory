@@ -4802,5 +4802,14 @@
     "owner": "faridsabitov",
     "appcast": "https://raw.githubusercontent.com/faridsabitov/Sketch-user-flows/master/.appcast.xml",
     "author": "Farid Sabitov"
-  }
+  },
+  {
+     "title": "Composite SVG",
+     "description": "A Sketch plugin to create a composite SVG file from sketch artboards",
+     "name": "composite-svg",
+     "owner": "alanfraneo",
+     "appcast": "https://raw.githubusercontent.com/alanfraneo/svg-composite/master/appcast.xml",
+     "homepage": "https://github.com/alanfraneo/svg-composite",
+     "author": "Alan Francis"
+   }
 ]
