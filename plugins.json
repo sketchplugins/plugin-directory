@@ -4163,6 +4163,14 @@
     "lastUpdated": "2018-10-19 23:42:10 UTC"
   },
   {
+    "title": "SymbolNameAutocomplete",
+    "description": "This plugin gives you autocompletion of symbol names when creating a symbol.",
+    "author": "griffin-stewie",
+    "owner": "griffin-stewie",
+    "name": "SymbolNameAutocomplete",
+    "lastUpdated": "2018-12-24 14:08:00 UTC"
+  },
+  {
     "title": "adjustToFit",
     "description": "A quick Sketch plugin to resize text layers, groups, and artboards to fit their content. Also supports nested resizing.",
     "name": "sketch-adjusttofit",
