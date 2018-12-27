@@ -4812,12 +4812,21 @@
     "author": "Farid Sabitov"
   },
   {
-     "title": "Composite SVG",
-     "description": "A Sketch plugin to create a composite SVG file from sketch artboards",
-     "name": "composite-svg",
-     "owner": "alanfraneo",
-     "appcast": "https://raw.githubusercontent.com/alanfraneo/svg-composite/master/appcast.xml",
-     "homepage": "https://github.com/alanfraneo/svg-composite",
-     "author": "Alan Francis"
-   }
+    "title": "Composite SVG",
+    "description": "A Sketch plugin to create a composite SVG file from sketch artboards",
+    "name": "composite-svg",
+    "owner": "alanfraneo",
+    "appcast": "https://raw.githubusercontent.com/alanfraneo/svg-composite/master/appcast.xml",
+    "homepage": "https://github.com/alanfraneo/svg-composite",
+    "author": "Alan Francis"
+  },
+  {
+    "title": "Parker-Portfolio",
+    "description": "View my portfolio in sketch",
+    "name": "View-Portfolio-Sketch",
+    "owner": "parkerhendo",
+    "appcast": "https://raw.githubusercontent.com/parkerhendo/View-Portfolio-Sketch/master/.appcast.xml",
+    "homepage": "https://github.com/parkerhendo/View-Portfolio-Sketch",
+    "author": "Parker Henderson"
+  }
 ]
