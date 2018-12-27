@@ -4825,7 +4825,7 @@
     "description": "imgcook sketch plugin",
     "name": "imgcook",
     "owner": "taobaofed",
-    "appcast": "https://raw.githubusercontent.com/taobaofed/imgcook/master/.appcast.xml",
+    "appcast": "https://raw.githubusercontent.com/taobaofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://github.com/taobaofed/imgcook",
     "author": "Taobao FED"
   }
