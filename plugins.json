@@ -4828,5 +4828,14 @@
     "appcast": "https://raw.githubusercontent.com/taobaofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://github.com/taobaofed/imgcook",
     "author": "Taobao FED"
+  },
+  {
+    "title": "2O3T Tools",
+    "description": "Easy Tools, batch rename layers and artboards, etc.",
+    "name": "2o3t-Sketch-Tools",
+    "owner": "2o3t",
+    "appcast": "https://raw.githubusercontent.com/2o3t/2o3t-Sketch-Tools/master/.appcast.xml",
+    "homepage": "https://github.com/2o3t/2o3t-Sketch-Tools",
+    "author": "Zyao89"
   }
 ]
