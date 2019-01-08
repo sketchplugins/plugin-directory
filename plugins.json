@@ -4828,5 +4828,13 @@
     "appcast": "https://raw.githubusercontent.com/taobaofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://github.com/taobaofed/imgcook",
     "author": "Taobao FED"
+  },
+  {
+    "title": "BillUI",
+    "name": "BillUI",
+    "owner": "SimonTakman",
+    "appcast": "https://raw.githubusercontent.com/SimonTakman/BillUI/master/.appcast.xml",
+    "homepage": "https://github.com/SimonTakman/BillUI",
+    "author": "Carl Albertsson & Simon Takman"
   }
 ]
