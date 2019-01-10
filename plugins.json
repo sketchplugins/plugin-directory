@@ -4845,5 +4845,13 @@
     "owner": "wangjunwangjunwang",
     "appcast": "https://raw.githubusercontent.com/wangjunwangjunwang/sketch2pixi-plugin/master/.appcast.xml",
     "homepage": "https://github.com/wangjunwangjunwang/sketch2pixi-plugin"
+  },
+  {
+    "title": "Sketch Guides",
+    "description": "Quickly generate Guides for a selected element in Sketch",
+    "author": "Pratik Shah",
+    "owner": "pratikjshah",
+    "name": "Sketch-Guides",
+    "lastUpdated": "2019-01-09 10:36:30 UTC"
   }
 ]
