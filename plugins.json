@@ -4830,6 +4830,15 @@
     "author": "Taobao FED"
   },
   {
+    "title": "2O3T Tools",
+    "description": "Easy Tools, batch rename layers and artboards, etc.",
+    "name": "2o3t-Sketch-Tools",
+    "owner": "2o3t",
+    "appcast": "https://raw.githubusercontent.com/2o3t/2o3t-Sketch-Tools/master/.appcast.xml",
+    "homepage": "https://github.com/2o3t/2o3t-Sketch-Tools",
+    "author": "Zyao89"
+  },
+  {
     "title": "bztone-plugin",
     "description": "switch layers of sketch to pixi.json",
     "name": "sketch2pixi-plugin",
