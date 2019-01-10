@@ -335,6 +335,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Grid Master](https://github.com/exevil/sketch-grid-master), by Vyacheslav Dubovitsky: Grid Master is a Sketch plugin that fixes long-standing bugs and adds new functionaity related on work with Grid and Layout.
 - [Sketch Groupie](https://github.com/aparajita/sketch-groupie), by Aparajita Fishman: Sketch plugin providing commands to align layers with their parent group
 - [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
+- [📐Sketch Guides](http://guides.pratikshah.website/), by Pratik Shah: Allows you to quickly generate guides for a selected element and helps you achieve web development's famous grid (column) behaviour in Sketch. 
 - [Sketch Hback Plugin](https://github.com/yusukekokubo/sketch-hback-plugin), by Yusuke Kokubo: A Sketch Plugin for history back and forward.
 - [Sketch Icon Fetcher](https://github.com/sagishrieber/sketch-any-icon-fetcher), by Sagi Shrieber: This plugin will let you insert any website's favicon, or iOS/Android app's icon into your design
 - [Sketch Iconscope](https://github.com/ziven27/sketch-iconscope), by ziven27: Wrap the Icon with a square(4n) scope.
@@ -531,6 +532,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [📐Sketch Guides](http://guides.pratikshah.website/), by Pratik Shah: Allows you to quickly generate guides for a selected element and helps you achieve web development's famous grid (column) behaviour in Sketch. 
 - [SymbolNameAutocomplete](https://github.com/griffin-stewie/symbolnameautocomplete), by griffin-stewie: This plugin gives you autocompletion of symbol names when creating a symbol.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Sketch QR Code](https://github.com/lerte/sketch-qr-code), by Lerte Smith: A Plugin for generate SVG QR Code in Sketch app.

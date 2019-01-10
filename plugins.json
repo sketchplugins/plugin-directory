@@ -4837,5 +4837,13 @@
     "appcast": "https://raw.githubusercontent.com/2o3t/2o3t-Sketch-Tools/master/.appcast.xml",
     "homepage": "https://github.com/2o3t/2o3t-Sketch-Tools",
     "author": "Zyao89"
+  },
+  {
+    "title": "bztone-plugin",
+    "description": "switch layers of sketch to pixi.json",
+    "name": "sketch2pixi-plugin",
+    "owner": "wangjunwangjunwang",
+    "appcast": "https://raw.githubusercontent.com/wangjunwangjunwang/sketch2pixi-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/wangjunwangjunwang/sketch2pixi-plugin"
   }
 ]
