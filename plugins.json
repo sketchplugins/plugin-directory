@@ -4854,5 +4854,14 @@
     "name": "Sketch-Guides",
     "lastUpdated": "2019-01-09 10:36:30 UTC",
     "homepage": "http://guides.pratikshah.website/"
+  },
+  {
+    "title": "sketch-git-pro",
+    "description": "Git tools for sketch.",
+    "name": "sketch-git-pro",
+    "owner": "xuming",
+    "appcast": "https://raw.githubusercontent.com/xuming/sketch-git-pro/master/.appcast.xml",
+    "homepage": "https://github.com/xuming/sketch-git-pro",
+    "author": "xuming"
   }
 ]
