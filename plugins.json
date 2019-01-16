@@ -4830,6 +4830,14 @@
     "author": "Taobao FED"
   },
   {
+    "title": "BillUI",
+    "name": "BillUI",
+    "owner": "SimonTakman",
+    "appcast": "https://raw.githubusercontent.com/SimonTakman/BillUI/master/.appcast.xml",
+    "homepage": "https://github.com/SimonTakman/BillUI",
+    "author": "Carl Albertsson & Simon Takman"
+  },
+  {
     "title": "2O3T Tools",
     "description": "Easy Tools, batch rename layers and artboards, etc.",
     "name": "2o3t-Sketch-Tools",
