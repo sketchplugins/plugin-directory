@@ -1,3 +1,5 @@
+#encoding: utf-8
+
 require 'json'
 require 'time'
 require "./lib/plugin-directory-utils"
