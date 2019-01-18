@@ -4833,6 +4833,7 @@
     "title": "BillUI",
     "name": "BillUI",
     "owner": "SimonTakman",
+    "description": "Interactive artificial evolutionary tool in order to help you come up with design suggestions that are similar to your initial design.",
     "appcast": "https://raw.githubusercontent.com/SimonTakman/BillUI/master/.appcast.xml",
     "homepage": "https://github.com/SimonTakman/BillUI",
     "author": "Carl Albertsson & Simon Takman"
@@ -4867,6 +4868,7 @@
     "title": "french-typography",
     "name": "french-typography",
     "owner": "Saint-loup",
+    "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/french-typography/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/french-typography"
   },
