@@ -4869,5 +4869,14 @@
     "owner": "Saint-loup",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/french-typography/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/french-typography"
+  },
+  {
+    "title": "sketch-git-pro",
+    "description": "Git tools for sketch.",
+    "name": "sketch-git-pro",
+    "owner": "xuming",
+    "appcast": "https://raw.githubusercontent.com/xuming/sketch-git-pro/master/.appcast.xml",
+    "homepage": "https://github.com/xuming/sketch-git-pro",
+    "author": "xuming"
   }
 ]
