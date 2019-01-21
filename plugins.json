@@ -4880,5 +4880,14 @@
     "appcast": "https://raw.githubusercontent.com/xuming/sketch-git-pro/master/.appcast.xml",
     "homepage": "https://github.com/xuming/sketch-git-pro",
     "author": "xuming"
+  },
+  {
+    "title": "betterTypeTool",
+    "description": "A sketch plugin to help manage common OpenType properties",
+    "name": "betterTypePanel",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/betterTypePanel",
+    "author": "Kevin Gutowski"
   }
 ]
