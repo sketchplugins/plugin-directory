@@ -4882,6 +4882,14 @@
     "author": "xuming"
   },
   {
+    "title": "hubble-sketch-plugin",
+    "description": "A Sketch plugin to extract assets and primitives and send them to Hubble.app",
+    "name": "hubble-sketch-plugin",
+    "owner": "inthepocket",
+    "appcast": "https://raw.githubusercontent.com/inthepocket/hubble-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/inthepocket/hubble-sketch-plugin"
+  },
+  {
     "title": "betterTypePanel",
     "description": "A sketch plugin to help manage common OpenType properties",
     "name": "betterTypePanel",
