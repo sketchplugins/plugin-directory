@@ -4888,5 +4888,23 @@
     "owner": "inthepocket",
     "appcast": "https://raw.githubusercontent.com/inthepocket/hubble-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin"
+  },
+  {
+    "title": "betterTypePanel",
+    "description": "A sketch plugin to help manage common OpenType properties",
+    "name": "betterTypePanel",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/betterTypePanel",
+    "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Datazier Lens",
+    "description": "Inspect and sort your local font book",
+    "name": "datazier-lens",
+    "owner": "enriquezgomez",
+    "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
+    "homepage": "https://github.com/enriquezgomez/datazier-lens",
+    "author": "Victor Enriquez"
   }
 ]
