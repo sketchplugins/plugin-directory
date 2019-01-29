@@ -4889,5 +4889,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/betterTypePanel",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Datazier Lens",
+    "description": "Inspect and sort your local font book",
+    "name": "datazier-lens",
+    "owner": "enriquezgomez",
+    "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
+    "homepage": "https://github.com/enriquezgomez/datazier-lens",
+    "author": "Victor Enriquez"
   }
 ]
