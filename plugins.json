@@ -4906,5 +4906,14 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez"
+  },
+  {
+    "title": "Symbol Namer",
+    "description": "Rename symbol instances to their override text values",
+    "name": "symbol-namer",
+    "owner": "perrysmotors",
+    "appcast": "https://raw.githubusercontent.com/perrysmotors/symbol-namer/master/.appcast.xml",
+    "homepage": "https://github.com/perrysmotors/symbol-namer",
+    "author": "Giles Perry"
   }
 ]
