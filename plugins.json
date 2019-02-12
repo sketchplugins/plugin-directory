@@ -4906,5 +4906,14 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez"
+  },
+  {
+    "title": "sketch-unlock-all-selected-layers",
+    "description": "Unlock all selected layers using ⌘⌥L",
+    "name": "sketch-unlock-all-selected-layers",
+    "owner": "derekatkinson",
+    "appcast": "https://raw.githubusercontent.com/derekatkinson/sketch-unlock-all-selected-layers/master/.appcast.xml",
+    "homepage": "https://github.com/derekatkinson/sketch-unlock-all-selected-layers#readme",
+    "author": "Derek Atkinson"
   }
 ]
