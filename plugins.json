@@ -4906,5 +4906,14 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez"
+  },
+  {
+    "title": "iconify",
+    "description": "Over 30,000 icons for Sketch, including FontAwesome, MDI, EmojiOne and many other sets.",
+    "name": "iconify-sketch",
+    "owner": "iconify-design",
+    "appcast": "https://raw.githubusercontent.com/iconify-design/iconify-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/iconify-design/iconify-sketch",
+    "author": "Vjacheslav Trushkin"
   }
 ]
