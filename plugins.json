@@ -4920,6 +4920,15 @@
     "lastUpdated": "2019-01-25 02:14:05 UTC"
   },
   {
+    "title": "Symbol Namer",
+    "description": "Rename symbol instances to their override text values",
+    "name": "symbol-namer",
+    "owner": "perrysmotors",
+    "appcast": "https://raw.githubusercontent.com/perrysmotors/symbol-namer/master/.appcast.xml",
+    "homepage": "https://github.com/perrysmotors/symbol-namer",
+    "author": "Giles Perry"
+  },
+  {
     "title": "Dribbble",
     "description": "Share your creative process directly to the Dribbble community from within Sketch.",
     "name": "dribbble-sketch",
