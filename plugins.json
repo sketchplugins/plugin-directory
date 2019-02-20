@@ -4920,6 +4920,15 @@
     "lastUpdated": "2019-01-25 02:14:05 UTC"
   },
   {
+    "title": "Dribbble",
+    "description": "Share your creative process directly to the Dribbble community from within Sketch.",
+    "name": "dribbble-sketch",
+    "owner": "dribbble",
+    "appcast": "https://raw.githubusercontent.com/dribbble/dribbble-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/dribbble/dribbble-sketch",
+    "author": "Dribbble Holdings Ltd."
+  },
+  {
     "title": "Escriba",
     "description": "Sketch plugin to copy paste symbol overrides",
     "author": "Pablo Sanchez Soler",
