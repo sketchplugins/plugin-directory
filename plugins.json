@@ -4920,6 +4920,15 @@
     "lastUpdated": "2019-01-25 02:14:05 UTC"
   },
   {
+    "title": "Shared Styles Hierarchy",
+    "description": "Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.",
+    "name": "sketch-styles-hierarchy",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-styles-hierarchy/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-styles-hierarchy",
+    "author": "Mathieu Dutour"
+  },
+  {
     "title": "Symbol Namer",
     "description": "Rename symbol instances to their override text values",
     "name": "symbol-namer",
