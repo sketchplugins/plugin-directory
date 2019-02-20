@@ -4952,5 +4952,13 @@
     "owner": "KevinvBre",
     "name": "Sketch-Line2Rect",
     "lastUpdated": "2019-02-13 12:20:28 UTC"
+  },
+  {
+    "title": "Droplr",
+    "description": "Droplr for Sketch lets designers quickly and easily share their Artboards",
+    "name": "Droplr",
+    "owner": "jimboroberts",
+    "homepage": "https://droplr.com/integrations/sketch/",
+    "author": "jimboroberts"
   }
 ]
