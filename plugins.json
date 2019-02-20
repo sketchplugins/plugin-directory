@@ -4930,6 +4930,15 @@
     "lastUpdated": "2019-01-25 02:14:05 UTC"
   },
   {
+    "title": "sketch-unlock-all-selected-layers",
+    "description": "Unlock all selected layers using ⌘⌥L",
+    "name": "sketch-unlock-all-selected-layers",
+    "owner": "derekatkinson",
+    "appcast": "https://raw.githubusercontent.com/derekatkinson/sketch-unlock-all-selected-layers/master/.appcast.xml",
+    "homepage": "https://github.com/derekatkinson/sketch-unlock-all-selected-layers#readme",
+    "author": "Derek Atkinson"
+  },
+  {
     "title": "Shared Styles Hierarchy",
     "description": "Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.",
     "name": "sketch-styles-hierarchy",
