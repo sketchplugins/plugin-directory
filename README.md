@@ -511,7 +511,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Upload to CloudApp](https://github.com/delighted/sketch-upload-to-cloudapp), by Delighted Inc.: Upload to CloudApp: Upload the current artboard or page to CloudApp.
 - [Use Icon Fonts in Sketch](https://github.com/keremciu/sketch-iconfont), by Kerem Sevencan: Use icon fonts in sketch
 - [User Flows](https://github.com/abynim/userflows), by Aby Nimbalkar: Generate user walkthroughs from Artboards in Sketch.
-- [Userflows](https://github.com/faridsabitov/sketch-user-flows), by Farid Sabitov: Plugin for generating easy to use user flows in Sketch
+- [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
 - [ViewController for Framer](https://github.com/awt2542/viewcontroller-for-framer), by Andreas Wahlström: Multi step user flows in Framer.js
 - [VK-Data](https://github.com/VKCOM/vkdata-sketchplugin), by VKCOM: Plugin for using data from your account at vk.com
