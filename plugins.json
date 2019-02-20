@@ -4930,6 +4930,14 @@
     "lastUpdated": "2019-01-25 02:14:05 UTC"
   },
   {
+    "title": "👉 Arrows",
+    "name": "Sketch-Connection-Flow-Arrows",
+    "owner": "faridsabitov",
+    "appcast": "https://raw.githubusercontent.com/faridsabitov/Sketch-Connection-Flow-Arrows/master/.appcast.xml",
+    "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
+    "author": "Farid Sabitov"
+  },
+  {
     "title": "sketch-unlock-all-selected-layers",
     "description": "Unlock all selected layers using ⌘⌥L",
     "name": "sketch-unlock-all-selected-layers",
