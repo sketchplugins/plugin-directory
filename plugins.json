@@ -1,5 +1,15 @@
 [
   {
+    "description": "Design and Development Platform(一站式设计开发工作台)",
+    "name": "Dapollo",
+    "title": "Dapollo",
+    "owner": "Alipay Design",
+    "author": "Alipay Design",
+    "homepage": "https://www.yuque.com/dapollo/group/welcome",
+    "appcast": "https://quanyuanhang.github.io/Dapollo/appcast",
+    "lastUpdated": "2019-02-01 16:27:34 UTC"
+  },
+  {
     "description": "Keep your Sketch files immaculately clean and in order.",
     "name": "File Cleaner",
     "title": "File Cleaner",
