@@ -4930,6 +4930,15 @@
     "lastUpdated": "2019-01-25 02:14:05 UTC"
   },
   {
+    "title": "iconify",
+    "description": "Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document.",
+    "name": "iconify-sketch",
+    "owner": "iconify-design",
+    "appcast": "https://raw.githubusercontent.com/iconify-design/iconify-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/iconify-design/iconify-sketch",
+    "author": "Vjacheslav Trushkin"
+  },
+  {
     "title": "👉 Arrows",
     "name": "Sketch-Connection-Flow-Arrows",
     "owner": "faridsabitov",
