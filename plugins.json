@@ -4926,5 +4926,13 @@
     "owner": "Pausansol",
     "name": "Escriba",
     "lastUpdated": "2019-02-20 13:49:26 UTC"
+  },
+  {
+    "title": "Sketch Line2rect",
+    "description": "Replace Lines by Rectangles in Sketch",
+    "author": "Kevin van Breemaat",
+    "owner": "KevinvBre",
+    "name": "Sketch-Line2Rect",
+    "lastUpdated": "2019-02-13 12:20:28 UTC"
   }
 ]
