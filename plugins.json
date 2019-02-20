@@ -4828,7 +4828,7 @@
   {
     "title": "Composite SVG",
     "description": "A Sketch plugin to create a composite SVG file from sketch artboards",
-    "name": "composite-svg",
+    "name": "svg-composite",
     "owner": "alanfraneo",
     "appcast": "https://raw.githubusercontent.com/alanfraneo/svg-composite/master/appcast.xml",
     "homepage": "https://github.com/alanfraneo/svg-composite",
@@ -4939,8 +4939,9 @@
     "author": "Vjacheslav Trushkin"
   },
   {
-    "title": "👉 Arrows",
+    "title": "Connection Flow Arrows",
     "name": "Sketch-Connection-Flow-Arrows",
+    "description": "Plugin for generating easy to use connection flow arrows in Sketch",
     "owner": "faridsabitov",
     "appcast": "https://raw.githubusercontent.com/faridsabitov/Sketch-Connection-Flow-Arrows/master/.appcast.xml",
     "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
