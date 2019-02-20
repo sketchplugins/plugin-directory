@@ -4960,5 +4960,14 @@
     "owner": "jimboroberts",
     "homepage": "https://droplr.com/integrations/sketch/",
     "author": "jimboroberts"
+  },
+  {
+    "title": "Plugin Reloader",
+    "description": "A simple plugin to reload another plugins",
+    "name": "SketchPluginReloader",
+    "owner": "TheNounProject",
+    "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
+    "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
+    "author": "Wes Byrne"
   }
 ]
