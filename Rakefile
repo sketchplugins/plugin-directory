@@ -80,7 +80,7 @@ EOF
     owner  = plugin['owner']
     author = plugin['author'] || owner
     url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc   = plugin['description'].strip
+    desc   = (plugin['description'] || "").strip
 
 
     if is_plugin_too_old? plugin
