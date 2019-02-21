@@ -5015,5 +5015,14 @@
     "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne"
+  },
+  {
+    "title": "IBAN Generator",
+    "description": "Generate random International Bank Account Numbers (IBAN)",
+    "name": "iban-sketch-plugin",
+    "owner": "idriesalbender",
+    "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
+    "author": "idix"
   }
 ]
