@@ -221,7 +221,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Material Plugin](https://material.io/tools/theme-editor), by Google: Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by Oscar Oto: Sketch.app plugin to merge symbols with the same name.
 - [Miaow](https://github.com/weixin/Miaow), by Tencent WeChat Team: A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
-- [Modulizer](https://github.com/falkeyn/modulizer), by Alexander Khramtsov: Modulizer plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes.
 - [Moodboard Builder ](http://reinvently.com/moodboard-builder-sketch-plugin/), by Reinvently: A streamlined Sketch plugin for creating moodboards quickly and easily. Just do a search, check the suitable images, and - voila -  you have a beautiful moodboard. Keep inspired! 💡
 - [Move To Library Sketchplugin](https://github.com/ahmedmigo/move-to-library-sketchplugin), by Ahmed Genaidy: You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
 - [NeoPreview](https://github.com/alanfraneo/sketch-neo-preview), by Alan Francis: A plugin to create HTML based preview and gallery straight from sketch artboards
@@ -449,6 +448,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Smartling](https://smartling.github.io/smartling-sketch-plugin/), by Smartling: Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.
 - [Smudge](https://github.com/mjkaufer/smudge), by Matthew Kaufer: Emulate blend functionality from Adobe Illustrator
 - [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
+- [Somino](https://github.com/melsomino/sketch-somino), by Michael Vlasov: Attachable styles, Advanced clipboard, Silent export
 - [Sort Me](https://github.com/romashamin/sort-me-sketch), by Roman Shamin: Sort artboards and layers by name
 - [Sparkliner](https://github.com/volorf/sparkliner), by Oleg Frolov: Sparkliner — easy way to make sparkline graph
 - [Specify (Alpha)](https://specifyapp.com), by Specify SAS: Export styles and assets to your Specify Libraries.
@@ -690,8 +690,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
 - [Justinmind Sketch](https://github.com/vconesa/justinmind-sketch), by Justinmind: You can export artboards, layers and pages you’ve made in Sketch to Justinmind and turn them into interactive shareable prototypes.
 - [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
-- [Sketch2Web](http://www.sketch2web.skuko.com), by Skuko: Export your project to web in just one click.
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
+- [Sketch2Web](http://www.sketch2web.skuko.com), by Skuko: Export your project to web in just one click.
 - [Flatten Plugin for Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch), by Emin İnanç Ünlü: Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
 - [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: A Sketch extension to generate english and persian lorem ipsum text.
@@ -1046,4 +1046,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Perfecter](https://github.com/volorf/perfecter), by Oleg Frolov: Make great typography [Sketch plugin]
 - [Sketch Flex Layout](https://github.com/hrescak/sketch-flex-layout), by Matej Hrescak: Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes.
 - [Sheetie](https://github.com/joemanto/sheetie), by Joe Manto: Sketch 3 Plugin that makes a SpriteSheets to export or use
-- [Modulizer](https://github.com/falkeyn/modulizer), by Alexander Khramtsov: Modulizer plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes.
