@@ -3866,7 +3866,7 @@
   },
   {
     "title": "Sketch Library Unlinker",
-    "description": "A Sketch plugin that unlinks all symbols in a document that are linked to a specific library",
+    "description": "Unlink symbols linked to a specific library, or unlink symbols that have been deleted in their libraries.",
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
