@@ -5015,5 +5015,14 @@
     "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne"
+  },
+  {
+    "title": "import-colors",
+    "description": "Import colors from swatches file to Sketch.",
+    "name": "import-colors-sketch",
+    "owner": "Ashung",
+    "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/Ashung/import-colors-sketch",
+    "author": "Ashung"
   }
 ]
