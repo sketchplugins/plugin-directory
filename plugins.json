@@ -5015,5 +5015,14 @@
     "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne"
+  },
+  {
+    "title": "lazy-styles-generator",
+    "description": "Generate shared styles based on layer name. Concept modelled from Styles Generator created by Luca Orio.",
+    "name": "sketch-lazy-styles-generator",
+    "owner": "lazybearcreations",
+    "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazy-styles-generator/master/.appcast.xml",
+    "homepage": "https://github.com/lazybearcreations/sketch-lazy-styles-generator",
+    "author": "Adam Bruzon"
   }
 ]
