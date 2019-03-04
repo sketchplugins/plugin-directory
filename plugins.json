@@ -1,5 +1,15 @@
 [
   {
+    "description": "Create High-Fidelity Prototypes and Export to HTML.",
+    "title": "Anima",
+    "name": "Anima",
+    "owner": "AnimaApp",
+    "author": "Anima Team",
+    "homepage": "https://www.animaapp.com",
+    "lastUpdated": "2019-03-03 16:27:58 UTC",
+    "appcast": "https://www.animaapp.com/timeline/appcast.xml"
+  },
+  {
     "description": "Design and Development Platform(一站式设计开发工作台)",
     "name": "Dapollo",
     "title": "Dapollo",
