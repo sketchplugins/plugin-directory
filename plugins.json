@@ -5015,5 +5015,14 @@
     "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne"
+  },
+  {
+    "title": "Overrides Manager",
+    "description": "A Sketch plugin which makes managing overrides easier.",
+    "name": "Sketch-Overrides-Manager",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
+    "author": "Ozgur Gunes"
   }
 ]
