@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "Overrides Manager",
+    "description": "A Sketch plugin which makes managing overrides easier.",
+    "name": "Sketch-Overrides-Manager",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
+    "author": "Ozgur Gunes"
   }
 ]
