@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "chemofill",
+    "description": "A Chemical Structure data supplier plugin.",
+    "name": "chemofill",
+    "owner": "ahadik",
+    "appcast": "https://raw.githubusercontent.com/ahadik/chemofill/master/.appcast.xml",
+    "homepage": "https://github.com/ahadik/chemofill",
+    "author": "Alexander Hadik"
   }
 ]
