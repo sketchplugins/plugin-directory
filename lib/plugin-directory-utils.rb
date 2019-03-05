@@ -1,7 +1,7 @@
 # This is used on the titlefy function. The idea here is to ignore some word that should never be
 # re-capitalised
-IGNORE = %w(the of a and AE RTL PS HTML UI SF JSON SCSS px RGB HSL HEX iOS iPhone iPad VR SVGO SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr)
-UPCASE = %w(rtl ps html ui sf json scss rgb hsl hex vr svgo pdf png sd ds afux)
+IGNORE = %w(the of a and to for as by in with px iOS iPhone iPad SketchContentSync LayerRenamer SketchRunner Gridy Looper SizeArtboard Shapr nSlicer Click-Thru ColorSpark ImageOptim LaTeX PaintCode RealtimeBoard DevTools TinyFaces NoPrint CloudApp ViewController SelectPlus)
+UPCASE = %w(ae ps html ui sf css rtl ps html ui sf json jsx scss rgb hsl hex vr svg svgo pdf png sd ds afux qr wcag vk)
 
 def titlefy string
   if IGNORE.include? (string)

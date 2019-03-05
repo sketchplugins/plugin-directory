@@ -11,9 +11,9 @@
   },
   {
     "description": "Keep your Sketch files immaculately clean and in order.",
-    "name": "File Cleaner",
+    "name": "file-cleaner",
     "title": "File Cleaner",
-    "owner": "Monzo",
+    "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
     "lastUpdated": "2018-12-11 15:30:00 UTC"
@@ -50,7 +50,7 @@
   },
   {
     "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
-    "name": "Jane Doe",
+    "name": "jane_doe",
     "title": "Jane Doe",
     "owner": "Konstantin Demblin",
     "author": "Konstantin Demblin",
@@ -263,7 +263,8 @@
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
     "homepage": "https://lalomrtnz.github.io/Chain/",
-    "lastUpdated": "2018-05-26 15:32:33 UTC"
+    "lastUpdated": "2018-05-26 15:32:33 UTC",
+    "title": "Chain"
   },
   {
     "description": "A Sketch plugin to extract a color palette from any layer that contains bitmap data.",
@@ -607,14 +608,16 @@
     "name": "Sketch-iOS-Bar-Color-Calculator",
     "author": "Emin İnanç Ünlü",
     "owner": "einancunlu",
-    "lastUpdated": "2018-06-13 13:54:56 UTC"
+    "lastUpdated": "2018-06-13 13:54:56 UTC",
+    "title": "Sketch iOS Bar Color Calculator"
   },
   {
     "description": "Quickly select and share work in progress with your team via WorkingOn.",
     "name": "SketchingOn",
     "owner": "WorkingOn",
     "homepage": "https://www.workingon.co",
-    "lastUpdated": "2017-05-07 01:22:47 UTC"
+    "lastUpdated": "2017-05-07 01:22:47 UTC",
+    "title": "SketchingOn"
   },
   {
     "description": "Remove a layer's fills and borders in Sketch.",
@@ -762,7 +765,8 @@
     "owner": "tadija",
     "author": "Marko Tadić",
     "name": "AEFlowchart",
-    "lastUpdated": "2018-11-04 17:58:39 UTC"
+    "lastUpdated": "2018-11-04 17:58:39 UTC",
+    "title": "AEFlowchart"
   },
   {
     "description": "Split and Divide plugins for Sketch3 app.",
@@ -777,7 +781,8 @@
     "owner": "turbobabr",
     "author": "Andrey Shakhmin",
     "name": "Duplicator",
-    "lastUpdated": "2018-03-16 07:39:33 UTC"
+    "lastUpdated": "2018-03-16 07:39:33 UTC",
+    "title": "Duplicator"
   },
   {
     "description": "A Sketch plugin that allows to quickly export assets for Android, iOS, Windows Phone and the Web.",
@@ -840,14 +845,16 @@
     "owner": "tadija",
     "author": "Marko Tadić",
     "name": "AEIconizer",
-    "lastUpdated": "2018-12-09 19:14:43 UTC"
+    "lastUpdated": "2018-12-09 19:14:43 UTC",
+    "title": "AEIconizer"
   },
   {
     "description": "Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.",
     "owner": "x-raizor",
     "author": "Andrew Shapiro",
     "name": "Efficiency",
-    "lastUpdated": "2018-02-12 21:16:57 UTC"
+    "lastUpdated": "2018-02-12 21:16:57 UTC",
+    "title": "Efficiency"
   },
   {
     "description": "A plugin for Sketch to generate divine proportions automatically.",
@@ -897,7 +904,8 @@
     "owner": "Falkeyn",
     "author": "Alexander Khramtsov",
     "name": "Modulizer",
-    "lastUpdated": "2017-03-31 18:31:16 UTC"
+    "lastUpdated": "2017-03-31 18:31:16 UTC",
+    "title": "Modulizer"
   },
   {
     "description": "Sketch.app Plugin to copy colors to clipboard as SCSS variable definitions.",
@@ -921,7 +929,8 @@
     "owner": "elihorne",
     "author": "Eli Horne",
     "name": "smartboards",
-    "lastUpdated": "2017-06-11 16:53:58 UTC"
+    "lastUpdated": "2017-06-11 16:53:58 UTC",
+    "title": "smartboards"
   },
   {
     "description": "A plugin for exporting layers for Android. Supports transparency and 1x and 2x base sizes.",
@@ -1007,7 +1016,8 @@
     "name": "SketchDistributor",
     "author": "Peter Strömberg",
     "owner": "PEZ",
-    "lastUpdated": "2018-05-31 06:23:37 UTC"
+    "lastUpdated": "2018-05-31 06:23:37 UTC",
+    "title": "SketchDistributor"
   },
   {
     "description": "Export a full story flow and dev spec in one shortcut.",
@@ -1151,7 +1161,8 @@
     "name": "Xport",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2016-11-22 13:08:26 UTC"
+    "lastUpdated": "2016-11-22 13:08:26 UTC",
+    "title": "Xport"
   },
   {
     "description": "A collection of Sketch plugins",
@@ -1190,7 +1201,8 @@
     "name": "Typograph",
     "author": "Dmitry Gerasimov",
     "owner": "dezonik",
-    "lastUpdated": "2018-06-05 14:31:07 UTC"
+    "lastUpdated": "2018-06-05 14:31:07 UTC",
+    "title": "Typograph"
   },
   {
     "description": "Sketch plugin to make paths be snapped to grid.",
@@ -1339,14 +1351,16 @@
     "name": "BaseAlign",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2018-03-17 00:56:15 UTC"
+    "lastUpdated": "2018-03-17 00:56:15 UTC",
+    "title": "BaseAlign"
   },
   {
     "description": "Sketch Plugin to generate iOS view code",
     "name": "iosViews",
     "author": "Andrew Charkin",
     "owner": "Charimon",
-    "lastUpdated": "2018-05-30 08:13:17 UTC"
+    "lastUpdated": "2018-05-30 08:13:17 UTC",
+    "title": "iosViews"
   },
   {
     "description": "A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ",
@@ -1459,7 +1473,8 @@
     "name": "CSSketch",
     "author": "John Coates",
     "owner": "JohnCoates",
-    "lastUpdated": "2018-05-26 16:12:33 UTC"
+    "lastUpdated": "2018-05-26 16:12:33 UTC",
+    "title": "CSSketch"
   },
   {
     "description": "Sketch Plugin to round shape size to the nearest multiple of 8",
@@ -1577,7 +1592,8 @@
     "name": "Comma",
     "owner": "margusholland",
     "author": "Margus Holland",
-    "lastUpdated": "2018-05-22 17:48:10 UTC"
+    "lastUpdated": "2018-05-22 17:48:10 UTC",
+    "title": "Comma"
   },
   {
     "description": "A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated",
@@ -1772,7 +1788,8 @@
     "name": "Sparkliner",
     "author": "Oleg Frolov",
     "owner": "Volorf",
-    "lastUpdated": "2018-04-26 17:28:18 UTC"
+    "lastUpdated": "2018-04-26 17:28:18 UTC",
+    "title": "Sparkliner"
   },
   {
     "description": "Optimize your typography based on font size, line-height and width.",
@@ -1818,14 +1835,16 @@
     "name": "styledrop",
     "owner": "ryanmclaughlin",
     "author": "Ryan McLaughlin",
-    "lastUpdated": "2018-05-26 16:14:51 UTC"
+    "lastUpdated": "2018-05-26 16:14:51 UTC",
+    "title": "styledrop"
   },
   {
     "description": "Only contains a single plugin for the moment: Artboards to Pages. Takes all of the artboards on a page and create a new page for each of them, using the artboard name as the new page name.",
     "name": "SketchPlugins",
     "owner": "eachandother",
     "author": "conorluddy",
-    "lastUpdated": "2016-06-08 14:15:01 UTC"
+    "lastUpdated": "2016-06-08 14:15:01 UTC",
+    "title": "SketchPlugins"
   },
   {
     "description": "Artboard navigation (with autocomplete) for Sketch",
@@ -1848,7 +1867,8 @@
     "name": "Prism",
     "owner": "LaloMrtnz",
     "author": "Lalo Mrtnz",
-    "lastUpdated": "2018-08-03 17:22:45 UTC"
+    "lastUpdated": "2018-08-03 17:22:45 UTC",
+    "title": "Prism"
   },
   {
     "description": "Sketch plugin to pseudolocalize text layers",
@@ -1863,7 +1883,8 @@
     "name": "AnimateMate",
     "owner": "Creatide",
     "author": "Sakari Niittymaa",
-    "lastUpdated": "2017-07-14 05:27:48 UTC"
+    "lastUpdated": "2017-07-14 05:27:48 UTC",
+    "title": "AnimateMate"
   },
   {
     "description": "Export Sketch Artboard to Trello",
@@ -1901,7 +1922,8 @@
     "name": "Formr",
     "owner": "lessthanzero",
     "author": "Alexander Katin",
-    "lastUpdated": "2018-05-26 16:17:10 UTC"
+    "lastUpdated": "2018-05-26 16:17:10 UTC",
+    "title": "Formr"
   },
   {
     "description": "A plugin for Sketch to fix all of those partial pixels",
@@ -1947,7 +1969,8 @@
     "name": "arrowfy",
     "owner": "joclin",
     "author": "Jocelyn Lin",
-    "lastUpdated": "2018-07-22 04:36:09 UTC"
+    "lastUpdated": "2018-07-22 04:36:09 UTC",
+    "title": "arrowfy"
   },
   {
     "description": "A Sketch plugin that adjusts a shape layer according to the attributes of a text layer",
@@ -1962,7 +1985,8 @@
     "name": "MagicPresenter",
     "owner": "MagicSketch",
     "author": "jamztang",
-    "lastUpdated": "2018-05-26 16:17:20 UTC"
+    "lastUpdated": "2018-05-26 16:17:20 UTC",
+    "title": "MagicPresenter"
   },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
@@ -1987,7 +2011,8 @@
     "name": "ScreenFork",
     "owner": "screenfork",
     "author": "ScreenFork",
-    "lastUpdated": "2018-05-26 16:17:23 UTC"
+    "lastUpdated": "2018-05-26 16:17:23 UTC",
+    "title": "ScreenFork"
   },
   {
     "description": "Adjusts font, character spacing, line height for labels using San Francisco font.",
@@ -2041,14 +2066,16 @@
     "name": "ImageExtractorSketch",
     "owner": "mendyismyname",
     "author": "Mendy Seldowitz",
-    "lastUpdated": "2018-05-04 16:52:18 UTC"
+    "lastUpdated": "2018-05-04 16:52:18 UTC",
+    "title": "ImageExtractorSketch"
   },
   {
     "description": "Create different artboard states and switch between them easily",
     "name": "States",
     "owner": "edenvidal",
     "author": "Eden Vidal",
-    "lastUpdated": "2018-08-09 08:58:16 UTC"
+    "lastUpdated": "2018-08-09 08:58:16 UTC",
+    "title": "States"
   },
   {
     "description": "A Sketch plugin that adjusts the character spacing on text layers using iOS 9's SF UI Text/Display fonts to what it would be when used in an iOS app.",
@@ -2103,7 +2130,8 @@
     "name": "Sheetie",
     "owner": "JoeManto",
     "author": "Joe Manto",
-    "lastUpdated": "2017-04-03 21:26:00 UTC"
+    "lastUpdated": "2017-04-03 21:26:00 UTC",
+    "title": "Sheetie"
   },
   {
     "description": "Convert your Sketch drawings into Swift or Objective-C",
@@ -2127,14 +2155,16 @@
     "name": "FontFinder",
     "owner": "ukn530",
     "author": "Tatsuya Uchida",
-    "lastUpdated": "2018-10-13 06:10:11 UTC"
+    "lastUpdated": "2018-10-13 06:10:11 UTC",
+    "title": "FontFinder"
   },
   {
     "description": "Sketch Internationalization Plugin",
     "name": "SketchI18N",
     "owner": "cute",
     "author": "Guangming Li ",
-    "lastUpdated": "2019-01-17 13:57:15 UTC"
+    "lastUpdated": "2019-01-17 13:57:15 UTC",
+    "title": "SketchI18N"
   },
   {
     "description": "A Sketch plugin for easy multi-language design",
@@ -2149,21 +2179,24 @@
     "name": "Paster",
     "owner": "Volorf",
     "author": "Oleg Frolov",
-    "lastUpdated": "2017-09-06 04:03:05 UTC"
+    "lastUpdated": "2017-09-06 04:03:05 UTC",
+    "title": "Paster"
   },
   {
     "description": "A Sketch plugin to create element with the keyboards!",
     "name": "Shapr",
     "owner": "vincenzopetito",
     "author": "Vincenzo Petito",
-    "lastUpdated": "2017-07-31 08:19:55 UTC"
+    "lastUpdated": "2017-07-31 08:19:55 UTC",
+    "title": "Shapr"
   },
   {
     "description": "Sketch Plugin for wrapping a new artboard around what you've selected",
     "name": "SizeArtboard",
     "owner": "BrendanMiller",
     "author": "brendan miller",
-    "lastUpdated": "2017-10-26 18:45:57 UTC"
+    "lastUpdated": "2017-10-26 18:45:57 UTC",
+    "title": "SizeArtboard"
   },
   {
     "description": "A simple Sketch plugin to generate artboard-based changelogs",
@@ -2282,7 +2315,8 @@
     "name": "sketch-duplicatesymbol",
     "owner": "marianomike",
     "author": "Mike Mariano",
-    "lastUpdated": "2018-05-26 16:19:43 UTC"
+    "lastUpdated": "2018-05-26 16:19:43 UTC",
+    "title": "Sketch Duplicatesymbol"
   },
   {
     "description": "Sketch plugin for convert and copy text layers into HTML lists.",
@@ -2337,14 +2371,16 @@
     "name": "webalize",
     "owner": "Vesely",
     "author": "David Veselý",
-    "lastUpdated": "2017-04-12 09:51:16 UTC"
+    "lastUpdated": "2017-04-12 09:51:16 UTC",
+    "title": "webalize"
   },
   {
     "description": "Your friendly Sketch slicing helper",
     "name": "slicer",
     "owner": "ozzik",
     "author": "Oz Pinhas",
-    "lastUpdated": "2017-06-18 17:03:23 UTC"
+    "lastUpdated": "2017-06-18 17:03:23 UTC",
+    "title": "slicer"
   },
   {
     "description": "Organize your symbols page and layer list, based on the symbol names.",
@@ -2407,7 +2443,8 @@
     "name": "QuickColor",
     "owner": "colesperks",
     "author": "Cole Perkins",
-    "lastUpdated": "2018-02-19 04:07:46 UTC"
+    "lastUpdated": "2018-02-19 04:07:46 UTC",
+    "title": "QuickColor"
   },
   {
     "description": "A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards",
@@ -3234,7 +3271,7 @@
     "lastUpdated": "2018-04-10 02:20:55 UTC"
   },
   {
-    "title": "sketch-find-all-instances-of-symbol",
+    "title": "Sketch Find All Instances of Symbol",
     "name": "sketch-find-all-instances-of-symbol",
     "owner": "mcansh",
     "appcast": "https://raw.githubusercontent.com/mcansh/sketch-find-all-instances-of-symbol/master/.appcast.xml",
@@ -3492,7 +3529,7 @@
     "lastUpdated": "2017-12-26 18:39:06 UTC"
   },
   {
-    "title": "Sketch-Icons",
+    "title": "Sketch Icons",
     "description": "Import your icons, apply a color mask and create a dynamic icons library.",
     "name": "Sketch-Icons",
     "owner": "AMoreaux",
@@ -3508,7 +3545,7 @@
     "lastUpdated": "2018-1-12 12:00:00 UTC"
   },
   {
-    "title": "Sketch-topographic",
+    "title": "Sketch Topographic",
     "description": "Display Topographic Information",
     "name": "Sketch-topographic",
     "owner": "ziven27",
@@ -3759,7 +3796,7 @@
     "lastUpdated": "2018-03-31 10:10:40 UTC"
   },
   {
-    "title": "sketch-hyphenator",
+    "title": "Sketch Hyphenator",
     "description": "Sketch plugin that hyphenates text",
     "name": "sketch-hyphenator",
     "owner": "golmakov",
@@ -3769,7 +3806,7 @@
     "lastUpdated": "2018-05-31 07:00:46 UTC"
   },
   {
-    "title": "polaris-telescope",
+    "title": "Polaris Telescope",
     "description": "Access Shopify Polaris from Sketch to speed up your design or development workflow",
     "name": "polaris-telescope",
     "owner": "Shopify",
@@ -3826,7 +3863,7 @@
     "lastUpdated": "2018-04-12 20:52:27 UTC"
   },
   {
-    "title": "browser-preview",
+    "title": "Browser Preview",
     "description": "Quickly preview an artboard in your browser.",
     "name": "browser-preview",
     "owner": "lukasoppermann",
@@ -3937,7 +3974,7 @@
     "lastUpdated": "2018-05-07 09:16:51 UTC"
   },
   {
-    "title": "y-tools",
+    "title": "Y Tools",
     "description": "Sketch plugin tools yued-fe.TM",
     "name": "y-tools",
     "owner": "yued-fe",
@@ -3981,7 +4018,7 @@
     "lastUpdated": "2018-05-08 21:00:00 UTC"
   },
   {
-    "title": "sketch-style-to-react-native",
+    "title": "Sketch Style To React Native",
     "description": "Sketch plugin that copies an element's styles in React Native way directly to your Mac clipboard.",
     "name": "sketch-style-to-react-native",
     "owner": "futantan",
@@ -4231,7 +4268,7 @@
     "lastUpdated": "2018-10-11 18:55:57 UTC"
   },
   {
-    "title": "acl-sketch-plugin",
+    "title": "Acl Sketch Plugin",
     "description": "Internal tool for Anduin Design Team",
     "name": "acl-sketch-plugin",
     "owner": "duyluonganduin",
@@ -4241,7 +4278,7 @@
     "lastUpdated": "2018-08-02 10:33:20 UTC"
   },
   {
-    "title": "sketch-replace-layer",
+    "title": "Sketch Replace Layer",
     "description": "Replace selected layer(s) with copied content/layer(s)",
     "name": "sketch-replace-layer",
     "owner": "daneden",
@@ -4289,7 +4326,7 @@
     "author": "JJ Ying"
   },
   {
-    "title": "advanced-responsive-images-default",
+    "title": "Advanced Responsive Images Default",
     "description": "Generate default images according to the sizes given.",
     "name": "advanced-responsive-images-default",
     "owner": "Nkzq",
@@ -4324,7 +4361,7 @@
     "author": "Kopie"
   },
   {
-    "title": "event-badges-by-david",
+    "title": "Event Badges By David",
     "description": "A Sketch plugin to make a large quantity of name tags for any kind of events",
     "name": "event-badges-by-david",
     "owner": "designforhuman",
@@ -4344,7 +4381,7 @@
     "lastUpdated": "2018-12-01 16:35:05 UTC"
   },
   {
-    "title": "sd-changer",
+    "title": "Sd Changer",
     "description": "Converts Apple SD Gothic Neo font to SF Pro Display",
     "name": "sd-changer",
     "owner": "yeun",
@@ -4431,7 +4468,7 @@
     "lastUpdated": "2019-01-08 01:52:47 UTC"
   },
   {
-    "title": "ds-automator-sketch-plugin",
+    "title": "DS Automator Sketch Plugin",
     "description": "Tools for automating designer work",
     "name": "ds-automator-sketch-plugin",
     "owner": "pavelneznanov",
@@ -4554,7 +4591,7 @@
     "lastUpdated": "2018-11-13 07:34:51 UTC"
   },
   {
-    "title": "sketch-pochette",
+    "title": "Sketch Pochette",
     "description": "A Sketch plugin that lets you carry your most used properties close to your mouse",
     "name": "sketch-pochette",
     "owner": "zehfernandes",
@@ -4564,7 +4601,7 @@
     "lastUpdated": "2019-01-14 13:23:16 UTC"
   },
   {
-    "title": "100-shapesum",
+    "title": "100 Shapesum",
     "description": "Lorem Ipsum Sketch plugin based on 100 Shapes tone of voice.",
     "name": "100-shapesum",
     "owner": "markaleksanderh",
@@ -4612,7 +4649,7 @@
     "lastUpdated": "2018-11-01 16:57:17 UTC"
   },
   {
-    "title": "sketch-codelight",
+    "title": "Sketch Codelight",
     "description": "Highlight code inside Text layers in Sketch",
     "name": "sketch-codelight",
     "owner": "somebee",
@@ -4683,7 +4720,7 @@
   {
     "title": "Primary Sync",
     "description": "Sync your Sketch designs 💎 with Primary's user flows and design documents.",
-    "name": "Primary Sync",
+    "name": "primary-sync",
     "owner": "Primary-app",
     "author": "Primary",
     "appcast": "https://raw.githubusercontent.com/Primary-app/primary-sync/master/.appcast.xml",
@@ -4691,7 +4728,7 @@
     "lastUpdated": "2018-07-30 19:57:00 UTC"
   },
   {
-    "title": "rename-layers-based-on-textstyle",
+    "title": "Rename Layers Based On Textstyle",
     "description": "Renames text layers in the current page based on their text style name",
     "name": "rename-layers-based-on-textstyle",
     "owner": "tbrasington",
@@ -4701,7 +4738,7 @@
     "lastUpdated": "2018-12-20 09:52:36 UTC"
   },
   {
-    "title": "bold-it",
+    "title": "Bold It",
     "description": "Bold-it is a super simple plugin that bolds user-specified keyword in selected text layers.",
     "name": "bold-it",
     "owner": "ysjn",
@@ -4749,7 +4786,7 @@
     "lastUpdated": "2018-11-30 23:17:53 UTC"
   },
   {
-    "title": "sketch-afux-tools",
+    "title": "Sketch AFUX Tools",
     "description": "Sketch tools for AFUX",
     "name": "sketch-afux-tools",
     "owner": "canisminor1990",
@@ -4883,7 +4920,7 @@
     "homepage": "http://guides.pratikshah.website/"
   },
   {
-    "title": "french-typography",
+    "title": "French Typography",
     "name": "french-typography",
     "owner": "Saint-loup",
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
@@ -4892,7 +4929,7 @@
     "lastUpdated": "2019-01-28 08:48:16 UTC"
   },
   {
-    "title": "sketch-git-pro",
+    "title": "Sketch Git Pro",
     "description": "Git tools for sketch.",
     "name": "sketch-git-pro",
     "owner": "xuming",
@@ -4902,7 +4939,7 @@
     "lastUpdated": "2019-01-13 05:24:28 UTC"
   },
   {
-    "title": "hubble-sketch-plugin",
+    "title": "Hubble Sketch Plugin",
     "description": "A Sketch plugin to extract assets and primitives and send them to Hubble.app",
     "name": "hubble-sketch-plugin",
     "owner": "inthepocket",
@@ -4948,7 +4985,7 @@
     "author": "Farid Sabitov"
   },
   {
-    "title": "sketch-unlock-all-selected-layers",
+    "title": "Sketch Unlock All Selected Layers",
     "description": "Unlock all selected layers using ⌘⌥L",
     "name": "sketch-unlock-all-selected-layers",
     "owner": "derekatkinson",
