@@ -5061,5 +5061,13 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "CSV Mail Merge",
+    "name": "sketch-csv-mailmerge",
+    "owner": "jdwolk",
+    "appcast": "https://raw.githubusercontent.com/jdwolk/sketch-csv-mailmerge/master/.appcast.xml",
+    "homepage": "https://github.com/jdwolk/sketch-csv-mailmerge",
+    "author": "JD Wolk"
   }
 ]
