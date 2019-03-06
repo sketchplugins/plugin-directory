@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "Symbol States",
+    "description": "A Sketch plugin which saves overrides of a symbol instance as states to be applyable on another instance of that symbol later.",
+    "name": "Sketch-Symbol-States",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
+    "author": "Ozgur Gunes"
   }
 ]
