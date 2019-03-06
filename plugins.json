@@ -5061,5 +5061,13 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "Indigo.Design",
+    "description": "Tools for use with the Indigo.Design Sketch UI Kit"
+    "name": "Indigo.Design",
+    "owner": "Infragistics",
+    "homepage": "https://cloud.indigo.design/home",
+    "author": "Infragistics"
   }
 ]
