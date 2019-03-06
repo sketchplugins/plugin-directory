@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "add-selected-colors",
+    "description": "Add selected colors to document palette, sketch plugin",
+    "name": "add-selected-colors",
+    "owner": "jorgemartins",
+    "appcast": "https://raw.githubusercontent.com/jorgemartins/add-selected-colors/master/.appcast.xml",
+    "homepage": "https://github.com/jorgemartins/add-selected-colors",
+    "author": "Jorge Martins"
   }
 ]
