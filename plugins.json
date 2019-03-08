@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "labelizING",
+    "description": "Extract, replace and download labels from sketch file",
+    "name": "labelizer",
+    "owner": "nOograss",
+    "appcast": "https://raw.githubusercontent.com/nOograss/labelizer/master/.appcast.xml",
+    "homepage": "https://github.com/nOograss/labelizer",
+    "author": "Maxime Peeters"
   }
 ]
