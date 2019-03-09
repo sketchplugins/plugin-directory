@@ -1,5 +1,14 @@
 [
   {
+    "description": "Use your Airtable data in your Sketch symbols",
+    "name": "Airtabledata",
+    "title": "Airtabledata",
+    "owner": "Rutger Willems",
+    "author": "Rutger Willems",
+    "homepage": "https://sketchairtabledataplugin.com/",
+    "lastUpdated": "2019-03-08 12:00:00 UTC"
+  },
+  {
     "description": "Design and Development Platform(一站式设计开发工作台)",
     "name": "Dapollo",
     "title": "Dapollo",
