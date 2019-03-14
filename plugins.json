@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "AEUX",
+    "description": "Transfer layer to After Effects",
+    "name": "sketch2ae",
+    "owner": "google",
+    "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
+    "homepage": "https://github.com/google/sketch2ae",
+    "author": "Battle Axe"
   }
 ]
