@@ -5079,5 +5079,14 @@
     "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
     "author": "idix"
+  },
+  {
+    "title": "String Value Puller",
+    "description": "Plugin to handle pull string values from github repositories.",
+    "name": "sketch_strings_puller",
+    "owner": "YannickWidmer",
+    "appcast": "https://raw.githubusercontent.com/YannickWidmer/sketch_strings_puller/master/.appcast.xml",
+    "homepage": "https://github.com/YannickWidmer/sketch_strings_puller",
+    "author": "YannickWidmer"
   }
 ]
