@@ -5059,7 +5059,16 @@
     "owner": "TheNounProject",
     "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
-    "author": "Wes Byrne",
+    "author": "Wes Byrne"
+  },
+  {
+    "title": "sketch-tailwind",
+    "description": "Export your design to a theme-file you can use in your Tailwind Css config.",
+    "name": "sketch-tailwind",
+    "owner": "jan-dh",
+    "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
+    "homepage": "https://github.com/jan-dh/sketch-tailwind",
+    "author": "Jan D'Hollander"
     "lastUpdated": "2019-02-13 00:08:22 UTC"
   },
   {
