@@ -5218,5 +5218,12 @@
     "author": "Rutger Willems",
     "homepage": "https://sketchairtabledataplugin.com/",
     "lastUpdated": "2019-03-08 12:00:00 UTC"
+  },
+  {
+    "title": "color-swatcher",
+    "name": "color-swatcher",
+    "owner": "akiersky",
+    "appcast": "https://raw.githubusercontent.com/akiersky/color-swatcher/master/.appcast.xml",
+    "homepage": "https://github.com/akiersky/color-swatcher"
   }
 ]
