@@ -5096,5 +5096,13 @@
     "owner": "melsomino",
     "homepage": "https://github.com/melsomino/sketch-somino",
     "author": "Michael Vlasov"
+  },
+  {
+    "title": "library-audit",
+    "name": "sketch-library-audit",
+    "owner": "naughtandcross",
+    "appcast": "https://raw.githubusercontent.com/naughtandcross/sketch-library-audit/master/.appcast.xml",
+    "homepage": "https://github.com/naughtandcross/sketch-library-audit",
+    "author": "Colby Grenier"
   }
 ]
