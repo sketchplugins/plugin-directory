@@ -5121,5 +5121,13 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung"
+  },
+  {
+    "title": "Presto-Dom-Gen",
+    "description": "Generates Presto Dom Code from Sketch Layers.",
+    "name": "presto-dom-code",
+    "owner": "iarthstar",
+    "appcast": "https://raw.githubusercontent.com/iarthstar/presto-dom-code/master/.appcast.xml",
+    "homepage": "https://github.com/iarthstar/presto-dom-code"
   }
 ]
