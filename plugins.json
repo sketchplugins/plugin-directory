@@ -5243,5 +5243,12 @@
     "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazy-styles-generator/master/.appcast.xml",
     "homepage": "https://github.com/lazybearcreations/sketch-lazy-styles-generator#readme",
     "author": "Adam Bruzon"
+  },
+  {
+    "title": "add-colors-to-palette",
+    "name": "sketch-add-colors-to-palette",
+    "owner": "johnmcclumpha",
+    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-add-colors-to-palette/master/.appcast.xml",
+    "homepage": "https://github.com/johnmcclumpha/sketch-add-colors-to-palette"
   }
 ]
