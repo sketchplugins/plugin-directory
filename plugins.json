@@ -5175,5 +5175,14 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
     "author": "Ozgur Gunes"
+  },
+  {
+    "title": "Symbol States",
+    "description": "A Sketch plugin which saves overrides of a symbol instance as states to be applyable on another instance of that symbol later.",
+    "name": "Sketch-Symbol-States",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
+    "author": "Ozgur Gunes"
   }
 ]
