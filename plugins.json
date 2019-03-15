@@ -3070,11 +3070,11 @@
     "lastUpdated": "2017-07-12 08:47:29 UTC"
   },
   {
-    "description": "Add, share and discuss your Sketch artboards with the team in RealtimeBoard. The plugin allow to sync the artboards with the boards in one click",
+    "description": "Add, share and discuss your Sketch artboards with the team in Miro (formerly RealtimeBoard). The plugin allow to sync the artboards with the boards in one click",
     "name": "sketch_plugin",
-    "title": "RealtimeBoard plugin for Sketch",
+    "title": "Miro plugin for Sketch",
     "owner": "RealtimeBoard",
-    "author": "RealtimeBoard",
+    "author": "Miro (formerly RealtimeBoard)",
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
     "lastUpdated": "2018-11-08 14:23:59 UTC"
   },
