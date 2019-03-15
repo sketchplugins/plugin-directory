@@ -5157,5 +5157,14 @@
     "appcast": "https://raw.githubusercontent.com/nOograss/labelizING/master/.appcast.xml",
     "homepage": "https://github.com/nOograss/labelizING",
     "author": "Maxime Peeters"
-  }
+  },
+  {
+    "title": "chemofill",
+    "description": "A Chemical Structure data supplier plugin.",
+    "name": "chemofill",
+    "owner": "ahadik",
+    "appcast": "https://raw.githubusercontent.com/ahadik/chemofill/master/.appcast.xml",
+    "homepage": "https://github.com/ahadik/chemofill",
+    "author": "Alexander Hadik"
+  }    
 ]
