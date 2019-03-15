@@ -1,5 +1,15 @@
 [
   {
+    "description": "Create High-Fidelity Prototypes and Export to HTML.",
+    "title": "Anima",
+    "name": "Anima",
+    "owner": "AnimaApp",
+    "author": "Anima Team",
+    "homepage": "https://www.animaapp.com",
+    "lastUpdated": "2019-03-03 16:27:58 UTC",
+    "appcast": "https://www.animaapp.com/timeline/appcast.xml"
+  },
+  {
     "description": "Design and Development Platform(一站式设计开发工作台)",
     "name": "Dapollo",
     "title": "Dapollo",
@@ -3913,7 +3923,7 @@
   },
   {
     "title": "Sketch Library Unlinker",
-    "description": "A Sketch plugin that unlinks all symbols in a document that are linked to a specific library",
+    "description": "Unlink symbols linked to a specific library, or unlink symbols that have been deleted in their libraries.",
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
@@ -5061,6 +5071,101 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "Sketch a Sketch",
+    "description": "Bringing the iconic knobs from the famous toy to Sketch.",
+    "name": "sketch-a-sketch",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-a-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-a-sketch",
+    "author": "Mathieu Dutour"
+  },
+  {
+    "title": "IBAN Generator",
+    "description": "Generate random International Bank Account Numbers (IBAN)",
+    "name": "iban-sketch-plugin",
+    "owner": "idriesalbender",
+    "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
+    "author": "idix"
+  },
+  {
+    "title": "String Value Puller",
+    "description": "Plugin to handle pull string values from github repositories.",
+    "name": "sketch_strings_puller",
+    "owner": "YannickWidmer",
+    "appcast": "https://raw.githubusercontent.com/YannickWidmer/sketch_strings_puller/master/.appcast.xml",
+    "homepage": "https://github.com/YannickWidmer/sketch_strings_puller",
+    "author": "YannickWidmer"
+  },
+  {
+    "title": "Somino",
+    "description": "Attachable styles, Advanced clipboard, Silent export",
+    "name": "Somino",
+    "owner": "melsomino",
+    "homepage": "https://github.com/melsomino/sketch-somino",
+    "author": "Michael Vlasov"
+  },
+  {
+    "title": "library-audit",
+    "name": "sketch-library-audit",
+    "owner": "naughtandcross",
+    "appcast": "https://raw.githubusercontent.com/naughtandcross/sketch-library-audit/master/.appcast.xml",
+    "homepage": "https://github.com/naughtandcross/sketch-library-audit",
+    "author": "Colby Grenier"
+  },
+  {
+    "title": "Mise En Place",
+    "name": "MiseEnPlace",
+    "owner": "madwaro",
+    "appcast": "https://raw.githubusercontent.com/madwaro/MiseEnPlace/master/.appcast.xml",
+    "homepage": "https://github.com/madwaro/MiseEnPlace",
+    "author": "Carlos Madrigal"
+  },
+  {
+    "title": "import-colors",
+    "description": "Import colors from swatches file to Sketch.",
+    "name": "import-colors-sketch",
+    "owner": "Ashung",
+    "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/Ashung/import-colors-sketch",
+    "author": "Ashung"
+  },
+  {
+    "title": "Presto-Dom-Gen",
+    "description": "Generates Presto Dom Code from Sketch Layers.",
+    "name": "presto-dom-code",
+    "owner": "iarthstar",
+    "appcast": "https://raw.githubusercontent.com/iarthstar/presto-dom-code/master/.appcast.xml",
+    "homepage": "https://github.com/iarthstar/presto-dom-code"
+  },
+  {
+    "title": "sketch-tailwind",
+    "description": "Export your design to a theme-file you can use in your Tailwind Css config.",
+    "name": "sketch-tailwind",
+    "owner": "jan-dh",
+    "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
+    "homepage": "https://github.com/jan-dh/sketch-tailwind",
+    "author": "Jan D'Hollander"
+  },
+  {
+    "title": "labelizING",
+    "description": "Extract, replace and download labels from sketch file",
+    "name": "labelizING",
+    "owner": "nOograss",
+    "appcast": "https://raw.githubusercontent.com/nOograss/labelizING/master/.appcast.xml",
+    "homepage": "https://github.com/nOograss/labelizING",
+    "author": "Maxime Peeters"
+  },
+  {
+    "title": "chemofill",
+    "description": "A Chemical Structure data supplier plugin.",
+    "name": "chemofill",
+    "owner": "ahadik",
+    "appcast": "https://raw.githubusercontent.com/ahadik/chemofill/master/.appcast.xml",
+    "homepage": "https://github.com/ahadik/chemofill",
+    "author": "Alexander Hadik"
   },
   {
     "title": "Overrides Manager",
