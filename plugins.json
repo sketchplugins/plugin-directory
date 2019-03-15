@@ -5273,5 +5273,14 @@
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-add-colors-to-palette/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-add-colors-to-palette",
     "lastUpdated": "2019-03-15 05:47:13 UTC"
+  },
+  {
+    "title": "rename-export",
+    "description": "Use this plugin to batch export layers with consistent filenames",
+    "name": "Batch-Export-Rename",
+    "owner": "TheSonOfThomp",
+    "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/.appcast.xml",
+    "homepage": "https://github.com/TheSonOfThomp/Batch-Export-Rename",
+    "author": "Adam Thompson"
   }
 ]
