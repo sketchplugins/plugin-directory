@@ -5166,5 +5166,14 @@
     "appcast": "https://raw.githubusercontent.com/ahadik/chemofill/master/.appcast.xml",
     "homepage": "https://github.com/ahadik/chemofill",
     "author": "Alexander Hadik"
-  }    
+  },
+  {
+    "title": "Overrides Manager",
+    "description": "A Sketch plugin which makes managing overrides easier.",
+    "name": "Sketch-Overrides-Manager",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
+    "author": "Ozgur Gunes"
+  }
 ]
