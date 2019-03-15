@@ -5113,6 +5113,7 @@
   {
     "title": "library-audit",
     "name": "sketch-library-audit",
+    "description": "Export Symbol and Shared Style data from any Sketch Library to CSV.",
     "owner": "naughtandcross",
     "appcast": "https://raw.githubusercontent.com/naughtandcross/sketch-library-audit/master/.appcast.xml",
     "homepage": "https://github.com/naughtandcross/sketch-library-audit",
@@ -5122,6 +5123,7 @@
   {
     "title": "Mise En Place",
     "name": "MiseEnPlace",
+    "description": "Mise En Place is a Sketch plug-in that helps you prep before you start cooking your designs.",
     "owner": "madwaro",
     "appcast": "https://raw.githubusercontent.com/madwaro/MiseEnPlace/master/.appcast.xml",
     "homepage": "https://github.com/madwaro/MiseEnPlace",
@@ -5200,6 +5202,7 @@
   {
     "title": "CSV Mail Merge",
     "name": "sketch-csv-mailmerge",
+    "description": "A lightweight Sketch plugin for importing data from .csv files using \"{}\" text sections.",
     "owner": "jdwolk",
     "appcast": "https://raw.githubusercontent.com/jdwolk/sketch-csv-mailmerge/master/.appcast.xml",
     "homepage": "https://github.com/jdwolk/sketch-csv-mailmerge",
@@ -5236,6 +5239,7 @@
   {
     "title": "color-swatcher",
     "name": "color-swatcher",
+    "description": "A Sketch plugin to analyze document colors and show the WCAG color contrast value.",
     "owner": "akiersky",
     "appcast": "https://raw.githubusercontent.com/akiersky/color-swatcher/master/.appcast.xml",
     "homepage": "https://github.com/akiersky/color-swatcher",
@@ -5264,6 +5268,7 @@
   {
     "title": "add-colors-to-palette",
     "name": "sketch-add-colors-to-palette",
+    "description": "Quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette.",
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-add-colors-to-palette/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-add-colors-to-palette",
