@@ -5209,5 +5209,14 @@
     "owner": "Infragistics",
     "homepage": "https://cloud.indigo.design/home",
     "author": "Infragistics"
+  },
+  {
+    "description": "Use your Airtable data in your Sketch symbols",
+    "name": "Airtabledata",
+    "title": "Airtabledata",
+    "owner": "Rutger Willems",
+    "author": "Rutger Willems",
+    "homepage": "https://sketchairtabledataplugin.com/",
+    "lastUpdated": "2019-03-08 12:00:00 UTC"
   }
 ]
