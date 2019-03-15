@@ -7,9 +7,14 @@ require "./lib/plugin-directory-utils"
 GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
 USERNAME = `git config github.user`.strip
 
+def title_for plugin
+  title = plugin['title'] || plugin['name']
+  return titlefy(title)
+end
+
 def fix_plugin_title plugin
   if (plugin['name'] == plugin['title'] && !(IGNORE.include? plugin['title'])) || plugin['title'] == nil
-    puts "— #{plugin['name']} - #{plugin['title']}: Plugin title is wrong, fixing"
+    # puts "— #{plugin['name']} - #{plugin['title']}: Plugin title is wrong, fixing"
     plugin['title'] = titlefy(plugin['name'])
   end
 end
@@ -76,11 +81,11 @@ EOF
     puts "Processing #{plugin}"
 
     name   = plugin['name']
-    title  = plugin['title'] || name
+    title  = title_for plugin
     owner  = plugin['owner']
     author = plugin['author'] || owner
     url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc   = plugin['description'].strip
+    desc   = (plugin['description'] || "").strip
 
 
     if is_plugin_too_old? plugin
@@ -112,9 +117,9 @@ EOF
     end
 
     name   = plugin['name']
+    title  = title_for plugin
     owner  = plugin['owner']
     author = plugin['author'] || owner
-    title  = plugin['title'] || name
     url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
     desc   = plugin['description'].strip
     output << "- [#{title}](#{url}), by #{author}:"
