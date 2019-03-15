@@ -5104,5 +5104,13 @@
     "appcast": "https://raw.githubusercontent.com/naughtandcross/sketch-library-audit/master/.appcast.xml",
     "homepage": "https://github.com/naughtandcross/sketch-library-audit",
     "author": "Colby Grenier"
+  },
+  {
+    "title": "Mise En Place",
+    "name": "MiseEnPlace",
+    "owner": "madwaro",
+    "appcast": "https://raw.githubusercontent.com/madwaro/MiseEnPlace/master/.appcast.xml",
+    "homepage": "https://github.com/madwaro/MiseEnPlace",
+    "author": "Carlos Madrigal"
   }
 ]
