@@ -5201,5 +5201,13 @@
     "appcast": "https://raw.githubusercontent.com/jorgemartins/add-selected-colors/master/.appcast.xml",
     "homepage": "https://github.com/jorgemartins/add-selected-colors",
     "author": "Jorge Martins"
+  },
+  {
+    "title": "Indigo.Design",
+    "description": "Create, edit, and apply themes to your Indigo.Design UI Kit based designs and publish them as prototypes to the Indigo.Design cloud.",
+    "name": "Indigo.Design",
+    "owner": "Infragistics",
+    "homepage": "https://cloud.indigo.design/home",
+    "author": "Infragistics"
   }
 ]
