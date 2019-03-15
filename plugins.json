@@ -5225,5 +5225,14 @@
     "owner": "akiersky",
     "appcast": "https://raw.githubusercontent.com/akiersky/color-swatcher/master/.appcast.xml",
     "homepage": "https://github.com/akiersky/color-swatcher"
+  },
+  {
+    "title": "AEUX",
+    "description": "Transfer layer to After Effects",
+    "name": "sketch2ae",
+    "owner": "google",
+    "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
+    "homepage": "https://github.com/google/sketch2ae",
+    "author": "Battle Axe"
   }
 ]
