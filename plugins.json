@@ -5192,5 +5192,14 @@
     "appcast": "https://raw.githubusercontent.com/jdwolk/sketch-csv-mailmerge/master/.appcast.xml",
     "homepage": "https://github.com/jdwolk/sketch-csv-mailmerge",
     "author": "JD Wolk"
-  }  
+  },
+  {
+    "title": "add-selected-colors",
+    "description": "Add selected colors to document palette, sketch plugin",
+    "name": "add-selected-colors",
+    "owner": "jorgemartins",
+    "appcast": "https://raw.githubusercontent.com/jorgemartins/add-selected-colors/master/.appcast.xml",
+    "homepage": "https://github.com/jorgemartins/add-selected-colors",
+    "author": "Jorge Martins"
+  }
 ]
