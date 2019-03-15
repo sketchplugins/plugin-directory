@@ -5061,5 +5061,14 @@
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
     "lastUpdated": "2019-02-13 00:08:22 UTC"
+  },
+  {
+    "title": "Sketch a Sketch",
+    "description": "Bringing the iconic knobs from the famous toy to Sketch.",
+    "name": "sketch-a-sketch",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-a-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-a-sketch",
+    "author": "Mathieu Dutour"
   }
 ]
