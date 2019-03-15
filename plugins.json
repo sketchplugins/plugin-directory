@@ -5088,5 +5088,13 @@
     "appcast": "https://raw.githubusercontent.com/YannickWidmer/sketch_strings_puller/master/.appcast.xml",
     "homepage": "https://github.com/YannickWidmer/sketch_strings_puller",
     "author": "YannickWidmer"
+  },
+  {
+    "title": "Somino",
+    "description": "Attachable styles, Advanced clipboard, Silent export",
+    "name": "Somino",
+    "owner": "melsomino",
+    "homepage": "https://github.com/melsomino/sketch-somino",
+    "author": "Michael Vlasov"
   }
 ]

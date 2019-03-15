@@ -448,6 +448,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Smartling](https://smartling.github.io/smartling-sketch-plugin/), by Smartling: Plugin for Sketch that allows to translate and pseudo-localize designs using the Smartling platform.
 - [Smudge](https://github.com/mjkaufer/smudge), by Matthew Kaufer: Emulate blend functionality from Adobe Illustrator
 - [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
+- [Somino](https://github.com/melsomino/sketch-somino), by Michael Vlasov: Attachable styles, Advanced clipboard, Silent export
 - [Sort Me](https://github.com/romashamin/sort-me-sketch), by Roman Shamin: Sort artboards and layers by name
 - [Sparkliner](https://github.com/volorf/sparkliner), by Oleg Frolov: Sparkliner — easy way to make sparkline graph
 - [Specify (alpha)](https://specifyapp.com), by Specify SAS: Export styles and assets to your Specify Libraries.
@@ -737,7 +738,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SVGO Compressor](https://sketchapp.com/extensions/plugins/svgo-compressor/), by Bohemian Coding: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
 - [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
+- [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
 - [Sketch2Web](http://www.sketch2web.skuko.com), by Skuko: Export your project to web in just one click.
+- [Flatten Plugin for Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch), by Emin İnanç Ünlü: Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
 - [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
 - [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: A Sketch extension to generate english and persian lorem ipsum text.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
