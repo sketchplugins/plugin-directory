@@ -5184,5 +5184,13 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes"
-  }
+  },
+  {
+    "title": "CSV Mail Merge",
+    "name": "sketch-csv-mailmerge",
+    "owner": "jdwolk",
+    "appcast": "https://raw.githubusercontent.com/jdwolk/sketch-csv-mailmerge/master/.appcast.xml",
+    "homepage": "https://github.com/jdwolk/sketch-csv-mailmerge",
+    "author": "JD Wolk"
+  }  
 ]
