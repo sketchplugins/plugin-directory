@@ -5234,5 +5234,14 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe"
+  },
+  {
+    "title": "lazy-styles-generator",
+    "description": "Generate shared layer and text styles using the name of the selected layer as the name of the generated style.",
+    "name": "sketch-lazy-styles-generator",
+    "owner": "lazybearcreations",
+    "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazy-styles-generator/master/.appcast.xml",
+    "homepage": "https://github.com/lazybearcreations/sketch-lazy-styles-generator#readme",
+    "author": "Adam Bruzon"
   }
 ]
