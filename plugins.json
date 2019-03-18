@@ -5282,5 +5282,14 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/Batch-Export-Rename",
     "author": "Adam Thompson"
+  },
+  {
+    "title": "sketch-camera-hotkeys",
+    "description": "Navigate around and present more efficiently",
+    "name": "sketch-camera-hotkeys",
+    "owner": "jayhxmo",
+    "appcast": "https://raw.githubusercontent.com/jayhxmo/sketch-camera-hotkeys/master/.appcast.xml",
+    "homepage": "https://github.com/jayhxmo/sketch-camera-hotkeys",
+    "author": "Jay Mo"
   }
 ]
