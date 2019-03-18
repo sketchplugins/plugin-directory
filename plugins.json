@@ -5282,5 +5282,12 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/Batch-Export-Rename",
     "author": "Adam Thompson"
+  },
+  {
+    "title": "qz-plugin",
+    "name": "qz-plugin",
+    "owner": "elankiderman",
+    "appcast": "https://raw.githubusercontent.com/elankiderman/qz-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/elankiderman/qz-plugin"
   }
 ]
