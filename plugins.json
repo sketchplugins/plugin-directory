@@ -5284,6 +5284,15 @@
     "author": "Adam Thompson"
   },
   {
+    "title": "Case Converter",
+    "description": "Convert text layers, symbols or all instances of a symbol.",
+    "name": "Sketch-Case-Converter",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Case-Converter/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
+    "author": "Özgür Güneş"
+  },
+  {
     "title": "sketch-camera-hotkeys",
     "description": "Navigate around and present more efficiently",
     "name": "sketch-camera-hotkeys",
