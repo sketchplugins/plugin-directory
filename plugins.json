@@ -5303,6 +5303,7 @@
   },
   {
     "title": "qz-plugin",
+    "description": "Internal plugin for use at Quartz. It allows for inverting layer or artboard colors for light/dark themes.",
     "name": "qz-plugin",
     "owner": "elankiderman",
     "appcast": "https://raw.githubusercontent.com/elankiderman/qz-plugin/master/.appcast.xml",
