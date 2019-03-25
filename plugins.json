@@ -5300,5 +5300,14 @@
     "appcast": "https://raw.githubusercontent.com/jayhxmo/sketch-camera-hotkeys/master/.appcast.xml",
     "homepage": "https://github.com/jayhxmo/sketch-camera-hotkeys",
     "author": "Jay Mo"
+  },
+  {
+    "title": "Turkish Data",
+    "description": "Turkish data supplier plugin.",
+    "name": "Sketch-Turkish-Data",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Turkish-Data/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Turkish-Data",
+    "author": "Özgür Güneş"
   }
 ]
