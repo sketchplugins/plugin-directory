@@ -5302,11 +5302,11 @@
     "author": "Jay Mo"
   },
   {
-    "title": "snatch",
+    "title": "Snatch",
     "description": "Sketch plugin which upload layer to CDN directly.",
     "name": "snatch",
-    "owner": "zhicheng",
+    "owner": "ZhichengChen",
     "homepage": "https://github.com/ZhichengChen/snatch",
-    "author": "zhicheng"
+    "author": "ZhichengChen"
   }
 ]
