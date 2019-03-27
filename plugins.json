@@ -5310,6 +5310,7 @@
     "name": "snatch",
     "owner": "ZhichengChen",
     "homepage": "https://github.com/ZhichengChen/snatch",
-    "author": "ZhichengChen"
+    "author": "ZhichengChen",
+    "appcast":"https://raw.githubusercontent.com/ZhichengChen/snatch/master/appcast.xml"
   }
 ]
