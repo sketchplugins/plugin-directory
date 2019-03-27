@@ -5303,5 +5303,13 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Turkish-Data/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Turkish-Data",
     "author": "Özgür Güneş"
+  },
+  {
+    "title": "snatch",
+    "description": "Sketch plugin which upload layer to CDN directly.",
+    "name": "snatch",
+    "owner": "zhicheng",
+    "homepage": "https://github.com/ZhichengChen/snatch",
+    "author": "zhicheng"
   }
 ]
