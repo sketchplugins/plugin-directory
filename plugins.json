@@ -1634,7 +1634,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2019-03-25 03:39:11 UTC"
+    "lastUpdated": "2019-03-27 11:26:42 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3195,7 +3195,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2019-03-26 14:03:09 UTC"
+    "lastUpdated": "2019-03-27 11:58:19 UTC"
   },
   {
     "title": "Blender",
@@ -5129,7 +5129,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2019-03-19 04:09:02 UTC"
+    "lastUpdated": "2019-03-27 11:29:30 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -5302,7 +5302,8 @@
     "owner": "ozgurgunes",
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Turkish-Data/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Turkish-Data",
-    "author": "Özgür Güneş"
+    "author": "Özgür Güneş",
+    "lastUpdated": "2019-03-27 10:44:31 UTC"
   },
   {
     "title": "Snatch",
@@ -5311,6 +5312,7 @@
     "owner": "ZhichengChen",
     "homepage": "https://github.com/ZhichengChen/snatch",
     "author": "ZhichengChen",
-    "appcast":"https://raw.githubusercontent.com/ZhichengChen/snatch/master/appcast.xml"
+    "appcast": "https://raw.githubusercontent.com/ZhichengChen/snatch/master/appcast.xml",
+    "lastUpdated": "2019-03-27 13:15:10 UTC"
   }
 ]
