@@ -5300,5 +5300,13 @@
     "appcast": "https://raw.githubusercontent.com/jayhxmo/sketch-camera-hotkeys/master/.appcast.xml",
     "homepage": "https://github.com/jayhxmo/sketch-camera-hotkeys",
     "author": "Jay Mo"
+  },
+  {
+    "title": "snatch",
+    "description": "Sketch plugin which upload layer to CDN directly.",
+    "name": "snatch",
+    "owner": "zhicheng",
+    "homepage": "https://github.com/ZhichengChen/snatch",
+    "author": "zhicheng"
   }
 ]
