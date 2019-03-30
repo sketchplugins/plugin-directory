@@ -5314,5 +5314,14 @@
     "author": "ZhichengChen",
     "appcast": "https://raw.githubusercontent.com/ZhichengChen/snatch/master/appcast.xml",
     "lastUpdated": "2019-03-27 13:15:10 UTC"
+  },
+  {
+    "title": "jerryipsum",
+    "description": "A Seinfeld data plugin for Sketch.",
+    "name": "jerryipsum",
+    "owner": "vinceangeloni",
+    "appcast": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/.appcast.xml",
+    "homepage": "https://github.com/vinceangeloni/jerryipsum",
+    "author": "Vince Angeloni"
   }
 ]
