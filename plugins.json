@@ -5333,5 +5333,14 @@
     "author": "Jan Schneider",
     "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_artboard-history/master/.appcast.xml",
     "lastUpdated": "2019-03-29 10:12:00 UTC"
+  },
+  {
+    "title": "jerryipsum",
+    "description": "A Seinfeld data plugin for Sketch.",
+    "name": "jerryipsum",
+    "owner": "vinceangeloni",
+    "appcast": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/.appcast.xml",
+    "homepage": "https://github.com/vinceangeloni/jerryipsum",
+    "author": "Vince Angeloni"
   }
 ]
