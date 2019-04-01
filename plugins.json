@@ -5316,6 +5316,15 @@
     "lastUpdated": "2019-03-27 13:15:10 UTC"
   },
   {
+    "title": "Sketch Number Artboards by Position",
+    "description": "Sketch plugin to number artboards in order of position.",
+    "name": "sketch-number-artboards-by-position",
+    "owner": "radermacher",
+    "homepage": "https://github.com/radermacher/sketch-number-artboards-by-position",
+    "author": "Richard Radermacher",
+    "appcast": "https://raw.githubusercontent.com/radermacher/sketch-number-artboards-by-position/master/appcast.xml"
+  },
+  {
     "title": "Artboard History",
     "description": "A Sketch plugin to switch faster between your latest artboards.",
     "name": "Artboard History",
