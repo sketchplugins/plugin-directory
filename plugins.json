@@ -5323,5 +5323,15 @@
     "homepage": "https://github.com/radermacher/sketch-number-artboards-by-position",
     "author": "Richard Radermacher",
     "appcast": "https://raw.githubusercontent.com/radermacher/sketch-number-artboards-by-position/master/appcast.xml"
+  },
+  {
+    "title": "Artboard History",
+    "description": "A Sketch plugin to switch faster between your latest artboards.",
+    "name": "Artboard History",
+    "owner": "jan-patrick",
+    "homepage": "https://github.com/jan-patrick/sketch_artboard-history",
+    "author": "Jan Schneider",
+    "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_artboard-history/master/.appcast.xml",
+    "lastUpdated": "2019-03-29 10:12:00 UTC"
   }
 ]
