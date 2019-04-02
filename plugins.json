@@ -5342,5 +5342,12 @@
     "appcast": "https://raw.githubusercontent.com/vinceangeloni/jerryipsum/master/.appcast.xml",
     "homepage": "https://github.com/vinceangeloni/jerryipsum",
     "author": "Vince Angeloni"
+  },
+  {
+    "title": "areanow",
+    "name": "areanow",
+    "owner": "norman-woz",
+    "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
+    "homepage": "https://github.com/norman-woz/areanow"
   }
 ]
