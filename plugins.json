@@ -5345,6 +5345,7 @@
   },
   {
     "title": "areanow",
+    "description": "Get the total area of selected rectangle layers.",
     "name": "areanow",
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
