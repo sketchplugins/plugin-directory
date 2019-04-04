@@ -3255,15 +3255,6 @@
     "lastUpdated": "2018-03-11 21:26:08 UTC"
   },
   {
-    "title": "Jira Cloud for Sketch",
-    "description": "Export designs, assets, and feedback to Jira Cloud.",
-    "author": "Atlassian",
-    "owner": "atlassian",
-    "name": "jira-cloud-for-sketch",
-    "homepage": "https://sketch.atlassian.com/",
-    "lastUpdated": "2018-11-01 01:45:18 UTC"
-  },
-  {
     "title": "Sketch Title Case",
     "description": "Sketch Plugin to make text Title Case",
     "author": "Mattias Hemmingsson",
