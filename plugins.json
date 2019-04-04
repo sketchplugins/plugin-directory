@@ -5350,5 +5350,12 @@
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
     "homepage": "https://github.com/norman-woz/areanow"
+  },
+  {
+    "title": "artboard-history",
+    "name": "sketch_artboard-history",
+    "owner": "jan-patrick",
+    "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_artboard-history/master/.appcast.xml",
+    "homepage": "https://github.com/jan-patrick/sketch_artboard-history"
   }
 ]
