@@ -5350,5 +5350,14 @@
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
     "homepage": "https://github.com/norman-woz/areanow"
+  },
+  {
+    "title": "Install Library Bundle",
+    "description": "Installs a bunch of shared Sketch Libraries at once, because life is too short for clicking links.",
+    "name": "install-library-bundle",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/install-library-bundle",
+    "author": "Ale Muñoz"
   }
 ]
