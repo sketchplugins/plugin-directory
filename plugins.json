@@ -5350,5 +5350,14 @@
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
     "homepage": "https://github.com/norman-woz/areanow"
+  },
+  {
+    "title": "foodreau",
+    "description": "Data supplier plugin for populating designs with real food recipes.",
+    "name": "sketch-foodreau",
+    "owner": "maxdavid",
+    "appcast": "https://raw.githubusercontent.com/maxdavid/sketch-foodreau/master/.appcast.xml",
+    "homepage": "https://github.com/maxdavid/sketch-foodreau",
+    "author": "Max David"
   }
 ]
