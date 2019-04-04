@@ -5341,5 +5341,13 @@
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
     "homepage": "https://github.com/norman-woz/areanow"
+  },
+  {
+    "title": "Method",
+    "description": "",
+    "name": "Method-Sketch-Plugin",
+    "owner": "KikeSz",
+    "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/KikeSz/Method-Sketch-Plugin"
   }
 ]
