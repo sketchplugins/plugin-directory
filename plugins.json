@@ -5358,5 +5358,14 @@
     "owner": "KikeSz",
     "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/KikeSz/Method-Sketch-Plugin"
+  },
+  {
+    "title": "Install Library Bundle",
+    "description": "Installs a bunch of shared Sketch Libraries at once, because life is too short for clicking links.",
+    "name": "install-library-bundle",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/install-library-bundle",
+    "author": "Ale Muñoz"
   }
 ]
