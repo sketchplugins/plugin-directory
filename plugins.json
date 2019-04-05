@@ -5350,5 +5350,13 @@
     "appcast": "https://raw.githubusercontent.com/maxdavid/sketch-foodreau/master/.appcast.xml",
     "homepage": "https://github.com/maxdavid/sketch-foodreau",
     "author": "Max David"
+  },
+  {
+    "title": "Method",
+    "description": "",
+    "name": "Method-Sketch-Plugin",
+    "owner": "KikeSz",
+    "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/KikeSz/Method-Sketch-Plugin"
   }
 ]
