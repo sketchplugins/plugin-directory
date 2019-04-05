@@ -5367,5 +5367,13 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/install-library-bundle",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "find-and-replace-text",
+    "name": "sketch-find-and-replace-text",
+    "owner": "chriswetterman",
+    "appcast": "https://raw.githubusercontent.com/chriswetterman/sketch-find-and-replace-text/master/.appcast.xml",
+    "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
+    "author": "Chris Wetterman"
   }
 ]
