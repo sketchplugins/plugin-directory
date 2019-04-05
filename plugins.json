@@ -5367,5 +5367,13 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/install-library-bundle",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "Label-layers",
+    "description": "A Sketch plugin that labels selected layers",
+    "name": "Label_Layers",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Label_Layers"
   }
 ]
