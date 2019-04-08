@@ -5375,5 +5375,13 @@
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Label_Layers"
+  },
+  {
+    "title": "Find and Replace Text",
+    "name": "sketch-find-and-replace-text",
+    "owner": "chriswetterman",
+    "appcast": "https://raw.githubusercontent.com/chriswetterman/sketch-find-and-replace-text/master/.appcast.xml",
+    "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
+    "author": "Chris Wetterman"
   }
 ]
