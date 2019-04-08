@@ -5353,7 +5353,7 @@
   },
   {
     "title": "Method",
-    "description": "",
+    "description": "Tool to apply your methodology systems",
     "name": "Method-Sketch-Plugin",
     "owner": "KikeSz",
     "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml",
@@ -5367,6 +5367,14 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/install-library-bundle",
     "author": "Ale Muñoz"
+  },
+  {
+    "title": "Label-layers",
+    "description": "A Sketch plugin that labels selected layers",
+    "name": "Label_Layers",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Label_Layers"
   },
   {
     "title": "Find and Replace Text",
