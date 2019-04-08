@@ -5353,7 +5353,7 @@
   },
   {
     "title": "Method",
-    "description": "",
+    "description": "Tool to apply your methodology systems",
     "name": "Method-Sketch-Plugin",
     "owner": "KikeSz",
     "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml",
