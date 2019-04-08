@@ -5383,5 +5383,14 @@
     "appcast": "https://raw.githubusercontent.com/chriswetterman/sketch-find-and-replace-text/master/.appcast.xml",
     "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
     "author": "Chris Wetterman"
+  },
+  {
+    "title": "Import SVG as Artboards",
+    "description": "Import SVG files as Artboards.",
+    "name": "import-svg-as-artboard",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
+    "author": "mathieudutour"
   }
 ]
