@@ -5392,5 +5392,14 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
     "author": "mathieudutour"
+  },
+  {
+    "title": "Colormate",
+    "description": "Colormate is a kickass sketch plugin that will help you figure out how in the hell you ended up with 457 different greys, instead of the 1 grey Mandy gave you in the handover. Oops :flushed:",
+    "name": "colormate",
+    "owner": "themainingredient",
+    "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
+    "homepage": "https://github.com/themainingredient/colormate",
+    "author": "The Main Ingredient"
   }
 ]
