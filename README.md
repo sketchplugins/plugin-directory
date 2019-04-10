@@ -51,7 +51,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Avocode Sketch Plugin](https://avocode.com/download?origin=sketch), by Avocode Inc.: Sync Sketch designs to Avocode.
 - [Awesome Image Compressor](https://github.com/naoyawatanabe/awesome-image-compressor), by Naoya Watanabe: Compress exported image assets
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
-- [Base64 PNG Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
 - [Better Paste](https://github.com/kenmoore/sketch-better-paste), by Ken Moore: Paste like it was meant to be--into the artboard you're viewing.
@@ -197,6 +196,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ImageOptim Sketch Plugin](https://github.com/imageoptim/sketch-plugin), by ImageOptim: ImageOptim plugin for the Sketch app
 - [Images Reinvented](https://github.com/roydigerhund/images-reinvented), by Matthias Martin: A better way to use images in Sketch.
 - [imgcook](https://github.com/taobaofed/imgcook), by Taobao FED: imgcook sketch plugin
+- [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
 - [Import Symbols](https://github.com/kmerc/sketch-import-symbols), by kmerc: Easily import symbols from another Sketch file
 - [Import Colors](https://github.com/Ashung/import-colors-sketch), by Ashung: Import colors from swatches file to Sketch.
 - [Indigo.Design](https://cloud.indigo.design/resources), by Infragistics: Create, edit, and apply themes to your Indigo.Design UI Kit based designs and publish them as prototypes to the Indigo.Design cloud.
@@ -241,6 +241,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Miaow](https://github.com/weixin/Miaow), by Tencent WeChat Team: A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
 - [Miro Plugin for Sketch](https://github.com/RealtimeBoard/sketch_plugin), by Miro (formerly RealtimeBoard): Add, share and discuss your Sketch artboards with the team in Miro (formerly RealtimeBoard). The plugin allow to sync the artboards with the boards in one click
 - [Mise En Place](https://github.com/madwaro/MiseEnPlace), by Carlos Madrigal: Mise En Place is a Sketch plug-in that helps you prep before you start cooking your designs.
+- [MockingBot](https://modao.cc/sketch), by MockingBot: MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever
 - [Moodboard Builder](http://reinvently.com/moodboard-builder-sketch-plugin/), by Reinvently: A streamlined Sketch plugin for creating moodboards quickly and easily. Just do a search, check the suitable images, and - voila -  you have a beautiful moodboard. Keep inspired! 💡
 - [Move To Library Sketchplugin](https://github.com/ahmedmigo/move-to-library-sketchplugin), by Ahmed Genaidy: You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
 - [NeoPreview](https://github.com/alanfraneo/sketch-neo-preview), by Alan Francis: A plugin to create HTML based preview and gallery straight from sketch artboards
@@ -1083,4 +1084,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Remove Fills and Borders](https://github.com/sebj/remove-fills-and-borders), by Seb Jachec: Remove a layer's fills and borders in Sketch.
 - [Ace Jump](https://github.com/turbobabr/sketch-ace-jump), by Andrey Shakhmin: Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 - [Sketchplugin Align Artboards](https://github.com/doubco/sketchplugin-align-artboards), by Doub.co: Easily aligns all artboards vertical or horizontal by name. Uses the same convention as 'Sketch export folder structure 'parent/child'.
-- [Base64 PNG Export](https://github.com/jawayang/sketch-base64-png-export), by james yang: sketch plugin for Export Data URI
