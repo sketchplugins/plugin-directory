@@ -5357,7 +5357,8 @@
     "homepage": "https://github.com/franklymrshankly/Label_Layers"
   },
   {
-    "title": "Find and Replace Text",
+    "title": "🕵🏻‍ Find and Replace Text",
+    "description": "Find and replace text throughout your Sketch document",
     "name": "sketch-find-and-replace-text",
     "owner": "chriswetterman",
     "appcast": "https://raw.githubusercontent.com/chriswetterman/sketch-find-and-replace-text/master/.appcast.xml",
