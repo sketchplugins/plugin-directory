@@ -5392,5 +5392,14 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
     "author": "mathieudutour"
+  },
+  {
+    "title": "Prototypes Invision ↔︎ Sketch",
+    "description": "Translate your prototyping links back and forth between Sketch and Invision",
+    "name": "prototypes-invision-sketch",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/prototypes-invision-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/prototypes-invision-sketch",
+    "author": "mathieudutour"
   }
 ]
