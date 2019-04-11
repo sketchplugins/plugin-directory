@@ -5373,5 +5373,14 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
     "author": "mathieudutour"
+  },
+  {
+    "title": "Align-to-padding",
+    "description": "Align layers in a group with padding applied",
+    "name": "Align-to-padding",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Align-to-padding",
+    "author": "Jonathan Tran"
   }
 ]
