@@ -5409,5 +5409,14 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Align-to-padding",
     "author": "Jonathan Tran"
+  },
+  {
+    "title": "Sequence Artboard Names",
+    "description": "Simple sequencing of all artboards within a Sketch Document",
+    "name": "Sequence-Sketch-Artboards",
+    "owner": "tbrasington",
+    "appcast": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/.appcast.xml",
+    "homepage": "https://github.com/tbrasington/Sequence-Sketch-Artboards",
+    "author": "Thomas Brasington"
   }
 ]
