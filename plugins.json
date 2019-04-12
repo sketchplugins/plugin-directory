@@ -5373,5 +5373,14 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
     "author": "mathieudutour"
+  },
+  {
+    "title": "MockingBot",
+    "description": "MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever",
+    "name": "MockingBot",
+    "author": "MockingBot",
+    "owner": "MockingBot",
+    "homepage": "https://modao.cc/sketch",
+    "appcast": "https://modao.cc/appcast.xml"
   }
 ]
