@@ -5375,6 +5375,33 @@
     "author": "mathieudutour"
   },
   {
+    "title": "MockingBot",
+    "description": "MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever",
+    "name": "MockingBot",
+    "author": "MockingBot",
+    "owner": "MockingBot",
+    "homepage": "https://modao.cc/sketch",
+    "appcast": "https://modao.cc/appcast.xml"
+  },
+  {
+    "title": "Colormate",
+    "description": "Colormate is a kickass sketch plugin that will help you figure out how in the hell you ended up with 457 different greys, instead of the 1 grey Mandy gave you in the handover. Oops :flushed:",
+    "name": "colormate",
+    "owner": "themainingredient",
+    "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
+    "homepage": "https://github.com/themainingredient/colormate",
+    "author": "The Main Ingredient"
+  },
+  {
+    "title": "Prototypes Invision ↔︎ Sketch",
+    "description": "Translate your prototyping links back and forth between Sketch and Invision",
+    "name": "prototypes-invision-sketch",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/prototypes-invision-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/prototypes-invision-sketch",
+    "author": "mathieudutour"
+  },
+  {
     "title": "Align-to-padding",
     "description": "Align layers in a group with padding applied",
     "name": "Align-to-padding",
