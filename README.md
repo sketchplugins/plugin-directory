@@ -24,6 +24,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Align Artboards and Symbols](https://github.com/richardgazdik/sketch-align), by Richard Gazdik: Group and align your Sketch symbols and artboards by name.
 - [Align Text Baseline](https://github.com/soutaro/align-text-baseline-sketch-plugin), by Soutaro Matsumoto: Align text layer vertically based on its baseline and cap height.
 - [Align To](https://github.com/lucienlee/alignto), by Lucien Lee: Sketch 3 plugin that align layers relative to more options.
+- [Align to Padding](https://github.com/franklymrshankly/Align-to-padding), by Jonathan Tran: Align layers in a group with padding applied
 - [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
 - [Angle](https://designcode.io/angle), by MengTo: Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.
@@ -91,6 +92,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Color Copier](https://github.com/mfouquet/color-copier), by Michael Fouquet: Sketch Plugin to quickly copy color RGB/HEX values.
 - [Color Swatcher](https://github.com/akiersky/color-swatcher), by akiersky: A Sketch plugin to analyze document colors and show the WCAG color contrast value.
 - [ColorBrightness](https://github.com/andex/colorbrightness), by Andrey Anashkin: Color Brightness sketch plugin
+- [Colormate](https://github.com/themainingredient/colormate), by The Main Ingredient: Colormate is a kickass sketch plugin that will help you figure out how in the hell you ended up with 457 different greys, instead of the 1 grey Mandy gave you in the handover. Oops :flushed:
 - [ColorSpark for Sketch](https://colorspark.app/sketch), by Luke Johnson: A simple tool to help designers discover unique colors and gradients directly in Sketch.
 - [Comma](https://github.com/margusholland/comma), by Margus Holland: Sketch plugin for text modifications
 - [Compo](https://github.com/romashamin/compo-sketch), by Roman Shamin: Makes it easier to work with interface components in Sketch
@@ -149,7 +151,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Find All Instances of Symbol](https://github.com/nmwoods1/sketch---find-all-instances-of-symbol), by nmwoods1: A Sketch plugin that lets you find all of the instances of a symbol across multiple pages/artboards
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
-- [Find and Replace Text](https://github.com/chriswetterman/sketch-find-and-replace-text), by Chris Wetterman:
 - [Fitter Sketch Plugin](https://github.com/pberrecloth/fitter-sketch-plugin), by Peter Berrecloth: Fit layer to artboard width, height or both
 - [Fix Sketch Trackpad Speed](https://github.com/pravdomil/fixsketchtrackpadspeed), by Pravdomil: Speed up your scrolling across all artboards
 - [Flatten Plugin for Sketch](https://github.com/einancunlu/flatten-plugin-for-sketch), by Emin İnanç Ünlü: Flatten single or multiple layers instantly, create shared artboard styles, keep them all updated like a boss and boost your Sketch document performance.
@@ -280,6 +281,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Primary Sync](https://github.com/Primary-app/primary-sync), by Primary: Sync your Sketch designs 💎 with Primary's user flows and design documents.
 - [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [Protoship Codegen Sketch Client](https://github.com/protoship/codegen-sketch-client), by protoship: Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy
+- [Prototypes Invision ↔︎ Sketch](https://github.com/mathieudutour/prototypes-invision-sketch), by mathieudutour: Translate your prototyping links back and forth between Sketch and Invision
 - [Protowire](https://protowire.com), by Mark Horgan: Adds prototyping to Sketch including transitions between screens and layer animation.
 - [Prott Sketch Plugin](https://github.com/goodpatch/prott-sketch-plugin), by Goodpatch Inc.: Sync Sketch artboards to Prott like a boss.
 - [Ps Guides](https://github.com/pratikjshah/ps-guides), by Pratik Shah: Quickly generate Guides for a selected element in Sketch
@@ -325,6 +327,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [sendTo](https://github.com/udi-gindi/sendTo), by Udi Gindi: Export layer as email attachment
 - [Seoul](https://github.com/sunkibaek/Seoul), by Sunki Baek: A DataSupplier plugin
 - [Separate Shapes](https://github.com/pez/sketchseparateshapes), by Peter Strömberg: A Sketch-app plugin that does a ”boolean” separate operation on two selected shapes. Like divide in Pathfinder in Adobe Illustrator.
+- [Sequence Artboard Names](https://github.com/tbrasington/Sequence-Sketch-Artboards), by Thomas Brasington: Simple sequencing of all artboards within a Sketch Document
 - [Set Line Height](https://github.com/getflourish/sketch-set-line-height-plugin), by Florian Schulz: Plugin that allows you to set the line height of a text layer as a multiple of the font size.
 - [Shapr](https://github.com/vincenzopetito/shapr), by Vincenzo Petito: A Sketch plugin to create element with the keyboards!
 - [Shared Style Finder](https://github.com/sonburn/shared-style-finder), by Jason Burns: Find instances of a shared layer or text style.
@@ -554,6 +557,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [🐳 蓝湖](https://lanhuapp.com/mac), by lanhuapp.com: Awesome Product Design Tool
 - [📐 Sketch Guides](http://guides.pratikshah.website/), by Pratik Shah: Quickly generate Guides for a selected element in Sketch
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
+- [🕵🏻‍ Find and Replace Text](https://github.com/chriswetterman/sketch-find-and-replace-text), by Chris Wetterman: Find and replace text throughout your Sketch document
 
 
 ## Sorted by last update (newest on top)
