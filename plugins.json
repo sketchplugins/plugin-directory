@@ -5418,5 +5418,14 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/Sequence-Sketch-Artboards",
     "author": "Thomas Brasington"
+  },
+  {
+    "title": "grid-layer",
+    "description": "",
+    "name": "Grid-Layer",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Grid-Layer",
+    "author": "Jonathan Tran"
   }
 ]
