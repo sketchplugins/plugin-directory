@@ -5421,11 +5421,20 @@
   },
   {
     "title": "paddit",
-    "description": "",
+    "description": "Inspired by Falkeyn's Modulizer, a Sketch plugin that adjusts a group's background to the content with padding.",
     "name": "Paddit",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Paddit/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Paddit",
     "author": "Jonathan Tran"
+  },
+  {
+    "title": "grid-layer",
+    "description": "Create columns or gutters as layers. Useful if you need a grid on a component level.",
+    "name": "Grid-Layer",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Grid-Layer",
+		"author": "Jonathan Tran"
   }
 ]
