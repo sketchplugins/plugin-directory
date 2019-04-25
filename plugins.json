@@ -5435,6 +5435,14 @@
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Grid-Layer",
-		"author": "Jonathan Tran"
+    "author": "Jonathan Tran"
+  },
+  {
+    "title": "whale-kit",
+    "name": "whale-kit",
+    "owner": "jingwhale",
+    "appcast": "https://raw.githubusercontent.com/jingwhale/whale-kit/master/.appcast.xml",
+    "homepage": "https://github.com/jingwhale/whale-kit",
+    "author": "jingwhale"
   }
 ]
