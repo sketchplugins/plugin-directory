@@ -5438,6 +5438,14 @@
     "author": "Jonathan Tran"
   },
   {
+    "title": "⚡️ Bolt",
+    "name": "bolt",
+    "description": "Import screenshots faster",
+    "author": "Arcangelo Fiore",
+    "homepage": "http://boltplugin.com/",
+    "appcast": "http://boltplugin.com/appcast.xml"
+  },
+  {
     "title": "whale-kit",
     "name": "whale-kit",
     "owner": "jingwhale",
