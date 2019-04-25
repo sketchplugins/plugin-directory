@@ -5452,5 +5452,13 @@
     "appcast": "https://raw.githubusercontent.com/jingwhale/whale-kit/master/.appcast.xml",
     "homepage": "https://github.com/jingwhale/whale-kit",
     "author": "jingwhale"
+  },
+  {
+    "title": "Translate From JSON",
+    "name": "Translate From JSON",
+    "description":"A Sketch plugin lets you use variables for texts in your designs."
+    "owner": "kbirgoren",
+    "homepage": "https://github.com/kbirgoren/sketch-json-translator",
+    "author": "kbirgoren"
   }
 ]
