@@ -187,7 +187,7 @@
     "description": "Access Shutterstock's stunning images without leaving your workspace.",
     "title": "Shutterstock",
     "author": "Shutterstock, Inc.",
-    "homepage": "https://www.shutterstock.com/special/sketchplugin",
+    "homepage": "https://www.shutterstock.com/explore/shutterstock-sketch-plugin",
     "lastUpdated": "2018-01-19 16:09:47 UTC"
   },
   {
@@ -270,9 +270,9 @@
   {
     "description": "Dynamic color relations in Sketch.",
     "name": "Chain",
-    "owner": "LaloMrtnz",
+    "owner": "lalomts",
     "author": "Lalo Mrtnz",
-    "homepage": "https://lalomrtnz.github.io/Chain/",
+    "homepage": "https://lalomts.github.io/Chain/",
     "lastUpdated": "2018-05-26 15:32:33 UTC",
     "title": "Chain"
   },
@@ -3206,13 +3206,6 @@
     "lastUpdated": "2019-02-06 05:27:16 UTC"
   },
   {
-    "owner": "lstore.graphics",
-    "title": "7 Columns Calendar Creator",
-    "description": "An easy-to-use plugin that allows you to generate a 7 Columns Calendar for any month",
-    "homepage": "https://lstore.graphics/plugins/calendar/",
-    "author": "lstore.graphics"
-  },
-  {
     "title": "Sketch Slicer",
     "description": "Create slice layers from selected layers, with padding or set a fixed size.",
     "author": "Derek Nguyen",
@@ -3253,15 +3246,6 @@
     "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
     "description": "Export and optimize images with Realmac Squash",
     "lastUpdated": "2018-03-11 21:26:08 UTC"
-  },
-  {
-    "title": "Jira Cloud for Sketch",
-    "description": "Export designs, assets, and feedback to Jira Cloud.",
-    "author": "Atlassian",
-    "owner": "atlassian",
-    "name": "jira-cloud-for-sketch",
-    "homepage": "https://sketch.atlassian.com/",
-    "lastUpdated": "2018-11-01 01:45:18 UTC"
   },
   {
     "title": "Sketch Title Case",
@@ -3537,13 +3521,6 @@
     "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
     "homepage": "https://github.com/AMoreaux/Sketch-Icons",
     "lastUpdated": "2019-02-05 17:58:17 UTC"
-  },
-  {
-    "description": "FontRapid is a free Sketch plugin, helps designers create professional OpenType fonts with ease directly in Sketch app. The output font can be used for print, web and mobile, and sold to anyone with no limit (both free and commercial use).",
-    "title": "FontRapid",
-    "author": "FontRapid Team",
-    "homepage": "https://fontrapid.com",
-    "lastUpdated": "2018-1-12 12:00:00 UTC"
   },
   {
     "title": "Sketch Topographic",
@@ -4152,12 +4129,6 @@
     "owner": "KevinvBre",
     "name": "Align-and-resize-to-layout",
     "lastUpdated": "2018-11-01 16:36:01 UTC"
-  },
-  {
-    "title": "Stackswell",
-    "author": "Joseph Mueller & Parth P",
-    "description": "Sketch plugin to update type and symbols based on the artboard width.",
-    "homepage": "https://stackswell.io"
   },
   {
     "title": "Typesettings",
@@ -5352,11 +5323,126 @@
     "homepage": "https://github.com/norman-woz/areanow"
   },
   {
+    "title": "foodreau",
+    "description": "Data supplier plugin for populating designs with real food recipes.",
+    "name": "sketch-foodreau",
+    "owner": "maxdavid",
+    "appcast": "https://raw.githubusercontent.com/maxdavid/sketch-foodreau/master/.appcast.xml",
+    "homepage": "https://github.com/maxdavid/sketch-foodreau",
+    "author": "Max David"
+  },
+  {
+    "title": "Method",
+    "description": "Tool to apply your methodology systems",
+    "name": "Method-Sketch-Plugin",
+    "owner": "KikeSz",
+    "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/KikeSz/Method-Sketch-Plugin"
+  },
+  {
+    "title": "Install Library Bundle",
+    "description": "Installs a bunch of shared Sketch Libraries at once, because life is too short for clicking links.",
+    "name": "install-library-bundle",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/install-library-bundle",
+    "author": "Ale Muñoz"
+  },
+  {
+    "title": "Label-layers",
+    "description": "A Sketch plugin that labels selected layers",
+    "name": "Label_Layers",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Label_Layers"
+  },
+  {
+    "title": "🕵🏻‍ Find and Replace Text",
+    "description": "Find and replace text throughout your Sketch document",
+    "name": "sketch-find-and-replace-text",
+    "owner": "chriswetterman",
+    "appcast": "https://raw.githubusercontent.com/chriswetterman/sketch-find-and-replace-text/master/.appcast.xml",
+    "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
+    "author": "Chris Wetterman"
+  },
+  {
+    "title": "Import SVG as Artboards",
+    "description": "Import SVG files as Artboards.",
+    "name": "import-svg-as-artboard",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
+    "author": "mathieudutour"
+  },
+  {
+    "title": "MockingBot",
+    "description": "MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever",
+    "name": "MockingBot",
+    "author": "MockingBot",
+    "owner": "MockingBot",
+    "homepage": "https://modao.cc/sketch",
+    "appcast": "https://modao.cc/appcast.xml"
+  },
+  {
+    "title": "Colormate",
+    "description": "Colormate is a kickass sketch plugin that will help you figure out how in the hell you ended up with 457 different greys, instead of the 1 grey Mandy gave you in the handover. Oops :flushed:",
+    "name": "colormate",
+    "owner": "themainingredient",
+    "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
+    "homepage": "https://github.com/themainingredient/colormate",
+    "author": "The Main Ingredient"
+  },
+  {
+    "title": "Prototypes Invision ↔︎ Sketch",
+    "description": "Translate your prototyping links back and forth between Sketch and Invision",
+    "name": "prototypes-invision-sketch",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/prototypes-invision-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/prototypes-invision-sketch",
+    "author": "mathieudutour"
+  },
+  {
+    "title": "Align-to-padding",
+    "description": "Align layers in a group with padding applied",
+    "name": "Align-to-padding",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Align-to-padding",
+    "author": "Jonathan Tran"
+  },
+  {
+    "title": "Sequence Artboard Names",
+    "description": "Simple sequencing of all artboards within a Sketch Document",
+    "name": "Sequence-Sketch-Artboards",
+    "owner": "tbrasington",
+    "appcast": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/.appcast.xml",
+    "homepage": "https://github.com/tbrasington/Sequence-Sketch-Artboards",
+    "author": "Thomas Brasington"
+  },
+  {
+    "title": "paddit",
+    "description": "Inspired by Falkeyn's Modulizer, a Sketch plugin that adjusts a group's background to the content with padding.",
+    "name": "Paddit",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Paddit/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Paddit",
+    "author": "Jonathan Tran"
+  },
+  {
+    "title": "grid-layer",
+    "description": "Create columns or gutters as layers. Useful if you need a grid on a component level.",
+    "name": "Grid-Layer",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Grid-Layer",
+		"author": "Jonathan Tran"
+  },
+  {
     "title": "⚡️ Bolt",
     "name": "bolt",
     "description": "Import screenshots faster",
     "author": "Arcangelo Fiore",
     "homepage": "http://boltplugin.com/",
     "appcast": "http://boltplugin.com/appcast.xml"
-  },
+  }
 ]
