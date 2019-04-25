@@ -5350,5 +5350,13 @@
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
     "homepage": "https://github.com/norman-woz/areanow"
-  }
+  },
+  {
+    "title": "⚡️ Bolt",
+    "name": "bolt",
+    "description": "Import screenshots faster",
+    "author": "Arcangelo Fiore",
+    "homepage": "http://boltplugin.com/",
+    "appcast": "http://boltplugin.com/appcast.xml"
+  },
 ]
