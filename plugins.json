@@ -5452,5 +5452,14 @@
     "appcast": "https://raw.githubusercontent.com/jingwhale/whale-kit/master/.appcast.xml",
     "homepage": "https://github.com/jingwhale/whale-kit",
     "author": "jingwhale"
+  },
+  {
+    "title": "Remove.bg",
+    "description": "Remove image background in a single click",
+    "name": "sketch-remove-bg",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-remove-bg/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-remove-bg",
+    "author": "Mathieu Dutour"
   }
 ]
