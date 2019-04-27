@@ -5452,5 +5452,13 @@
     "appcast": "https://raw.githubusercontent.com/jingwhale/whale-kit/master/.appcast.xml",
     "homepage": "https://github.com/jingwhale/whale-kit",
     "author": "jingwhale"
+  },
+  {
+    "title": "Set-Min-Max",
+    "description": "",
+    "name": "Set-Min-Max",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Set-Min-Max"
   }
 ]
