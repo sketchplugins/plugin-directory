@@ -5470,5 +5470,14 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-remove-bg/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-remove-bg",
     "author": "Mathieu Dutour"
+  },
+  {
+    "title": "Set-Min-Max",
+    "description": "",
+    "name": "Set-Min-Max",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Set-Min-Max",
+    "author": "Jonathan Tran"
   }
 ]
