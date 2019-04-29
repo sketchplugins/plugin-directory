@@ -5454,6 +5454,15 @@
     "author": "jingwhale"
   },
   {
+    "title": "Symbol Override Padding",
+    "description": "",
+    "name": "Symbol-Override-Padding",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Override-Padding/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Symbol-Override-Padding",
+    "author": "Jonathan Tran"
+  },
+  {
     "title": "Remove.bg",
     "description": "Remove image background in a single click",
     "name": "sketch-remove-bg",
