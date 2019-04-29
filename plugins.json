@@ -5454,11 +5454,30 @@
     "author": "jingwhale"
   },
   {
+    "title": "Symbol Override Padding",
+    "description": "",
+    "name": "Symbol-Override-Padding",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Override-Padding/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Symbol-Override-Padding",
+    "author": "Jonathan Tran"
+  },
+  {
+    "title": "Remove.bg",
+    "description": "Remove image background in a single click",
+    "name": "sketch-remove-bg",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-remove-bg/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-remove-bg",
+    "author": "Mathieu Dutour"
+  },
+  {
     "title": "Set-Min-Max",
     "description": "",
     "name": "Set-Min-Max",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Set-Min-Max"
+    "homepage": "https://github.com/franklymrshankly/Set-Min-Max",
+    "author": "Jonathan Tran"
   }
 ]
