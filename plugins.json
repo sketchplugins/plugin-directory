@@ -5458,7 +5458,7 @@
     "name": "Translate From JSON",
     "description":"A Sketch plugin lets you use variables for texts in your designs.",
     "owner": "kbirgoren",
-    "appcast":"https://raw.githubusercontent.com/kbirgoren/sketch-json-translator/master/appcast.xml"
+    "appcast":"https://raw.githubusercontent.com/kbirgoren/sketch-json-translator/master/appcast.xml",
     "homepage": "https://github.com/kbirgoren/sketch-json-translator",
     "author": "kbirgoren"
   },
