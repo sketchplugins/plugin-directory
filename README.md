@@ -1084,3 +1084,4 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Remove Fills and Borders](https://github.com/sebj/remove-fills-and-borders), by Seb Jachec: Remove a layer's fills and borders in Sketch.
 - [Ace Jump](https://github.com/turbobabr/sketch-ace-jump), by Andrey Shakhmin: Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 - [Sketchplugin Align Artboards](https://github.com/doubco/sketchplugin-align-artboards), by Doub.co: Easily aligns all artboards vertical or horizontal by name. Uses the same convention as 'Sketch export folder structure 'parent/child'.
+- [Translate From JSON](https://github.com/kbirgoren/sketch-json-translator), by Kurtulus Birgoren: A Sketch plugin lets you use variables for texts in your designs.
