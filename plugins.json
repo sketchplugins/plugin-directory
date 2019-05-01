@@ -5464,7 +5464,7 @@
   },
   {
     "title": "Symbol Override Padding",
-    "description": "",
+    "description": "Add bottom padding to a symbol override",
     "name": "Symbol-Override-Padding",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Override-Padding/master/.appcast.xml",
@@ -5482,7 +5482,7 @@
   },
   {
     "title": "Set-Min-Max",
-    "description": "",
+    "description": "This plugin will resize a layer by height or width to a base max or min value.",
     "name": "Set-Min-Max",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
