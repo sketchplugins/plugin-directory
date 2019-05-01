@@ -5349,7 +5349,7 @@
     "author": "Ale Muñoz"
   },
   {
-    "title": "Label-layers",
+    "title": "Label Layers",
     "description": "A Sketch plugin that labels selected layers",
     "name": "Label_Layers",
     "owner": "franklymrshankly",
@@ -5402,7 +5402,7 @@
     "author": "mathieudutour"
   },
   {
-    "title": "Align-to-padding",
+    "title": "Align To Padding",
     "description": "Align layers in a group with padding applied",
     "name": "Align-to-padding",
     "owner": "franklymrshankly",
@@ -5420,7 +5420,7 @@
     "author": "Thomas Brasington"
   },
   {
-    "title": "paddit",
+    "title": "Paddit",
     "description": "Inspired by Falkeyn's Modulizer, a Sketch plugin that adjusts a group's background to the content with padding.",
     "name": "Paddit",
     "owner": "franklymrshankly",
@@ -5429,7 +5429,7 @@
     "author": "Jonathan Tran"
   },
   {
-    "title": "grid-layer",
+    "title": "Grid Layer",
     "description": "Create columns or gutters as layers. Useful if you need a grid on a component level.",
     "name": "Grid-Layer",
     "owner": "franklymrshankly",
@@ -5464,7 +5464,7 @@
   },
   {
     "title": "Symbol Override Padding",
-    "description": "",
+    "description": "Add bottom padding to a symbol override",
     "name": "Symbol-Override-Padding",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Override-Padding/master/.appcast.xml",
@@ -5481,8 +5481,8 @@
     "author": "Mathieu Dutour"
   },
   {
-    "title": "Set-Min-Max",
-    "description": "",
+    "title": "Set Min Max",
+    "description": "This plugin will resize a layer by height or width to a base max or min value",
     "name": "Set-Min-Max",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
