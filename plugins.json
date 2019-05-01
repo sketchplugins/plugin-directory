@@ -5354,7 +5354,8 @@
     "name": "Label_Layers",
     "owner": "franklymrshankly",
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Label_Layers"
+    "homepage": "https://github.com/franklymrshankly/Label_Layers",
+    "author": "Jonathan Tran"
   },
   {
     "title": "🕵🏻‍ Find and Replace Text",
