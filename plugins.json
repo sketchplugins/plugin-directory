@@ -5498,5 +5498,14 @@
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/library-replacer-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/library-replacer-sketchplugin",
     "author": "Sketch"
+  },
+  {
+    "title": "Print Export",
+    "description": "Export artboards or pages to a PDF for printing",
+    "name": "print-export-sketchplugin",
+    "owner": "BohemianCoding",
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/print-export-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/BohemianCoding/print-export-sketchplugin",
+    "author": "Sketch"
   }
 ]
