@@ -5457,9 +5457,9 @@
   {
     "title": "Translate From JSON",
     "name": "Translate From JSON",
-    "description":"A Sketch plugin lets you use variables for texts in your designs.",
+    "description": "A Sketch plugin lets you use variables for texts in your designs.",
     "owner": "kbirgoren",
-    "appcast":"https://raw.githubusercontent.com/kbirgoren/sketch-json-translator/master/appcast.xml",
+    "appcast": "https://raw.githubusercontent.com/kbirgoren/sketch-json-translator/master/appcast.xml",
     "homepage": "https://github.com/kbirgoren/sketch-json-translator",
     "author": "kbirgoren"
   },
@@ -5489,5 +5489,14 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Set-Min-Max",
     "author": "Jonathan Tran"
+  },
+  {
+    "title": "Library Replacer",
+    "description": "Quickly replace instances of shared Symbols and Styles.",
+    "name": "library-replacer-sketchplugin",
+    "owner": "BohemianCoding",
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/library-replacer-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/BohemianCoding/library-replacer-sketchplugin",
+    "author": "Sketch"
   }
 ]
