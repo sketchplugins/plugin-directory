@@ -5507,5 +5507,14 @@
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/print-export-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/print-export-sketchplugin",
     "author": "Sketch"
+  },
+  {
+    "title": "restore-overrides",
+    "description": "A small plugin to store and restore override values before and after library updates",
+    "name": "restore-overrides",
+    "owner": "danielthall",
+    "appcast": "https://raw.githubusercontent.com/danielthall/restore-overrides/master/.appcast.xml",
+    "homepage": "https://github.com/danielthall/restore-overrides",
+    "author": "Daniel T. Hall"
   }
 ]
