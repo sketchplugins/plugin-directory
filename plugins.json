@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mockplus iDoc",
+    "name": "Mockplus iDoc",
+    "owner": "Mockplus",
+    "author": "Mockplus",
+    "homepage": "https://idoc.mockplus.com/download/sketch",
+    "appcast": "https://d3h2k7ug3o5pb3.cloudfront.net/appcast.xml",
+    "lastUpdated": "2019-03-29 06:12:45 UTC"
+  },
+  {
     "description": "Create High-Fidelity Prototypes and Export to HTML.",
     "title": "Anima",
     "name": "Anima",

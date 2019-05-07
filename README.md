@@ -241,6 +241,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Miro Plugin for Sketch](https://github.com/RealtimeBoard/sketch_plugin), by Miro (formerly RealtimeBoard): Add, share and discuss your Sketch artboards with the team in Miro (formerly RealtimeBoard). The plugin allow to sync the artboards with the boards in one click
 - [Mise En Place](https://github.com/madwaro/MiseEnPlace), by Carlos Madrigal: Mise En Place is a Sketch plug-in that helps you prep before you start cooking your designs.
 - [MockingBot](https://modao.cc/sketch), by MockingBot: MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever
+- [Mockplus iDoc](https://idoc.mockplus.com/download/sketch), by Mockplus.com: A Sketch plugin makes product design collaboration faster and easier, including generating specs, cutting slices, note styles, and team management.
 - [Moodboard Builder](http://reinvently.com/moodboard-builder-sketch-plugin/), by Reinvently: A streamlined Sketch plugin for creating moodboards quickly and easily. Just do a search, check the suitable images, and - voila -  you have a beautiful moodboard. Keep inspired! 💡
 - [Move To Library Sketchplugin](https://github.com/ahmedmigo/move-to-library-sketchplugin), by Ahmed Genaidy: You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
 - [NeoPreview](https://github.com/alanfraneo/sketch-neo-preview), by Alan Francis: A plugin to create HTML based preview and gallery straight from sketch artboards
@@ -566,6 +567,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Mockplus iDoc](https://idoc.mockplus.com/download/sketch), by Mockplus.com: A Sketch plugin makes product design collaboration faster and easier, including generating specs, cutting slices, note styles, and team management.
 - [Artboard History](https://github.com/jan-patrick/sketch_artboard-history), by Jan Schneider: A Sketch plugin to switch faster between your latest artboards.
 - [Snatch](https://github.com/ZhichengChen/snatch), by ZhichengChen: Sketch plugin which upload layer to CDN directly.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by Oscar Oto: Sketch.app plugin to merge symbols with the same name.
