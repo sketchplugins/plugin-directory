@@ -29,6 +29,14 @@
     "lastUpdated": "2019-02-01 16:27:34 UTC"
   },
   {
+    "title": "Overlay",
+    "description": "Transform your sketch symbols into high quality VueJs / React",
+    "name": "Overlay",
+    "owner": "Overlay",
+    "appcast": "https://s3-eu-west-1.amazonaws.com/overlay-plugin/.appcast.xml",
+    "author": "Overlay Team",
+  },
+  {
     "description": "Keep your Sketch files immaculately clean and in order.",
     "name": "file-cleaner",
     "title": "File Cleaner",
