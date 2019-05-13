@@ -5525,5 +5525,13 @@
     "appcast": "https://raw.githubusercontent.com/danielthall/restore-overrides/master/.appcast.xml",
     "homepage": "https://github.com/danielthall/restore-overrides",
     "author": "Daniel T. Hall"
+  },
+  {
+    "title": "fit-to-parent",
+    "description": "",
+    "name": "fit-to-parent",
+    "owner": "dannymcclain",
+    "appcast": "https://raw.githubusercontent.com/dannymcclain/fit-to-parent/master/.appcast.xml",
+    "homepage": "https://github.com/dannymcclain/fit-to-parent"
   }
 ]
