@@ -5527,6 +5527,15 @@
     "author": "Daniel T. Hall"
   },
   {
+    "title": "color-locator",
+    "description": "Find all instances of a HEX color",
+    "name": "sketch-color-locator",
+    "owner": "anavarromartin",
+    "appcast": "https://raw.githubusercontent.com/anavarromartin/sketch-color-locator/master/.appcast.xml",
+    "homepage": "https://github.com/anavarromartin/sketch-color-locator",
+    "author": "Adria Navarro"
+  },
+  {
     "title": "swap-width-height",
     "description": "Swap a layer's width and height.",
     "name": "swap-width-height",
