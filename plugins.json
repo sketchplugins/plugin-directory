@@ -5542,5 +5542,13 @@
     "owner": "dannymcclain",
     "appcast": "https://raw.githubusercontent.com/dannymcclain/swap-width-height/master/.appcast.xml",
     "homepage": "https://github.com/dannymcclain/swap-width-height"
+  },
+  {
+    "title": "fit-to-parent",
+    "description": "",
+    "name": "fit-to-parent",
+    "owner": "dannymcclain",
+    "appcast": "https://raw.githubusercontent.com/dannymcclain/fit-to-parent/master/.appcast.xml",
+    "homepage": "https://github.com/dannymcclain/fit-to-parent"
   }
 ]
