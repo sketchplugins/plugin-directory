@@ -5550,5 +5550,14 @@
     "owner": "dannymcclain",
     "appcast": "https://raw.githubusercontent.com/dannymcclain/fit-to-parent/master/.appcast.xml",
     "homepage": "https://github.com/dannymcclain/fit-to-parent"
+  },
+  {
+    "title": "Rivet",
+    "description": "",
+    "name": "rivet-sketch-plugin",
+    "owner": "bheston",
+    "appcast": "https://raw.githubusercontent.com/bheston/rivet-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/bheston/rivet-sketch-plugin",
+    "author": "Brian Heston"
   }
 ]
