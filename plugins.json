@@ -5568,5 +5568,13 @@
     "appcast": "https://raw.githubusercontent.com/bheston/rivet-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/bheston/rivet-sketch-plugin",
     "author": "Brian Heston"
+  },
+  {
+    "title": "copy-paste-shadows",
+    "description": "Plugin to copy paste shadows across layers",
+    "name": "copy-paste-shadows",
+    "owner": "iarthstar",
+    "appcast": "https://raw.githubusercontent.com/iarthstar/copy-paste-shadows/master/.appcast.xml",
+    "homepage": "https://github.com/iarthstar/copy-paste-shadows"
   }
 ]
