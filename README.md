@@ -472,6 +472,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SnipSnap](https://github.com/wescraig/SnipSnap), by Wes Craig: Remove extra padding on multiple layers or artboards with ease.
 - [Somino](https://github.com/melsomino/sketch-somino), by Michael Vlasov: Attachable styles, Advanced clipboard, Silent export
 - [Sort Me](https://github.com/romashamin/sort-me-sketch), by Roman Shamin: Sort artboards and layers by name
+- [Sparkle Export Plugin](https://sketch-to-web.com), by Sparkle App: Turn any Sketch artboard in a real website using Sparkle Visual Website Builder
 - [Sparkliner](https://github.com/volorf/sparkliner), by Oleg Frolov: Sparkliner — easy way to make sparkline graph
 - [Specify (alpha)](https://specifyapp.com), by Specify SAS: Export styles and assets to your Specify Libraries.
 - [Split & Divide](https://github.com/krevedaccky/sketchsplitdivide), by Konstantin Raspopov: Split and Divide plugins for Sketch3 app.
@@ -567,6 +568,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Sparkle Export Plugin](https://sketch-to-web.com), by Sparkle App: Turn any Sketch artboard in a real website using Sparkle Visual Website Builder
 - [Mockplus iDoc](https://idoc.mockplus.com/download/sketch), by Mockplus.com: A Sketch plugin makes product design collaboration faster and easier, including generating specs, cutting slices, note styles, and team management.
 - [Artboard History](https://github.com/jan-patrick/sketch_artboard-history), by Jan Schneider: A Sketch plugin to switch faster between your latest artboards.
 - [Snatch](https://github.com/ZhichengChen/snatch), by ZhichengChen: Sketch plugin which upload layer to CDN directly.
