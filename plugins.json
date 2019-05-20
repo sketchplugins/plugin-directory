@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sparkle Export Plugin",
+    "description": "Turn any Sketch artboard in a real website using Sparkle Visual Website Builder",
+    "name": "Sparkle Export Plugin",
+    "owner": "Sparkle App",
+    "author": "Sparkle App",
+    "homepage": "https://sketch-to-web.com",
+    "appcast": "https://sparkleapp.com/sketch/appcast.xml",
+    "lastUpdated": "2019-05-20 18:23:00 UTC"
+  },
+  {
     "title": "Mockplus iDoc",
     "name": "Mockplus iDoc",
     "owner": "Mockplus",
