@@ -5550,5 +5550,14 @@
     "owner": "dannymcclain",
     "appcast": "https://raw.githubusercontent.com/dannymcclain/fit-to-parent/master/.appcast.xml",
     "homepage": "https://github.com/dannymcclain/fit-to-parent"
+  },
+  {
+    "title": "QuickTextOverride",
+    "description": "Use a key command to target the first text override of a symbol.",
+    "name": "QuickTextOverride",
+    "owner": "dbilyk",
+    "appcast": "https://raw.githubusercontent.com/dbilyk/QuickTextOverride/master/.appcast.xml",
+    "homepage": "https://github.com/dbilyk/QuickTextOverride",
+    "author": "Dmitri Bilyk"
   }
 ]
