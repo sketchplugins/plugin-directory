@@ -5559,5 +5559,14 @@
     "appcast": "https://raw.githubusercontent.com/dbilyk/QuickTextOverride/master/.appcast.xml",
     "homepage": "https://github.com/dbilyk/QuickTextOverride",
     "author": "Dmitri Bilyk"
+  },
+  {
+    "title": "Rivet",
+    "description": "",
+    "name": "rivet-sketch-plugin",
+    "owner": "bheston",
+    "appcast": "https://raw.githubusercontent.com/bheston/rivet-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/bheston/rivet-sketch-plugin",
+    "author": "Brian Heston"
   }
 ]
