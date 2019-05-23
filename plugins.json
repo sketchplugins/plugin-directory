@@ -5586,5 +5586,13 @@
     "owner": "iarthstar",
     "appcast": "https://raw.githubusercontent.com/iarthstar/copy-paste-shadows/master/.appcast.xml",
     "homepage": "https://github.com/iarthstar/copy-paste-shadows"
+  },
+  {
+    "title": "symbol-overlay-toggle",
+    "description": "A Sketch plug-in to seek specific style names in library-sourced symbols and toggle the styles.",
+    "name": "overlaytoggler",
+    "owner": "uxcourt",
+    "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
+    "homepage": "https://github.com/uxcourt/overlaytoggler"
   }
 ]
