@@ -5594,5 +5594,14 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler"
+  },
+  {
+    "title": "projecthuddle",
+    "description": "",
+    "name": "projecthuddle-sketch-sync",
+    "owner": "ajgagnon",
+    "appcast": "https://raw.githubusercontent.com/ajgagnon/projecthuddle-sketch-sync/master/.appcast.xml",
+    "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
+    "author": "Andre Gagnon"
   }
 ]
