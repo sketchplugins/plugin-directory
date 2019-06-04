@@ -498,6 +498,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SwiftColorPalette](https://github.com/nahitheper/swiftcolorpalette), by nahitheper: Sketch plugin that generates Swift Color Theme with enums
 - [Switch Text Spacing](https://github.com/littlebusters/switch-text-spacing), by littlebusters: Switch text spacing with OpenType features.
 - [Symbol and Artboard Organizer](https://github.com/myrronth/symbol-and-artboard-organizer), by Myrronth: Organize your symbols and artboards.
+- [Symbol Browser](http://symbol-browser.pratikshah.website), by Pratik Shah: New way to browse your symbols. Make the most of your Design System by bring symbols and UI Sticker sheet togather.
 - [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
 - [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer), by Jason Burns: Rename all symbol instances to the name of their master.
 - [Symbol Instance Sheet](https://github.com/sonburn/symbol-instance-sheet), by Jason Burns: Generate a sheet of symbol instances from your current document or a library.
@@ -567,6 +568,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Symbol Browser](http://symbol-browser.pratikshah.website), by Pratik Shah: New way to browse your symbols. Make the most of your Design System by bring symbols and UI Sticker sheet togather.
 - [Mockplus iDoc](https://idoc.mockplus.com/download/sketch), by Mockplus.com: A Sketch plugin makes product design collaboration faster and easier, including generating specs, cutting slices, note styles, and team management.
 - [Artboard History](https://github.com/jan-patrick/sketch_artboard-history), by Jan Schneider: A Sketch plugin to switch faster between your latest artboards.
 - [Snatch](https://github.com/ZhichengChen/snatch), by ZhichengChen: Sketch plugin which upload layer to CDN directly.
