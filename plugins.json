@@ -5594,5 +5594,14 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler"
+  },
+  {
+    "title": "BRData",
+    "description": "Gerador de dados contextualizados com a realidade brasileira.",
+    "name": "brdata",
+    "owner": "jonathasbsouza",
+    "appcast": "https://raw.githubusercontent.com/jonathasbsouza/brdata/master/.appcast.xml",
+    "homepage": "https://github.com/jonathasbsouza/brdata",
+    "author": "Jônathas Souza"
   }
 ]
