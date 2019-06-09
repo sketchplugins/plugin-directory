@@ -5594,5 +5594,14 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler"
+  },
+  {
+    "title": "Mugsy",
+    "description": "",
+    "name": "sketch_mugsy",
+    "owner": "jan-patrick",
+    "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_mugsy/master/.appcast.xml",
+    "homepage": "https://github.com/jan-patrick/sketch_mugsy",
+    "author": "jan-patrick"
   }
 ]
