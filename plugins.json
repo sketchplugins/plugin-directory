@@ -5594,5 +5594,13 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler"
+  },
+  {
+    "title": "SVG-BEM",
+    "description": "A Plugin for SVG export to convert IDs to Classes, create BEM Naming Based on Layes and using SVGO to compresse and Clean up SVGs, right when you export them.",
+    "name": "SVG BEM",
+    "owner": "Atomatic",
+    "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
+    "homepage": "https://github.com/mLihs/svg-bem"
   }
 ]
