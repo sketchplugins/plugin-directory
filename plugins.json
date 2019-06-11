@@ -5594,5 +5594,13 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler"
+  },
+  {
+    "title": "brandfolder",
+    "description": "_This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._",
+    "name": "sketch-plugin-brandfolder",
+    "owner": "brandfolder",
+    "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
+    "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder"
   }
 ]
