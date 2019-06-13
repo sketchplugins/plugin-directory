@@ -5612,5 +5612,14 @@
     "appcast": "https://raw.githubusercontent.com/ajgagnon/projecthuddle-sketch-sync/master/.appcast.xml",
     "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
     "author": "Andre Gagnon"
+  },
+  {
+    "title": "Disconnector",
+    "description": "Quickly disconnect all symbols from a selection",
+    "name": "Disconnector",
+    "owner": "njcrowther",
+    "appcast": "https://raw.githubusercontent.com/njcrowther/Disconnector/master/.appcast.xml",
+    "homepage": "https://github.com/njcrowther/Disconnector",
+    "author": "Nathan Crowther"
   }
 ]
