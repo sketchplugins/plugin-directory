@@ -5594,5 +5594,14 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler"
+  },
+  {
+    "title": "Create New Styles",
+    "description": "A Sketch plugin to create multiple layer styles or text styles",
+    "name": "Create-New-Styles",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Create-New-Styles/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Create-New-Styles",
+    "author": "Jonathan Tran"
   }
 ]
