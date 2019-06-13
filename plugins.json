@@ -2646,10 +2646,12 @@
   {
     "description": "A basic spellchecker that checks all layers on a page in Sketch",
     "name": "sketch-spellcheck-all-layers",
-    "title": "Sketch Spellcheck All Layers",
+    "title": "Spell Check Whole Page",
     "owner": "Tallwave",
     "author": "Tallwave",
-    "lastUpdated": "2018-08-02 14:41:53 UTC"
+    "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
+    "appcast": "https://raw.githubusercontent.com/Tallwave/sketch-spellcheck-all-layers/master/appcast.xml",
+    "lastUpdated": "2019-06-12 14:41:53 UTC"
   },
   {
     "description": "Plugin to fill a layer with a map generated from a location (Powered by Google Maps)",
