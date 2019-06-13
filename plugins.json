@@ -5596,6 +5596,42 @@
     "homepage": "https://github.com/uxcourt/overlaytoggler"
   },
   {
+    "title": "Create New Styles",
+    "description": "A Sketch plugin to create multiple layer styles or text styles",
+    "name": "Create-New-Styles",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Create-New-Styles/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Create-New-Styles",
+    "author": "Jonathan Tran"
+  },
+  {
+    "title": "projecthuddle",
+    "description": "",
+    "name": "projecthuddle-sketch-sync",
+    "owner": "ajgagnon",
+    "appcast": "https://raw.githubusercontent.com/ajgagnon/projecthuddle-sketch-sync/master/.appcast.xml",
+    "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
+    "author": "Andre Gagnon"
+  },
+  {
+    "title": "Disconnector",
+    "description": "Quickly disconnect all symbols from a selection",
+    "name": "Disconnector",
+    "owner": "njcrowther",
+    "appcast": "https://raw.githubusercontent.com/njcrowther/Disconnector/master/.appcast.xml",
+    "homepage": "https://github.com/njcrowther/Disconnector",
+    "author": "Nathan Crowther"
+  },
+  {
+    "title": "BRData",
+    "description": "Gerador de dados contextualizados com a realidade brasileira.",
+    "name": "brdata",
+    "owner": "jonathasbsouza",
+    "appcast": "https://raw.githubusercontent.com/jonathasbsouza/brdata/master/.appcast.xml",
+    "homepage": "https://github.com/jonathasbsouza/brdata",
+    "author": "Jônathas Souza"
+  },
+  {
     "title": "Symbol-Merger",
     "description": "A Sketch plugin that merges duplicate symbols",
     "name": "Symbol-Merger",
