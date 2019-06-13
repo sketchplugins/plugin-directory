@@ -5630,5 +5630,14 @@
     "appcast": "https://raw.githubusercontent.com/jonathasbsouza/brdata/master/.appcast.xml",
     "homepage": "https://github.com/jonathasbsouza/brdata",
     "author": "Jônathas Souza"
+  },
+  {
+    "title": "Symbol-Merger",
+    "description": "A Sketch plugin that merges duplicate symbols",
+    "name": "Symbol-Merger",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Merger/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Symbol-Merger",
+    "author": "Jonathan Tran"
   }
 ]
