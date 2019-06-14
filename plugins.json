@@ -5676,5 +5676,14 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder"
+  },
+  {
+    "title": "Design Token Exporter",
+    "description": "Simple Design Token Exporter",
+    "name": "Design-Token-Exporter",
+    "owner": "here-erhe",
+    "appcast": "https://raw.githubusercontent.com/here-erhe/Design-Token-Exporter/master/.appcast.xml",
+    "homepage": "https://github.com/here-erhe/Design-Token-Exporter",
+    "author": "Herkko Huttunen"
   }
 ]
