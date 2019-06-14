@@ -5668,5 +5668,13 @@
     "owner": "Atomatic",
     "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
     "homepage": "https://github.com/mLihs/svg-bem"
+  },
+  {
+    "title": "Brandfolder",
+    "description": "Easily use your digital assets from Brandfolder right within your favorite platform for digital design!",
+    "name": "sketch-plugin-brandfolder",
+    "owner": "brandfolder",
+    "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
+    "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder"
   }
 ]
