@@ -5639,5 +5639,14 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Merger/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Symbol-Merger",
     "author": "Jonathan Tran"
+  },
+  {
+    "title": "Design Token Exporter",
+    "description": "Simple Design Token Exporter",
+    "name": "Design-Token-Exporter",
+    "owner": "here-erhe",
+    "appcast": "https://raw.githubusercontent.com/here-erhe/Design-Token-Exporter/master/.appcast.xml",
+    "homepage": "https://github.com/here-erhe/Design-Token-Exporter",
+    "author": "Herkko Huttunen"
   }
 ]
