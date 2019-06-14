@@ -5648,5 +5648,13 @@
     "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_mugsy/master/.appcast.xml",
     "homepage": "https://github.com/jan-patrick/sketch_mugsy",
     "author": "jan-patrick"
+  },
+  {
+    "title": "SVG-BEM",
+    "description": "A Plugin for SVG export to convert IDs to Classes, create BEM Styled Naming Based on Layers. Uses SVGO to compresse and Clean up SVGs, right when you export them. Based on the SVGO Compressor Plugin",
+    "name": "SVG BEM",
+    "owner": "Atomatic",
+    "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
+    "homepage": "https://github.com/mLihs/svg-bem"
   }
 ]
