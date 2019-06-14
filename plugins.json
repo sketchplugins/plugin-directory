@@ -1,5 +1,15 @@
 [
   {
+    "title": "Symbol Browser",
+    "description": "A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together.",
+    "name": "Symbol Browser",
+    "owner": "Pratik Shah",
+    "author": "Pratik Shah",
+    "homepage": "http://symbol-browser.pratikshah.website",
+    "appcast": "https://raw.githubusercontent.com/pratikjshah/symbol-browser/master/appcast.xml",
+    "lastUpdated": "2019-06-10 20:54:24 UTC"
+  },
+  {
     "title": "Sparkle Export Plugin",
     "description": "Turn any Sketch artboard in a real website using Sparkle Visual Website Builder",
     "name": "Sparkle Export Plugin",
@@ -2646,10 +2656,12 @@
   {
     "description": "A basic spellchecker that checks all layers on a page in Sketch",
     "name": "sketch-spellcheck-all-layers",
-    "title": "Sketch Spellcheck All Layers",
+    "title": "Spell Check Whole Page",
     "owner": "Tallwave",
     "author": "Tallwave",
-    "lastUpdated": "2018-08-02 14:41:53 UTC"
+    "homepage": "https://github.com/Tallwave/sketch-spellcheck-all-layers",
+    "appcast": "https://raw.githubusercontent.com/Tallwave/sketch-spellcheck-all-layers/master/appcast.xml",
+    "lastUpdated": "2019-06-12 14:41:53 UTC"
   },
   {
     "description": "Plugin to fill a layer with a map generated from a location (Powered by Google Maps)",
@@ -5639,6 +5651,23 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Merger/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Symbol-Merger",
     "author": "Jonathan Tran"
+  },
+  {
+    "title": "Mugsy",
+    "description": "",
+    "name": "sketch_mugsy",
+    "owner": "jan-patrick",
+    "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_mugsy/master/.appcast.xml",
+    "homepage": "https://github.com/jan-patrick/sketch_mugsy",
+    "author": "jan-patrick"
+  },
+  {
+    "title": "SVG-BEM",
+    "description": "A Plugin for SVG export to convert IDs to Classes, create BEM Styled Naming Based on Layers. Uses SVGO to compresse and Clean up SVGs, right when you export them. Based on the SVGO Compressor Plugin",
+    "name": "SVG BEM",
+    "owner": "Atomatic",
+    "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
+    "homepage": "https://github.com/mLihs/svg-bem"
   },
   {
     "title": "Brandfolder",
