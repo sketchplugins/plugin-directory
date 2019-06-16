@@ -4221,6 +4221,14 @@
     "lastUpdated": "2019-03-24 14:05:42 UTC"
   },
   {
+    "title": "SymbolNameSync",
+    "description": "This plugin gives you syncing names between Symbol masters and its instances.",
+    "author": "griffin-stewie",
+    "owner": "griffin-stewie",
+    "name": "SymbolNameSync",
+    "lastUpdated": "2019-06-16 03:45:00 UTC"
+  },
+  {
     "title": "adjustToFit",
     "description": "A quick Sketch plugin to resize text layers, groups, and artboards to fit their content. Also supports nested resizing.",
     "name": "sketch-adjusttofit",
