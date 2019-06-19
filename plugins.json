@@ -4208,6 +4208,7 @@
     "description": "This plugin gives you autocompletion of symbol names when creating a symbol.",
     "author": "griffin-stewie",
     "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameAutocomplete/master/.appcast.xml",
     "name": "SymbolNameAutocomplete",
     "lastUpdated": "2019-03-24 14:05:42 UTC"
   },
