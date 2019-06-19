@@ -1,15 +1,5 @@
 [
   {
-    "title": "Symbol Browser",
-    "description": "A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together.",
-    "name": "Symbol Browser",
-    "owner": "Pratik Shah",
-    "author": "Pratik Shah",
-    "homepage": "http://symbol-browser.pratikshah.website",
-    "appcast": "https://raw.githubusercontent.com/pratikjshah/symbol-browser/master/appcast.xml",
-    "lastUpdated": "2019-06-10 20:54:24 UTC"
-  },
-  {
     "title": "Sparkle Export Plugin",
     "description": "Turn any Sketch artboard in a real website using Sparkle Visual Website Builder",
     "name": "Sparkle Export Plugin",
@@ -5669,6 +5659,16 @@
     "owner": "Atomatic",
     "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
     "homepage": "https://github.com/mLihs/svg-bem"
+  },
+  {
+    "title": "Symbol Browser",
+    "description": "A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together.",
+    "name": "Symbol Browser",
+    "owner": "Pratik Shah",
+    "author": "Pratik Shah",
+    "homepage": "http://symbol-browser.pratikshah.website",
+    "appcast": "https://raw.githubusercontent.com/pratikjshah/symbol-browser/master/appcast.xml",
+    "lastUpdated": "2019-06-10 20:54:24 UTC"
   },
   {
     "title": "Brandfolder",
