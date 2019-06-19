@@ -4225,6 +4225,7 @@
     "description": "This plugin gives you syncing names between Symbol masters and its instances.",
     "author": "griffin-stewie",
     "owner": "griffin-stewie",
+    "appcast": "https://github.com/griffin-stewie/SymbolNameSync/blob/master/.appcast.xml",
     "name": "SymbolNameSync",
     "lastUpdated": "2019-06-16 03:45:00 UTC"
   },
