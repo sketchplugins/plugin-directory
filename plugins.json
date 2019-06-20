@@ -1,5 +1,15 @@
 [
   {
+    "title": "PhraseApp Sketch Plugin",
+    "description": "Sync your design content from Sketch with PhraseApp",
+    "name": "PhraseApp Sketch Plugin",
+    "owner": "PhraseApp",
+    "author": "PhraseApp",
+    "homepage": "https://phraseapp.com",
+    "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
+    "lastUpdated": "2019-06-20 13:00:00 UTC"
+  },
+  {
     "title": "Sparkle Export Plugin",
     "description": "Turn any Sketch artboard in a real website using Sparkle Visual Website Builder",
     "name": "Sparkle Export Plugin",
