@@ -5696,5 +5696,14 @@
     "appcast": "https://raw.githubusercontent.com/here-erhe/Design-Token-Exporter/master/.appcast.xml",
     "homepage": "https://github.com/here-erhe/Design-Token-Exporter",
     "author": "Herkko Huttunen"
+  },
+  {
+    "title": "Tabula Rasa",
+    "description": "Add blank backgrounds to transparent artboards",
+    "name": "Tabula-Rasa",
+    "owner": "avk",
+    "appcast": "https://raw.githubusercontent.com/avk/sketch-tabula-rasa/master/.appcast.xml",
+    "homepage": "https://github.com/avk/sketch-tabula-rasa",
+    "author": "Arthur Klepchukov"
   }
 ]
