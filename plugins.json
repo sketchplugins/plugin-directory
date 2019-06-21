@@ -5705,5 +5705,14 @@
     "appcast": "https://raw.githubusercontent.com/avk/sketch-tabula-rasa/master/.appcast.xml",
     "homepage": "https://github.com/avk/sketch-tabula-rasa",
     "author": "Arthur Klepchukov"
+  },
+  {
+    "title": "Mupixa",
+    "description": "Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.",
+    "name": "sketch-plugin-mupixa",
+    "owner": "mupixa",
+    "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
+    "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
+    "author": "www.mupixa.com"
   }
 ]
