@@ -5705,5 +5705,14 @@
     "appcast": "https://raw.githubusercontent.com/avk/sketch-tabula-rasa/master/.appcast.xml",
     "homepage": "https://github.com/avk/sketch-tabula-rasa",
     "author": "Arthur Klepchukov"
+  },
+  {
+    "title": "Sketch TinyPng compressor",
+    "description": "A Plugin that compresses bitmap assets using TinyPNG API. This Plugin *requires* Sketch 3.8.",
+    "name": "sketch-tinypng-compressor",
+    "owner": "alxrm",
+    "appcast": "https://raw.githubusercontent.com/alxrm/sketch-tinypng-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/alxrm/sketch-tinypng-compressor",
+    "author": "Alex D"
   }
 ]
