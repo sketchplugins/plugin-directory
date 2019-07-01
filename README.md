@@ -267,6 +267,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [PersianSupplier](https://github.com/hiradarshadi/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Photo Grid](https://github.com/perrysmotors/photo-grid), by Giles Perry: A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.
+- [Phraseapp Sketch Plugin](https://phraseapp.com), by PhraseApp: Sync your design content from Sketch with PhraseApp
 - [PinLog](https://github.com/zhongerxin/pinlog), by Twox: A plugin that would help you note your changeLog and can help other people to find the change in sketch
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
@@ -566,6 +567,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Phraseapp Sketch Plugin](https://phraseapp.com), by PhraseApp: Sync your design content from Sketch with PhraseApp
 - [SymbolNameSync](https://github.com/griffin-stewie/symbolnamesync), by griffin-stewie: This plugin gives you syncing names between Symbol masters and its instances.
 - [Spell Check Whole Page](https://github.com/Tallwave/sketch-spellcheck-all-layers), by Tallwave: A basic spellchecker that checks all layers on a page in Sketch
 - [Symbol Browser](http://symbol-browser.pratikshah.website), by Pratik Shah: A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together.
@@ -604,16 +606,16 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
-- [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
 - [Userflows](https://github.com/faridsabitov/sketch-user-flows), by Farid Sabitov: Plugin for generating easy to use user flows in Sketch
+- [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
 - [Use Icon Fonts in Sketch](https://github.com/keremciu/sketch-iconfont), by Kerem Sevencan: Use icon fonts in sketch
 - [Sketch Slicer](https://github.com/d4rekanguok/sketch-slicer), by Derek Nguyen: Create slice layers from selected layers, with padding or set a fixed size.
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer), by Jason Burns: Organize your symbols page and layer list, based on the symbol names.
 - [Drafta](https://github.com/fragmentlv/drafta), by Fragment: Export designs directly to Drafta
 - [Sketch Camera Hotkeys](https://github.com/jayhxmo/sketch-camera-hotkeys), by Jay Mo: Navigate around and present more efficiently
 - [labelizING](https://github.com/nOograss/labelizING), by Maxime Peeters: Extract, replace and download labels from sketch file
-- [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch tools for AFUX
 - [Sketch AFUX Tools](https://github.com/canisminor1990/sketch-afux-tools), by CanisMinor: Sketch tools for AFUX
+- [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch tools for AFUX
 - [Foreign Ipsum](https://github.com/3raxton/foreignipsum), by Braxton Huff: Generate text for your mockups in multiple languages 🗺
 - [Polaris Telescope](https://github.com/Shopify/polaris-telescope), by Shopify: Access Shopify Polaris from Sketch to speed up your design or development workflow
 - [Rename Export](https://github.com/TheSonOfThomp/Batch-Export-Rename), by Adam Thompson: Use this plugin to batch export layers with consistent filenames
