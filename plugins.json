@@ -5715,5 +5715,13 @@
     "appcast": "https://raw.githubusercontent.com/avk/sketch-tabula-rasa/master/.appcast.xml",
     "homepage": "https://github.com/avk/sketch-tabula-rasa",
     "author": "Arthur Klepchukov"
+  },
+  {
+    "title": "Excel Content Sync",
+    "name": "SketchExcelContentSync",
+    "owner": "wousser",
+    "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
+    "homepage": "https://github.com/wousser/SketchExcelContentSync",
+    "author": "Wouter Bron"
   }
 ]
