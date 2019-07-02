@@ -5751,5 +5751,14 @@
     "appcast": "https://raw.githubusercontent.com/alxrm/sketch-tinypng-compressor/master/.appcast.xml",
     "homepage": "https://github.com/alxrm/sketch-tinypng-compressor",
     "author": "Alex D"
+  },
+  {
+    "title": "ImageCodeExporter",
+    "description": "A Plugin that export your sketch layer for code usage",
+    "name": "ImageCodeExporter",
+    "owner": "funfungo",
+    "appcast": "https://raw.githubusercontent.com/funfungo/ImageCodeExporter/master/.appcast.xml",
+    "homepage": "https://github.com/funfungo/ImageCodeExporter",
+    "author": "funfungo"
   }
 ]
