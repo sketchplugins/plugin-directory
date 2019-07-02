@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sketch Manager Plugin",
+    "description": "The easiest way to manager your Symbols, Text styles and Layer styles.",
+    "name": "Sketch Manager Plugin",
+    "owner": "Sketch Manager",
+    "author": "Sketch Manager",
+    "homepage": "https://www.sketchmanager.com",
+    "appcast": "https://releases.sketchmanager.com/appcast-production.xml",
+    "lastUpdated": "2019-05-27 14:58:00 UTC"
+  },
+  {
     "title": "PhraseApp Sketch Plugin",
     "description": "Sync your design content from Sketch with PhraseApp",
     "name": "PhraseApp Sketch Plugin",
@@ -4227,7 +4237,7 @@
     "description": "This plugin gives you syncing names between Symbol masters and its instances.",
     "author": "griffin-stewie",
     "owner": "griffin-stewie",
-    "appcast": "https://github.com/griffin-stewie/SymbolNameSync/blob/master/.appcast.xml",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
     "lastUpdated": "2019-06-16 03:45:00 UTC"
   },
@@ -5717,12 +5727,30 @@
     "author": "Arthur Klepchukov"
   },
   {
+    "title": "Mupixa",
+    "description": "Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.",
+    "name": "sketch-plugin-mupixa",
+    "owner": "mupixa",
+    "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
+    "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
+    "author": "www.mupixa.com"
+  },
+  {
     "title": "Excel Content Sync",
     "name": "SketchExcelContentSync",
     "owner": "wousser",
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron"
+  },
+  {
+    "title": "Sketch TinyPng compressor",
+    "description": "A Plugin that compresses bitmap assets using TinyPNG API. This Plugin *requires* Sketch 3.8.",
+    "name": "sketch-tinypng-compressor",
+    "owner": "alxrm",
+    "appcast": "https://raw.githubusercontent.com/alxrm/sketch-tinypng-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/alxrm/sketch-tinypng-compressor",
+    "author": "Alex D"
   },
   {
     "title": "ImageCodeExporter",
