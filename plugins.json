@@ -5760,5 +5760,14 @@
     "appcast": "https://raw.githubusercontent.com/funfungo/ImageCodeExporter/master/.appcast.xml",
     "homepage": "https://github.com/funfungo/ImageCodeExporter",
     "author": "funfungo"
+  },
+  {
+    "title": "Sketch Ipsum",
+    "description": "A DataSupplier plugin that fills your text layers with random Lorem Ipsum",
+    "name": "sketch-ipsum",
+    "owner": "BohemianCoding",
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-ipsum/master/.appcast.xml",
+    "homepage": "https://github.com/BohemianCoding/sketch-ipsum",
+    "author": "Sketch"
   }
 ]
