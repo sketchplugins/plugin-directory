@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sketch Manager Plugin",
+    "description": "The easiest way to manager your Symbols, Text styles and Layer styles.",
+    "name": "Sketch Manager Plugin",
+    "owner": "Sketch Manager",
+    "author": "Sketch Manager",
+    "homepage": "https://www.sketchmanager.com",
+    "appcast": "https://releases.sketchmanager.com/appcast-production.xml",
+    "lastUpdated": "2019-05-27 14:58:00 UTC"
+  },
+  {
     "title": "PhraseApp Sketch Plugin",
     "description": "Sync your design content from Sketch with PhraseApp",
     "name": "PhraseApp Sketch Plugin",
@@ -5734,12 +5744,30 @@
     "author": "Wouter Bron"
   },
   {
-    "title": "sketch-ipsum",
+    "title": "Sketch TinyPng compressor",
+    "description": "A Plugin that compresses bitmap assets using TinyPNG API. This Plugin *requires* Sketch 3.8.",
+    "name": "sketch-tinypng-compressor",
+    "owner": "alxrm",
+    "appcast": "https://raw.githubusercontent.com/alxrm/sketch-tinypng-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/alxrm/sketch-tinypng-compressor",
+    "author": "Alex D"
+  },
+  {
+    "title": "ImageCodeExporter",
+    "description": "A Plugin that export your sketch layer for code usage",
+    "name": "ImageCodeExporter",
+    "owner": "funfungo",
+    "appcast": "https://raw.githubusercontent.com/funfungo/ImageCodeExporter/master/.appcast.xml",
+    "homepage": "https://github.com/funfungo/ImageCodeExporter",
+    "author": "funfungo"
+  },
+  {
+    "title": "Sketch Ipsum",
     "description": "A DataSupplier plugin that fills your text layers with random Lorem Ipsum",
     "name": "sketch-ipsum",
     "owner": "BohemianCoding",
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/sketch-ipsum",
-    "author": "Ale M"
+    "author": "Sketch"
   }
 ]
