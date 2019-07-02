@@ -266,6 +266,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [PersianSupplier](https://github.com/hiradarshadi/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Photo Grid](https://github.com/perrysmotors/photo-grid), by Giles Perry: A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.
+- [Phraseapp Sketch Plugin](https://phraseapp.com), by PhraseApp: Sync your design content from Sketch with PhraseApp
 - [PinLog](https://github.com/zhongerxin/pinlog), by Twox: A plugin that would help you note your changeLog and can help other people to find the change in sketch
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
@@ -564,6 +565,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Phraseapp Sketch Plugin](https://phraseapp.com), by PhraseApp: Sync your design content from Sketch with PhraseApp
 - [SymbolNameSync](https://github.com/griffin-stewie/symbolnamesync), by griffin-stewie: This plugin gives you syncing names between Symbol masters and its instances.
 - [Spell Check Whole Page](https://github.com/Tallwave/sketch-spellcheck-all-layers), by Tallwave: A basic spellchecker that checks all layers on a page in Sketch
 - [Symbol Browser](http://symbol-browser.pratikshah.website), by Pratik Shah: A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together.

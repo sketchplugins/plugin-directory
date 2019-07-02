@@ -10,6 +10,16 @@
     "lastUpdated": "2019-05-27 14:58:00 UTC"
   },
   {
+    "title": "PhraseApp Sketch Plugin",
+    "description": "Sync your design content from Sketch with PhraseApp",
+    "name": "PhraseApp Sketch Plugin",
+    "owner": "PhraseApp",
+    "author": "PhraseApp",
+    "homepage": "https://phraseapp.com",
+    "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
+    "lastUpdated": "2019-06-20 13:00:00 UTC"
+  },
+  {
     "title": "Sparkle Export Plugin",
     "description": "Turn any Sketch artboard in a real website using Sparkle Visual Website Builder",
     "name": "Sparkle Export Plugin",
@@ -4227,7 +4237,7 @@
     "description": "This plugin gives you syncing names between Symbol masters and its instances.",
     "author": "griffin-stewie",
     "owner": "griffin-stewie",
-    "appcast": "https://github.com/griffin-stewie/SymbolNameSync/blob/master/.appcast.xml",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
     "lastUpdated": "2019-06-16 03:45:00 UTC"
   },
@@ -5715,5 +5725,22 @@
     "appcast": "https://raw.githubusercontent.com/avk/sketch-tabula-rasa/master/.appcast.xml",
     "homepage": "https://github.com/avk/sketch-tabula-rasa",
     "author": "Arthur Klepchukov"
+  },
+  {
+    "title": "Mupixa",
+    "description": "Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.",
+    "name": "sketch-plugin-mupixa",
+    "owner": "mupixa",
+    "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
+    "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
+    "author": "www.mupixa.com"
+  },
+  {
+    "title": "Excel Content Sync",
+    "name": "SketchExcelContentSync",
+    "owner": "wousser",
+    "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
+    "homepage": "https://github.com/wousser/SketchExcelContentSync",
+    "author": "Wouter Bron"
   }
 ]
