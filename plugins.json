@@ -5732,5 +5732,14 @@
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron"
+  },
+  {
+    "title": "sketch-ipsum",
+    "description": "A DataSupplier plugin that fills your text layers with random Lorem Ipsum",
+    "name": "sketch-ipsum",
+    "owner": "BohemianCoding",
+    "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-ipsum/master/.appcast.xml",
+    "homepage": "https://github.com/BohemianCoding/sketch-ipsum",
+    "author": "Ale M"
   }
 ]
