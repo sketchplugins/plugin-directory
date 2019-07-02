@@ -5723,5 +5723,14 @@
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron"
+  },
+  {
+    "title": "ImageCodeExporter",
+    "description": "A Plugin that export your sketch layer for code usage",
+    "name": "ImageCodeExporter",
+    "owner": "funfungo",
+    "appcast": "https://raw.githubusercontent.com/funfungo/ImageCodeExporter/master/.appcast.xml",
+    "homepage": "https://github.com/funfungo/ImageCodeExporter",
+    "author": "funfungo"
   }
 ]
