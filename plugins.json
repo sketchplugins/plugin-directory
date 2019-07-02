@@ -5732,5 +5732,14 @@
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron"
+  },
+  {
+    "title": "Sketch TinyPng compressor",
+    "description": "A Plugin that compresses bitmap assets using TinyPNG API. This Plugin *requires* Sketch 3.8.",
+    "name": "sketch-tinypng-compressor",
+    "owner": "alxrm",
+    "appcast": "https://raw.githubusercontent.com/alxrm/sketch-tinypng-compressor/master/.appcast.xml",
+    "homepage": "https://github.com/alxrm/sketch-tinypng-compressor",
+    "author": "Alex D"
   }
 ]
