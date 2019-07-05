@@ -15,7 +15,7 @@
     "name": "PhraseApp Sketch Plugin",
     "owner": "PhraseApp",
     "author": "PhraseApp",
-    "homepage": "https://phraseapp.com",
+    "homepage": "https://phraseapp.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
     "lastUpdated": "2019-06-20 13:00:00 UTC"
   },
