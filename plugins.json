@@ -5769,5 +5769,14 @@
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/sketch-ipsum",
     "author": "Sketch"
+  },
+  {
+    "title": "Character Count",
+    "description": "Count character, words, and paragraphs from a text layer easily inside Sketch!",
+    "name": "character-count",
+    "owner": "afnizarnur",
+    "appcast": "https://github.com/afnizarnur/character-count/blob/master/.appcast.xml",
+    "homepage": "https://github.com/afnizarnur/character-count",
+    "author": "Afnizar Nur Ghifari"
   }
 ]
