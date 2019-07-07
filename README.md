@@ -71,7 +71,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Case Converter](https://github.com/ozgurgunes/Sketch-Case-Converter), by Özgür Güneş: Convert text layers, symbols or all instances of a symbol.
 - [Chain](https://lalomts.github.io/Chain/), by Lalo Mrtnz: Dynamic color relations in Sketch.
 - [Changelog](https://github.com/jacopocolo/changelog.sketchplugin), by Jacopo Colò: A simple Sketch plugin to generate artboard-based changelogs
-- [Character Count](https://github.com/afnizarnur/character-count), by Afnizar Nur Ghifari: Count character, words, and paragraphs from a text layer easily inside Sketch!
 - [Character Count](https://github.com/andrewfiorillo/sketch-character-count), by Andrew Fiorillo: Sketch plugin to count number of characters in a text layer
 - [charapara](https://github.com/kd-co/charapara-sketch-extension), by kd-co: Charapara, an initiative by Kerala Designers Collaborative (KDCo), is a dummy text generator for Malayalam
 - [chart](https://github.com/pavelkuligin/chart), by Pavel Kuligin: Create the most popular types of charts by real or random data
@@ -97,6 +96,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Composite SVG](https://github.com/alanfraneo/svg-composite), by Alan Francis: A Sketch plugin to create a composite SVG file from sketch artboards
 - [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
 - [Content Generator](https://github.com/timuric/content-generator-sketch-plugin), by Timur Carpeev: Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
+- [Context](https://github.com/afnizarnur/context), by Afnizar Nur Ghifari: Count character, words, and paragraphs from a text layer easily inside Sketch!
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
 - [Convert To Grayscale](https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale), by Misha: A simple Sketch plugin to convert selected shapes to grayscale colors
 - [CoolHue](https://github.com/webkul/coolhue), by Webkul, Nitish Khagwal: Coolest handpicked Gradient Palette for super amazing stuff

@@ -5771,12 +5771,12 @@
     "author": "Sketch"
   },
   {
-    "title": "Character Count",
+    "title": "Context",
     "description": "Count character, words, and paragraphs from a text layer easily inside Sketch!",
-    "name": "character-count",
+    "name": "context",
     "owner": "afnizarnur",
-    "appcast": "https://github.com/afnizarnur/character-count/blob/master/.appcast.xml",
-    "homepage": "https://github.com/afnizarnur/character-count",
+    "appcast": "https://github.com/afnizarnur/context/blob/master/.appcast.xml",
+    "homepage": "https://github.com/afnizarnur/context",
     "author": "Afnizar Nur Ghifari"
   }
 ]
