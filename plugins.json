@@ -5769,5 +5769,14 @@
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/sketch-ipsum",
     "author": "Sketch"
+  },
+  {
+    "title": "symbol-insert",
+    "description": "Simple plugin to insert Sketch symbols",
+    "name": "symbol-insert",
+    "owner": "lifeofmle",
+    "appcast": "https://raw.githubusercontent.com/lifeofmle/symbol-insert/master/.appcast.xml",
+    "homepage": "https://github.com/lifeofmle/symbol-insert",
+    "author": "Michael Le"
   }
 ]
