@@ -1,5 +1,15 @@
 [
-  {
+	{
+    "title": "Custom Zoom",
+    "description": "Zoom your document to a custom zoom level.",
+    "name": "Custom Zoom",
+    "owner": "Alexander Käßner",
+    "author": "Alexander Käßner",
+    "homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
+    "appcast": "https://raw.githubusercontent.com/alexkaessner/custom-zoom-sketch/master/.appcast.xml",
+    "lastUpdated": "2019-07-08 22:53:00 UTC"
+  },
+	{
     "title": "Sketch Manager Plugin",
     "description": "The easiest way to manager your Symbols, Text styles and Layer styles.",
     "name": "Sketch Manager Plugin",
