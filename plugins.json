@@ -5787,5 +5787,14 @@
     "appcast": "https://github.com/afnizarnur/context/blob/master/.appcast.xml",
     "homepage": "https://github.com/afnizarnur/context",
     "author": "Afnizar Nur Ghifari"
+  },
+  {
+    "title": "symbol-insert",
+    "description": "Simple plugin to insert Sketch symbols",
+    "name": "symbol-insert",
+    "owner": "lifeofmle",
+    "appcast": "https://raw.githubusercontent.com/lifeofmle/symbol-insert/master/.appcast.xml",
+    "homepage": "https://github.com/lifeofmle/symbol-insert",
+    "author": "Michael Le"
   }
 ]
