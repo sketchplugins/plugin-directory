@@ -5771,6 +5771,24 @@
     "author": "Sketch"
   },
   {
+    "title": "Keygaroo",
+    "description": "Keygaroo helps you learn keyboard shortcuts for the actions you use the most.",
+    "name": "Keygaroo",
+    "owner": "IxCO",
+    "appcast": "https://keygaroo.ixco.io/appcast.xml",
+    "homepage": "https://keygaroo.ixco.io/",
+    "author": "IxCO"
+  },
+  {
+    "title": "Context",
+    "description": "Count character, words, and paragraphs from a text layer easily inside Sketch!",
+    "name": "context",
+    "owner": "afnizarnur",
+    "appcast": "https://github.com/afnizarnur/context/blob/master/.appcast.xml",
+    "homepage": "https://github.com/afnizarnur/context",
+    "author": "Afnizar Nur Ghifari"
+  },
+  {
     "title": "symbol-insert",
     "description": "Simple plugin to insert Sketch symbols",
     "name": "symbol-insert",
