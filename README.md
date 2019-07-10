@@ -96,6 +96,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Composite SVG](https://github.com/alanfraneo/svg-composite), by Alan Francis: A Sketch plugin to create a composite SVG file from sketch artboards
 - [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
 - [Content Generator](https://github.com/timuric/content-generator-sketch-plugin), by Timur Carpeev: Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.
+- [Context](https://github.com/afnizarnur/context), by Afnizar Nur Ghifari: Count character, words, and paragraphs from a text layer easily inside Sketch!
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
 - [Convert To Grayscale](https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale), by Misha: A simple Sketch plugin to convert selected shapes to grayscale colors
 - [CoolHue](https://github.com/webkul/coolhue), by Webkul, Nitish Khagwal: Coolest handpicked Gradient Palette for super amazing stuff
