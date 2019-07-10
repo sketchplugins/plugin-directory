@@ -5769,5 +5769,14 @@
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/sketch-ipsum",
     "author": "Sketch"
+  },
+  {
+    "title": "Keygaroo",
+    "description": "Keygaroo helps you learn keyboard shortcuts for the actions you use the most.",
+    "name": "Keygaroo",
+    "owner": "IxCO",
+    "appcast": "https://keygaroo.ixco.io/appcast.xml",
+    "homepage": "https://keygaroo.ixco.io/",
+    "author": "IxCO"
   }
 ]
