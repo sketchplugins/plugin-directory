@@ -5850,5 +5850,14 @@
     "homepage": "https://github.com/lifeofmle/symbol-insert",
     "author": "Michael Le",
     "lastUpdated": "2019-07-08 02:24:33 UTC"
+  },
+  {
+    "title": "Sketch Copy Text Only",
+    "description": "Sketch plugin to copy only the text from selected artboard(s) or layer(s)",
+    "name": "sketch-copy-text-only",
+    "owner": "explorador",
+    "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
+    "homepage": "https://github.com/explorador/sketch-copy-text-only",
+    "author": "Cristian"
   }
 ]
