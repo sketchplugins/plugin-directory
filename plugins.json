@@ -5850,5 +5850,14 @@
     "homepage": "https://github.com/lifeofmle/symbol-insert",
     "author": "Michael Le",
     "lastUpdated": "2019-07-08 02:24:33 UTC"
+  },
+  {
+    "title": "PinIt",
+    "description": "A collection of Resizing Shortcuts.",
+    "name": "PinIt",
+    "owner": "acollurafici",
+    "appcast": "https://raw.githubusercontent.com/acollurafici/PinIt/master/.appcast.xml",
+    "homepage": "https://github.com/acollurafici/PinIt",
+    "author": "Anthony Collurafici"
   }
 ]
