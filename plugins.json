@@ -5859,5 +5859,14 @@
     "appcast": "https://raw.githubusercontent.com/acollurafici/PinIt/master/.appcast.xml",
     "homepage": "https://github.com/acollurafici/PinIt",
     "author": "Anthony Collurafici"
+  },
+  {
+    "title": "Sketch Copy Text Only",
+    "description": "Sketch plugin to copy only the text from selected artboard(s) or layer(s)",
+    "name": "sketch-copy-text-only",
+    "owner": "explorador",
+    "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
+    "homepage": "https://github.com/explorador/sketch-copy-text-only",
+    "author": "Cristian"
   }
 ]
