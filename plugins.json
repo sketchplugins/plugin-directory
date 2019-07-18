@@ -5868,5 +5868,14 @@
     "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
     "homepage": "https://github.com/explorador/sketch-copy-text-only",
     "author": "Cristian"
+  },
+  {
+    "title": "check-contrast",
+    "description": "Allows you to select layers in Sketch and get realtime feedback about the contrast ratio",
+    "name": "check-contrast",
+    "owner": "lifeofmle",
+    "appcast": "https://raw.githubusercontent.com/lifeofmle/check-contrast/master/.appcast.xml",
+    "homepage": "https://github.com/lifeofmle/check-contrast",
+    "author": "Michael Le"
   }
 ]
