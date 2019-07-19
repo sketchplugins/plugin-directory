@@ -5868,5 +5868,14 @@
     "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
     "homepage": "https://github.com/explorador/sketch-copy-text-only",
     "author": "Cristian"
+  },
+  {
+    "title": "truncat",
+    "description": "A Sketch plugin to truncate text.",
+    "name": "Truncat",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/Truncat/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/Truncat",
+    "author": "Kevin Gutowski"
   }
 ]
