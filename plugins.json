@@ -5868,5 +5868,14 @@
     "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
     "homepage": "https://github.com/explorador/sketch-copy-text-only",
     "author": "Cristian"
+  },
+  {
+    "title": "documentation",
+    "description": "documentaion sketch",
+    "name": "9oclock-sketch-documentation",
+    "owner": "apJammanbo",
+    "appcast": "https://raw.githubusercontent.com/apJammanbo/9oclock-sketch-documentation/master/.appcast.xml",
+    "homepage": "https://github.com/apJammanbo/9oclock-sketch-documentation",
+    "author": "apJammanbo"
   }
 ]
