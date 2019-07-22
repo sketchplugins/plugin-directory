@@ -10,16 +10,6 @@
     "lastUpdated": "2019-07-08 22:53:00 UTC"
   },
   {
-    "title": "Sketch Manager Plugin",
-    "description": "The easiest way to manager your Symbols, Text styles and Layer styles.",
-    "name": "Sketch Manager Plugin",
-    "owner": "Sketch Manager",
-    "author": "Sketch Manager",
-    "homepage": "https://www.sketchmanager.com",
-    "appcast": "https://releases.sketchmanager.com/appcast-production.xml",
-    "lastUpdated": "2019-05-27 14:58:00 UTC"
-  },
-  {
     "title": "PhraseApp Sketch Plugin",
     "description": "Sync your design content from Sketch with PhraseApp",
     "name": "PhraseApp Sketch Plugin",
@@ -5525,6 +5515,7 @@
   },
   {
     "title": "whale-kit",
+    "description": "",
     "name": "whale-kit",
     "owner": "jingwhale",
     "appcast": "https://raw.githubusercontent.com/jingwhale/whale-kit/master/.appcast.xml",
@@ -5785,6 +5776,7 @@
   },
   {
     "title": "Excel Content Sync",
+    "description": "",
     "name": "SketchExcelContentSync",
     "owner": "wousser",
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
@@ -5868,6 +5860,34 @@
     "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
     "homepage": "https://github.com/explorador/sketch-copy-text-only",
     "author": "Cristian"
+  },
+  {
+    "title": "Sketch Manager Plugin",
+    "description": "The easiest way to manager your Symbols, Text styles and Layer styles.",
+    "name": "Sketch Manager Plugin",
+    "owner": "Sketch Manager",
+    "author": "Sketch Manager",
+    "homepage": "https://www.sketchmanager.com",
+    "appcast": "https://releases.sketchmanager.com/appcast-production.xml",
+    "lastUpdated": "2019-05-27 14:58:00 UTC"
+  },
+  {
+    "title": "check-contrast",
+    "description": "Allows you to select layers in Sketch and get realtime feedback about the contrast ratio",
+    "name": "check-contrast",
+    "owner": "lifeofmle",
+    "appcast": "https://raw.githubusercontent.com/lifeofmle/check-contrast/master/.appcast.xml",
+    "homepage": "https://github.com/lifeofmle/check-contrast",
+    "author": "Michael Le"
+  },
+  {
+    "title": "truncat",
+    "description": "A Sketch plugin to truncate text.",
+    "name": "Truncat",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/Truncat/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/Truncat",
+    "author": "Kevin Gutowski"
   },
   {
     "title": "documentation",
