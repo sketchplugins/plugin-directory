@@ -5870,5 +5870,14 @@
     "homepage": "https://www.sketchmanager.com",
     "appcast": "https://releases.sketchmanager.com/appcast-production.xml",
     "lastUpdated": "2019-05-27 14:58:00 UTC"
+  },
+  {
+    "title": "check-contrast",
+    "description": "Allows you to select layers in Sketch and get realtime feedback about the contrast ratio",
+    "name": "check-contrast",
+    "owner": "lifeofmle",
+    "appcast": "https://raw.githubusercontent.com/lifeofmle/check-contrast/master/.appcast.xml",
+    "homepage": "https://github.com/lifeofmle/check-contrast",
+    "author": "Michael Le"
   }
 ]
