@@ -5879,5 +5879,14 @@
     "appcast": "https://raw.githubusercontent.com/lifeofmle/check-contrast/master/.appcast.xml",
     "homepage": "https://github.com/lifeofmle/check-contrast",
     "author": "Michael Le"
+  },
+  {
+    "title": "truncat",
+    "description": "A Sketch plugin to truncate text.",
+    "name": "Truncat",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/Truncat/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/Truncat",
+    "author": "Kevin Gutowski"
   }
 ]
