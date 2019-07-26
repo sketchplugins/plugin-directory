@@ -5888,5 +5888,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Truncat/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Truncat",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Context for Sketch",
+    "description": "Add to your document pins linking to prototypes, inspirations, examples or anything else on the web.",
+    "name": "Context",
+    "owner": "GetContext.app",
+    "appcast": "https://getcontext.app//builds/appcast.xml",
+    "homepage": "https://getcontext.app",
+    "author": "@dannyow"
   }
 ]
