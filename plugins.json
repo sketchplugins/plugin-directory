@@ -5890,6 +5890,24 @@
     "author": "Kevin Gutowski"
   },
   {
+    "title": "Visualeyes",
+    "description": "Generate attention heatmaps in seconds",
+    "name": "sketch-visualeyes",
+    "owner": "loceye",
+    "appcast": "https://raw.githubusercontent.com/loceye/sketch-visualeyes/master/.appcast.xml",
+    "homepage": "https://github.com/loceye/sketch-visualeyes",
+    "author": "konsalex & dmraptis"
+  },
+  {
+    "title": "Context for Sketch",
+    "description": "Add to your document pins linking to prototypes, inspirations, examples or anything else on the web.",
+    "name": "Context",
+    "owner": "GetContext.app",
+    "appcast": "https://getcontext.app//builds/appcast.xml",
+    "homepage": "https://getcontext.app",
+    "author": "@dannyow"
+  },
+  {
     "title": "Quopi",
     "description": "Fetches copy from the comments on your Abstract branch",
     "name": "Quopi",
