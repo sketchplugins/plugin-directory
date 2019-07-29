@@ -5906,5 +5906,14 @@
     "appcast": "https://getcontext.app//builds/appcast.xml",
     "homepage": "https://getcontext.app",
     "author": "@dannyow"
+  },
+  {
+    "title": "Quopi",
+    "description": "Fetches copy from the comments on your Abstract branch",
+    "name": "Quopi",
+    "owner": "LukeFinch",
+    "appcast": "https://raw.githubusercontent.com/LukeFinch/Quopi/master/.appcast.xml",
+    "homepage": "https://github.com/LukeFinch/Quopi",
+    "author": "Luke Finch"
   }
 ]
