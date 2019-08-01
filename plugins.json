@@ -5915,5 +5915,13 @@
     "appcast": "https://raw.githubusercontent.com/LukeFinch/Quopi/master/.appcast.xml",
     "homepage": "https://github.com/LukeFinch/Quopi",
     "author": "Luke Finch"
+  },
+  {
+    "title": "Agoda Toolkit",
+    "name": "agoda-design-toolkit",
+    "owner": "agoda-com",
+    "appcast": "https://raw.githubusercontent.com/agoda-com/agoda-design-toolkit/master/.appcast.xml",
+    "homepage": "https://github.com/agoda-com/agoda-design-toolkit",
+    "author": "Agoda"
   }
 ]
