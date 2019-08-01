@@ -5915,5 +5915,13 @@
     "appcast": "https://raw.githubusercontent.com/LukeFinch/Quopi/master/.appcast.xml",
     "homepage": "https://github.com/LukeFinch/Quopi",
     "author": "Luke Finch"
+  },
+  {
+    "title": "Airbeam",
+    "name": "sketchbeam",
+    "owner": "nicutimofte",
+    "appcast": "https://raw.githubusercontent.com/nicutimofte/sketchbeam/master/.appcast.xml",
+    "homepage": "https://github.com/nicutimofte/sketchbeam",
+    "author": "Airbeam"
   }
 ]
