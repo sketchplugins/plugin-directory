@@ -5915,5 +5915,14 @@
     "appcast": "https://raw.githubusercontent.com/LukeFinch/Quopi/master/.appcast.xml",
     "homepage": "https://github.com/LukeFinch/Quopi",
     "author": "Luke Finch"
+  },
+  {
+    "title": "Stash",
+    "description": "Import artboards from Stash to Sketch",
+    "name": "Stash",
+    "owner": "Stash",
+    "appcast": "https://www.stash.diamonds/assets/downloads/appcast.xml",
+    "homepage": "https://www.stash.diamonds",
+    "author": "Jarek Ostrowski & David Diefenderfer"
   }
 ]
