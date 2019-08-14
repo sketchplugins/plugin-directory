@@ -5924,5 +5924,14 @@
     "appcast": "https://www.stash.diamonds/assets/downloads/appcast.xml",
     "homepage": "https://www.stash.diamonds",
     "author": "Jarek Ostrowski & David Diefenderfer"
+  },
+  {
+    "title": "Fast-Furious",
+    "description": "Our team special plugin",
+    "name": "FastFurious",
+    "owner": "beyondyuanshu",
+    "appcast": "https://raw.githubusercontent.com/beyondyuanshu/FastFurious/master/.appcast.xml",
+    "homepage": "https://github.com/beyondyuanshu/FastFurious",
+    "author": "ShuYuan"
   }
 ]
