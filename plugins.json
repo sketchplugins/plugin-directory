@@ -5933,5 +5933,14 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/glueprint-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/glueprint-sketch-plugin",
     "author": "mathieudutour"
+  },
+  {
+    "title": "gretel",
+    "description": "A Sketch plugin that flattens files after exporting.",
+    "name": "Gretel",
+    "owner": "StyleShare",
+    "appcast": "https://raw.githubusercontent.com/StyleShare/Gretel/master/.appcast.xml",
+    "homepage": "https://github.com/StyleShare/Gretel",
+    "author": "Suyeol Jeon"
   }
 ]
