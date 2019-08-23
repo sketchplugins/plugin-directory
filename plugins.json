@@ -4266,12 +4266,24 @@
     "lastUpdated": "2018-08-15 03:23:11 UTC"
   },
   {
-    "title": "exporter",
-    "description": "Exports Sketch artboards into linked HTML files.",
+    "title": "Puzzle Publisher",
+    "description": "Exports Sketch artboards into linked HTML files and publish it on external site using SFTP.",
     "author": "MaxBazarov",
     "owner": "MaxBazarov",
-    "name": "exporter",
-    "lastUpdated": "2019-07-10 15:29:34 UTC"
+    "name": "puzzle-publisher",
+    "homepage": "https://github.com/ingrammicro/puzzle-publisher",
+    "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
+    "lastUpdated": "2019-08-21 15:29:34 UTC"
+  },
+  {
+    "title": "Puzzle Tokens",
+    "description": "Sketch.app plugin to apply design tokens to Sketch layers",
+    "author": "MaxBazarov",
+    "owner": "MaxBazarov",
+    "name": "puzzle-tokens",
+    "homepage": "https://github.com/ingrammicro/puzzle-tokens",
+    "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
+    "lastUpdated": "2019-08-21 15:29:34 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
