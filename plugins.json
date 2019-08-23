@@ -5938,15 +5938,6 @@
     "author": "Jarek Ostrowski & David Diefenderfer"
   },
   {
-    "title": "GluePrint",
-    "description": "Open the selected layer in GluePrint with a single click",
-    "name": "glueprint-sketch-plugin",
-    "owner": "mathieudutour",
-    "appcast": "https://raw.githubusercontent.com/mathieudutour/glueprint-sketch-plugin/master/.appcast.xml",
-    "homepage": "https://github.com/mathieudutour/glueprint-sketch-plugin",
-    "author": "mathieudutour"
-  },
-  {
     "title": "gretel",
     "description": "A Sketch plugin that flattens files after exporting.",
     "name": "Gretel",
