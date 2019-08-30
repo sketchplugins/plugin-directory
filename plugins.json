@@ -5954,5 +5954,14 @@
     "appcast": "https://raw.githubusercontent.com/stefan0uh/sketch-aligny/master/.appcast.xml",
     "homepage": "https://github.com/stefan0uh/sketch-aligny",
     "author": "Stefan Mairbaeurl"
+  },
+  {
+    "title": "liveplanet-sketch-datasupplier",
+    "description": "Supply's real data from Live Planet's api to sketch for testing designs",
+    "name": "liveplanet-sketch-datasupplier",
+    "owner": "Craigtut",
+    "appcast": "https://raw.githubusercontent.com/Craigtut/liveplanet-sketch-datasupplier/master/.appcast.xml",
+    "homepage": "https://github.com/Craigtut/liveplanet-sketch-datasupplier",
+    "author": "Craig Tuttle"
   }
 ]
