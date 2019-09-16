@@ -5975,6 +5975,15 @@
     "author": "Craig Tuttle"
   },
   {
+    "title": "Page Export",
+    "description": "A simple Sketch plugin for exporting page(s).",
+    "name": "sketch-page-export",
+    "owner": "charliecm",
+    "appcast": "https://raw.githubusercontent.com/charliecm/sketch-page-export/master/appcast.xml",
+    "homepage": "https://github.com/charliecm/sketch-page-export",
+    "author": "Charlie Chao"
+  },
+  {
     "title": "Auto Arrange Artboards",
     "description": "Automatically arrange the order of your artboards in the layer list according to their position on the canvas.",
     "author": "Saurabh Singh",
