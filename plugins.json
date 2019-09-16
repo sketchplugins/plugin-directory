@@ -1,5 +1,15 @@
 [
   {
+    "title": "Atlassian Vendor Sketch Plugin",
+    "description": "Design your next Atlassian app with our component libraries and suite of Sketch tools 💎",
+    "name": "Atlassian Vendor Sketch Plugin",
+    "owner": "Atlassian Design",
+    "author": "Atlassian Design",
+    "homepage": "https://github.com/atlassian/sketch-plugin",
+    "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
+    "lastUpdated": "2019-09-10 12:44:00 UTC"
+  },
+  {
     "title": "Custom Zoom",
     "description": "Zoom your document to a custom zoom level.",
     "name": "Custom Zoom",
@@ -5972,5 +5982,13 @@
     "appcast": "https://raw.githubusercontent.com/charliecm/sketch-page-export/master/appcast.xml",
     "homepage": "https://github.com/charliecm/sketch-page-export",
     "author": "Charlie Chao"
+  },
+  {
+    "title": "Auto Arrange Artboards",
+    "description": "Automatically arrange the order of your artboards in the layer list according to their position on the canvas.",
+    "author": "Saurabh Singh",
+    "owner": "srbsingh3",
+    "name": "autoarrange",
+    "lastUpdated": "2019-09-16 08:28:00 UTC"
   }
 ]
