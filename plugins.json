@@ -5975,6 +5975,15 @@
     "author": "Craig Tuttle"
   },
   {
+    "title": "sketch-share",
+    "description": "Sketch plugin that exports artboards and generates an HTML file linking to each one",
+    "name": "sketch-share",
+    "owner": "robflaherty",
+    "appcast": "https://raw.githubusercontent.com/robflaherty/sketch-share/master/.appcast.xml",
+    "homepage": "https://github.com/robflaherty/sketch-share",
+    "author": "Rob Flaherty"
+  },
+  {
     "title": "Page Export",
     "description": "A simple Sketch plugin for exporting page(s).",
     "name": "sketch-page-export",
