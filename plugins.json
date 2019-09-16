@@ -5973,5 +5973,13 @@
     "appcast": "https://raw.githubusercontent.com/Craigtut/liveplanet-sketch-datasupplier/master/.appcast.xml",
     "homepage": "https://github.com/Craigtut/liveplanet-sketch-datasupplier",
     "author": "Craig Tuttle"
+  },
+  {
+    "title": "Auto Arrange Artboards",
+    "description": "Automatically arrange the order of your artboards in the layer list according to their position on the canvas.",
+    "author": "Saurabh Singh",
+    "owner": "srbsingh3",
+    "name": "autoarrange",
+    "lastUpdated": "2019-09-16 08:28:00 UTC"
   }
 ]
