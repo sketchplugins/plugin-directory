@@ -6010,5 +6010,15 @@
     "owner": "srbsingh3",
     "name": "autoarrange",
     "lastUpdated": "2019-09-16 08:27:58 UTC"
+  },
+  {
+    "title": "Represent",
+    "description": "Exports an artboard and makes it available on your mobile phone.",
+    "name": "Represent",
+    "owner": "SwipeCircus",
+    "author": "Bettina Steger",
+    "homepage": "https://getrepresent.com",
+    "appcast": "https://session.getrepresent.com/.appcast.xml",
+    "lastUpdated": "2019-09-17 10:00:00 UTC"
   }
 ]
