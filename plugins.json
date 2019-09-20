@@ -6010,5 +6010,12 @@
     "owner": "srbsingh3",
     "name": "autoarrange",
     "lastUpdated": "2019-09-16 08:27:58 UTC"
+  },
+  {
+    "title": "sketch-retain-text-color",
+    "name": "sketch-retain-text-color",
+    "owner": "johnmcclumpha",
+    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
+    "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
   }
 ]
