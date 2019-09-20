@@ -6010,5 +6010,14 @@
     "owner": "srbsingh3",
     "name": "autoarrange",
     "lastUpdated": "2019-09-16 08:27:58 UTC"
+  },
+  {
+    "title": "represent.",
+    "description": "Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲",
+    "name": "represent.",
+    "owner": "lpsBetty",
+    "author": "Swipe Circus",
+    "homepage": "https://getrepresent.com",
+    "appcast": "https://session.getrepresent.com/.appcast.xml"
   }
 ]
