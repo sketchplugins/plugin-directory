@@ -6019,5 +6019,13 @@
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
     "appcast": "https://session.getrepresent.com/.appcast.xml"
+  },
+  {
+    "title": "sketch-retain-text-color",
+    "description": "Retain the original color of text layers when applying a Text Style.",
+    "name": "sketch-retain-text-color",
+    "owner": "johnmcclumpha",
+    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
+    "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
   }
 ]
