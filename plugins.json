@@ -6027,5 +6027,14 @@
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
+  },
+  {
+  	"title": "Symbol Master Renamer",
+  	"description": "Simple plugin to rename and organizing the master symbols with '/'.",
+  	"name": "symbol-master-renamer",
+  	"owner": "Miguel Angel Narvaez",
+    "author": "Miguel Angel Narvaez",
+  	"appcast": "https://raw.githubusercontent.com/miguelangelnarvaezgo/symbol-master-renamer/master/.appcast.xml",
+  	"homepage": "https://github.com/miguelangelnarvaezgo/symbol-master-renamer"
   }
 ]
