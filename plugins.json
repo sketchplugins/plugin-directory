@@ -6027,5 +6027,13 @@
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
+  },
+  {
+    "title": "Sketch To View",
+    "description": "Generate android views from sketch",
+    "name": "sketch-to-view",
+    "owner": "kiranpuppala",
+    "appcast": "https://raw.githubusercontent.com/kiranpuppala/sketch-to-view/master/.appcast.xml",
+    "homepage": "https://github.com/kiranpuppala/sketch-to-view"
   }
 ]
