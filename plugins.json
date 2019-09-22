@@ -6044,5 +6044,14 @@
     "owner": "kiranpuppala",
     "appcast": "https://raw.githubusercontent.com/kiranpuppala/sketch-to-view/master/.appcast.xml",
     "homepage": "https://github.com/kiranpuppala/sketch-to-view"
+  },
+  {
+    "title": "Symbol Master Renamer",
+    "description": "Simple plugin to rename and organizing the master symbols with '/'.",
+    "name": "symbol-master-renamer",
+    "owner": "miguelangelnarvaezgo",
+    "author": "Miguel Angel Narvaez",
+    "appcast": "https://raw.githubusercontent.com/miguelangelnarvaezgo/symbol-master-renamer/master/.appcast.xml",
+    "homepage": "https://github.com/miguelangelnarvaezgo/symbol-master-renamer"
   }
 ]
