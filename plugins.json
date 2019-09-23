@@ -6027,5 +6027,13 @@
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
+  },
+  {
+    "title": "Sketch Styler",
+    "name": "sketch-styler",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/sketch-styler",
+    "author": "oodesign"
   }
 ]
