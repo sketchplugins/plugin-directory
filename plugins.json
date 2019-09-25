@@ -6036,5 +6036,13 @@
     "appcast": "https://raw.githubusercontent.com/iarthstar/Image2Palette/master/.appcast.xml",
     "homepage": "https://github.com/iarthstar/Image2Palette",
     "author": "Arth K. Gajjar"
+  },
+  {
+    "title": "Sketch To View",
+    "description": "Generate android views from sketch",
+    "name": "sketch-to-view",
+    "owner": "kiranpuppala",
+    "appcast": "https://raw.githubusercontent.com/kiranpuppala/sketch-to-view/master/.appcast.xml",
+    "homepage": "https://github.com/kiranpuppala/sketch-to-view"
   }
 ]
