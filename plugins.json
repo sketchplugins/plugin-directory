@@ -6029,7 +6029,34 @@
     "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
   },
   {
+    "title": "img-pal-gen",
+    "description": "Generates Color Palette from Image Layer",
+    "name": "Image2Palette",
+    "owner": "iarthstar",
+    "appcast": "https://raw.githubusercontent.com/iarthstar/Image2Palette/master/.appcast.xml",
+    "homepage": "https://github.com/iarthstar/Image2Palette",
+    "author": "Arth K. Gajjar"
+  },
+  {
+    "title": "Sketch To View",
+    "description": "Generate android views from sketch",
+    "name": "sketch-to-view",
+    "owner": "kiranpuppala",
+    "appcast": "https://raw.githubusercontent.com/kiranpuppala/sketch-to-view/master/.appcast.xml",
+    "homepage": "https://github.com/kiranpuppala/sketch-to-view"
+  },
+  {
+    "title": "Symbol Master Renamer",
+    "description": "Simple plugin to rename and organizing the master symbols with '/'.",
+    "name": "symbol-master-renamer",
+    "owner": "miguelangelnarvaezgo",
+    "author": "Miguel Angel Narvaez",
+    "appcast": "https://raw.githubusercontent.com/miguelangelnarvaezgo/symbol-master-renamer/master/.appcast.xml",
+    "homepage": "https://github.com/miguelangelnarvaezgo/symbol-master-renamer"
+  },
+  {
     "title": "Sketch Styler",
+    "description": "Sketch plugin that assigns styles automatically to all of your unstyled layers.",
     "name": "sketch-styler",
     "owner": "oodesign",
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
