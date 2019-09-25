@@ -6053,5 +6053,14 @@
     "author": "Miguel Angel Narvaez",
     "appcast": "https://raw.githubusercontent.com/miguelangelnarvaezgo/symbol-master-renamer/master/.appcast.xml",
     "homepage": "https://github.com/miguelangelnarvaezgo/symbol-master-renamer"
+  },
+  {
+    "title": "Sketch Styler",
+    "description": "Sketch plugin that assigns styles automatically to all of your unstyled layers.",
+    "name": "sketch-styler",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/sketch-styler",
+    "author": "oodesign"
   }
 ]
