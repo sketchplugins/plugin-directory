@@ -6027,5 +6027,14 @@
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color"
+  },
+  {
+    "title": "img-pal-gen",
+    "description": "Generates Color Palette from Image Layer",
+    "name": "Image2Palette",
+    "owner": "iarthstar",
+    "appcast": "https://raw.githubusercontent.com/iarthstar/Image2Palette/master/.appcast.xml",
+    "homepage": "https://github.com/iarthstar/Image2Palette",
+    "author": "Arth K. Gajjar"
   }
 ]
