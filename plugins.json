@@ -6062,5 +6062,13 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign"
+  },
+  {
+    "title": "Orbison",
+    "description": "A Sketch plugin for Bitly's product design system",
+    "name": "orbison",
+    "owner": "ilikescience",
+    "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
+    "homepage": "https://github.com/ilikescience/orbison"
   }
 ]
