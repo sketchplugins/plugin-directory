@@ -6062,5 +6062,14 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign"
+  },
+  {
+    "title": "sketch-pexels",
+    "description": "A Pexels plugin for Sketch",
+    "name": "pexels-sketchplugin",
+    "owner": "pexels",
+    "appcast": "https://raw.githubusercontent.com/pexels/pexels-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/pexels/pexels-sketchplugin",
+    "author": "Pexels"
   }
 ]
