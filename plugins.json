@@ -6062,5 +6062,14 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign"
+  },
+] {
+    "title": "organizeLayers",
+    "description": "A plugin that allows short key commands to move layers up, down and reverse positions ↕️",
+    "name": "organizeLayers",
+    "owner": "Eunice J. Son",
+    "author": "Eunice J. Son",
+    "homepage": "https://github.com/eunicejson/organizeLayers",
+    "appcast": "https://github.com/eunicejson/organizeLayers/blob/master/.appcast.xml",
+    "lastUpdated": "2019-10-14 11:11:11 UTC"
   }
-]
