@@ -6062,5 +6062,13 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign"
+  },
+  {
+    "title": "MarginSymbols",
+    "description": "",
+    "name": "MarginSymbols",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/MarginSymbols/master/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/MarginSymbols"
   }
 ]
