@@ -6064,6 +6064,14 @@
     "author": "oodesign"
   },
   {
+    "title": "MarginSymbols",
+    "description": "",
+    "name": "MarginSymbols",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/MarginSymbols/master/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/MarginSymbols"
+  },
+  {
     "title": "FS_StockSummaryFiller",
     "description": "一系列关于股票数据的自动填充/生成工具",
     "name": "FS_StockInfoFiller",
