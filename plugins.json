@@ -6064,6 +6064,15 @@
     "author": "oodesign"
   },
   {
+    "title": "awesome-ipsums",
+    "description": "Generate ipsums from an external Google spreadsheet. Make these datas collaborative!",
+    "name": "awesome-ipsums",
+    "owner": "inVoltag",
+    "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
+    "homepage": "https://github.com/inVoltag/awesome-ipsums",
+    "author": "Aurélien Grimaud"
+  },
+  {
     "title": "sketch-pexels",
     "description": "A Pexels plugin for Sketch",
     "name": "pexels-sketchplugin",
