@@ -6064,6 +6064,15 @@
     "author": "oodesign"
   },
   {
+    "title": "FS_StockSummaryFiller",
+    "description": "一系列关于股票数据的自动填充/生成工具",
+    "name": "FS_StockInfoFiller",
+    "owner": "freeman990",
+    "appcast": "https://raw.githubusercontent.com/freeman990/FS_StockInfoFiller/master/.appcast.xml",
+    "homepage": "https://github.com/freeman990/FS_StockInfoFiller",
+    "author": "Freeman Sun"
+  },
+  {
     "title": "awesome-ipsums",
     "description": "Generate ipsums from an external Google spreadsheet. Make these datas collaborative!",
     "name": "awesome-ipsums",
