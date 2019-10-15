@@ -6072,5 +6072,48 @@
     "homepage": "https://github.com/eunicejson/organizeLayers",
     "appcast": "https://github.com/eunicejson/organizeLayers/blob/master/.appcast.xml",
     "lastUpdated": "2019-10-14 11:11:11 UTC"
+  },
+  {
+    "title": "MarginSymbols",
+    "description": "",
+    "name": "MarginSymbols",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/MarginSymbols/master/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/MarginSymbols"
+  },
+  {
+    "title": "FS_StockSummaryFiller",
+    "description": "一系列关于股票数据的自动填充/生成工具",
+    "name": "FS_StockInfoFiller",
+    "owner": "freeman990",
+    "appcast": "https://raw.githubusercontent.com/freeman990/FS_StockInfoFiller/master/.appcast.xml",
+    "homepage": "https://github.com/freeman990/FS_StockInfoFiller",
+    "author": "Freeman Sun"
+  },
+  {
+    "title": "awesome-ipsums",
+    "description": "Generate ipsums from an external Google spreadsheet. Make these datas collaborative!",
+    "name": "awesome-ipsums",
+    "owner": "inVoltag",
+    "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
+    "homepage": "https://github.com/inVoltag/awesome-ipsums",
+    "author": "Aurélien Grimaud"
+  },
+  {
+    "title": "sketch-pexels",
+    "description": "A Pexels plugin for Sketch",
+    "name": "pexels-sketchplugin",
+    "owner": "pexels",
+    "appcast": "https://raw.githubusercontent.com/pexels/pexels-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/pexels/pexels-sketchplugin",
+    "author": "Pexels"
+  },
+  {
+    "title": "Orbison",
+    "description": "A Sketch plugin for Bitly's product design system",
+    "name": "orbison",
+    "owner": "ilikescience",
+    "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
+    "homepage": "https://github.com/ilikescience/orbison"
   }
 ]
