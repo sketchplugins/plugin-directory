@@ -6071,5 +6071,13 @@
     "appcast": "https://raw.githubusercontent.com/pexels/pexels-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/pexels/pexels-sketchplugin",
     "author": "Pexels"
+  },
+  {
+    "title": "Orbison",
+    "description": "A Sketch plugin for Bitly's product design system",
+    "name": "orbison",
+    "owner": "ilikescience",
+    "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
+    "homepage": "https://github.com/ilikescience/orbison"
   }
 ]
