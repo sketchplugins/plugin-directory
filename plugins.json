@@ -6115,5 +6115,14 @@
     "owner": "ilikescience",
     "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
     "homepage": "https://github.com/ilikescience/orbison"
+  },
+  {
+    "title": "sketch-chat",
+    "description": "A Sketch plugin to chat in Sketch Cloud files",
+    "name": "sketch-chat",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-chat",
+    "author": "Mathieu Dutour"
   }
 ]
