@@ -6115,5 +6115,13 @@
     "owner": "ilikescience",
     "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
     "homepage": "https://github.com/ilikescience/orbison"
+  },
+  {
+    "title": "tin-drum",
+    "description": "",
+    "name": "tin-drum",
+    "owner": "VitskyDs",
+    "appcast": "https://raw.githubusercontent.com/VitskyDs/tin-drum/master/.appcast.xml",
+    "homepage": "https://github.com/VitskyDs/tin-drum"
   }
 ]
