@@ -6115,5 +6115,13 @@
     "owner": "ilikescience",
     "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
     "homepage": "https://github.com/ilikescience/orbison"
+  },
+  {
+    "title": "Plugin List",
+    "description": "Sketch Plugin that gives you list of plugins you enabled as several text formats.",
+    "name": "PluginsList",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/PluginsList"
   }
 ]
