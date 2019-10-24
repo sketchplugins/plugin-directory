@@ -6140,5 +6140,14 @@
     "owner": "VitskyDs",
     "appcast": "https://raw.githubusercontent.com/VitskyDs/tin-drum/master/.appcast.xml",
     "homepage": "https://github.com/VitskyDs/tin-drum"
+  },
+  {
+    "title": "cloudinary-plugin",
+    "description": "Cloudinary plugin for Sketch projects",
+    "name": "cloudinary-sketch-plugin",
+    "owner": "cloudinary-devs",
+    "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
+    "author": "Maya Shavin"
   }
 ]
