@@ -6117,6 +6117,23 @@
     "homepage": "https://github.com/ilikescience/orbison"
   },
   {
+    "title": "sketch-chat",
+    "description": "A Sketch plugin to chat in Sketch Cloud files",
+    "name": "sketch-chat",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-chat",
+    "author": "Mathieu Dutour"
+  },
+  {
+    "title": "Plugin List",
+    "description": "Sketch Plugin that gives you list of plugins you enabled as several text formats.",
+    "name": "PluginsList",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/PluginsList"
+  },
+  {
     "title": "tin-drum",
     "description": "",
     "name": "tin-drum",
