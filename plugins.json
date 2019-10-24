@@ -6132,5 +6132,13 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/PluginsList"
+  },
+  {
+    "title": "tin-drum",
+    "description": "",
+    "name": "tin-drum",
+    "owner": "VitskyDs",
+    "appcast": "https://raw.githubusercontent.com/VitskyDs/tin-drum/master/.appcast.xml",
+    "homepage": "https://github.com/VitskyDs/tin-drum"
   }
 ]
