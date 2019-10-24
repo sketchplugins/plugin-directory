@@ -6018,7 +6018,7 @@
     "owner": "lpsBetty",
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
-    "appcast": "https://session.getrepresent.com/.appcast.xml"
+    "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml"
   },
   {
     "title": "sketch-retain-text-color",
