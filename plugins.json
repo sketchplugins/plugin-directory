@@ -5840,10 +5840,10 @@
     "title": "Keygaroo",
     "description": "Keygaroo helps you learn keyboard shortcuts for the actions you use the most.",
     "name": "Keygaroo",
-    "owner": "IxCO",
-    "appcast": "https://keygaroo.ixco.io/appcast.xml",
-    "homepage": "https://keygaroo.ixco.io/",
-    "author": "IxCO"
+    "owner": "I&CO",
+    "appcast": "https://keygaroo.iandco.com/appcast.xml",
+    "homepage": "https://keygaroo.iandco.com/",
+    "author": "I&CO"
   },
   {
     "title": "Context",
@@ -6018,7 +6018,7 @@
     "owner": "lpsBetty",
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
-    "appcast": "https://session.getrepresent.com/.appcast.xml"
+    "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml"
   },
   {
     "title": "sketch-retain-text-color",
@@ -6115,6 +6115,40 @@
     "owner": "ilikescience",
     "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
     "homepage": "https://github.com/ilikescience/orbison"
+  },
+  {
+    "title": "sketch-chat",
+    "description": "A Sketch plugin to chat in Sketch Cloud files",
+    "name": "sketch-chat",
+    "owner": "mathieudutour",
+    "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
+    "homepage": "https://github.com/mathieudutour/sketch-chat",
+    "author": "Mathieu Dutour"
+  },
+  {
+    "title": "Plugin List",
+    "description": "Sketch Plugin that gives you list of plugins you enabled as several text formats.",
+    "name": "PluginsList",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/PluginsList"
+  },
+  {
+    "title": "tin-drum",
+    "description": "",
+    "name": "tin-drum",
+    "owner": "VitskyDs",
+    "appcast": "https://raw.githubusercontent.com/VitskyDs/tin-drum/master/.appcast.xml",
+    "homepage": "https://github.com/VitskyDs/tin-drum"
+  },
+  {
+    "title": "cloudinary-plugin",
+    "description": "Cloudinary plugin for Sketch projects",
+    "name": "cloudinary-sketch-plugin",
+    "owner": "cloudinary-devs",
+    "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
+    "author": "Maya Shavin"
   },
   {
     "title": "symbol-finder",
