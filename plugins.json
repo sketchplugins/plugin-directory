@@ -6149,5 +6149,14 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin"
+  },
+  {
+    "title": "symbol-finder",
+    "description": "Finder-like interface for browsing and inserting local symbols in Sketch",
+    "name": "symbol-finder",
+    "owner": "afifkhaidir",
+    "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
+    "homepage": "https://github.com/afifkhaidir/symbol-finder",
+    "author": "afifkhaidir"
   }
 ]
