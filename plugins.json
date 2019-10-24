@@ -6115,5 +6115,14 @@
     "owner": "ilikescience",
     "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
     "homepage": "https://github.com/ilikescience/orbison"
+  },
+  {
+    "title": "symbol-finder",
+    "description": "Finder-like interface for browsing and inserting local symbols in Sketch",
+    "name": "symbol-finder",
+    "owner": "afifkhaidir",
+    "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
+    "homepage": "https://github.com/afifkhaidir/symbol-finder",
+    "author": "afifkhaidir"
   }
 ]
