@@ -5311,14 +5311,14 @@
     "lastUpdated": "2019-09-10 23:16:06 UTC"
   },
   {
-    "title": "rename-export",
-    "description": "Use this plugin to batch export layers with consistent filenames",
-    "name": "Batch-Export-Rename",
+    "title": "Flat Export",
+    "description": "Use this plugin to batch export layers to a single folder.",
+    "name": "Flat Export",
     "owner": "TheSonOfThomp",
-    "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/Batch-Export-Rename/master/.appcast.xml",
-    "homepage": "https://github.com/TheSonOfThomp/Batch-Export-Rename",
+    "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
+    "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2019-09-04 01:56:11 UTC"
+    "lastUpdated": "2019-10-29 20:33:00 UTC"
   },
   {
     "title": "Case Converter",
