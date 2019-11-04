@@ -6004,15 +6004,6 @@
     "lastUpdated": "2019-09-12 02:29:56 UTC"
   },
   {
-    "title": "Page Export",
-    "description": "A simple Sketch plugin for exporting page(s).",
-    "name": "sketch-page-export",
-    "owner": "charliecm",
-    "appcast": "https://raw.githubusercontent.com/charliecm/sketch-page-export/master/appcast.xml",
-    "homepage": "https://github.com/charliecm/sketch-page-export",
-    "author": "Charlie Chao"
-  },
-  {
     "title": "Auto Arrange Artboards",
     "description": "Automatically arrange the order of your artboards in the layer list according to their position on the canvas.",
     "author": "Saurabh Singh",
@@ -6176,5 +6167,14 @@
     "appcast": "https://raw.githubusercontent.com/pixelworm/pixelworm-sketch-plugin-publish/master/.appcast.xml",
     "homepage": "https://github.com/pixelworm/pixelworm-sketch-plugin-publish",
     "author": "Pixelworm"
+  },
+  {
+    "title": "Sketch Snap",
+    "description": "A Sketch plugin that lets you snap layers below, above, left of or right of selected layer to one of its edges.",
+    "name": "sketch-snap",
+    "owner": "charliecm",
+    "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/appcast.xml",
+    "homepage": "https://github.com/charliecm/sketch-snap",
+    "author": "Charlie Chao"
   }
 ]
