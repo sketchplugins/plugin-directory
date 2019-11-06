@@ -1,5 +1,13 @@
 [
   {
+    "owner": "Sympli",
+    "name": "Versions",
+    "title": "Versions",
+    "description": "Version control and collaboration for Sketch.",
+    "author": "Sympli",
+    "homepage": "https://versions.sympli.io/"
+  },
+  {
     "title": "Atlassian Vendor Sketch Plugin",
     "description": "Design your next Atlassian app with our component libraries and suite of Sketch tools 💎",
     "name": "Atlassian Vendor Sketch Plugin",
