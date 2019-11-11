@@ -6175,5 +6175,14 @@
     "appcast": "https://raw.githubusercontent.com/pixelworm/pixelworm-sketch-plugin-publish/master/.appcast.xml",
     "homepage": "https://github.com/pixelworm/pixelworm-sketch-plugin-publish",
     "author": "Pixelworm"
+  },
+  {
+    "title": "Sketch Snap",
+    "description": "A Sketch plugin that lets you snap layers below, above, left of or right of selected layer to one of its edges.",
+    "name": "sketch-snap",
+    "owner": "charliecm",
+    "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/appcast.xml",
+    "homepage": "https://github.com/charliecm/sketch-snap",
+    "author": "Charlie Chao"
   }
 ]
