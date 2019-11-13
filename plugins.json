@@ -6184,5 +6184,14 @@
     "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/appcast.xml",
     "homepage": "https://github.com/charliecm/sketch-snap",
     "author": "Charlie Chao"
+  },
+  {
+    "title": "Dad Jokes",
+    "description": "Replace your text with dad jokes.",
+    "name": "sketch-dadjokes",
+    "owner": "domhabersack",
+    "appcast": "https://raw.githubusercontent.com/domhabersack/sketch-dadjokes/master/.appcast.xml",
+    "homepage": "https://github.com/domhabersack/sketch-dadjokes",
+    "author": "Dom Habersack"
   }
 ]
