@@ -6202,5 +6202,14 @@
     "appcast": "https://github.com/vjandrei/design-tokens/blob/master/.appcast.xml",
     "homepage": "https://github.com/vjandrei/design-tokens",
     "author": "Andreas Koutsoukos"
+  },
+  {
+    "title": "tb-colorpool",
+    "description": "This is read color pool name plugin only for tieba UE & RD",
+    "name": "tb_colorpool_plugin",
+    "owner": "YanShby",
+    "appcast": "https://raw.githubusercontent.com/YanShby/tb_colorpool_plugin/master/.appcast.xml",
+    "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
+    "author": "Shen,Yan"
   }
 ]
