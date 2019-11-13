@@ -28,14 +28,14 @@
     "lastUpdated": "2019-07-08 22:53:00 UTC"
   },
   {
-    "title": "PhraseApp Sketch Plugin",
-    "description": "Sync your design content from Sketch with PhraseApp",
-    "name": "PhraseApp Sketch Plugin",
-    "owner": "PhraseApp",
-    "author": "PhraseApp",
-    "homepage": "https://phraseapp.com/sketch",
+    "title": "Phrase Sketch Plugin",
+    "description": "Sync your design content from Sketch with Phrase",
+    "name": "Phrase Sketch Plugin",
+    "owner": "Phrase",
+    "author": "Phrase",
+    "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2019-06-20 13:00:00 UTC"
+    "lastUpdated": "2019-10-31 11:50:00 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
