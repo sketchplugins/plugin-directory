@@ -6193,5 +6193,14 @@
     "appcast": "https://raw.githubusercontent.com/domhabersack/sketch-dadjokes/master/.appcast.xml",
     "homepage": "https://github.com/domhabersack/sketch-dadjokes",
     "author": "Dom Habersack"
+  },
+  {
+    "title": "Desingn tokens",
+    "description": "A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.",
+    "name": "design-tokens",
+    "owner": "vjandrei",
+    "appcast": "https://github.com/vjandrei/design-tokens/blob/master/.appcast.xml",
+    "homepage": "https://github.com/vjandrei/design-tokens",
+    "author": "Andreas Koutsoukos"
   }
 ]
