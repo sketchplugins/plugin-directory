@@ -6184,5 +6184,14 @@
     "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/appcast.xml",
     "homepage": "https://github.com/charliecm/sketch-snap",
     "author": "Charlie Chao"
+  },
+  {
+    "title": "tb-colorpool",
+    "description": "This is read color pool name plugin only for tieba UE & RD",
+    "name": "tb_colorpool_plugin",
+    "owner": "YanShby",
+    "appcast": "https://raw.githubusercontent.com/YanShby/tb_colorpool_plugin/master/.appcast.xml",
+    "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
+    "author": "Shen,Yan"
   }
 ]
