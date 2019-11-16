@@ -1,6 +1,9 @@
 name: Update README
 
-on: [push]
+on:
+  push:
+    paths-ignore:
+    - 'README.md'
 
 jobs:
   build:
@@ -16,3 +19,5 @@ jobs:
     - name: Update README
       run: |
         rake readme
+        git add README.md
+        git commit -m "Updated README"
