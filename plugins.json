@@ -6211,5 +6211,14 @@
     "appcast": "https://raw.githubusercontent.com/YanShby/tb_colorpool_plugin/master/.appcast.xml",
     "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
     "author": "Shen,Yan"
+  },
+  {
+    "title": "sketch-flow",
+    "description": "Make Icon Slicing simple for app developers!",
+    "name": "Sketch-Flow",
+    "owner": "hite",
+    "appcast": "https://raw.githubusercontent.com/hite/Sketch-Flow/master/.appcast.xml",
+    "homepage": "https://github.com/hite/Sketch-Flow",
+    "author": "hite"
   }
 ]
