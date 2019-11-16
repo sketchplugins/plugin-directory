@@ -90,7 +90,7 @@ EOF
 
     if is_plugin_too_old? plugin
       puts "#{title} is too old, lastUpdated: #{plugin['lastUpdated']}"
-      nextg
+      next
     end
 
     if plugin['hidden'] == true
