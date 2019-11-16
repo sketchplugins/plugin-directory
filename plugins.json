@@ -6195,7 +6195,7 @@
     "author": "Dom Habersack"
   },
   {
-    "title": "Desingn tokens",
+    "title": "Design Tokens",
     "description": "A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.",
     "name": "design-tokens",
     "owner": "vjandrei",
