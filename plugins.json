@@ -1,5 +1,15 @@
 [
   {
+    "owner": "Matthew Talebi",
+    "author": "Matthew Talebi",
+    "name": "Sketch-Design-systems-validator",
+    "title": "Design System Validator",
+    "description": "Check consistency of text layers.",
+    "homepage": "https://github.com/JarOfCookies/Sketch-Design-systems-validator",
+    "appcast": "https://github.com/JarOfCookies/Sketch-Design-systems-validator/blob/master/appcast.xml",
+    "lastUpdated": "2019-11-18 00:00:00 UTC"
+  },
+  {
     "owner": "Sympli",
     "name": "Versions",
     "title": "Versions",
