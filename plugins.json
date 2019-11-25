@@ -6230,5 +6230,13 @@
     "appcast": "https://raw.githubusercontent.com/hite/Sketch-Flow/master/.appcast.xml",
     "homepage": "https://github.com/hite/Sketch-Flow",
     "author": "hite"
+  },
+  {
+    "title": "Metaball",
+    "description": "A simple plugin to draw shapes based on inner and outer tangents between two circles.",
+    "name": "sketch-plugin-metaball",
+    "owner": "mheesakkers",
+    "appcast": "https://raw.githubusercontent.com/mheesakkers/sketch-plugin-metaball/master/.appcast.xml",
+    "homepage": "https://github.com/mheesakkers/sketch-plugin-metaball"
   }
 ]
