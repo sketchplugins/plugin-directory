@@ -6238,5 +6238,14 @@
     "owner": "mheesakkers",
     "appcast": "https://raw.githubusercontent.com/mheesakkers/sketch-plugin-metaball/master/.appcast.xml",
     "homepage": "https://github.com/mheesakkers/sketch-plugin-metaball"
+  },
+  {
+    "title": "Magic-Aligner",
+    "description": "Align objects by their centers of mass",
+    "name": "Magic-Aligner",
+    "owner": "HugoLis",
+    "appcast": "https://raw.githubusercontent.com/HugoLis/Magic-Aligner/master/.appcast.xml",
+    "homepage": "https://github.com/HugoLis/Magic-Aligner",
+    "author": "Hugo Lispector"
   }
 ]
