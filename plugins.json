@@ -2215,8 +2215,10 @@
     "description": "Convert your Sketch drawings into Swift or Objective-C",
     "title": "PaintCode Code Generator",
     "author": "PixelCut",
+    "owner": "PixelCut",
     "homepage": "https://www.paintcodeapp.com/sketch",
-    "lastUpdated": "2018-04-23 14:56:01 UTC"
+    "appcast": "https://www.pixelcut.com/paintcode-sketch/appcast.xml",
+    "lastUpdated": "2019-11-28 16:04:03 UTC"
   },
   {
     "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
