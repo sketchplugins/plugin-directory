@@ -5936,13 +5936,13 @@
     "lastUpdated": "2019-08-14 05:43:01 UTC"
   },
   {
-    "title": "Visualeyes",
-    "description": "Generate attention heatmaps in seconds",
+    "title": "VisualEyes",
+    "description": "Your professional AI design assistant.",
     "name": "sketch-visualeyes",
     "owner": "loceye",
     "appcast": "https://raw.githubusercontent.com/loceye/sketch-visualeyes/master/.appcast.xml",
     "homepage": "https://github.com/loceye/sketch-visualeyes",
-    "author": "konsalex & dmraptis",
+    "author": "Loceye",
     "lastUpdated": "2019-08-20 12:04:28 UTC"
   },
   {
