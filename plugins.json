@@ -6247,5 +6247,15 @@
     "appcast": "https://raw.githubusercontent.com/HugoLis/Magic-Aligner/master/.appcast.xml",
     "homepage": "https://github.com/HugoLis/Magic-Aligner",
     "author": "Hugo Lispector"
+  },
+  {
+    "title": "Crowdin for Sketch",
+    "description": "Localize the UI before programming starts. Translate and preview any design with ease",
+    "name": "sketch-crowdin",
+    "owner": "Crowdin",
+    "author": "Crowdin",
+    "homepage": "https://github.com/crowdin/sketch-crowdin",
+    "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
+    "lastUpdated": "2019-11-27 17:31:00 UTC"
   }
 ]
