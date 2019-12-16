@@ -113,6 +113,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Custom Zoom](https://github.com/alexkaessner/custom-zoom-sketch), by Alexander Käßner: Zoom your document to a custom zoom level.
 - [Dad Jokes](https://github.com/domhabersack/sketch-dadjokes), by Dom Habersack: Replace your text with dad jokes.
 - [Dapollo](https://www.yuque.com/dapollo/group/welcome), by Alipay Design: Design and Development Platform(一站式设计开发工作台)
+- [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Datazier Lens](https://github.com/enriquezgomez/datazier-lens), by Victor Enriquez: Inspect and sort your local font book
 - [davinci_vip](https://github.com/dvcdv/dvc_sketch_plugin), by D2C: dvc
 - [DeepSelect](https://github.com/fhuel/DeepSelect), by fhuel: A quick and easy way to select layers inside a group, filtering by layer type
@@ -340,7 +341,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Shared Style Finder](https://github.com/sonburn/shared-style-finder), by Jason Burns: Find instances of a shared layer or text style.
 - [Shared Styles Hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy), by Mathieu Dutour: Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.
 - [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles), by Nils Hoenson: Easily import and export your Text Styles in Sketch.
-- [Shutterstock](https://www.shutterstock.com/explore/shutterstock-sketch-plugin), by Shutterstock, Inc.: Access Shutterstock's stunning images without leaving your workspace.
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch a Sketch](https://github.com/mathieudutour/sketch-a-sketch), by Mathieu Dutour: Bringing the iconic knobs from the famous toy to Sketch.
 - [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
@@ -363,7 +363,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
 - [Sketch Duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol), by Mike Mariano: Sketch plugin that creates a new symbol out of a selected symbol
-- [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
 - [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
 - [Sketch Export Text](https://github.com/exevil/sketch-export-text), by Vyacheslav Dubovitsky: Helps you to save all text data on current page in customizable format and filter the excess.
 - [Sketch Find All Instances of Symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol), by Logan McAnsh: Find all instances of a symbol in Sketch
@@ -1078,5 +1077,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Grid Master](https://github.com/exevil/sketch-grid-master), by Vyacheslav Dubovitsky: Grid Master is a Sketch plugin that fixes long-standing bugs and adds new functionaity related on work with Grid and Layout.
 - [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
 - [Plant](https://plantapp.io), by Plant: Version control for designers
-- [Shutterstock](https://www.shutterstock.com/explore/shutterstock-sketch-plugin), by Shutterstock, Inc.: Access Shutterstock's stunning images without leaving your workspace.
-- [Sketch Exchanger](https://github.com/littlebusters/sketch-exchanger), by littlebusters: Convert from Sketch to JSON w/assets and JSON w/assets to Sketch.
