@@ -6268,5 +6268,13 @@
     "author": "Yana Gevorgyan",
     "appcast": "https://raw.githubusercontent.com/ygev/cluse/master/appcast.xml",
     "homepage": "https://cluse.cc"
+  },
+  {
+    "title": "data-from-clipboard",
+    "description": "A DataSupplier plugin",
+    "name": "data-from-clipboard",
+    "owner": "Saint-loup",
+    "appcast": "https://raw.githubusercontent.com/Saint-loup/data-from-clipboard/master/.appcast.xml",
+    "homepage": "https://github.com/Saint-loup/data-from-clipboard"
   }
 ]
