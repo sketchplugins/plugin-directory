@@ -6276,5 +6276,14 @@
     "owner": "Saint-loup",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/data-from-clipboard/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/data-from-clipboard"
+  },
+  {
+    "title": "Harmonic Modular Scale",
+    "description": "文字サイズと行の高さの値を規則に基づいて設定するためのSketchプラグイン。",
+    "name": "Harmonic-Modular-Scale-for-Sketch",
+    "owner": "ShiftbrainStd",
+    "appcast": "https://raw.githubusercontent.com/ShiftbrainStd/Harmonic-Modular-Scale-for-Sketch/master/.appcast.xml",
+    "homepage": "https://github.com/ShiftbrainStd/Harmonic-Modular-Scale-for-Sketch",
+    "author": "Yuhei Yasuda"
   }
 ]
