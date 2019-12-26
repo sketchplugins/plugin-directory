@@ -6285,5 +6285,14 @@
     "appcast": "https://raw.githubusercontent.com/vectary/vectary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/vectary/vectary-sketch-plugin",
     "author": "Vectary"
+  },
+  {
+    "title": "Tinty",
+    "description": "Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.\n",
+    "name": "tinty",
+    "owner": "chewbecky",
+    "appcast": "https://raw.githubusercontent.com/chewbecky/tinty/master/.appcast.xml",
+    "homepage": "https://github.com/chewbecky/tinty",
+    "author": "chewbecca"
   }
 ]
