@@ -2,6 +2,8 @@ name: Update README
 
 on:
   push:
+    branches:
+    - master
     paths-ignore:
     - 'README.md'
 
