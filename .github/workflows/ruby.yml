@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  push:
+    branches:
+    - master
+    paths-ignore:
+    - 'README.md'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Update README
+      run: rake readme
+    - name: push
+      uses: github-actions-x/commit@v2.3
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'Update README'
+        files: README.md
+        name: Sketch Developer
+        email: developer@sketch.com 
