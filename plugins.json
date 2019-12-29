@@ -1,5 +1,15 @@
 [
   {
+    "owner": "Matthew Talebi",
+    "author": "Matthew Talebi",
+    "name": "Sketch-Design-systems-validator",
+    "title": "Design System Validator",
+    "description": "Check consistency of text layers.",
+    "homepage": "https://github.com/JarOfCookies/Sketch-Design-systems-validator",
+    "appcast": "https://github.com/JarOfCookies/Sketch-Design-systems-validator/blob/master/appcast.xml",
+    "lastUpdated": "2019-11-18 00:00:00 UTC"
+  },
+  {
     "owner": "Sympli",
     "name": "Versions",
     "title": "Versions",
@@ -2205,8 +2215,10 @@
     "description": "Convert your Sketch drawings into Swift or Objective-C",
     "title": "PaintCode Code Generator",
     "author": "PixelCut",
+    "owner": "PixelCut",
     "homepage": "https://www.paintcodeapp.com/sketch",
-    "lastUpdated": "2018-04-23 14:56:01 UTC"
+    "appcast": "https://www.pixelcut.com/paintcode-sketch/appcast.xml",
+    "lastUpdated": "2019-11-28 16:04:03 UTC"
   },
   {
     "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
@@ -5924,13 +5936,13 @@
     "lastUpdated": "2019-08-14 05:43:01 UTC"
   },
   {
-    "title": "Visualeyes",
-    "description": "Generate attention heatmaps in seconds",
+    "title": "VisualEyes",
+    "description": "Your professional AI design assistant.",
     "name": "sketch-visualeyes",
     "owner": "loceye",
     "appcast": "https://raw.githubusercontent.com/loceye/sketch-visualeyes/master/.appcast.xml",
     "homepage": "https://github.com/loceye/sketch-visualeyes",
-    "author": "konsalex & dmraptis",
+    "author": "Loceye",
     "lastUpdated": "2019-08-20 12:04:28 UTC"
   },
   {
@@ -6220,5 +6232,75 @@
     "appcast": "https://raw.githubusercontent.com/hite/Sketch-Flow/master/.appcast.xml",
     "homepage": "https://github.com/hite/Sketch-Flow",
     "author": "hite"
+  },
+  {
+    "title": "Metaball",
+    "description": "A simple plugin to draw shapes based on inner and outer tangents between two circles.",
+    "name": "sketch-plugin-metaball",
+    "owner": "mheesakkers",
+    "appcast": "https://raw.githubusercontent.com/mheesakkers/sketch-plugin-metaball/master/.appcast.xml",
+    "homepage": "https://github.com/mheesakkers/sketch-plugin-metaball"
+  },
+  {
+    "title": "Magic-Aligner",
+    "description": "Align objects by their centers of mass",
+    "name": "Magic-Aligner",
+    "owner": "HugoLis",
+    "appcast": "https://raw.githubusercontent.com/HugoLis/Magic-Aligner/master/.appcast.xml",
+    "homepage": "https://github.com/HugoLis/Magic-Aligner",
+    "author": "Hugo Lispector"
+  },
+  {
+    "title": "Crowdin for Sketch",
+    "description": "Localize the UI before programming starts. Translate and preview any design with ease",
+    "name": "sketch-crowdin",
+    "owner": "Crowdin",
+    "author": "Crowdin",
+    "homepage": "https://github.com/crowdin/sketch-crowdin",
+    "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
+    "lastUpdated": "2019-11-27 17:31:00 UTC"
+  },
+  {
+    "title": "Cluse",
+    "description": "A Sketch plugin to check color contrast for web accessibility based on WCAG 2.0. Fitting seamlessly into your team's workflow, Cluse allows you to remotely change your design and see the updated WCAG score live.",
+    "name": "cluse",
+    "owner": "ygev",
+    "author": "Yana Gevorgyan",
+    "appcast": "https://raw.githubusercontent.com/ygev/cluse/master/appcast.xml",
+    "homepage": "https://cluse.cc"
+  },
+  {
+    "title": "data-from-clipboard",
+    "description": "A DataSupplier plugin",
+    "name": "data-from-clipboard",
+    "owner": "Saint-loup",
+    "appcast": "https://raw.githubusercontent.com/Saint-loup/data-from-clipboard/master/.appcast.xml",
+    "homepage": "https://github.com/Saint-loup/data-from-clipboard"
+  },
+  {
+    "title": "vectary",
+    "description": "Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.",
+    "name": "vectary-sketch-plugin",
+    "owner": "vectary-dev",
+    "appcast": "https://raw.githubusercontent.com/vectary/vectary-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/vectary/vectary-sketch-plugin",
+    "author": "Vectary"
+  },
+  {
+    "title": "Tinty",
+    "description": "Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.\n",
+    "name": "tinty",
+    "owner": "chewbecky",
+    "appcast": "https://raw.githubusercontent.com/chewbecky/tinty/master/.appcast.xml",
+    "homepage": "https://github.com/chewbecky/tinty",
+    "author": "chewbecca"
+  },
+  {
+    "title": "🖼 unDraw.co Illustrations for Sketch",
+    "name": "sketch-undraw",
+    "owner": "martingalovic",
+    "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
+    "homepage": "https://github.com/martingalovic/sketch-undraw",
+    "author": "Martin Galovic"
   }
 ]
