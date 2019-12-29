@@ -6137,7 +6137,7 @@
     "homepage": "https://github.com/ilikescience/orbison"
   },
   {
-    "title": "sketch-chat",
+    "title": "Sketch Chat",
     "description": "A Sketch plugin to chat in Sketch Cloud files",
     "name": "sketch-chat",
     "owner": "mathieudutour",
@@ -6154,7 +6154,7 @@
     "homepage": "https://github.com/griffin-stewie/PluginsList"
   },
   {
-    "title": "tin-drum",
+    "title": "Tin Drum",
     "description": "",
     "name": "tin-drum",
     "owner": "VitskyDs",
@@ -6162,7 +6162,7 @@
     "homepage": "https://github.com/VitskyDs/tin-drum"
   },
   {
-    "title": "cloudinary-plugin",
+    "title": "Cloudinary Plugin",
     "description": "Cloudinary plugin for Sketch projects",
     "name": "cloudinary-sketch-plugin",
     "owner": "cloudinary-devs",
@@ -6171,7 +6171,7 @@
     "author": "Maya Shavin"
   },
   {
-    "title": "symbol-finder",
+    "title": "Symbol Finder",
     "description": "Finder-like interface for browsing and inserting local symbols in Sketch",
     "name": "symbol-finder",
     "owner": "afifkhaidir",
@@ -6225,7 +6225,7 @@
     "author": "Shen,Yan"
   },
   {
-    "title": "sketch-flow",
+    "title": "Sketch Flow",
     "description": "Make Icon Slicing simple for app developers!",
     "name": "Sketch-Flow",
     "owner": "hite",
@@ -6242,7 +6242,7 @@
     "homepage": "https://github.com/mheesakkers/sketch-plugin-metaball"
   },
   {
-    "title": "Magic-Aligner",
+    "title": "Magic Aligner",
     "description": "Align objects by their centers of mass",
     "name": "Magic-Aligner",
     "owner": "HugoLis",
@@ -6270,7 +6270,7 @@
     "homepage": "https://cluse.cc"
   },
   {
-    "title": "data-from-clipboard",
+    "title": "Data from Clipboard",
     "description": "A DataSupplier plugin",
     "name": "data-from-clipboard",
     "owner": "Saint-loup",
@@ -6278,7 +6278,7 @@
     "homepage": "https://github.com/Saint-loup/data-from-clipboard"
   },
   {
-    "title": "vectary",
+    "title": "Vectary",
     "description": "Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.",
     "name": "vectary-sketch-plugin",
     "owner": "vectary-dev",
