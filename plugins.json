@@ -6285,5 +6285,13 @@
     "appcast": "https://raw.githubusercontent.com/vectary/vectary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/vectary/vectary-sketch-plugin",
     "author": "Vectary"
+  },
+  {
+    "title": "🖼 unDraw.co Illustrations for Sketch",
+    "name": "sketch-undraw",
+    "owner": "martingalovic",
+    "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
+    "homepage": "https://github.com/martingalovic/sketch-undraw",
+    "author": "Martin Galovic"
   }
 ]
