@@ -17,7 +17,12 @@ jobs:
       with:
         ruby-version: 2.6.x
     - name: Update README
-      run: |
-        rake readme
-        git add README.md
-        git commit -m "Updated README"
+      run: rake readme
+    - name: push
+      uses: github-actions-x/commit@v2.3
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'Update README'
+        files: README.md
+        name: Sketch Developer
+        email: developer@sketch.com 
