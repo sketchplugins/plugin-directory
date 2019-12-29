@@ -6287,6 +6287,15 @@
     "author": "Vectary"
   },
   {
+    "title": "Tinty",
+    "description": "Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.\n",
+    "name": "tinty",
+    "owner": "chewbecky",
+    "appcast": "https://raw.githubusercontent.com/chewbecky/tinty/master/.appcast.xml",
+    "homepage": "https://github.com/chewbecky/tinty",
+    "author": "chewbecca"
+  },
+  {
     "title": "🖼 unDraw.co Illustrations for Sketch",
     "name": "sketch-undraw",
     "owner": "martingalovic",
