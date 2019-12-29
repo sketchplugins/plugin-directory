@@ -25,6 +25,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update README'
+        rebase: true
         files: README.md
         name: Sketch Developer
         email: developer@sketch.com 
