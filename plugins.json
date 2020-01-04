@@ -6302,5 +6302,14 @@
     "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
     "homepage": "https://github.com/martingalovic/sketch-undraw",
     "author": "Martin Galovic"
+  },
+  {
+    "title": "paste-paddings",
+    "description": "Allows you to copy the paddings of one element and apply them to another",
+    "name": "pastePaddings",
+    "owner": "simonlidesign",
+    "appcast": "https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/.appcast.xml",
+    "homepage": "https://github.com/simonlidesign/pastePaddings",
+    "author": "simonlidesign"
   }
 ]
