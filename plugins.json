@@ -6302,5 +6302,13 @@
     "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
     "homepage": "https://github.com/martingalovic/sketch-undraw",
     "author": "Martin Galovic"
+  },
+  {
+    "title": "sketch-color-manager",
+    "description": "Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties",
+    "name": "sketch-color-manager",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/sketch-color-manager/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/sketch-color-manager"
   }
 ]
