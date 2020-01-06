@@ -6302,5 +6302,14 @@
     "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
     "homepage": "https://github.com/martingalovic/sketch-undraw",
     "author": "Martin Galovic"
+  },
+  {
+    "title": "Inter Letter Spacing",
+    "description": "Sketch plugin that dynamically sets letter spacing of layers using the Inter font.",
+    "name": "sketch-inter-letter-spacing",
+    "owner": "giliamverheide",
+    "appcast": "https://raw.githubusercontent.com/giliamverheide/sketch-inter-letter-spacing/master/.appcast.xml",
+    "homepage": "https://github.com/giliamverheide/sketch-inter-letter-spacing",
+    "author": "Giliam Verheide"
   }
 ]
