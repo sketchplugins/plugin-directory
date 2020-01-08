@@ -6302,5 +6302,14 @@
     "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
     "homepage": "https://github.com/martingalovic/sketch-undraw",
     "author": "Martin Galovic"
+  },
+  {
+    "title": "Twilio Ipsum",
+    "description": "A realistic fake data populator for Sketch.",
+    "name": "sketch-twilio-ipsum",
+    "owner": "twilio-labs",
+    "appcast": "https://raw.githubusercontent.com/twilio-labs/sketch-twilio-ipsum/master/.appcast.xml",
+    "homepage": "https://github.com/twilio-labs/sketch-twilio-ipsum",
+    "author": "Paste"
   }
 ]
