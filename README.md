@@ -270,6 +270,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
+- [Paste Paddings](https://github.com/simonlidesign/pastePaddings), by simonlidesign: Allows you to copy the paddings of one element and apply them to another
 - [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [PersianSupplier](https://github.com/hiradarshadi/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Photo Grid](https://github.com/perrysmotors/photo-grid), by Giles Perry: A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.
