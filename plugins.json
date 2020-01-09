@@ -6311,5 +6311,21 @@
     "appcast": "https://raw.githubusercontent.com/giliamverheide/sketch-inter-letter-spacing/master/.appcast.xml",
     "homepage": "https://github.com/giliamverheide/sketch-inter-letter-spacing",
     "author": "Giliam Verheide"
+  },
+    "title": "export-king-plugin",
+    "description": "A Sketch Plugin that provides exporting for any scenario",
+    "name": "export-king-plugin",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/export-king-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/export-king-plugin"
+  },
+  {
+    "title": "Helpify",
+    "description": "Plugin with simple actions: Generate random numbers",
+    "name": "helpify",
+    "owner": "Luckyfoxdesign",
+    "appcast": "https://raw.githubusercontent.com/Luckyfoxdesign/helpify/master/.appcast.xml",
+    "homepage": "https://github.com/Luckyfoxdesign/helpify",
+    "author": "Lucky Fox Design"
   }
 ]
