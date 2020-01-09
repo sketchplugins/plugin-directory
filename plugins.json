@@ -6319,5 +6319,13 @@
     "appcast": "https://raw.githubusercontent.com/Luckyfoxdesign/helpify/master/.appcast.xml",
     "homepage": "https://github.com/Luckyfoxdesign/helpify",
     "author": "Lucky Fox Design"
+  },
+  {
+    "title": "sketch-color-manager",
+    "description": "Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties",
+    "name": "sketch-color-manager",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/sketch-color-manager/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/sketch-color-manager"
   }
 ]
