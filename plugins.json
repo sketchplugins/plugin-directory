@@ -6304,6 +6304,15 @@
     "author": "Martin Galovic"
   },
   {
+    "title": "Inter Letter Spacing",
+    "description": "Sketch plugin that dynamically sets letter spacing of layers using the Inter font.",
+    "name": "sketch-inter-letter-spacing",
+    "owner": "giliamverheide",
+    "appcast": "https://raw.githubusercontent.com/giliamverheide/sketch-inter-letter-spacing/master/.appcast.xml",
+    "homepage": "https://github.com/giliamverheide/sketch-inter-letter-spacing",
+    "author": "Giliam Verheide"
+  },
+  {
     "title": "export-king-plugin",
     "description": "A Sketch Plugin that provides exporting for any scenario",
     "name": "export-king-plugin",
