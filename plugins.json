@@ -6310,5 +6310,14 @@
     "owner": "hecflores",
     "appcast": "https://raw.githubusercontent.com/hecflores/export-king-plugin/master/.appcast.xml",
     "homepage": "https://github.com/hecflores/export-king-plugin"
+  },
+  {
+    "title": "Helpify",
+    "description": "Plugin with simple actions: Generate random numbers",
+    "name": "helpify",
+    "owner": "Luckyfoxdesign",
+    "appcast": "https://raw.githubusercontent.com/Luckyfoxdesign/helpify/master/.appcast.xml",
+    "homepage": "https://github.com/Luckyfoxdesign/helpify",
+    "author": "Lucky Fox Design"
   }
 ]
