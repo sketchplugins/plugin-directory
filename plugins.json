@@ -6304,6 +6304,14 @@
     "author": "Martin Galovic"
   },
   {
+    "title": "export-king-plugin",
+    "description": "A Sketch Plugin that provides exporting for any scenario",
+    "name": "export-king-plugin",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/export-king-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/export-king-plugin"
+  },
+  {
     "title": "Helpify",
     "description": "Plugin with simple actions: Generate random numbers",
     "name": "helpify",
