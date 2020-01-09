@@ -6302,5 +6302,13 @@
     "appcast": "https://raw.githubusercontent.com/martingalovic/sketch-undraw/master/.appcast.xml",
     "homepage": "https://github.com/martingalovic/sketch-undraw",
     "author": "Martin Galovic"
+  },
+  {
+    "title": "export-king-plugin",
+    "description": "A Sketch Plugin that provides exporting for any scenario",
+    "name": "export-king-plugin",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/export-king-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/export-king-plugin"
   }
 ]
