@@ -6304,6 +6304,40 @@
     "author": "Martin Galovic"
   },
   {
+    "title": "export-king-plugin",
+    "description": "A Sketch Plugin that provides exporting for any scenario",
+    "name": "export-king-plugin",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/export-king-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/export-king-plugin"
+  },
+  {
+    "title": "Helpify",
+    "description": "Plugin with simple actions: Generate random numbers",
+    "name": "helpify",
+    "owner": "Luckyfoxdesign",
+    "appcast": "https://raw.githubusercontent.com/Luckyfoxdesign/helpify/master/.appcast.xml",
+    "homepage": "https://github.com/Luckyfoxdesign/helpify",
+    "author": "Lucky Fox Design"
+  },
+  {
+    "title": "sketch-color-manager",
+    "description": "Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties",
+    "name": "sketch-color-manager",
+    "owner": "hecflores",
+    "appcast": "https://raw.githubusercontent.com/hecflores/sketch-color-manager/master/.appcast.xml",
+    "homepage": "https://github.com/hecflores/sketch-color-manager"
+  },
+  {
+    "title": "paste-paddings",
+    "description": "Allows you to copy the paddings of one element and apply them to another",
+    "name": "pastePaddings",
+    "owner": "simonlidesign",
+    "appcast": "https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/.appcast.xml",
+    "homepage": "https://github.com/simonlidesign/pastePaddings",
+    "author": "simonlidesign"
+  },
+  {
     "title": "Twilio Ipsum",
     "description": "A realistic fake data populator for Sketch.",
     "name": "sketch-twilio-ipsum",
