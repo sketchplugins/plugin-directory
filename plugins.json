@@ -6354,5 +6354,14 @@
     "appcast": "https://raw.githubusercontent.com/twilio-labs/sketch-twilio-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/twilio-labs/sketch-twilio-ipsum",
     "author": "Paste"
+  },
+  {
+    "title": "paste-to-fill",
+    "description": "Paste your image from clipboard, to fill layer.",
+    "name": "sketch-paste-to-fill",
+    "owner": "tgfjt",
+    "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-paste-to-fill/master/.appcast.xml",
+    "homepage": "https://github.com/tgfjt/sketch-paste-to-fill#readme",
+    "author": "tgfjt"
   }
 ]
