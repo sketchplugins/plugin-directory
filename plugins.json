@@ -1,5 +1,14 @@
 [
   {
+    "owner": "XD2Sketch",
+    "name": "XD2Sketch",
+    "title": "XD2Sketch Converter",
+    "description": "Convert and import XD files in Sketch with one click.",
+    "author": "XD2Sketch",
+    "homepage": "https://xd2sketch.com/",
+    "lastUpdated": "2020-01-10 15:57:00 UTC"
+  },
+  {
     "owner": "Matthew Talebi",
     "author": "Matthew Talebi",
     "name": "Sketch-Design-systems-validator",
