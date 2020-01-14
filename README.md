@@ -553,6 +553,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [WeTransfer](https://github.com/wetransfer/sketch-plugin), by WeTransfer: Share artboards and pages via WeTransfer
 - [Whale Kit](https://github.com/jingwhale/whale-kit), by jingwhale:
 - [WtDesign](https://github.com/wantedly/sketch-wt-design), by Yoshinori Kawasaki: Sketch plugin for Wantedly Design System
+- [Xd2sketch Converter](https://xd2sketch.com/), by XD2Sketch: Convert and import XD files in Sketch with one click.
 - [Y Tools](https://github.com/yued-fe/y-tools), by yued-fe.TM: Sketch plugin tools yued-fe.TM
 - [Zen Sketch](https://github.com/francisvega/zen-sketch), by Francis Vega: A collection of Sketch plugins
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
@@ -568,6 +569,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Xd2sketch Converter](https://xd2sketch.com/), by XD2Sketch: Convert and import XD files in Sketch with one click.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Design System Validator](https://github.com/JarOfCookies/Sketch-Design-systems-validator), by Matthew Talebi: Check consistency of text layers.
