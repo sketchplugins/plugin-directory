@@ -6363,5 +6363,15 @@
     "appcast": "https://raw.githubusercontent.com/twilio-labs/sketch-twilio-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/twilio-labs/sketch-twilio-ipsum",
     "author": "Paste"
+  },
+  {
+    "title": "Decimal Number Generator",
+    "description": "Generate anbd override text fields with decimal number values and custom character content",
+    "name": "Decimal Number Generator",
+    "owner": "vaexperience",
+    "author": "vaexperience",
+    "homepage": "https://github.com/vaexperience/sketch-plugin-decimal-number-generator",
+    "appcast": "https://raw.githubusercontent.com/vaexperience/sketch-plugin-decimal-number-generator/master/.appcast.xml",
+    "lastUpdated": "2019-12-22 17:00:00 UTC"
   }
 ]
