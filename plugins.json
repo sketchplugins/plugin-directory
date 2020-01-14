@@ -6373,5 +6373,14 @@
     "homepage": "https://github.com/vaexperience/sketch-plugin-decimal-number-generator",
     "appcast": "https://raw.githubusercontent.com/vaexperience/sketch-plugin-decimal-number-generator/master/.appcast.xml",
     "lastUpdated": "2019-12-22 17:00:00 UTC"
+  },
+  {
+    "title": "paste-to-fill",
+    "description": "Paste your image from clipboard, to fill layer.",
+    "name": "sketch-paste-to-fill",
+    "owner": "tgfjt",
+    "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-paste-to-fill/master/.appcast.xml",
+    "homepage": "https://github.com/tgfjt/sketch-paste-to-fill#readme",
+    "author": "tgfjt"
   }
 ]
