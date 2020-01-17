@@ -6373,5 +6373,14 @@
     "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-paste-to-fill/master/.appcast.xml",
     "homepage": "https://github.com/tgfjt/sketch-paste-to-fill#readme",
     "author": "tgfjt"
+  },
+  {
+    "title": "sketch-export-presets",
+    "description": "Import and Save Sketch Export Preferences",
+    "name": "Sketch-Export-Presets",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/Sketch-Export-Presets/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/Sketch-Export-Presets",
+    "author": "Kevin Gutowski"
   }
 ]
