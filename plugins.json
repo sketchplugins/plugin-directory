@@ -6373,5 +6373,14 @@
     "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-paste-to-fill/master/.appcast.xml",
     "homepage": "https://github.com/tgfjt/sketch-paste-to-fill#readme",
     "author": "tgfjt"
+  },
+  {
+    "title": "copycat",
+    "description": "sketch plugin",
+    "name": "sketch-copycat",
+    "owner": "azhsetiawan",
+    "appcast": "https://raw.githubusercontent.com/azhsetiawan/sketch-copycat/master/.appcast.xml",
+    "homepage": "https://github.com/azhsetiawan/sketch-copycat",
+    "author": "Ashar Setiawan"
   }
 ]
