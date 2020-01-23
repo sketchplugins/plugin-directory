@@ -101,7 +101,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy as React Component (jsx)](https://github.com/jasondonnette/sketch-copy-as-react-component), by Jason Donnette: Generate a React components from Sketch with a keyboard shortcut
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
 - [Copy Paste Position & Size](https://github.com/angistudio/sketch-copy-paste-position-size), by ANGI studio: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
-- [Copy Swift Code](https://github.com/ngs/sketchplugin-swift-color), by Atsushi NAGASE: A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.
 - [Copy Paste Shadows](https://github.com/iarthstar/copy-paste-shadows), by iarthstar: Plugin to copy paste shadows across layers
 - [CopyColor](https://github.com/poyi/copycolor), by Poyi: Plugin that provides shortcut to copy layer fill color, border color, or text color to your clipboard for Sketch 4
 - [Cracker9 Sketch Plugin](https://github.com/Cracker9/cracker9-sketch-plugin), by Cracker9: cracker9 codesnippet sketch plugin
@@ -253,7 +252,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Notes](https://github.com/cshdllr/notes), by Jason Cashdollar: A sketch plugin for taking notes
 - [Nucleus](https://github.com/levtolstoi/Nucleus), by levtolstoi: Plugin for create Atomic Design concept in Sketch and export scss-map for front-end
 - [Nudge Corner Radius](https://github.com/dwilliames/nudge-corner-radius-sketch-plugin), by David Williames: Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts
-- [Nudge Resize](https://github.com/dwilliames/nudge-resize-sketch-plugin), by David Williames: Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
 - [Nudged](https://github.com/kevinwoodhouse/sketch-nudged), by Kevin Woodhouse: A Sketch plugin to easily edit your nudge distance settings.
 - [nudgefromrtl](https://github.com/KevinGutowski/NudgeRTL), by Kevin Gutowski: Quickly resize a layer horizontally from right to left with keyboard shortcuts
@@ -437,6 +435,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Camera Hotkeys](https://github.com/jayhxmo/sketch-camera-hotkeys), by Jay Mo: Navigate around and present more efficiently
 - [Sketch Color Manager](https://github.com/hecflores/sketch-color-manager), by hecflores: Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties
 - [Sketch Easing Gradients](https://github.com/larsenwork/sketch-easing-gradient), by larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
+- [Sketch Export Preferences](https://github.com/KevinGutowski/Sketch-Export-Preferences), by Kevin Gutowski: Import and Save Sketch Export Preferences
 - [Sketch Export to](https://github.com/mascardoso/sketch-export), by Marco Cardoso: Export an artboard layers to json or markdown
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Retain Text Color](https://github.com/johnmcclumpha/sketch-retain-text-color), by johnmcclumpha: Retain the original color of text layers when applying a Text Style.
@@ -1065,5 +1064,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboards Explorer](https://github.com/Hito01/artboards-explorer), by Nicolas Collard: Add utility functionnalities to Sketch's artboards
 - [Sketch User Flows](https://github.com/reqfire/sketch-user-flows), by reqfire: A Sketch Plug-in for importing/exporting user flow and interface definitions from Reqfire.
 - [Font Buddy](https://github.com/animaapp/fontbuddy), by Anima Team: Install missing fonts & free fonts directly from Sketch.
-- [Nudge Resize](https://github.com/dwilliames/nudge-resize-sketch-plugin), by David Williames: Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts
-- [Copy Swift Code](https://github.com/ngs/sketchplugin-swift-color), by Atsushi NAGASE: A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.
