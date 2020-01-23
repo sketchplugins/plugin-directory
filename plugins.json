@@ -6382,5 +6382,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Sketch-Export-Preferences/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Sketch-Export-Preferences",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "copycat",
+    "description": "sketch plugin",
+    "name": "sketch-copycat",
+    "owner": "azhsetiawan",
+    "appcast": "https://raw.githubusercontent.com/azhsetiawan/sketch-copycat/master/.appcast.xml",
+    "homepage": "https://github.com/azhsetiawan/sketch-copycat",
+    "author": "Ashar Setiawan"
   }
 ]
