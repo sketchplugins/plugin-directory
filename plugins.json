@@ -5994,8 +5994,8 @@
     "lastUpdated": "2019-08-27 11:37:58 UTC"
   },
   {
-    "title": "liveplanet-sketch-datasupplier",
-    "description": "Supply's real data from Live Planet's api to sketch for testing designs",
+    "title": "Live Planet Sketch DataSupplier",
+    "description": "Supply's real data from Live Planet's API to Sketch for testing designs",
     "name": "liveplanet-sketch-datasupplier",
     "owner": "Craigtut",
     "appcast": "https://raw.githubusercontent.com/Craigtut/liveplanet-sketch-datasupplier/master/.appcast.xml",
@@ -6041,7 +6041,7 @@
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml"
   },
   {
-    "title": "sketch-retain-text-color",
+    "title": "Sketch Retain Text Color",
     "description": "Retain the original color of text layers when applying a Text Style.",
     "name": "sketch-retain-text-color",
     "owner": "johnmcclumpha",
@@ -6118,7 +6118,7 @@
     "lastUpdated": "2019-10-09 02:11:40 UTC"
   },
   {
-    "title": "awesome-ipsums",
+    "title": "Awesome Ipsums",
     "description": "Generate ipsums from an external Google spreadsheet. Make these datas collaborative!",
     "name": "awesome-ipsums",
     "owner": "inVoltag",
@@ -6128,7 +6128,7 @@
     "lastUpdated": "2019-10-08 21:01:56 UTC"
   },
   {
-    "title": "sketch-pexels",
+    "title": "Sketch Pexels",
     "description": "A Pexels plugin for Sketch",
     "name": "pexels-sketchplugin",
     "owner": "pexels",
@@ -6234,7 +6234,7 @@
     "lastUpdated": "2020-01-20 06:27:15 UTC"
   },
   {
-    "title": "tb-colorpool",
+    "title": "🎨 Tieba ColorPool",
     "description": "This is read color pool name plugin only for tieba UE & RD",
     "name": "tb_colorpool_plugin",
     "owner": "YanShby",
@@ -6341,7 +6341,7 @@
     "lastUpdated": "2020-01-05 23:46:11 UTC"
   },
   {
-    "title": "export-king-plugin",
+    "title": "Export King Plugin",
     "description": "A Sketch Plugin that provides exporting for any scenario",
     "name": "export-king-plugin",
     "owner": "hecflores",
@@ -6360,7 +6360,7 @@
     "lastUpdated": "2020-01-02 20:16:26 UTC"
   },
   {
-    "title": "sketch-color-manager",
+    "title": "Sketch Color Manager",
     "description": "Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties",
     "name": "sketch-color-manager",
     "owner": "hecflores",
@@ -6369,7 +6369,7 @@
     "lastUpdated": "2020-01-06 15:41:59 UTC"
   },
   {
-    "title": "paste-paddings",
+    "title": "Paste Paddings",
     "description": "Allows you to copy the paddings of one element and apply them to another",
     "name": "pastePaddings",
     "owner": "simonlidesign",
@@ -6399,7 +6399,7 @@
     "lastUpdated": "2019-12-22 17:00:00 UTC"
   },
   {
-    "title": "paste-to-fill",
+    "title": "Paste to Fill",
     "description": "Paste your image from clipboard, to fill layer.",
     "name": "sketch-paste-to-fill",
     "owner": "tgfjt",
@@ -6409,7 +6409,7 @@
     "lastUpdated": "2020-01-23 08:49:28 UTC"
   },
   {
-    "title": "sketch-export-preferences",
+    "title": "Sketch Export Preferences",
     "description": "Import and Save Sketch Export Preferences",
     "name": "Sketch-Export-Preferences",
     "owner": "KevinGutowski",
