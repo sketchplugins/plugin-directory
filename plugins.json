@@ -6391,5 +6391,12 @@
     "appcast": "https://raw.githubusercontent.com/azhsetiawan/sketch-copycat/master/.appcast.xml",
     "homepage": "https://github.com/azhsetiawan/sketch-copycat",
     "author": "Ashar Setiawan"
+  },
+  {
+    "title": "sr-measure",
+    "name": "sketch-measure-react",
+    "owner": "endswithak",
+    "appcast": "https://raw.githubusercontent.com/endswithak/sketch-measure-react/master/.appcast.xml",
+    "homepage": "https://github.com/endswithak/sketch-measure-react"
   }
 ]
