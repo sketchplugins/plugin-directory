@@ -77,7 +77,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Chromatic Sketch](https://github.com/petterheterjag/chromatic-sketch), by Petter Nilsson: Create good-looking and perceptually uniform gradients and color scales.
 - [Cleanup Useless Groups](https://github.com/bomberstudios/cleanup-useless-groups), by Ale Muñoz: A Sketch plugin that cleans up your layer list by removing empty groups and flattening deeply nested groups.
 - [Clear Export Options](https://github.com/emrerussia/sketch-clear-export-options), by Emre C. Coskun (EMRECC): Clear export options for all elements on all pages in a Sketch file.
-- [Click Dummy](https://github.com/raureif/sketch-click-dummy), by Raureif: Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
 - [Clipboard Fill](https://github.com/scottsavarie/clipboard-fill), by Scott Savarie: Sketch plugin to paste an image from your clipboard as the fill for any shape
 - [Cloudinary Plugin](https://github.com/cloudinary-devs/cloudinary-sketch-plugin), by Maya Shavin: Cloudinary plugin for Sketch projects
 - [Cluse](https://cluse.cc), by Yana Gevorgyan: A Sketch plugin to check color contrast for web accessibility based on WCAG 2.0. Fitting seamlessly into your team's workflow, Cluse allows you to remotely change your design and see the updated WCAG score live.
@@ -102,8 +101,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy as React Component (jsx)](https://github.com/jasondonnette/sketch-copy-as-react-component), by Jason Donnette: Generate a React components from Sketch with a keyboard shortcut
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
 - [Copy Paste Position & Size](https://github.com/angistudio/sketch-copy-paste-position-size), by ANGI studio: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
-- [Copy Swift Code](https://github.com/ngs/sketchplugin-swift-color), by Atsushi NAGASE: A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.
 - [Copy Paste Shadows](https://github.com/iarthstar/copy-paste-shadows), by iarthstar: Plugin to copy paste shadows across layers
+- [copycat](https://github.com/azhsetiawan/sketch-copycat), by Ashar Setiawan: sketch plugin
 - [CopyColor](https://github.com/poyi/copycolor), by Poyi: Plugin that provides shortcut to copy layer fill color, border color, or text color to your clipboard for Sketch 4
 - [Cracker9 Sketch Plugin](https://github.com/Cracker9/cracker9-sketch-plugin), by Cracker9: cracker9 codesnippet sketch plugin
 - [Create New Styles](https://github.com/franklymrshankly/Create-New-Styles), by Jonathan Tran: A Sketch plugin to create multiple layer styles or text styles
@@ -116,7 +115,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Datazier Lens](https://github.com/enriquezgomez/datazier-lens), by Victor Enriquez: Inspect and sort your local font book
 - [davinci_vip](https://github.com/dvcdv/dvc_sketch_plugin), by D2C: dvc
-- [DeepSelect](https://github.com/fhuel/DeepSelect), by fhuel: A quick and easy way to select layers inside a group, filtering by layer type
+- [Decimal Number Generator](https://github.com/vaexperience/sketch-plugin-decimal-number-generator), by vaexperience: Generate anbd override text fields with decimal number values and custom character content
 - [Design System Validator](https://github.com/JarOfCookies/Sketch-Design-systems-validator), by Matthew Talebi: Check consistency of text layers.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
 - [Design Token Exporter](https://github.com/here-erhe/Design-Token-Exporter), by Herkko Huttunen: Simple Design Token Exporter
@@ -133,7 +132,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [DS Automator Sketch Plugin](https://github.com/pavelneznanov/ds-automator-sketch-plugin), by Pavel Neznanov: Tools for automating designer work
 - [Duplicate to New Artboard](https://github.com/delighted/sketch-duplicate-to-new-artboard), by Delighted Inc.: Sketch plugin to duplicate the current selection(s) to new artboard(s).
 - [Duplicator](https://github.com/turbobabr/duplicator), by Andrey Shakhmin: A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.
-- [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
 - [Egmont Plugin](https://github.com/interfacemarket/egmont-plugin), by Interface.Market: Sketch plugin for create squircle shapes.
 - [Elevation Shadows](https://github.com/YitingLiu/Elevation-Shadows), by Yiting Liu: A Sketch Plugin to apply consistent Elevation Shadows
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
@@ -145,6 +143,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Export for Replia](https://github.com/bunguu/sketchexportforrepliaplugin), by Kazuya Hirobe: Sketch Plugins to export selected artboard or layers for Replia.
 - [Export Symbols](https://github.com/marianomike/sketch-exportsymbols), by Mike Mariano: Sketch Plugins
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
+- [Export King Plugin](https://github.com/hecflores/export-king-plugin), by hecflores: A Sketch Plugin that provides exporting for any scenario
 - [Fake Chinese Name for Sketch](https://github.com/jjying/fake-chinese-name-for-sketch), by JJ Ying: Generate Chinese names for text layers.
 - [Fast Text Transfer](https://github.com/jbentzen/sketch-fast-text-transfer), by Jesper Bentzen: Lightning fast copying, pasting and swapping text.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
@@ -183,6 +182,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [GuideGuide](https://guideguide.me), by Cameron McEfee: Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch
 - [Gutter Cutter](https://github.com/gcampi/gutter-cutter), by Gabriele Campi: A Sketch plugin to create custom grids with guides
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
+- [Helpify](https://github.com/Luckyfoxdesign/helpify), by Lucky Fox Design: Plugin with simple actions: Generate random numbers
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
 - [Iban Generator](https://github.com/idriesalbender/iban-sketch-plugin), by idix: Generate random International Bank Account Numbers (IBAN)
@@ -199,6 +199,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Indigo.Design](https://cloud.indigo.design/resources), by Infragistics: Create, edit, and apply themes to your Indigo.Design UI Kit based designs and publish them as prototypes to the Indigo.Design cloud.
 - [Inker8](https://github.com/inker8/sketch-plugin), by Zack Young: A spec exporter for Sketch which can copy text/css/svg icons with only one click.
 - [Install Library Bundle](https://github.com/bomberstudios/install-library-bundle), by Ale Muñoz: Installs a bunch of shared Sketch Libraries at once, because life is too short for clicking links.
+- [Inter Letter Spacing](https://github.com/giliamverheide/sketch-inter-letter-spacing), by Giliam Verheide: Sketch plugin that dynamically sets letter spacing of layers using the Inter font.
 - [Inter UI Character Spacing](https://github.com/qruzz/InterUI-Character-Spacing), by Michael Nissen: Package to correct the character spacing for the InterUI font in Sketch
 - [iosViews](https://github.com/charimon/iosviews), by Andrew Charkin: Sketch Plugin to generate iOS view code
 - [Jane Doe](https://github.com/konki-vienna/jane_doe), by Konstantin Demblin: This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.
@@ -226,8 +227,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Logodrop](https://github.com/iconscout/logodrop), by Iconscout: A Sketch Plugin to get brand logos right into Sketch App.
 - [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
 - [Lottie Sketch Export](https://github.com/buba447/lottie-sketch-export), by Brandon Withrow: Native Sketch plugin for exporting Artboards and Symbols into Lottie JSON
-- [Magic Mirror](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
 - [Magic Aligner](https://github.com/HugoLis/Magic-Aligner), by Hugo Lispector: Align objects by their centers of mass
+- [Magic Mirror](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
 - [MagicPresenter](https://github.com/magicsketch/magicpresenter), by jamztang: Sketch Plugin to Present Slides or Deck directly in Sketch 3
 - [Mail Merge](https://github.com/kumo/sketch-mail-merge), by Robert Clarke: Sketch plugin that allows you to duplicate a layer/artboard and replace text with CSV data.
 - [Map Creator for Sketch](https://github.com/terence55/sketch-map-creator), by Terence Wu: Plugin to visually create static map(BaiduMap, MapBox, GoogleMap) with custom options, and location search is available now
@@ -252,7 +253,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Notes](https://github.com/cshdllr/notes), by Jason Cashdollar: A sketch plugin for taking notes
 - [Nucleus](https://github.com/levtolstoi/Nucleus), by levtolstoi: Plugin for create Atomic Design concept in Sketch and export scss-map for front-end
 - [Nudge Corner Radius](https://github.com/dwilliames/nudge-corner-radius-sketch-plugin), by David Williames: Increase/decrease the corner radius of a rectangle, or path nodes — with easy keyboard shortcuts
-- [Nudge Resize](https://github.com/dwilliames/nudge-resize-sketch-plugin), by David Williames: Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
 - [Nudged](https://github.com/kevinwoodhouse/sketch-nudged), by Kevin Woodhouse: A Sketch plugin to easily edit your nudge distance settings.
 - [nudgefromrtl](https://github.com/KevinGutowski/NudgeRTL), by Kevin Gutowski: Quickly resize a layer horizontally from right to left with keyboard shortcuts
@@ -271,6 +271,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
+- [Paste Paddings](https://github.com/simonlidesign/pastePaddings), by simonlidesign: Allows you to copy the paddings of one element and apply them to another
+- [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
 - [Perfecto-](https://github.com/pranusarna94/perfecto-), by Pranu Sarna: A sketch plugin to round off all sub-pixel layers at once
 - [PersianSupplier](https://github.com/hiradarshadi/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Photo Grid](https://github.com/perrysmotors/photo-grid), by Giles Perry: A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.
@@ -280,7 +282,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin), by Jakub Świadek: Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [Pixelworm](https://github.com/pixelworm/pixelworm-sketch-plugin-publish), by Pixelworm: Upload your artboards to Pixelworm with one click.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
-- [Plant](https://plantapp.io), by Plant: Version control for designers
 - [Plot](https://plotapp.co), by Jordan Singer: Collaborate with your design team in a new way
 - [Plugin List](https://github.com/griffin-stewie/PluginsList), by griffin-stewie: Sketch Plugin that gives you list of plugins you enabled as several text formats.
 - [Plugin Reloader](https://github.com/TheNounProject/SketchPluginReloader), by Wes Byrne: A simple plugin to reload another plugins
@@ -292,9 +293,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Print Export](https://github.com/BohemianCoding/print-export-sketchplugin), by Sketch: Export artboards or pages to a PDF for printing
 - [Prism](https://github.com/lalomrtnz/prism), by Lalo Mrtnz: Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [projecthuddle](https://github.com/ajgagnon/projecthuddle-sketch-sync), by Andre Gagnon:
-- [Protoship Codegen Sketch Client](https://github.com/protoship/codegen-sketch-client), by protoship: Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy
 - [Prototypes Invision ↔︎ Sketch](https://github.com/mathieudutour/prototypes-invision-sketch), by mathieudutour: Translate your prototyping links back and forth between Sketch and Invision
-- [Protowire](https://protowire.com), by Mark Horgan: Adds prototyping to Sketch including transitions between screens and layer animation.
 - [Prott Sketch Plugin](https://github.com/goodpatch/prott-sketch-plugin), by Goodpatch Inc.: Sync Sketch artboards to Prott like a boss.
 - [Ps Guides](https://github.com/pratikjshah/ps-guides), by Pratik Shah: Quickly generate Guides for a selected element in Sketch
 - [Pull to Center](https://github.com/delighted/sketch-pull-to-center), by Delighted Inc.: Pull to center: Move selected shapes or layers toward center of artboard.
@@ -303,7 +302,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Qordoba for Sketch](https://www.qordoba.com), by Qordoba: Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.
 - [Quick Export as PNG](https://github.com/richardgazdik/sketch-quickexport), by Richard Gazdik: Quick Export layers/artboards/symbols as PNG Plugin for Sketch.
 - [Quick Presentation](https://github.com/timothywhalin/sketch-quick-presentation), by Timothy Whalin: A Sketch plugin to quickly share multiple artboards with an optional title.
-- [QuickColor](https://github.com/colesperks/quickcolor), by Cole Perkins: Sketch plugin that lets you quickly apply colors from the color palette to selected elements- 🎨
 - [QuickTextOverride](https://github.com/dbilyk/QuickTextOverride), by Dmitri Bilyk: Use a key command to target the first text override of a symbol.
 - [Quopi](https://github.com/LukeFinch/Quopi), by Luke Finch: Fetches copy from the comments on your Abstract branch
 - [Radial Lines](https://github.com/herrhelms/radial-lines-sketch), by herrhelms: Generate lines originating from a certain coordinate of an artboard.
@@ -350,12 +348,12 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 - [Sketch Bounding Boxer](https://github.com/preciousforever/sketch-bounding-boxer), by precious design studio: A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.
 - [Sketch Cats](https://github.com/pravdomil/sketch-cats), by pravdomil: Render layers in Sketch as various images of cats
+- [Sketch Chat](https://github.com/mathieudutour/sketch-chat), by Mathieu Dutour: A Sketch plugin to chat in Sketch Cloud files
 - [Sketch Codelight](https://github.com/somebee/sketch-codelight), by somebee: Highlight code inside Text layers in Sketch
 - [Sketch Color Contrast Analyzer](https://github.com/eaugustine/sketch-color-contrast-analyzer), by eaugustine: A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.
 - [Sketch Color Vars](https://github.com/philsinatra/sketch-color-vars), by Phil Sinatra: A Sketch plugin that will export the fill color of selected layers to SCSS, LESS and CSS files.
 - [Sketch Commands](https://github.com/bomberstudios/sketch-commands), by Ale Muñoz: A collection of script commands for Bohemian Coding's Sketch.app
 - [Sketch Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints), by Marc Bouchenoire: A plugin that integrates constraints in Sketch to lay out layers.
-- [Sketch Copy Layers Styles](https://github.com/francisvega/sketch-copy-layers-styles), by Francis: Sketch plugin to copy Layers and Text styles
 - [Sketch Copy Paste Layout Settings](https://github.com/francisvega/sketch-copy-paste-layout-settings), by Francis: Copy layout settings from one artboard and paste into multiples artboards.
 - [Sketch Copy Text Only](https://github.com/explorador/sketch-copy-text-only), by Cristian: Sketch plugin to copy only the text from selected artboard(s) or layer(s)
 - [Sketch Data Faker](https://github.com/paintedbicycle/sketch-data-faker), by paintedbicycle: A Sketch data plugin providing data for you mockups from Faker.js
@@ -363,11 +361,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
 - [Sketch Duplicatesymbol](https://github.com/marianomike/sketch-duplicatesymbol), by Mike Mariano: Sketch plugin that creates a new symbol out of a selected symbol
-- [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
 - [Sketch Export Text](https://github.com/exevil/sketch-export-text), by Vyacheslav Dubovitsky: Helps you to save all text data on current page in customizable format and filter the excess.
-- [Sketch Find All Instances of Symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol), by Logan McAnsh: Find all instances of a symbol in Sketch
+- [Sketch Flow](https://github.com/hite/Sketch-Flow), by hite: Make Icon Slicing simple for app developers!
 - [Sketch Git Pro](https://github.com/xuming/sketch-git-pro), by xuming: Git tools for sketch.
-- [Sketch Grid Master](https://github.com/exevil/sketch-grid-master), by Vyacheslav Dubovitsky: Grid Master is a Sketch plugin that fixes long-standing bugs and adds new functionaity related on work with Grid and Layout.
 - [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Sketch Hyphenator](https://github.com/golmakov/sketch-hyphenator), by Aleksander Golmakov: Sketch plugin that hyphenates text
 - [Sketch Icons](https://github.com/AMoreaux/Sketch-Icons), by AMoreaux: Import your icons, apply a color mask and create a dynamic icons library.
@@ -385,7 +381,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Manager Plugin](https://www.sketchmanager.com), by Sketch Manager: The easiest way to manager your Symbols, Text styles and Layer styles.
 - [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator), by Eduardo Gómez Vásquez: Plugin to fill a layer with a map generated from a location (Powered by Google Maps)
 - [Sketch Maps](https://github.com/bouchenoiremarc/Sketch-Maps), by Marc Bouchenoire: A Sketch plugin that uses the Mapbox API to fill layers with specific and custom maps.
-- [Sketch Marginbox](https://github.com/francisvega/sketch-marginbox), by Francis: Simple scritp to create layers as margins
 - [Sketch Markup Listify](https://github.com/marisaroque/sketch-markup-listify), by Marisa Roque: Sketch plugin for convert and copy text layers into HTML lists.
 - [Sketch Mate](https://github.com/getflourish/sketch-mate), by Florian Schulz: These plugins will make you best friends with Sketch.
 - [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
@@ -439,10 +434,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Sketch WCAG](https://github.com/bryanberger/sketch-wcag), by Bryan Berger: A Sketch plugin that lets you contrast test your entire color palette against the WCAG guidelines all at once
 - [Sketch Camera Hotkeys](https://github.com/jayhxmo/sketch-camera-hotkeys), by Jay Mo: Navigate around and present more efficiently
-- [Sketch Chat](https://github.com/mathieudutour/sketch-chat), by Mathieu Dutour: A Sketch plugin to chat in Sketch Cloud files
+- [Sketch Color Manager](https://github.com/hecflores/sketch-color-manager), by hecflores: Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties
 - [Sketch Easing Gradients](https://github.com/larsenwork/sketch-easing-gradient), by larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
+- [Sketch Export Preferences](https://github.com/KevinGutowski/Sketch-Export-Preferences), by Kevin Gutowski: Import and Save Sketch Export Preferences
 - [Sketch Export to](https://github.com/mascardoso/sketch-export), by Marco Cardoso: Export an artboard layers to json or markdown
-- [Sketch Flow](https://github.com/hite/Sketch-Flow), by hite: Make Icon Slicing simple for app developers!
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Retain Text Color](https://github.com/johnmcclumpha/sketch-retain-text-color), by johnmcclumpha: Retain the original color of text layers when applying a Text Style.
 - [Sketch Share](https://github.com/robflaherty/sketch-share), by Rob Flaherty: Sketch plugin that exports artboards and generates an HTML file linking to each one
@@ -494,6 +489,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SwiftColorPalette](https://github.com/nahitheper/swiftcolorpalette), by nahitheper: Sketch plugin that generates Swift Color Theme with enums
 - [Symbol and Artboard Organizer](https://github.com/myrronth/symbol-and-artboard-organizer), by Myrronth: Organize your symbols and artboards.
 - [Symbol Browser](http://symbol-browser.pratikshah.website), by Pratik Shah: A new way to browse your symbols. Make the most of your Design System by bringing symbols and UI Sticker sheet together.
+- [Symbol Finder](https://github.com/afifkhaidir/symbol-finder), by afifkhaidir: Finder-like interface for browsing and inserting local symbols in Sketch
 - [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
 - [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer), by Jason Burns: Rename all symbol instances to the name of their master.
 - [Symbol Instance Sheet](https://github.com/sonburn/symbol-instance-sheet), by Jason Burns: Generate a sheet of symbol instances from your current document or a library.
@@ -504,7 +500,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Symbol States](https://github.com/ozgurgunes/Sketch-Symbol-States), by Ozgur Gunes: A Sketch plugin which saves overrides of a symbol instance as states to be applyable on another instance of that symbol later.
 - [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
 - [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
-- [Symbol Finder](https://github.com/afifkhaidir/symbol-finder), by afifkhaidir: Finder-like interface for browsing and inserting local symbols in Sketch
 - [Symbol Insert](https://github.com/lifeofmle/symbol-insert), by Michael Le: Simple plugin to insert Sketch symbols
 - [Symbol Merger](https://github.com/franklymrshankly/Symbol-Merger), by Jonathan Tran: A Sketch plugin that merges duplicate symbols
 - [Symbol Overlay Toggle](https://github.com/uxcourt/overlaytoggler), by uxcourt: A Sketch plug-in to seek specific style names in library-sourced symbols and toggle the styles.
@@ -522,6 +517,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Timelapse](https://timelapsesketch.com), by Team Timelapse: Create beautiful high-speed videos of your work in Sketch and show off your progress.
 - [Timeline](https://timeline.animaapp.com), by Anima Team: Create beautiful timeline animations and export GIF or MP4
 - [Tin Drum](https://github.com/VitskyDs/tin-drum), by VitskyDs:
+- [Tinty](https://github.com/chewbecky/tinty), by chewbecca: Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.
 - [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
 - [TitleCase](https://github.com/jessebilsten/sketch-titlecase), by Jesse Bilsten: A Sketch plugin that changes your text to TitleCase
 - [Toggle Constrain Proportions](https://github.com/erikfontanel/sketch-toggle-constrain-proportions), by Erik Gelderblom: Toggles the contrain proportions setting with keyboard shortcut ⌘ + P. Sketch v39+ compatible.
@@ -534,6 +530,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Truncat](https://github.com/KevinGutowski/Truncat), by Kevin Gutowski: A Sketch plugin to truncate text.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
+- [Twilio Ipsum](https://github.com/twilio-labs/sketch-twilio-ipsum), by Paste: A realistic fake data populator for Sketch.
 - [Typesettings](https://github.com/buames/typesettings-sketch-plugin), by buames: A quest for consistency
 - [typex](https://github.com/reinvanoyen/typex), by reinvanoyen: Highly configurable text styles to web (css, sass, html, json, ...) export plugin
 - [Typograph](https://github.com/dezonik/typograph), by Dmitry Gerasimov: Typograph — Sketch plugin and js-library
@@ -547,6 +544,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [User Flows](https://github.com/abynim/userflows), by Aby Nimbalkar: Generate user walkthroughs from Artboards in Sketch.
 - [Userflows](https://github.com/faridsabitov/sketch-user-flows), by Farid Sabitov: Plugin for generating easy to use user flows in Sketch
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
+- [Vectary](https://github.com/vectary/vectary-sketch-plugin), by Vectary: Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.
 - [Versions](https://versions.sympli.io/), by Sympli: Version control and collaboration for Sketch.
 - [ViewController for Framer](https://github.com/awt2542/viewcontroller-for-framer), by Andreas Wahlström: Multi step user flows in Framer.js
 - [VisualEyes](https://github.com/loceye/sketch-visualeyes), by Loceye: Your professional AI design assistant.
@@ -555,6 +553,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [WeTransfer](https://github.com/wetransfer/sketch-plugin), by WeTransfer: Share artboards and pages via WeTransfer
 - [Whale Kit](https://github.com/jingwhale/whale-kit), by jingwhale:
 - [WtDesign](https://github.com/wantedly/sketch-wt-design), by Yoshinori Kawasaki: Sketch plugin for Wantedly Design System
+- [Xd2sketch Converter](https://xd2sketch.com/), by XD2Sketch: Convert and import XD files in Sketch with one click.
 - [Y Tools](https://github.com/yued-fe/y-tools), by yued-fe.TM: Sketch plugin tools yued-fe.TM
 - [Zen Sketch](https://github.com/francisvega/zen-sketch), by Francis Vega: A collection of Sketch plugins
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
@@ -565,10 +564,13 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [📐 Sketch Guides](http://guides.pratikshah.website/), by Pratik Shah: Quickly generate Guides for a selected element in Sketch
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 - [🕵🏻‍ Find and Replace Text](https://github.com/chriswetterman/sketch-find-and-replace-text), by Chris Wetterman: Find and replace text throughout your Sketch document
+- [🖼 Undraw.co Illustrations for Sketch](https://github.com/martingalovic/sketch-undraw), by Martin Galovic:
 
 
 ## Sorted by last update (newest on top)
 
+- [Xd2sketch Converter](https://xd2sketch.com/), by XD2Sketch: Convert and import XD files in Sketch with one click.
+- [Decimal Number Generator](https://github.com/vaexperience/sketch-plugin-decimal-number-generator), by vaexperience: Generate anbd override text fields with decimal number values and custom character content
 - [PaintCode Code Generator](https://www.paintcodeapp.com/sketch), by PixelCut: Convert your Sketch drawings into Swift or Objective-C
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Design System Validator](https://github.com/JarOfCookies/Sketch-Design-systems-validator), by Matthew Talebi: Check consistency of text layers.
@@ -625,14 +627,14 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [VK Data](https://github.com/VKCOM/vkdata-sketchplugin), by VKCOM: Plugin for using data from your account at vk.com
 - [betterTypePanel](https://github.com/KevinGutowski/betterTypePanel), by Kevin Gutowski: A sketch plugin to help manage common OpenType properties
 - [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
-- [Puzzle Publisher](https://github.com/ingrammicro/puzzle-publisher), by MaxBazarov: Exports Sketch artboards into linked HTML files and publish it on external site using SFTP.
 - [Puzzle Tokens](https://github.com/ingrammicro/puzzle-tokens), by MaxBazarov: Sketch.app plugin to apply design tokens to Sketch layers
+- [Puzzle Publisher](https://github.com/ingrammicro/puzzle-publisher), by MaxBazarov: Exports Sketch artboards into linked HTML files and publish it on external site using SFTP.
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
 - [Sketch Hyphenator](https://github.com/golmakov/sketch-hyphenator), by Aleksander Golmakov: Sketch plugin that hyphenates text
 - [VisualEyes](https://github.com/loceye/sketch-visualeyes), by Loceye: Your professional AI design assistant.
 - [Annotations](https://github.com/BaguetteEngineering/annotations-sketch-plugin), by Baguette Engineering: Hide/show layer groups named 'Annotations'.
-- [Sketch AFUX Tools](https://github.com/canisminor1990/sketch-afux-tools), by CanisMinor: Sketch tools for AFUX
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch tools for AFUX
+- [Sketch AFUX Tools](https://github.com/canisminor1990/sketch-afux-tools), by CanisMinor: Sketch tools for AFUX
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Style Inventory](https://github.com/getflourish/sketch-style-inventory), by Florian Schulz: Generate a visual style sheet with all colors and text styles that you are using in Sketch.
 - [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
@@ -724,7 +726,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Cracker9 Sketch Plugin](https://github.com/Cracker9/cracker9-sketch-plugin), by Cracker9: cracker9 codesnippet sketch plugin
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [Disconnector](https://github.com/njcrowther/Disconnector), by Nathan Crowther: Quickly disconnect all symbols from a selection
-- [Protoship Codegen Sketch Client](https://github.com/protoship/codegen-sketch-client), by protoship: Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy
 - [Datazier Lens](https://github.com/enriquezgomez/datazier-lens), by Victor Enriquez: Inspect and sort your local font book
 - [Sketch Manager Plugin](https://www.sketchmanager.com), by Sketch Manager: The easiest way to manager your Symbols, Text styles and Layer styles.
 - [Use Icon Fonts in Sketch](https://github.com/keremciu/sketch-iconfont), by Kerem Sevencan: Use icon fonts in sketch
@@ -1064,16 +1065,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboards Explorer](https://github.com/Hito01/artboards-explorer), by Nicolas Collard: Add utility functionnalities to Sketch's artboards
 - [Sketch User Flows](https://github.com/reqfire/sketch-user-flows), by reqfire: A Sketch Plug-in for importing/exporting user flow and interface definitions from Reqfire.
 - [Font Buddy](https://github.com/animaapp/fontbuddy), by Anima Team: Install missing fonts & free fonts directly from Sketch.
-- [Nudge Resize](https://github.com/dwilliames/nudge-resize-sketch-plugin), by David Williames: Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts
-- [Copy Swift Code](https://github.com/ngs/sketchplugin-swift-color), by Atsushi NAGASE: A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.
-- [QuickColor](https://github.com/colesperks/quickcolor), by Cole Perkins: Sketch plugin that lets you quickly apply colors from the color palette to selected elements- 🎨
-- [Sketch Marginbox](https://github.com/francisvega/sketch-marginbox), by Francis: Simple scritp to create layers as margins
-- [Efficiency](https://github.com/x-raizor/efficiency), by Andrew Shapiro: Set of plugins for efficient work: change text linespacing and leading via keyboard, random sizing and random positioning of selected items, keep only text layers in selection.
-- [Sketch Find All Instances of Symbol](https://github.com/mcansh/sketch-find-all-instances-of-symbol), by Logan McAnsh: Find all instances of a symbol in Sketch
-- [Sketch Copy Layers Styles](https://github.com/francisvega/sketch-copy-layers-styles), by Francis: Sketch plugin to copy Layers and Text styles
-- [DeepSelect](https://github.com/fhuel/DeepSelect), by fhuel: A quick and easy way to select layers inside a group, filtering by layer type
-- [Protowire](https://protowire.com), by Mark Horgan: Adds prototyping to Sketch including transitions between screens and layer animation.
-- [Click Dummy](https://github.com/raureif/sketch-click-dummy), by Raureif: Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.
-- [Sketch Grid Master](https://github.com/exevil/sketch-grid-master), by Vyacheslav Dubovitsky: Grid Master is a Sketch plugin that fixes long-standing bugs and adds new functionaity related on work with Grid and Layout.
-- [Sketch Export Generator](https://github.com/kang-chen/sketch-export-generator), by Kang Chen: Sketch plugin to export assets at different scale sizes
-- [Plant](https://plantapp.io), by Plant: Version control for designers

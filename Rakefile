@@ -78,7 +78,7 @@ EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
 
-    puts "Processing #{plugin}"
+    # puts "Processing #{plugin}"
 
     name   = plugin['name']
     title  = title_for plugin
