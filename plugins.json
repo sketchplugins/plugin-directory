@@ -9,6 +9,16 @@
     "lastUpdated": "2020-01-10 15:57:00 UTC"
   },
   {
+    "owner": "Carlos Flores",
+    "name": "Name my Color",
+    "title": "Name my Color",
+    "description": "Give your colors unique names. Generates labels for the Color Name, Hexcode and changes the name of the selected layer.",
+    "appcast": "https://raw.githubusercontent.com/carlosflrg/name-my-color/master/appcast.xml",
+    "author": "Carlos Flores",
+    "homepage": "https://github.com/carlosflrg/name-my-color",
+    "lastUpdated": "2020-01-30 12:00:00 UTC"
+  },
+  {
     "owner": "Matthew Talebi",
     "author": "Matthew Talebi",
     "name": "Sketch-Design-systems-validator",
