@@ -6436,5 +6436,14 @@
     "appcast": "https://raw.githubusercontent.com/endswithak/sketch-measure-react/master/.appcast.xml",
     "homepage": "https://github.com/endswithak/sketch-measure-react",
     "author": "Erik Myers"
+  },
+  {
+    "title": "flutter",
+    "description": "Generates automatically the Flutter widgets structure",
+    "name": "flutter_sketch_cloud",
+    "owner": "vintage",
+    "appcast": "https://raw.githubusercontent.com/vintage/flutter_sketch_cloud/master/.appcast.xml",
+    "homepage": "https://github.com/vintage/flutter_sketch_cloud",
+    "author": "Kamil Rykowski"
   }
 ]
