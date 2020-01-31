@@ -4243,6 +4243,7 @@
     "description": "Overflow is the world’s first user flow diagramming tool tailored for designers. It empowers designers to design, present and share beautiful user flow diagrams that tell a story.",
     "title": "Overflow",
     "author": "proto.io",
+    "appcast": "https://raw.githubusercontent.com/overflowapp/overflow-sketch-plugin/master/.appcast.xml",
     "homepage": "https://overflow.io",
     "lastUpdated": "2018-06-27 3:00:00 UTC"
   },
