@@ -78,7 +78,7 @@ EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
 
-    puts "Processing #{plugin}"
+    # puts "Processing #{plugin}"
 
     name   = plugin['name']
     title  = title_for plugin
@@ -121,7 +121,7 @@ EOF
     owner  = plugin['owner']
     author = plugin['author'] || owner
     url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc   = plugin['description'].strip
+    desc   = (plugin['description'] || "").strip
     output << "- [#{title}](#{url}), by #{author}:"
     if !desc.empty?
       output << " #{desc}"
