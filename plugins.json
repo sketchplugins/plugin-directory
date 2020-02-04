@@ -9,6 +9,16 @@
     "lastUpdated": "2020-01-10 15:57:00 UTC"
   },
   {
+    "owner": "Carlos Flores",
+    "name": "Name my Color",
+    "title": "Name my Color",
+    "description": "Give your colors unique names. Generates labels for the Color Name, Hexcode and changes the name of the selected layer.",
+    "appcast": "https://raw.githubusercontent.com/carlosflrg/name-my-color/master/appcast.xml",
+    "author": "Carlos Flores",
+    "homepage": "https://github.com/carlosflrg/name-my-color",
+    "lastUpdated": "2020-01-30 12:00:00 UTC"
+  },
+  {
     "owner": "Matthew Talebi",
     "author": "Matthew Talebi",
     "name": "Sketch-Design-systems-validator",
@@ -6208,7 +6218,7 @@
     "description": "A Sketch plugin that lets you snap layers below, above, left of or right of selected layer to one of its edges.",
     "name": "sketch-snap",
     "owner": "charliecm",
-    "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/appcast.xml",
+    "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/.appcast.xml",
     "homepage": "https://github.com/charliecm/sketch-snap",
     "author": "Charlie Chao",
     "lastUpdated": "2019-11-07 21:29:23 UTC"
@@ -6436,6 +6446,24 @@
     "appcast": "https://raw.githubusercontent.com/endswithak/sketch-measure-react/master/.appcast.xml",
     "homepage": "https://github.com/endswithak/sketch-measure-react",
     "author": "Erik Myers"
+  },
+  {
+    "title": "Dark Side",
+    "description": "Design light and dark themes easily. Switch between themes. Export color assets for Xcode and Android Studio.",
+    "name": "dark-side",
+    "owner": "receptiryaki",
+    "appcast": "https://raw.githubusercontent.com/receptiryaki/darkside/master/.appcast.xml",
+    "homepage": "https://github.com/receptiryaki/darkside",
+    "author": "Recep Tiryaki"
+  },
+  {
+    "title": "Axure for Sketch",
+    "description": "Easily copy design elements to Axure RP or publish artboards directly to Axure Cloud.",
+    "name": "axure-for-sketch",
+    "owner": "Axure Software Solutions Inc.",
+    "appcast": "https://www.axure.com/misc/sketch/appcast.xml",
+    "homepage": "https://www.axure.com/axure-sketch-plugin",
+    "author": "Axure Software Solutions Inc."
   },
   {
     "title": "css-to-shadow-style",
