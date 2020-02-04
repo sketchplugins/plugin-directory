@@ -6438,6 +6438,15 @@
     "author": "Erik Myers"
   },
   {
+    "title": "Dark Side",
+    "description": "Design light and dark themes easily. Switch between themes. Export color assets for Xcode and Android Studio.",
+    "name": "dark-side",
+    "owner": "receptiryaki",
+    "appcast": "https://raw.githubusercontent.com/receptiryaki/darkside/master/.appcast.xml",
+    "homepage": "https://github.com/receptiryaki/darkside",
+    "author": "Recep Tiryaki"
+  },
+  {
     "title": "Axure for Sketch",
     "description": "Easily copy design elements to Axure RP or publish artboards directly to Axure Cloud.",
     "name": "axure-for-sketch",
