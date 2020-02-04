@@ -46,6 +46,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Awesome Image Compressor](https://github.com/naoyawatanabe/awesome-image-compressor), by Naoya Watanabe: Compress exported image assets
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
+- [Axure for Sketch](https://www.axure.com/axure-sketch-plugin), by Axure Software Solutions Inc.: Easily copy design elements to Axure RP or publish artboards directly to Axure Cloud.
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
 - [Better Shadow](https://github.com/JJYing/Sketch-Better-Shadow), by JJ Ying: Quickly generate multi-layered shadow to mimic non-linear decay.
