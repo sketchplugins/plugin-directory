@@ -46,6 +46,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Awesome Image Compressor](https://github.com/naoyawatanabe/awesome-image-compressor), by Naoya Watanabe: Compress exported image assets
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
+- [Axure for Sketch](https://www.axure.com/axure-sketch-plugin), by Axure Software Solutions Inc.: Easily copy design elements to Axure RP or publish artboards directly to Axure Cloud.
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
 - [BaseAlign](https://github.com/abynim/basealign), by Aby Nimbalkar: A Sketch Plugin to align Text Layers by their baselines
 - [Better Shadow](https://github.com/JJYing/Sketch-Better-Shadow), by JJ Ying: Quickly generate multi-layered shadow to mimic non-linear decay.
@@ -111,6 +112,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Custom Zoom](https://github.com/alexkaessner/custom-zoom-sketch), by Alexander Käßner: Zoom your document to a custom zoom level.
 - [Dad Jokes](https://github.com/domhabersack/sketch-dadjokes), by Dom Habersack: Replace your text with dad jokes.
 - [Dapollo](https://www.yuque.com/dapollo/group/welcome), by Alipay Design: Design and Development Platform(一站式设计开发工作台)
+- [Dark Side](https://github.com/receptiryaki/darkside), by Recep Tiryaki: Design light and dark themes easily. Switch between themes. Export color assets for Xcode and Android Studio.
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Datazier Lens](https://github.com/enriquezgomez/datazier-lens), by Victor Enriquez: Inspect and sort your local font book
 - [davinci_vip](https://github.com/dvcdv/dvc_sketch_plugin), by D2C: dvc
@@ -163,7 +165,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Foreign Ipsum](https://github.com/3raxton/foreignipsum), by Braxton Huff: Generate text for your mockups in multiple languages 🗺
 - [Format Symbol Names](https://github.com/perrysmotors/format-symbol-names), by Giles Perry: A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page
 - [Formr](https://github.com/lessthanzero/formr), by Alexander Katin: Helps to maintain simple proportions of layers and artboards
-- [Framer Inventory 2.0 for Sketch](http://timurnurutdinov.github.io/framerinventory/), by Timur Nurutdinov: Sketch plugin to generate FramerJS prototypes. Just have your motion done.
 - [Freeman Finchart Sketchplugin](https://github.com/freeman990/freeman-finchart-sketchplugin), by freeman990: Draw financial chart like candle-stick or line chart like a boss.
 - [French Typography](https://github.com/Saint-loup/french-typography), by Saint-loup: Sketch plugin to automatically add typographic french conventions and non-breaking spaces
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
@@ -248,7 +249,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Move To Library Sketchplugin](https://github.com/ahmedmigo/move-to-library-sketchplugin), by Ahmed Genaidy: You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
 - [Mugsy](https://github.com/jan-patrick/sketch_mugsy), by jan-patrick:
 - [Mupixa](https://github.com/mupixa/sketch-plugin-mupixa), by www.mupixa.com: Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.
-- [Name My Color](https://github.com/carlosflrg/name-my-color), by Carlos Flores: Give your colors unique names. Generates labels for the Color Name, Hexcode and changes the name of the selected layer.
 - [NeoPreview](https://github.com/alanfraneo/sketch-neo-preview), by Alan Francis: A plugin to create HTML based preview and gallery straight from sketch artboards
 - [Notes](https://github.com/cshdllr/notes), by Jason Cashdollar: A sketch plugin for taking notes
 - [Nucleus](https://github.com/levtolstoi/Nucleus), by levtolstoi: Plugin for create Atomic Design concept in Sketch and export scss-map for front-end
@@ -524,7 +524,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [toggleLayers](https://github.com/KevinGutowski/toggleLayers), by Kevin Gutowski: One action to toggle layers on / off so that you can more easily remap this to a custom keyboard shortcut.
 - [Translate From JSON](https://github.com/kbirgoren/sketch-json-translator), by kbirgoren: A Sketch plugin lets you use variables for texts in your designs.
 - [Translate.me](https://github.com/eddiesigner/sketch-translate-me), by Eduardo Gómez Vásquez: Translations. Simplified. Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.
-- [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
 - [Triangle Field](https://github.com/0la0/triangle-fields), by Luke Anderson: Generate Delaunay triangle tessellation inside a shape.
 - [Truncat](https://github.com/KevinGutowski/Truncat), by Kevin Gutowski: A Sketch plugin to truncate text.
 - [Truncate Text Lines](https://github.com/mamuso/sketch-truncate-textlines), by Manuel Muñoz: Truncate the number of lines of a textbox, adding an ellipsis if needed. It works using words or characters.
@@ -570,7 +569,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Name My Color](https://github.com/carlosflrg/name-my-color), by Carlos Flores: Give your colors unique names. Generates labels for the Color Name, Hexcode and changes the name of the selected layer.
 - [Vectary 3d](https://www.vectary.com/sketch/), by Vectary: Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
@@ -677,8 +675,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [QuickTextOverride](https://github.com/dbilyk/QuickTextOverride), by Dmitri Bilyk: Use a key command to target the first text override of a symbol.
 - [Sketch Easing Gradients](https://github.com/larsenwork/sketch-easing-gradient), by larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
 - [Sketch Iconscope](https://github.com/ziven27/sketch-iconscope), by ziven27: Wrap the Icon with a square(4n) scope.
-- [Userflows](https://github.com/faridsabitov/sketch-user-flows), by Farid Sabitov: Plugin for generating easy to use user flows in Sketch
 - [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
+- [Userflows](https://github.com/faridsabitov/sketch-user-flows), by Farid Sabitov: Plugin for generating easy to use user flows in Sketch
 - [Layer Renamer](https://github.com/leonardpauli/layerrenamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)
 - [BRData](https://github.com/jonathasbsouza/brdata), by Jônathas Souza: Gerador de dados contextualizados com a realidade brasileira.
 - [typex](https://github.com/reinvanoyen/typex), by reinvanoyen: Highly configurable text styles to web (css, sass, html, json, ...) export plugin
@@ -698,8 +696,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Icondrop](https://github.com/iconscout/icondrop), by Iconscout: Get access to 300,000+ icons right into Sketch App
 - [Sketch Copy Text Only](https://github.com/explorador/sketch-copy-text-only), by Cristian: Sketch plugin to copy only the text from selected artboard(s) or layer(s)
 - [BillUI](https://github.com/SimonTakman/BillUI), by Carl Albertsson & Simon Takman: Interactive artificial evolutionary tool in order to help you come up with design suggestions that are similar to your initial design.
-- [Sketch AFUX Tools](https://github.com/canisminor1990/sketch-afux-tools), by CanisMinor: Sketch tools for AFUX
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch tools for AFUX
+- [Sketch AFUX Tools](https://github.com/canisminor1990/sketch-afux-tools), by CanisMinor: Sketch tools for AFUX
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Sketch Plugin Manager 🔌](https://mludowise.github.io/Sketch-Plugin-Manager), by Mel Ludowise: Keeping your Sketch plugins up to date with the power of Git.
 - [Img Pal Gen](https://github.com/iarthstar/Image2Palette), by Arth K. Gajjar: Generates Color Palette from Image Layer
@@ -1100,5 +1098,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Bacon Ipsum](https://github.com/zcallan/sketch-bacon-ipsum), by zcallan: A simple & easy Bacon Ipsum text generator for Sketch.
 - [Sketch Name Organizer](https://github.com/canisminor1990/sketch-name-organizer), by Canis Minor: 🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.
 - [Sketch Navigator](https://github.com/arshad/sketch-navigator), by Arshad Chummun: Artboard navigation (with autocomplete) for Sketch
-- [Framer Inventory 2.0 for Sketch](http://timurnurutdinov.github.io/framerinventory/), by Timur Nurutdinov: Sketch plugin to generate FramerJS prototypes. Just have your motion done.
-- [Transpose](https://github.com/wescraig/Transpose), by Wes Craig: Transpose your selection and set pixel margins between elements.
