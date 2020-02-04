@@ -6464,5 +6464,14 @@
     "appcast": "https://www.axure.com/misc/sketch/appcast.xml",
     "homepage": "https://www.axure.com/axure-sketch-plugin",
     "author": "Axure Software Solutions Inc."
+  },
+  {
+    "title": "css-to-shadow-style",
+    "description": "CSS box-shadow to Layer Style Converter",
+    "name": "CSS-Shadow-to-Sketch-Style-Plugin",
+    "owner": "oliverpitsch",
+    "appcast": "https://raw.githubusercontent.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin",
+    "author": "Oliver Pitsch"
   }
 ]
