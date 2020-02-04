@@ -6445,5 +6445,14 @@
     "appcast": "https://raw.githubusercontent.com/receptiryaki/darkside/master/.appcast.xml",
     "homepage": "https://github.com/receptiryaki/darkside",
     "author": "Recep Tiryaki"
+  },
+  {
+    "title": "Axure for Sketch",
+    "description": "Easily copy design elements to Axure RP or publish artboards directly to Axure Cloud.",
+    "name": "axure-for-sketch",
+    "owner": "Axure Software Solutions Inc.",
+    "appcast": "https://www.axure.com/misc/sketch/appcast.xml",
+    "homepage": "https://www.axure.com/axure-sketch-plugin",
+    "author": "Axure Software Solutions Inc."
   }
 ]
