@@ -19,6 +19,8 @@ jobs:
       run: |
         gem install octokit
         rake lastUpdated
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: push
       uses: github-actions-x/commit@v2.3
       with:
@@ -27,5 +29,5 @@ jobs:
         rebase: true
         files: plugins.json
         name: Sketch Developer
-        email: developer@sketch.com 
+        email: developer@sketch.com
 

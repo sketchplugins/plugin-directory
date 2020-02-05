@@ -4,8 +4,7 @@ require 'json'
 require 'time'
 require "./lib/plugin-directory-utils"
 
-GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
-USERNAME = `git config github.user`.strip
+GITHUB_AUTH_TOKEN = ENV['GITHUB_TOKEN']
 
 def title_for plugin
   title = plugin['title'] || plugin['name']
