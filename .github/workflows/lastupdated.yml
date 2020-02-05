@@ -1,0 +1,31 @@
+name: Update lastUpdated field in JSON
+
+on:
+  schedule:
+    - '0 0 * * 0'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Update lastUpdated
+      run: |
+        gem install octokit
+        rake lastUpdated
+    - name: push
+      uses: github-actions-x/commit@v2.3
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'Update lastUpdated'
+        rebase: true
+        files: plugins.json
+        name: Sketch Developer
+        email: developer@sketch.com 
+
