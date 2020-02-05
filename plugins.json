@@ -113,7 +113,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2019-12-13 12:47:19 UTC"
+    "lastUpdated": "2020-01-31 09:25:13 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -771,7 +771,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2019-08-30 03:31:06 UTC"
+    "lastUpdated": "2020-01-27 19:35:57 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -1473,7 +1473,7 @@
     "title": "Find And Replace",
     "author": "Martin Steven. Maintained by Thierry Charbonnel",
     "owner": "thierryc",
-    "lastUpdated": "2020-01-22 17:53:01 UTC"
+    "lastUpdated": "2020-02-03 17:13:20 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
@@ -1721,7 +1721,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-01-21 10:33:14 UTC"
+    "lastUpdated": "2020-02-02 15:35:04 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3442,7 +3442,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2018-06-02 06:33:05 UTC"
+    "lastUpdated": "2020-01-26 14:54:23 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -4175,7 +4175,7 @@
     "appcast": "https://raw.githubusercontent.com/toyboxsystems/roller/master/.appcast.xml",
     "homepage": "https://github.com/toyboxsystems/roller",
     "author": "Jono Kolnik",
-    "lastUpdated": "2020-01-10 23:46:52 UTC"
+    "lastUpdated": "2020-01-31 21:56:21 UTC"
   },
   {
     "title": "Unsplasher",
@@ -4400,7 +4400,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2019-12-19 22:49:54 UTC"
+    "lastUpdated": "2020-02-05 13:50:00 UTC"
   },
   {
     "title": "Better Shadow",
