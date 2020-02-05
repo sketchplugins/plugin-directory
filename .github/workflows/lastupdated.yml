@@ -2,7 +2,7 @@ name: Update lastUpdated
 
 on:
   schedule:
-    - cron: '1/5 * * * *'
+    - cron: '0 0 * * 0'
 
 jobs:
   build:
