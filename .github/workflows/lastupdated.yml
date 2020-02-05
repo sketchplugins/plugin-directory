@@ -1,8 +1,8 @@
-name: Update lastUpdated field in JSON
+name: Update lastUpdated
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '1/5 * * * *'
 
 jobs:
   build:
