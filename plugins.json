@@ -6474,5 +6474,13 @@
     "appcast": "https://raw.githubusercontent.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin",
     "author": "Oliver Pitsch"
+  },
+  {
+    "title": "Viewfinder Sketchplugin",
+    "description": "Easy access anywhere in you project file",
+    "author": "Ahmed Genaidy",
+    "owner": "ahmedmigo",
+    "name": "ViewFinder-Sketchplugin",
+    "lastUpdated": "2020-02-05 10:02:21 UTC"
   }
 ]
