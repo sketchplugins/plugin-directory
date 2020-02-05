@@ -2,7 +2,7 @@ name: Update lastUpdated field in JSON
 
 on:
   schedule:
-    - '0 0 * * 0'
+    - cron: '0 0 * * 0'
 
 jobs:
   build:
