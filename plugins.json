@@ -6482,5 +6482,14 @@
     "owner": "ahmedmigo",
     "name": "ViewFinder-Sketchplugin",
     "lastUpdated": "2020-02-05 10:02:21 UTC"
+  },
+  {
+    "title": "efficient images export Sketchplugin",
+    "description": "efficient images export for image sketch",
+    "name": "efficient-images-export",
+    "owner": "BinLia",
+    "appcast": "https://raw.githubusercontent.com/BinLia/efficient-image-export/master/.appcast.xml",
+    "homepage": "https://github.com/BinLia/efficient-image-export",   
+    "author": "BinLia"
   }
 ]
