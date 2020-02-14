@@ -6484,6 +6484,15 @@
     "lastUpdated": "2020-02-05 10:02:21 UTC"
   },
   {
+    "title": "Playful Design Tools",
+    "description": "Sketch.app plugin to help design faster",
+    "name": "Playful Design Tools",
+    "author": "WAVE Corp.",
+    "owner": "WAVE Corp.",
+    "appcast": "https://wavetogether.github.io/wave_design/sketch-plugins/releases/appcast.xml",
+    "homepage": "https://wavetogether.github.io/wave_design/sketch-plugins"
+  },
+  {
     "title": "Sketch Times",
     "description": "A DataSupplier plugin to get Times",
     "name": "sketch-times",
