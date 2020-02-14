@@ -6491,5 +6491,14 @@
     "owner": "WAVE Corp.",
     "appcast": "https://wavetogether.github.io/wave_design/sketch-plugins/releases/appcast.xml",
     "homepage": "https://wavetogether.github.io/wave_design/sketch-plugins"
+  },
+  {
+    "title": "Sketch Times",
+    "description": "A DataSupplier plugin to get Times",
+    "name": "sketch-times",
+    "owner": "xaddict",
+    "appcast": "https://raw.githubusercontent.com/xaddict/sketch-times/master/.appcast.xml",
+    "homepage": "https://github.com/xaddict/sketch-times",
+    "author": "Luuk Lamers"
   }
 ]
