@@ -6507,7 +6507,16 @@
     "name": "efficient-images-export",
     "owner": "BinLia",
     "appcast": "https://raw.githubusercontent.com/BinLia/efficient-image-export/master/.appcast.xml",
-    "homepage": "https://github.com/BinLia/efficient-image-export",   
+    "homepage": "https://github.com/BinLia/efficient-image-export",
     "author": "BinLia"
+  },
+  {
+    "title": "Potrace",
+    "description": "Convert bitmaps to vector graphics",
+    "name": "sketch-potrace",
+    "owner": "perrysmotors",
+    "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
+    "homepage": "https://github.com/perrysmotors/sketch-potrace",
+    "author": "Giles Perry"
   }
 ]
