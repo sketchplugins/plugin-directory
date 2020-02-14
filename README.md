@@ -425,6 +425,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Symbol Legend](https://github.com/amimagid/sketch-symbol-legend), by WIX Incubator: Legend for your Sketch Symbols.
 - [Sketch Sync](https://sensive.co), by Sensive: Create a collaboration hub for your Sketch files.
 - [Sketch Tiles](https://github.com/kumo/sketch-tiles), by Robert Clarke: A Sketch plugin for playing with seamless tiles.
+- [Sketch Times](https://github.com/xaddict/sketch-times), by Luuk Lamers: A DataSupplier plugin to get Times
 - [Sketch Tinypng Compressor](https://github.com/alxrm/sketch-tinypng-compressor), by Alex D: A Plugin that compresses bitmap assets using TinyPNG API. This Plugin *requires* Sketch 3.8.
 - [Sketch To View](https://github.com/kiranpuppala/sketch-to-view), by kiranpuppala: Generate android views from sketch
 - [Sketch Topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
