@@ -6420,6 +6420,16 @@
     "lastUpdated": "2020-01-23 08:49:28 UTC"
   },
   {
+    "title": "paxos-raft",
+    "description": "Generate React & React Native Apps.",
+    "name": "paxos-raft",
+    "owner": "paxos-raft",
+    "appcast": "https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/.appcast.xml",
+    "homepage": "https://github.com/paxos-raft/paxos-raft#readme",
+    "author": "Prateek Rastogi",
+    "lastUpdated": "2020-02-20 00:00:00 UTC"
+  },  
+  {
     "title": "Sketch Export Preferences",
     "description": "Import and Save Sketch Export Preferences",
     "name": "Sketch-Export-Preferences",
