@@ -6518,5 +6518,15 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry"
+  },
+  {
+    "title": "Attention Insight",
+    "description": "Generate attention heatmaps and instantly know where users look when engaging with your designs",
+    "name": "sketch-attentioninsight",
+    "owner": "Attention Insight",
+    "appcast": "https://raw.githubusercontent.com/attentioninsight/attention-insight-sketch-plugin/master/appcast.xml",
+    "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
+    "author": "Attention Insight",
+    "lastUpdated": "2020-02-20 12:00:00 UTC"
   }
 ]
