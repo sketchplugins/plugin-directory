@@ -6518,5 +6518,14 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry"
+  },
+  {
+    "title": "banking-data",
+    "description": "A DataSupplier plugin",
+    "name": "banking-data-supplier",
+    "owner": "nktx",
+    "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
+    "homepage": "https://github.com/nktx/banking-data-supplier",
+    "author": "Kent Yang"
   }
 ]
