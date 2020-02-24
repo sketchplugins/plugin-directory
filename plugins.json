@@ -6518,5 +6518,14 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry"
+  },
+  {
+    "title": "FindDirtyStyles",
+    "description": "A Sketch plugin to easily find text layers that are out of sync with their shared styles.",
+    "name": "FindDirtyStyles",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/FindDirtyStyles/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/FindDirtyStyles",
+    "author": "Kevin Gutowski"
   }
 ]
