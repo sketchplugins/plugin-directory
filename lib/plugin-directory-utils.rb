@@ -24,6 +24,6 @@ def titlefy string
     end
   end
   title = s.join(' ')
-  puts title
+  # puts title
   return title
 end

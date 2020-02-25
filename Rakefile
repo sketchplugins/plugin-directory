@@ -4,8 +4,7 @@ require 'json'
 require 'time'
 require "./lib/plugin-directory-utils"
 
-GITHUB_AUTH_TOKEN = `git config com.bohemiancoding.qa.token`.strip
-USERNAME = `git config github.user`.strip
+GITHUB_AUTH_TOKEN = ENV['GITHUB_TOKEN']
 
 def title_for plugin
   title = plugin['title'] || plugin['name']
@@ -78,7 +77,7 @@ EOF
 
   plugins.sort_by { |k| [ (k["title"] ? k["title"].downcase : k["name"].downcase), (k["owner"] ? k["owner"].downcase : k["author"].downcase) ] }.each do |plugin|
 
-    puts "Processing #{plugin}"
+    # puts "Processing #{plugin}"
 
     name   = plugin['name']
     title  = title_for plugin
@@ -121,7 +120,7 @@ EOF
     owner  = plugin['owner']
     author = plugin['author'] || owner
     url    = plugin['homepage'] || "https://github.com/#{owner.downcase}/#{name.downcase}"
-    desc   = plugin['description'].strip
+    desc   = (plugin['description'] || "").strip
     output << "- [#{title}](#{url}), by #{author}:"
     if !desc.empty?
       output << " #{desc}"
