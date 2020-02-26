@@ -895,7 +895,7 @@
     "author": "Florian Schulz",
     "title": "Color Contrast Analyser",
     "name": "Sketch-Color-Contrast-Analyser",
-    "lastUpdated": "2020-02-21 08:15:42 UTC"
+    "lastUpdated": "2018-05-26 15:41:34 UTC"
   },
   {
     "description": "Plugin that allows you to set the line height of a text layer as a multiple of the font size.",
@@ -1340,7 +1340,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2020-02-16 05:29:42 UTC"
+    "lastUpdated": "2020-02-09 16:25:35 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -3224,7 +3224,7 @@
     "title": "Google Sheets Content Sync",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2020-02-20 20:20:14 UTC"
+    "lastUpdated": "2018-11-18 05:33:38 UTC"
   },
   {
     "title": "Sketch Material",
@@ -3410,7 +3410,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-instance-locator",
-    "lastUpdated": "2020-02-21 15:28:27 UTC"
+    "lastUpdated": "2019-04-11 21:12:03 UTC"
   },
   {
     "title": "Symbol Swapper",
@@ -4012,7 +4012,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2020-02-19 14:27:01 UTC"
+    "lastUpdated": "2018-05-15 20:10:00 UTC"
   },
   {
     "title": "Chromata",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-02-18 12:38:47 UTC"
+    "lastUpdated": "2020-02-13 12:32:12 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -6518,6 +6518,25 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry"
+  },
+  {
+    "title": "Attention Insight",
+    "description": "Generate attention heatmaps and instantly know where users look when engaging with your designs",
+    "name": "sketch-attentioninsight",
+    "owner": "Attention Insight",
+    "appcast": "https://raw.githubusercontent.com/attentioninsight/attention-insight-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
+    "author": "Attention Insight",
+    "lastUpdated": "2020-02-20 12:00:00 UTC"
+  },
+  {
+    "title": "banking-data",
+    "description": "A DataSupplier plugin",
+    "name": "banking-data-supplier",
+    "owner": "nktx",
+    "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
+    "homepage": "https://github.com/nktx/banking-data-supplier",
+    "author": "Kent Yang"
   },
   {
     "title": "UI House",
