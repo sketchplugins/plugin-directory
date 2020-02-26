@@ -6537,5 +6537,14 @@
     "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
     "homepage": "https://github.com/nktx/banking-data-supplier",
     "author": "Kent Yang"
+  },
+  {
+    "title": "UI House",
+    "description": "Import resources directly to Sketch, from the web.",
+    "name": "ui-house",
+    "owner": "Jarek Ostrowski & David Diefenderfer",
+    "appcast": "https://www.ui.house/assets/downloads/plugin/appcast.xml",
+    "homepage": "https://www.ui.house",
+    "author": "Jarek Ostrowski & David Diefenderfer"
   }
 ]
