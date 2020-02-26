@@ -6546,5 +6546,14 @@
     "appcast": "https://www.ui.house/assets/downloads/plugin/appcast.xml",
     "homepage": "https://www.ui.house",
     "author": "Jarek Ostrowski & David Diefenderfer"
+  },
+  {
+    "title": "search-sketch",
+    "description": "Search in sketch with multilang support",
+    "name": "search-sketch",
+    "owner": "candy02058912",
+    "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/candy02058912/search-sketch",
+    "author": "Candy Tsai"
   }
 ]
