@@ -6518,5 +6518,14 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry"
+  },
+  {
+    "title": "search-sketch",
+    "description": "Search in sketch with multilang support",
+    "name": "search-sketch",
+    "owner": "candy02058912",
+    "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/candy02058912/search-sketch",
+    "author": "Candy Tsai"
   }
 ]
