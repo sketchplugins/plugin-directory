@@ -293,7 +293,7 @@
     "owner": "cranksoftwaredev",
     "author": "Crank Software Inc.",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "lastUpdated": "2019-05-23 20:06:10 UTC"
+    "lastUpdated": "2020-02-11 19:59:32 UTC"
   },
   {
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
@@ -1340,7 +1340,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2019-09-21 14:55:25 UTC"
+    "lastUpdated": "2020-02-09 16:25:35 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -1721,7 +1721,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-02-02 15:35:04 UTC"
+    "lastUpdated": "2020-02-11 09:35:09 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2271,7 +2271,7 @@
     "name": "Language-Sketch-Plugin",
     "owner": "hoai265",
     "author": "Hoai Nguyen",
-    "lastUpdated": "2019-01-28 11:32:30 UTC"
+    "lastUpdated": "2020-02-15 09:54:51 UTC"
   },
   {
     "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-01-21 10:40:27 UTC"
+    "lastUpdated": "2020-02-13 12:32:12 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -6518,5 +6518,14 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry"
+  },
+  {
+    "title": "banking-data",
+    "description": "A DataSupplier plugin",
+    "name": "banking-data-supplier",
+    "owner": "nktx",
+    "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
+    "homepage": "https://github.com/nktx/banking-data-supplier",
+    "author": "Kent Yang"
   }
 ]
