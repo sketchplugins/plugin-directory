@@ -293,7 +293,7 @@
     "owner": "cranksoftwaredev",
     "author": "Crank Software Inc.",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "lastUpdated": "2019-05-23 20:06:10 UTC"
+    "lastUpdated": "2020-02-11 19:59:32 UTC"
   },
   {
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
@@ -1340,7 +1340,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2019-09-21 14:55:25 UTC"
+    "lastUpdated": "2020-02-09 16:25:35 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -1721,7 +1721,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-02-02 15:35:04 UTC"
+    "lastUpdated": "2020-02-11 09:35:09 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2271,7 +2271,7 @@
     "name": "Language-Sketch-Plugin",
     "owner": "hoai265",
     "author": "Hoai Nguyen",
-    "lastUpdated": "2019-01-28 11:32:30 UTC"
+    "lastUpdated": "2020-02-15 09:54:51 UTC"
   },
   {
     "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-01-21 10:40:27 UTC"
+    "lastUpdated": "2020-02-13 12:32:12 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -6492,5 +6492,78 @@
     "owner": "ahmedmigo",
     "name": "ViewFinder-Sketchplugin",
     "lastUpdated": "2020-02-05 10:02:21 UTC"
+  },
+  {
+    "title": "Playful Design Tools",
+    "description": "Sketch.app plugin to help design faster",
+    "name": "Playful Design Tools",
+    "author": "WAVE Corp.",
+    "owner": "WAVE Corp.",
+    "appcast": "https://wavetogether.github.io/wave_design/sketch-plugins/releases/appcast.xml",
+    "homepage": "https://wavetogether.github.io/wave_design/sketch-plugins"
+  },
+  {
+    "title": "Sketch Times",
+    "description": "A DataSupplier plugin to get Times",
+    "name": "sketch-times",
+    "owner": "xaddict",
+    "appcast": "https://raw.githubusercontent.com/xaddict/sketch-times/master/.appcast.xml",
+    "homepage": "https://github.com/xaddict/sketch-times",
+    "author": "Luuk Lamers"
+  },
+  {
+    "title": "efficient images export Sketchplugin",
+    "description": "efficient images export for image sketch",
+    "name": "efficient-images-export",
+    "owner": "BinLia",
+    "appcast": "https://raw.githubusercontent.com/BinLia/efficient-image-export/master/.appcast.xml",
+    "homepage": "https://github.com/BinLia/efficient-image-export",
+    "author": "BinLia"
+  },
+  {
+    "title": "Potrace",
+    "description": "Convert bitmaps to vector graphics",
+    "name": "sketch-potrace",
+    "owner": "perrysmotors",
+    "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
+    "homepage": "https://github.com/perrysmotors/sketch-potrace",
+    "author": "Giles Perry"
+  },
+  {
+    "title": "Attention Insight",
+    "description": "Generate attention heatmaps and instantly know where users look when engaging with your designs",
+    "name": "sketch-attentioninsight",
+    "owner": "Attention Insight",
+    "appcast": "https://raw.githubusercontent.com/attentioninsight/attention-insight-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
+    "author": "Attention Insight",
+    "lastUpdated": "2020-02-20 12:00:00 UTC"
+  },
+  {
+    "title": "banking-data",
+    "description": "A DataSupplier plugin",
+    "name": "banking-data-supplier",
+    "owner": "nktx",
+    "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
+    "homepage": "https://github.com/nktx/banking-data-supplier",
+    "author": "Kent Yang"
+  },
+  {
+    "title": "UI House",
+    "description": "Import resources directly to Sketch, from the web.",
+    "name": "ui-house",
+    "owner": "Jarek Ostrowski & David Diefenderfer",
+    "appcast": "https://www.ui.house/assets/downloads/plugin/appcast.xml",
+    "homepage": "https://www.ui.house",
+    "author": "Jarek Ostrowski & David Diefenderfer"
+  },
+  {
+    "title": "search-sketch",
+    "description": "Search in sketch with multilang support",
+    "name": "search-sketch",
+    "owner": "candy02058912",
+    "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/candy02058912/search-sketch",
+    "author": "Candy Tsai"
   }
 ]
