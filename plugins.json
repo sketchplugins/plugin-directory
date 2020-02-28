@@ -6428,7 +6428,7 @@
     "homepage": "https://github.com/paxos-raft/paxos-raft#readme",
     "author": "Prateek Rastogi",
     "lastUpdated": "2020-02-20 00:00:00 UTC"
-  },  
+  },
   {
     "title": "Sketch Export Preferences",
     "description": "Import and Save Sketch Export Preferences",
@@ -6565,5 +6565,14 @@
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
     "homepage": "https://github.com/candy02058912/search-sketch",
     "author": "Candy Tsai"
+  },
+  {
+    "title": "GxDesignOps",
+    "description": "Sketch Plugin For GeneXus internal use",
+    "name": "sketchdesignops",
+    "owner": "genexuslabs",
+    "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
+    "homepage": "https://github.com/genexuslabs/sketchdesignops",
+    "author": "Gastón Milano"
   }
 ]
