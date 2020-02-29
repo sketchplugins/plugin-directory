@@ -6428,7 +6428,7 @@
     "homepage": "https://github.com/paxos-raft/paxos-raft#readme",
     "author": "Prateek Rastogi",
     "lastUpdated": "2020-02-20 00:00:00 UTC"
-  },  
+  },
   {
     "title": "Sketch Export Preferences",
     "description": "Import and Save Sketch Export Preferences",
@@ -6565,5 +6565,13 @@
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
     "homepage": "https://github.com/candy02058912/search-sketch",
     "author": "Candy Tsai"
+  },
+  {
+    "title": "Merge Duplicates",
+    "name": "merge-duplicates",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/merge-duplicates/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/merge-duplicates",
+    "author": "oodesign"
   }
 ]
