@@ -2271,7 +2271,7 @@
     "name": "Language-Sketch-Plugin",
     "owner": "hoai265",
     "author": "Hoai Nguyen",
-    "lastUpdated": "2020-02-15 09:54:51 UTC"
+    "lastUpdated": "2020-02-25 03:28:25 UTC"
   },
   {
     "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2019-07-26 15:35:28 UTC"
+    "lastUpdated": "2020-02-29 17:43:43 UTC"
   },
   {
     "title": "Blender",
@@ -3986,7 +3986,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
-    "lastUpdated": "2020-01-18 09:48:25 UTC"
+    "lastUpdated": "2020-02-23 13:34:22 UTC"
   },
   {
     "title": "Format Symbol Names",
@@ -3994,7 +3994,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "format-symbol-names",
-    "lastUpdated": "2018-10-22 15:33:56 UTC"
+    "lastUpdated": "2020-02-23 13:37:19 UTC"
   },
   {
     "title": "Reset Image Aspect Ratio",
@@ -4002,7 +4002,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
-    "lastUpdated": "2019-03-01 12:37:20 UTC"
+    "lastUpdated": "2020-02-23 13:24:17 UTC"
   },
   {
     "title": "Inter UI Character Spacing",
@@ -4067,7 +4067,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "photo-grid",
-    "lastUpdated": "2019-03-01 14:21:59 UTC"
+    "lastUpdated": "2020-02-24 07:55:28 UTC"
   },
   {
     "title": "Stickers",
