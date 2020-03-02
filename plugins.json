@@ -6565,5 +6565,12 @@
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
     "homepage": "https://github.com/candy02058912/search-sketch",
     "author": "Candy Tsai"
+  },
+  {
+    "title": "Lightswitch",
+    "name": "lightswitch-sketch",
+    "owner": "TheBerriman",
+    "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/TheBerriman/lightswitch-sketch"
   }
 ]
