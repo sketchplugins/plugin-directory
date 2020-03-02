@@ -6558,6 +6558,14 @@
     "author": "Jarek Ostrowski & David Diefenderfer"
   },
   {
+    "title": "Decentralized-Internet",
+    "description": "Sketch Plugin for the Decentralized-Internet SDK integration, internal and external usage",
+    "name": "decentralized-internet",
+    "owner": "Lonero-Team",
+    "homepage": "https://github.com/Lonero-Team/Decentralized-Internet/releases/tag/v1.0_skpm",
+    "author": "The Lonero Foundation"
+  },      
+    {
     "title": "search-sketch",
     "description": "Search in sketch with multilang support",
     "name": "search-sketch",
