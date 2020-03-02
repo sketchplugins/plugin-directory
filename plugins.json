@@ -6565,5 +6565,14 @@
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
     "homepage": "https://github.com/candy02058912/search-sketch",
     "author": "Candy Tsai"
+  },
+  {
+    "title": "DatesFromNow",
+    "description": "Simple data plugin to fill dates from now",
+    "name": "Sketch_DatesFormNow",
+    "owner": "LeipeLeon",
+    "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
+    "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
+    "author": "Leon Berenschot"
   }
 ]
