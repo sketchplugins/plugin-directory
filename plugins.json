@@ -6567,6 +6567,15 @@
     "author": "Candy Tsai"
   },
   {
+    "title": "Copy Optimized SVG Code",
+    "description": "Sketch plugin to copy optimized svg code",
+    "name": "copy-optimized-svg-code",
+    "owner": "chenxsan",
+    "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
+    "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
+    "author": "chenxsan"
+  },
+  {
     "title": "Lightswitch",
     "name": "lightswitch-sketch",
     "owner": "TheBerriman",
