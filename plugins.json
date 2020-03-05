@@ -6567,6 +6567,16 @@
     "author": "Candy Tsai"
   },
   {
+    "owner": "Akash Shetye",
+    "name": "Sketch Map",
+    "title": "Sketch Map",
+    "description": "Get a bird's eye views of your prototype flows.",
+    "appcast": "https://raw.githubusercontent.com/she1991/Sketch-Map/master/.appcast.xml",
+    "author": "Akash Shetye",
+    "homepage": "https://github.com/she1991/Sketch-Map",
+    "lastUpdated": "2020-03-04 12:00:00 UTC"
+  },
+  {
     "title": "Copy Optimized SVG Code",
     "description": "Sketch plugin to copy optimized svg code",
     "name": "copy-optimized-svg-code",
