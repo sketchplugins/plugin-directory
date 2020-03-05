@@ -99,6 +99,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy & Paste Shadows](https://github.com/ryanjohnson-me/sketch-copy-paste-shadows), by Ryan Johnson: Copy & paste only shadow styles from layers without others styles getting in the way.
 - [Copy as React Component (jsx)](https://github.com/jasondonnette/sketch-copy-as-react-component), by Jason Donnette: Generate a React components from Sketch with a keyboard shortcut
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
+- [Copy Optimized SVG Code](https://github.com/chenxsan/copy-optimized-svg-code), by chenxsan: Sketch plugin to copy optimized svg code
 - [Copy Paste Position & Size](https://github.com/angistudio/sketch-copy-paste-position-size), by ANGI studio: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
 - [Copy Paste Shadows](https://github.com/iarthstar/copy-paste-shadows), by iarthstar: Plugin to copy paste shadows across layers
 - [copycat](https://github.com/azhsetiawan/sketch-copycat), by Ashar Setiawan: sketch plugin
