@@ -6567,6 +6567,13 @@
     "author": "Candy Tsai"
   },
   {
+    "title": "Lightswitch",
+    "name": "lightswitch-sketch",
+    "owner": "TheBerriman",
+    "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/TheBerriman/lightswitch-sketch"
+  },
+  {
     "title": "DatesFromNow",
     "description": "Simple data plugin to fill dates from now",
     "name": "Sketch_DatesFormNow",
