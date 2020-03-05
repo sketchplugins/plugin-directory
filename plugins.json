@@ -6567,6 +6567,15 @@
     "author": "Candy Tsai"
   },
   {
+    "title": "Sketch Dark Mode",
+    "description": "Generate a dark mode version of any document, the right way.",
+    "name": "sketch-dark-mode",
+    "owner": "eddiesigner",
+    "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
+    "homepage": "https://sketch-dark-mode.eduardogomez.io",
+    "author": "Eduardo Gómez"
+  },
+  {
     "title": "Trim-Artboard",
     "description": "A Sketch plugin to trim the bottom of an artboard",
     "name": "Trim-Artboard",
