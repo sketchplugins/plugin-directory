@@ -6575,5 +6575,30 @@
     "author": "Akash Shetye",
     "homepage": "https://github.com/she1991/Sketch-Map",
     "lastUpdated": "2020-03-04 12:00:00 UTC"
+  },
+  {
+    "title": "Copy Optimized SVG Code",
+    "description": "Sketch plugin to copy optimized svg code",
+    "name": "copy-optimized-svg-code",
+    "owner": "chenxsan",
+    "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
+    "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
+    "author": "chenxsan"
+  },
+  {
+    "title": "Lightswitch",
+    "name": "lightswitch-sketch",
+    "owner": "TheBerriman",
+    "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/TheBerriman/lightswitch-sketch"
+  },
+  {
+    "title": "DatesFromNow",
+    "description": "Simple data plugin to fill dates from now",
+    "name": "Sketch_DatesFormNow",
+    "owner": "LeipeLeon",
+    "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
+    "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
+    "author": "Leon Berenschot"
   }
 ]
