@@ -6565,5 +6565,14 @@
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
     "homepage": "https://github.com/candy02058912/search-sketch",
     "author": "Candy Tsai"
+  },
+  {
+    "title": "Trim-Artboard",
+    "description": "A Sketch plugin to trim the bottom of an artboard",
+    "name": "Trim-Artboard",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Trim-Artboard/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Trim-Artboard",
+    "author": "Jonathan Tran"
   }
 ]
