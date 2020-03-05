@@ -221,6 +221,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Library Replacer](https://github.com/BohemianCoding/library-replacer-sketchplugin), by Sketch: Quickly replace instances of shared Symbols and Styles.
 - [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer), by zeroheight: Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚
 - [Library Audit](https://github.com/naughtandcross/sketch-library-audit), by Colby Grenier: Export Symbol and Shared Style data from any Sketch Library to CSV.
+- [Lightswitch](https://github.com/TheBerriman/lightswitch-sketch), by TheBerriman:
 - [Lightwire](https://github.com/alex-matt/sketch-lightwire-plugin), by Alex & Matt: Plugin with ready-to-use wireframes that help you to bring your ideas to life fast and easy. You can find necessary wireframes using categories or search.
 - [Live Planet Sketch Datasupplier](https://github.com/Craigtut/liveplanet-sketch-datasupplier), by Craig Tuttle: Supply's real data from Live Planet's API to Sketch for testing designs
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
