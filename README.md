@@ -358,6 +358,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints), by Marc Bouchenoire: A plugin that integrates constraints in Sketch to lay out layers.
 - [Sketch Copy Paste Layout Settings](https://github.com/francisvega/sketch-copy-paste-layout-settings), by Francis: Copy layout settings from one artboard and paste into multiples artboards.
 - [Sketch Copy Text Only](https://github.com/explorador/sketch-copy-text-only), by Cristian: Sketch plugin to copy only the text from selected artboard(s) or layer(s)
+- [Sketch Dark Mode](https://sketch-dark-mode.eduardogomez.io), by Eduardo Gómez: Generate a dark mode version of any document, the right way.
 - [Sketch Data Faker](https://github.com/paintedbicycle/sketch-data-faker), by paintedbicycle: A Sketch data plugin providing data for you mockups from Faker.js
 - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Sketch Data Studio](http://thetylerwolf.github.io/sketch-data-studio), by thetylerwolf: Sketch plugin to generate charts and data for data tables.
