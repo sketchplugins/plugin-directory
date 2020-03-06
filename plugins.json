@@ -3283,7 +3283,7 @@
   {
     "title": "Merge Duplicate Symbols",
     "description": "Sketch.app plugin to merge symbols with the same name.",
-    "author": "Oscar Oto",
+    "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
     "lastUpdated": "2020-02-29 17:43:43 UTC"
@@ -3916,7 +3916,7 @@
   {
     "title": "Icon Tools",
     "description": "Sketch.app plugin to clean icons and to prepare them for a clean export without tints and masks.",
-    "author": "Oscar Oto",
+    "author": "oodesign",
     "owner": "oodesign",
     "name": "icon-tools",
     "lastUpdated": "2019-04-12 06:59:46 UTC"
@@ -6106,8 +6106,7 @@
     "owner": "oodesign",
     "appcast": "https://github.com/oodesign/arrange-artboards-hierarchically/blob/master/appcast.xml",
     "homepage": "https://github.com/oodesign/arrange-artboards-hierarchically",
-    "author": "oodesign",
-    "lastUpdated": "2019-05-13 07:23:16 UTC"
+    "author": "oodesign"
   },
   {
     "title": "Duplicate Under",
@@ -6116,8 +6115,7 @@
     "owner": "oodesign",
     "appcast": "https://github.com/oodesign/duplicate-under/blob/master/appcast.xml",
     "homepage": "https://github.com/oodesign/duplicate-under",
-    "author": "oodesign",
-    "lastUpdated": "2019-04-24 17:08:37 UTC"
+    "author": "oodesign"
   },
   {
     "title": "organizeLayers",
