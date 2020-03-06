@@ -190,6 +190,36 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
 - [Iban Generator](https://github.com/idriesalbender/iban-sketch-plugin), by idix: Generate random International Bank Account Numbers (IBAN)
+- [IcanIcon](https://github.com/Sugarcode-Team/icanicon-sketch-plugin), by Sugarcode: **Info: This plugin can be used with an icanicon.io Supernova subscription**
+icanicon.io is a middleware between your Design System and its real applications. It allows you to keep your icon libraries in sync by processing any vector graphics and transforming them into ready-to-use, clean code components.   The plugin enables you to directly push any updates or changes to icanicon.io so that your engineering team will be able to fetch the latest version for any given framework at any time.  
+How your Figma file is interpreted:
+•  Frame, Component, Instance = Icons
+•  Group = Segment
+•  Page = (irrelevant)
+•  File = Board
+
+Good to know
+•  You can download a template in case you are uncertain about the structure: https://icanicon.io/syncing-figma-files
+•  Avoid including mockups, larger components or other elements that are not meant to be icons in your export file.
+•  Choose your file naming-convention wisely as these names will automatically be carried over to your codebase.
+ Supported formats:
+•  React (.js)
+•  Vue (.js)
+ •  Angular (.js)
+•  ReactNative (.js)
+•  Android (.xml)
+•  iOS (.pdf)
+•  Meteor (.html)
+•  Icon Font (.ttf)
+•  Custom File (Create your own template with any given file-ending and structure) 
+•  Vector Graphic (.svg) (as a clean version stripped off everything unnecessary)
+•  Pixel Graphic (.png) (with any size you like)
+•  Portable Document (.pdf)
+
+Export options:
+•  Manual Export: Download any singular icon or bulks in any format even simultaneously.
+•  API Access: Use your token to fetch any icon, segment or board you like. This also opens up the possibility of file-less rendering
+•  Sync Command: In your icon directory execute our ii-client command to sync your assets locally
 - [Icon Tools](https://github.com/oodesign/icon-tools), by oodesign: Sketch.app plugin to clean icons and to prepare them for a clean export without tints and masks.
 - [Icondrop](https://github.com/iconscout/icondrop), by Iconscout: Get access to 300,000+ icons right into Sketch App
 - [Iconify](https://github.com/iconify/iconify-sketch), by Vjacheslav Trushkin: Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document.
