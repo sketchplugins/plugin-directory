@@ -6618,5 +6618,14 @@
     "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
     "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
     "author": "Leon Berenschot"
+  },
+  {
+    "title": "GxDesignOps",
+    "description": "Sketch Plugin For GeneXus internal use",
+    "name": "sketchdesignops",
+    "owner": "genexuslabs",
+    "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
+    "homepage": "https://github.com/genexuslabs/sketchdesignops",
+    "author": "Gastón Milano"
   }
 ]
