@@ -6567,6 +6567,14 @@
     "author": "Candy Tsai"
   },
   {
+    "title": "Merge Duplicates",
+    "name": "merge-duplicates",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/merge-duplicates/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/merge-duplicates",
+    "author": "oodesign"
+  },
+  {
     "title": "Sketch Dark Mode",
     "description": "Generate a dark mode version of any document, the right way.",
     "name": "sketch-dark-mode",
