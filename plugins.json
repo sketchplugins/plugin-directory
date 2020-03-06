@@ -6620,6 +6620,15 @@
     "author": "Leon Berenschot"
   },
   {
+    "title": "GxDesignOps",
+    "description": "Sketch Plugin For GeneXus internal use",
+    "name": "sketchdesignops",
+    "owner": "genexuslabs",
+    "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
+    "homepage": "https://github.com/genexuslabs/sketchdesignops",
+    "author": "Gastón Milano"
+  },
+  {
     "title": "Toggle Gregscale",
     "description": "A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.",
     "name": "greyscale",
