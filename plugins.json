@@ -6100,6 +6100,16 @@
     "lastUpdated": "2019-12-20 01:16:35 UTC"
   },
   {
+    "title": "Arrange artboards hierarchically",
+    "description": "Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).",
+    "name": "arrange-artboards-hierarchically",
+    "owner": "oodesign",
+    "appcast": "https://github.com/oodesign/arrange-artboards-hierarchically/blob/master/appcast.xml",
+    "homepage": "https://github.com/oodesign/arrange-artboards-hierarchically",
+    "author": "oodesign",
+    "lastUpdated": "2019-05-13 07:23:16 UTC"
+  },
+  {
     "title": "organizeLayers",
     "description": "A plugin that allows short key commands to move layers up, down and reverse positions ↕️",
     "name": "organizeLayers",
