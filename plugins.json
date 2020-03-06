@@ -895,7 +895,7 @@
     "author": "Florian Schulz",
     "title": "Color Contrast Analyser",
     "name": "Sketch-Color-Contrast-Analyser",
-    "lastUpdated": "2018-05-26 15:41:34 UTC"
+    "lastUpdated": "2020-02-21 08:15:42 UTC"
   },
   {
     "description": "Plugin that allows you to set the line height of a text layer as a multiple of the font size.",
@@ -1340,7 +1340,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2020-02-09 16:25:35 UTC"
+    "lastUpdated": "2020-02-16 05:29:42 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -2271,7 +2271,7 @@
     "name": "Language-Sketch-Plugin",
     "owner": "hoai265",
     "author": "Hoai Nguyen",
-    "lastUpdated": "2020-02-15 09:54:51 UTC"
+    "lastUpdated": "2020-02-25 03:28:25 UTC"
   },
   {
     "description": "Sketch plugin. Paste text data from clipboard to Sketch text layers",
@@ -3224,7 +3224,7 @@
     "title": "Google Sheets Content Sync",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2018-11-18 05:33:38 UTC"
+    "lastUpdated": "2020-02-20 20:20:14 UTC"
   },
   {
     "title": "Sketch Material",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2019-07-26 15:35:28 UTC"
+    "lastUpdated": "2020-02-29 17:43:43 UTC"
   },
   {
     "title": "Blender",
@@ -3410,7 +3410,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-instance-locator",
-    "lastUpdated": "2019-04-11 21:12:03 UTC"
+    "lastUpdated": "2020-02-21 15:28:27 UTC"
   },
   {
     "title": "Symbol Swapper",
@@ -3986,7 +3986,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
-    "lastUpdated": "2020-01-18 09:48:25 UTC"
+    "lastUpdated": "2020-02-23 13:34:22 UTC"
   },
   {
     "title": "Format Symbol Names",
@@ -3994,7 +3994,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "format-symbol-names",
-    "lastUpdated": "2018-10-22 15:33:56 UTC"
+    "lastUpdated": "2020-02-23 13:37:19 UTC"
   },
   {
     "title": "Reset Image Aspect Ratio",
@@ -4002,7 +4002,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
-    "lastUpdated": "2019-03-01 12:37:20 UTC"
+    "lastUpdated": "2020-02-23 13:24:17 UTC"
   },
   {
     "title": "Inter UI Character Spacing",
@@ -4012,7 +4012,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2018-05-15 20:10:00 UTC"
+    "lastUpdated": "2020-02-19 14:27:01 UTC"
   },
   {
     "title": "Chromata",
@@ -4067,7 +4067,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "photo-grid",
-    "lastUpdated": "2019-03-01 14:21:59 UTC"
+    "lastUpdated": "2020-02-24 07:55:28 UTC"
   },
   {
     "title": "Stickers",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-02-13 12:32:12 UTC"
+    "lastUpdated": "2020-02-18 12:38:47 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -6573,5 +6573,76 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/merge-duplicates/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/merge-duplicates",
     "author": "oodesign"
+  },
+  {
+    "title": "Sketch Dark Mode",
+    "description": "Generate a dark mode version of any document, the right way.",
+    "name": "sketch-dark-mode",
+    "owner": "eddiesigner",
+    "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
+    "homepage": "https://sketch-dark-mode.eduardogomez.io",
+    "author": "Eduardo Gómez"
+  },
+  {
+    "title": "Trim-Artboard",
+    "description": "A Sketch plugin to trim the bottom of an artboard",
+    "name": "Trim-Artboard",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Trim-Artboard/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Trim-Artboard",
+    "author": "Jonathan Tran"
+  },
+  {
+    "owner": "Akash Shetye",
+    "name": "Sketch Map",
+    "title": "Sketch Map",
+    "description": "Get a bird's eye views of your prototype flows.",
+    "appcast": "https://raw.githubusercontent.com/she1991/Sketch-Map/master/.appcast.xml",
+    "author": "Akash Shetye",
+    "homepage": "https://github.com/she1991/Sketch-Map",
+    "lastUpdated": "2020-03-04 12:00:00 UTC"
+  },
+  {
+    "title": "Copy Optimized SVG Code",
+    "description": "Sketch plugin to copy optimized svg code",
+    "name": "copy-optimized-svg-code",
+    "owner": "chenxsan",
+    "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
+    "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
+    "author": "chenxsan"
+  },
+  {
+    "title": "Lightswitch",
+    "name": "lightswitch-sketch",
+    "owner": "TheBerriman",
+    "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/TheBerriman/lightswitch-sketch"
+  },
+  {
+    "title": "DatesFromNow",
+    "description": "Simple data plugin to fill dates from now",
+    "name": "Sketch_DatesFormNow",
+    "owner": "LeipeLeon",
+    "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
+    "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
+    "author": "Leon Berenschot"
+  },
+  {
+    "title": "GxDesignOps",
+    "description": "Sketch Plugin For GeneXus internal use",
+    "name": "sketchdesignops",
+    "owner": "genexuslabs",
+    "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
+    "homepage": "https://github.com/genexuslabs/sketchdesignops",
+    "author": "Gastón Milano"
+  },
+  {
+    "title": "Toggle Gregscale",
+    "description": "A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.",
+    "name": "greyscale",
+    "owner": "KevinGutowski",
+    "appcast": "https://github.com/KevinGutowski/ToggleGreyscale/raw/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/ToggleGreyscale",
+    "author": "Kevin Gutowski"
   }
 ]
