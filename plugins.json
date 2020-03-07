@@ -6656,12 +6656,21 @@
     "author": "Gastón Milano"
   },
   {
-    "title": "Toggle Gregscale",
+    "title": "Toggle Greyscale",
     "description": "A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.",
     "name": "greyscale",
     "owner": "KevinGutowski",
     "appcast": "https://github.com/KevinGutowski/ToggleGreyscale/raw/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/ToggleGreyscale",
+    "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Find Dirty Styles",
+    "description": "A Sketch plugin to easily find layers that are out of sync with their shared styles.",
+    "name": "finddirtystyles",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/FindDirtyStyles/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/FindDirtyStyles",
     "author": "Kevin Gutowski"
   }
 ]
