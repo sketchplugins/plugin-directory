@@ -6665,6 +6665,14 @@
     "author": "Kevin Gutowski"
   },
   {
+    "title": "Toggle Pixel Fitting",
+    "description": "A simple plugin to change your pixel fitting preference.",
+    "name": "PixelFit",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/PixelFit/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/PixelFit",
+  },
+  {
     "title": "Tiled for Sketch",
     "description": "Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code.",
     "name": "tiled-for-sketch",
