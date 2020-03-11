@@ -190,36 +190,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [HSL Color Picker](https://github.com/ashung/hsl_color_picker), by Ashung Hung: HSL Color Picker for Sketch
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
 - [Iban Generator](https://github.com/idriesalbender/iban-sketch-plugin), by idix: Generate random International Bank Account Numbers (IBAN)
-- [IcanIcon](https://github.com/Sugarcode-Team/icanicon-sketch-plugin), by Sugarcode: **Info: This plugin can be used with an icanicon.io Supernova subscription**
-icanicon.io is a middleware between your Design System and its real applications. It allows you to keep your icon libraries in sync by processing any vector graphics and transforming them into ready-to-use, clean code components.   The plugin enables you to directly push any updates or changes to icanicon.io so that your engineering team will be able to fetch the latest version for any given framework at any time.  
-How your Figma file is interpreted:
-•  Frame, Component, Instance = Icons
-•  Group = Segment
-•  Page = (irrelevant)
-•  File = Board
-
-Good to know
-•  You can download a template in case you are uncertain about the structure: https://icanicon.io/syncing-figma-files
-•  Avoid including mockups, larger components or other elements that are not meant to be icons in your export file.
-•  Choose your file naming-convention wisely as these names will automatically be carried over to your codebase.
- Supported formats:
-•  React (.js)
-•  Vue (.js)
- •  Angular (.js)
-•  ReactNative (.js)
-•  Android (.xml)
-•  iOS (.pdf)
-•  Meteor (.html)
-•  Icon Font (.ttf)
-•  Custom File (Create your own template with any given file-ending and structure) 
-•  Vector Graphic (.svg) (as a clean version stripped off everything unnecessary)
-•  Pixel Graphic (.png) (with any size you like)
-•  Portable Document (.pdf)
-
-Export options:
-•  Manual Export: Download any singular icon or bulks in any format even simultaneously.
-•  API Access: Use your token to fetch any icon, segment or board you like. This also opens up the possibility of file-less rendering
-•  Sync Command: In your icon directory execute our ii-client command to sync your assets locally
+- [IcanIcon](https://github.com/Sugarcode-Team/icanicon-sketch-plugin), by Sugarcode: icanicon.io allows you to keep your icon libraries in sync with your Design System.
 - [Icon Tools](https://github.com/oodesign/icon-tools), by oodesign: Sketch.app plugin to clean icons and to prepare them for a clean export without tints and masks.
 - [Icondrop](https://github.com/iconscout/icondrop), by Iconscout: Get access to 300,000+ icons right into Sketch App
 - [Iconify](https://github.com/iconify/iconify-sketch), by Vjacheslav Trushkin: Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document.
@@ -365,7 +336,7 @@ Export options:
 - [Scribble](https://www.canvasflip.com/visual-inspector/scribble/), by CanvasFlip Inc: Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.
 - [scssketch](https://github.com/devmynd/scssketch), by TAND&M: Custom tools for living the ultimate the TAND&M life. Built with love and care by Sarah Aslanifar, Drew Vosburg, and Max Oppenheimer
 - [Sd Changer](https://github.com/yeun/sd-changer), by jeongheeyeun: Converts Apple SD Gothic Neo font to SF Pro Display
-- [Search Sketch](https://github.com/candy02058912/search-sketch), by Candy Tsai: Search in sketch with multilang support
+- [Search Sketch](https://github.com/candy02058912/search-sketch), by Candy Tsai: Search in Sketch with multilang support
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
 - [Seoul](https://github.com/sunkibaek/Seoul), by Sunki Baek: A DataSupplier plugin
@@ -516,7 +487,6 @@ Export options:
 - [SVG to React Component](https://github.com/reeli/sketch-svg-to-react-component), by reeli: Sketch plugin to compress SVG and transform it to React (include React Native) components. By copy React component directly to you clipboard or export as files.
 - [SVG Bem](https://github.com/mLihs/svg-bem), by Atomatic: A Plugin for SVG export to convert IDs to Classes, create BEM Styled Naming Based on Layers. Uses SVGO to compresse and Clean up SVGs, right when you export them. Based on the SVGO Compressor Plugin
 - [SVGO Compressor](https://sketchapp.com/extensions/plugins/svgo-compressor/), by Bohemian Coding: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
-- [SVGO Export](https://github.com/josephmcasey/sketch-plugin-svgo-unique-id), by Joseph Casey: Uses SVGO to compress exported SVG assets
 - [Swap Styles](https://github.com/ozzik/swap-styles), by Oz Pinhas: Sketch plugin for swaping styles between two layers.
 - [Swap Width Height](https://github.com/dannymcclain/swap-width-height), by dannymcclain: Swap a layer's width and height.
 - [Swappr](https://github.com/pranusarna94/swappr), by pranusarna94: Swap layer positions and styles
@@ -605,8 +575,11 @@ Export options:
 
 ## Sorted by last update (newest on top)
 
-- [Sketch Map](https://github.com/she1991/Sketch-Map), by Akash Shetye: Get a bird's eye views of your prototype flows.
+- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
+- [Stark](http://www.getstark.co), by Michael Fouquet, Cat Noone, Benedikt Lehnert: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Sketch.app plugin to merge symbols with the same name.
+- [Sketch Map](https://github.com/she1991/Sketch-Map), by Akash Shetye: Get a bird's eye views of your prototype flows.
+- [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator), by Eduardo Gómez Vásquez: Plugin to fill a layer with a map generated from a location (Powered by Google Maps)
 - [Sketch Translation](https://github.com/hoai265/language-sketch-plugin), by Hoai Nguyen: A Sketch plugin for easy multi-language design
 - [Photo Grid](https://github.com/perrysmotors/photo-grid), by Giles Perry: A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.
 - [Format Symbol Names](https://github.com/perrysmotors/format-symbol-names), by Giles Perry: A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page
@@ -621,7 +594,6 @@ Export options:
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Magic Mirror](http://magicmirror.design), by James Tang: Perspective Transformation for Sketch Artboards
 - [Storyboard Export](https://github.com/cranksoftwaredev/SketchPlugins), by Crank Software Inc.: Export Sketch based designs to be used within Crank Software's Storyboard Suite
-- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Miro Plugin for Sketch](https://github.com/RealtimeBoard/sketch_plugin), by Miro (formerly RealtimeBoard): Add, share and discuss your Sketch artboards with the team in Miro (formerly RealtimeBoard). The plugin allow to sync the artboards with the boards in one click
 - [Artboard Manager](https://github.com/bomberstudios/artboard-manager#readme), by Ale Muñoz: Because moving artboards manually is *so* 2016.
 - [Viewfinder Sketchplugin](https://github.com/ahmedmigo/viewfinder-sketchplugin), by Ahmed Genaidy: Easy access anywhere in you project file
@@ -641,7 +613,6 @@ Export options:
 - [Design Tokens](https://github.com/vjandrei/design-tokens), by Andreas Koutsoukos: A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.
 - [Envato Elements](https://github.com/envato/extensions-sketch-plugin), by envato: Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!
 - [chart](https://github.com/pavelkuligin/chart), by Pavel Kuligin: Create the most popular types of charts by real or random data
-- [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator), by Eduardo Gómez Vásquez: Plugin to fill a layer with a map generated from a location (Powered by Google Maps)
 - [Xd2sketch Converter](https://xd2sketch.com/), by XD2Sketch: Convert and import XD files in Sketch with one click.
 - [Sketch Image Compressor](https://github.com/BohemianCoding/sketch-image-compressor), by BohemianCoding: A Plugin that compresses bitmap assets, right when you export them. This Plugin *requires* Sketch 3.8.
 - [Print Export](https://github.com/BohemianCoding/print-export-sketchplugin), by Sketch: Export artboards or pages to a PDF for printing
@@ -649,7 +620,6 @@ Export options:
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
 - [Paste Paddings](https://github.com/simonlidesign/pastePaddings), by simonlidesign: Allows you to copy the paddings of one element and apply them to another
 - [Mise En Place](https://github.com/madwaro/MiseEnPlace), by Carlos Madrigal: Mise En Place is a Sketch plug-in that helps you prep before you start cooking your designs.
-- [Stark](http://www.getstark.co), by Michael Fouquet, Cat Noone, Benedikt Lehnert: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Sketch Color Manager](https://github.com/hecflores/sketch-color-manager), by hecflores: Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties
 - [Inter Letter Spacing](https://github.com/giliamverheide/sketch-inter-letter-spacing), by Giliam Verheide: Sketch plugin that dynamically sets letter spacing of layers using the Inter font.
 - [Tinty](https://github.com/chewbecky/tinty), by chewbecca: Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.
@@ -1122,4 +1092,3 @@ Export options:
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
 - [Bonsai Standards](https://github.com/thechinesekid/bonsai-plugin), by Hui Zheng: Update all the colors in an artboard to the latest Bonsai colors.
 - [sketch2vd](https://github.com/alexjlockwood/sketch2vd), by Alex Lockwood: A Sketch plugin that exports selected layers to VectorDrawable for Android.
-- [SVGO Export](https://github.com/josephmcasey/sketch-plugin-svgo-unique-id), by Joseph Casey: Uses SVGO to compress exported SVG assets

@@ -6577,7 +6577,7 @@
   },
   {
     "title": "search-sketch",
-    "description": "Search in sketch with multilang support",
+    "description": "Search in Sketch with multilang support",
     "name": "search-sketch",
     "owner": "candy02058912",
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
@@ -6586,7 +6586,7 @@
   },
   {
     "title": "IcanIcon",
-    "description": "**Info: This plugin can be used with an icanicon.io Supernova subscription**\nicanicon.io is a middleware between your Design System and its real applications. It allows you to keep your icon libraries in sync by processing any vector graphics and transforming them into ready-to-use, clean code components.   The plugin enables you to directly push any updates or changes to icanicon.io so that your engineering team will be able to fetch the latest version for any given framework at any time.  \nHow your Figma file is interpreted:\n•  Frame, Component, Instance = Icons\n•  Group = Segment\n•  Page = (irrelevant)\n•  File = Board\n\nGood to know\n•  You can download a template in case you are uncertain about the structure: https://icanicon.io/syncing-figma-files\n•  Avoid including mockups, larger components or other elements that are not meant to be icons in your export file.\n•  Choose your file naming-convention wisely as these names will automatically be carried over to your codebase.\n Supported formats:\n•  React (.js)\n•  Vue (.js)\n •  Angular (.js)\n•  ReactNative (.js)\n•  Android (.xml)\n•  iOS (.pdf)\n•  Meteor (.html)\n•  Icon Font (.ttf)\n•  Custom File (Create your own template with any given file-ending and structure) \n•  Vector Graphic (.svg) (as a clean version stripped off everything unnecessary)\n•  Pixel Graphic (.png) (with any size you like)\n•  Portable Document (.pdf)\n\nExport options:\n•  Manual Export: Download any singular icon or bulks in any format even simultaneously.\n•  API Access: Use your token to fetch any icon, segment or board you like. This also opens up the possibility of file-less rendering\n•  Sync Command: In your icon directory execute our ii-client command to sync your assets locally",
+    "description": "icanicon.io allows you to keep your icon libraries in sync with your Design System.",
     "name": "icanicon-sketch-plugin",
     "owner": "Sugarcode-Team",
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icanicon-sketch-plugin/master/.appcast.xml",
@@ -6656,7 +6656,7 @@
     "author": "Gastón Milano"
   },
   {
-    "title": "Toggle Gregscale",
+    "title": "Toggle Greyscale",
     "description": "A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.",
     "name": "greyscale",
     "owner": "KevinGutowski",
@@ -6672,5 +6672,14 @@
     "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://tiled.co/tiled-for-sketch-plugin",
     "author": "Tiled Inc."
+  },
+  {
+    "title": "Find Dirty Styles",
+    "description": "A Sketch plugin to easily find layers that are out of sync with their shared styles.",
+    "name": "finddirtystyles",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/FindDirtyStyles/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/FindDirtyStyles",
+    "author": "Kevin Gutowski"
   }
 ]
