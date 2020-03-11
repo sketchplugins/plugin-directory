@@ -6665,6 +6665,15 @@
     "author": "Kevin Gutowski"
   },
   {
+    "title": "Tiled for Sketch",
+    "description": "Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code.",
+    "name": "tiled-for-sketch",
+    "owner": "Tiled Inc.",
+    "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
+    "homepage": "https://tiled.co/tiled-for-sketch-plugin",
+    "author": "Tiled Inc."
+  },
+  {
     "title": "Find Dirty Styles",
     "description": "A Sketch plugin to easily find layers that are out of sync with their shared styles.",
     "name": "finddirtystyles",
