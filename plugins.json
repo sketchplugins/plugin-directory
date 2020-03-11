@@ -6665,6 +6665,13 @@
     "author": "Kevin Gutowski"
   },
   {
+    "title": "sketch-webgl",
+    "name": "sketch-webgl",
+    "owner": "endswithak",
+    "appcast": "https://raw.githubusercontent.com/endswithak/sketch-webgl/master/.appcast.xml",
+    "homepage": "https://github.com/endswithak/sketch-webgl"
+  },
+  {
     "title": "Toggle Pixel Fitting",
     "description": "A simple plugin to change your pixel fitting preference.",
     "name": "PixelFit",
