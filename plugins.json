@@ -3283,7 +3283,7 @@
   {
     "title": "Merge Duplicate Symbols",
     "description": "Sketch.app plugin to merge symbols with the same name.",
-    "author": "Oscar Oto",
+    "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
     "lastUpdated": "2020-03-06 11:31:27 UTC"
@@ -3916,7 +3916,7 @@
   {
     "title": "Icon Tools",
     "description": "Sketch.app plugin to clean icons and to prepare them for a clean export without tints and masks.",
-    "author": "Oscar Oto",
+    "author": "oodesign",
     "owner": "oodesign",
     "name": "icon-tools",
     "lastUpdated": "2019-04-12 06:59:46 UTC"
@@ -6100,6 +6100,24 @@
     "lastUpdated": "2019-12-20 01:16:35 UTC"
   },
   {
+    "title": "Arrange artboards hierarchically",
+    "description": "Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).",
+    "name": "arrange-artboards-hierarchically",
+    "owner": "oodesign",
+    "appcast": "https://github.com/oodesign/arrange-artboards-hierarchically/blob/master/appcast.xml",
+    "homepage": "https://github.com/oodesign/arrange-artboards-hierarchically",
+    "author": "oodesign"
+  },
+  {
+    "title": "Duplicate Under",
+    "description": "Sketch plugin to duplicate layers, but placing copies under the originals in the layer list.",
+    "name": "duplicate-under",
+    "owner": "oodesign",
+    "appcast": "https://github.com/oodesign/duplicate-under/blob/master/appcast.xml",
+    "homepage": "https://github.com/oodesign/duplicate-under",
+    "author": "oodesign"
+  },
+  {
     "title": "organizeLayers",
     "description": "A plugin that allows short key commands to move layers up, down and reverse positions ↕️",
     "name": "organizeLayers",
@@ -6420,6 +6438,16 @@
     "lastUpdated": "2020-01-24 09:26:53 UTC"
   },
   {
+    "title": "paxos-raft",
+    "description": "Generate React & React Native Apps.",
+    "name": "paxos-raft",
+    "owner": "paxos-raft",
+    "appcast": "https://raw.githubusercontent.com/paxos-raft/paxos-raft/master/.appcast.xml",
+    "homepage": "https://github.com/paxos-raft/paxos-raft#readme",
+    "author": "Prateek Rastogi",
+    "lastUpdated": "2020-02-20 00:00:00 UTC"
+  },
+  {
     "title": "Sketch Export Preferences",
     "description": "Import and Save Sketch Export Preferences",
     "name": "Sketch-Export-Preferences",
@@ -6512,5 +6540,164 @@
     "appcast": "https://raw.githubusercontent.com/BinLia/efficient-image-export/master/.appcast.xml",
     "homepage": "https://github.com/BinLia/efficient-image-export",
     "author": "BinLia"
+  },
+  {
+    "title": "Potrace",
+    "description": "Convert bitmaps to vector graphics",
+    "name": "sketch-potrace",
+    "owner": "perrysmotors",
+    "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
+    "homepage": "https://github.com/perrysmotors/sketch-potrace",
+    "author": "Giles Perry"
+  },
+  {
+    "title": "Attention Insight",
+    "description": "Generate attention heatmaps and instantly know where users look when engaging with your designs",
+    "name": "sketch-attentioninsight",
+    "owner": "Attention Insight",
+    "appcast": "https://raw.githubusercontent.com/attentioninsight/attention-insight-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
+    "author": "Attention Insight",
+    "lastUpdated": "2020-02-20 12:00:00 UTC"
+  },
+  {
+    "title": "banking-data",
+    "description": "A DataSupplier plugin",
+    "name": "banking-data-supplier",
+    "owner": "nktx",
+    "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
+    "homepage": "https://github.com/nktx/banking-data-supplier",
+    "author": "Kent Yang"
+  },
+  {
+    "title": "UI House",
+    "description": "Import resources directly to Sketch, from the web.",
+    "name": "ui-house",
+    "owner": "Jarek Ostrowski & David Diefenderfer",
+    "appcast": "https://www.ui.house/assets/downloads/plugin/appcast.xml",
+    "homepage": "https://www.ui.house",
+    "author": "Jarek Ostrowski & David Diefenderfer"
+  },
+  {
+    "title": "search-sketch",
+    "description": "Search in Sketch with multilang support",
+    "name": "search-sketch",
+    "owner": "candy02058912",
+    "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/candy02058912/search-sketch",
+    "author": "Candy Tsai"
+  },
+  {
+    "title": "IcanIcon",
+    "description": "icanicon.io allows you to keep your icon libraries in sync with your Design System.",
+    "name": "icanicon-sketch-plugin",
+    "owner": "Sugarcode-Team",
+    "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icanicon-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/Sugarcode-Team/icanicon-sketch-plugin",
+    "author": "Sugarcode"
+  },
+  {
+    "title": "Sketch Dark Mode",
+    "description": "Generate a dark mode version of any document, the right way.",
+    "name": "sketch-dark-mode",
+    "owner": "eddiesigner",
+    "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
+    "homepage": "https://sketch-dark-mode.eduardogomez.io",
+    "author": "Eduardo Gómez"
+  },
+  {
+    "title": "Trim-Artboard",
+    "description": "A Sketch plugin to trim the bottom of an artboard",
+    "name": "Trim-Artboard",
+    "owner": "franklymrshankly",
+    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Trim-Artboard/master/.appcast.xml",
+    "homepage": "https://github.com/franklymrshankly/Trim-Artboard",
+    "author": "Jonathan Tran"
+  },
+  {
+    "owner": "Akash Shetye",
+    "name": "Sketch Map",
+    "title": "Sketch Map",
+    "description": "Get a bird's eye views of your prototype flows.",
+    "appcast": "https://raw.githubusercontent.com/she1991/Sketch-Map/master/.appcast.xml",
+    "author": "Akash Shetye",
+    "homepage": "https://github.com/she1991/Sketch-Map",
+    "lastUpdated": "2020-03-04 12:00:00 UTC"
+  },
+  {
+    "title": "Copy Optimized SVG Code",
+    "description": "Sketch plugin to copy optimized svg code",
+    "name": "copy-optimized-svg-code",
+    "owner": "chenxsan",
+    "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
+    "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
+    "author": "chenxsan"
+  },
+  {
+    "title": "Lightswitch",
+    "name": "lightswitch-sketch",
+    "owner": "TheBerriman",
+    "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/TheBerriman/lightswitch-sketch"
+  },
+  {
+    "title": "DatesFromNow",
+    "description": "Simple data plugin to fill dates from now",
+    "name": "Sketch_DatesFormNow",
+    "owner": "LeipeLeon",
+    "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
+    "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
+    "author": "Leon Berenschot"
+  },
+  {
+    "title": "GxDesignOps",
+    "description": "Sketch Plugin For GeneXus internal use",
+    "name": "sketchdesignops",
+    "owner": "genexuslabs",
+    "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
+    "homepage": "https://github.com/genexuslabs/sketchdesignops",
+    "author": "Gastón Milano"
+  },
+  {
+    "title": "Toggle Greyscale",
+    "description": "A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.",
+    "name": "greyscale",
+    "owner": "KevinGutowski",
+    "appcast": "https://github.com/KevinGutowski/ToggleGreyscale/raw/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/ToggleGreyscale",
+    "author": "Kevin Gutowski"
+  },
+  {
+    "title": "sketch-webgl",
+    "name": "sketch-webgl",
+    "owner": "endswithak",
+    "appcast": "https://raw.githubusercontent.com/endswithak/sketch-webgl/master/.appcast.xml",
+    "homepage": "https://github.com/endswithak/sketch-webgl"
+  },
+  {
+    "title": "Toggle Pixel Fitting",
+    "description": "A simple plugin to change your pixel fitting preference.",
+    "name": "PixelFit",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/PixelFit/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/PixelFit"
+  },
+  {
+    "title": "Tiled for Sketch",
+    "description": "Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code.",
+    "name": "tiled-for-sketch",
+    "owner": "Tiled Inc.",
+    "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
+    "homepage": "https://tiled.co/tiled-for-sketch-plugin",
+    "author": "Tiled Inc."
+  },
+  {
+    "title": "Find Dirty Styles",
+    "description": "A Sketch plugin to easily find layers that are out of sync with their shared styles.",
+    "name": "finddirtystyles",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/FindDirtyStyles/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/FindDirtyStyles",
+    "author": "Kevin Gutowski"
   }
 ]
