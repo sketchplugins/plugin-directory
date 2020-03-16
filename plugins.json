@@ -6696,5 +6696,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/FindDirtyStyles/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/FindDirtyStyles",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "sketch-ignore",
+    "description": "s",
+    "name": "sketch-ignore",
+    "owner": "theboi",
+    "appcast": "https://raw.githubusercontent.com/theboi/sketch-ignore/master/.appcast.xml",
+    "homepage": "https://github.com/theboi/sketch-ignore",
+    "author": "Ryan The"
   }
 ]
