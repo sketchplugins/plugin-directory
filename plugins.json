@@ -3951,11 +3951,11 @@
     "lastUpdated": "2020-03-14 19:04:32 UTC"
   },
   {
-    "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
-    "title": "Material Plugin",
-    "author": "Google",
-    "homepage": "https://material.io/tools/theme-editor",
-    "lastUpdated": "2018-05-08 21:00:00 UTC"
+    "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
+    "title": "Gallery",
+    "author": "Google LLC",
+    "homepage": "https://material.io/resources/gallery",
+    "lastUpdated": "2020-03-16 22:08:00 UTC"
   },
   {
     "title": "Sketch Style To React Native",
