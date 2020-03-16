@@ -1,7 +1,5 @@
 [
   {
-    "owner": "XD2Sketch",
-    "name": "XD2Sketch",
     "title": "XD2Sketch Converter",
     "description": "Convert and import XD files in Sketch with one click.",
     "author": "XD2Sketch",
@@ -83,8 +81,6 @@
   {
     "description": "Create High-Fidelity Prototypes and Export to HTML.",
     "title": "Anima",
-    "name": "Anima",
-    "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://www.animaapp.com",
     "lastUpdated": "2019-03-03 16:27:58 UTC",
@@ -3487,10 +3483,10 @@
   {
     "title": "SketchTurbo",
     "description": "A plugin for Sketch that adjusts scroll speed on a canvas.",
-    "author": "usagimaru",
-    "author": "owner",
-    "homepage": "https://github.com/usagimaru/SketchTurbo",
+    "author": "Satori Maru",
+    "owner": "usagimaru",
     "name": "SketchTurbo",
+    "homepage": "https://github.com/usagimaru/SketchTurbo",
     "lastUpdated": "2018-07-18 17:00:00 UTC"
   },
   {
@@ -6321,9 +6317,7 @@
   {
     "title": "Playful Design Tools",
     "description": "Sketch.app plugin to help design faster",
-    "name": "Playful Design Tools",
     "author": "WAVE Corp.",
-    "owner": "WAVE Corp.",
     "appcast": "https://wavetogether.github.io/wave_design/sketch-plugins/releases/appcast.xml",
     "homepage": "https://wavetogether.github.io/wave_design/sketch-plugins"
   },
@@ -6337,9 +6331,9 @@
     "author": "Luuk Lamers"
   },
   {
-    "title": "efficient images export Sketchplugin",
+    "title": "Efficient images export",
     "description": "efficient images export for image sketch",
-    "name": "efficient-images-export",
+    "name": "efficient-image-export",
     "owner": "BinLia",
     "appcast": "https://raw.githubusercontent.com/BinLia/efficient-image-export/master/.appcast.xml",
     "homepage": "https://github.com/BinLia/efficient-image-export",
@@ -6357,8 +6351,8 @@
   {
     "title": "Attention Insight",
     "description": "Generate attention heatmaps and instantly know where users look when engaging with your designs",
-    "name": "sketch-attentioninsight",
-    "owner": "Attention Insight",
+    "name": "attention-insight-sketch-plugin",
+    "owner": "attentioninsight",
     "appcast": "https://raw.githubusercontent.com/attentioninsight/attention-insight-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
     "author": "Attention Insight",
@@ -6376,8 +6370,6 @@
   {
     "title": "UI House",
     "description": "Import resources directly to Sketch, from the web.",
-    "name": "ui-house",
-    "owner": "Jarek Ostrowski & David Diefenderfer",
     "appcast": "https://www.ui.house/assets/downloads/plugin/appcast.xml",
     "homepage": "https://www.ui.house",
     "author": "Jarek Ostrowski & David Diefenderfer"
@@ -6419,8 +6411,8 @@
     "author": "Jonathan Tran"
   },
   {
-    "owner": "Akash Shetye",
-    "name": "Sketch Map",
+    "owner": "she1991",
+    "name": "Sketch-Map",
     "title": "Sketch Map",
     "description": "Get a bird's eye views of your prototype flows.",
     "appcast": "https://raw.githubusercontent.com/she1991/Sketch-Map/master/.appcast.xml",
@@ -6465,7 +6457,7 @@
   {
     "title": "Toggle Greyscale",
     "description": "A Sketch plugin that adds a layer to your artboard so that you can preview your mocks in greyscale.",
-    "name": "greyscale",
+    "name": "ToggleGreyscale",
     "owner": "KevinGutowski",
     "appcast": "https://github.com/KevinGutowski/ToggleGreyscale/raw/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/ToggleGreyscale",
@@ -6489,8 +6481,8 @@
   {
     "title": "Tiled for Sketch",
     "description": "Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code.",
-    "name": "tiled-for-sketch",
-    "owner": "Tiled Inc.",
+    "name": "tiled-sketch-plugin",
+    "owner": "TiledCo",
     "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://tiled.co/tiled-for-sketch-plugin",
     "author": "Tiled Inc."
