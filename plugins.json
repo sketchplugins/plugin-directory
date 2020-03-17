@@ -4901,13 +4901,13 @@
   },
   {
     "title": "Symbol Namer",
-    "description": "Rename symbol instances to their override text values",
+    "description": "A plugin to help you rename symbols. Save default values, use override text, and do powerful, pattern-based renaming.",
     "name": "symbol-namer",
     "owner": "perrysmotors",
     "appcast": "https://raw.githubusercontent.com/perrysmotors/symbol-namer/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/symbol-namer",
     "author": "Giles Perry",
-    "lastUpdated": "2019-02-22 19:27:44 UTC"
+    "lastUpdated": "2020-03-14 21:16:55 UTC"
   },
   {
     "title": "Dribbble",
