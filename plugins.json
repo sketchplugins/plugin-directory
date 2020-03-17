@@ -6528,5 +6528,13 @@
     "owner": "abynim",
     "name": "sketch-artboard-notes",
     "lastUpdated": "2020-02-26 06:28:49 UTC"
+  },
+  {
+    "title": "Sketch Selective Upload",
+    "description": "Exclude Artboards and Pages when uploading your Document to Sketch Cloud",
+    "author": "Aby Nimbalkar",
+    "owner": "abynim",
+    "name": "sketch-selective-upload",
+    "lastUpdated": "2020-02-26 21:01:50 UTC"
   }
 ]
