@@ -172,6 +172,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
 - [FusionCool](https://github.com/alibaba-fusion/cool), by wwsun: Plugin to using resources of Fusion Design.
+- [Gallery](https://material.io/resources/gallery), by Google LLC: Quickly upload and sync Sketch artboards to Gallery collections.
 - [GGradient](https://github.com/andexds/ggradient), by Andrey Anashkin: Simple way to create perfect gradient
 - [giancartboard](https://github.com/mattcowboy/giancartboard), by Matteo Vacca: Sketch plugin to export artboards in folders automatically numbered
 - [Gifmock For Sketch](https://github.com/stevenfabre/gifmock-for-sketch), by Steven Fabre: Easily create GIFs from your mocks
@@ -238,7 +239,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [MarginSymbols](https://github.com/griffin-stewie/MarginSymbols), by griffin-stewie:
 - [Marketch](http://tudou527.github.io/marketch/), by tudou527: Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.
 - [Material Design Color Palette](https://github.com/t32k/material-design-color-palette), by t32k: Sketch app plugin for displaying Google material design color palette.
-- [Material Plugin](https://material.io/tools/theme-editor), by Google: Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Sketch.app plugin to merge symbols with the same name.
 - [Metaball](https://github.com/mheesakkers/sketch-plugin-metaball), by mheesakkers: A simple plugin to draw shapes based on inner and outer tangents between two circles.
 - [Method](https://github.com/KikeSz/Method-Sketch-Plugin), by KikeSz: Tool to apply your methodology systems
@@ -569,6 +569,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Gallery](https://material.io/resources/gallery), by Google LLC: Quickly upload and sync Sketch artboards to Gallery collections.
 - [Stickers](https://github.com/romannurik/Sketch-Stickers), by Roman Nurik: A Sketch plugin that lets you browse and quickly drag+drop stickers (specially tagged layers) in your Sketch Libraries.
 - [Browser Preview](https://github.com/lukasoppermann/browser-preview), by Lukas Oppermann: Quickly preview an artboard in your browser.
 - [Sketch Topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
@@ -1068,7 +1069,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Design Systems](https://github.com/ashung/design-systems), by Ashung Hung: Help you find out popular design systems and download official Sketch UI kit.
 - [Utility Belt](https://github.com/frankko/utilitybelt), by Frank Kolodziej: An always-expanding collection of simple, focused plugins for Sketch.
 - [Randomcolors](https://github.com/avadhbsd/randomcolors), by Avadh: Sketch App Plugin For Applying Random Colors To A Selection Of Objects.
-- [Material Plugin](https://material.io/tools/theme-editor), by Google: Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.
 - [GGradient](https://github.com/andexds/ggradient), by Andrey Anashkin: Simple way to create perfect gradient
 - [ImageExtractorSketch](https://github.com/mendyismyname/imageextractorsketch), by Mendy Seldowitz: Extract background fill image in Sketch
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
