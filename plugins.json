@@ -6536,5 +6536,13 @@
     "owner": "abynim",
     "name": "sketch-selective-upload",
     "lastUpdated": "2020-02-26 21:01:50 UTC"
+  },
+  {
+    "title": "Sketch Minimap",
+    "description": "Navigate large pages with ease",
+    "author": "Aby Nimbalkar",
+    "owner": "abynim",
+    "name": "sketch-minimap",
+    "lastUpdated": "2020-03-04 17:21:24 UTC"
   }
 ]
