@@ -6504,5 +6504,21 @@
     "appcast": "https://raw.githubusercontent.com/theboi/sketch-ignore/master/.appcast.xml",
     "homepage": "https://github.com/theboi/sketch-ignore",
     "author": "Ryan The"
+  },
+  {
+    "title": "Unsplash",
+    "description": "Unsplash Data Provider plugin, for Sketch 52+.",
+    "name": "unsplash-sketchplugin",
+    "owner": "sketch-hq",
+    "homepage": "https://www.sketch.com/extensions/plugins/unsplash/",
+    "author": "Sketch BV"
+  },
+  {
+    "title": "Sketch Resize Symbol",
+    "description": "A Sketch plugin to resize Symbol instances to their original size.",
+    "author": "Aby Nimbalkar",
+    "owner": "abynim",
+    "name": "sketch-resize-symbol",
+    "lastUpdated": "2019-12-14 03:42:26 UTC"
   }
 ]
