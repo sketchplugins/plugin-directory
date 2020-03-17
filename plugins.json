@@ -6544,5 +6544,13 @@
     "owner": "abynim",
     "name": "sketch-minimap",
     "lastUpdated": "2020-03-04 17:21:24 UTC"
+  },
+  {
+    "title": "lippy",
+    "description": "An interactive lorem ipsum generator plugin for Sketch",
+    "author": "Aby Nimbalkar",
+    "owner": "abynim",
+    "name": "lippy",
+    "lastUpdated": "2020-01-22 09:49:10 UTC"
   }
 ]
