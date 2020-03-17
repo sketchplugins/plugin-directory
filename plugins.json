@@ -1,4 +1,13 @@
-[
+[ 
+  {
+    "title": "Snap to 8pt Grid",
+    "description": "A Sketch plugin which helps with snapping layer properties to the 8 point grid.",
+    "name": "snap-to-8pt-grid",
+    "author": "Misha Heesakkers",
+    "homepage": "https://github.com/mheesakkers/sketch-plugin-snap-to-8pt-grid",
+    "appcast": "https://raw.githubusercontent.com/mheesakkers/sketch-plugin-snap-to-8pt-grid/master/appcast.xml",
+    "lastUpdated": "2020-03-14 12:44:00 UTC"
+  },
   {
     "title": "XD2Sketch Converter",
     "description": "Convert and import XD files in Sketch with one click.",
