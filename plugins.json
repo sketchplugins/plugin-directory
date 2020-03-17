@@ -6520,5 +6520,13 @@
     "owner": "abynim",
     "name": "sketch-resize-symbol",
     "lastUpdated": "2019-12-14 03:42:26 UTC"
+  },
+  {
+    "title": "Sketch Artboard Notes",
+    "description": "A minimal plugin to add notes to artboards in Sketch",
+    "author": "Aby Nimbalkar",
+    "owner": "abynim",
+    "name": "sketch-artboard-notes",
+    "lastUpdated": "2020-02-26 06:28:49 UTC"
   }
 ]
