@@ -4624,13 +4624,6 @@
     "lastUpdated": "2019-02-12 17:01:33 UTC"
   },
   {
-    "title": "Sketch2Web",
-    "description": "Export your project to web in just one click.",
-    "author": "Skuko",
-    "homepage": "http://www.sketch2web.skuko.com",
-    "lastUpdated": "2018-10-19"
-  },
-  {
     "title": "PersianSupplier",
     "description": "Sketch Plugin for supplying dynamic persian data.",
     "author": "Hirad Arshadi",
@@ -6542,5 +6535,13 @@
     "owner": "abynim",
     "name": "lippy",
     "lastUpdated": "2020-01-22 09:49:10 UTC"
+  },
+  {
+    "title": "Sketch Plugin Snap to 8pt Grid",
+    "description": "A Sketch plugin which helps with snapping layer properties to the 8 point grid.",
+    "author": "Misha",
+    "owner": "mheesakkers",
+    "name": "sketch-plugin-snap-to-8pt-grid",
+    "lastUpdated": "2020-03-17 08:12:20 UTC"
   }
 ]
