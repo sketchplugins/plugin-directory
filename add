@@ -54,10 +54,9 @@ if existing_plugin.count == 0
   File.open("plugins.json","w") do |f|
     f.write(JSON.pretty_generate(json_data, :indent => "  "))
   end
+
   puts "We now have #{json_data.length} plugins on the list"
-  # Update README
-  system("rake")
-  system("git add README.md plugins.json")
+  system("git add plugins.json")
   log_msg = "Added #{owner}/#{name}"
   if ARGV[1]
     log_msg += ". Closes ##{ARGV[1]}"
