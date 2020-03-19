@@ -6544,4 +6544,12 @@
     "name": "sketch-plugin-snap-to-8pt-grid",
     "lastUpdated": "2020-03-17 08:12:20 UTC"
   }
+  {
+    "title": "Swap It",
+    "description": "A sketch plugin to replace symbols across multiple artboards easily from libraries or a local document.",
+    "author": "Shaina Hantsis",
+    "owner": "shantsis",
+    "name": "swap-it-sketch",
+    "lastUpdated": "2020-03-18 21:24:00 UTC"
+  }
 ]
