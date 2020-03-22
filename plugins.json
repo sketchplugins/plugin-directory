@@ -14,7 +14,7 @@
     "appcast": "https://raw.githubusercontent.com/carlosflrg/name-my-color/master/appcast.xml",
     "author": "Carlos Flores",
     "homepage": "https://github.com/carlosflrg/name-my-color",
-    "lastUpdated": "2020-01-30 12:00:00 UTC"
+    "lastUpdated": "2020-02-04 19:52:20 UTC"
   },
   {
     "owner": "JarOfCookies",
@@ -24,7 +24,7 @@
     "description": "Check consistency of text layers.",
     "homepage": "https://github.com/JarOfCookies/Sketch-Design-systems-validator",
     "appcast": "https://github.com/JarOfCookies/Sketch-Design-systems-validator/blob/master/appcast.xml",
-    "lastUpdated": "2019-11-18 00:00:00 UTC"
+    "lastUpdated": "2019-11-18 05:26:36 UTC"
   },
   {
     "title": "Versions",
@@ -40,7 +40,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2019-09-10 12:44:00 UTC"
+    "lastUpdated": "2020-03-17 04:16:01 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -50,7 +50,7 @@
     "author": "Alexander Käßner",
     "homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
     "appcast": "https://raw.githubusercontent.com/alexkaessner/custom-zoom-sketch/master/.appcast.xml",
-    "lastUpdated": "2019-07-08 22:53:00 UTC"
+    "lastUpdated": "2020-03-15 11:01:12 UTC"
   },
   {
     "title": "Phrase Sketch Plugin",
@@ -60,7 +60,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2019-10-31 11:50:00 UTC"
+    "lastUpdated": "2020-02-24 09:54:44 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -129,7 +129,7 @@
     "author": "CanvasFlip Inc",
     "homepage": "https://www.canvasflip.com/visual-inspector/scribble/",
     "appcast": "https://github.com/manish1988/scribble-sketch-plugin/blob/master/appcast.xml",
-    "lastUpdated": "2018-11-16 12:00:00 UTC"
+    "lastUpdated": "2018-11-12 10:02:12 UTC"
   },
   {
     "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
@@ -138,7 +138,7 @@
     "owner": "konki-vienna",
     "author": "Konstantin Demblin",
     "homepage": "https://github.com/konki-vienna/jane_doe",
-    "lastUpdated": "2018-11-14 12:00:00 UTC"
+    "lastUpdated": "2019-03-18 15:37:00 UTC"
   },
   {
     "title": "Timelapse",
@@ -155,7 +155,7 @@
     "owner": "rezaaa",
     "author": "Mohammad Reza Mahmoudi",
     "homepage": "https://github.com/rezaaa/Laboji",
-    "lastUpdated": "2018-10-12 00:20:00 UTC"
+    "lastUpdated": "2018-10-20 21:08:48 UTC"
   },
   {
     "title": "Symbol Text Inspector",
@@ -174,7 +174,7 @@
     "author": "Matej Marjanovic",
     "appcast": "https://raw.githubusercontent.com/matej-marjanovic/6Spiral-Sketch-Plugin/master/appcast.xml",
     "homepage": "https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin",
-    "lastUpdated": "2018-09-12 10:20:00 UTC"
+    "lastUpdated": "2018-11-15 20:29:53 UTC"
   },
   {
     "title": "Specify (Alpha)",
@@ -198,7 +198,7 @@
     "author": "wwsun",
     "homepage": "https://github.com/alibaba-fusion/cool",
     "appcast": "https://alifd.oss-cn-hangzhou.aliyuncs.com/sketch-fusion/appcast.xml",
-    "lastUpdated": "2018-07-12 14:54:22 UTC"
+    "lastUpdated": "2018-07-15 09:18:41 UTC"
   },
   {
     "description": "Plugin to translate Sketch files into via Google Translate.",
@@ -375,7 +375,7 @@
     "title": "⚓️ Sketch - SelectPlus",
     "owner": "nathan5x",
     "author": "Sabarinathan Masilamani",
-    "lastUpdated": "2018-05-21 19:34:43 UTC"
+    "lastUpdated": "2020-03-15 06:32:01 UTC"
   },
   {
     "description": "A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.",
@@ -470,7 +470,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-03-06 15:45:26 UTC"
+    "lastUpdated": "2020-03-16 19:11:24 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -1454,7 +1454,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-03-13 21:17:59 UTC"
+    "lastUpdated": "2020-03-19 17:36:31 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -1903,7 +1903,7 @@
     "name": "Prism",
     "owner": "ment-mx",
     "author": "Lalo Mrtnz",
-    "lastUpdated": "2018-08-03 17:22:45 UTC",
+    "lastUpdated": "2020-03-17 10:10:20 UTC",
     "title": "Prism"
   },
   {
@@ -1990,7 +1990,8 @@
     "name": "sketch-opencolor",
     "owner": "opencolor-tools",
     "author": "OpenColor",
-    "homepage": "http://opencolor.tools/"
+    "homepage": "http://opencolor.tools/",
+    "lastUpdated": "2018-06-15 21:46:34 UTC"
   },
   {
     "description": "Multi step user flows in Framer.js",
@@ -2040,7 +2041,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-03-13 21:46:09 UTC"
+    "lastUpdated": "2020-03-17 14:02:33 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2816,7 +2817,7 @@
     "title": "Sketch Lorem Ipsum 2017",
     "owner": "richgong",
     "author": "Richard Gong",
-    "lastUpdated": "2017-03-19 23:48:55 UTC"
+    "lastUpdated": "2017-12-08 22:40:28 UTC"
   },
   {
     "description": "A Sketch plugin to count: characters, words, whitespace, and paragraphs",
@@ -3179,7 +3180,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-03-06 11:31:27 UTC"
+    "lastUpdated": "2020-03-16 11:18:58 UTC"
   },
   {
     "title": "Blender",
@@ -3487,7 +3488,7 @@
     "owner": "usagimaru",
     "name": "SketchTurbo",
     "homepage": "https://github.com/usagimaru/SketchTurbo",
-    "lastUpdated": "2018-07-18 17:00:00 UTC"
+    "lastUpdated": "2018-10-05 08:13:06 UTC"
   },
   {
     "title": "Sketch Icons",
@@ -3541,7 +3542,7 @@
     "owner": "sergeishere",
     "name": "HandyMenu-SketchPlugin",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
-    "lastUpdated": "2019-05-21 22:01:08 UTC"
+    "lastUpdated": "2020-03-16 20:40:09 UTC"
   },
   {
     "title": "chart",
@@ -3747,7 +3748,7 @@
     "author": "KhY",
     "appcast": "https://github.com/Atim33/autopdfexporter-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://github.com/Atim33/autopdfexporter-sketch-plugin/",
-    "lastUpdated": "2018-03-31 10:10:40 UTC"
+    "lastUpdated": "2020-02-21 06:59:00 UTC"
   },
   {
     "title": "Sketch Hyphenator",
@@ -3815,7 +3816,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2020-03-14 13:41:36 UTC"
+    "lastUpdated": "2020-03-20 14:04:25 UTC"
   },
   {
     "title": "Rough",
@@ -3926,7 +3927,7 @@
     "owner": "materik",
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "lastUpdated": "2018-04-29 00:00:00 UTC"
+    "lastUpdated": "2019-10-31 08:18:21 UTC"
   },
   {
     "title": "Photo Grid",
@@ -4068,7 +4069,7 @@
     "owner": "youngxkk",
     "homepage": "https://github.com/youngxkk/AutoFixiOSTextLineHeight",
     "author": "youngxkk",
-    "lastUpdated": "2018-06-19 17:45:55 UTC"
+    "lastUpdated": "2018-06-22 02:03:22 UTC"
   },
   {
     "title": "Align and Resize To Layout",
@@ -4146,7 +4147,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2019-12-21 14:14:03 UTC"
+    "lastUpdated": "2020-03-17 11:41:34 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4180,7 +4181,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2019-08-21 15:29:34 UTC"
+    "lastUpdated": "2020-03-17 09:48:07 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4190,7 +4191,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2019-08-21 15:29:34 UTC"
+    "lastUpdated": "2020-03-19 08:48:10 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4200,7 +4201,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2019-06-03 09:15:19 UTC"
+    "lastUpdated": "2020-03-17 09:09:32 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4257,7 +4258,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-03-13 22:30:08 UTC"
+    "lastUpdated": "2020-03-16 16:43:05 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4266,7 +4267,8 @@
     "owner": "JJYing",
     "appcast": "https://raw.githubusercontent.com/JJYing/Sketch-Better-Shadow/master/appcast.xml",
     "homepage": "https://github.com/JJYing/Sketch-Better-Shadow",
-    "author": "JJ Ying"
+    "author": "JJ Ying",
+    "lastUpdated": "2018-09-08 15:49:28 UTC"
   },
   {
     "title": "Advanced Responsive Images Default",
@@ -4285,7 +4287,7 @@
     "owner": "reinvanoyen",
     "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
     "homepage": "https://github.com/reinvanoyen/typex",
-    "lastUpdated": "2019-11-02 14:23:42 UTC"
+    "lastUpdated": "2020-03-15 09:01:52 UTC"
   },
   {
     "title": "ColorSpark for Sketch",
@@ -4337,7 +4339,8 @@
     "owner": "inker8",
     "appcast": "https://raw.githubusercontent.com/inker8/sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/inker8/sketch-plugin",
-    "author": "Zack Young"
+    "author": "Zack Young",
+    "lastUpdated": "2018-11-05 01:34:58 UTC"
   },
   {
     "title": "Awesome Image Compressor",
@@ -4357,7 +4360,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington",
-    "lastUpdated": "2019-12-08 22:29:45 UTC"
+    "lastUpdated": "2020-03-13 22:42:45 UTC"
   },
   {
     "title": "Contrast",
@@ -4367,7 +4370,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2019-11-02 07:26:06 UTC"
+    "lastUpdated": "2020-03-15 10:10:55 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -4395,7 +4398,7 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu",
-    "lastUpdated": "2019-01-08 01:52:47 UTC"
+    "lastUpdated": "2020-02-16 15:10:50 UTC"
   },
   {
     "title": "DS Automator Sketch Plugin",
@@ -4425,7 +4428,7 @@
     "author": "Sylvain Leris",
     "appcast": "https://raw.githubusercontent.com/sylvainleris/fr.y3s.sketch.screenshot/master/appcast.xml",
     "homepage": "https://github.com/sylvainleris/fr.y3s.sketch.screenshot",
-    "lastUpdated": "2018-10-17 20:30:00 UTC"
+    "lastUpdated": "2018-10-18 09:00:43 UTC"
   },
   {
     "description": "A fast and easy way to manage all your layer styles. No more hassle with long and complex style names, or renaming tons of styles because you misspelled a folder name.",
