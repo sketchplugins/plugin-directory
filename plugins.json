@@ -6546,6 +6546,15 @@
     "owner": "mheesakkers",
     "name": "sketch-plugin-snap-to-8pt-grid",
     "lastUpdated": "2020-03-17 08:12:20 UTC"
+  },
+  {
+    "title": "chemfill",
+    "description": "A Chemical Structure data supplier plugin.",
+    "name": "chemfill",
+    "owner": "ahadik",
+    "appcast": "https://raw.githubusercontent.com/ahadik/chemfill/master/.appcast.xml",
+    "homepage": "https://github.com/ahadik/chemfill",
+    "author": "Alexander Hadik"
   }
   {
     "title": "Swap It",
