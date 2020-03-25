@@ -6545,7 +6545,7 @@
     "appcast": "https://raw.githubusercontent.com/ahadik/chemfill/master/.appcast.xml",
     "homepage": "https://github.com/ahadik/chemfill",
     "author": "Alexander Hadik"
-  }
+  },
   {
     "title": "Swap It",
     "description": "A sketch plugin to replace symbols across multiple artboards easily from libraries or a local document.",
