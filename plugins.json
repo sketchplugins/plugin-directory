@@ -5047,16 +5047,6 @@
     "lastUpdated": "2019-12-09 10:01:54 UTC"
   },
   {
-    "title": "chemofill",
-    "description": "A Chemical Structure data supplier plugin.",
-    "name": "chemofill",
-    "owner": "ahadik",
-    "appcast": "https://raw.githubusercontent.com/ahadik/chemofill/master/.appcast.xml",
-    "homepage": "https://github.com/ahadik/chemofill",
-    "author": "Alexander Hadik",
-    "lastUpdated": "2019-03-05 23:45:06 UTC"
-  },
-  {
     "title": "Overrides Manager",
     "description": "A Sketch plugin which makes managing overrides easier.",
     "name": "Sketch-Overrides-Manager",
