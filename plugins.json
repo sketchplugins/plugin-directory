@@ -6553,5 +6553,14 @@
     "owner": "shantsis",
     "name": "swap-it-sketch",
     "lastUpdated": "2020-03-18 21:24:00 UTC"
+  },
+  {
+    "title": "streamline-icons",
+    "description": "The world’s largest icon pack with over 30,000 icons.",
+    "name": "streamline-sketch-plugin",
+    "owner": "jerry-enebeli",
+    "appcast": "https://raw.githubusercontent.com/jerry-enebeli/streamline-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/jerry-enebeli/streamline-sketch-plugin",
+    "author": "jerry"
   }
 ]
