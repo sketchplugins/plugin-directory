@@ -6553,5 +6553,14 @@
     "owner": "shantsis",
     "name": "swap-it-sketch",
     "lastUpdated": "2020-03-18 21:24:00 UTC"
+  },
+  {
+    "title": "Origami Export",
+    "description": "Copy/Paste from Sketch into Origami Studio.",
+    "author": "Facebook, Inc.",
+    "owner": "goozie001",
+    "name": "semaphorePasteboard",
+    "appcast": "https://origami.design/public/plugin/appcast.xml",
+    "lastUpdated": "2020-03-26 16:53:59 UTC"
   }
 ]
