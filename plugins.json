@@ -1776,7 +1776,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2019-08-19 12:27:43 UTC"
+    "lastUpdated": "2020-04-01 11:41:16 UTC"
   },
   {
     "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
@@ -2238,7 +2238,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2020-03-23 17:39:01 UTC"
+    "lastUpdated": "2020-04-03 17:06:48 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2712,7 +2712,7 @@
     "title": "Sketch Image Replaste",
     "owner": "mheesakkers",
     "author": "Misha",
-    "lastUpdated": "2020-03-27 11:33:10 UTC"
+    "lastUpdated": "2020-04-04 19:29:17 UTC"
   },
   {
     "description": "A Sketch plugin for managing all plugin shortcuts.",
@@ -3180,7 +3180,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-03-24 10:52:12 UTC"
+    "lastUpdated": "2020-04-01 09:30:03 UTC"
   },
   {
     "title": "Blender",
@@ -4060,7 +4060,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-03-13 21:46:09 UTC"
+    "lastUpdated": "2020-04-01 05:06:00 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4171,7 +4171,7 @@
     "author": "ziven27",
     "owner": "ziven27",
     "name": "Sketch-IconScope",
-    "lastUpdated": "2019-11-02 21:47:10 UTC"
+    "lastUpdated": "2020-04-04 14:43:31 UTC"
   },
   {
     "title": "Puzzle Publisher",
@@ -4181,7 +4181,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-03-17 09:48:07 UTC"
+    "lastUpdated": "2020-04-03 09:28:41 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4191,7 +4191,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-03-27 11:10:02 UTC"
+    "lastUpdated": "2020-04-03 13:46:05 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4380,7 +4380,7 @@
     "author": "Sensive",
     "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
     "homepage": "https://sensive.co",
-    "lastUpdated": "2019-11-01 03:42:21 UTC"
+    "lastUpdated": "2020-04-04 17:11:14 UTC"
   },
   {
     "title": "Sketch Plugin Skew",
@@ -4398,7 +4398,7 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu",
-    "lastUpdated": "2020-02-16 15:10:50 UTC"
+    "lastUpdated": "2020-04-04 17:46:54 UTC"
   },
   {
     "title": "DS Automator Sketch Plugin",
