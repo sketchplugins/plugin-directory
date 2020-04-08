@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Set up Ruby 2.6
       uses: actions/setup-ruby@v1
       with:
@@ -21,11 +21,9 @@ jobs:
     - name: Update README
       run: rake readme
     - name: push
-      uses: github-actions-x/commit@v2.3
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: 'Update README'
-        rebase: true
-        files: README.md
-        name: Sketch Developer
-        email: developer@sketch.com 
+      run: |
+        git config --global user.name 'Sketch Developer'
+        git config --global user.email 'developer@sketch.com'
+        git add README.md
+        git commit -am 'Update README'
+        git push

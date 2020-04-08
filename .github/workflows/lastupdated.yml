@@ -22,12 +22,10 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: push
-      uses: github-actions-x/commit@v2.3
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: 'Update lastUpdated'
-        rebase: true
-        files: plugins.json
-        name: Sketch Developer
-        email: developer@sketch.com
-
+    - name: push
+      run: |
+        git config --global user.name 'Sketch Developer'
+        git config --global user.email 'developer@sketch.com'
+        git add plugins.json
+        git commit -am 'Update lastUpdated'
+        git push
