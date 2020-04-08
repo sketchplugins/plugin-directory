@@ -1,17 +1,13 @@
 name: Update README
-
 on:
   push:
     branches:
     - master
     paths:
     - plugins.json
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Ruby 2.6
