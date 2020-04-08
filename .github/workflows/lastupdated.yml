@@ -22,7 +22,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: push
-    - name: push
       run: |
         git config --global user.name 'Sketch Developer'
         git config --global user.email 'developer@sketch.com'
