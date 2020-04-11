@@ -6562,5 +6562,14 @@
     "name": "semaphorePasteboard",
     "appcast": "https://origami.design/public/plugin/appcast.xml",
     "lastUpdated": "2020-03-26 16:53:59 UTC"
+  },
+  {
+    "title": "Sketch MeaXure",
+    "description": "Make it a fun to create spec for developers and teammates",
+    "name": "sketch-meaxure",
+    "owner": "qjebbs",
+    "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
+    "homepage": "https://github.com/qjebbs",
+    "author": "utom & jebbs"
   }
 ]
