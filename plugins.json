@@ -40,7 +40,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2020-03-17 04:16:01 UTC"
+    "lastUpdated": "2020-04-06 14:40:10 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -1414,7 +1414,7 @@
     "title": "Sketch Layer Comps",
     "author": "Özgür Güneş",
     "owner": "ozgurgunes",
-    "lastUpdated": "2020-03-14 04:10:57 UTC"
+    "lastUpdated": "2020-04-05 23:03:22 UTC"
   },
   {
     "description": "A Sketch Plugin to align Text Layers by their baselines",
@@ -3312,7 +3312,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-swapper",
-    "lastUpdated": "2019-09-18 02:33:26 UTC"
+    "lastUpdated": "2020-04-05 21:05:55 UTC"
   },
   {
     "title": "Sympli",
@@ -4060,7 +4060,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-04-01 05:06:00 UTC"
+    "lastUpdated": "2020-04-07 10:27:02 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4171,7 +4171,7 @@
     "author": "ziven27",
     "owner": "ziven27",
     "name": "Sketch-IconScope",
-    "lastUpdated": "2020-04-04 14:43:31 UTC"
+    "lastUpdated": "2020-04-06 09:06:36 UTC"
   },
   {
     "title": "Puzzle Publisher",
@@ -4181,7 +4181,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-04-03 09:28:41 UTC"
+    "lastUpdated": "2020-04-06 06:53:03 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4191,7 +4191,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-04-03 13:46:05 UTC"
+    "lastUpdated": "2020-04-11 21:14:10 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4258,7 +4258,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-03-16 16:43:05 UTC"
+    "lastUpdated": "2020-04-06 09:21:08 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4418,7 +4418,7 @@
     "appcast": "https://raw.githubusercontent.com/lerte/sketch-qr-code/master/.appcast.xml",
     "homepage": "https://github.com/lerte/sketch-qr-code",
     "author": "Lerte Smith",
-    "lastUpdated": "2019-10-30 04:11:45 UTC"
+    "lastUpdated": "2020-04-05 15:35:49 UTC"
   },
   {
     "title": "Android Screenshot",
@@ -6564,12 +6564,21 @@
     "lastUpdated": "2020-03-26 16:53:59 UTC"
   },
   {
+    "title": "Brandfetch",
+    "description": "Pull brand assets into Sketch",
+    "name": "Brandfetch-Sketch-Plugin",
+    "owner": "Brandfetch",
+    "appcast": "https://raw.githubusercontent.com/Brandfetch/Brandfetch-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/Brandfetch/Brandfetch-Sketch-Plugin",
+    "author": "Brandfetch"
+  },
+  {
     "title": "Sketch MeaXure",
     "description": "Make it a fun to create spec for developers and teammates",
     "name": "sketch-meaxure",
     "owner": "qjebbs",
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
-    "homepage": "https://github.com/qjebbs",
+    "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs"
   }
 ]
