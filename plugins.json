@@ -6571,5 +6571,14 @@
     "appcast": "https://raw.githubusercontent.com/Brandfetch/Brandfetch-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/Brandfetch/Brandfetch-Sketch-Plugin",
     "author": "Brandfetch"
+  },
+  {
+    "title": "Sketch MeaXure",
+    "description": "Make it a fun to create spec for developers and teammates",
+    "name": "sketch-meaxure",
+    "owner": "qjebbs",
+    "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
+    "homepage": "https://github.com/qjebbs/sketch-meaxure",
+    "author": "utom & jebbs"
   }
 ]
