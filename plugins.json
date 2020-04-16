@@ -6562,5 +6562,14 @@
     "name": "semaphorePasteboard",
     "appcast": "https://origami.design/public/plugin/appcast.xml",
     "lastUpdated": "2020-03-26 16:53:59 UTC"
+  },
+  {
+    "title": "Brandfetch",
+    "description": "Pull brand assets into Sketch",
+    "name": "Brandfetch-Sketch-Plugin",
+    "owner": "Brandfetch",
+    "appcast": "https://raw.githubusercontent.com/Brandfetch/Brandfetch-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/Brandfetch/Brandfetch-Sketch-Plugin",
+    "author": "Brandfetch"
   }
 ]
