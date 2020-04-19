@@ -40,7 +40,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2020-04-06 14:40:10 UTC"
+    "lastUpdated": "2020-04-16 20:39:51 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -60,7 +60,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2020-02-24 09:54:44 UTC"
+    "lastUpdated": "2020-04-17 12:17:20 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -736,7 +736,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2019-10-13 14:28:11 UTC"
+    "lastUpdated": "2020-04-14 22:22:00 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -1678,7 +1678,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-03-08 17:12:24 UTC"
+    "lastUpdated": "2020-04-13 16:47:37 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2189,7 +2189,7 @@
     "name": "FontFinder",
     "owner": "ukn530",
     "author": "Tatsuya Uchida",
-    "lastUpdated": "2018-10-13 06:10:11 UTC",
+    "lastUpdated": "2020-04-15 08:46:42 UTC",
     "title": "FontFinder"
   },
   {
@@ -2238,7 +2238,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2020-04-03 17:06:48 UTC"
+    "lastUpdated": "2020-04-15 21:12:37 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2302,7 +2302,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2019-11-13 13:07:31 UTC"
+    "lastUpdated": "2020-04-14 14:18:58 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3550,7 +3550,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2020-01-16 20:48:50 UTC"
+    "lastUpdated": "2020-04-17 00:03:27 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3879,7 +3879,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2020-03-13 21:59:02 UTC"
+    "lastUpdated": "2020-04-14 17:40:48 UTC"
   },
   {
     "title": "Chromata",
@@ -4181,7 +4181,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-04-06 06:53:03 UTC"
+    "lastUpdated": "2020-04-18 17:48:14 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4191,7 +4191,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-04-11 21:14:10 UTC"
+    "lastUpdated": "2020-04-18 20:35:07 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
