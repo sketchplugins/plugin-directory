@@ -6580,5 +6580,14 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs"
+  },
+  {
+    "title": "Fill-Updater",
+    "description": "",
+    "name": "Sketch-FillUpdater",
+    "owner": "lizhengDesign",
+    "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
+    "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
+    "author": "Li Zheng"
   }
 ]
