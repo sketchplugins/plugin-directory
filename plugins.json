@@ -6580,5 +6580,14 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs"
+  },
+  {
+    "title": "sketch-foundation",
+    "description": "Sketch Plugin to turn named layers on/off on all document artboards as a way to create foundational layers like notes and guides more manageable",
+    "name": "sketch-foundation",
+    "owner": "13protons",
+    "appcast": "https://raw.githubusercontent.com/13protons/sketch-foundation/master/.appcast.xml",
+    "homepage": "https://github.com/13protons/sketch-foundation",
+    "author": "Alan Languirand"
   }
 ]
