@@ -6582,6 +6582,24 @@
     "author": "utom & jebbs"
   },
   {
+    "title": "rename-text-layers-by-style",
+    "description": "Rename all text layers based on the name of the text style assigned.",
+    "name": "rename-text-layers-by-style",
+    "owner": "okaybueno",
+    "appcast": "https://raw.githubusercontent.com/okaybueno/rename-text-layers-by-style/master/.appcast.xml",
+    "homepage": "https://github.com/okaybueno/rename-text-layers-by-style",
+    "author": "Alexander Gerund"
+  },
+  {
+    "title": "Fill-Updater",
+    "description": "Fill shapes or symbols with content of selected artboards.",
+    "name": "Sketch-FillUpdater",
+    "owner": "lizhengDesign",
+    "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
+    "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
+    "author": "Li Zheng"
+  },
+  {
     "title": "sketch-foundation",
     "description": "Sketch Plugin to turn named layers on/off on all document artboards as a way to create foundational layers like notes and guides more manageable",
     "name": "sketch-foundation",
