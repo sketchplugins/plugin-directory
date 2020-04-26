@@ -589,7 +589,7 @@
     "title": "Sketch Action",
     "author": "Khoa Pham",
     "owner": "onmyway133",
-    "lastUpdated": "2019-02-19 20:56:56 UTC"
+    "lastUpdated": "2020-04-22 20:45:33 UTC"
   },
   {
     "description": "Generate lines originating from a certain coordinate of an artboard.",
@@ -736,7 +736,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2020-04-14 22:22:00 UTC"
+    "lastUpdated": "2020-04-25 09:16:17 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -1678,7 +1678,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-04-13 16:47:37 UTC"
+    "lastUpdated": "2020-04-24 09:29:47 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1776,7 +1776,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2020-04-01 11:41:16 UTC"
+    "lastUpdated": "2020-04-22 12:47:02 UTC"
   },
   {
     "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
@@ -4060,7 +4060,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-04-07 10:27:02 UTC"
+    "lastUpdated": "2020-04-20 13:22:29 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4121,7 +4121,7 @@
     "author": "Ant-Design",
     "owner": "ant-design",
     "name": "kitchen",
-    "lastUpdated": "2018-11-13 14:23:37 UTC"
+    "lastUpdated": "2020-04-22 05:35:31 UTC"
   },
   {
     "title": "Emoji Autocomplete Sketch Plugin",
@@ -4181,7 +4181,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-04-18 17:48:14 UTC"
+    "lastUpdated": "2020-04-22 09:37:41 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4191,7 +4191,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-04-18 20:35:07 UTC"
+    "lastUpdated": "2020-04-25 20:31:32 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4380,7 +4380,7 @@
     "author": "Sensive",
     "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
     "homepage": "https://sensive.co",
-    "lastUpdated": "2020-04-04 17:11:14 UTC"
+    "lastUpdated": "2020-04-24 19:32:21 UTC"
   },
   {
     "title": "Sketch Plugin Skew",
