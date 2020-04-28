@@ -6598,5 +6598,13 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
     "author": "Li Zheng"
+  },
+  {
+    "title": "DarkModeSystem",
+    "description": "",
+    "name": "DarkMode-System",
+    "owner": "BDiogo",
+    "appcast": "https://raw.githubusercontent.com/BDiogo/DarkMode-System/master/.appcast.xml",
+    "homepage": "https://github.com/BDiogo/DarkMode-System"
   }
 ]
