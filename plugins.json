@@ -6615,5 +6615,13 @@
     "appcast": "https://raw.githubusercontent.com/13protons/sketch-foundation/master/.appcast.xml",
     "homepage": "https://github.com/13protons/sketch-foundation",
     "author": "Alan Languirand"
+  },
+  {
+    "title": "DarkModeSystem",
+    "description": "Apply a Dark Theme to your Project",
+    "name": "DarkMode-System",
+    "owner": "BDiogo",
+    "appcast": "https://raw.githubusercontent.com/BDiogo/DarkMode-System/master/.appcast.xml",
+    "homepage": "https://github.com/BDiogo/DarkMode-System"
   }
 ]
