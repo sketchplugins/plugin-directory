@@ -1,5 +1,13 @@
 [
   {
+    "title": "Last-updated indicator",
+    "description": "Mark your designs with a version indicator which automatically changes as you update.",
+    "author": "Bram van Mensvoort",
+    "homepage": "https://github.com/bvmensvoort/sketch-last-updated",
+    "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
+    "lastUpdated": "2020-04-26 13:37:00 UTC"
+  },
+  {
     "title": "XD2Sketch Converter",
     "description": "Convert and import XD files in Sketch with one click.",
     "author": "XD2Sketch",
