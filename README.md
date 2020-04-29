@@ -102,6 +102,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Dad Jokes](https://github.com/domhabersack/sketch-dadjokes), by Dom Habersack: Replace your text with dad jokes.
 - [Dapollo](https://www.yuque.com/dapollo/group/welcome), by Alipay Design: Design and Development Platform(一站式设计开发工作台)
 - [Dark Side](https://github.com/receptiryaki/darkside), by Recep Tiryaki: Design light and dark themes easily. Switch between themes. Export color assets for Xcode and Android Studio.
+- [DarkModeSystem](https://github.com/BDiogo/DarkMode-System), by BDiogo: Apply a Dark Theme to your Project
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Datazier Lens](https://github.com/enriquezgomez/datazier-lens), by Victor Enriquez: Inspect and sort your local font book
 - [DatesFromNow](https://github.com/LeipeLeon/Sketch_DatesFormNow), by Leon Berenschot: Simple data plugin to fill dates from now
@@ -193,7 +194,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Label Layers](https://github.com/franklymrshankly/Label_Layers), by Jonathan Tran: A Sketch plugin that labels selected layers
 - [labelizer](https://github.com/nOograss/labelizer), by Maxime Peeters: Extract, replace and download labels from Sketch file.
 - [Laboji](https://github.com/rezaaa/Laboji), by Mohammad Reza Mahmoudi: A sketch plugin for adding emoji on layer name like colorful labels or tags.
-- [Last-updated plugin](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
+- [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
 - [LaTeX Sketch Plugin](https://github.com/heytitle/latex-sketch-plugin), by heytitle: This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Export your Sketch design into HTML website.
 - [Layer Renamer](https://github.com/leonardpauli/layer-renamer), by Leonard Pauli: Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)
@@ -519,6 +520,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
 - [Puzzle Tokens](https://github.com/ingrammicro/puzzle-tokens), by Ingram Micro: Sketch.app plugin to apply design tokens to Sketch layers
 - [Rename It](http://rodi01.github.io/RenameIt/), by Rodrigo Soares: Keep your Sketch files organized, batch rename layers and artboards.
 - [Sketch Sync](https://sensive.co), by Sensive: Create a collaboration hub for your Sketch files.
