@@ -498,7 +498,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [User Flows](https://github.com/abynim/userflows), by Aby Nimbalkar: Generate user walkthroughs from Artboards in Sketch.
 - [Vectary 3d](https://www.vectary.com/sketch/), by Vectary: Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.
 - [
-](https://sympli.io/versions), by Sympli: Version control and collaboration for Sketch.
+- [Versions](https://sympli.io/versions), by Sympli: Version control and collaboration for Sketch.
 - [ViewController for Framer](https://github.com/awt2542/viewcontroller-for-framer), by Andreas Wahlström: Multi step user flows in Framer.js
 - [Viewfinder Sketchplugin](https://github.com/ahmedmigo/viewfinder-sketchplugin), by Ahmed Genaidy: Easy access anywhere in you project file
 - [VisualEyes](https://github.com/loceye/sketch-visualeyes), by Loceye: Your professional AI design assistant.
