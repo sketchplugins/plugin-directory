@@ -3712,6 +3712,15 @@
     "lastUpdated": "2018-11-05 10:06:41 UTC"
   },
   {
+    "title": "CODING Toolkit",
+    "description": "A series of commands for CODING designers.",
+    "name": "coding-sketch-toolkit",
+    "owner": "Coding",
+    "appcast": "https://raw.githubusercontent.com/Coding/coding-sketch-toolkit/master/.appcast.xml",
+    "homepage": "https://github.com/Coding/coding-sketch-toolkit",
+    "author": "tankxu"
+  },
+  {
     "title": "Flow Exporter",
     "description": "A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.",
     "name": "Sketch-FlowExporter",
