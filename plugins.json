@@ -35,10 +35,16 @@
     "lastUpdated": "2019-11-18 05:26:36 UTC"
   },
   {
+    "title": "Handoff",
+    "description": "Well prepared redlines, assets, components and specs for developer handoff",
+    "author": "Sympli",
+    "homepage": "https://sympli.io/handoff"
+  },
+  {
     "title": "Versions",
     "description": "Version control and collaboration for Sketch.",
     "author": "Sympli",
-    "homepage": "https://versions.sympli.io/"
+    "homepage": "https://sympli.io/versions"
   },
   {
     "title": "Atlassian Vendor Sketch Plugin",
