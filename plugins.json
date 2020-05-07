@@ -6639,5 +6639,14 @@
     "owner": "BDiogo",
     "appcast": "https://raw.githubusercontent.com/BDiogo/DarkMode-System/master/.appcast.xml",
     "homepage": "https://github.com/BDiogo/DarkMode-System"
+  },
+  {
+    "title": "Light/Dark Switch",
+    "description": "Switch artboards' theme",
+    "name": "switch-theme",
+    "owner": "chaos-machine",
+    "appcast": "https://raw.githubusercontent.com/chaos-machine/switch-theme/master/.appcast.xml",
+    "homepage": "https://github.com/chaos-machine/switch-theme",
+    "author": "Tudor Teisanu"
   }
 ]
