@@ -6648,5 +6648,14 @@
     "appcast": "https://raw.githubusercontent.com/chaos-machine/switch-theme/master/.appcast.xml",
     "homepage": "https://github.com/chaos-machine/switch-theme",
     "author": "Tudor Teisanu"
+  },
+  {
+    "title": "Copy-Updater",
+    "description": "A Sketch plugin that updates copy based on selected JSON",
+    "name": "Sketch-CopyUpdater",
+    "owner": "lizhengDesign",
+    "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
+    "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
+    "author": "Li Zheng"
   }
 ]
