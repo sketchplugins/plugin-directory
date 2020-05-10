@@ -449,7 +449,7 @@
     "name": "design-systems",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2018-05-10 03:58:17 UTC"
+    "lastUpdated": "2020-05-08 15:11:14 UTC"
   },
   {
     "description": "Export your Sketch design into HTML website.",
@@ -750,7 +750,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2020-04-25 09:16:17 UTC"
+    "lastUpdated": "2020-05-06 03:11:55 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -1629,7 +1629,7 @@
     "title": "Pixel Perfecter",
     "author": "Jakub Świadek",
     "owner": "swiadek",
-    "lastUpdated": "2019-02-01 01:25:23 UTC"
+    "lastUpdated": "2020-05-05 17:10:19 UTC"
   },
   {
     "description": "Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.",
@@ -1692,7 +1692,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-04-24 09:29:47 UTC"
+    "lastUpdated": "2020-05-08 15:45:33 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2654,7 +2654,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-03-02 20:57:45 UTC"
+    "lastUpdated": "2020-05-09 15:12:35 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -4084,7 +4084,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-04-20 13:22:29 UTC"
+    "lastUpdated": "2020-05-07 07:22:00 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4205,7 +4205,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-04-29 08:26:24 UTC"
+    "lastUpdated": "2020-05-08 21:01:41 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4215,7 +4215,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-04-30 19:58:27 UTC"
+    "lastUpdated": "2020-05-06 12:25:59 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
