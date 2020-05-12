@@ -6648,5 +6648,14 @@
     "appcast": "https://raw.githubusercontent.com/chaos-machine/switch-theme/master/.appcast.xml",
     "homepage": "https://github.com/chaos-machine/switch-theme",
     "author": "Tudor Teisanu"
+  },
+  {
+    "title": "Above the Fold by VisualEyes",
+    "description": "Where ends my Above the Fold section? We answer that!",
+    "name": "sketch-above-the-fold",
+    "owner": "loceye",
+    "appcast": "https://raw.githubusercontent.com/loceye/sketch-above-the-fold/master/.appcast.xml",
+    "homepage": "https://www.visualeyes.design",
+    "author": "Loceye"
   }
 ]
