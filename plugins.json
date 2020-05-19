@@ -6438,11 +6438,13 @@
     "author": "chenxsan"
   },
   {
-    "title": "Lightswitch",
+    "title": "Light Switch",
     "name": "lightswitch-sketch",
     "owner": "TheBerriman",
+    "description": "Toggle between Light or Dark symbols and text/layer styles.",
     "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
-    "homepage": "https://github.com/TheBerriman/lightswitch-sketch"
+    "homepage": "https://github.com/TheBerriman/lightswitch-sketch",
+    "author": "Samuel Berriman"
   },
   {
     "title": "DatesFromNow",
