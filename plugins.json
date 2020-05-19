@@ -1,5 +1,13 @@
 [
   {
+    "title": "Above the Fold by VisualEyes",
+    "description": "Mark your designs with a layer that indicates where is the Above the Fold portion.",
+    "author": "VisualEyes",
+    "homepage": "https://www.visualeyes.design/tools/above-the-fold",
+    "appcast": "https://raw.githubusercontent.com/loceye/sketch-above-the-fold/master/.appcast.xml",
+    "lastUpdated": "2020-05-12 13:43:00 UTC"
+  },
+  {
     "title": "Last-updated indicator",
     "description": "Mark your designs with a version indicator which automatically changes as you update.",
     "author": "Bram van Mensvoort",
