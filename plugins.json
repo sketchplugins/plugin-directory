@@ -6667,5 +6667,14 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng"
-  }
+  },
+  {
+     "title": "Export Flat SVGs",
+     "description": "Flatten text within SVGs on export.",
+     "name": "ExportFlatSVGs",
+     "owner": "KevinGutowski",
+     "appcast": "https://raw.githubusercontent.com/KevinGutowski/ExportFlatSVGs/master/.appcast.xml",
+     "homepage": "https://github.com/KevinGutowski/ExportFlatSVGs",
+     "author": "Kevin Gutowski"
+  },
 ]
