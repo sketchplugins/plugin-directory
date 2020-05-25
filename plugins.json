@@ -6667,5 +6667,13 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng"
+  },
+  {
+    "title": "sync-with-library",
+    "name": "sync-with-library",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/sync-with-library",
+    "author": "oodesign"
   }
 ]
