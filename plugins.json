@@ -6669,6 +6669,15 @@
     "author": "Li Zheng"
   },
   {
+    "title": "Isometry",
+    "description": "Create isometric projections from layers",
+    "name": "Isometry",
+    "owner": "maxkonovalov",
+    "appcast": "https://raw.githubusercontent.com/maxkonovalov/Isometry/master/.appcast.xml",
+    "homepage": "https://github.com/maxkonovalov/Isometry",
+    "author": "Max Konovalov"
+  },
+  {
     "title": "sync-with-library",
     "name": "sync-with-library",
     "owner": "oodesign",
