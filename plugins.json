@@ -6693,5 +6693,14 @@
      "appcast": "https://raw.githubusercontent.com/KevinGutowski/ExportFlatSVGs/master/.appcast.xml",
      "homepage": "https://github.com/KevinGutowski/ExportFlatSVGs",
      "author": "Kevin Gutowski"
+  },
+  {
+     "title": "🦁 A Lion",
+     "description": "Align your layers to a key layer.",
+     "name": "A-Lion",
+     "owner": "KevinGutowski",
+     "appcast": "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml",
+     "homepage": "https://github.com/KevinGutowski/A-Lion",
+     "author": "Kevin Gutowski"
   }
 ]
