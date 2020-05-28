@@ -6676,5 +6676,13 @@
     "appcast": "https://raw.githubusercontent.com/maxkonovalov/Isometry/master/.appcast.xml",
     "homepage": "https://github.com/maxkonovalov/Isometry",
     "author": "Max Konovalov"
+  },
+  {
+    "title": "sync-with-library",
+    "name": "sync-with-library",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/sync-with-library",
+    "author": "oodesign"
   }
 ]
