@@ -6684,5 +6684,14 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sync-with-library",
     "author": "oodesign"
+  },
+  {
+     "title": "Export Flat SVGs",
+     "description": "Flatten text within SVGs on export.",
+     "name": "ExportFlatSVGs",
+     "owner": "KevinGutowski",
+     "appcast": "https://raw.githubusercontent.com/KevinGutowski/ExportFlatSVGs/master/.appcast.xml",
+     "homepage": "https://github.com/KevinGutowski/ExportFlatSVGs",
+     "author": "Kevin Gutowski"
   }
 ]
