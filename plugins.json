@@ -6668,7 +6668,33 @@
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng"
   },
-   {
+  {
+    "title": "Isometry",
+    "description": "Create isometric projections from layers",
+    "name": "Isometry",
+    "owner": "maxkonovalov",
+    "appcast": "https://raw.githubusercontent.com/maxkonovalov/Isometry/master/.appcast.xml",
+    "homepage": "https://github.com/maxkonovalov/Isometry",
+    "author": "Max Konovalov"
+  },
+  {
+    "title": "sync-with-library",
+    "name": "sync-with-library",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/sync-with-library",
+    "author": "oodesign"
+  },
+  {
+     "title": "Export Flat SVGs",
+     "description": "Flatten text within SVGs on export.",
+     "name": "ExportFlatSVGs",
+     "owner": "KevinGutowski",
+     "appcast": "https://raw.githubusercontent.com/KevinGutowski/ExportFlatSVGs/master/.appcast.xml",
+     "homepage": "https://github.com/KevinGutowski/ExportFlatSVGs",
+     "author": "Kevin Gutowski"
+  },
+  {
      "title": "🦁 A Lion",
      "description": "Align your layers to a key layer.",
      "name": "A-Lion",
@@ -6676,5 +6702,5 @@
      "appcast": "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml",
      "homepage": "https://github.com/KevinGutowski/A-Lion",
      "author": "Kevin Gutowski"
-   }
+  }
 ]
