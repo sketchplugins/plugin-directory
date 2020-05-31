@@ -72,7 +72,7 @@
     "author": "Alexander Käßner",
     "homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
     "appcast": "https://raw.githubusercontent.com/alexkaessner/custom-zoom-sketch/master/.appcast.xml",
-    "lastUpdated": "2020-03-15 11:01:12 UTC"
+    "lastUpdated": "2020-05-25 09:29:29 UTC"
   },
   {
     "title": "Phrase Sketch Plugin",
@@ -389,7 +389,7 @@
     "title": "NeoPreview",
     "owner": "alanfraneo",
     "author": "Alan Francis",
-    "lastUpdated": "2019-11-22 14:16:36 UTC"
+    "lastUpdated": "2020-05-27 10:40:27 UTC"
   },
   {
     "description": "Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.",
@@ -758,7 +758,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2020-05-13 18:27:16 UTC"
+    "lastUpdated": "2020-05-24 09:31:03 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -2662,7 +2662,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-05-10 21:12:38 UTC"
+    "lastUpdated": "2020-05-25 21:37:12 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2977,7 +2977,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "copy-framer-code",
-    "lastUpdated": "2018-04-26 09:21:19 UTC"
+    "lastUpdated": "2020-05-27 21:54:24 UTC"
   },
   {
     "title": "Table of Contents",
@@ -3202,7 +3202,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-05-22 16:13:15 UTC"
+    "lastUpdated": "2020-05-28 06:08:33 UTC"
   },
   {
     "title": "Blender",
@@ -3519,7 +3519,7 @@
     "owner": "AMoreaux",
     "appcast": "https://raw.githubusercontent.com/AMoreaux/Sketch-Icons/master/.appcast.xml",
     "homepage": "https://github.com/AMoreaux/Sketch-Icons",
-    "lastUpdated": "2019-10-05 12:06:57 UTC"
+    "lastUpdated": "2020-05-28 23:26:51 UTC"
   },
   {
     "title": "Sketch Topographic",
@@ -3647,7 +3647,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-05-21 20:44:40 UTC"
+    "lastUpdated": "2020-05-30 22:08:33 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-05-23 20:32:59 UTC"
+    "lastUpdated": "2020-05-27 21:08:00 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4223,7 +4223,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-05-23 20:32:43 UTC"
+    "lastUpdated": "2020-05-29 20:37:47 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4402,7 +4402,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-03-15 10:10:55 UTC"
+    "lastUpdated": "2020-05-27 19:04:20 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -6686,21 +6686,21 @@
     "author": "oodesign"
   },
   {
-     "title": "Export Flat SVGs",
-     "description": "Flatten text within SVGs on export.",
-     "name": "ExportFlatSVGs",
-     "owner": "KevinGutowski",
-     "appcast": "https://raw.githubusercontent.com/KevinGutowski/ExportFlatSVGs/master/.appcast.xml",
-     "homepage": "https://github.com/KevinGutowski/ExportFlatSVGs",
-     "author": "Kevin Gutowski"
+    "title": "Export Flat SVGs",
+    "description": "Flatten text within SVGs on export.",
+    "name": "ExportFlatSVGs",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/ExportFlatSVGs/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/ExportFlatSVGs",
+    "author": "Kevin Gutowski"
   },
   {
-     "title": "🦁 A Lion",
-     "description": "Align your layers to a key layer.",
-     "name": "A-Lion",
-     "owner": "KevinGutowski",
-     "appcast": "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml",
-     "homepage": "https://github.com/KevinGutowski/A-Lion",
-     "author": "Kevin Gutowski"
+    "title": "🦁 A Lion",
+    "description": "Align your layers to a key layer.",
+    "name": "A-Lion",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/A-Lion",
+    "author": "Kevin Gutowski"
   }
 ]
