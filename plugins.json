@@ -6702,5 +6702,13 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml",
     "homepage": "https://github.com/KevinGutowski/A-Lion",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Color Copy Paste",
+    "name": "color-copy-paste",
+    "owner": "sonnylazuardi",
+    "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
+    "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
+    "author": "Sonny Lazuardi Hermawan"
   }
 ]
