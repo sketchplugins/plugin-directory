@@ -3198,7 +3198,7 @@
   },
   {
     "title": "Merge Duplicate Symbols",
-    "description": "Sketch.app plugin to merge symbols with the same name.",
+    "description": "Merge symbols or styles, replacing all instances and keeping overrides.",
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
@@ -5908,7 +5908,7 @@
   },
   {
     "title": "Sketch Styler",
-    "description": "Sketch plugin that assigns styles automatically to all of your unstyled layers.",
+    "description": "Assigns styles automatically to all of your unstyled layers.",
     "name": "sketch-styler",
     "owner": "oodesign",
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
@@ -6678,7 +6678,8 @@
     "author": "Max Konovalov"
   },
   {
-    "title": "sync-with-library",
+    "title": "Sync with Library",
+    "description": "Easily replace local symbols and layer & text styles with library ones.",
     "name": "sync-with-library",
     "owner": "oodesign",
     "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
