@@ -389,7 +389,7 @@
     "title": "NeoPreview",
     "owner": "alanfraneo",
     "author": "Alan Francis",
-    "lastUpdated": "2020-05-27 10:40:27 UTC"
+    "lastUpdated": "2020-06-01 10:04:32 UTC"
   },
   {
     "description": "Helps you select different type of layers, specific Shapes like Rectangle, Ovals, Triangles, Lines, Arrows, Paths, etc.",
@@ -1749,7 +1749,7 @@
     "title": "Sketch Image Average Color",
     "author": "Antonio J. Martinez",
     "owner": "AntonioJMartinez",
-    "lastUpdated": "2019-01-02 07:19:27 UTC"
+    "lastUpdated": "2020-05-31 16:16:21 UTC"
   },
   {
     "description": "Sketch plugin to generate FramerJS prototypes. Just have your motion done.",
@@ -1941,7 +1941,7 @@
     "name": "AnimateMate",
     "owner": "Creatide",
     "author": "Sakari Niittymaa",
-    "lastUpdated": "2020-05-11 14:57:22 UTC",
+    "lastUpdated": "2020-06-05 13:56:53 UTC",
     "title": "AnimateMate"
   },
   {
@@ -2211,7 +2211,7 @@
     "name": "FontFinder",
     "owner": "ukn530",
     "author": "Tatsuya Uchida",
-    "lastUpdated": "2020-04-15 08:46:42 UTC",
+    "lastUpdated": "2020-06-04 02:39:02 UTC",
     "title": "FontFinder"
   },
   {
@@ -2460,7 +2460,7 @@
     "title": "Font Packer",
     "owner": "bigxixi",
     "author": "Big XiXi",
-    "lastUpdated": "2019-02-25 07:22:54 UTC"
+    "lastUpdated": "2020-06-01 08:02:10 UTC"
   },
   {
     "description": "Sketch3 plugin, One key export Android/iOS App icons.",
@@ -2662,7 +2662,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-05-25 21:37:12 UTC"
+    "lastUpdated": "2020-06-04 21:00:28 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2960,7 +2960,7 @@
     "author": "Justinmind",
     "owner": "vconesa",
     "name": "justinmind-sketch",
-    "lastUpdated": "2019-11-13 18:42:16 UTC"
+    "lastUpdated": "2020-06-02 03:39:02 UTC"
   },
   {
     "owner": "mludowise",
@@ -3058,7 +3058,7 @@
     "author": "捻捻转儿",
     "owner": "MrPeak",
     "name": "sketch-search-everywhere",
-    "lastUpdated": "2018-03-21 02:01:34 UTC"
+    "lastUpdated": "2020-06-02 09:01:04 UTC"
   },
   {
     "title": "Sketch Show Layer Info",
@@ -3210,7 +3210,7 @@
     "author": "bunnieabc",
     "owner": "bunnieabc",
     "name": "Blender",
-    "lastUpdated": "2019-02-06 05:27:16 UTC"
+    "lastUpdated": "2020-06-06 19:57:16 UTC"
   },
   {
     "title": "Sketch Slicer",
@@ -3647,7 +3647,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-05-30 22:08:33 UTC"
+    "lastUpdated": "2020-06-02 19:09:55 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -3977,7 +3977,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-05-20 15:17:02 UTC"
+    "lastUpdated": "2020-06-06 11:48:44 UTC"
   },
   {
     "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-05-27 21:08:00 UTC"
+    "lastUpdated": "2020-06-06 20:47:32 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4223,7 +4223,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-05-29 20:37:47 UTC"
+    "lastUpdated": "2020-06-06 13:51:03 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4233,7 +4233,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-03-17 09:09:32 UTC"
+    "lastUpdated": "2020-06-01 06:42:58 UTC"
   },
   {
     "title": "Convert To Grayscale",
