@@ -6710,5 +6710,14 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan"
+  },
+  {
+    "title": "Genus",
+    "description": "A sketch plugin for exporting prototype website (static html css) from your sketch designs",
+    "name": "genus",
+    "owner": "keplerlab",
+    "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
+    "homepage": "https://github.com/keplerlab/genus",
+    "author": "Kepler Lab"
   }
 ]
