@@ -6728,5 +6728,14 @@
     "appcast": "https://raw.githubusercontent.com/tijmenvangurp/detach-out-of-sync-text-styles/master/.appcast.xml",
     "homepage": "https://github.com/tijmenvangurp/detach-out-of-sync-text-styles",
     "author": "Tijmen van Gurp"
+  },
+  {
+    "title": "Genus",
+    "description": "A sketch plugin for exporting prototype website (static html css) from your sketch designs",
+    "name": "genus",
+    "owner": "keplerlab",
+    "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
+    "homepage": "https://github.com/keplerlab/genus",
+    "author": "Kepler Lab"
   }
 ]
