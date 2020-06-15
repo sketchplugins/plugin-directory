@@ -62,7 +62,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2020-04-16 20:39:51 UTC"
+    "lastUpdated": "2020-06-09 08:54:54 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -724,7 +724,7 @@
     "title": "Remove Fills and Borders",
     "author": "Seb Jachec",
     "owner": "sebj",
-    "lastUpdated": "2017-06-02 16:18:58 UTC"
+    "lastUpdated": "2020-06-12 14:04:36 UTC"
   },
   {
     "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
@@ -1700,7 +1700,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-05-13 06:27:23 UTC"
+    "lastUpdated": "2020-06-13 17:01:21 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1717,7 +1717,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2019-10-30 15:18:33 UTC"
+    "lastUpdated": "2020-06-09 12:52:57 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -2211,7 +2211,7 @@
     "name": "FontFinder",
     "owner": "ukn530",
     "author": "Tatsuya Uchida",
-    "lastUpdated": "2020-06-04 02:39:02 UTC",
+    "lastUpdated": "2020-06-09 11:21:38 UTC",
     "title": "FontFinder"
   },
   {
@@ -2662,7 +2662,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-06-04 21:00:28 UTC"
+    "lastUpdated": "2020-06-09 21:39:31 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2855,7 +2855,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2017-10-13 18:40:19 UTC"
+    "lastUpdated": "2020-06-11 18:00:10 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -3210,7 +3210,7 @@
     "author": "bunnieabc",
     "owner": "bunnieabc",
     "name": "Blender",
-    "lastUpdated": "2020-06-06 19:57:16 UTC"
+    "lastUpdated": "2020-06-07 08:16:15 UTC"
   },
   {
     "title": "Sketch Slicer",
@@ -3733,7 +3733,7 @@
     "appcast": "https://raw.githubusercontent.com/Coding/coding-sketch-toolkit/master/.appcast.xml",
     "homepage": "https://github.com/Coding/coding-sketch-toolkit",
     "author": "tankxu",
-    "lastUpdated": "2020-04-27 08:34:59 UTC"
+    "lastUpdated": "2020-06-10 05:00:29 UTC"
   },
   {
     "title": "Flow Exporter",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-06-06 20:47:32 UTC"
+    "lastUpdated": "2020-06-10 16:40:38 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6383,12 +6383,12 @@
     "author": "Jarek Ostrowski & David Diefenderfer"
   },
   {
-    "title": "search-sketch",
-    "description": "Search in Sketch with multilang support",
+    "title": "Search Sketch",
+    "description": "Search Sketch searches text in any language",
     "name": "search-sketch",
     "owner": "candy02058912",
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
-    "homepage": "https://github.com/candy02058912/search-sketch",
+    "homepage": "https://candy02058912.github.io/search-sketch",
     "author": "Candy Tsai"
   },
   {
@@ -6710,6 +6710,15 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan"
+  },
+  {
+    "title": "Slint",
+    "description": "A linter for Sketch files",
+    "name": "slint",
+    "owner": "nusability",
+    "appcast": "https://raw.githubusercontent.com/nusability/slint/master/.appcast.xml",
+    "homepage": "https://github.com/nusability/slint",
+    "author": "Johannes Nanninga"
   },
   {
     "title": "Detach out of sync text styles",
