@@ -6719,5 +6719,14 @@
     "appcast": "https://raw.githubusercontent.com/nusability/slint/master/.appcast.xml",
     "homepage": "https://github.com/nusability/slint",
     "author": "Johannes Nanninga"
+  },
+  {
+    "title": "Detach out of sync text styles",
+    "description": "Detach all out of sync text styles from a chosen sketch library.",
+    "name": "detach-out-of-sync-text-styles",
+    "owner": "tijmenvangurp",
+    "appcast": "https://raw.githubusercontent.com/tijmenvangurp/detach-out-of-sync-text-styles/master/.appcast.xml",
+    "homepage": "https://github.com/tijmenvangurp/detach-out-of-sync-text-styles",
+    "author": "Tijmen van Gurp"
   }
 ]
