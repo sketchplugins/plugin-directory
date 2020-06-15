@@ -6710,5 +6710,14 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan"
+  },
+  {
+    "title": "Slint",
+    "description": "A linter for Sketch files",
+    "name": "slint",
+    "owner": "nusability",
+    "appcast": "https://raw.githubusercontent.com/nusability/slint/master/.appcast.xml",
+    "homepage": "https://github.com/nusability/slint",
+    "author": "Johannes Nanninga"
   }
 ]
