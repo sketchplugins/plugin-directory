@@ -115,6 +115,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Design Token Exporter](https://github.com/here-erhe/Design-Token-Exporter), by Herkko Huttunen: Simple Design Token Exporter
 - [Design Tokens](https://github.com/design-meets-development/design-tokens-plugin), by Andreas Koutsoukos: A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.
 - [DesignToken2Code](https://github.com/m-yoshiro/DesignToken2Code), by m-yoshiro: Convert design tokens to SCSS variables as code
+- [Detach Out of Sync Text Styles](https://github.com/tijmenvangurp/detach-out-of-sync-text-styles), by Tijmen van Gurp: Detach all out of sync text styles from a chosen sketch library.
 - [Disconnector](https://github.com/njcrowther/Disconnector), by Nathan Crowther: Quickly disconnect all symbols from a selection
 - [Diverse UI Sketch Plugin](https://github.com/reneepadgham/diverseui-sketch-plugin), by Renée Padgham: The official Sketch plugin for Diverse UI.
 - [Drafta](https://github.com/fragmentlv/drafta), by Fragment: Export designs directly to Drafta
