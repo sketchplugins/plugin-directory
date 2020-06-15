@@ -299,7 +299,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
 - [Scribble](https://www.canvasflip.com/visual-inspector/scribble/), by CanvasFlip Inc: Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.
 - [Sd Changer](https://github.com/yeun/sd-changer), by jeongheeyeun: Converts Apple SD Gothic Neo font to SF Pro Display
-- [Search Sketch](https://github.com/candy02058912/search-sketch), by Candy Tsai: Search in Sketch with multilang support
+- [Search Sketch](https://candy02058912.github.io/search-sketch), by Candy Tsai: Search Sketch searches text in any language
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
 - [Seoul](https://github.com/sunkibaek/Seoul), by Sunki Baek: A DataSupplier plugin
