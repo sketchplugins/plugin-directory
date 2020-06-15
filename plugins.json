@@ -6383,12 +6383,12 @@
     "author": "Jarek Ostrowski & David Diefenderfer"
   },
   {
-    "title": "search-sketch",
-    "description": "Search in Sketch with multilang support",
+    "title": "Search Sketch",
+    "description": "Search Sketch searches text in any language",
     "name": "search-sketch",
     "owner": "candy02058912",
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
-    "homepage": "https://github.com/candy02058912/search-sketch",
+    "homepage": "https://candy02058912.github.io/search-sketch",
     "author": "Candy Tsai"
   },
   {
