@@ -79,6 +79,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Color Swatcher](https://github.com/akiersky/color-swatcher), by akiersky: A Sketch plugin to analyze document colors and show the WCAG color contrast value.
 - [ColorBrightness](https://github.com/andexds/colorbrightness), by Andrey Anashkin: Color Brightness sketch plugin
 - [Colormate](https://github.com/themainingredient/colormate), by The Main Ingredient: Colormate is a kickass sketch plugin that will help you figure out how in the hell you ended up with 457 different greys, instead of the 1 grey Mandy gave you in the handover. Oops :flushed:
+- [Colors → Code](https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live), by Sugarcode: Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.
 - [ColorSpark for Sketch](https://colorspark.app/sketch), by Luke Johnson: A simple tool to help designers discover unique colors and gradients directly in Sketch.
 - [Compo](https://github.com/romashamin/compo-sketch), by Roman Shamin: Makes it easier to work with interface components in Sketch
 - [Composite SVG](https://github.com/alanfraneo/svg-composite), by Alan Francis: A Sketch plugin to create a composite SVG file from sketch artboards
