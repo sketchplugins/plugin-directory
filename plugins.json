@@ -6740,6 +6740,15 @@
     "author": "Kepler Lab"
   },
   {
+    "title": "library-inventory",
+    "description": "List all symbols that a selected document is using from an external library",
+    "name": "library-inventory",
+    "owner": "tijmenvangurp",
+    "appcast": "https://raw.githubusercontent.com/tijmenvangurp/library-inventory/master/.appcast.xml",
+    "homepage": "https://github.com/tijmenvangurp/library-inventory",
+    "author": "Gurp, Tijmen van"
+  },
+  {
     "title": "Colors → Code",
     "description": "Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.",
     "name": "colors-to-code-sketch-plugin-live",
