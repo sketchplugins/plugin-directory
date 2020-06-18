@@ -6738,5 +6738,14 @@
     "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
     "homepage": "https://github.com/keplerlab/genus",
     "author": "Kepler Lab"
+  },
+  {
+    "title": "Icons → Code",
+    "description": "Export Icons as vector-perfect code components for Android, React, ReactNative, Angular, Vue, TTF, EPS, PDF, Custom components and more.",
+    "name": "icons-to-code-sketch-plugin-live",
+    "owner": "Sugarcode-Team",
+    "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
+    "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
+    "author": "Sugarcode"
   }
 ]
