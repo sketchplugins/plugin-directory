@@ -6738,5 +6738,14 @@
     "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
     "homepage": "https://github.com/keplerlab/genus",
     "author": "Kepler Lab"
+  },
+  {
+    "title": "Colors → Code",
+    "description": "Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.",
+    "name": "colors-to-code-sketch-plugin-live",
+    "owner": "Sugarcode-Team",
+    "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/colors-to-code-sketch-plugin-live/master/.appcast.xml",
+    "homepage": "https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live",
+    "author": "Sugarcode"
   }
 ]
