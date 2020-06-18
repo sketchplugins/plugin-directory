@@ -6738,5 +6738,14 @@
     "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
     "homepage": "https://github.com/keplerlab/genus",
     "author": "Kepler Lab"
+  },
+  {
+    "title": "library-inventory",
+    "description": "List all symbols that a selected document is using from an external library",
+    "name": "library-inventory",
+    "owner": "tijmenvangurp",
+    "appcast": "https://raw.githubusercontent.com/tijmenvangurp/library-inventory/master/.appcast.xml",
+    "homepage": "https://github.com/tijmenvangurp/library-inventory",
+    "author": "Gurp, Tijmen van"
   }
 ]
