@@ -6765,5 +6765,14 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
     "author": "Sugarcode"
+  },
+  {
+    "title": "perfect-type",
+    "description": "",
+    "name": "perfect-type-plugin",
+    "owner": "rtrikha",
+    "appcast": "https://raw.githubusercontent.com/rtrikha/perfect-type-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/rtrikha/perfect-type-plugin",
+    "author": "Raunak Trikha"
   }
 ]
