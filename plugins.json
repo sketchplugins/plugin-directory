@@ -144,16 +144,6 @@
     "lastUpdated": "2018-10-26 22:33:33 UTC"
   },
   {
-    "description": "Upload your designs, invite your team to edit copy in the browser and sync the changes back to your Sketch document.",
-    "name": "scribble-sketch-plugin",
-    "title": "Scribble",
-    "owner": "manish1988",
-    "author": "CanvasFlip Inc",
-    "homepage": "https://www.canvasflip.com/visual-inspector/scribble/",
-    "appcast": "https://github.com/manish1988/scribble-sketch-plugin/blob/master/appcast.xml",
-    "lastUpdated": "2018-11-12 10:02:12 UTC"
-  },
-  {
     "description": "This Sketch Data plugin adds localized profile names (powered by uinames.com) to your design. - Get diversity into your content.",
     "name": "jane_doe",
     "title": "Jane Doe",
@@ -161,14 +151,6 @@
     "author": "Konstantin Demblin",
     "homepage": "https://github.com/konki-vienna/jane_doe",
     "lastUpdated": "2019-03-18 15:37:00 UTC"
-  },
-  {
-    "title": "Timelapse",
-    "description": "Create beautiful high-speed videos of your work in Sketch and show off your progress.",
-    "author": "Team Timelapse",
-    "homepage": "https://timelapsesketch.com",
-    "appcast": "https://www.animaapp.com/timelapse/appcast.xml",
-    "lastUpdated": "2018-11-01 00:20:00 UTC"
   },
   {
     "title": "Laboji",
@@ -407,13 +389,6 @@
     "author": "Tencent WeChat Team",
     "homepage": "https://github.com/weixin/Miaow",
     "lastUpdated": "2019-03-04 22:31:11 UTC"
-  },
-  {
-    "description": "Sync and generate specs from sketch artboards to CanvasFlip.",
-    "title": "CanvasFlip",
-    "author": "CanvasFlip",
-    "homepage": "https://canvasflip.com/",
-    "lastUpdated": "2017-06-28 10:30:30 UTC"
   },
   {
     "description": "Generate palette stripes in sketch from shape fills.",
@@ -711,14 +686,6 @@
     "title": "Sketch iOS Bar Color Calculator"
   },
   {
-    "description": "Quickly select and share work in progress with your team via WorkingOn.",
-    "name": "SketchingOn",
-    "owner": "WorkingOn",
-    "homepage": "https://www.workingon.co",
-    "lastUpdated": "2017-05-07 01:22:47 UTC",
-    "title": "SketchingOn"
-  },
-  {
     "description": "Remove a layer's fills and borders in Sketch.",
     "name": "Remove-Fills-and-Borders",
     "title": "Remove Fills and Borders",
@@ -866,14 +833,6 @@
     "name": "AEFlowchart",
     "lastUpdated": "2018-11-04 17:58:39 UTC",
     "title": "AEFlowchart"
-  },
-  {
-    "description": "Split and Divide plugins for Sketch3 app.",
-    "owner": "KrevedAccky",
-    "author": "Konstantin Raspopov",
-    "title": "Split & Divide",
-    "name": "SketchSplitDivide",
-    "lastUpdated": "2018-09-01 12:46:15 UTC"
   },
   {
     "description": "A Sketch 3 plugin that takes the currently selected layers and copies them one or multiple times in a specified direction.",
@@ -2168,13 +2127,6 @@
     "lastUpdated": "2017-04-17 03:49:52 UTC"
   },
   {
-    "title": "Atomic Sketch Plugin",
-    "description": "Exports Sketch Files to Atomic",
-    "author": "Atomic.io",
-    "homepage": "https://atomic.io/sketch",
-    "lastUpdated": "2016-07-12 00:00:00 UTC"
-  },
-  {
     "description": "Sketch.app plugin for showing zoom notifications",
     "name": "Zoom-Alert",
     "title": "Zoom Alert",
@@ -2197,14 +2149,6 @@
     "homepage": "https://www.paintcodeapp.com/sketch",
     "appcast": "https://www.pixelcut.com/paintcode-sketch/appcast.xml",
     "lastUpdated": "2019-11-28 16:04:03 UTC"
-  },
-  {
-    "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
-    "title": "Sketch Focus",
-    "author": "Code Arrows",
-    "homepage": "https://sketchfocus.com",
-    "downloadURL": "https://sketchfocus.com/static/plugin/SketchFocus.zip",
-    "lastUpdated": "2017-09-28 09:10:36 UTC"
   },
   {
     "description": "Sketch Plugin to find and select font items in a current page",
@@ -5795,13 +5739,6 @@
     "lastUpdated": "2019-07-27 20:04:44 UTC"
   },
   {
-    "title": "Stash",
-    "description": "Import artboards from Stash to Sketch",
-    "appcast": "https://www.stash.diamonds/assets/downloads/appcast.xml",
-    "homepage": "https://www.stash.diamonds",
-    "author": "Jarek Ostrowski & David Diefenderfer"
-  },
-  {
     "title": "Gretel",
     "description": "A Sketch plugin that flattens files after exporting.",
     "name": "Gretel",
@@ -6396,8 +6333,8 @@
     "description": "icanicon.io allows you to keep your icon libraries in sync with your Design System.",
     "name": "icanicon-sketch-plugin",
     "owner": "Sugarcode-Team",
-    "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icanicon-sketch-plugin/master/.appcast.xml",
-    "homepage": "https://github.com/Sugarcode-Team/icanicon-sketch-plugin",
+    "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icanicon-live-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/Sugarcode-Team/icanicon-live-sketch-plugin",
     "author": "Sugarcode"
   },
   {
