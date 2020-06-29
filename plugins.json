@@ -6774,5 +6774,14 @@
     "appcast": "https://raw.githubusercontent.com/chewbecky/wireframr/master/.appcast.xml",
     "homepage": "https://github.com/chewbecky/wireframr",
     "author": "chewbecca"
+  },
+  {
+    "title": "🧑🏻‍🚀Xscape!",
+    "description": "hi",
+    "name": "colors-to-code-sketch-plugin-live",
+    "owner": "Wooh",
+    "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
+    "homepage": "http://xscape.fun/",
+    "author": "Wooh"
   }
 ]
