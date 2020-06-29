@@ -6765,5 +6765,14 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
     "author": "Sugarcode"
+  },
+  {
+    "title": "wireframr",
+    "description": "Sketch Plugin to change your high-fidelity screendesign to simple wireframes.",
+    "name": "wireframr",
+    "owner": "chewbecky",
+    "appcast": "https://raw.githubusercontent.com/chewbecky/wireframr/master/.appcast.xml",
+    "homepage": "https://github.com/chewbecky/wireframr",
+    "author": "chewbecca"
   }
 ]
