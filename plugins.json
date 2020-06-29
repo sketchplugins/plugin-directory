@@ -492,7 +492,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-03-16 19:11:24 UTC"
+    "lastUpdated": "2020-06-24 18:13:16 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -2324,7 +2324,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-04-14 14:18:58 UTC"
+    "lastUpdated": "2020-06-27 14:07:00 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3202,7 +3202,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-05-28 06:08:33 UTC"
+    "lastUpdated": "2020-06-25 08:54:51 UTC"
   },
   {
     "title": "Blender",
@@ -3564,7 +3564,7 @@
     "owner": "sergeishere",
     "name": "HandyMenu-SketchPlugin",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
-    "lastUpdated": "2020-03-16 20:40:09 UTC"
+    "lastUpdated": "2020-06-26 00:23:53 UTC"
   },
   {
     "title": "chart",
@@ -4092,7 +4092,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-05-18 15:55:59 UTC"
+    "lastUpdated": "2020-06-25 15:45:34 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-06-19 20:55:24 UTC"
+    "lastUpdated": "2020-06-25 15:05:55 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4223,7 +4223,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-06-15 21:02:06 UTC"
+    "lastUpdated": "2020-06-26 14:29:45 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4280,7 +4280,7 @@
     "owner": "sketch-hq",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/sketch-image-compressor/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/sketch-image-compressor",
-    "lastUpdated": "2020-03-14 10:49:18 UTC"
+    "lastUpdated": "2020-06-25 09:21:35 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -6765,6 +6765,24 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
     "author": "Sugarcode"
+  },
+  {
+    "title": "wireframr",
+    "description": "Sketch Plugin to change your high-fidelity screendesign to simple wireframes.",
+    "name": "wireframr",
+    "owner": "chewbecky",
+    "appcast": "https://raw.githubusercontent.com/chewbecky/wireframr/master/.appcast.xml",
+    "homepage": "https://github.com/chewbecky/wireframr",
+    "author": "chewbecca"
+  },
+  {
+    "title": "🧑🏻‍🚀Xscape!",
+    "description": "hi",
+    "name": "colors-to-code-sketch-plugin-live",
+    "owner": "Wooh",
+    "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
+    "homepage": "http://xscape.fun/",
+    "author": "Wooh"
   },
   {
     "title": "perfect-type",
