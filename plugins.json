@@ -295,7 +295,7 @@
     "owner": "cranksoftwaredev",
     "author": "Crank Software Inc.",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "lastUpdated": "2020-02-11 19:59:32 UTC"
+    "lastUpdated": "2020-06-17 17:26:26 UTC"
   },
   {
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
@@ -492,7 +492,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-03-16 19:11:24 UTC"
+    "lastUpdated": "2020-06-24 18:13:16 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -2063,7 +2063,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-03-17 14:02:33 UTC"
+    "lastUpdated": "2020-06-18 16:39:36 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2324,7 +2324,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-04-14 14:18:58 UTC"
+    "lastUpdated": "2020-06-27 14:07:00 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2662,7 +2662,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-06-09 21:39:31 UTC"
+    "lastUpdated": "2020-06-18 13:51:09 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2670,7 +2670,7 @@
     "title": "Nudged",
     "owner": "KevinWoodhouse",
     "author": "Kevin Woodhouse",
-    "lastUpdated": "2018-07-03 07:37:31 UTC"
+    "lastUpdated": "2020-06-17 12:32:56 UTC"
   },
   {
     "description": "A Sketch plugin to export sketch file to Adobe After Effect",
@@ -2855,7 +2855,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2020-06-11 18:00:10 UTC"
+    "lastUpdated": "2020-06-15 17:27:09 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -3202,7 +3202,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-05-28 06:08:33 UTC"
+    "lastUpdated": "2020-06-25 08:54:51 UTC"
   },
   {
     "title": "Blender",
@@ -3210,7 +3210,7 @@
     "author": "bunnieabc",
     "owner": "bunnieabc",
     "name": "Blender",
-    "lastUpdated": "2020-06-07 08:16:15 UTC"
+    "lastUpdated": "2020-06-19 18:08:32 UTC"
   },
   {
     "title": "Sketch Slicer",
@@ -3358,7 +3358,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2020-01-26 14:54:23 UTC"
+    "lastUpdated": "2020-06-15 20:39:26 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -3564,7 +3564,7 @@
     "owner": "sergeishere",
     "name": "HandyMenu-SketchPlugin",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
-    "lastUpdated": "2020-03-16 20:40:09 UTC"
+    "lastUpdated": "2020-06-26 00:23:53 UTC"
   },
   {
     "title": "chart",
@@ -3572,7 +3572,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2020-04-17 00:03:27 UTC"
+    "lastUpdated": "2020-06-15 20:22:41 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3647,7 +3647,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-06-02 19:09:55 UTC"
+    "lastUpdated": "2020-06-19 19:06:38 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -3921,7 +3921,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2018-05-28 12:35:31 UTC"
+    "lastUpdated": "2020-06-18 15:32:18 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4092,7 +4092,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-05-18 15:55:59 UTC"
+    "lastUpdated": "2020-06-25 15:45:34 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-06-10 16:40:38 UTC"
+    "lastUpdated": "2020-06-25 15:05:55 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4223,7 +4223,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-06-06 13:51:03 UTC"
+    "lastUpdated": "2020-06-26 14:29:45 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4280,7 +4280,7 @@
     "owner": "sketch-hq",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/sketch-image-compressor/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/sketch-image-compressor",
-    "lastUpdated": "2020-03-14 10:49:18 UTC"
+    "lastUpdated": "2020-06-25 09:21:35 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4392,7 +4392,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington",
-    "lastUpdated": "2020-03-25 13:28:06 UTC"
+    "lastUpdated": "2020-06-15 18:49:40 UTC"
   },
   {
     "title": "Contrast",
@@ -6765,6 +6765,15 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
     "author": "Sugarcode"
+  },
+  {
+    "title": "wireframr",
+    "description": "Sketch Plugin to change your high-fidelity screendesign to simple wireframes.",
+    "name": "wireframr",
+    "owner": "chewbecky",
+    "appcast": "https://raw.githubusercontent.com/chewbecky/wireframr/master/.appcast.xml",
+    "homepage": "https://github.com/chewbecky/wireframr",
+    "author": "chewbecca"
   },
   {
     "title": "🧑🏻‍🚀Xscape!",
