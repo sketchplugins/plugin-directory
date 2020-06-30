@@ -153,14 +153,16 @@ task :lastUpdated do
   json_data.each do |plugin|
     # Only check for last push date for plugins with a repo
     if plugin['owner'] && plugin['name']
-      puts "Updating #{titlefy(plugin['name'])}"
+      # puts "Updating #{titlefy(plugin['name'])}"
       plugin_url = plugin['owner'] + "/" + plugin['name']
       begin
         repo = client.repo(plugin_url)
         user = client.user(plugin['owner'])
-        puts "— Plugin was updated at #{repo.pushed_at}"
+        # puts "— Plugin was updated at #{repo.pushed_at}"
         plugin['lastUpdated'] = repo.pushed_at
       rescue Exception => e
+        puts e
+        puts "https://github.com/#{plugin['owner']}/#{plugin['name']}" 
         puts "— Repo not available"
       end
 
@@ -168,6 +170,12 @@ task :lastUpdated do
       #   puts "— Plugin title is wrong, fixing"
       #   plugin['title'] = titlefy(plugin['name'])
       # end
+    else
+      if plugin['lastUpdated'].nil?
+        puts plugin['name']
+        puts plugin['title']
+        puts "— Plugin is not on GitHub, you may want to manually add a date"
+      end
     end
     puts
   end
