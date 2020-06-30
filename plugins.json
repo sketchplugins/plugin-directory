@@ -47,16 +47,20 @@
     "lastUpdated": "2019-11-18 05:26:36 UTC"
   },
   {
-    "title": "Handoff",
+    "title": "Sympli Handoff",
     "description": "Well prepared redlines, assets, components and specs for developer handoff",
     "author": "Sympli",
-    "homepage": "https://sympli.io/handoff"
+    "homepage": "https://sympli.io/handoff",
+    "changelog": "https://sympli.canny.io/changelog?labels=handoff-sketch-plugin",
+    "lastUpdated": "2020-04-22 00:00:00 UTC"
   },
   {
-    "title": "Versions",
+    "title": "Sympli Versions",
     "description": "Version control and collaboration for Sketch.",
     "author": "Sympli",
-    "homepage": "https://sympli.io/versions"
+    "homepage": "https://sympli.io/versions",
+    "changelog": "https://sympli.canny.io/changelog?labels=versions-app",
+    "lastUpdated": "2020-06-12 00:00:00 UTC"
   },
   {
     "title": "Atlassian Vendor Sketch Plugin",
@@ -197,7 +201,9 @@
     "title": "Blur Artboard",
     "author": "Duan",
     "homepage": "http://blur.duanjun.net",
-    "lastUpdated": "2018-07-22 14:00:00 UTC"
+    "owner": "lenuxo",
+    "name": "blur_artboard",
+    "lastUpdated": "2019-03-02 03:45:34 UTC"
   },
   {
     "description": "Plugin to using resources of Fusion Design.",
@@ -228,13 +234,6 @@
     "lastUpdated": "2019-04-18 22:01:29 UTC"
   },
   {
-    "description": "Create beautiful timeline animations and export GIF or MP4",
-    "title": "Timeline",
-    "author": "Anima Team",
-    "homepage": "https://timeline.animaapp.com",
-    "lastUpdated": "2018-05-16 3:00:00 UTC"
-  },
-  {
     "description": "Legend for your Sketch Symbols.",
     "name": "sketch-symbol-legend",
     "title": "Sketch Symbol Legend",
@@ -253,18 +252,11 @@
     "lastUpdated": "2019-07-16 22:25:21 UTC"
   },
   {
-    "description": "Adds prototyping to Sketch including transitions between screens and layer animation.",
-    "title": "Protowire",
-    "author": "Mark Horgan",
-    "homepage": "https://protowire.com",
-    "lastUpdated": "2018-02-05 10:27:00 UTC"
-  },
-  {
     "description": "Access Shutterstock's stunning images without leaving your workspace.",
     "title": "Shutterstock",
     "author": "Shutterstock, Inc.",
     "homepage": "https://www.shutterstock.com/explore/shutterstock-sketch-plugin",
-    "lastUpdated": "2018-01-19 16:09:47 UTC"
+    "lastUpdated": "2018-07-03 15:26:00 UTC"
   },
   {
     "description": "A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.",
@@ -289,7 +281,7 @@
     "title": "SketchCleaner",
     "author": "Yummygum",
     "homepage": "http://www.sketchcleaner.com/",
-    "lastUpdated": "2017-12-05 10:10:40 UTC"
+    "lastUpdated": "2018-12-05 10:10:40 UTC"
   },
   {
     "description": "Emulate blend functionality from Adobe Illustrator",
@@ -1777,13 +1769,6 @@
     "homepage": "https://github.com/design4use/gb-sketch-segmentcircle"
   },
   {
-    "description": "Qordoba’s Sketch plugin allows designers to translate their mockups to other languages, making product internationalization easier.",
-    "title": "Qordoba for Sketch",
-    "author": "Qordoba",
-    "homepage": "https://qordoba.com/product/integrations/sketch/",
-    "lastUpdated": "2018-07-18 13:15:47 UTC"
-  },
-  {
     "description": "A Sketch plugin that selects the parent artboards of the current selection",
     "name": "select-parent-artboards",
     "title": "Select Parent Artboards",
@@ -3196,7 +3181,8 @@
     "description": "Sync Sketch designs to Avocode.",
     "author": "Avocode Inc.",
     "homepage": "https://avocode.com/download?origin=sketch",
-    "lastUpdated": "2017-10-06 10:09:55 UTC"
+    "changelog": "https://avocode.com/changelog",
+    "lastUpdated": "2020-06-30 00:00:00 UTC"
   },
   {
     "title": "Squash",
@@ -3263,8 +3249,8 @@
     "title": "Abstract",
     "description": "Abstract is a file management and version control tool for Sketch files",
     "author": "Abstract",
-    "homepage": "https://www.goabstract.com/",
-    "lastUpdated": "2017-10-19 08:18:53 UTC"
+    "homepage": "https://abstract.com",
+    "lastUpdated": "2020-06-16 00:00:00 UTC"
   },
   {
     "title": "Symbol Instance Sheet",
@@ -3289,13 +3275,6 @@
     "owner": "sonburn",
     "name": "symbol-swapper",
     "lastUpdated": "2020-04-30 03:27:37 UTC"
-  },
-  {
-    "title": "Sympli",
-    "description": "Perfect your collaboration with Sympli. Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode.",
-    "author": "Sympli",
-    "homepage": "https://sympli.io",
-    "lastUpdated": "2017-10-20 08:18:53 UTC"
   },
   {
     "title": "Swappr",
@@ -3455,7 +3434,9 @@
     "description": "A Sketch plugin for applying Apple system font to text layers. (For Japanese designers.)",
     "author": "usagimaru",
     "homepage": "https://github.com/usagimaru/Sketch-AppleSystemFont-Plugin",
-    "lastUpdated": "2017-12-23 18:39:06 UTC"
+    "owner": "usagimaru",
+    "name": "Sketch-AppleSystemFont-Plugin",
+    "lastUpdated": "2018-01-27 17:32:07 UTC"
   },
   {
     "title": "SketchTurbo",
@@ -3533,7 +3514,8 @@
     "title": "Plant",
     "author": "Plant",
     "homepage": "https://plantapp.io",
-    "lastUpdated": "2018-01-22 00:07:16 UTC"
+    "changelog": "https://support.plantapp.io/en/collections/683053-release-notes",
+    "lastUpdated": "2020-06-30 00:00:00 UTC"
   },
   {
     "title": "DeepSelect",
@@ -4101,8 +4083,10 @@
     "title": "Overflow",
     "author": "proto.io",
     "appcast": "https://raw.githubusercontent.com/overflowapp/overflow-sketch-plugin/master/.appcast.xml",
+    "owner": "overflowapp",
+    "name": "overflow-sketch-plugin",
     "homepage": "https://overflow.io",
-    "lastUpdated": "2018-06-27 3:00:00 UTC"
+    "lastUpdated": "2020-05-06 06:34:38 UTC"
   },
   {
     "title": "Kitchen",
@@ -4152,7 +4136,8 @@
     "title": "GuideGuide",
     "author": "Cameron McEfee",
     "homepage": "https://guideguide.me",
-    "lastUpdated": "2018-07-12 21:00:00 UTC"
+    "changelog": "https://guideguide.me/changelog/",
+    "lastUpdated": "2018-11-30 07:53:00 UTC"
   },
   {
     "title": "Sketch Iconscope",
@@ -4654,7 +4639,7 @@
     "author": "Mark Horgan",
     "homepage": "https://pointbreak.protowire.com",
     "appcast": "https://update.protowire.com/plugins/sketch/pointbreak/appcast.xml",
-    "lastUpdated": "2018-11-14 12:25:00 UTC"
+    "lastUpdated": "2019-02-06 12:34:00 UTC"
   },
   {
     "title": "VK-Data",
@@ -6087,7 +6072,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-06-30 09:01:32 UTC"
+    "lastUpdated": "2020-06-30 11:57:26 UTC"
   },
   {
     "title": "Cluse",
@@ -6764,7 +6749,7 @@
     "appcast": "https://raw.githubusercontent.com/chewbecky/wireframr/master/.appcast.xml",
     "homepage": "https://github.com/chewbecky/wireframr",
     "author": "chewbecca",
-    "lastUpdated": "2020-06-21 13:57:29 UTC"
+    "lastUpdated": "2020-06-30 12:00:55 UTC"
   },
   {
     "title": "🧑🏻‍🚀Xscape!",
