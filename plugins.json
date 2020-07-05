@@ -464,7 +464,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-06-24 18:13:16 UTC"
+    "lastUpdated": "2020-07-01 01:49:48 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -1675,7 +1675,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2020-06-09 12:52:57 UTC"
+    "lastUpdated": "2020-07-02 07:25:28 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -2793,7 +2793,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2020-06-30 03:09:39 UTC"
+    "lastUpdated": "2020-06-30 15:58:17 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -3021,7 +3021,7 @@
     "owner": "RealtimeBoard",
     "author": "Miro (formerly RealtimeBoard)",
     "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
-    "lastUpdated": "2020-02-07 08:59:49 UTC"
+    "lastUpdated": "2020-07-01 10:19:43 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -3141,7 +3141,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-06-25 08:54:51 UTC"
+    "lastUpdated": "2020-07-01 08:23:04 UTC"
   },
   {
     "title": "Blender",
@@ -4086,7 +4086,7 @@
     "owner": "overflowapp",
     "name": "overflow-sketch-plugin",
     "homepage": "https://overflow.io",
-    "lastUpdated": "2020-05-06 06:34:38 UTC"
+    "lastUpdated": "2020-07-01 15:55:15 UTC"
   },
   {
     "title": "Kitchen",
@@ -4155,7 +4155,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-06-29 07:46:33 UTC"
+    "lastUpdated": "2020-07-01 09:41:24 UTC"
   },
   {
     "title": "Puzzle Tokens",
