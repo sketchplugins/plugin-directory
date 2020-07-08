@@ -6770,5 +6770,14 @@
     "homepage": "https://github.com/rtrikha/perfect-type-plugin",
     "author": "Raunak Trikha",
     "lastUpdated": "2020-06-24 18:15:00 UTC"
+  },
+  {
+    "title": "babelfish",
+    "description": "babelfish plugin",
+    "name": "babelfish-sketch-plugin",
+    "owner": "SpaceBank",
+    "appcast": "https://raw.githubusercontent.com/SpaceBank/babelfish-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/SpaceBank/babelfish-sketch-plugin",
+    "author": "BilousAlexandr"
   }
 ]
