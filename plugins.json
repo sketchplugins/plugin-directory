@@ -3015,13 +3015,13 @@
     "lastUpdated": "2017-07-12 08:47:29 UTC"
   },
   {
-    "description": "Add, share and discuss your Sketch artboards with the team in Miro (formerly RealtimeBoard). The plugin allow to sync the artboards with the boards in one click",
+    "description": "Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click",
     "name": "sketch_plugin",
     "title": "Miro plugin for Sketch",
-    "owner": "RealtimeBoard",
-    "author": "Miro (formerly RealtimeBoard)",
-    "homepage": "https://github.com/RealtimeBoard/sketch_plugin",
-    "lastUpdated": "2020-07-01 10:19:43 UTC"
+    "owner": "miroapp",
+    "author": "Miro",
+    "homepage": "https://github.com/miroapp/sketch_plugin",
+    "lastUpdated": "2020-02-07 08:59:49 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
