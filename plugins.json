@@ -6787,5 +6787,14 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan"
+  },
+  {
+    "title": "gradient-matrix-generator",
+    "description": "Plugin that generates a matrix of gradient combinations from a selection of colors",
+    "name": "gradient-matrix-generator-sketch",
+    "owner": "carloscabo",
+    "appcast": "https://raw.githubusercontent.com/carloscabo/gradient-matrix-generator-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/carloscabo/gradient-matrix-generator-sketch",
+    "author": "CarlosCabo"
   }
 ]
