@@ -6779,5 +6779,13 @@
     "appcast": "https://raw.githubusercontent.com/SpaceBank/babelfish-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/SpaceBank/babelfish-sketch-plugin",
     "author": "BilousAlexandr"
+  },
+  {
+    "title": "🍳Pan",
+    "description": "用平底锅才是王者",
+    "name": "pan",
+    "owner": "arvinxx",
+    "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
+    "homepage": "https://github.com/arvinxx/pan"
   }
 ]
