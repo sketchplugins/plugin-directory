@@ -421,7 +421,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.reselect.co",
-    "lastUpdated": "2017-06-16 20:10:47 UTC"
+    "lastUpdated": "2020-07-11 22:41:58 UTC"
   },
   {
     "description": "Help you find out popular design systems and download official Sketch UI kit.",
@@ -946,7 +946,7 @@
     "title": "Sketch Notebook",
     "name": "Sketch-Notebook",
     "homepage": "http://marcosvid.al/sketch-notebook",
-    "lastUpdated": "2017-05-06 18:34:12 UTC"
+    "lastUpdated": "2020-07-08 18:06:41 UTC"
   },
   {
     "description": "Modulizer plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes.",
@@ -1106,7 +1106,7 @@
     "title": "User Flows",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2019-06-26 00:59:35 UTC"
+    "lastUpdated": "2020-07-09 03:48:01 UTC"
   },
   {
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
@@ -1131,7 +1131,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2020-06-28 19:28:25 UTC"
+    "lastUpdated": "2020-07-06 16:27:04 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -2262,7 +2262,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-06-27 14:07:00 UTC"
+    "lastUpdated": "2020-07-05 14:56:17 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2382,7 +2382,7 @@
     "title": "Copy Paste Position & Size",
     "owner": "ajilderda",
     "author": "Andre Jilderda",
-    "lastUpdated": "2019-02-15 19:34:25 UTC"
+    "lastUpdated": "2020-07-07 07:26:56 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
@@ -2793,7 +2793,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2020-06-30 15:58:17 UTC"
+    "lastUpdated": "2020-07-07 14:41:01 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -2802,7 +2802,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2018-11-14 03:31:00 UTC"
+    "lastUpdated": "2020-07-11 18:46:54 UTC"
   },
   {
     "title": "Diverse UI Sketch Plugin",
@@ -3021,7 +3021,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2020-02-07 08:59:49 UTC"
+    "lastUpdated": "2020-07-01 10:11:57 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -3583,7 +3583,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-06-19 19:06:38 UTC"
+    "lastUpdated": "2020-07-07 19:12:05 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -3669,7 +3669,7 @@
     "appcast": "https://raw.githubusercontent.com/Coding/coding-sketch-toolkit/master/.appcast.xml",
     "homepage": "https://github.com/Coding/coding-sketch-toolkit",
     "author": "tankxu",
-    "lastUpdated": "2020-06-10 05:00:29 UTC"
+    "lastUpdated": "2020-07-11 11:49:32 UTC"
   },
   {
     "title": "Flow Exporter",
@@ -4031,7 +4031,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-06-25 15:45:34 UTC"
+    "lastUpdated": "2020-07-09 07:55:56 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4175,7 +4175,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-06-01 06:42:58 UTC"
+    "lastUpdated": "2020-07-10 02:10:43 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4232,7 +4232,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-04-06 09:21:08 UTC"
+    "lastUpdated": "2020-07-09 05:47:00 UTC"
   },
   {
     "title": "Better Shadow",
