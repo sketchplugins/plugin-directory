@@ -6796,5 +6796,14 @@
     "appcast": "https://raw.githubusercontent.com/carloscabo/gradient-matrix-generator-sketch/master/.appcast.xml",
     "homepage": "https://github.com/carloscabo/gradient-matrix-generator-sketch",
     "author": "CarlosCabo"
+  },
+  {
+    "title": "layers-to-x",
+    "description": "Quickly turn layers into groups, artboards, and symbols.",
+    "name": "sketch-plugin-layers-to-x",
+    "owner": "asp55",
+    "appcast": "https://raw.githubusercontent.com/asp55/sketch-plugin-layers-to-x/master/.appcast.xml",
+    "homepage": "https://github.com/asp55/sketch-plugin-layers-to-x",
+    "author": "Andrew S. Parnell"
   }
 ]
