@@ -6805,5 +6805,14 @@
     "appcast": "https://raw.githubusercontent.com/asp55/sketch-plugin-layers-to-x/master/.appcast.xml",
     "homepage": "https://github.com/asp55/sketch-plugin-layers-to-x",
     "author": "Andrew S. Parnell"
+  },
+  {
+    "title": "DuplicateLater",
+    "description": "Duplicate layers in the same direction after duplicating (like in Figma).",
+    "name": "Duplicate-Later",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/Duplicate-Later/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/Duplicate-Later",
+    "author": "Kevin Gutowski"
   }
 ]
