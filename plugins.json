@@ -6805,5 +6805,14 @@
     "appcast": "https://raw.githubusercontent.com/asp55/sketch-plugin-layers-to-x/master/.appcast.xml",
     "homepage": "https://github.com/asp55/sketch-plugin-layers-to-x",
     "author": "Andrew S. Parnell"
+  },
+  {
+    "title": "sketch-helpweb",
+    "description": "web html css image",
+    "name": "sketch-helpweb",
+    "owner": "mybenmao",
+    "appcast": "https://raw.githubusercontent.com/mybenmao/sketch-helpweb/master/.appcast.xml",
+    "homepage": "https://github.com/mybenmao/sketch-helpweb",
+    "author": "caorukang"
   }
 ]
