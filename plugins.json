@@ -464,7 +464,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-07-16 15:19:42 UTC"
+    "lastUpdated": "2020-07-22 19:20:09 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -1131,7 +1131,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2020-07-14 11:28:18 UTC"
+    "lastUpdated": "2020-07-24 19:07:53 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -2600,7 +2600,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-06-18 13:51:09 UTC"
+    "lastUpdated": "2020-07-21 04:42:03 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2793,7 +2793,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2020-07-13 15:50:45 UTC"
+    "lastUpdated": "2020-07-21 08:48:19 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -2915,7 +2915,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "copy-framer-code",
-    "lastUpdated": "2020-05-27 21:54:24 UTC"
+    "lastUpdated": "2020-07-20 21:22:13 UTC"
   },
   {
     "title": "Table of Contents",
@@ -3141,7 +3141,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-07-01 08:23:04 UTC"
+    "lastUpdated": "2020-07-24 06:45:20 UTC"
   },
   {
     "title": "Blender",
@@ -3669,7 +3669,7 @@
     "appcast": "https://raw.githubusercontent.com/Coding/coding-sketch-toolkit/master/.appcast.xml",
     "homepage": "https://github.com/Coding/coding-sketch-toolkit",
     "author": "tankxu",
-    "lastUpdated": "2020-07-11 11:49:32 UTC"
+    "lastUpdated": "2020-07-20 11:23:44 UTC"
   },
   {
     "title": "Flow Exporter",
@@ -4155,7 +4155,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-07-01 09:41:24 UTC"
+    "lastUpdated": "2020-07-24 17:00:57 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4165,7 +4165,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-06-26 14:29:45 UTC"
+    "lastUpdated": "2020-07-20 20:12:00 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4175,7 +4175,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-07-16 06:45:30 UTC"
+    "lastUpdated": "2020-07-24 07:57:11 UTC"
   },
   {
     "title": "Convert To Grayscale",
