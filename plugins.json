@@ -6813,5 +6813,14 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/microwave-release/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/microwave-release"
+  },
+  {
+    "title": "DuplicateLater",
+    "description": "Duplicate layers in the same direction after duplicating (like in Figma).",
+    "name": "Duplicate-Later",
+    "owner": "KevinGutowski",
+    "appcast": "https://raw.githubusercontent.com/KevinGutowski/Duplicate-Later/master/.appcast.xml",
+    "homepage": "https://github.com/KevinGutowski/Duplicate-Later",
+    "author": "Kevin Gutowski"
   }
 ]
