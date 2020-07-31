@@ -6822,5 +6822,14 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Duplicate-Later/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Duplicate-Later",
     "author": "Kevin Gutowski"
+  },
+  {
+    "title": "Carbonizer",
+    "description": "Convert carbon layers in prep for Sketch Measure export",
+    "name": "carbonizer",
+    "owner": "agarwaldax",
+    "appcast": "https://raw.githubusercontent.com/agarwaldax/carbonizer/master/.appcast.xml",
+    "homepage": "https://github.com/agarwaldax/carbonizer",
+    "author": "Daxit Agarwal"
   }
 ]
