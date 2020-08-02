@@ -70,7 +70,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2020-07-18 05:56:13 UTC"
+    "lastUpdated": "2020-07-31 18:28:32 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -80,7 +80,7 @@
     "author": "Alexander Käßner",
     "homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
     "appcast": "https://raw.githubusercontent.com/alexkaessner/custom-zoom-sketch/master/.appcast.xml",
-    "lastUpdated": "2020-07-17 17:20:11 UTC"
+    "lastUpdated": "2020-07-31 07:30:44 UTC"
   },
   {
     "title": "Phrase Sketch Plugin",
@@ -131,7 +131,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2020-07-16 14:32:02 UTC"
+    "lastUpdated": "2020-07-30 09:28:22 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -921,7 +921,7 @@
     "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
-    "lastUpdated": "2020-07-16 07:51:31 UTC"
+    "lastUpdated": "2020-07-30 08:22:43 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -1010,7 +1010,7 @@
     "author": "Long Zheng",
     "name": "sketch-randomSize",
     "title": "Random Sizing",
-    "lastUpdated": "2017-03-22 07:10:24 UTC"
+    "lastUpdated": "2020-08-01 04:56:45 UTC"
   },
   {
     "description": "Paste like it was meant to be--into the artboard you're viewing.",
@@ -1355,7 +1355,7 @@
     "title": "Logo Fetcher",
     "author": "Tobi Kremer",
     "owner": "soulchild",
-    "lastUpdated": "2020-07-17 08:13:15 UTC"
+    "lastUpdated": "2020-07-30 03:53:36 UTC"
   },
   {
     "description": "Sketch plugin to count number of characters in a text layer",
@@ -1394,7 +1394,7 @@
     "title": "Sketch Layer Comps",
     "author": "Özgür Güneş",
     "owner": "ozgurgunes",
-    "lastUpdated": "2020-07-16 19:25:52 UTC"
+    "lastUpdated": "2020-07-30 12:44:58 UTC"
   },
   {
     "description": "A Sketch Plugin to align Text Layers by their baselines",
@@ -1434,7 +1434,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-07-16 08:19:15 UTC"
+    "lastUpdated": "2020-07-30 07:48:22 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -1658,7 +1658,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-07-13 01:31:08 UTC"
+    "lastUpdated": "2020-07-28 12:24:02 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1756,7 +1756,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2020-07-16 07:38:29 UTC"
+    "lastUpdated": "2020-07-29 20:55:29 UTC"
   },
   {
     "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
@@ -2015,7 +2015,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-07-16 01:27:52 UTC"
+    "lastUpdated": "2020-07-30 07:52:08 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2262,7 +2262,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-07-12 15:41:38 UTC"
+    "lastUpdated": "2020-08-01 11:43:14 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2600,7 +2600,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-07-21 04:42:03 UTC"
+    "lastUpdated": "2020-07-28 08:01:58 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -3086,7 +3086,7 @@
     "author": "Siddhartha Gudipati",
     "owner": "websiddu",
     "name": "sketch-material",
-    "lastUpdated": "2020-07-16 20:47:18 UTC"
+    "lastUpdated": "2020-07-30 13:40:18 UTC"
   },
   {
     "title": "Sketch Number Artboards",
@@ -3110,7 +3110,7 @@
     "author": "Iconscout",
     "owner": "iconscout",
     "name": "icondrop",
-    "lastUpdated": "2019-10-23 07:43:58 UTC"
+    "lastUpdated": "2020-07-29 11:01:21 UTC"
   },
   {
     "author": "Smartling",
@@ -3141,7 +3141,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-07-24 06:45:20 UTC"
+    "lastUpdated": "2020-08-01 15:20:57 UTC"
   },
   {
     "title": "Blender",
@@ -3192,7 +3192,7 @@
     "homepage": "https://github.com/mcansh/squash-sketchplugin",
     "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
     "description": "Export and optimize images with Realmac Squash",
-    "lastUpdated": "2020-07-17 22:20:11 UTC"
+    "lastUpdated": "2020-07-30 21:49:26 UTC"
   },
   {
     "title": "Sketch Title Case",
@@ -3291,7 +3291,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2020-07-18 04:59:50 UTC"
+    "lastUpdated": "2020-07-29 21:12:47 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -3332,7 +3332,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-style-master",
-    "lastUpdated": "2020-07-15 21:31:53 UTC"
+    "lastUpdated": "2020-07-29 21:21:11 UTC"
   },
   {
     "title": "Sketch Groupie",
@@ -3356,7 +3356,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2020-07-16 19:24:15 UTC",
+    "lastUpdated": "2020-07-30 12:36:42 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -3367,7 +3367,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2020-07-16 07:38:17 UTC"
+    "lastUpdated": "2020-07-30 06:17:56 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3464,7 +3464,7 @@
     "appcast": "https://raw.githubusercontent.com/ziven27/Sketch-topographic/master/.appcast.xml",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
     "author": "ziven27",
-    "lastUpdated": "2020-07-16 02:44:23 UTC"
+    "lastUpdated": "2020-07-30 00:11:42 UTC"
   },
   {
     "title": "Select Same Symbols",
@@ -3669,7 +3669,7 @@
     "appcast": "https://raw.githubusercontent.com/Coding/coding-sketch-toolkit/master/.appcast.xml",
     "homepage": "https://github.com/Coding/coding-sketch-toolkit",
     "author": "tankxu",
-    "lastUpdated": "2020-07-20 11:23:44 UTC"
+    "lastUpdated": "2020-08-01 22:39:10 UTC"
   },
   {
     "title": "Flow Exporter",
@@ -3679,7 +3679,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-16 01:38:00 UTC"
+    "lastUpdated": "2020-07-29 23:26:16 UTC"
   },
   {
     "title": "Plot",
@@ -3787,7 +3787,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2020-07-16 02:46:59 UTC"
+    "lastUpdated": "2020-07-30 00:13:13 UTC"
   },
   {
     "title": "Rough",
@@ -3797,7 +3797,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "author": "mathieudutour",
-    "lastUpdated": "2020-07-16 07:36:47 UTC"
+    "lastUpdated": "2020-07-30 06:18:40 UTC"
   },
   {
     "title": "polyglot",
@@ -3824,7 +3824,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
-    "lastUpdated": "2020-07-16 17:58:20 UTC"
+    "lastUpdated": "2020-07-30 11:22:24 UTC"
   },
   {
     "title": "Format Symbol Names",
@@ -3840,7 +3840,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
-    "lastUpdated": "2020-07-16 04:29:43 UTC"
+    "lastUpdated": "2020-07-30 01:12:03 UTC"
   },
   {
     "title": "Inter UI Character Spacing",
@@ -3850,7 +3850,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2020-07-16 03:33:49 UTC"
+    "lastUpdated": "2020-07-30 00:41:12 UTC"
   },
   {
     "title": "Chromata",
@@ -3898,7 +3898,7 @@
     "owner": "materik",
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "lastUpdated": "2019-10-31 08:18:21 UTC"
+    "lastUpdated": "2020-07-30 01:48:44 UTC"
   },
   {
     "title": "Photo Grid",
@@ -3906,7 +3906,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "photo-grid",
-    "lastUpdated": "2020-07-16 03:51:11 UTC"
+    "lastUpdated": "2020-07-30 00:52:07 UTC"
   },
   {
     "title": "Stickers",
@@ -3916,7 +3916,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-16 04:21:30 UTC"
+    "lastUpdated": "2020-07-30 01:00:58 UTC"
   },
   {
     "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
@@ -3970,7 +3970,7 @@
     "appcast": "https://raw.githubusercontent.com/larsenwork/sketch-easing-gradient/master/.appcast.xml",
     "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
     "author": "larsenwork",
-    "lastUpdated": "2020-07-17 08:09:17 UTC"
+    "lastUpdated": "2020-07-30 18:30:44 UTC"
   },
   {
     "title": "Assistant",
@@ -4120,7 +4120,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2020-07-17 09:04:35 UTC"
+    "lastUpdated": "2020-07-30 19:17:44 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4145,7 +4145,7 @@
     "author": "ziven27",
     "owner": "ziven27",
     "name": "Sketch-IconScope",
-    "lastUpdated": "2020-07-16 07:17:39 UTC"
+    "lastUpdated": "2020-07-30 02:47:32 UTC"
   },
   {
     "title": "Puzzle Publisher",
@@ -4155,7 +4155,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-07-24 17:00:57 UTC"
+    "lastUpdated": "2020-07-30 19:17:34 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4175,7 +4175,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-07-24 07:57:11 UTC"
+    "lastUpdated": "2020-07-30 02:46:01 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4222,7 +4222,7 @@
     "owner": "sketch-hq",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/sketch-image-compressor/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/sketch-image-compressor",
-    "lastUpdated": "2020-07-16 02:10:46 UTC"
+    "lastUpdated": "2020-07-30 07:46:32 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4232,7 +4232,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-07-16 07:43:24 UTC"
+    "lastUpdated": "2020-07-30 07:46:47 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4261,7 +4261,7 @@
     "owner": "reinvanoyen",
     "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
     "homepage": "https://github.com/reinvanoyen/typex",
-    "lastUpdated": "2020-07-16 08:54:05 UTC"
+    "lastUpdated": "2020-07-30 04:26:43 UTC"
   },
   {
     "title": "ColorSpark for Sketch",
@@ -4328,7 +4328,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington",
-    "lastUpdated": "2020-07-16 09:10:25 UTC"
+    "lastUpdated": "2020-07-30 04:34:27 UTC"
   },
   {
     "title": "Contrast",
@@ -4338,7 +4338,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-16 09:53:15 UTC"
+    "lastUpdated": "2020-07-30 04:55:56 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -4348,7 +4348,7 @@
     "author": "Sensive",
     "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
     "homepage": "https://sensive.co",
-    "lastUpdated": "2020-07-16 09:35:59 UTC"
+    "lastUpdated": "2020-07-30 04:48:30 UTC"
   },
   {
     "title": "Sketch Plugin Skew",
@@ -4366,7 +4366,7 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu",
-    "lastUpdated": "2020-07-16 10:13:48 UTC"
+    "lastUpdated": "2020-07-30 08:05:05 UTC"
   },
   {
     "title": "DS Automator Sketch Plugin",
@@ -4386,7 +4386,7 @@
     "appcast": "https://raw.githubusercontent.com/lerte/sketch-qr-code/master/.appcast.xml",
     "homepage": "https://github.com/lerte/sketch-qr-code",
     "author": "Lerte Smith",
-    "lastUpdated": "2020-07-17 10:16:42 UTC"
+    "lastUpdated": "2020-07-30 20:10:37 UTC"
   },
   {
     "title": "Android Screenshot",
