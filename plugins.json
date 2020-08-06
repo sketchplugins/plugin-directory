@@ -6831,5 +6831,14 @@
     "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
     "homepage": "https://github.com/proteanstudio/sketch-palette-cleanser",
     "author": "Protean Studio"
+  },
+  {
+    "title": "BlobMaker",
+    "description": "Generate blobs with ease",
+    "name": "blobmaker_sketch",
+    "owner": "Rawnly",
+    "appcast": "https://raw.githubusercontent.com/Rawnly/blobmaker_sketch/master/.appcast.xml",
+    "homepage": "https://github.com/Rawnly/blobmaker_sketch",
+    "author": "Federico Vitale"
   }
 ]
