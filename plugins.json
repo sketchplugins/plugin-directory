@@ -6824,6 +6824,15 @@
     "author": "Kevin Gutowski"
   },
   {
+    "title": "palette-cleanser",
+    "description": "",
+    "name": "sketch-palette-cleanser",
+    "owner": "proteanstudio",
+    "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
+    "homepage": "https://github.com/proteanstudio/sketch-palette-cleanser",
+    "author": "Protean Studio"
+  },
+  {
     "title": "BlobMaker",
     "description": "Generate blobs with ease",
     "name": "blobmaker_sketch",
