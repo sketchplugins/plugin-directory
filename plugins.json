@@ -6841,5 +6841,14 @@
     "appcast": "https://raw.githubusercontent.com/Rawnly/blobmaker_sketch/master/.appcast.xml",
     "homepage": "https://github.com/Rawnly/blobmaker_sketch",
     "author": "Federico Vitale"
+  },
+  {
+    "title": "Component8",
+    "description": "Component8 stores 1000+ crafted components. Use them in Sketch by drag & drop.",
+    "name": "component8-sketch-plugin",
+    "owner": "grootxu",
+    "appcast": "https://media.toolgather.top/Component8-plugin-appcast.xml",
+    "homepage": "https://www.whose.design/component8",
+    "author": "Groot Xu"
   }
 ]
