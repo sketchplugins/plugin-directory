@@ -462,9 +462,10 @@
     "name": "stark-sketch-plugin",
     "title": "Stark",
     "owner": "stark-contrast",
-    "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
+    "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-07-22 19:20:09 UTC"
+    "lastUpdated": "2020-07-22 19:20:09 UTC",
+    "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
