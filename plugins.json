@@ -1395,7 +1395,7 @@
     "title": "Sketch Layer Comps",
     "author": "Özgür Güneş",
     "owner": "ozgurgunes",
-    "lastUpdated": "2020-07-30 12:44:58 UTC"
+    "lastUpdated": "2020-08-07 18:18:18 UTC"
   },
   {
     "description": "A Sketch Plugin to align Text Layers by their baselines",
@@ -2383,7 +2383,7 @@
     "title": "Copy Paste Position & Size",
     "owner": "ajilderda",
     "author": "Andre Jilderda",
-    "lastUpdated": "2020-07-07 07:26:56 UTC"
+    "lastUpdated": "2020-08-07 14:48:47 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
@@ -2601,7 +2601,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-07-28 08:01:58 UTC"
+    "lastUpdated": "2020-08-02 12:11:54 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -4156,7 +4156,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-07-30 19:17:34 UTC"
+    "lastUpdated": "2020-08-04 17:21:34 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4166,7 +4166,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-07-20 20:12:00 UTC"
+    "lastUpdated": "2020-08-06 00:57:45 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4176,7 +4176,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-07-30 02:46:01 UTC"
+    "lastUpdated": "2020-08-07 08:37:33 UTC"
   },
   {
     "title": "Convert To Grayscale",
