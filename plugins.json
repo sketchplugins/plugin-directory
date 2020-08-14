@@ -6850,5 +6850,14 @@
     "appcast": "https://media.toolgather.top/Component8-plugin-appcast.xml",
     "homepage": "https://www.whose.design/component8",
     "author": "Groot Xu"
+  },
+  {
+    "title": "elem-export",
+    "description": "This plugin will export all assets of the SELECTED layer",
+    "name": "Elem-Export-Sketch-Plugin",
+    "owner": "JoeyDon",
+    "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
+    "author": "Joey"
   }
 ]
