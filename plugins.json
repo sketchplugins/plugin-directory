@@ -1252,7 +1252,7 @@
     "name": "Typograph",
     "author": "Dmitry Gerasimov",
     "owner": "dezonik",
-    "lastUpdated": "2019-02-25 14:25:52 UTC",
+    "lastUpdated": "2020-08-11 15:16:30 UTC",
     "title": "Typograph"
   },
   {
@@ -1517,7 +1517,7 @@
     "title": "Select Similar Layers",
     "owner": "wonderbit",
     "author": "Wessley Roche",
-    "lastUpdated": "2019-12-10 08:34:30 UTC"
+    "lastUpdated": "2020-08-12 05:17:34 UTC"
   },
   {
     "description": "CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.",
@@ -1659,7 +1659,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-07-28 12:24:02 UTC"
+    "lastUpdated": "2020-08-15 12:22:44 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3142,7 +3142,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-08-01 15:20:57 UTC"
+    "lastUpdated": "2020-08-13 05:38:31 UTC"
   },
   {
     "title": "Blender",
@@ -3508,7 +3508,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2020-06-15 20:22:41 UTC"
+    "lastUpdated": "2020-08-11 10:19:17 UTC"
   },
   {
     "description": "Version control for designers",
@@ -4156,7 +4156,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-08-04 17:21:34 UTC"
+    "lastUpdated": "2020-08-10 13:05:41 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4166,7 +4166,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-08-06 00:57:45 UTC"
+    "lastUpdated": "2020-08-15 19:30:33 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4176,7 +4176,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-08-07 08:37:33 UTC"
+    "lastUpdated": "2020-08-13 05:00:40 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4223,7 +4223,7 @@
     "owner": "sketch-hq",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/sketch-image-compressor/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/sketch-image-compressor",
-    "lastUpdated": "2020-07-30 07:46:32 UTC"
+    "lastUpdated": "2020-08-11 18:22:01 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4233,7 +4233,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-07-30 07:46:47 UTC"
+    "lastUpdated": "2020-08-11 20:32:56 UTC"
   },
   {
     "title": "Better Shadow",
