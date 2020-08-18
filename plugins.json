@@ -6807,6 +6807,14 @@
     "homepage": "https://github.com/asp55/sketch-plugin-layers-to-x",
     "author": "Andrew S. Parnell"
   },
+  {		
+     "title": "microwave",		
+     "description": "叮！你的设计已出炉~",		
+     "name": "microwave-release",		
+     "owner": "arvinxx",		
+     "appcast": "https://raw.githubusercontent.com/arvinxx/microwave-release/master/.appcast.xml",		
+     "homepage": "https://github.com/arvinxx/microwave-release"		
+  },
   {
     "title": "DuplicateLater",
     "description": "Duplicate layers in the same direction after duplicating (like in Figma).",
