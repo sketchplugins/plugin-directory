@@ -6859,5 +6859,14 @@
     "appcast": "https://raw.githubusercontent.com/daxit/sketch-notes/master/.appcast.xml",
     "homepage": "https://github.com/daxit/sketch-notes",
     "author": "Daxit Agarwal"
+  },
+  {
+    "title": "elem-export",
+    "description": "This plugin will export all assets of the SELECTED layer",
+    "name": "Elem-Export-Sketch-Plugin",
+    "owner": "JoeyDon",
+    "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
+    "author": "Joey"
   }
 ]
