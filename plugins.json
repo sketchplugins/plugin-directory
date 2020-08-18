@@ -6868,5 +6868,14 @@
     "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
     "author": "Joey"
-  }
+   },
+   {
+     "title": "helpweb",
+     "description": "web html css image",
+     "author": "caorukang",
+     "homepage": "https://github.com/mybenmao/sketch-helpweb",
+     "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
+     "owner": "caorukang",
+     "name": "sketch-helpweb"
+   }
 ]
