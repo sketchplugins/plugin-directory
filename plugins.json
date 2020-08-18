@@ -6808,15 +6808,6 @@
     "author": "Andrew S. Parnell"
   },
   {
-    "title": "helpweb",
-    "description": "web html css image",
-    "author": "caorukang",
-    "homepage": "https://github.com/mybenmao/sketch-helpweb",
-    "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
-    "owner": "caorukang",
-    "name": "sketch-helpweb"
-  },
-  {
     "title": "DuplicateLater",
     "description": "Duplicate layers in the same direction after duplicating (like in Figma).",
     "name": "Duplicate-Later",
@@ -6869,5 +6860,14 @@
     "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
     "author": "Joey"
-  }
+   },
+   {
+     "title": "helpweb",
+     "description": "web html css image",
+     "author": "caorukang",
+     "homepage": "https://github.com/mybenmao/sketch-helpweb",
+     "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
+     "owner": "caorukang",
+     "name": "sketch-helpweb"
+   }
 ]
