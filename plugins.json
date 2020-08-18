@@ -6881,10 +6881,11 @@
    {
      "title": "Blush",
      "description": "Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.",
-     "author": "Blush Design Inc",
+     "author": "Blush Design, Inc.",
      "homepage": "https://blush.design",
      "appcast": "https://get.blush.design/appcast.xml",
      "owner": "Blush",
-     "name": "blush-sketch-plugin"
+     "name": "blush-sketch-plugin",
+     "lastUpdated": "2020-08-18 15:51:43 UTC"
    }
 ]
