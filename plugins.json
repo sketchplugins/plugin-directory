@@ -6868,24 +6868,32 @@
     "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
     "author": "Joey"
-   },
-   {
-     "title": "helpweb",
-     "description": "web html css image",
-     "author": "caorukang",
-     "homepage": "https://github.com/mybenmao/sketch-helpweb",
-     "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
-     "owner": "caorukang",
-     "name": "sketch-helpweb"
-   },
-   {
-     "title": "Blush",
-     "description": "Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.",
-     "author": "Blush Design, Inc.",
-     "homepage": "https://blush.design",
-     "appcast": "https://get.blush.design/appcast.xml",
-     "owner": "Blush",
-     "name": "blush-sketch-plugin",
-     "lastUpdated": "2020-08-18 15:51:43 UTC"
-   }
+  },
+  {
+    "title": "helpweb",
+    "description": "web html css image",
+    "author": "caorukang",
+    "homepage": "https://github.com/mybenmao/sketch-helpweb",
+    "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
+    "owner": "caorukang",
+    "name": "sketch-helpweb"
+  },
+  {
+    "title": "Blush",
+    "description": "Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.",
+    "author": "Blush Design, Inc.",
+    "homepage": "https://blush.design",
+    "appcast": "https://get.blush.design/appcast.xml",
+    "owner": "Blush",
+    "name": "blush-sketch-plugin",
+    "lastUpdated": "2020-08-18 15:51:43 UTC"
+  },
+  {
+    "title": "json-color-palette-importer",
+    "name": "sketch-json-color-palette-importer",
+    "owner": "ziyafenn",
+    "appcast": "https://raw.githubusercontent.com/ziyafenn/sketch-json-color-palette-importer/master/.appcast.xml",
+    "homepage": "https://github.com/ziyafenn/sketch-json-color-palette-importer",
+    "author": "Ziya Fenn"
+  }
 ]
