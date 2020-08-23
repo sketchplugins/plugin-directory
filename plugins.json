@@ -90,7 +90,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2020-05-13 15:11:59 UTC"
+    "lastUpdated": "2020-08-18 10:14:02 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -2383,7 +2383,7 @@
     "title": "Copy Paste Position & Size",
     "owner": "ajilderda",
     "author": "Andre Jilderda",
-    "lastUpdated": "2020-08-07 14:48:47 UTC"
+    "lastUpdated": "2020-08-19 19:05:35 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
@@ -4156,7 +4156,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-08-10 13:05:41 UTC"
+    "lastUpdated": "2020-08-20 15:41:44 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4367,7 +4367,7 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu",
-    "lastUpdated": "2020-07-30 08:05:05 UTC"
+    "lastUpdated": "2020-08-17 16:47:25 UTC"
   },
   {
     "title": "DS Automator Sketch Plugin",
@@ -6868,24 +6868,24 @@
     "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
     "author": "Joey"
-   },
-   {
-     "title": "helpweb",
-     "description": "web html css image",
-     "author": "caorukang",
-     "homepage": "https://github.com/mybenmao/sketch-helpweb",
-     "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
-     "owner": "caorukang",
-     "name": "sketch-helpweb"
-   },
-   {
-     "title": "Blush",
-     "description": "Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.",
-     "author": "Blush Design, Inc.",
-     "homepage": "https://blush.design",
-     "appcast": "https://get.blush.design/appcast.xml",
-     "owner": "Blush",
-     "name": "blush-sketch-plugin",
-     "lastUpdated": "2020-08-18 15:51:43 UTC"
-   }
+  },
+  {
+    "title": "helpweb",
+    "description": "web html css image",
+    "author": "caorukang",
+    "homepage": "https://github.com/mybenmao/sketch-helpweb",
+    "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
+    "owner": "caorukang",
+    "name": "sketch-helpweb"
+  },
+  {
+    "title": "Blush",
+    "description": "Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.",
+    "author": "Blush Design, Inc.",
+    "homepage": "https://blush.design",
+    "appcast": "https://get.blush.design/appcast.xml",
+    "owner": "Blush",
+    "name": "blush-sketch-plugin",
+    "lastUpdated": "2020-08-18 15:51:43 UTC"
+  }
 ]
