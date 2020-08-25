@@ -6887,5 +6887,15 @@
     "owner": "Blush",
     "name": "blush-sketch-plugin",
     "lastUpdated": "2020-08-18 15:51:43 UTC"
+  },
+  {
+    "title": "ArkShare",
+    "description": "A sketchPlugin for sketch to html",
+    "author": "843748862@qq.com",
+    "homepage": "https://github.com/AlenOne/ArkShare.SketchPlugin",
+    "appcast": "https://github.com/AlenOne/ArkShare.SketchPlugin/master/.appcast.xml",
+    "owner": "Alen",
+    "name": "🦚ArkShare",
+    "lastUpdated": "2020-08-25 17:06:05 UTC"
   }
 ]
