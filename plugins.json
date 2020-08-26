@@ -6887,5 +6887,14 @@
     "owner": "Blush",
     "name": "blush-sketch-plugin",
     "lastUpdated": "2020-08-18 15:51:43 UTC"
+  },
+  {
+    "title": "json-color-palette-importer",
+    "description": "Create shared layer styles by importing JSON color palettes",
+    "name": "sketch-json-color-palette-importer",
+    "owner": "ziyafenn",
+    "appcast": "https://raw.githubusercontent.com/ziyafenn/sketch-json-color-palette-importer/master/.appcast.xml",
+    "homepage": "https://github.com/ziyafenn/sketch-json-color-palette-importer",
+    "author": "Ziya Fenn"
   }
 ]
