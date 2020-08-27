@@ -2,11 +2,12 @@ name: Update lastUpdated
 on:
   schedule:
     - cron: '0 0 * * 0'
-  push:
-    branches:
-    - master
-    paths:
-    - plugins.json
+  workflow_dispatch
+  # push:
+  #   branches:
+  #   - master
+  #   paths:
+  #   - plugins.json
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,8 +20,10 @@ jobs:
     - name: Update lastUpdated
       run: |
         curl -H 'Accept: application/vnd.github.v3+json' https://api.github.com/rate_limit
-        #gem install octokit
-        #rake lastUpdated
+        # gem install octokit
+        # rake lastUpdated
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: push
       run: |
         git config --global user.name 'Sketch Developer'
