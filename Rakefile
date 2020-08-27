@@ -146,7 +146,9 @@ desc "Update `lastUpdated` field for all plugin in JSON"
 task :lastUpdated do
 
   require 'octokit'
+  puts GITHUB_AUTH_TOKEN
   client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
+  puts client
 
   json_data = get_plugins_from_json
 
@@ -155,9 +157,10 @@ task :lastUpdated do
     if plugin['owner'] && plugin['name']
       # puts "Updating #{titlefy(plugin['name'])}"
       plugin_url = plugin['owner'] + "/" + plugin['name']
+      puts plugin_url
       begin
         repo = client.repo(plugin_url)
-        user = client.user(plugin['owner'])
+        # user = client.user(plugin['owner'])
         # puts "— Plugin was updated at #{repo.pushed_at}"
         plugin['lastUpdated'] = repo.pushed_at
       rescue Exception => e
