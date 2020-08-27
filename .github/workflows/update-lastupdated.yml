@@ -19,9 +19,7 @@ jobs:
     - name: Update lastUpdated
       run: |
         gem install octokit
-        rake lastUpdated
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_TOKEN=${{ secrets.GH_TOKEN }} rake lastUpdated
     - name: push
       run: |
         git config --global user.name 'Sketch Developer'
