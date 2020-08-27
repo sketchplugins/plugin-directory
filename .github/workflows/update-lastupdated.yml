@@ -19,7 +19,7 @@ jobs:
         ruby-version: 2.6.x
     - name: Update lastUpdated
       run: |
-        curl -H 'Accept: application/vnd.github.v3+json' https://api.github.com/rate_limit
+        curl -H 'Accept: application/vnd.github.v3+json' -H 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' https://api.github.com/rate_limit
         # gem install octokit
         # rake lastUpdated
       env:
