@@ -18,8 +18,9 @@ jobs:
         ruby-version: 2.6.x
     - name: Update lastUpdated
       run: |
-        gem install octokit
-        rake lastUpdated
+        curl -H 'Accept: application/vnd.github.v3+json' https://api.github.com/rate_limit
+        #gem install octokit
+        #rake lastUpdated
     - name: push
       run: |
         git config --global user.name 'Sketch Developer'
