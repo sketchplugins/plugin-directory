@@ -6905,5 +6905,12 @@
     "appcast": "https://raw.githubusercontent.com/7revor/smart-design-export/master/.appcast.xml",
     "homepage": "https://github.com/7revor/smart-design-export",
     "author": "7revor"
+  },
+  {
+    "title": "QuestAI",
+    "name": "SketchPlugin",
+    "owner": "QuestAI",
+    "appcast": "https://raw.githubusercontent.com/QuestAI/SketchPlugin/master/.appcast.xml",
+    "homepage": "https://github.com/QuestAI/SketchPlugin"
   }
 ]
