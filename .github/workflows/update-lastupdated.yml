@@ -19,7 +19,7 @@ jobs:
     - name: Update lastUpdated
       run: |
         gem install octokit
-        GH_TOKEN=${{ secrets.GH_TOKEN }} rake lastUpdated
+        rake lastUpdated
     - name: push
       run: |
         git config --global user.name 'Sketch Developer'

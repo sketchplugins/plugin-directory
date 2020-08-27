@@ -4,7 +4,7 @@ require 'json'
 require 'time'
 require "./lib/plugin-directory-utils"
 
-GITHUB_AUTH_TOKEN = ENV['GH_TOKEN']
+GITHUB_AUTH_TOKEN = ENV['GITHUB_TOKEN']
 
 def title_for plugin
   title = plugin['title'] || plugin['name']
@@ -146,9 +146,7 @@ desc "Update `lastUpdated` field for all plugin in JSON"
 task :lastUpdated do
 
   require 'octokit'
-  puts GITHUB_AUTH_TOKEN
   client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
-  puts client
 
   json_data = get_plugins_from_json
 
@@ -157,7 +155,6 @@ task :lastUpdated do
     if plugin['owner'] && plugin['name']
       # puts "Updating #{titlefy(plugin['name'])}"
       plugin_url = plugin['owner'] + "/" + plugin['name']
-      puts plugin_url
       begin
         repo = client.repo(plugin_url)
         # user = client.user(plugin['owner'])
@@ -165,8 +162,7 @@ task :lastUpdated do
         plugin['lastUpdated'] = repo.pushed_at
       rescue Exception => e
         puts e
-        puts "https://github.com/#{plugin['owner']}/#{plugin['name']}" 
-        puts "— Repo not available"
+        puts "https://github.com/#{plugin['owner']}/#{plugin['name']}"
       end
 
       # if plugin['name'] == plugin['title'] && plugin['title'] == nil
@@ -549,7 +545,7 @@ task :stars do
   #   f.write(JSON.pretty_generate(json_data, :indent => "  "))
   # end
 
-  
+
 end
 
 desc "Default: generate README.md from plugin"
