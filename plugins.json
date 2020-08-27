@@ -6896,5 +6896,14 @@
     "appcast": "https://raw.githubusercontent.com/ziyafenn/sketch-json-color-palette-importer/master/.appcast.xml",
     "homepage": "https://github.com/ziyafenn/sketch-json-color-palette-importer",
     "author": "Ziya Fenn"
+  },
+  {
+    "title": "smart-design-export",
+    "description": "transform sketch to smart-design template",
+    "name": "smart-design-export",
+    "owner": "7revor",
+    "appcast": "https://raw.githubusercontent.com/7revor/smart-design-export/master/.appcast.xml",
+    "homepage": "https://github.com/7revor/smart-design-export",
+    "author": "7revor"
   }
 ]
