@@ -6896,5 +6896,12 @@
     "appcast": "https://raw.githubusercontent.com/ziyafenn/sketch-json-color-palette-importer/master/.appcast.xml",
     "homepage": "https://github.com/ziyafenn/sketch-json-color-palette-importer",
     "author": "Ziya Fenn"
+  },
+  {
+    "title": "QuestAI",
+    "name": "SketchPlugin",
+    "owner": "QuestAI",
+    "appcast": "https://raw.githubusercontent.com/QuestAI/SketchPlugin/master/.appcast.xml",
+    "homepage": "https://github.com/QuestAI/SketchPlugin"
   }
 ]
