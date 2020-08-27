@@ -4,7 +4,7 @@ require 'json'
 require 'time'
 require "./lib/plugin-directory-utils"
 
-GITHUB_AUTH_TOKEN = ENV['GITHUB_TOKEN']
+GITHUB_AUTH_TOKEN = ENV['GH_TOKEN']
 
 def title_for plugin
   title = plugin['title'] || plugin['name']
