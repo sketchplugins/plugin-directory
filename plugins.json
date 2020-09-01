@@ -6831,8 +6831,8 @@
     "lastUpdated": "2020-07-22 17:40:40 UTC"
   },
   {
-    "title": "palette-cleanser",
-    "description": "",
+    "title": "Palette Cleanser",
+    "description": "Get a full rundown of the colors you're using in your Sketch document.",
     "name": "sketch-palette-cleanser",
     "owner": "proteanstudio",
     "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
