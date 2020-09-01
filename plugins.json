@@ -354,6 +354,16 @@
     "lastUpdated": "2018-05-22 13:51:22 UTC"
   },
   {
+    "description": "Overlay transforms your Sketch symbols into clean and reusable code in ReactJS, Vue.js and Vanilla HTML.",
+    "name": "Overlay",
+    "title": "Overlay",
+    "owner": "overlay",
+    "author": "Overlay",
+    "homepage": "https://overlay-tech.com?ref=sketch-plugin",
+    "lastUpdated": "2020-09-01 11:21:34 UTC",
+    "appcast": "https://overlay-plugin.s3-eu-west-1.amazonaws.com/public/sketch/.appcast.xml"
+  },
+  {
     "description": "Add single borders with advanced controls.",
     "name": "single-border",
     "title": "Single Border",
