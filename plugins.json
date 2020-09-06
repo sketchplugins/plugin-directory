@@ -932,7 +932,7 @@
     "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
-    "lastUpdated": "2020-07-30 08:22:43 UTC"
+    "lastUpdated": "2020-09-05 23:08:53 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -1304,7 +1304,7 @@
     "author": "James Tang",
     "owner": "MagicSketch",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2020-02-16 05:29:42 UTC"
+    "lastUpdated": "2020-09-01 01:29:44 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -1366,7 +1366,7 @@
     "title": "Logo Fetcher",
     "author": "Tobi Kremer",
     "owner": "soulchild",
-    "lastUpdated": "2020-07-30 03:53:36 UTC"
+    "lastUpdated": "2020-09-03 12:18:17 UTC"
   },
   {
     "description": "Sketch plugin to count number of characters in a text layer",
@@ -1445,7 +1445,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-07-30 07:48:22 UTC"
+    "lastUpdated": "2020-09-05 01:35:08 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -2611,7 +2611,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-08-02 12:11:54 UTC"
+    "lastUpdated": "2020-09-02 17:24:34 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2699,7 +2699,7 @@
     "title": "Randomcolors",
     "owner": "avadhbsd",
     "author": "Avadh",
-    "lastUpdated": "2018-05-09 15:31:38 UTC"
+    "lastUpdated": "2020-09-03 03:52:35 UTC"
   },
   {
     "description": "Rotate the orientation of an artboard - from portrait to landscape, and vice versa.",
@@ -3351,7 +3351,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-groupie",
-    "lastUpdated": "2017-11-07 17:18:25 UTC"
+    "lastUpdated": "2020-09-04 00:25:15 UTC"
   },
   {
     "title": "P5 Sketchplugin",
@@ -3367,7 +3367,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2020-07-30 12:36:42 UTC",
+    "lastUpdated": "2020-09-05 19:44:30 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -3378,7 +3378,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2020-07-30 06:17:56 UTC"
+    "lastUpdated": "2020-09-04 23:36:49 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3808,7 +3808,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "author": "mathieudutour",
-    "lastUpdated": "2020-07-30 06:18:40 UTC"
+    "lastUpdated": "2020-09-05 21:00:38 UTC"
   },
   {
     "title": "polyglot",
@@ -3851,7 +3851,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
-    "lastUpdated": "2020-07-30 01:12:03 UTC"
+    "lastUpdated": "2020-09-05 20:53:37 UTC"
   },
   {
     "title": "Inter UI Character Spacing",
@@ -3861,7 +3861,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2020-07-30 00:41:12 UTC"
+    "lastUpdated": "2020-09-05 16:50:52 UTC"
   },
   {
     "title": "Chromata",
@@ -3917,7 +3917,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "photo-grid",
-    "lastUpdated": "2020-07-30 00:52:07 UTC"
+    "lastUpdated": "2020-09-05 18:23:00 UTC"
   },
   {
     "title": "Stickers",
@@ -3927,7 +3927,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-30 01:00:58 UTC"
+    "lastUpdated": "2020-09-05 12:19:00 UTC"
   },
   {
     "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
@@ -4166,7 +4166,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-08-27 13:09:22 UTC"
+    "lastUpdated": "2020-09-04 14:45:42 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4186,7 +4186,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-08-25 08:30:03 UTC"
+    "lastUpdated": "2020-09-03 08:20:19 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4698,7 +4698,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2020-08-18 03:44:14 UTC"
+    "lastUpdated": "2020-09-04 18:11:10 UTC"
   },
   {
     "title": "imgcook",
@@ -4814,7 +4814,7 @@
     "owner": "inthepocket",
     "appcast": "https://raw.githubusercontent.com/inthepocket/hubble-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin",
-    "lastUpdated": "2020-07-30 08:40:25 UTC"
+    "lastUpdated": "2020-09-05 05:11:32 UTC"
   },
   {
     "title": "betterTypePanel",
@@ -4834,7 +4834,7 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez",
-    "lastUpdated": "2020-07-30 16:17:25 UTC"
+    "lastUpdated": "2020-09-04 22:18:37 UTC"
   },
   {
     "title": "Iconify",
@@ -4949,7 +4949,7 @@
     "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
     "author": "idix",
-    "lastUpdated": "2020-07-30 11:13:14 UTC"
+    "lastUpdated": "2020-09-04 15:50:08 UTC"
   },
   {
     "title": "String Value Puller",
@@ -5101,7 +5101,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-08-24 19:11:35 UTC"
+    "lastUpdated": "2020-08-31 19:06:22 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5286,7 +5286,7 @@
     "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
     "homepage": "https://github.com/themainingredient/colormate",
     "author": "The Main Ingredient",
-    "lastUpdated": "2020-07-30 14:02:35 UTC"
+    "lastUpdated": "2020-09-04 19:38:17 UTC"
   },
   {
     "title": "Prototypes Invision ↔︎ Sketch",
@@ -6582,7 +6582,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-07-31 09:39:20 UTC"
+    "lastUpdated": "2020-09-02 06:27:58 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6690,7 +6690,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2020-08-02 02:43:35 UTC"
+    "lastUpdated": "2020-09-03 03:29:04 UTC"
   },
   {
     "title": "Slint",
@@ -6770,7 +6770,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-08-26 11:03:02 UTC"
+    "lastUpdated": "2020-09-03 10:46:05 UTC"
   },
   {
     "title": "perfect-type",
@@ -6799,7 +6799,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan",
-    "lastUpdated": "2020-08-29 11:13:37 UTC"
+    "lastUpdated": "2020-09-01 10:51:25 UTC"
   },
   {
     "title": "gradient-matrix-generator",
@@ -6848,7 +6848,7 @@
     "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
     "homepage": "https://github.com/proteanstudio/sketch-palette-cleanser",
     "author": "Protean Studio",
-    "lastUpdated": "2020-08-28 20:33:49 UTC"
+    "lastUpdated": "2020-09-02 22:12:35 UTC"
   },
   {
     "title": "BlobMaker",
@@ -6936,6 +6936,6 @@
     "appcast": "https://raw.githubusercontent.com/QuestAI/SketchPlugin/master/.appcast.xml",
     "homepage": "https://www.quest.ai/sketch",
     "author": "Quest AI",
-    "lastUpdated": "2020-08-27 19:14:05 UTC"
+    "lastUpdated": "2020-09-02 21:34:43 UTC"
   }
 ]
