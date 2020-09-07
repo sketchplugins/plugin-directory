@@ -4063,5 +4063,14 @@
     "owner": "KevinvBre",
     "name": "Align-and-resize-to-layout",
     "lastUpdated": "2018-06-18 18:06:02 UTC"
+  },
+  {
+    "title": "Collapse All Artboards And Groups",
+    "description": "Collapse all artboards and groups in the current document.",
+    "name": "Collapse-All-Artboards-and-Groups",
+    "owner": "littlebusters",
+    "appcast": "https://raw.githubusercontent.com/littlebusters/Collapse-All-Artboards-and-Groups/master/.appcast.xml",
+    "homepage": "https://github.com/littlebusters/Collapse-All-Artboards-and-Groups",
+    "author": "littlebusters"
   }
 ]
