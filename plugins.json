@@ -6937,5 +6937,14 @@
     "homepage": "https://www.quest.ai/sketch",
     "author": "Quest AI",
     "lastUpdated": "2020-09-02 21:34:43 UTC"
+  },
+  {
+    "title": "Collapse All Artboards And Groups",
+    "description": "Collapse all artboards and groups in the current document.",
+    "name": "Collapse-All-Artboards-and-Groups",
+    "owner": "littlebusters",
+    "appcast": "https://raw.githubusercontent.com/littlebusters/Collapse-All-Artboards-and-Groups/master/.appcast.xml",
+    "homepage": "https://github.com/littlebusters/Collapse-All-Artboards-and-Groups",
+    "author": "littlebusters"
   }
 ]
