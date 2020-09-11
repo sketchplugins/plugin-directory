@@ -6946,5 +6946,13 @@
     "appcast": "https://raw.githubusercontent.com/littlebusters/Collapse-All-Artboards-and-Groups/master/.appcast.xml",
     "homepage": "https://github.com/littlebusters/Collapse-All-Artboards-and-Groups",
     "author": "littlebusters"
+  },
+  {
+    "title": "Hatseflats for Sketch",
+    "description": "An experiment to get some form of generative design into the UI wireframe design process.",
+    "author": "Kevin van Breemaat",
+    "owner": "KevinvBre",
+    "name": "Hatseflats",
+    "homepage": "https://github.com/KevinvBre/Hatseflats"
   }
 ]
