@@ -131,7 +131,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Elem Export](https://github.com/JoeyDon/Elem-Export-Sketch-Plugin), by Joey: This plugin will export all assets of the SELECTED layer
 - [Elevation Shadows](https://github.com/YitingLiu/Elevation-Shadows), by Yiting Liu: A Sketch Plugin to apply consistent Elevation Shadows
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
-- [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: A Sketch extension to generate english and persian lorem ipsum text.
 - [Envato Elements](https://github.com/envato/extensions-sketch-plugin), by envato: Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!
 - [Escriba](https://github.com/pausansol/escriba), by Pablo Sanchez Soler: Sketch plugin to copy paste symbol overrides
 - [Event Badges By David](https://github.com/designforhuman/event-badges-by-david), by davidlee: A Sketch plugin to make a large quantity of name tags for any kind of events
@@ -171,6 +170,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Gutter Cutter](https://github.com/gcampi/gutter-cutter), by Gabriele Campi: A Sketch plugin to create custom grids with guides
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [Handy Menu](https://github.com/sergeishere/HandyMenu-SketchPlugin), by Sergey Dmitriev: Gives quick access to your plugins through context menu
+- [Hatseflats for Sketch](https://github.com/KevinvBre/Hatseflats), by Kevin van Breemaat: An experiment to get some form of generative design into the UI wireframe design process.
 - [Helpify](https://github.com/Luckyfoxdesign/helpify), by Lucky Fox Design: Plugin with simple actions: Generate random numbers
 - [helpweb](https://github.com/mybenmao/sketch-helpweb), by caorukang: web html css image
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
@@ -1020,4 +1020,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Symbol Text Inspector](https://github.com/dbilyk/symboltextinspector), by Dmitri Bilyk: Easily inspect the specifications of all text overrides in symbols, including in nested symbols.
 - [Android Screenshot](https://github.com/sylvainleris/fr.y3s.sketch.screenshot), by Sylvain Leris: A Sketch plugin to take screenshots of Android device connected over USB.
 - [Paste Direct](https://github.com/yudiz-solutions/paste-direct), by Sudev Kiyada: Design like a guitarist!
-- [English and Persian Lorem Ipsum](https://github.com/rezaaa/english-and-persian-lorem-ipsum), by Mohammad Reza Mahmoudi: A Sketch extension to generate english and persian lorem ipsum text.
