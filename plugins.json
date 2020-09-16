@@ -4227,15 +4227,6 @@
     "lastUpdated": "2018-08-03 10:42:05 UTC"
   },
   {
-    "title": "Sketch Image Compressor",
-    "description": "A Plugin that compresses bitmap assets, right when you export them. This Plugin *requires* Sketch 3.8.",
-    "name": "sketch-image-compressor",
-    "owner": "sketch-hq",
-    "appcast": "https://raw.githubusercontent.com/sketch-hq/sketch-image-compressor/master/.appcast.xml",
-    "homepage": "https://github.com/sketch-hq/sketch-image-compressor",
-    "lastUpdated": "2020-09-06 14:59:47 UTC"
-  },
-  {
     "title": "Artboard Manager",
     "description": "Because moving artboards manually is *so* 2016.",
     "name": "artboard-manager",
@@ -5405,16 +5396,6 @@
     "homepage": "https://github.com/sketch-hq/library-replacer-sketchplugin",
     "author": "Sketch",
     "lastUpdated": "2020-09-08 17:32:35 UTC"
-  },
-  {
-    "title": "Print Export",
-    "description": "Export artboards or pages to a PDF for printing",
-    "name": "print-export-sketchplugin",
-    "owner": "sketch-hq",
-    "appcast": "https://raw.githubusercontent.com/sketch-hq/print-export-sketchplugin/master/.appcast.xml",
-    "homepage": "https://github.com/sketch-hq/print-export-sketchplugin",
-    "author": "Sketch",
-    "lastUpdated": "2020-07-16 20:42:37 UTC"
   },
   {
     "title": "restore-overrides",
