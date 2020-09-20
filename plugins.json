@@ -17,7 +17,7 @@
     "owner": "bvmensvoort",
     "name": "sketch-last-updated",
     "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2020-05-20 17:21:57 UTC"
+    "lastUpdated": "2020-09-15 19:28:19 UTC"
   },
   {
     "title": "XD2Sketch Converter",
@@ -3335,7 +3335,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-style-master",
-    "lastUpdated": "2020-07-29 21:21:11 UTC"
+    "lastUpdated": "2020-09-14 00:13:02 UTC"
   },
   {
     "title": "Sketch Groupie",
@@ -4158,7 +4158,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-09-10 08:22:54 UTC"
+    "lastUpdated": "2020-09-19 18:27:36 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4455,7 +4455,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung",
-    "lastUpdated": "2020-07-30 09:45:13 UTC"
+    "lastUpdated": "2020-09-19 12:08:34 UTC"
   },
   {
     "title": "Sketch Data Faker",
@@ -4778,7 +4778,7 @@
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/typographie-frenchy/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/typographie-frenchy",
-    "lastUpdated": "2020-07-30 03:24:36 UTC"
+    "lastUpdated": "2020-09-19 23:26:05 UTC"
   },
   {
     "title": "Sketch Git Pro",
@@ -5084,7 +5084,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-08-31 19:06:22 UTC"
+    "lastUpdated": "2020-09-14 15:34:56 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5929,7 +5929,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-chat",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2020-09-12 15:52:19 UTC"
+    "lastUpdated": "2020-09-13 05:57:09 UTC"
   },
   {
     "title": "Plugin List",
@@ -6056,7 +6056,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-09-09 19:10:48 UTC"
+    "lastUpdated": "2020-09-17 07:24:31 UTC"
   },
   {
     "title": "Cluse",
@@ -6075,7 +6075,7 @@
     "owner": "Saint-loup",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/data-from-clipboard/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/data-from-clipboard",
-    "lastUpdated": "2020-08-01 07:27:12 UTC"
+    "lastUpdated": "2020-09-19 22:22:56 UTC"
   },
   {
     "title": "Vectary 3D",
@@ -6555,7 +6555,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-09-12 05:06:44 UTC"
+    "lastUpdated": "2020-09-16 01:32:03 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6743,7 +6743,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-09-11 09:53:39 UTC"
+    "lastUpdated": "2020-09-17 06:05:19 UTC"
   },
   {
     "title": "perfect-type",
