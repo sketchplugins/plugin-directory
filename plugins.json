@@ -37,6 +37,16 @@
     "lastUpdated": "2020-02-04 19:52:20 UTC"
   },
   {
+    "owner": "Piqo design",
+    "name": "Iconly",
+    "title": "Iconly v2.0.0",
+    "description": "500+ Free icons for your next project in 5 styles (Light, Bold, Bulk, Two-tone, Broken)",
+    "appcast": "https://raw.githubusercontent.com/piqodesign/Iconly-Sketch/master/.appcast.xml",
+    "author": "Piqo design",
+    "homepage": "https://github.com/piqodesign/Iconly-Sketch",
+    "lastUpdated": "2020-09-19 18:15:00 UTC"
+  },
+  {
     "owner": "oneuxco",
     "author": "Matthew Talebi",
     "name": "Sketch-Design-systems-validator",
