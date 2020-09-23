@@ -6948,5 +6948,13 @@
     "name": "Hatseflats",
     "homepage": "https://github.com/KevinvBre/Hatseflats",
     "lastUpdated": "2020-07-31 13:27:57 UTC"
+  },
+  {
+    "title": "sketch-json",
+    "description": "a plugin to transfer sketch JSON into sketch Object",
+    "name": "sketch-json",
+    "owner": "arvinxx",
+    "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
+    "homepage": "https://github.com/arvinxx/sketch-json"
   }
 ]
