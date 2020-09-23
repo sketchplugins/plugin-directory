@@ -6941,6 +6941,15 @@
     "appcast": "https://download.memsource.com/production/updates/sketch/appcast.xml"
   },
   {
+    "name": "FreeFlow",
+    "title": "FreeFlow",
+    "description": "Speed up common tasks and boost your productivity.",
+    "author": "Francesco Bertocci",
+    "homepage": "https://freeandwilling.com/updates/291/?q=&t=site",
+    "lastUpdated": "2020-09-22 10:00:00 UTC",
+    "appcast": "https://github.com/fbmore/FreeFlow-Sketch-Plugin/blob/master/appcast.xml"
+  },
+  {
     "title": "Hatseflats for Sketch",
     "description": "An experiment to get some form of generative design into the UI wireframe design process.",
     "author": "Kevin van Breemaat",
