@@ -1679,7 +1679,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-08-23 14:02:32 UTC"
+    "lastUpdated": "2020-09-24 14:25:33 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3520,7 +3520,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2020-08-11 10:19:17 UTC"
+    "lastUpdated": "2020-09-25 17:57:38 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3873,7 +3873,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2020-06-18 15:32:18 UTC"
+    "lastUpdated": "2020-09-22 16:28:14 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4044,7 +4044,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-07-16 01:09:24 UTC"
+    "lastUpdated": "2020-09-21 13:53:14 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4099,7 +4099,7 @@
     "owner": "overflowapp",
     "name": "overflow-sketch-plugin",
     "homepage": "https://overflow.io",
-    "lastUpdated": "2020-07-01 15:55:15 UTC"
+    "lastUpdated": "2020-09-21 07:41:32 UTC"
   },
   {
     "title": "Kitchen",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-08-15 19:30:33 UTC"
+    "lastUpdated": "2020-09-23 09:18:49 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-08 10:15:47 UTC"
+    "lastUpdated": "2020-09-25 09:01:05 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4991,7 +4991,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2020-04-19 14:38:10 UTC"
+    "lastUpdated": "2020-09-25 13:51:37 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -5010,7 +5010,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2020-08-22 17:32:58 UTC"
+    "lastUpdated": "2020-09-25 13:29:02 UTC"
   },
   {
     "title": "labelizer",
@@ -5040,7 +5040,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-08-25 22:12:16 UTC"
+    "lastUpdated": "2020-09-25 07:32:10 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -5094,7 +5094,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-09-14 15:34:56 UTC"
+    "lastUpdated": "2020-09-25 19:41:08 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-09-17 07:24:31 UTC"
+    "lastUpdated": "2020-09-23 14:42:43 UTC"
   },
   {
     "title": "Cluse",
@@ -6404,7 +6404,7 @@
     "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
     "homepage": "https://github.com/genexuslabs/sketchdesignops",
     "author": "Gastón Milano",
-    "lastUpdated": "2020-08-13 13:56:05 UTC"
+    "lastUpdated": "2020-09-20 13:29:34 UTC"
   },
   {
     "title": "Toggle Greyscale",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-09-16 01:32:03 UTC"
+    "lastUpdated": "2020-09-21 01:44:05 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6624,7 +6624,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2020-08-03 08:51:30 UTC"
+    "lastUpdated": "2020-09-23 18:41:32 UTC"
   },
   {
     "title": "Isometry",
@@ -6703,7 +6703,7 @@
     "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
     "homepage": "https://github.com/keplerlab/genus",
     "author": "Kepler Lab",
-    "lastUpdated": "2020-08-25 07:03:14 UTC"
+    "lastUpdated": "2020-09-25 10:34:57 UTC"
   },
   {
     "title": "library-inventory",
@@ -6753,7 +6753,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-09-17 06:05:19 UTC"
+    "lastUpdated": "2020-09-23 07:18:43 UTC"
   },
   {
     "title": "perfect-type",
@@ -6782,7 +6782,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan",
-    "lastUpdated": "2020-09-01 10:51:25 UTC"
+    "lastUpdated": "2020-09-22 19:20:27 UTC"
   },
   {
     "title": "gradient-matrix-generator",
@@ -6964,6 +6964,7 @@
     "name": "sketch-json",
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
-    "homepage": "https://github.com/arvinxx/sketch-json"
+    "homepage": "https://github.com/arvinxx/sketch-json",
+    "lastUpdated": "2020-09-23 07:10:58 UTC"
   }
 ]
