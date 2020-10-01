@@ -6966,5 +6966,14 @@
     "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/sketch-json",
     "lastUpdated": "2020-09-23 07:10:58 UTC"
+  },
+  {
+    "title": "Color Variables Migrator",
+    "description": "Migrate your Layers and Styles to use Color Variables",
+    "name": "color-variables-migrator",
+    "owner": "sketch-hq",
+    "appcast": "https://raw.githubusercontent.com/sketch-hq/color-variables-migrator/master/.appcast.xml",
+    "homepage": "https://github.com/sketch-hq/color-variables-migrator",
+    "author": "Sketch"
   }
 ]
