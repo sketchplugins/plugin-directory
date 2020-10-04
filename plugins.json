@@ -458,7 +458,7 @@
     "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://launchpad.animaapp.com",
-    "lastUpdated": "2019-03-22 19:20:31 UTC"
+    "lastUpdated": "2020-09-30 15:26:27 UTC"
   },
   {
     "description": "Create basic word clouds and tag clouds.",
@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-09-10 18:20:37 UTC",
+    "lastUpdated": "2020-10-01 15:11:28 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -557,7 +557,7 @@
     "title": "Click-Thru Prototype",
     "author": "Mark Horgan",
     "owner": "markhorgan",
-    "lastUpdated": "2017-10-11 12:53:04 UTC"
+    "lastUpdated": "2020-09-30 19:06:03 UTC"
   },
   {
     "description": "Responsive design inside Sketch. Design for all screen sizes on one artboard.",
@@ -1850,7 +1850,7 @@
     "title": "Base64 PNG Export",
     "owner": "jawayang",
     "author": "james yang",
-    "lastUpdated": "2017-05-14 16:23:20 UTC"
+    "lastUpdated": "2020-10-02 10:42:32 UTC"
   },
   {
     "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-09-19 18:27:36 UTC"
+    "lastUpdated": "2020-09-30 19:33:56 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-25 09:01:05 UTC"
+    "lastUpdated": "2020-09-29 03:11:28 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4691,7 +4691,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2020-09-04 18:11:10 UTC"
+    "lastUpdated": "2020-10-01 15:19:09 UTC"
   },
   {
     "title": "imgcook",
@@ -5040,7 +5040,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-09-25 07:32:10 UTC"
+    "lastUpdated": "2020-10-03 06:33:59 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -5094,7 +5094,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-09-25 19:41:08 UTC"
+    "lastUpdated": "2020-09-28 17:19:58 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5153,7 +5153,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Turkish-Data/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Turkish-Data",
     "author": "Özgür Güneş",
-    "lastUpdated": "2020-08-07 18:11:02 UTC"
+    "lastUpdated": "2020-10-03 22:44:04 UTC"
   },
   {
     "title": "Snatch",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-09-23 14:42:43 UTC"
+    "lastUpdated": "2020-09-29 16:05:58 UTC"
   },
   {
     "title": "Cluse",
@@ -6782,7 +6782,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan",
-    "lastUpdated": "2020-09-22 19:20:27 UTC"
+    "lastUpdated": "2020-10-01 02:47:41 UTC"
   },
   {
     "title": "gradient-matrix-generator",
@@ -6974,6 +6974,7 @@
     "owner": "sketch-hq",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/color-variables-migrator/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/color-variables-migrator",
-    "author": "Sketch"
+    "author": "Sketch",
+    "lastUpdated": "2020-10-01 17:30:14 UTC"
   }
 ]
