@@ -6976,5 +6976,14 @@
     "homepage": "https://github.com/sketch-hq/color-variables-migrator",
     "author": "Sketch",
     "lastUpdated": "2020-10-01 17:30:14 UTC"
+  },
+  {
+    "title": "omnisskeletongenerator",
+    "description": "",
+    "name": "skeletongenerator",
+    "owner": "taohsu",
+    "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml",
+    "homepage": "https://github.com/taohsu/skeletongenerator",
+    "author": "taohsu"
   }
 ]
