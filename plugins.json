@@ -1679,7 +1679,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-09-24 14:25:33 UTC"
+    "lastUpdated": "2020-10-10 14:35:02 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-08-27 11:34:23 UTC"
+    "lastUpdated": "2020-10-10 05:20:08 UTC"
   },
   {
     "title": "Blender",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-09-30 19:33:56 UTC"
+    "lastUpdated": "2020-10-08 07:01:22 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-09-23 09:18:49 UTC"
+    "lastUpdated": "2020-10-10 17:50:41 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-29 03:11:28 UTC"
+    "lastUpdated": "2020-10-08 08:32:19 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4236,7 +4236,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-09-06 14:25:46 UTC"
+    "lastUpdated": "2020-10-05 07:28:59 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4991,7 +4991,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2020-09-25 13:51:37 UTC"
+    "lastUpdated": "2020-10-10 14:35:20 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -5464,7 +5464,7 @@
     "owner": "iarthstar",
     "appcast": "https://raw.githubusercontent.com/iarthstar/Shadows-Utilities/master/.appcast.xml",
     "homepage": "https://github.com/iarthstar/Shadows-Utilities",
-    "lastUpdated": "2020-02-02 21:33:27 UTC"
+    "lastUpdated": "2020-10-06 18:18:00 UTC"
   },
   {
     "title": "symbol-overlay-toggle",
@@ -5977,7 +5977,7 @@
     "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
     "homepage": "https://github.com/afifkhaidir/symbol-finder",
     "author": "afifkhaidir",
-    "lastUpdated": "2020-09-11 14:49:12 UTC"
+    "lastUpdated": "2020-10-07 01:04:38 UTC"
   },
   {
     "title": "Pixelworm",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-09-29 16:05:58 UTC"
+    "lastUpdated": "2020-10-09 19:56:20 UTC"
   },
   {
     "title": "Cluse",
@@ -6324,7 +6324,7 @@
     "appcast": "https://raw.githubusercontent.com/candy02058912/search-sketch/master/.appcast.xml",
     "homepage": "https://candy02058912.github.io/search-sketch",
     "author": "Candy Tsai",
-    "lastUpdated": "2020-06-09 21:45:09 UTC"
+    "lastUpdated": "2020-10-06 10:18:02 UTC"
   },
   {
     "title": "IcanIcon",
@@ -6624,7 +6624,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2020-09-23 18:41:32 UTC"
+    "lastUpdated": "2020-10-08 10:13:45 UTC"
   },
   {
     "title": "Isometry",
@@ -6976,6 +6976,15 @@
     "homepage": "https://github.com/sketch-hq/color-variables-migrator",
     "author": "Sketch",
     "lastUpdated": "2020-10-01 17:30:14 UTC"
+  },
+  {
+    "title": "omnisskeletongenerator",
+    "description": "",
+    "name": "skeletongenerator",
+    "owner": "taohsu",
+    "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml",
+    "homepage": "https://github.com/taohsu/skeletongenerator",
+    "author": "taohsu"
   },
   {
     "title": "Prism2ColorVariables",
