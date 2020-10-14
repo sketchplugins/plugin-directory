@@ -6994,5 +6994,14 @@
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/Prism2ColorVariables/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/Prism2ColorVariables",
     "author": "griffin-stewie"
+  },
+  {
+    "title": "Smart Truncate",
+    "description": "Truncates text in selected layers, symbol overrides or even all overrides of all instances of a symbol to given length.",
+    "name": "Sketch-Smart-Truncate",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Smart-Truncate/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
+    "author": "Ozgur Gunes"
   }
 ]
