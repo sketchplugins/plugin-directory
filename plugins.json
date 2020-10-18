@@ -760,7 +760,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2020-05-19 16:03:02 UTC"
+    "lastUpdated": "2020-10-12 08:34:44 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-10-10 05:20:08 UTC"
+    "lastUpdated": "2020-10-17 14:42:15 UTC"
   },
   {
     "title": "Blender",
@@ -3596,7 +3596,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-07-07 19:12:05 UTC"
+    "lastUpdated": "2020-10-14 14:32:53 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-10-08 07:01:22 UTC"
+    "lastUpdated": "2020-10-16 20:20:07 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-10-10 17:50:41 UTC"
+    "lastUpdated": "2020-10-12 19:30:48 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-10-08 08:32:19 UTC"
+    "lastUpdated": "2020-10-15 09:00:57 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4226,7 +4226,7 @@
     "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
     "homepage": "https://github.com/wantedly/sketch-wt-design",
     "author": "Yoshinori Kawasaki",
-    "lastUpdated": "2018-08-03 10:42:05 UTC"
+    "lastUpdated": "2020-10-12 06:52:45 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4827,7 +4827,7 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez",
-    "lastUpdated": "2020-09-04 22:18:37 UTC"
+    "lastUpdated": "2020-10-16 19:21:33 UTC"
   },
   {
     "title": "Iconify",
@@ -4991,7 +4991,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2020-10-10 14:35:20 UTC"
+    "lastUpdated": "2020-10-11 14:56:19 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -5040,7 +5040,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-10-03 06:33:59 UTC"
+    "lastUpdated": "2020-10-12 10:05:38 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -5133,7 +5133,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Case-Converter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
     "author": "Özgür Güneş",
-    "lastUpdated": "2020-08-07 17:39:17 UTC"
+    "lastUpdated": "2020-10-12 12:04:30 UTC"
   },
   {
     "title": "sketch-camera-hotkeys",
@@ -5183,7 +5183,7 @@
     "homepage": "https://github.com/jan-patrick/sketch_artboard-history",
     "author": "Jan Schneider",
     "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_artboard-history/master/.appcast.xml",
-    "lastUpdated": "2020-09-09 08:08:16 UTC"
+    "lastUpdated": "2020-10-14 16:08:09 UTC"
   },
   {
     "title": "jerryipsum",
@@ -6017,7 +6017,7 @@
     "appcast": "https://github.com/design-meets-development/design-tokens-plugin/blob/master/.appcast.xml",
     "homepage": "https://github.com/design-meets-development/design-tokens-plugin",
     "author": "Andreas Koutsoukos",
-    "lastUpdated": "2020-08-01 03:33:09 UTC"
+    "lastUpdated": "2020-10-13 18:05:40 UTC"
   },
   {
     "title": "🎨 Tieba ColorPool",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-10-09 19:56:20 UTC"
+    "lastUpdated": "2020-10-16 08:44:49 UTC"
   },
   {
     "title": "Cluse",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-09-21 01:44:05 UTC"
+    "lastUpdated": "2020-10-15 06:23:01 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6753,7 +6753,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-09-23 07:18:43 UTC"
+    "lastUpdated": "2020-10-14 09:26:49 UTC"
   },
   {
     "title": "perfect-type",
@@ -6984,7 +6984,8 @@
     "owner": "taohsu",
     "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml",
     "homepage": "https://github.com/taohsu/skeletongenerator",
-    "author": "taohsu"
+    "author": "taohsu",
+    "lastUpdated": "2020-10-14 19:43:03 UTC"
   },
   {
     "title": "Prism2ColorVariables",
@@ -6993,7 +6994,8 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/Prism2ColorVariables/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/Prism2ColorVariables",
-    "author": "griffin-stewie"
+    "author": "griffin-stewie",
+    "lastUpdated": "2020-10-08 10:54:21 UTC"
   },
   {
     "title": "Smart Truncate",
@@ -7002,6 +7004,7 @@
     "owner": "ozgurgunes",
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Smart-Truncate/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
-    "author": "Ozgur Gunes"
+    "author": "Ozgur Gunes",
+    "lastUpdated": "2020-10-12 11:36:25 UTC"
   }
 ]
