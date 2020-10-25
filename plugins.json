@@ -630,7 +630,7 @@
     "title": "Artboard presets for social media images",
     "author": "herrhelms",
     "owner": "herrhelms",
-    "lastUpdated": "2019-07-24 21:12:21 UTC"
+    "lastUpdated": "2020-10-23 00:12:18 UTC"
   },
   {
     "description": "Use Google Sheets to sync typography across your team.",
@@ -1679,7 +1679,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-10-10 14:35:02 UTC"
+    "lastUpdated": "2020-10-24 11:41:28 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-10-17 14:42:15 UTC"
+    "lastUpdated": "2020-10-24 15:49:35 UTC"
   },
   {
     "title": "Blender",
@@ -3361,7 +3361,7 @@
     "author": "Jacopo Colò",
     "owner": "jacopocolo",
     "name": "p5-sketchplugin",
-    "lastUpdated": "2018-10-03 07:16:43 UTC"
+    "lastUpdated": "2020-10-20 12:16:17 UTC"
   },
   {
     "title": "Units",
@@ -3692,7 +3692,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-29 23:26:16 UTC"
+    "lastUpdated": "2020-10-22 15:00:33 UTC"
   },
   {
     "title": "Plot",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-10-16 20:20:07 UTC"
+    "lastUpdated": "2020-10-21 08:19:17 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-10-15 09:00:57 UTC"
+    "lastUpdated": "2020-10-19 04:32:25 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4465,7 +4465,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung",
-    "lastUpdated": "2020-09-19 12:08:34 UTC"
+    "lastUpdated": "2020-10-24 08:32:08 UTC"
   },
   {
     "title": "Sketch Data Faker",
@@ -4701,7 +4701,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2020-09-08 09:47:24 UTC"
+    "lastUpdated": "2020-10-20 12:30:21 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -4837,7 +4837,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2020-07-16 20:44:28 UTC"
+    "lastUpdated": "2020-10-21 07:02:48 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -4991,7 +4991,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2020-10-11 14:56:19 UTC"
+    "lastUpdated": "2020-10-24 08:25:45 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-10-16 08:44:49 UTC"
+    "lastUpdated": "2020-10-21 19:21:21 UTC"
   },
   {
     "title": "Cluse",
@@ -6344,7 +6344,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2020-09-12 12:49:17 UTC"
+    "lastUpdated": "2020-10-24 19:59:31 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6753,7 +6753,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-10-14 09:26:49 UTC"
+    "lastUpdated": "2020-10-21 00:13:31 UTC"
   },
   {
     "title": "perfect-type",
