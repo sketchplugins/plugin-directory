@@ -7006,5 +7006,14 @@
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
     "lastUpdated": "2020-10-12 11:36:25 UTC"
+  },
+  {
+    "title": "sketch-plugin-test",
+    "description": "sketch cutter",
+    "name": "sketch-study",
+    "owner": "inkyMountain",
+    "appcast": "https://raw.githubusercontent.com/inkyMountain/sketch-study/master/.appcast.xml",
+    "homepage": "https://github.com/inkyMountain/sketch-study",
+    "author": "chenyitao"
   }
 ]
