@@ -7005,6 +7005,16 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Smart-Truncate/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
+    "lastUpdated": "2020-10-12 11:36:25 UTC"
+  },
+  {
+    "title": "sketch-table-builder",
+    "description": "Quickly and easily use a single symbol and a CSV to create a data table.",
+    "name": "sketch-table-builder",
+    "owner": "EricKramp",
+    "appcast": "https://raw.githubusercontent.com/EricKramp/sketch-table-builder/master/.appcast.xml",
+    "homepage": "https://github.com/EricKramp/sketch-table-builder",
+    "author": "Eric Kramp"
     "lastUpdated": "2020-10-29 15:32:53 UTC"
   },
   {
