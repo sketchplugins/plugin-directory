@@ -7006,5 +7006,14 @@
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
     "lastUpdated": "2020-10-29 15:32:53 UTC"
+  },
+  {
+    "title": "Baseline Offsetter",
+    "description": "Raise, lower, set or reset the baseline of multiple text layers with a single command.",
+    "name": "Sketch-Baseline-Offsetter",
+    "owner": "ozgurgunes",
+    "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Baseline-Offsetter/master/.appcast.xml",
+    "homepage": "https://github.com/ozgurgunes/Sketch-Baseline-Offsetter",
+    "author": "Ozgur Gunes"
   }
 ]
