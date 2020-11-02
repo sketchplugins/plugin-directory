@@ -6978,14 +6978,14 @@
     "lastUpdated": "2020-10-01 17:30:14 UTC"
   },
   {
-    "title": "omnisskeletongenerator",
-    "description": "",
-    "name": "skeletongenerator",
+    "title": "Omnis Skeleton Generator",
+    "description": "Generate skeleton/placeholder UI from the selected components",
+    "name": "SkeletonGenerator",
     "owner": "taohsu",
     "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml",
     "homepage": "https://github.com/taohsu/skeletongenerator",
     "author": "taohsu",
-    "lastUpdated": "2020-10-14 19:43:03 UTC"
+    "lastUpdated": "2020-11-03 00:02:03 UTC"
   },
   {
     "title": "Prism2ColorVariables",
