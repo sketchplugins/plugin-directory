@@ -876,7 +876,7 @@
     "author": "Florian Schulz",
     "title": "Set Line Height",
     "name": "Sketch-Set-Line-Height-Plugin",
-    "lastUpdated": "2018-05-26 15:42:15 UTC"
+    "lastUpdated": "2020-10-30 13:28:54 UTC"
   },
   {
     "description": "Sketch.app plugin for swapping fill and border colors.",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-10-24 15:49:35 UTC"
+    "lastUpdated": "2020-10-30 06:10:19 UTC"
   },
   {
     "title": "Blender",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-10-21 08:19:17 UTC"
+    "lastUpdated": "2020-10-30 13:35:54 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-10-12 19:30:48 UTC"
+    "lastUpdated": "2020-10-30 13:33:01 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-10-19 04:32:25 UTC"
+    "lastUpdated": "2020-10-29 07:56:44 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4342,7 +4342,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-30 04:55:56 UTC"
+    "lastUpdated": "2020-10-30 02:02:13 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -5040,7 +5040,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-10-12 10:05:38 UTC"
+    "lastUpdated": "2020-10-26 06:52:22 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -5133,7 +5133,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Case-Converter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
     "author": "Özgür Güneş",
-    "lastUpdated": "2020-10-12 12:04:30 UTC"
+    "lastUpdated": "2020-10-29 19:55:53 UTC"
   },
   {
     "title": "sketch-camera-hotkeys",
@@ -6344,7 +6344,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2020-10-24 19:59:31 UTC"
+    "lastUpdated": "2020-10-26 15:48:00 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6494,7 +6494,7 @@
     "author": "Aby Nimbalkar",
     "owner": "abynim",
     "name": "sketch-selective-upload",
-    "lastUpdated": "2020-08-25 02:05:01 UTC"
+    "lastUpdated": "2020-10-26 09:34:05 UTC"
   },
   {
     "title": "Sketch Minimap",
@@ -6555,7 +6555,7 @@
     "appcast": "https://raw.githubusercontent.com/Brandfetch/Brandfetch-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/Brandfetch/Brandfetch-Sketch-Plugin",
     "author": "Brandfetch",
-    "lastUpdated": "2020-04-14 08:22:30 UTC"
+    "lastUpdated": "2020-10-28 10:52:11 UTC"
   },
   {
     "title": "Sketch MeaXure",
@@ -6753,7 +6753,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-10-21 00:13:31 UTC"
+    "lastUpdated": "2020-10-28 05:43:47 UTC"
   },
   {
     "title": "perfect-type",
@@ -7005,7 +7005,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Smart-Truncate/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-10-12 11:36:25 UTC"
+    "lastUpdated": "2020-10-29 15:32:53 UTC"
   },
   {
     "title": "Baseline Offsetter",
