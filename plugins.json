@@ -7008,13 +7008,22 @@
     "lastUpdated": "2020-10-12 11:36:25 UTC"
   },
   {
+    "title": "Homey",
+    "description": "Insert Homey App icons directly into your Sketch projects.",
+    "name": "SketchPluginHomey",
+    "owner": "athombv",
+    "appcast": "https://raw.githubusercontent.com/athombv/SketchPluginHomey/master/.appcast.xml",
+    "homepage": "https://github.com/athombv/SketchPluginHomey",
+    "author": "Athom B.V."
+  },
+  {
     "title": "sketch-table-builder",
     "description": "Quickly and easily use a single symbol and a CSV to create a data table.",
     "name": "sketch-table-builder",
     "owner": "EricKramp",
     "appcast": "https://raw.githubusercontent.com/EricKramp/sketch-table-builder/master/.appcast.xml",
     "homepage": "https://github.com/EricKramp/sketch-table-builder",
-    "author": "Eric Kramp"
+    "author": "Eric Kramp",
     "lastUpdated": "2020-10-29 15:32:53 UTC"
   },
   {
