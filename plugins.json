@@ -90,7 +90,7 @@
     "author": "Alexander Käßner",
     "homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
     "appcast": "https://raw.githubusercontent.com/alexkaessner/custom-zoom-sketch/master/.appcast.xml",
-    "lastUpdated": "2020-09-10 21:33:57 UTC"
+    "lastUpdated": "2020-11-06 23:51:30 UTC"
   },
   {
     "title": "Phrase Sketch Plugin",
@@ -1679,7 +1679,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-10-24 11:41:28 UTC"
+    "lastUpdated": "2020-11-02 18:05:40 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-10-30 13:35:54 UTC"
+    "lastUpdated": "2020-11-02 17:59:45 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-10-30 13:33:01 UTC"
+    "lastUpdated": "2020-11-02 18:29:13 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-10-29 07:56:44 UTC"
+    "lastUpdated": "2020-11-05 05:20:45 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4691,7 +4691,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2020-10-01 15:19:09 UTC"
+    "lastUpdated": "2020-11-05 19:16:42 UTC"
   },
   {
     "title": "imgcook",
@@ -5094,7 +5094,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-09-28 17:19:58 UTC"
+    "lastUpdated": "2020-11-03 02:19:53 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5967,7 +5967,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2020-09-10 16:23:39 UTC"
+    "lastUpdated": "2020-11-04 09:25:45 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-10-21 19:21:21 UTC"
+    "lastUpdated": "2020-11-03 08:34:06 UTC"
   },
   {
     "title": "Cluse",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-10-15 06:23:01 UTC"
+    "lastUpdated": "2020-11-07 12:04:41 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6985,7 +6985,7 @@
     "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml",
     "homepage": "https://github.com/taohsu/skeletongenerator",
     "author": "taohsu",
-    "lastUpdated": "2020-11-03 00:02:03 UTC"
+    "lastUpdated": "2020-11-02 16:24:52 UTC"
   },
   {
     "title": "Prism2ColorVariables",
@@ -7005,7 +7005,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Smart-Truncate/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-10-12 11:36:25 UTC"
+    "lastUpdated": "2020-10-29 15:32:53 UTC"
   },
   {
     "title": "Homey",
@@ -7014,7 +7014,8 @@
     "owner": "athombv",
     "appcast": "https://raw.githubusercontent.com/athombv/SketchPluginHomey/master/.appcast.xml",
     "homepage": "https://github.com/athombv/SketchPluginHomey",
-    "author": "Athom B.V."
+    "author": "Athom B.V.",
+    "lastUpdated": "2020-10-30 14:54:09 UTC"
   },
   {
     "title": "sketch-table-builder",
@@ -7024,7 +7025,7 @@
     "appcast": "https://raw.githubusercontent.com/EricKramp/sketch-table-builder/master/.appcast.xml",
     "homepage": "https://github.com/EricKramp/sketch-table-builder",
     "author": "Eric Kramp",
-    "lastUpdated": "2020-10-29 15:32:53 UTC"
+    "lastUpdated": "2020-11-05 20:18:28 UTC"
   },
   {
     "title": "Baseline Offsetter",
@@ -7033,7 +7034,8 @@
     "owner": "ozgurgunes",
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Baseline-Offsetter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Baseline-Offsetter",
-    "author": "Ozgur Gunes"
+    "author": "Ozgur Gunes",
+    "lastUpdated": "2020-10-28 19:36:58 UTC"
   },
   {
     "title": "Swap Color Libraries",
@@ -7042,6 +7044,7 @@
     "owner": "KevinGutowski",
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Swap-Color-Libraries/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Swap-Color-Libraries",
-    "author": "Kevin Gutowski"
+    "author": "Kevin Gutowski",
+    "lastUpdated": "2020-11-05 14:10:33 UTC"
   }
 ]
