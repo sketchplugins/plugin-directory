@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-10-01 15:11:28 UTC",
+    "lastUpdated": "2020-11-09 15:57:58 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1152,7 +1152,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2020-07-24 19:07:53 UTC"
+    "lastUpdated": "2020-11-09 08:21:53 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1455,7 +1455,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-09-07 06:14:34 UTC"
+    "lastUpdated": "2020-11-10 14:33:36 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -3042,7 +3042,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2020-07-01 10:11:57 UTC"
+    "lastUpdated": "2020-11-13 11:56:55 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-10-30 06:10:19 UTC"
+    "lastUpdated": "2020-11-13 16:10:12 UTC"
   },
   {
     "title": "Blender",
@@ -3304,7 +3304,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2020-07-29 21:12:47 UTC"
+    "lastUpdated": "2020-11-12 07:57:09 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-11-02 17:59:45 UTC"
+    "lastUpdated": "2020-11-14 11:51:30 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-11-02 18:29:13 UTC"
+    "lastUpdated": "2020-11-13 07:29:33 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-11-05 05:20:45 UTC"
+    "lastUpdated": "2020-11-12 05:43:38 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -5591,7 +5591,7 @@
     "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
     "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
     "author": "www.mupixa.com",
-    "lastUpdated": "2020-09-09 23:45:54 UTC"
+    "lastUpdated": "2020-11-08 14:54:59 UTC"
   },
   {
     "title": "Excel Content Sync",
@@ -5851,7 +5851,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign",
-    "lastUpdated": "2020-08-13 05:49:00 UTC"
+    "lastUpdated": "2020-11-11 09:54:42 UTC"
   },
   {
     "title": "Arrange artboards hierarchically",
@@ -6344,7 +6344,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2020-10-26 15:48:00 UTC"
+    "lastUpdated": "2020-11-14 15:14:52 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6461,7 +6461,7 @@
     "appcast": "https://raw.githubusercontent.com/theboi/sketch-ignore/master/.appcast.xml",
     "homepage": "https://github.com/theboi/sketch-ignore",
     "author": "Ryan The",
-    "lastUpdated": "2020-08-02 02:23:43 UTC"
+    "lastUpdated": "2020-11-12 03:54:30 UTC"
   },
   {
     "title": "Unsplash",
@@ -6494,7 +6494,7 @@
     "author": "Aby Nimbalkar",
     "owner": "abynim",
     "name": "sketch-selective-upload",
-    "lastUpdated": "2020-10-26 09:34:05 UTC"
+    "lastUpdated": "2020-11-11 04:52:06 UTC"
   },
   {
     "title": "Sketch Minimap",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-11-07 12:04:41 UTC"
+    "lastUpdated": "2020-11-09 02:03:18 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6975,7 +6975,7 @@
     "appcast": "https://raw.githubusercontent.com/sketch-hq/color-variables-migrator/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/color-variables-migrator",
     "author": "Sketch",
-    "lastUpdated": "2020-10-01 17:30:14 UTC"
+    "lastUpdated": "2020-11-10 14:59:54 UTC"
   },
   {
     "title": "Omnis Skeleton Generator",
