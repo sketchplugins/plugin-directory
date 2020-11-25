@@ -7046,5 +7046,15 @@
     "homepage": "https://github.com/KevinGutowski/Swap-Color-Libraries",
     "author": "Kevin Gutowski",
     "lastUpdated": "2020-11-05 14:10:33 UTC"
+  },
+  {
+    "title": "Gifmock",
+    "description": "Gifmock helps you create high-quality GIFs from static images and mockups.",
+    "author": "Gifmock",
+    "homepage": "https://gifmock.com",
+    "appcast": "https://gifmock.com/appcast.xml",
+    "owner": "Steven Fabre",
+    "name": "gifmock-sketch",
+    "lastUpdated": "2020-11-25 15:51:43 UTC"
   }
 ]
