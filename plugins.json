@@ -1679,7 +1679,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-11-02 18:05:40 UTC"
+    "lastUpdated": "2020-11-28 11:09:28 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-11-16 12:00:42 UTC"
+    "lastUpdated": "2020-11-28 17:49:19 UTC"
   },
   {
     "title": "Blender",
@@ -4099,7 +4099,7 @@
     "owner": "overflowapp",
     "name": "overflow-sketch-plugin",
     "homepage": "https://overflow.io",
-    "lastUpdated": "2020-09-21 07:41:32 UTC"
+    "lastUpdated": "2020-11-25 09:37:18 UTC"
   },
   {
     "title": "Kitchen",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-11-20 19:05:48 UTC"
+    "lastUpdated": "2020-11-25 15:41:20 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-11-20 09:41:12 UTC"
+    "lastUpdated": "2020-11-26 20:57:22 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-11-19 02:37:58 UTC"
+    "lastUpdated": "2020-11-26 06:08:38 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4484,7 +4484,7 @@
     "appcast": "https://raw.githubusercontent.com/fragmentlv/drafta/master/.appcast.xml",
     "homepage": "https://github.com/fragmentlv/drafta",
     "author": "Fragment",
-    "lastUpdated": "2019-03-19 08:32:01 UTC"
+    "lastUpdated": "2020-11-25 13:49:36 UTC"
   },
   {
     "title": "add-trailing-space",
@@ -4523,7 +4523,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2019-10-05 19:04:28 UTC"
+    "lastUpdated": "2020-11-27 20:41:08 UTC"
   },
   {
     "title": "toggleLayers",
@@ -4837,7 +4837,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2020-11-20 21:31:58 UTC"
+    "lastUpdated": "2020-11-28 11:19:40 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -4991,7 +4991,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2020-10-24 08:25:45 UTC"
+    "lastUpdated": "2020-11-28 13:01:51 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -5094,7 +5094,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-11-17 21:09:16 UTC"
+    "lastUpdated": "2020-11-25 06:08:15 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-11-17 12:31:28 UTC"
+    "lastUpdated": "2020-11-27 13:03:09 UTC"
   },
   {
     "title": "Cluse",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-11-16 09:46:34 UTC"
+    "lastUpdated": "2020-11-24 08:58:05 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6753,7 +6753,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-10-28 05:43:47 UTC"
+    "lastUpdated": "2020-11-28 07:51:20 UTC"
   },
   {
     "title": "perfect-type",
@@ -6773,7 +6773,7 @@
     "appcast": "https://raw.githubusercontent.com/SpaceBank/babelfish-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/SpaceBank/babelfish-sketch-plugin",
     "author": "BilousAlexandr",
-    "lastUpdated": "2020-07-07 13:47:54 UTC"
+    "lastUpdated": "2020-11-25 06:11:55 UTC"
   },
   {
     "title": "🍳Pan",
