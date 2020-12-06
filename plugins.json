@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-11-09 15:57:58 UTC",
+    "lastUpdated": "2020-12-02 17:05:27 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1152,7 +1152,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2020-11-09 08:21:53 UTC"
+    "lastUpdated": "2020-12-03 21:35:22 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1850,7 +1850,7 @@
     "title": "Base64 PNG Export",
     "owner": "jawayang",
     "author": "james yang",
-    "lastUpdated": "2020-10-02 10:42:32 UTC"
+    "lastUpdated": "2020-12-01 03:56:58 UTC"
   },
   {
     "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
@@ -2219,7 +2219,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2020-11-18 18:56:04 UTC"
+    "lastUpdated": "2020-12-01 17:02:14 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-11-28 17:49:19 UTC"
+    "lastUpdated": "2020-12-02 11:42:40 UTC"
   },
   {
     "title": "Blender",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-11-25 15:41:20 UTC"
+    "lastUpdated": "2020-12-04 19:24:17 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-11-26 06:08:38 UTC"
+    "lastUpdated": "2020-11-30 02:54:37 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4523,7 +4523,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2020-11-27 20:41:08 UTC"
+    "lastUpdated": "2020-11-30 19:34:38 UTC"
   },
   {
     "title": "toggleLayers",
@@ -4701,7 +4701,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2020-11-17 11:36:51 UTC"
+    "lastUpdated": "2020-12-04 11:02:43 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -4837,7 +4837,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2020-11-28 11:19:40 UTC"
+    "lastUpdated": "2020-12-04 10:08:23 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -5094,7 +5094,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-11-25 06:08:15 UTC"
+    "lastUpdated": "2020-12-03 21:45:19 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5464,7 +5464,7 @@
     "owner": "iarthstar",
     "appcast": "https://raw.githubusercontent.com/iarthstar/Shadows-Utilities/master/.appcast.xml",
     "homepage": "https://github.com/iarthstar/Shadows-Utilities",
-    "lastUpdated": "2020-10-06 18:18:00 UTC"
+    "lastUpdated": "2020-12-04 10:22:32 UTC"
   },
   {
     "title": "symbol-overlay-toggle",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-11-24 08:58:05 UTC"
+    "lastUpdated": "2020-12-02 14:57:09 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6624,7 +6624,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2020-11-15 23:32:47 UTC"
+    "lastUpdated": "2020-12-05 21:19:26 UTC"
   },
   {
     "title": "Isometry",
@@ -6644,7 +6644,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sync-with-library",
     "author": "oodesign",
-    "lastUpdated": "2020-08-13 16:37:52 UTC"
+    "lastUpdated": "2020-12-01 15:48:15 UTC"
   },
   {
     "title": "Export Flat SVGs",
@@ -6753,7 +6753,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2020-11-28 07:51:20 UTC"
+    "lastUpdated": "2020-12-03 06:29:11 UTC"
   },
   {
     "title": "perfect-type",
@@ -6773,7 +6773,7 @@
     "appcast": "https://raw.githubusercontent.com/SpaceBank/babelfish-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/SpaceBank/babelfish-sketch-plugin",
     "author": "BilousAlexandr",
-    "lastUpdated": "2020-11-25 06:11:55 UTC"
+    "lastUpdated": "2020-12-03 07:27:00 UTC"
   },
   {
     "title": "🍳Pan",
