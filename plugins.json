@@ -7066,4 +7066,14 @@
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun"
   }
+  },
+  {
+    "title": "ColorVariablesExporter",
+    "description": "Export Color Variables for development",
+    "name": "ColorVariablesExporter",
+    "owner": "griffin-stewie",
+    "appcast": "https://raw.githubusercontent.com/griffin-stewie/ColorVariablesExporter/main/.appcast.xml",
+    "homepage": "https://github.com/griffin-stewie/ColorVariablesExporter",
+    "author": "griffin-stewie"
+  }
 ]
