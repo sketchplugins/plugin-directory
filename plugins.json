@@ -441,7 +441,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.reselect.co",
-    "lastUpdated": "2020-07-13 14:55:31 UTC"
+    "lastUpdated": "2020-12-13 01:16:30 UTC"
   },
   {
     "description": "Help you find out popular design systems and download official Sketch UI kit.",
@@ -2823,7 +2823,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2020-07-11 18:46:54 UTC"
+    "lastUpdated": "2020-12-13 01:13:00 UTC"
   },
   {
     "title": "Diverse UI Sketch Plugin",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-12-10 06:39:11 UTC"
+    "lastUpdated": "2020-12-19 16:57:23 UTC"
   },
   {
     "title": "Blender",
@@ -3587,7 +3587,7 @@
     "author": "kupe517",
     "owner": "kupe517",
     "name": "sketch-split-shape",
-    "lastUpdated": "2019-06-12 16:35:12 UTC"
+    "lastUpdated": "2020-12-17 16:59:58 UTC"
   },
   {
     "title": "Angle",
@@ -3973,7 +3973,7 @@
     "appcast": "https://raw.githubusercontent.com/okcoker/Drake-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/okcoker/Drake-Sketch-Plugin",
     "author": "Sean Coker",
-    "lastUpdated": "2018-05-20 10:54:32 UTC"
+    "lastUpdated": "2020-12-16 22:40:37 UTC"
   },
   {
     "title": "sketch-easing-gradients",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-12-07 08:29:16 UTC"
+    "lastUpdated": "2020-12-16 14:21:55 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-11-26 20:57:22 UTC"
+    "lastUpdated": "2020-12-15 06:57:14 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-12-11 08:40:19 UTC"
+    "lastUpdated": "2020-12-18 09:45:20 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4523,7 +4523,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2020-12-12 15:53:35 UTC"
+    "lastUpdated": "2020-12-17 20:02:20 UTC"
   },
   {
     "title": "toggleLayers",
@@ -4691,7 +4691,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2020-12-10 17:18:37 UTC"
+    "lastUpdated": "2020-12-15 19:14:50 UTC"
   },
   {
     "title": "imgcook",
@@ -4837,7 +4837,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2020-12-04 10:08:23 UTC"
+    "lastUpdated": "2020-12-17 09:30:26 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -5094,7 +5094,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-12-03 21:45:19 UTC"
+    "lastUpdated": "2020-12-15 21:12:49 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6344,7 +6344,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2020-11-14 15:14:52 UTC"
+    "lastUpdated": "2020-12-19 18:28:52 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6624,7 +6624,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2020-12-10 23:01:37 UTC"
+    "lastUpdated": "2020-12-17 09:53:44 UTC"
   },
   {
     "title": "Isometry",
@@ -7064,6 +7064,7 @@
     "owner": "wuba",
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
-    "author": "huangwencun"
+    "author": "huangwencun",
+    "lastUpdated": "2020-12-17 13:17:08 UTC"
   }
 ]
