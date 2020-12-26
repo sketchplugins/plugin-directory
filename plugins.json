@@ -7066,5 +7066,14 @@
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
     "lastUpdated": "2020-12-17 13:17:08 UTC"
+  },
+  {
+    "title": "Alert Sketch Plugin",
+    "description": "Display alert message",
+    "name": "Alert-Sketch-Plugin",
+    "owner": "hosamelshazly92",
+    "appcast": "https://raw.githubusercontent.com/hosamelshazly92/Alert-Sketch-Plugin/master/.appcast.xml",
+    "homepage": "https://github.com/hosamelshazly92/Alert-Sketch-Plugin",
+    "author": "hosamelshazly92"
   }
 ]
