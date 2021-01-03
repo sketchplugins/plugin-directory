@@ -1679,7 +1679,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-12-26 12:17:46 UTC"
+    "lastUpdated": "2020-12-31 14:05:43 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2283,7 +2283,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-08-27 13:49:23 UTC"
+    "lastUpdated": "2020-12-31 14:06:20 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3154,7 +3154,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-12-24 16:08:25 UTC"
+    "lastUpdated": "2020-12-31 15:35:55 UTC"
   },
   {
     "title": "Blender",
@@ -4168,7 +4168,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-12-24 12:00:29 UTC"
+    "lastUpdated": "2020-12-30 21:16:51 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4188,7 +4188,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-12-18 09:45:20 UTC"
+    "lastUpdated": "2020-12-28 09:22:30 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -5793,7 +5793,7 @@
     "author": "Saurabh Singh",
     "owner": "srbsingh3",
     "name": "autoarrange",
-    "lastUpdated": "2020-07-08 16:49:35 UTC"
+    "lastUpdated": "2021-01-02 20:33:08 UTC"
   },
   {
     "title": "represent.",
@@ -6066,7 +6066,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-12-25 16:11:55 UTC"
+    "lastUpdated": "2020-12-30 15:01:22 UTC"
   },
   {
     "title": "Cluse",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-12-23 09:10:15 UTC"
+    "lastUpdated": "2020-12-30 07:36:42 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6773,7 +6773,7 @@
     "appcast": "https://raw.githubusercontent.com/SpaceBank/babelfish-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/SpaceBank/babelfish-sketch-plugin",
     "author": "BilousAlexandr",
-    "lastUpdated": "2020-12-03 07:27:00 UTC"
+    "lastUpdated": "2020-12-30 12:56:12 UTC"
   },
   {
     "title": "🍳Pan",
@@ -6901,7 +6901,7 @@
     "appcast": "https://raw.githubusercontent.com/ziyafenn/sketch-json-color-palette-importer/master/.appcast.xml",
     "homepage": "https://github.com/ziyafenn/sketch-json-color-palette-importer",
     "author": "Ziya Fenn",
-    "lastUpdated": "2020-08-19 07:56:58 UTC"
+    "lastUpdated": "2020-12-28 10:33:12 UTC"
   },
   {
     "title": "smart-design-export",
