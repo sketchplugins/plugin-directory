@@ -7068,6 +7068,15 @@
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
     "lastUpdated": "2020-12-26 03:51:18 UTC"
+  },
+  {
+    "title": "import-shadows",
+    "description": "Import CSS shadows",
+    "name": "sketch-import-shadows",
+    "owner": "cozy",
+    "appcast": "https://raw.githubusercontent.com/cozy/sketch-import-shadows/master/.appcast.xml",
+    "homepage": "https://github.com/cozy/sketch-import-shadows",
+    "author": "Cozy"
   }
   },
   {
