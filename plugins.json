@@ -495,7 +495,7 @@
     "author": "AdeeApp.com",
     "homepage": "https://www.adeeapp.com/",
     "lastUpdated": "2021-01-03 00:00:00 UTC",
-    "appcast": "https://deetasker.com/adeerelease/publish/sketch/adeeapp-sketch-plugin-appcast.xml",
+    "appcast": "https://deetasker.com/adeerelease/publish/sketch/adeeapp-sketch-plugin-appcast.xml"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
