@@ -7087,7 +7087,6 @@
     "appcast": "https://raw.githubusercontent.com/cozy/sketch-import-shadows/master/.appcast.xml",
     "homepage": "https://github.com/cozy/sketch-import-shadows",
     "author": "Cozy"
-  }
   },
   {
     "title": "ColorVariablesExporter",
