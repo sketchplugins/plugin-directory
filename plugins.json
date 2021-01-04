@@ -488,6 +488,16 @@
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
+    "description": "Design for all. The most comprehensive free accessibility testing tool for inclusive design!",
+    "name": "AdeeApp-Sketch-Plugin",
+    "title": "AdeeApp Sketch Plugin",
+    "owner": "samine Hadadi",
+    "author": "AdeeApp.com",
+    "homepage": "https://www.adeeapp.com/",
+    "lastUpdated": "2021-01-03 00:00:00 UTC",
+    "appcast": "https://deetasker.com/adeerelease/publish/sketch/adeeapp-sketch-plugin-appcast.xml",
+  },
+  {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
     "title": "zeroheight",
     "author": "zeroheight",
