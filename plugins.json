@@ -1465,7 +1465,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-12-10 20:33:18 UTC"
+    "lastUpdated": "2021-01-07 16:06:50 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -1689,7 +1689,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-12-31 14:05:43 UTC"
+    "lastUpdated": "2021-01-09 12:16:44 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3164,7 +3164,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-12-31 15:35:55 UTC"
+    "lastUpdated": "2021-01-05 14:43:59 UTC"
   },
   {
     "title": "Blender",
@@ -4847,7 +4847,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2020-12-17 09:30:26 UTC"
+    "lastUpdated": "2021-01-09 16:26:06 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -5050,7 +5050,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2020-10-26 06:52:22 UTC"
+    "lastUpdated": "2021-01-05 23:02:06 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -5601,7 +5601,7 @@
     "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
     "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
     "author": "www.mupixa.com",
-    "lastUpdated": "2020-12-11 09:43:27 UTC"
+    "lastUpdated": "2021-01-05 09:19:50 UTC"
   },
   {
     "title": "Excel Content Sync",
@@ -6076,7 +6076,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2020-12-30 15:01:22 UTC"
+    "lastUpdated": "2021-01-07 18:16:56 UTC"
   },
   {
     "title": "Cluse",
@@ -7077,7 +7077,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2020-12-26 03:51:18 UTC"
+    "lastUpdated": "2021-01-08 09:48:17 UTC"
   },
   {
     "title": "import-shadows",
@@ -7086,7 +7086,8 @@
     "owner": "cozy",
     "appcast": "https://raw.githubusercontent.com/cozy/sketch-import-shadows/master/.appcast.xml",
     "homepage": "https://github.com/cozy/sketch-import-shadows",
-    "author": "Cozy"
+    "author": "Cozy",
+    "lastUpdated": "2021-01-04 10:09:16 UTC"
   },
   {
     "title": "ColorVariablesExporter",
@@ -7095,6 +7096,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/ColorVariablesExporter/main/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/ColorVariablesExporter",
-    "author": "griffin-stewie"
+    "author": "griffin-stewie",
+    "lastUpdated": "2021-01-05 14:02:45 UTC"
   }
 ]
