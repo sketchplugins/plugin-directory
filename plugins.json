@@ -748,16 +748,6 @@
     "lastUpdated": "2016-10-01 00:28:00 UTC"
   },
   {
-    "description": "Keep your Sketch files organized, batch rename layers and artboards.",
-    "name": "RenameIt",
-    "title": "Rename It",
-    "owner": "rodi01",
-    "author": "Rodrigo Soares",
-    "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
-    "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2020-05-24 09:31:03 UTC"
-  },
-  {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
     "name": "Sketch-Layer-Tools",
     "title": "Sketch Layer Tools",
