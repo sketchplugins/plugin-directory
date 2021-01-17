@@ -441,7 +441,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.reselect.co",
-    "lastUpdated": "2020-12-13 01:16:30 UTC"
+    "lastUpdated": "2021-01-10 20:42:56 UTC"
   },
   {
     "description": "Help you find out popular design systems and download official Sketch UI kit.",
@@ -755,7 +755,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2020-05-24 09:31:03 UTC"
+    "lastUpdated": "2021-01-10 22:34:49 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -952,7 +952,7 @@
     "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
-    "lastUpdated": "2020-09-06 08:59:03 UTC"
+    "lastUpdated": "2021-01-15 13:03:39 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -2833,7 +2833,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2020-12-13 01:13:00 UTC"
+    "lastUpdated": "2021-01-10 20:43:49 UTC"
   },
   {
     "title": "Diverse UI Sketch Plugin",
@@ -4188,7 +4188,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-12-24 07:14:43 UTC"
+    "lastUpdated": "2021-01-11 13:38:58 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4198,7 +4198,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-12-28 09:22:30 UTC"
+    "lastUpdated": "2021-01-11 08:09:08 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4847,7 +4847,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2021-01-09 16:26:06 UTC"
+    "lastUpdated": "2021-01-13 20:03:41 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -5367,7 +5367,7 @@
     "appcast": "https://raw.githubusercontent.com/kbirgoren/sketch-json-translator/master/appcast.xml",
     "homepage": "https://github.com/kbirgoren/sketch-json-translator",
     "author": "kbirgoren",
-    "lastUpdated": "2019-07-08 15:23:59 UTC"
+    "lastUpdated": "2021-01-16 22:53:47 UTC"
   },
   {
     "title": "Symbol Override Padding",
@@ -5958,7 +5958,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/PluginsList",
-    "lastUpdated": "2019-12-26 02:44:14 UTC"
+    "lastUpdated": "2021-01-13 22:12:24 UTC"
   },
   {
     "title": "Tin Drum",
@@ -6076,7 +6076,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-01-07 18:16:56 UTC"
+    "lastUpdated": "2021-01-15 10:05:07 UTC"
   },
   {
     "title": "Cluse",
@@ -7007,7 +7007,7 @@
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/Prism2ColorVariables/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/Prism2ColorVariables",
     "author": "griffin-stewie",
-    "lastUpdated": "2020-10-08 10:54:21 UTC"
+    "lastUpdated": "2021-01-13 22:18:53 UTC"
   },
   {
     "title": "Smart Truncate",
@@ -7097,6 +7097,6 @@
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/ColorVariablesExporter/main/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/ColorVariablesExporter",
     "author": "griffin-stewie",
-    "lastUpdated": "2021-01-05 14:02:45 UTC"
+    "lastUpdated": "2021-01-13 22:01:08 UTC"
   }
 ]
