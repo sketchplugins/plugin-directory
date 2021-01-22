@@ -7098,5 +7098,15 @@
     "homepage": "https://github.com/griffin-stewie/ColorVariablesExporter",
     "author": "griffin-stewie",
     "lastUpdated": "2021-01-13 22:01:08 UTC"
+  },
+  {
+    "title": "Crafttor",
+    "description": "Illustrations For Everyone",
+    "author": "Crafttor",
+    "homepage": "https://crafttor.com/sketch/",
+    "appcast": "https://crafttor.com/plugin/sketch/appcast.xml",
+    "owner": "Crafttor Technologies LLP",
+    "name": "Crafttor",
+    "lastUpdated": "2021-01-16 10:30:20 UTC"
   }
 ]
