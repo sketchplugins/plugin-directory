@@ -7100,12 +7100,22 @@
     "lastUpdated": "2021-01-13 22:01:08 UTC"
   },
   {
+    "title": "Crafttor",
+    "description": "Illustrations For Everyone",
+    "author": "Crafttor",
+    "homepage": "https://crafttor.com/sketch/",
+    "appcast": "https://crafttor.com/plugin/sketch/appcast.xml",
+    "owner": "Crafttor Technologies LLP",
+    "name": "Crafttor",
+    "lastUpdated": "2021-01-16 10:30:20 UTC"
+  },
+  {
     "title": "sketch-multi-lingual-plugin",
     "description": "A plugin that allowes the user to switch between languages to visualize how the webpage or app will look in the given language. The text fragments can be loaded as csv file.",
     "name": "sketch-multi-lingual-plugin",
     "owner": "GoetteSebastian",
     "appcast": "https://raw.githubusercontent.com/GoetteSebastian/sketch-multi-lingual-plugin/master/.appcast.xml",
     "homepage": "https://github.com/GoetteSebastian/sketch-multi-lingual-plugin",
-    "author": "Sebastian Götte"
-  }
+    "author": "Sebastian Götte"
+  }    
 ]
