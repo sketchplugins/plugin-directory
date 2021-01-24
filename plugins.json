@@ -232,7 +232,7 @@
     "owner": "symdesign",
     "author": "Friedrich Schultheiss",
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
-    "lastUpdated": "2019-07-26 17:07:27 UTC"
+    "lastUpdated": "2021-01-23 08:12:12 UTC"
   },
   {
     "description": "Reverse the position or depth of selected elements.",
@@ -770,7 +770,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2020-10-12 08:34:44 UTC"
+    "lastUpdated": "2021-01-23 03:11:38 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -1465,7 +1465,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2021-01-07 16:06:50 UTC"
+    "lastUpdated": "2021-01-23 16:34:24 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -2046,7 +2046,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-08-23 08:46:05 UTC"
+    "lastUpdated": "2021-01-20 10:27:28 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2631,7 +2631,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-09-02 17:24:34 UTC"
+    "lastUpdated": "2021-01-17 13:42:44 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -3133,7 +3133,7 @@
     "author": "Iconscout",
     "owner": "iconscout",
     "name": "icondrop",
-    "lastUpdated": "2020-07-29 11:01:21 UTC"
+    "lastUpdated": "2021-01-20 10:27:08 UTC"
   },
   {
     "author": "Smartling",
@@ -3164,7 +3164,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-01-05 14:43:59 UTC"
+    "lastUpdated": "2021-01-20 12:20:51 UTC"
   },
   {
     "title": "Blender",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-12-30 21:16:51 UTC"
+    "lastUpdated": "2021-01-23 21:31:40 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4711,7 +4711,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2020-12-25 02:23:00 UTC"
+    "lastUpdated": "2021-01-22 05:00:09 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5861,7 +5861,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign",
-    "lastUpdated": "2020-12-12 03:21:38 UTC"
+    "lastUpdated": "2021-01-19 09:34:25 UTC"
   },
   {
     "title": "Arrange artboards hierarchically",
@@ -5958,7 +5958,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/PluginsList",
-    "lastUpdated": "2021-01-13 22:12:24 UTC"
+    "lastUpdated": "2021-01-17 02:26:14 UTC"
   },
   {
     "title": "Tin Drum",
@@ -6076,7 +6076,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-01-15 10:05:07 UTC"
+    "lastUpdated": "2021-01-18 16:18:26 UTC"
   },
   {
     "title": "Cluse",
@@ -6911,7 +6911,7 @@
     "appcast": "https://raw.githubusercontent.com/ziyafenn/sketch-json-color-palette-importer/master/.appcast.xml",
     "homepage": "https://github.com/ziyafenn/sketch-json-color-palette-importer",
     "author": "Ziya Fenn",
-    "lastUpdated": "2020-12-28 10:33:12 UTC"
+    "lastUpdated": "2021-01-20 11:16:47 UTC"
   },
   {
     "title": "smart-design-export",
@@ -7097,7 +7097,7 @@
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/ColorVariablesExporter/main/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/ColorVariablesExporter",
     "author": "griffin-stewie",
-    "lastUpdated": "2021-01-13 22:01:08 UTC"
+    "lastUpdated": "2021-01-17 02:33:57 UTC"
   },
   {
     "title": "Crafttor",
@@ -7116,6 +7116,7 @@
     "owner": "GoetteSebastian",
     "appcast": "https://raw.githubusercontent.com/GoetteSebastian/sketch-multi-lingual-plugin/master/.appcast.xml",
     "homepage": "https://github.com/GoetteSebastian/sketch-multi-lingual-plugin",
-    "author": "Sebastian Götte"
-  }    
+    "author": "Sebastian Götte",
+    "lastUpdated": "2021-01-21 08:17:31 UTC"
+  }
 ]
