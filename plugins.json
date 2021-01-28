@@ -2030,6 +2030,15 @@
     "lastUpdated": "2018-05-26 16:17:20 UTC",
     "title": "MagicPresenter"
   },
+    {
+    "description": "Perspective transformation plugin for devices mockups",
+    "name": "MockupPlugin",
+    "title": "Mockup",
+    "owner": "ls.graphics",
+    "author": "ls.graphics",
+    "homepage": "https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch",
+    "lastUpdated": "2021-01-28 09:24:00 UTC"
+  },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
     "name": "Save-with-Frame",
