@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-12-02 17:05:27 UTC",
+    "lastUpdated": "2021-01-28 15:39:31 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1971,7 +1971,7 @@
     "title": "Sketch Pixel Cleanup",
     "author": "Stackdevelopment",
     "owner": "stackdevelopment",
-    "lastUpdated": "2018-05-26 19:59:37 UTC"
+    "lastUpdated": "2021-01-28 18:47:49 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Objective-C code from fill color of selected layers.",
@@ -4027,7 +4027,7 @@
     "appcast": "https://raw.githubusercontent.com/toyboxsystems/roller/master/.appcast.xml",
     "homepage": "https://github.com/toyboxsystems/roller",
     "author": "Jono Kolnik",
-    "lastUpdated": "2020-01-31 21:56:21 UTC"
+    "lastUpdated": "2021-01-28 21:03:50 UTC"
   },
   {
     "title": "Unsplasher",
@@ -4178,7 +4178,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-01-23 21:31:40 UTC"
+    "lastUpdated": "2021-01-30 20:24:20 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4188,7 +4188,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-01-11 13:38:58 UTC"
+    "lastUpdated": "2021-01-29 20:00:42 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4484,7 +4484,7 @@
     "owner": "paintedbicycle",
     "appcast": "https://raw.githubusercontent.com/paintedbicycle/sketch-data-faker/master/.appcast.xml",
     "homepage": "https://github.com/paintedbicycle/sketch-data-faker",
-    "lastUpdated": "2020-09-07 13:29:17 UTC"
+    "lastUpdated": "2021-01-30 17:36:54 UTC"
   },
   {
     "title": "Drafta",
@@ -4711,7 +4711,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-01-22 05:00:09 UTC"
+    "lastUpdated": "2021-01-27 06:07:04 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -6076,7 +6076,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-01-18 16:18:26 UTC"
+    "lastUpdated": "2021-01-24 10:39:38 UTC"
   },
   {
     "title": "Cluse",
@@ -6354,7 +6354,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2020-12-19 18:28:52 UTC"
+    "lastUpdated": "2021-01-26 20:37:38 UTC"
   },
   {
     "title": "Trim-Artboard",
