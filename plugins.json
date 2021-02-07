@@ -7118,5 +7118,14 @@
     "homepage": "https://github.com/GoetteSebastian/sketch-multi-lingual-plugin",
     "author": "Sebastian Götte",
     "lastUpdated": "2021-01-21 08:17:31 UTC"
+  },
+  {
+    "title": "Sort Selected Layers",
+    "description": "A handy plugin to sort layers or artboards by Y or by X position.",
+    "name": "sketch-sort-selected-layers",
+    "owner": "ludovic-loridan",
+    "appcast": "https://raw.githubusercontent.com/ludovic-loridan/sketch-sort-selected-layers/master/.appcast.xml",
+    "homepage": "https://github.com/ludovic-loridan/sketch-sort-selected-layers",
+    "author": "Ludovic Loridan"
   }
 ]
