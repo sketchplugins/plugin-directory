@@ -2030,6 +2030,15 @@
     "lastUpdated": "2018-05-26 16:17:20 UTC",
     "title": "MagicPresenter"
   },
+    {
+    "description": "Perspective transformation plugin for devices mockups",
+    "name": "MockupPlugin",
+    "title": "Mockup",
+    "owner": "ls.graphics",
+    "author": "ls.graphics",
+    "homepage": "https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch",
+    "lastUpdated": "2021-01-28 09:24:00 UTC"
+  },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
     "name": "Save-with-Frame",
@@ -7118,6 +7127,23 @@
     "homepage": "https://github.com/GoetteSebastian/sketch-multi-lingual-plugin",
     "author": "Sebastian Götte",
     "lastUpdated": "2021-01-21 08:17:31 UTC"
+  },
+  {
+    "title": "pickle",
+    "description": "Pickle lets you get quick feedback on anything you design. By integrating research early in your design process, you'll be more confident in your final designs.",
+    "name": "pickle-sketch",
+    "owner": "billychasen",
+    "appcast": "https://raw.githubusercontent.com/billychasen/pickle-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/billychasen/pickle-sketch"
+  },
+  {
+    "title": "Sketch Variables",
+    "description": "Create text variables inside sketch to use file as template",
+    "name": "sketch-variables-plugin",
+    "owner": "murilo-campaner",
+    "appcast": "https://raw.githubusercontent.com/murilo-campaner/sketch-variables-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/murilo-campaner/sketch-variables-plugin",
+    "author": "murilo_campaner"
   },
   {
     "title": "Sort Selected Layers",
