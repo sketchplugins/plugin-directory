@@ -7135,5 +7135,14 @@
     "owner": "billychasen",
     "appcast": "https://raw.githubusercontent.com/billychasen/pickle-sketch/master/.appcast.xml",
     "homepage": "https://github.com/billychasen/pickle-sketch"
+  },
+  {
+    "title": "Sketch Variables",
+    "description": "Create text variables inside sketch to use file as template",
+    "name": "sketch-variables-plugin",
+    "owner": "murilo-campaner",
+    "appcast": "https://raw.githubusercontent.com/murilo-campaner/sketch-variables-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/murilo-campaner/sketch-variables-plugin",
+    "author": "murilo_campaner"
   }
 ]
