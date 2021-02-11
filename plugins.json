@@ -7127,5 +7127,13 @@
     "homepage": "https://github.com/GoetteSebastian/sketch-multi-lingual-plugin",
     "author": "Sebastian Götte",
     "lastUpdated": "2021-01-21 08:17:31 UTC"
+  },
+  {
+    "title": "pickle",
+    "description": "",
+    "name": "pickle-sketch",
+    "owner": "billychasen",
+    "appcast": "https://raw.githubusercontent.com/billychasen/pickle-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/billychasen/pickle-sketch"
   }
 ]
