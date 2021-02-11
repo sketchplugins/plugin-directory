@@ -347,6 +347,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch To View](https://github.com/kiranpuppala/sketch-to-view), by kiranpuppala: Generate android views from sketch
 - [Sketch Topographic](https://github.com/ziven27/Sketch-topographic), by ziven27: Display Topographic Information
 - [Sketch Translation](https://github.com/hoai265/language-sketch-plugin), by Hoai Nguyen: A Sketch plugin for easy multi-language design
+- [Sketch Variables](https://github.com/murilo-campaner/sketch-variables-plugin), by murilo_campaner: Create text variables inside sketch to use file as template
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Sketch Easing Gradients](https://github.com/larsenwork/sketch-easing-gradient), by larsenwork: Supercharge your gradients in Sketch with no-linear color mix and custom color spaces
 - [Sketch Export to](https://github.com/mascardoso/sketch-export), by Marco Cardoso: Export an artboard layers to json or markdown
