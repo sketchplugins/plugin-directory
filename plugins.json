@@ -17,7 +17,7 @@
     "owner": "bvmensvoort",
     "name": "sketch-last-updated",
     "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2021-01-31 11:35:10 UTC"
+    "lastUpdated": "2021-02-11 21:00:49 UTC"
   },
   {
     "title": "XD2Sketch Converter",
@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-02-02 15:20:10 UTC",
+    "lastUpdated": "2021-02-11 16:34:50 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -2030,7 +2030,7 @@
     "lastUpdated": "2018-05-26 16:17:20 UTC",
     "title": "MagicPresenter"
   },
-    {
+  {
     "description": "Perspective transformation plugin for devices mockups",
     "name": "MockupPlugin",
     "title": "Mockup",
@@ -2988,7 +2988,7 @@
     "author": "Francis",
     "owner": "FrancisVega",
     "name": "sketch-copy-paste-layout-settings",
-    "lastUpdated": "2018-10-27 11:00:06 UTC"
+    "lastUpdated": "2021-02-13 10:55:35 UTC"
   },
   {
     "title": "Skatter",
@@ -3173,7 +3173,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-01-20 12:20:51 UTC"
+    "lastUpdated": "2021-02-07 07:01:51 UTC"
   },
   {
     "title": "Blender",
@@ -4063,7 +4063,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2021-02-03 13:12:41 UTC"
+    "lastUpdated": "2021-02-08 18:37:32 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-02-01 20:41:06 UTC"
+    "lastUpdated": "2021-02-11 12:50:52 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4710,7 +4710,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2021-02-02 19:13:57 UTC"
+    "lastUpdated": "2021-02-11 19:18:39 UTC"
   },
   {
     "title": "imgcook",
@@ -4720,7 +4720,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-02-02 14:04:26 UTC"
+    "lastUpdated": "2021-02-07 02:52:42 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -6085,7 +6085,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-02-06 17:05:26 UTC"
+    "lastUpdated": "2021-02-13 09:15:58 UTC"
   },
   {
     "title": "Cluse",
@@ -6633,7 +6633,7 @@
     "appcast": "https://raw.githubusercontent.com/chaos-machine/switch-theme/master/.appcast.xml",
     "homepage": "https://github.com/chaos-machine/switch-theme",
     "author": "Tudor Teisanu",
-    "lastUpdated": "2020-08-01 23:51:59 UTC"
+    "lastUpdated": "2021-02-12 18:55:02 UTC"
   },
   {
     "title": "Copy-Updater",
@@ -7134,7 +7134,8 @@
     "name": "pickle-sketch",
     "owner": "billychasen",
     "appcast": "https://raw.githubusercontent.com/billychasen/pickle-sketch/master/.appcast.xml",
-    "homepage": "https://github.com/billychasen/pickle-sketch"
+    "homepage": "https://github.com/billychasen/pickle-sketch",
+    "lastUpdated": "2021-01-31 22:12:14 UTC"
   },
   {
     "title": "Sketch Variables",
@@ -7143,7 +7144,8 @@
     "owner": "murilo-campaner",
     "appcast": "https://raw.githubusercontent.com/murilo-campaner/sketch-variables-plugin/master/.appcast.xml",
     "homepage": "https://github.com/murilo-campaner/sketch-variables-plugin",
-    "author": "murilo_campaner"
+    "author": "murilo_campaner",
+    "lastUpdated": "2021-02-07 05:10:50 UTC"
   },
   {
     "title": "Sort Selected Layers",
@@ -7152,6 +7154,7 @@
     "owner": "ludovic-loridan",
     "appcast": "https://raw.githubusercontent.com/ludovic-loridan/sketch-sort-selected-layers/master/.appcast.xml",
     "homepage": "https://github.com/ludovic-loridan/sketch-sort-selected-layers",
-    "author": "Ludovic Loridan"
+    "author": "Ludovic Loridan",
+    "lastUpdated": "2021-02-07 20:09:35 UTC"
   }
 ]
