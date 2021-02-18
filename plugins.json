@@ -7156,5 +7156,14 @@
     "homepage": "https://github.com/ludovic-loridan/sketch-sort-selected-layers",
     "author": "Ludovic Loridan",
     "lastUpdated": "2021-02-07 20:09:35 UTC"
+  },
+  {
+    "title": "Lokalise plugin",
+    "description": "Lokalise plugin for Sketch",
+    "name": "lokalise-sketch",
+    "owner": "lokalise",
+    "appcast": "https://raw.githubusercontent.com/lokalise/sketch-plugin/master/.appcast.xml",
+    "homepage": "https://lokalise.com",
+    "author": "Lokalise team"
   }
 ]
