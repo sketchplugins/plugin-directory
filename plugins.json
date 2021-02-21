@@ -770,7 +770,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2021-02-01 07:40:10 UTC"
+    "lastUpdated": "2021-02-17 02:24:57 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -2640,7 +2640,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2021-01-17 13:42:44 UTC"
+    "lastUpdated": "2021-02-20 11:49:14 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -3267,7 +3267,7 @@
     "author": "Myrronth",
     "owner": "Myrronth",
     "name": "symbol-and-artboard-organizer",
-    "lastUpdated": "2018-05-28 06:02:12 UTC"
+    "lastUpdated": "2021-02-16 12:57:49 UTC"
   },
   {
     "title": "Library Symbol Replacer",
@@ -3948,7 +3948,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-12-10 20:37:11 UTC"
+    "lastUpdated": "2021-02-18 19:28:04 UTC"
   },
   {
     "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-02-11 12:50:52 UTC"
+    "lastUpdated": "2021-02-17 14:04:49 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5640,7 +5640,7 @@
     "appcast": "https://raw.githubusercontent.com/funfungo/ImageCodeExporter/master/.appcast.xml",
     "homepage": "https://github.com/funfungo/ImageCodeExporter",
     "author": "funfungo",
-    "lastUpdated": "2020-07-31 05:59:36 UTC"
+    "lastUpdated": "2021-02-19 07:26:29 UTC"
   },
   {
     "title": "Sketch Ipsum",
@@ -6036,7 +6036,7 @@
     "appcast": "https://github.com/design-meets-development/design-tokens-plugin/blob/master/.appcast.xml",
     "homepage": "https://github.com/design-meets-development/design-tokens-plugin",
     "author": "Andreas Koutsoukos",
-    "lastUpdated": "2020-10-13 18:05:40 UTC"
+    "lastUpdated": "2021-02-16 13:59:48 UTC"
   },
   {
     "title": "🎨 Tieba ColorPool",
@@ -6363,7 +6363,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2021-01-26 20:37:38 UTC"
+    "lastUpdated": "2021-02-20 11:45:09 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6633,7 +6633,7 @@
     "appcast": "https://raw.githubusercontent.com/chaos-machine/switch-theme/master/.appcast.xml",
     "homepage": "https://github.com/chaos-machine/switch-theme",
     "author": "Tudor Teisanu",
-    "lastUpdated": "2021-02-12 18:55:02 UTC"
+    "lastUpdated": "2021-02-16 22:26:36 UTC"
   },
   {
     "title": "Copy-Updater",
@@ -6801,7 +6801,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan",
-    "lastUpdated": "2020-10-01 02:47:41 UTC"
+    "lastUpdated": "2021-02-15 05:03:34 UTC"
   },
   {
     "title": "gradient-matrix-generator",
@@ -7086,7 +7086,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-02-03 09:19:44 UTC"
+    "lastUpdated": "2021-02-19 09:07:20 UTC"
   },
   {
     "title": "import-shadows",
