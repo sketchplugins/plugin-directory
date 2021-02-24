@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-02-17 14:04:49 UTC"
+    "lastUpdated": "2021-02-22 20:35:49 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4710,7 +4710,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2021-02-11 19:18:39 UTC"
+    "lastUpdated": "2021-02-23 19:14:20 UTC"
   },
   {
     "title": "imgcook",
@@ -5986,7 +5986,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2020-12-11 23:32:53 UTC"
+    "lastUpdated": "2021-02-21 07:54:00 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6085,7 +6085,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-02-13 09:15:58 UTC"
+    "lastUpdated": "2021-02-24 10:05:28 UTC"
   },
   {
     "title": "Cluse",
@@ -7086,7 +7086,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-02-19 09:07:20 UTC"
+    "lastUpdated": "2021-02-22 08:37:33 UTC"
   },
   {
     "title": "import-shadows",
@@ -7173,6 +7173,7 @@
     "owner": "JasonBernert",
     "appcast": "https://raw.githubusercontent.com/JasonBernert/fake-news-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/JasonBernert/fake-news-sketchplugin",
-    "author": "The Washington Post"
+    "author": "The Washington Post",
+    "lastUpdated": "2021-02-18 22:18:03 UTC"
   }
 ]
