@@ -7175,5 +7175,12 @@
     "homepage": "https://github.com/JasonBernert/fake-news-sketchplugin",
     "author": "The Washington Post",
     "lastUpdated": "2021-02-18 22:18:03 UTC"
+  },
+  {
+    "title": "Abstract Notebooks",
+    "description": "Seamlessly share designs to your Abstract Notebooks",
+    "author": "Abstract",
+    "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
+    "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml"
   }
 ]
