@@ -7165,5 +7165,14 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/sketch-plugin/master/.appcast.xml",
     "homepage": "https://lokalise.com",
     "author": "Lokalise team"
+  },
+  {
+    "title": "Fake News",
+    "description": "Auto-populate Washington Post news content",
+    "name": "fake-news-sketchplugin",
+    "owner": "JasonBernert",
+    "appcast": "https://raw.githubusercontent.com/JasonBernert/fake-news-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/JasonBernert/fake-news-sketchplugin",
+    "author": "The Washington Post"
   }
 ]
