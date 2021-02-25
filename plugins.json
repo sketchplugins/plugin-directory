@@ -7160,10 +7160,10 @@
   {
     "title": "Lokalise plugin",
     "description": "Lokalise plugin for Sketch",
-    "name": "lokalise-sketch",
+    "name": "lokalise-sketchplugin",
     "owner": "lokalise",
-    "appcast": "https://raw.githubusercontent.com/lokalise/sketch-plugin/master/.appcast.xml",
-    "homepage": "https://lokalise.com",
+    "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
+    "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise team"
   }
 ]
