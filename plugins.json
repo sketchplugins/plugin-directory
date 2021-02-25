@@ -7178,8 +7178,10 @@
   },
   {
     "title": "Abstract Notebooks",
+    "name": "sketch-notebooks-plugin",
     "description": "Seamlessly share designs to your Abstract Notebooks",
     "author": "Abstract",
+    "owner": "goabstract",
     "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
     "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml"
   }
