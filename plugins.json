@@ -17,7 +17,7 @@
     "owner": "bvmensvoort",
     "name": "sketch-last-updated",
     "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2021-02-11 21:00:49 UTC"
+    "lastUpdated": "2021-02-24 20:14:56 UTC"
   },
   {
     "title": "XD2Sketch Converter",
@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-02-22 20:35:49 UTC"
+    "lastUpdated": "2021-02-24 17:46:09 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4710,7 +4710,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2021-02-23 19:14:20 UTC"
+    "lastUpdated": "2021-02-24 19:15:48 UTC"
   },
   {
     "title": "imgcook",
@@ -7164,7 +7164,8 @@
     "owner": "lokalise",
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
-    "author": "Lokalise team"
+    "author": "Lokalise team",
+    "lastUpdated": "2021-02-25 07:28:52 UTC"
   },
   {
     "title": "Fake News",
@@ -7183,6 +7184,7 @@
     "author": "Abstract",
     "owner": "goabstract",
     "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
-    "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml"
+    "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml",
+    "lastUpdated": "2021-02-24 19:31:16 UTC"
   }
 ]
