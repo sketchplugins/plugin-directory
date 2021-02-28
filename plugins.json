@@ -1364,7 +1364,7 @@
     "title": "Use Icon Fonts in Sketch",
     "author": "Kerem Sevencan",
     "owner": "keremciu",
-    "lastUpdated": "2019-05-27 09:53:03 UTC"
+    "lastUpdated": "2021-02-26 16:46:24 UTC"
   },
   {
     "description": "Some handy tools for Sketch",
@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-02-24 17:46:09 UTC"
+    "lastUpdated": "2021-02-26 20:05:31 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6085,7 +6085,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-02-24 10:05:28 UTC"
+    "lastUpdated": "2021-02-27 14:22:05 UTC"
   },
   {
     "title": "Cluse",
