@@ -7186,5 +7186,14 @@
     "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
     "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml",
     "lastUpdated": "2021-02-24 19:31:16 UTC"
+  },
+  {
+    "title": "sketch-kodika-plugin",
+    "description": "",
+    "name": "kodika-import-from-sketch-plugin",
+    "owner": "kodika",
+    "appcast": "https://raw.githubusercontent.com/kodika/kodika-import-from-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/kodika/kodika-import-from-sketch-plugin",
+    "author": "Kodika Team"
   }
 ]
