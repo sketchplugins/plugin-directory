@@ -7195,5 +7195,14 @@
     "appcast": "https://raw.githubusercontent.com/keremciu/sketch-iconfont-web/master/.appcast.xml",
     "homepage": "https://github.com/keremciu/sketch-iconfont-web",
     "author": "Kerem Sevencan"
+  },
+  {
+    "title": "sketch-kodika-plugin",
+    "description": "Export your designs to Kodika.io No Code App Builder and create your iOS apps with Drag and Drop!",
+    "name": "kodika-import-from-sketch-plugin",
+    "owner": "kodika",
+    "appcast": "https://raw.githubusercontent.com/kodika/kodika-import-from-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/kodika/kodika-import-from-sketch-plugin",
+    "author": "Kodika Team"
   }
 ]
