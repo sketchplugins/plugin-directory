@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-02-11 16:34:50 UTC",
+    "lastUpdated": "2021-03-04 17:43:42 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1162,7 +1162,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2020-12-03 21:35:22 UTC"
+    "lastUpdated": "2021-03-02 21:09:04 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1689,7 +1689,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-01-09 12:16:44 UTC"
+    "lastUpdated": "2021-03-05 12:38:28 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3278,10 +3278,10 @@
     "lastUpdated": "2018-05-15 09:35:05 UTC"
   },
   {
-    "title": "Abstract",
-    "description": "Abstract is a file management and version control tool for Sketch files",
+    "title": "Abstract Versions",
+    "description": "Abstract Versions is a file management and version control tool for Sketch files",
     "author": "Abstract",
-    "homepage": "https://abstract.com",
+    "homepage": "https://abstract.com/versions",
     "lastUpdated": "2020-06-16 00:00:00 UTC"
   },
   {
@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-02-26 20:05:31 UTC"
+    "lastUpdated": "2021-03-05 17:28:36 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4197,7 +4197,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-02-02 21:00:33 UTC"
+    "lastUpdated": "2021-03-03 16:44:24 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4750,7 +4750,7 @@
     "appcast": "https://raw.githubusercontent.com/BaguetteEngineering/annotations-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/BaguetteEngineering/annotations-sketch-plugin",
     "author": "Baguette Engineering",
-    "lastUpdated": "2020-09-07 18:22:53 UTC"
+    "lastUpdated": "2021-03-02 11:13:22 UTC"
   },
   {
     "title": "Composite SVG",
@@ -5113,7 +5113,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2020-12-15 21:12:49 UTC"
+    "lastUpdated": "2021-03-01 21:23:17 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5986,7 +5986,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-02-21 07:54:00 UTC"
+    "lastUpdated": "2021-03-03 10:01:09 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6085,7 +6085,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-02-27 14:22:05 UTC"
+    "lastUpdated": "2021-03-03 09:13:27 UTC"
   },
   {
     "title": "Cluse",
@@ -6722,7 +6722,7 @@
     "appcast": "https://raw.githubusercontent.com/keplerlab/genus/master/.appcast.xml",
     "homepage": "https://github.com/keplerlab/genus",
     "author": "Kepler Lab",
-    "lastUpdated": "2020-09-25 10:34:57 UTC"
+    "lastUpdated": "2021-03-02 08:28:18 UTC"
   },
   {
     "title": "library-inventory",
@@ -6850,7 +6850,7 @@
     "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
     "homepage": "https://github.com/proteanstudio/sketch-palette-cleanser",
     "author": "Protean Studio",
-    "lastUpdated": "2020-09-02 22:12:35 UTC"
+    "lastUpdated": "2021-03-03 09:01:52 UTC"
   },
   {
     "title": "BlobMaker",
@@ -6958,7 +6958,7 @@
     "title": "Memsource Translation Plugin",
     "author": "Memsource",
     "homepage": "https://help.memsource.com/hc/en-us/articles/360015614919",
-    "lastUpdated": "2020-11-23 10:20:34 UTC",
+    "lastUpdated": "2021-03-04 15:20:34 UTC",
     "appcast": "https://download.memsource.com/production/updates/sketch/appcast.xml"
   },
   {
@@ -7188,8 +7188,17 @@
     "lastUpdated": "2021-02-24 19:31:16 UTC"
   },
   {
+    "title": "iconfont-webview",
+    "description": "New and easy way of using Icons in Sketch",
+    "name": "sketch-iconfont-web",
+    "owner": "keremciu",
+    "appcast": "https://raw.githubusercontent.com/keremciu/sketch-iconfont-web/master/.appcast.xml",
+    "homepage": "https://github.com/keremciu/sketch-iconfont-web",
+    "author": "Kerem Sevencan"
+  },
+  {
     "title": "sketch-kodika-plugin",
-    "description": "",
+    "description": "Export your designs to Kodika.io No Code App Builder and create your iOS apps with Drag and Drop!",
     "name": "kodika-import-from-sketch-plugin",
     "owner": "kodika",
     "appcast": "https://raw.githubusercontent.com/kodika/kodika-import-from-sketch-plugin/master/.appcast.xml",
