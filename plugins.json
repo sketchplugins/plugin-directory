@@ -7186,5 +7186,14 @@
     "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
     "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml",
     "lastUpdated": "2021-02-24 19:31:16 UTC"
+  },
+  {
+    "title": "iconfont-webview",
+    "description": "New and easy way of using Icons in Sketch",
+    "name": "sketch-iconfont-web",
+    "owner": "keremciu",
+    "appcast": "https://raw.githubusercontent.com/keremciu/sketch-iconfont-web/master/.appcast.xml",
+    "homepage": "https://github.com/keremciu/sketch-iconfont-web",
+    "author": "Kerem Sevencan"
   }
 ]
