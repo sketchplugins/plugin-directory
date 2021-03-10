@@ -80,7 +80,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2020-12-11 20:26:09 UTC"
+    "lastUpdated": "2021-03-09 17:26:15 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -141,7 +141,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2020-09-07 16:43:45 UTC"
+    "lastUpdated": "2021-03-08 23:36:40 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -1386,7 +1386,7 @@
     "title": "Logo Fetcher",
     "author": "Tobi Kremer",
     "owner": "soulchild",
-    "lastUpdated": "2020-09-03 12:18:17 UTC"
+    "lastUpdated": "2021-03-08 21:14:43 UTC"
   },
   {
     "description": "Sketch plugin to count number of characters in a text layer",
@@ -1787,7 +1787,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2020-07-29 20:55:29 UTC"
+    "lastUpdated": "2021-03-09 08:09:32 UTC"
   },
   {
     "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
@@ -2055,7 +2055,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2021-01-20 10:27:28 UTC"
+    "lastUpdated": "2021-03-08 18:05:14 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -3118,7 +3118,7 @@
     "author": "Siddhartha Gudipati",
     "owner": "websiddu",
     "name": "sketch-material",
-    "lastUpdated": "2020-12-11 03:28:52 UTC"
+    "lastUpdated": "2021-03-09 01:51:55 UTC"
   },
   {
     "title": "Sketch Number Artboards",
@@ -3173,7 +3173,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-02-07 07:01:51 UTC"
+    "lastUpdated": "2021-03-10 09:29:57 UTC"
   },
   {
     "title": "Blender",
@@ -3323,7 +3323,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2020-11-12 07:57:09 UTC"
+    "lastUpdated": "2021-03-08 16:23:12 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -3388,7 +3388,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2020-09-05 19:44:30 UTC",
+    "lastUpdated": "2021-03-09 01:21:07 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -3399,7 +3399,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2020-09-06 14:29:50 UTC"
+    "lastUpdated": "2021-03-09 08:09:22 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3496,7 +3496,7 @@
     "appcast": "https://raw.githubusercontent.com/ziven27/Sketch-topographic/master/.appcast.xml",
     "homepage": "https://github.com/ziven27/Sketch-topographic",
     "author": "ziven27",
-    "lastUpdated": "2020-07-30 00:11:42 UTC"
+    "lastUpdated": "2021-03-08 18:37:24 UTC"
   },
   {
     "title": "Select Same Symbols",
@@ -3701,7 +3701,7 @@
     "appcast": "https://raw.githubusercontent.com/Coding/coding-sketch-toolkit/master/.appcast.xml",
     "homepage": "https://github.com/Coding/coding-sketch-toolkit",
     "author": "tankxu",
-    "lastUpdated": "2020-08-24 09:28:52 UTC"
+    "lastUpdated": "2021-03-10 16:05:27 UTC"
   },
   {
     "title": "Flow Exporter",
@@ -3711,7 +3711,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-10-22 15:00:33 UTC"
+    "lastUpdated": "2021-03-08 18:09:23 UTC"
   },
   {
     "title": "Plot",
@@ -3819,7 +3819,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2020-12-10 20:31:44 UTC"
+    "lastUpdated": "2021-03-08 18:38:28 UTC"
   },
   {
     "title": "Rough",
@@ -3829,7 +3829,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "author": "mathieudutour",
-    "lastUpdated": "2020-09-05 21:00:38 UTC"
+    "lastUpdated": "2021-03-09 08:08:57 UTC"
   },
   {
     "title": "polyglot",
@@ -3856,7 +3856,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
-    "lastUpdated": "2020-09-08 08:44:11 UTC"
+    "lastUpdated": "2021-03-09 00:53:39 UTC"
   },
   {
     "title": "Format Symbol Names",
@@ -3872,7 +3872,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
-    "lastUpdated": "2020-09-05 20:53:37 UTC"
+    "lastUpdated": "2021-03-08 19:18:53 UTC"
   },
   {
     "title": "Inter UI Character Spacing",
@@ -3882,7 +3882,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2020-09-05 16:50:52 UTC"
+    "lastUpdated": "2021-03-08 18:57:25 UTC"
   },
   {
     "title": "Chromata",
@@ -3930,7 +3930,7 @@
     "owner": "materik",
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "lastUpdated": "2020-07-30 01:48:44 UTC"
+    "lastUpdated": "2021-03-08 19:42:18 UTC"
   },
   {
     "title": "Photo Grid",
@@ -3938,7 +3938,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "photo-grid",
-    "lastUpdated": "2020-09-05 18:23:00 UTC"
+    "lastUpdated": "2021-03-08 19:05:11 UTC"
   },
   {
     "title": "Stickers",
@@ -3948,7 +3948,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2021-02-18 19:28:04 UTC"
+    "lastUpdated": "2021-03-08 19:11:05 UTC"
   },
   {
     "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
@@ -4002,7 +4002,7 @@
     "appcast": "https://raw.githubusercontent.com/larsenwork/sketch-easing-gradient/master/.appcast.xml",
     "homepage": "https://github.com/larsenwork/sketch-easing-gradient",
     "author": "larsenwork",
-    "lastUpdated": "2020-12-11 09:18:00 UTC"
+    "lastUpdated": "2021-03-09 08:27:17 UTC"
   },
   {
     "title": "Assistant",
@@ -4063,7 +4063,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2021-02-08 18:37:32 UTC"
+    "lastUpdated": "2021-03-08 15:51:51 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4152,7 +4152,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2020-12-11 09:36:35 UTC"
+    "lastUpdated": "2021-03-09 08:46:35 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4177,7 +4177,7 @@
     "author": "ziven27",
     "owner": "ziven27",
     "name": "Sketch-IconScope",
-    "lastUpdated": "2020-07-30 02:47:32 UTC"
+    "lastUpdated": "2021-03-09 13:06:02 UTC"
   },
   {
     "title": "Puzzle Publisher",
@@ -4187,7 +4187,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-03-05 17:28:36 UTC"
+    "lastUpdated": "2021-03-10 12:36:08 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4207,7 +4207,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2021-01-11 08:09:08 UTC"
+    "lastUpdated": "2021-03-08 20:23:32 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4255,7 +4255,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-10-05 07:28:59 UTC"
+    "lastUpdated": "2021-03-08 20:50:53 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4284,7 +4284,7 @@
     "owner": "reinvanoyen",
     "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
     "homepage": "https://github.com/reinvanoyen/typex",
-    "lastUpdated": "2020-07-30 04:26:43 UTC"
+    "lastUpdated": "2021-03-08 21:24:19 UTC"
   },
   {
     "title": "ColorSpark for Sketch",
@@ -4351,7 +4351,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington",
-    "lastUpdated": "2020-08-30 18:40:52 UTC"
+    "lastUpdated": "2021-03-08 21:31:01 UTC"
   },
   {
     "title": "Contrast",
@@ -4361,7 +4361,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-10-30 02:02:13 UTC"
+    "lastUpdated": "2021-03-08 21:49:15 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -4371,7 +4371,7 @@
     "author": "Sensive",
     "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
     "homepage": "https://sensive.co",
-    "lastUpdated": "2020-12-12 15:15:30 UTC"
+    "lastUpdated": "2021-03-08 21:42:09 UTC"
   },
   {
     "title": "Sketch Plugin Skew",
@@ -4389,7 +4389,7 @@
     "appcast": "https://raw.githubusercontent.com/YitingLiu/Elevation-Shadows/master/.appcast.xml",
     "homepage": "https://github.com/YitingLiu/Elevation-Shadows",
     "author": "Yiting Liu",
-    "lastUpdated": "2020-08-17 16:47:25 UTC"
+    "lastUpdated": "2021-03-08 21:59:12 UTC"
   },
   {
     "title": "DS Automator Sketch Plugin",
@@ -4409,7 +4409,7 @@
     "appcast": "https://raw.githubusercontent.com/lerte/sketch-qr-code/master/.appcast.xml",
     "homepage": "https://github.com/lerte/sketch-qr-code",
     "author": "Lerte Smith",
-    "lastUpdated": "2020-12-11 09:52:42 UTC"
+    "lastUpdated": "2021-03-09 09:09:51 UTC"
   },
   {
     "title": "Android Screenshot",
@@ -4464,7 +4464,7 @@
     "appcast": "https://raw.githubusercontent.com/smallmultiples/sketch-chippencharts/master/.appcast.xml",
     "homepage": "https://github.com/smallmultiples/sketch-chippencharts",
     "author": "Martin von Lupin",
-    "lastUpdated": "2020-07-30 09:17:25 UTC"
+    "lastUpdated": "2021-03-08 23:27:11 UTC"
   },
   {
     "title": "lazyboards",
@@ -4474,7 +4474,7 @@
     "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazyboards/master/.appcast.xml",
     "homepage": "https://github.com/lazybearcreations/sketch-lazyboards",
     "author": "Adam Bruzon",
-    "lastUpdated": "2020-12-10 23:41:54 UTC"
+    "lastUpdated": "2021-03-08 22:43:40 UTC"
   },
   {
     "title": "stuffing",
@@ -4484,7 +4484,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung",
-    "lastUpdated": "2020-12-21 11:53:38 UTC"
+    "lastUpdated": "2021-03-08 23:55:22 UTC"
   },
   {
     "title": "Sketch Data Faker",
@@ -4493,7 +4493,7 @@
     "owner": "paintedbicycle",
     "appcast": "https://raw.githubusercontent.com/paintedbicycle/sketch-data-faker/master/.appcast.xml",
     "homepage": "https://github.com/paintedbicycle/sketch-data-faker",
-    "lastUpdated": "2021-01-31 14:53:53 UTC"
+    "lastUpdated": "2021-03-08 23:14:22 UTC"
   },
   {
     "title": "Drafta",
@@ -4513,7 +4513,7 @@
     "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-add-trailing-space/master/.appcast.xml",
     "homepage": "https://github.com/tgfjt/sketch-add-trailing-space#readme",
     "author": "tgfjt",
-    "lastUpdated": "2020-12-12 06:58:43 UTC"
+    "lastUpdated": "2021-03-08 23:05:38 UTC"
   },
   {
     "title": "Sketch Pochette",
@@ -4624,7 +4624,7 @@
     "author": "Hirad Arshadi",
     "owner": "hiradary",
     "name": "PersianSupplier",
-    "lastUpdated": "2020-03-14 16:03:21 UTC"
+    "lastUpdated": "2021-03-09 03:19:20 UTC"
   },
   {
     "title": "Primary Sync",
@@ -4644,7 +4644,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/rename-layers-based-on-textstyle/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/rename-layers-based-on-textstyle",
     "author": "Thomas Brasington",
-    "lastUpdated": "2020-09-06 13:37:00 UTC"
+    "lastUpdated": "2021-03-08 20:55:40 UTC"
   },
   {
     "title": "Bold It",
@@ -4654,7 +4654,7 @@
     "appcast": "https://raw.githubusercontent.com/ysjn/bold-it/master/.appcast.xml",
     "homepage": "https://github.com/ysjn/bold-it",
     "author": "ysjn",
-    "lastUpdated": "2020-09-07 14:23:23 UTC"
+    "lastUpdated": "2021-03-08 23:13:26 UTC"
   },
   {
     "title": "Pointbreak",
@@ -4691,7 +4691,7 @@
     "appcast": "https://raw.githubusercontent.com/mascardoso/sketch-export/master/.appcast.xml",
     "homepage": "https://github.com/mascardoso/sketch-export",
     "author": "Marco Cardoso",
-    "lastUpdated": "2020-07-30 09:07:14 UTC"
+    "lastUpdated": "2021-03-08 23:14:35 UTC"
   },
   {
     "title": "Anto",
@@ -4720,7 +4720,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-02-07 02:52:42 UTC"
+    "lastUpdated": "2021-03-08 02:56:03 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -4750,7 +4750,7 @@
     "appcast": "https://raw.githubusercontent.com/BaguetteEngineering/annotations-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/BaguetteEngineering/annotations-sketch-plugin",
     "author": "Baguette Engineering",
-    "lastUpdated": "2021-03-02 11:13:22 UTC"
+    "lastUpdated": "2021-03-08 23:46:49 UTC"
   },
   {
     "title": "Composite SVG",
@@ -4770,7 +4770,7 @@
     "appcast": "https://raw.githubusercontent.com/SimonTakman/BillUI/master/.appcast.xml",
     "homepage": "https://github.com/SimonTakman/BillUI",
     "author": "Carl Albertsson & Simon Takman",
-    "lastUpdated": "2020-07-30 09:56:27 UTC"
+    "lastUpdated": "2021-03-09 00:00:41 UTC"
   },
   {
     "title": "2O3T Tools",
@@ -4807,7 +4807,7 @@
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/typographie-frenchy/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/typographie-frenchy",
-    "lastUpdated": "2020-09-19 23:26:05 UTC"
+    "lastUpdated": "2021-03-08 20:50:02 UTC"
   },
   {
     "title": "Sketch Git Pro",
@@ -4826,7 +4826,7 @@
     "owner": "inthepocket",
     "appcast": "https://raw.githubusercontent.com/inthepocket/hubble-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin",
-    "lastUpdated": "2020-09-05 05:11:32 UTC"
+    "lastUpdated": "2021-03-08 22:38:40 UTC"
   },
   {
     "title": "betterTypePanel",
@@ -4836,7 +4836,7 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/betterTypePanel/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/betterTypePanel",
     "author": "Kevin Gutowski",
-    "lastUpdated": "2020-09-07 21:42:04 UTC"
+    "lastUpdated": "2021-03-08 23:58:56 UTC"
   },
   {
     "title": "Datazier Lens",
@@ -4846,7 +4846,7 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez",
-    "lastUpdated": "2020-12-11 08:08:14 UTC"
+    "lastUpdated": "2021-03-09 04:38:15 UTC"
   },
   {
     "title": "Iconify",
@@ -4866,7 +4866,7 @@
     "appcast": "https://raw.githubusercontent.com/faridsabitov/Sketch-Connection-Flow-Arrows/master/.appcast.xml",
     "homepage": "https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows",
     "author": "Farid Sabitov",
-    "lastUpdated": "2020-12-11 14:08:34 UTC"
+    "lastUpdated": "2021-03-08 23:42:47 UTC"
   },
   {
     "title": "Sketch Unlock All Selected Layers",
@@ -4886,7 +4886,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-styles-hierarchy/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-styles-hierarchy",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2020-07-30 11:01:40 UTC"
+    "lastUpdated": "2021-03-09 00:47:45 UTC"
   },
   {
     "title": "Symbol Namer",
@@ -4896,7 +4896,7 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/symbol-namer/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/symbol-namer",
     "author": "Giles Perry",
-    "lastUpdated": "2020-07-30 10:44:49 UTC"
+    "lastUpdated": "2021-03-09 00:46:02 UTC"
   },
   {
     "title": "Dribbble",
@@ -4941,7 +4941,7 @@
     "appcast": "https://raw.githubusercontent.com/TheNounProject/SketchPluginReloader/master/.appcast.xml",
     "homepage": "https://github.com/TheNounProject/SketchPluginReloader",
     "author": "Wes Byrne",
-    "lastUpdated": "2020-07-30 10:45:50 UTC"
+    "lastUpdated": "2021-03-09 00:46:02 UTC"
   },
   {
     "title": "Sketch a Sketch",
@@ -4951,7 +4951,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-a-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-a-sketch",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2020-07-30 11:12:52 UTC"
+    "lastUpdated": "2021-03-09 00:51:44 UTC"
   },
   {
     "title": "IBAN Generator",
@@ -4961,7 +4961,7 @@
     "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
     "author": "idix",
-    "lastUpdated": "2020-09-04 15:50:08 UTC"
+    "lastUpdated": "2021-03-09 00:52:28 UTC"
   },
   {
     "title": "String Value Puller",
@@ -5000,7 +5000,7 @@
     "appcast": "https://raw.githubusercontent.com/madwaro/MiseEnPlace/master/.appcast.xml",
     "homepage": "https://github.com/madwaro/MiseEnPlace",
     "author": "Carlos Madrigal",
-    "lastUpdated": "2020-09-08 14:28:25 UTC"
+    "lastUpdated": "2021-03-09 00:54:07 UTC"
   },
   {
     "title": "import-colors",
@@ -5029,7 +5029,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2020-09-25 13:29:02 UTC"
+    "lastUpdated": "2021-03-08 23:59:43 UTC"
   },
   {
     "title": "labelizer",
@@ -5039,7 +5039,7 @@
     "appcast": "https://raw.githubusercontent.com/nOograss/labelizer/master/.appcast.xml",
     "homepage": "https://github.com/nOograss/labelizer",
     "author": "Maxime Peeters",
-    "lastUpdated": "2020-12-12 03:10:23 UTC"
+    "lastUpdated": "2021-03-09 01:09:58 UTC"
   },
   {
     "title": "Overrides Manager",
@@ -5132,7 +5132,7 @@
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-add-colors-to-palette/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-add-colors-to-palette",
-    "lastUpdated": "2020-07-30 13:04:02 UTC"
+    "lastUpdated": "2021-03-09 01:32:34 UTC"
   },
   {
     "title": "Flat Export",
@@ -5142,7 +5142,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2020-12-12 23:11:25 UTC"
+    "lastUpdated": "2021-03-09 01:33:43 UTC"
   },
   {
     "title": "Case Converter",
@@ -5152,7 +5152,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Case-Converter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
     "author": "Özgür Güneş",
-    "lastUpdated": "2020-10-29 19:55:53 UTC"
+    "lastUpdated": "2021-03-09 01:36:34 UTC"
   },
   {
     "title": "sketch-camera-hotkeys",
@@ -5202,7 +5202,7 @@
     "homepage": "https://github.com/jan-patrick/sketch_artboard-history",
     "author": "Jan Schneider",
     "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_artboard-history/master/.appcast.xml",
-    "lastUpdated": "2020-10-14 16:08:09 UTC"
+    "lastUpdated": "2021-03-09 01:58:19 UTC"
   },
   {
     "title": "jerryipsum",
@@ -5221,7 +5221,7 @@
     "owner": "norman-woz",
     "appcast": "https://raw.githubusercontent.com/norman-woz/areanow/master/.appcast.xml",
     "homepage": "https://github.com/norman-woz/areanow",
-    "lastUpdated": "2020-12-11 02:58:06 UTC"
+    "lastUpdated": "2021-03-09 01:29:33 UTC"
   },
   {
     "title": "foodreau",
@@ -5231,7 +5231,7 @@
     "appcast": "https://raw.githubusercontent.com/maxdavid/sketch-foodreau/master/.appcast.xml",
     "homepage": "https://github.com/maxdavid/sketch-foodreau",
     "author": "Max David",
-    "lastUpdated": "2020-09-11 13:19:48 UTC"
+    "lastUpdated": "2021-03-09 02:18:22 UTC"
   },
   {
     "title": "Method",
@@ -5250,7 +5250,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/install-library-bundle",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-09-06 14:55:44 UTC"
+    "lastUpdated": "2021-03-09 02:18:53 UTC"
   },
   {
     "title": "Label Layers",
@@ -5260,7 +5260,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Label_Layers",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 02:48:29 UTC"
+    "lastUpdated": "2021-03-09 02:20:46 UTC"
   },
   {
     "title": "🕵🏻‍ Find and Replace Text",
@@ -5270,7 +5270,7 @@
     "appcast": "https://raw.githubusercontent.com/chriswetterman/sketch-find-and-replace-text/master/.appcast.xml",
     "homepage": "https://github.com/chriswetterman/sketch-find-and-replace-text",
     "author": "Chris Wetterman",
-    "lastUpdated": "2020-07-30 13:51:45 UTC"
+    "lastUpdated": "2021-03-09 02:21:19 UTC"
   },
   {
     "title": "Import SVG as Artboards",
@@ -5280,7 +5280,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
     "author": "mathieudutour",
-    "lastUpdated": "2020-07-30 14:06:55 UTC"
+    "lastUpdated": "2021-03-09 08:11:14 UTC"
   },
   {
     "title": "MockingBot",
@@ -5298,7 +5298,7 @@
     "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
     "homepage": "https://github.com/themainingredient/colormate",
     "author": "The Main Ingredient",
-    "lastUpdated": "2020-12-11 04:32:51 UTC"
+    "lastUpdated": "2021-03-09 02:32:58 UTC"
   },
   {
     "title": "Prototypes Invision ↔︎ Sketch",
@@ -5308,7 +5308,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/prototypes-invision-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/prototypes-invision-sketch",
     "author": "mathieudutour",
-    "lastUpdated": "2020-07-30 13:59:57 UTC"
+    "lastUpdated": "2021-03-09 08:11:20 UTC"
   },
   {
     "title": "Align To Padding",
@@ -5318,7 +5318,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Align-to-padding",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 03:07:50 UTC"
+    "lastUpdated": "2021-03-09 02:33:24 UTC"
   },
   {
     "title": "Sequence Artboard Names",
@@ -5328,7 +5328,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/Sequence-Sketch-Artboards/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/Sequence-Sketch-Artboards",
     "author": "Thomas Brasington",
-    "lastUpdated": "2020-07-30 14:01:58 UTC"
+    "lastUpdated": "2021-03-09 02:29:29 UTC"
   },
   {
     "title": "Paddit",
@@ -5338,7 +5338,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Paddit/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Paddit",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 03:17:53 UTC"
+    "lastUpdated": "2021-03-09 02:39:16 UTC"
   },
   {
     "title": "Grid Layer",
@@ -5348,7 +5348,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Grid-Layer",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 03:18:44 UTC"
+    "lastUpdated": "2021-03-09 02:40:05 UTC"
   },
   {
     "title": "⚡️ Bolt",
@@ -5386,7 +5386,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Override-Padding/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Symbol-Override-Padding",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 03:54:30 UTC"
+    "lastUpdated": "2021-03-09 03:02:31 UTC"
   },
   {
     "title": "Remove.bg",
@@ -5396,7 +5396,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-remove-bg/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-remove-bg",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2020-09-09 12:36:28 UTC"
+    "lastUpdated": "2021-03-09 08:11:43 UTC"
   },
   {
     "title": "Set Min Max",
@@ -5406,7 +5406,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Set-Min-Max",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 03:59:12 UTC"
+    "lastUpdated": "2021-03-09 03:05:08 UTC"
   },
   {
     "title": "Library Replacer",
@@ -5416,7 +5416,7 @@
     "appcast": "https://raw.githubusercontent.com/sketch-hq/library-replacer-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/library-replacer-sketchplugin",
     "author": "Sketch",
-    "lastUpdated": "2020-09-08 17:32:35 UTC"
+    "lastUpdated": "2021-03-09 00:59:30 UTC"
   },
   {
     "title": "restore-overrides",
@@ -5464,7 +5464,7 @@
     "appcast": "https://raw.githubusercontent.com/dbilyk/QuickTextOverride/master/.appcast.xml",
     "homepage": "https://github.com/dbilyk/QuickTextOverride",
     "author": "Dmitri Bilyk",
-    "lastUpdated": "2020-09-09 16:04:40 UTC"
+    "lastUpdated": "2021-03-09 03:43:45 UTC"
   },
   {
     "title": "Rivet",
@@ -5492,7 +5492,7 @@
     "owner": "uxcourt",
     "appcast": "https://raw.githubusercontent.com/uxcourt/overlaytoggler/master/.appcast.xml",
     "homepage": "https://github.com/uxcourt/overlaytoggler",
-    "lastUpdated": "2020-09-09 14:51:36 UTC"
+    "lastUpdated": "2021-03-09 03:30:17 UTC"
   },
   {
     "title": "Create New Styles",
@@ -5502,7 +5502,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Create-New-Styles/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Create-New-Styles",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-12 06:40:59 UTC"
+    "lastUpdated": "2021-03-09 04:43:32 UTC"
   },
   {
     "title": "projecthuddle",
@@ -5512,7 +5512,7 @@
     "appcast": "https://raw.githubusercontent.com/ajgagnon/projecthuddle-sketch-sync/master/.appcast.xml",
     "homepage": "https://github.com/ajgagnon/projecthuddle-sketch-sync",
     "author": "Andre Gagnon",
-    "lastUpdated": "2020-09-11 09:53:53 UTC"
+    "lastUpdated": "2021-03-09 17:09:55 UTC"
   },
   {
     "title": "Disconnector",
@@ -5522,7 +5522,7 @@
     "appcast": "https://raw.githubusercontent.com/njcrowther/Disconnector/master/.appcast.xml",
     "homepage": "https://github.com/njcrowther/Disconnector",
     "author": "Nathan Crowther",
-    "lastUpdated": "2020-09-09 19:06:42 UTC"
+    "lastUpdated": "2021-03-09 04:49:33 UTC"
   },
   {
     "title": "BRData",
@@ -5532,7 +5532,7 @@
     "appcast": "https://raw.githubusercontent.com/jonathasbsouza/brdata/master/.appcast.xml",
     "homepage": "https://github.com/jonathasbsouza/brdata",
     "author": "Jônathas Souza",
-    "lastUpdated": "2020-08-11 15:42:12 UTC"
+    "lastUpdated": "2021-03-09 05:21:01 UTC"
   },
   {
     "title": "Symbol-Merger",
@@ -5542,7 +5542,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Merger/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Symbol-Merger",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-03 19:20:01 UTC"
+    "lastUpdated": "2021-03-09 07:41:44 UTC"
   },
   {
     "title": "Mugsy",
@@ -5552,7 +5552,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_mugsy/master/.appcast.xml",
     "homepage": "https://github.com/jan-patrick/sketch_mugsy",
     "author": "jan-patrick",
-    "lastUpdated": "2020-09-09 20:50:55 UTC"
+    "lastUpdated": "2021-03-09 07:41:58 UTC"
   },
   {
     "title": "SVG-BEM",
@@ -5561,7 +5561,7 @@
     "owner": "mLihs",
     "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
     "homepage": "https://github.com/mLihs/svg-bem",
-    "lastUpdated": "2020-07-30 17:18:59 UTC"
+    "lastUpdated": "2021-03-09 05:26:56 UTC"
   },
   {
     "title": "Symbol Browser",
@@ -5580,7 +5580,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2020-07-30 18:03:08 UTC"
+    "lastUpdated": "2021-03-09 08:05:18 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -5590,7 +5590,7 @@
     "appcast": "https://raw.githubusercontent.com/here-erhe/Design-Token-Exporter/master/.appcast.xml",
     "homepage": "https://github.com/here-erhe/Design-Token-Exporter",
     "author": "Herkko Huttunen",
-    "lastUpdated": "2020-11-19 13:07:59 UTC"
+    "lastUpdated": "2021-03-09 08:18:56 UTC"
   },
   {
     "title": "Tabula Rasa",
@@ -5610,7 +5610,7 @@
     "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
     "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
     "author": "www.mupixa.com",
-    "lastUpdated": "2021-01-05 09:19:50 UTC"
+    "lastUpdated": "2021-03-09 08:58:44 UTC"
   },
   {
     "title": "Excel Content Sync",
@@ -5640,7 +5640,7 @@
     "appcast": "https://raw.githubusercontent.com/funfungo/ImageCodeExporter/master/.appcast.xml",
     "homepage": "https://github.com/funfungo/ImageCodeExporter",
     "author": "funfungo",
-    "lastUpdated": "2021-02-19 07:26:29 UTC"
+    "lastUpdated": "2021-03-09 10:42:49 UTC"
   },
   {
     "title": "Sketch Ipsum",
@@ -5650,7 +5650,7 @@
     "appcast": "https://raw.githubusercontent.com/sketch-hq/sketch-ipsum/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/sketch-ipsum",
     "author": "Sketch",
-    "lastUpdated": "2020-09-06 14:39:57 UTC"
+    "lastUpdated": "2021-03-09 10:38:12 UTC"
   },
   {
     "title": "Keygaroo",
@@ -5668,7 +5668,7 @@
     "appcast": "https://github.com/afnizarnur/context-sketch-plugin/blob/master/.appcast.xml",
     "homepage": "https://github.com/afnizarnur/context-sketch-plugin",
     "author": "Afnizar Nur Ghifari",
-    "lastUpdated": "2020-09-11 01:49:15 UTC"
+    "lastUpdated": "2021-03-09 11:14:09 UTC"
   },
   {
     "title": "symbol-insert",
@@ -5678,7 +5678,7 @@
     "appcast": "https://raw.githubusercontent.com/lifeofmle/symbol-insert/master/.appcast.xml",
     "homepage": "https://github.com/lifeofmle/symbol-insert",
     "author": "Michael Le",
-    "lastUpdated": "2020-12-11 16:53:21 UTC"
+    "lastUpdated": "2021-03-09 11:19:32 UTC"
   },
   {
     "title": "PinIt",
@@ -5698,7 +5698,7 @@
     "appcast": "https://raw.githubusercontent.com/explorador/sketch-copy-text-only/master/.appcast.xml",
     "homepage": "https://github.com/explorador/sketch-copy-text-only",
     "author": "Cristian",
-    "lastUpdated": "2020-09-10 21:56:29 UTC"
+    "lastUpdated": "2021-03-09 11:37:02 UTC"
   },
   {
     "title": "Sketch Manager Plugin",
@@ -5716,7 +5716,7 @@
     "appcast": "https://raw.githubusercontent.com/lifeofmle/check-contrast/master/.appcast.xml",
     "homepage": "https://github.com/lifeofmle/check-contrast",
     "author": "Michael Le",
-    "lastUpdated": "2020-12-12 00:53:24 UTC"
+    "lastUpdated": "2021-03-09 12:24:29 UTC"
   },
   {
     "title": "Truncat",
@@ -5726,7 +5726,7 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Truncat/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Truncat",
     "author": "Kevin Gutowski",
-    "lastUpdated": "2020-09-10 23:27:34 UTC"
+    "lastUpdated": "2021-03-09 12:24:33 UTC"
   },
   {
     "title": "VisualEyes",
@@ -5764,7 +5764,7 @@
     "appcast": "https://raw.githubusercontent.com/StyleShare/Gretel/master/.appcast.xml",
     "homepage": "https://github.com/StyleShare/Gretel",
     "author": "Suyeol Jeon",
-    "lastUpdated": "2020-12-11 19:00:45 UTC"
+    "lastUpdated": "2021-03-09 15:37:07 UTC"
   },
   {
     "title": "Aligny",
@@ -5784,7 +5784,7 @@
     "appcast": "https://raw.githubusercontent.com/Craigtut/liveplanet-sketch-datasupplier/master/.appcast.xml",
     "homepage": "https://github.com/Craigtut/liveplanet-sketch-datasupplier",
     "author": "Craig Tuttle",
-    "lastUpdated": "2020-12-11 09:00:58 UTC"
+    "lastUpdated": "2021-03-09 08:00:12 UTC"
   },
   {
     "title": "sketch-share",
@@ -5794,7 +5794,7 @@
     "appcast": "https://raw.githubusercontent.com/robflaherty/sketch-share/master/.appcast.xml",
     "homepage": "https://github.com/robflaherty/sketch-share",
     "author": "Rob Flaherty",
-    "lastUpdated": "2020-09-11 11:30:02 UTC"
+    "lastUpdated": "2021-03-09 17:59:39 UTC"
   },
   {
     "title": "Page Export",
@@ -5822,7 +5822,7 @@
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
-    "lastUpdated": "2020-08-10 08:43:22 UTC"
+    "lastUpdated": "2021-03-09 20:56:48 UTC"
   },
   {
     "title": "Sketch Retain Text Color",
@@ -5831,7 +5831,7 @@
     "owner": "johnmcclumpha",
     "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
     "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color",
-    "lastUpdated": "2020-09-11 12:21:40 UTC"
+    "lastUpdated": "2021-03-09 18:20:21 UTC"
   },
   {
     "title": "img-pal-gen",
@@ -5860,7 +5860,7 @@
     "author": "Miguel Angel Narvaez",
     "appcast": "https://raw.githubusercontent.com/miguelangelnarvaezgo/symbol-master-renamer/master/.appcast.xml",
     "homepage": "https://github.com/miguelangelnarvaezgo/symbol-master-renamer",
-    "lastUpdated": "2020-09-11 12:15:59 UTC"
+    "lastUpdated": "2021-03-09 18:18:44 UTC"
   },
   {
     "title": "Sketch Styler",
@@ -5870,7 +5870,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign",
-    "lastUpdated": "2021-01-19 09:34:25 UTC"
+    "lastUpdated": "2021-03-09 18:36:39 UTC"
   },
   {
     "title": "Arrange artboards hierarchically",
@@ -5900,7 +5900,7 @@
     "author": "Eunice J. Son",
     "homepage": "https://github.com/eunicejson/organizeLayers",
     "appcast": "https://github.com/eunicejson/organizeLayers/blob/master/.appcast.xml",
-    "lastUpdated": "2020-12-11 16:41:55 UTC"
+    "lastUpdated": "2021-03-09 12:22:28 UTC"
   },
   {
     "title": "MarginSymbols",
@@ -5909,7 +5909,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/MarginSymbols/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/MarginSymbols",
-    "lastUpdated": "2020-09-12 02:29:26 UTC"
+    "lastUpdated": "2021-03-09 20:13:25 UTC"
   },
   {
     "title": "FS_StockSummaryFiller",
@@ -5919,7 +5919,7 @@
     "appcast": "https://raw.githubusercontent.com/freeman990/FS_StockInfoFiller/master/.appcast.xml",
     "homepage": "https://github.com/freeman990/FS_StockInfoFiller",
     "author": "Freeman Sun",
-    "lastUpdated": "2020-09-11 15:46:43 UTC"
+    "lastUpdated": "2021-03-09 19:52:12 UTC"
   },
   {
     "title": "Awesome Ipsums",
@@ -5929,7 +5929,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2020-09-11 12:18:32 UTC"
+    "lastUpdated": "2021-03-09 18:20:51 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -5939,7 +5939,7 @@
     "appcast": "https://raw.githubusercontent.com/pexels/pexels-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/pexels/pexels-sketchplugin",
     "author": "Pexels",
-    "lastUpdated": "2020-09-06 14:37:24 UTC"
+    "lastUpdated": "2021-03-09 19:44:43 UTC"
   },
   {
     "title": "Orbison",
@@ -5948,7 +5948,7 @@
     "owner": "ilikescience",
     "appcast": "https://raw.githubusercontent.com/ilikescience/orbison/master/.appcast.xml",
     "homepage": "https://github.com/ilikescience/orbison",
-    "lastUpdated": "2020-07-31 21:02:39 UTC"
+    "lastUpdated": "2021-03-09 18:41:16 UTC"
   },
   {
     "title": "Sketch Chat",
@@ -5958,7 +5958,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-chat",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2020-12-11 23:13:32 UTC"
+    "lastUpdated": "2021-03-10 09:57:29 UTC"
   },
   {
     "title": "Plugin List",
@@ -5986,7 +5986,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-03-03 10:01:09 UTC"
+    "lastUpdated": "2021-03-09 20:03:51 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -5996,7 +5996,7 @@
     "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
     "homepage": "https://github.com/afifkhaidir/symbol-finder",
     "author": "afifkhaidir",
-    "lastUpdated": "2020-10-07 01:04:38 UTC"
+    "lastUpdated": "2021-03-10 02:25:07 UTC"
   },
   {
     "title": "Pixelworm",
@@ -6016,7 +6016,7 @@
     "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/.appcast.xml",
     "homepage": "https://github.com/charliecm/sketch-snap",
     "author": "Charlie Chao",
-    "lastUpdated": "2020-09-11 21:20:29 UTC"
+    "lastUpdated": "2021-03-09 22:06:14 UTC"
   },
   {
     "title": "Dad Jokes",
@@ -6026,7 +6026,7 @@
     "appcast": "https://raw.githubusercontent.com/domhabersack/sketch-dadjokes/master/.appcast.xml",
     "homepage": "https://github.com/domhabersack/sketch-dadjokes",
     "author": "Dom Habersack",
-    "lastUpdated": "2020-08-01 02:26:46 UTC"
+    "lastUpdated": "2021-03-09 22:15:24 UTC"
   },
   {
     "title": "Design Tokens",
@@ -6036,7 +6036,7 @@
     "appcast": "https://github.com/design-meets-development/design-tokens-plugin/blob/master/.appcast.xml",
     "homepage": "https://github.com/design-meets-development/design-tokens-plugin",
     "author": "Andreas Koutsoukos",
-    "lastUpdated": "2021-02-16 13:59:48 UTC"
+    "lastUpdated": "2021-03-09 22:45:52 UTC"
   },
   {
     "title": "🎨 Tieba ColorPool",
@@ -6056,7 +6056,7 @@
     "appcast": "https://raw.githubusercontent.com/hite/Sketch-Flow/master/.appcast.xml",
     "homepage": "https://github.com/hite/Sketch-Flow",
     "author": "hite",
-    "lastUpdated": "2020-09-11 22:24:53 UTC"
+    "lastUpdated": "2021-03-09 22:55:12 UTC"
   },
   {
     "title": "Metaball",
@@ -6065,7 +6065,7 @@
     "owner": "mheesakkers",
     "appcast": "https://raw.githubusercontent.com/mheesakkers/sketch-plugin-metaball/master/.appcast.xml",
     "homepage": "https://github.com/mheesakkers/sketch-plugin-metaball",
-    "lastUpdated": "2020-09-12 00:18:57 UTC"
+    "lastUpdated": "2021-03-10 00:03:42 UTC"
   },
   {
     "title": "Magic Aligner",
@@ -6085,7 +6085,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-03-03 09:13:27 UTC"
+    "lastUpdated": "2021-03-10 07:42:21 UTC"
   },
   {
     "title": "Cluse",
@@ -6122,7 +6122,7 @@
     "appcast": "https://raw.githubusercontent.com/chewbecky/tinty/master/.appcast.xml",
     "homepage": "https://github.com/chewbecky/tinty",
     "author": "chewbecca",
-    "lastUpdated": "2020-09-12 04:22:18 UTC"
+    "lastUpdated": "2021-03-10 02:57:15 UTC"
   },
   {
     "title": "🖼 unDraw.co Illustrations for Sketch",
@@ -6150,7 +6150,7 @@
     "owner": "hecflores",
     "appcast": "https://raw.githubusercontent.com/hecflores/export-king-plugin/master/.appcast.xml",
     "homepage": "https://github.com/hecflores/export-king-plugin",
-    "lastUpdated": "2020-09-12 04:49:14 UTC"
+    "lastUpdated": "2021-03-10 03:20:46 UTC"
   },
   {
     "title": "Helpify",
@@ -6160,7 +6160,7 @@
     "appcast": "https://raw.githubusercontent.com/Luckyfoxdesign/helpify/master/.appcast.xml",
     "homepage": "https://github.com/Luckyfoxdesign/helpify",
     "author": "Lucky Fox Design",
-    "lastUpdated": "2020-09-12 04:50:12 UTC"
+    "lastUpdated": "2021-03-10 03:13:50 UTC"
   },
   {
     "title": "Sketch Color Manager",
@@ -6169,7 +6169,7 @@
     "owner": "hecflores",
     "appcast": "https://raw.githubusercontent.com/hecflores/sketch-color-manager/master/.appcast.xml",
     "homepage": "https://github.com/hecflores/sketch-color-manager",
-    "lastUpdated": "2020-09-12 05:03:23 UTC"
+    "lastUpdated": "2021-03-10 03:25:48 UTC"
   },
   {
     "title": "Paste Paddings",
@@ -6179,7 +6179,7 @@
     "appcast": "https://raw.githubusercontent.com/simonlidesign/pastePaddings/master/.appcast.xml",
     "homepage": "https://github.com/simonlidesign/pastePaddings",
     "author": "simonlidesign",
-    "lastUpdated": "2020-09-12 05:06:15 UTC"
+    "lastUpdated": "2021-03-10 03:19:11 UTC"
   },
   {
     "title": "Twilio Ipsum",
@@ -6209,7 +6209,7 @@
     "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-paste-to-fill/master/.appcast.xml",
     "homepage": "https://github.com/tgfjt/sketch-paste-to-fill#readme",
     "author": "tgfjt",
-    "lastUpdated": "2020-08-14 00:59:37 UTC"
+    "lastUpdated": "2021-03-10 04:53:40 UTC"
   },
   {
     "title": "Sketch Export Preferences",
@@ -6219,7 +6219,7 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Sketch-Export-Preferences/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Sketch-Export-Preferences",
     "author": "Kevin Gutowski",
-    "lastUpdated": "2020-09-12 06:34:19 UTC"
+    "lastUpdated": "2021-03-10 04:31:19 UTC"
   },
   {
     "title": "copycat",
@@ -6249,7 +6249,7 @@
     "appcast": "https://raw.githubusercontent.com/receptiryaki/darkside/master/.appcast.xml",
     "homepage": "https://github.com/receptiryaki/darkside",
     "author": "Recep Tiryaki",
-    "lastUpdated": "2021-02-04 07:01:54 UTC"
+    "lastUpdated": "2021-03-10 05:34:47 UTC"
   },
   {
     "title": "Axure for Sketch",
@@ -6267,7 +6267,7 @@
     "appcast": "https://raw.githubusercontent.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin",
     "author": "Oliver Pitsch",
-    "lastUpdated": "2020-09-12 07:55:15 UTC"
+    "lastUpdated": "2021-03-10 05:53:16 UTC"
   },
   {
     "title": "Viewfinder Sketchplugin",
@@ -6285,7 +6285,7 @@
     "appcast": "https://raw.githubusercontent.com/xaddict/sketch-times/master/.appcast.xml",
     "homepage": "https://github.com/xaddict/sketch-times",
     "author": "Luuk Lamers",
-    "lastUpdated": "2020-08-11 13:17:23 UTC"
+    "lastUpdated": "2021-03-10 07:30:15 UTC"
   },
   {
     "title": "Efficient images export",
@@ -6305,7 +6305,7 @@
     "appcast": "https://raw.githubusercontent.com/perrysmotors/sketch-potrace/master/.appcast.xml",
     "homepage": "https://github.com/perrysmotors/sketch-potrace",
     "author": "Giles Perry",
-    "lastUpdated": "2020-09-12 09:35:00 UTC"
+    "lastUpdated": "2021-03-10 07:49:11 UTC"
   },
   {
     "title": "Attention Insight",
@@ -6325,7 +6325,7 @@
     "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
     "homepage": "https://github.com/nktx/banking-data-supplier",
     "author": "Kent Yang",
-    "lastUpdated": "2020-08-13 04:23:42 UTC"
+    "lastUpdated": "2021-03-10 08:45:44 UTC"
   },
   {
     "title": "UI House",
@@ -6353,7 +6353,7 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icanicon-live-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icanicon-live-sketch-plugin",
     "author": "Sugarcode",
-    "lastUpdated": "2020-09-12 13:47:05 UTC"
+    "lastUpdated": "2021-03-10 10:52:18 UTC"
   },
   {
     "title": "Sketch Dark Mode",
@@ -6363,7 +6363,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2021-02-20 11:45:09 UTC"
+    "lastUpdated": "2021-03-10 10:00:42 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6373,7 +6373,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Trim-Artboard/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Trim-Artboard",
     "author": "Jonathan Tran",
-    "lastUpdated": "2020-08-03 19:28:20 UTC"
+    "lastUpdated": "2021-03-10 09:57:41 UTC"
   },
   {
     "owner": "she1991",
@@ -6393,7 +6393,7 @@
     "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
     "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
     "author": "chenxsan",
-    "lastUpdated": "2020-12-12 09:40:38 UTC"
+    "lastUpdated": "2021-03-10 09:55:31 UTC"
   },
   {
     "title": "Light Switch",
@@ -6403,7 +6403,7 @@
     "appcast": "https://raw.githubusercontent.com/TheBerriman/lightswitch-sketch/master/.appcast.xml",
     "homepage": "https://github.com/TheBerriman/lightswitch-sketch",
     "author": "Samuel Berriman",
-    "lastUpdated": "2020-09-11 19:01:42 UTC"
+    "lastUpdated": "2021-03-09 21:14:54 UTC"
   },
   {
     "title": "DatesFromNow",
@@ -6413,7 +6413,7 @@
     "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
     "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
     "author": "Leon Berenschot",
-    "lastUpdated": "2020-09-12 12:14:01 UTC"
+    "lastUpdated": "2021-03-10 09:43:12 UTC"
   },
   {
     "title": "GxDesignOps",
@@ -6433,7 +6433,7 @@
     "appcast": "https://github.com/KevinGutowski/ToggleGreyscale/raw/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/ToggleGreyscale",
     "author": "Kevin Gutowski",
-    "lastUpdated": "2020-09-12 12:47:32 UTC"
+    "lastUpdated": "2021-03-10 09:58:09 UTC"
   },
   {
     "title": "sketch-webgl",
@@ -6441,7 +6441,7 @@
     "owner": "endswithak",
     "appcast": "https://raw.githubusercontent.com/endswithak/sketch-webgl/master/.appcast.xml",
     "homepage": "https://github.com/endswithak/sketch-webgl",
-    "lastUpdated": "2020-09-12 13:36:28 UTC"
+    "lastUpdated": "2021-03-10 10:45:45 UTC"
   },
   {
     "title": "Toggle Pixel Fitting",
@@ -6450,7 +6450,7 @@
     "owner": "KevinGutowski",
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/PixelFit/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/PixelFit",
-    "lastUpdated": "2020-09-12 13:33:39 UTC"
+    "lastUpdated": "2021-03-10 10:28:04 UTC"
   },
   {
     "title": "Tiled for Sketch",
@@ -6470,7 +6470,7 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/FindDirtyStyles/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/FindDirtyStyles",
     "author": "Kevin Gutowski",
-    "lastUpdated": "2020-12-12 08:50:07 UTC"
+    "lastUpdated": "2021-03-10 08:50:32 UTC"
   },
   {
     "title": "sketch-ignore",
@@ -6480,7 +6480,7 @@
     "appcast": "https://raw.githubusercontent.com/theboi/sketch-ignore/master/.appcast.xml",
     "homepage": "https://github.com/theboi/sketch-ignore",
     "author": "Ryan The",
-    "lastUpdated": "2020-11-12 03:54:30 UTC"
+    "lastUpdated": "2021-03-10 11:06:20 UTC"
   },
   {
     "title": "Unsplash",
@@ -6489,7 +6489,7 @@
     "owner": "sketch-hq",
     "homepage": "https://www.sketch.com/extensions/plugins/unsplash/",
     "author": "Sketch BV",
-    "lastUpdated": "2020-09-06 14:25:25 UTC"
+    "lastUpdated": "2021-03-08 22:01:45 UTC"
   },
   {
     "title": "Sketch Resize Symbol",
@@ -6529,7 +6529,7 @@
     "author": "Aby Nimbalkar",
     "owner": "abynim",
     "name": "lippy",
-    "lastUpdated": "2020-04-30 05:20:42 UTC"
+    "lastUpdated": "2021-03-10 02:31:56 UTC"
   },
   {
     "title": "Sketch Plugin Snap to 8pt Grid",
@@ -6537,7 +6537,7 @@
     "author": "Misha",
     "owner": "mheesakkers",
     "name": "sketch-plugin-snap-to-8pt-grid",
-    "lastUpdated": "2020-09-12 13:09:22 UTC"
+    "lastUpdated": "2021-03-10 10:18:52 UTC"
   },
   {
     "title": "Chemfill",
@@ -6547,7 +6547,7 @@
     "appcast": "https://raw.githubusercontent.com/ahadik/chemfill/master/.appcast.xml",
     "homepage": "https://github.com/ahadik/chemfill",
     "author": "Alexander Hadik",
-    "lastUpdated": "2020-12-11 02:39:09 UTC"
+    "lastUpdated": "2021-03-09 01:11:05 UTC"
   },
   {
     "title": "Swap It",
@@ -6584,7 +6584,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2020-12-30 07:36:42 UTC"
+    "lastUpdated": "2021-03-10 14:17:19 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6594,7 +6594,7 @@
     "appcast": "https://raw.githubusercontent.com/okaybueno/rename-text-layers-by-style/master/.appcast.xml",
     "homepage": "https://github.com/okaybueno/rename-text-layers-by-style",
     "author": "Alexander Gerund",
-    "lastUpdated": "2020-08-09 22:31:24 UTC"
+    "lastUpdated": "2021-03-10 15:17:32 UTC"
   },
   {
     "title": "Fill-Updater",
@@ -6604,7 +6604,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2020-11-15 23:43:54 UTC"
+    "lastUpdated": "2021-03-10 15:38:44 UTC"
   },
   {
     "title": "sketch-foundation",
@@ -6614,7 +6614,7 @@
     "appcast": "https://raw.githubusercontent.com/13protons/sketch-foundation/master/.appcast.xml",
     "homepage": "https://github.com/13protons/sketch-foundation",
     "author": "Alan Languirand",
-    "lastUpdated": "2020-08-01 22:24:26 UTC"
+    "lastUpdated": "2021-03-10 15:53:37 UTC"
   },
   {
     "title": "DarkModeSystem",
@@ -6623,7 +6623,7 @@
     "owner": "BDiogo",
     "appcast": "https://raw.githubusercontent.com/BDiogo/DarkMode-System/master/.appcast.xml",
     "homepage": "https://github.com/BDiogo/DarkMode-System",
-    "lastUpdated": "2020-09-12 17:32:48 UTC"
+    "lastUpdated": "2021-03-10 13:38:45 UTC"
   },
   {
     "title": "Light/Dark Switch",
@@ -7086,7 +7086,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-02-22 08:37:33 UTC"
+    "lastUpdated": "2021-03-10 06:53:39 UTC"
   },
   {
     "title": "import-shadows",
@@ -7194,7 +7194,8 @@
     "owner": "keremciu",
     "appcast": "https://raw.githubusercontent.com/keremciu/sketch-iconfont-web/master/.appcast.xml",
     "homepage": "https://github.com/keremciu/sketch-iconfont-web",
-    "author": "Kerem Sevencan"
+    "author": "Kerem Sevencan",
+    "lastUpdated": "2021-02-26 16:58:23 UTC"
   },
   {
     "title": "sketch-kodika-plugin",
@@ -7203,6 +7204,7 @@
     "owner": "kodika",
     "appcast": "https://raw.githubusercontent.com/kodika/kodika-import-from-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/kodika/kodika-import-from-sketch-plugin",
-    "author": "Kodika Team"
+    "author": "Kodika Team",
+    "lastUpdated": "2021-03-01 15:32:30 UTC"
   }
 ]
