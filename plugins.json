@@ -7159,12 +7159,12 @@
   },
   {
     "title": "Lokalise plugin",
-    "description": "Lokalise plugin for Sketch",
+    "description": "Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.",
     "name": "lokalise-sketchplugin",
     "owner": "lokalise",
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
-    "author": "Lokalise team",
+    "author": "Lokalise",
     "lastUpdated": "2021-02-25 07:28:52 UTC"
   },
   {
