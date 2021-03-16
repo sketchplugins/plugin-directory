@@ -7206,5 +7206,13 @@
     "homepage": "https://github.com/kodika/kodika-import-from-sketch-plugin",
     "author": "Kodika Team",
     "lastUpdated": "2021-03-01 15:32:30 UTC"
+  },
+  {
+    "title": "mesh-gradients",
+    "name": "mesh-gradients",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/mesh-gradients",
+    "author": "oodesign"
   }
 ]
