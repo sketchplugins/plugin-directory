@@ -3176,6 +3176,16 @@
     "lastUpdated": "2021-03-10 09:29:57 UTC"
   },
   {
+    "title": "Mesh gradients",
+    "description": "Create awesome mesh gradients, right inside of Sketch.",
+    "author": "oodesign",
+    "owner": "oodesign",
+    "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
+    "homepage": "https://github.com/oodesign/mesh-gradients",
+    "name": "mesh-gradients",
+    "lastUpdated": "2021-03-17 09:40:57 UTC"
+  },
+  {
     "title": "Blender",
     "description": "A sketch plugin to create awesome gradient layers",
     "author": "bunnieabc",
