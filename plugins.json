@@ -2032,12 +2032,12 @@
   },
   {
     "description": "Perspective transformation plugin for devices mockups",
-    "name": "MockupPlugin",
+    "name": "Mockup-Plugin-for-Sketch",
     "title": "Mockup",
-    "owner": "ls.graphics",
+    "owner": "ruslanlatypov",
     "author": "ls.graphics",
     "homepage": "https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch",
-    "lastUpdated": "2021-01-28 09:24:00 UTC"
+    "lastUpdated": "2021-03-18 12:33:00 UTC"
   },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
