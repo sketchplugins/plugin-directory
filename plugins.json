@@ -1689,7 +1689,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-03-05 12:38:28 UTC"
+    "lastUpdated": "2021-03-20 12:59:42 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2037,7 +2037,7 @@
     "owner": "ruslanlatypov",
     "author": "ls.graphics",
     "homepage": "https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch",
-    "lastUpdated": "2021-03-18 12:33:00 UTC"
+    "lastUpdated": "2021-03-18 12:35:43 UTC"
   },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
@@ -3183,7 +3183,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-03-17 09:40:57 UTC"
+    "lastUpdated": "2021-03-18 04:49:37 UTC"
   },
   {
     "title": "Blender",
@@ -4197,7 +4197,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-03-12 17:24:13 UTC"
+    "lastUpdated": "2021-03-19 20:14:32 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4207,7 +4207,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-03-03 16:44:24 UTC"
+    "lastUpdated": "2021-03-18 12:41:06 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5270,7 +5270,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Label_Layers",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 02:20:46 UTC"
+    "lastUpdated": "2021-03-19 14:23:21 UTC"
   },
   {
     "title": "🕵🏻‍ Find and Replace Text",
@@ -5328,7 +5328,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Align-to-padding",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 02:33:24 UTC"
+    "lastUpdated": "2021-03-19 14:28:43 UTC"
   },
   {
     "title": "Sequence Artboard Names",
@@ -5348,7 +5348,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Paddit/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Paddit",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 02:39:16 UTC"
+    "lastUpdated": "2021-03-19 14:20:24 UTC"
   },
   {
     "title": "Grid Layer",
@@ -5358,7 +5358,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Grid-Layer",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 02:40:05 UTC"
+    "lastUpdated": "2021-03-19 14:24:15 UTC"
   },
   {
     "title": "⚡️ Bolt",
@@ -5416,7 +5416,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Set-Min-Max",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 03:05:08 UTC"
+    "lastUpdated": "2021-03-19 14:20:59 UTC"
   },
   {
     "title": "Library Replacer",
@@ -5512,7 +5512,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Create-New-Styles/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Create-New-Styles",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 04:43:32 UTC"
+    "lastUpdated": "2021-03-19 14:28:03 UTC"
   },
   {
     "title": "projecthuddle",
@@ -5552,7 +5552,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Merger/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Symbol-Merger",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 07:41:44 UTC"
+    "lastUpdated": "2021-03-19 14:19:27 UTC"
   },
   {
     "title": "Mugsy",
@@ -6095,7 +6095,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-03-11 15:19:16 UTC"
+    "lastUpdated": "2021-03-17 16:58:06 UTC"
   },
   {
     "title": "Cluse",
@@ -6383,7 +6383,7 @@
     "appcast": "https://raw.githubusercontent.com/franklymrshankly/Trim-Artboard/master/.appcast.xml",
     "homepage": "https://github.com/franklymrshankly/Trim-Artboard",
     "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-10 09:57:41 UTC"
+    "lastUpdated": "2021-03-19 14:21:23 UTC"
   },
   {
     "owner": "she1991",
@@ -6594,7 +6594,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2021-03-10 14:17:19 UTC"
+    "lastUpdated": "2021-03-17 02:13:32 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6614,7 +6614,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2021-03-10 15:38:44 UTC"
+    "lastUpdated": "2021-03-17 08:04:18 UTC"
   },
   {
     "title": "sketch-foundation",
@@ -6653,7 +6653,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2021-03-10 17:42:08 UTC"
+    "lastUpdated": "2021-03-17 08:01:59 UTC"
   },
   {
     "title": "Isometry",
@@ -6860,7 +6860,7 @@
     "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
     "homepage": "https://github.com/proteanstudio/sketch-palette-cleanser",
     "author": "Protean Studio",
-    "lastUpdated": "2021-03-03 09:01:52 UTC"
+    "lastUpdated": "2021-03-17 01:14:02 UTC"
   },
   {
     "title": "BlobMaker",
