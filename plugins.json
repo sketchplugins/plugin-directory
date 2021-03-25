@@ -7216,5 +7216,14 @@
     "homepage": "https://github.com/kodika/kodika-import-from-sketch-plugin",
     "author": "Kodika Team",
     "lastUpdated": "2021-03-01 15:32:30 UTC"
+  },
+  {
+    "title": "svgToKeyshape",
+    "description": "Plugin used to convert SVG filter into CSS",
+    "name": "svgToKeyshape",
+    "owner": "CyrilSiman",
+    "appcast": "https://raw.githubusercontent.com/CyrilSiman/svgToKeyshape/master/.appcast.xml",
+    "homepage": "https://github.com/CyrilSiman/svgToKeyshape",
+    "author": "Cyril Siman"
   }
 ]
