@@ -484,7 +484,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-03-04 17:43:42 UTC",
+    "lastUpdated": "2021-03-24 18:23:39 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1002,7 +1002,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2019-07-18 13:13:46 UTC"
+    "lastUpdated": "2021-03-24 11:00:52 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -1465,7 +1465,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2021-01-23 16:34:24 UTC"
+    "lastUpdated": "2021-03-27 21:23:35 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -1923,7 +1923,7 @@
     "name": "AnimateMate",
     "owner": "Creatide",
     "author": "Sakari Niittymaa",
-    "lastUpdated": "2020-06-05 13:56:53 UTC",
+    "lastUpdated": "2021-03-21 10:54:51 UTC",
     "title": "AnimateMate"
   },
   {
@@ -3183,7 +3183,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-03-18 04:49:37 UTC"
+    "lastUpdated": "2021-03-26 14:49:13 UTC"
   },
   {
     "title": "Blender",
@@ -4197,7 +4197,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-03-19 20:14:32 UTC"
+    "lastUpdated": "2021-03-25 21:31:02 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4730,7 +4730,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-03-08 02:56:03 UTC"
+    "lastUpdated": "2021-03-24 13:19:36 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5079,7 +5079,7 @@
     "appcast": "https://raw.githubusercontent.com/jdwolk/sketch-csv-mailmerge/master/.appcast.xml",
     "homepage": "https://github.com/jdwolk/sketch-csv-mailmerge",
     "author": "JD Wolk",
-    "lastUpdated": "2019-03-06 18:55:23 UTC"
+    "lastUpdated": "2021-03-22 21:28:03 UTC"
   },
   {
     "title": "add-selected-colors",
@@ -6151,7 +6151,7 @@
     "appcast": "https://raw.githubusercontent.com/giliamverheide/sketch-inter-letter-spacing/master/.appcast.xml",
     "homepage": "https://github.com/giliamverheide/sketch-inter-letter-spacing",
     "author": "Giliam Verheide",
-    "lastUpdated": "2021-03-10 18:24:28 UTC"
+    "lastUpdated": "2021-03-25 10:45:27 UTC"
   },
   {
     "title": "Export King Plugin",
@@ -6325,7 +6325,7 @@
     "appcast": "https://raw.githubusercontent.com/attentioninsight/attention-insight-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
     "author": "Attention Insight",
-    "lastUpdated": "2020-04-27 19:25:06 UTC"
+    "lastUpdated": "2021-03-24 17:24:26 UTC"
   },
   {
     "title": "banking-data",
@@ -7096,7 +7096,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-03-10 06:53:39 UTC"
+    "lastUpdated": "2021-03-23 12:14:39 UTC"
   },
   {
     "title": "import-shadows",
@@ -7224,6 +7224,7 @@
     "owner": "CyrilSiman",
     "appcast": "https://raw.githubusercontent.com/CyrilSiman/svgToKeyshape/master/.appcast.xml",
     "homepage": "https://github.com/CyrilSiman/svgToKeyshape",
-    "author": "Cyril Siman"
+    "author": "Cyril Siman",
+    "lastUpdated": "2021-03-21 20:09:47 UTC"
   }
 ]
