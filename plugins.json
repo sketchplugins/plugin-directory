@@ -5777,16 +5777,6 @@
     "lastUpdated": "2021-03-09 15:37:07 UTC"
   },
   {
-    "title": "Aligny",
-    "description": "A alignment enhance plugin for sketch",
-    "name": "sketch-aligny",
-    "owner": "stefan0uh",
-    "appcast": "https://raw.githubusercontent.com/stefan0uh/sketch-aligny/master/.appcast.xml",
-    "homepage": "https://github.com/stefan0uh/sketch-aligny",
-    "author": "Stefan Mairbaeurl",
-    "lastUpdated": "2019-08-27 11:37:58 UTC"
-  },
-  {
     "title": "Live Planet Sketch DataSupplier",
     "description": "Supply's real data from Live Planet's API to Sketch for testing designs",
     "name": "liveplanet-sketch-datasupplier",
