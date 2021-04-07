@@ -1,5 +1,14 @@
 [
   {
+    "title": "Color Blindless",
+    "description": "Simulate design in different types of color vision deficiency",
+    "author": "Youran You",
+    "homepage": "https://github.com/doreenyou/color-blindless",
+    "appcast": "https://github.com/doreenyou/color-blindless/blob/main/.appcast.xml",
+    "name": "color-blindless",
+    "lastUpdated": "2021-04-07 11:45:14 UTC"
+  },
+  {
     "title": "Above the Fold by VisualEyes",
     "description": "Mark your designs with a layer that indicates where is the Above the Fold portion.",
     "author": "VisualEyes",
