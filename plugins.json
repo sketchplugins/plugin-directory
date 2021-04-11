@@ -109,7 +109,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-03-12 13:18:01 UTC"
+    "lastUpdated": "2021-04-07 12:17:40 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -2046,7 +2046,7 @@
     "owner": "ruslanlatypov",
     "author": "ls.graphics",
     "homepage": "https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch",
-    "lastUpdated": "2021-03-18 12:35:43 UTC"
+    "lastUpdated": "2021-04-06 09:45:28 UTC"
   },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
@@ -2064,7 +2064,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2021-03-29 17:05:07 UTC"
+    "lastUpdated": "2021-04-05 15:56:45 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -3192,7 +3192,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-03-26 14:49:13 UTC"
+    "lastUpdated": "2021-04-07 09:09:36 UTC"
   },
   {
     "title": "Blender",
@@ -3778,7 +3778,7 @@
     "appcast": "https://raw.githubusercontent.com/golmakov/sketch-hyphenator/master/.appcast.xml",
     "homepage": "https://github.com/golmakov/sketch-hyphenator",
     "author": "Aleksander Golmakov",
-    "lastUpdated": "2019-08-21 06:35:53 UTC"
+    "lastUpdated": "2021-04-05 21:13:16 UTC"
   },
   {
     "title": "Perfecto",
@@ -4206,7 +4206,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-04-02 08:33:30 UTC"
+    "lastUpdated": "2021-04-09 12:19:48 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4729,7 +4729,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2021-04-01 19:14:25 UTC"
+    "lastUpdated": "2021-04-07 19:16:39 UTC"
   },
   {
     "title": "imgcook",
@@ -5029,7 +5029,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2020-11-28 13:01:51 UTC"
+    "lastUpdated": "2021-04-10 08:27:40 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -6094,7 +6094,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-04-03 11:35:53 UTC"
+    "lastUpdated": "2021-04-05 16:48:22 UTC"
   },
   {
     "title": "Cluse",
