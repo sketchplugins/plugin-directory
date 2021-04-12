@@ -1,5 +1,14 @@
 [
   {
+    "title": "ProtoPie for Sketch",
+    "description": "Export your designs and add powerful interactions—conditional logic, text input, camera, voice, and more.",
+    "author": "ProtoPie",
+    "homepage": "https://protopie.io/sketch",
+    "appcast": "https://release.protopie.io/sketch/protopie-sketch-plugin-appcast.xml",
+    "name": "protopie-sketch-plugin",
+    "lastUpdated": "2021-04-06 21:16:52 UTC"
+  },
+  {
     "title": "Color Blindless",
     "description": "Simulate design in different types of color vision deficiency",
     "author": "Youran You",
