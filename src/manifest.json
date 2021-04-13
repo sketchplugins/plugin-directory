@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Remove Background",
+      "identifier": "sketch-slazzer.slazzer_cmd-identifier",
+      "script": "./slazzer_cmd.js"
+    },
+    {
+      "name": "Set API key",
+      "identifier": "slazzer.api-key",
+      "script": "./set-api-key.js"
+    }
+   
+  ],
+  "menu": {
+    "title": "Slazzer",
+    "items": [
+      "sketch-slazzer.slazzer_cmd-identifier",
+      "slazzer.api-key"
+    ]
+  }
+}
