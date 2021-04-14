@@ -1,0 +1,40 @@
+{
+  "name": "sketch-slazzer",
+  "description": "Slazzer sketch plugin for remove image background automatically",
+  "version": "1.0.2",
+  "engines": {
+    "sketch": ">=49.0"
+  },
+  "skpm": {
+    "name": "sketch-slazzer",
+    "manifest": "src/manifest.json",
+    "main": "sketch-slazzer.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ],
+    "sketch-assets-file": "sketch-assets/icons.sketch"
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@skpm/builder": "^0.7.0"
+  },
+  "author": "Slazzer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slazzercom/sketch-slazzer.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "image-to-base64": "^2.1.1"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  }
+}
