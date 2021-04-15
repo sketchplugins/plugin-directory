@@ -7227,8 +7227,8 @@
     "lastUpdated": "2021-03-21 20:09:47 UTC"
   },
   {
-    "title": "fixate.ai",
-    "description": "",
+    "title": "Attention prediction plugin",
+    "description": "Attention prediction - know what your users see as they view you design",
     "name": "sketch-attention-prediction-plugin",
     "owner": "fixate-ai",
     "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
