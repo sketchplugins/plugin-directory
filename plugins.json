@@ -7234,5 +7234,13 @@
     "homepage": "https://github.com/CyrilSiman/svgToKeyshape",
     "author": "Cyril Siman",
     "lastUpdated": "2021-03-21 20:09:47 UTC"
+  },
+  {
+    "title": "Attention prediction plugin",
+    "description": "Attention prediction - know what your users see as they view you design",
+    "name": "sketch-attention-prediction-plugin",
+    "owner": "fixate-ai",
+    "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin"
   }
 ]
