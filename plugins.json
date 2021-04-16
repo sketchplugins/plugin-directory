@@ -7242,5 +7242,14 @@
     "owner": "fixate-ai",
     "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
     "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin"
+  },
+  {
+    "title": "Select 'n' Slice",
+    "description": "A Sketch plugin to create a slice around anything you've selected.",
+    "name": "select-n-slice",
+    "owner": "kevintoepfer",
+    "appcast": "https://raw.githubusercontent.com/kevintoepfer/select-n-slice/master/.appcast.xml",
+    "homepage": "https://github.com/kevintoepfer/select-n-slice",
+    "author": "Kevin Töpfer"
   }
 ]
