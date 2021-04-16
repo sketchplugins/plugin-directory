@@ -9,6 +9,15 @@
     "lastUpdated": "2021-04-07 22:15:14 UTC"
   },
   {
+    "title": "ProtoPie for Sketch",
+    "description": "Export your designs and add powerful interactions—conditional logic, text input, camera, voice, and more.",
+    "author": "ProtoPie",
+    "homepage": "https://protopie.io/sketch",
+    "appcast": "https://release.protopie.io/sketch/protopie-sketch-plugin-appcast.xml",
+    "name": "protopie-sketch-plugin",
+    "lastUpdated": "2021-04-06 21:16:52 UTC"
+  },
+  {
     "title": "Color Blindless",
     "description": "Simulate design in different types of color vision deficiency",
     "author": "Youran You",
@@ -7234,5 +7243,13 @@
     "homepage": "https://github.com/CyrilSiman/svgToKeyshape",
     "author": "Cyril Siman",
     "lastUpdated": "2021-03-21 20:09:47 UTC"
+  },
+  {
+    "title": "Attention prediction plugin",
+    "description": "Attention prediction - know what your users see as they view you design",
+    "name": "sketch-attention-prediction-plugin",
+    "owner": "fixate-ai",
+    "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin"
   }
 ]
