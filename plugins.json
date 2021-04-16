@@ -1,5 +1,14 @@
 [
   {
+    "title": "Slazer Sketch",
+    "description": "Remove image background in just few seconds automatic & free",
+    "author": "slazzercom",
+    "homepage": "https://github.com/slazzercom/sketch-slazzer",
+    "appcast": "https://raw.githubusercontent.com/slazzercom/sketch-slazzer/main/.appcast.xml",
+    "name": "color-blindless",
+    "lastUpdated": "2021-04-07 22:15:14 UTC"
+  },
+  {
     "title": "Color Blindless",
     "description": "Simulate design in different types of color vision deficiency",
     "author": "Youran You",
