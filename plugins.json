@@ -1475,7 +1475,7 @@
     "title": "Find And Replace",
     "author": "Martin Steven. Maintained by Thierry Charbonnel",
     "owner": "thierryc",
-    "lastUpdated": "2020-07-16 18:29:14 UTC"
+    "lastUpdated": "2021-04-17 15:08:02 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
@@ -3201,7 +3201,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-04-07 09:09:36 UTC"
+    "lastUpdated": "2021-04-15 10:39:56 UTC"
   },
   {
     "title": "Blender",
@@ -3279,7 +3279,7 @@
     "homepage": "https://github.com/mcansh/sketch-find-all-instances-of-symbol",
     "author": "Logan McAnsh",
     "description": "Find all instances of a symbol in Sketch",
-    "lastUpdated": "2018-02-10 16:48:45 UTC"
+    "lastUpdated": "2021-04-12 06:23:59 UTC"
   },
   {
     "title": "Sketch Symbol Importer",
@@ -3505,7 +3505,7 @@
     "owner": "usagimaru",
     "name": "SketchTurbo",
     "homepage": "https://github.com/usagimaru/SketchTurbo",
-    "lastUpdated": "2018-10-05 08:13:06 UTC"
+    "lastUpdated": "2021-04-17 14:08:17 UTC"
   },
   {
     "title": "Sketch Icons",
@@ -4215,7 +4215,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-04-09 12:19:48 UTC"
+    "lastUpdated": "2021-04-16 19:53:01 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4541,7 +4541,7 @@
     "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-add-trailing-space/master/.appcast.xml",
     "homepage": "https://github.com/tgfjt/sketch-add-trailing-space#readme",
     "author": "tgfjt",
-    "lastUpdated": "2021-03-30 10:31:25 UTC"
+    "lastUpdated": "2021-04-17 07:27:19 UTC"
   },
   {
     "title": "Sketch Pochette",
@@ -4748,7 +4748,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-03-24 13:19:36 UTC"
+    "lastUpdated": "2021-04-15 08:08:31 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -6103,7 +6103,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-04-05 16:48:22 UTC"
+    "lastUpdated": "2021-04-17 06:41:45 UTC"
   },
   {
     "title": "Cluse",
@@ -6441,7 +6441,7 @@
     "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
     "homepage": "https://github.com/genexuslabs/sketchdesignops",
     "author": "Gastón Milano",
-    "lastUpdated": "2021-03-31 17:26:06 UTC"
+    "lastUpdated": "2021-04-14 21:28:52 UTC"
   },
   {
     "title": "Toggle Greyscale",
@@ -6478,7 +6478,7 @@
     "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://tiled.co/tiled-for-sketch-plugin",
     "author": "Tiled Inc.",
-    "lastUpdated": "2020-06-30 22:53:40 UTC"
+    "lastUpdated": "2021-04-13 22:39:18 UTC"
   },
   {
     "title": "Find Dirty Styles",
@@ -7104,7 +7104,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-03-23 12:14:39 UTC"
+    "lastUpdated": "2021-04-16 06:33:43 UTC"
   },
   {
     "title": "import-shadows",
@@ -7183,7 +7183,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2021-03-29 07:33:38 UTC"
+    "lastUpdated": "2021-04-14 07:21:34 UTC"
   },
   {
     "title": "Fake News",
@@ -7241,6 +7241,7 @@
     "name": "sketch-attention-prediction-plugin",
     "owner": "fixate-ai",
     "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
-    "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin"
+    "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin",
+    "lastUpdated": "2021-04-15 12:39:13 UTC"
   }
 ]
