@@ -7243,5 +7243,14 @@
     "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
     "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin",
     "lastUpdated": "2021-04-15 12:39:13 UTC"
+  },
+  {
+    "title": "mktgoo-data",
+    "description": "A data supplier plugin for copies, by marketgoo",
+    "name": "sketch-copies",
+    "owner": "marketgoo",
+    "appcast": "https://raw.githubusercontent.com/marketgoo/sketch-copies/master/.appcast.xml",
+    "homepage": "https://github.com/marketgoo/sketch-copies",
+    "author": "Oscar Otero"
   }
 ]
