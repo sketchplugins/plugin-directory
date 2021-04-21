@@ -200,6 +200,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [microwave](https://github.com/arvinxx/microwave-release), by arvinxx: 叮！你的设计已出炉~
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [Mise En Place](https://github.com/madwaro/MiseEnPlace), by Carlos Madrigal: Mise En Place is a Sketch plug-in that helps you prep before you start cooking your designs.
+- [Mktgoo Data](https://github.com/marketgoo/sketch-copies), by Oscar Otero: A data supplier plugin for copies, by marketgoo
 - [MockingBot](https://modao.cc/sketch), by MockingBot: MockingBot Sketch Plugin, Your sweet Sketch companion making your handoff process more efficient than ever
 - [Mockup](https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch), by ls.graphics: Perspective transformation plugin for devices mockups
 - [Move It](https://github.com/dawidw/move-it), by Dawid Woźniak: Sketch plugin that let's you move selected layers verticaly and horizontaly.
