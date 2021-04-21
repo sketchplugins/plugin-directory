@@ -7243,5 +7243,14 @@
     "appcast": "https://raw.githubusercontent.com/fixate-ai/sketch-attention-prediction-plugin/master/.appcast.xml",
     "homepage": "https://github.com/fixate-ai/sketch-attention-prediction-plugin",
     "lastUpdated": "2021-04-15 12:39:13 UTC"
+  },
+  {
+    "title": "HUX-SymbolTool",
+    "description": "Symbol Tools",
+    "name": "HUX-SymbolTool",
+    "owner": "jingwhale",
+    "appcast": "https://raw.githubusercontent.com/jingwhale/HUX-SymbolTool/master/.appcast.xml",
+    "homepage": "https://github.com/jingwhale/HUX-SymbolTool",
+    "author": "jingwhale"
   }
 ]
