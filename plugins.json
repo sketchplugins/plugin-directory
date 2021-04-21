@@ -7252,5 +7252,14 @@
     "appcast": "https://raw.githubusercontent.com/marketgoo/sketch-copies/master/.appcast.xml",
     "homepage": "https://github.com/marketgoo/sketch-copies",
     "author": "Oscar Otero"
+  },
+  {
+    "title": "Select 'n' Slice",
+    "description": "A Sketch plugin to create a slice around anything you've selected.",
+    "name": "select-n-slice",
+    "owner": "kevintoepfer",
+    "appcast": "https://raw.githubusercontent.com/kevintoepfer/select-n-slice/master/.appcast.xml",
+    "homepage": "https://github.com/kevintoepfer/select-n-slice",
+    "author": "Kevin Töpfer"
   }
 ]
