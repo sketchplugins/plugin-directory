@@ -1,5 +1,14 @@
 [
   {
+    "title": "Slazzer for Sketch",
+    "description": "Remove image background in just few seconds 100% automatic.",
+    "author": "Slazzer",
+    "homepage": "https://github.com/slazzercom/slazzer-sketch",
+    "appcast": "https://raw.githubusercontent.com/slazzercom/slazzer-sketch/main/.appcast.xml",
+    "name": "slazzer-sketch-plugin",
+    "lastUpdated": "2021-04-23 20:04:52 UTC"
+  },
+  {
     "title": "ProtoPie for Sketch",
     "description": "Export your designs and add powerful interactions—conditional logic, text input, camera, voice, and more.",
     "author": "ProtoPie",
