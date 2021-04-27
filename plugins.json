@@ -7263,5 +7263,15 @@
     "homepage": "https://github.com/kevintoepfer/select-n-slice",
     "author": "Kevin Töpfer",
     "lastUpdated": "2021-04-23 07:16:53 UTC"
+  },
+  {
+    "title": "Spelly",
+    "description": "Spell checker by Spelly with auto-scanner, suggestions, and other powerful features",
+    "author": "Pavlo Bielik",
+    "homepage": "https://spelly.io",
+    "owner": "Spelly Team",
+    "name": "Spelly",
+    "appcast": "https://spelly.io/plugin/appcast.xml",
+    "lastUpdated": "2021-04-26 12:33:16 UTC"
   }
 ]
