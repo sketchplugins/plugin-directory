@@ -347,6 +347,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Webgl](https://github.com/endswithak/sketch-webgl), by endswithak:
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [SketchTurbo](https://github.com/usagimaru/SketchTurbo), by Satori Maru: A plugin for Sketch that adjusts scroll speed on a canvas.
+- [Slazzer for Sketch](https://github.com/slazzercom/slazzer-sketch), by Slazzer: Remove image background in just few seconds 100% automatic.
 - [Slint](https://github.com/nusability/slint), by Johannes Nanninga: A linter for Sketch files
 - [Smart Truncate](https://github.com/ozgurgunes/Sketch-Smart-Truncate), by Ozgur Gunes: Truncates text in selected layers, symbol overrides or even all overrides of all instances of a symbol to given length.
 - [Smart Design Export](https://github.com/7revor/smart-design-export), by 7revor: transform sketch to smart-design template
@@ -356,7 +357,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sort Selected Layers](https://github.com/ludovic-loridan/sketch-sort-selected-layers), by Ludovic Loridan: A handy plugin to sort layers or artboards by Y or by X position.
 - [Specify (alpha)](https://specifyapp.com), by Specify SAS: Export styles and assets to your Specify Libraries.
 - [Spell Check Whole Page](https://github.com/Tallwave/sketch-spellcheck-all-layers), by Tallwave: A basic spellchecker that checks all layers on a page in Sketch
-- [Spelly](https://spelly.io), by Pavlo Bielik: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
+- [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
 - [Squash](https://github.com/mcansh/squash-sketchplugin), by Logan McAnsh <logan@mcan.sh> (https://mcan.sh): Export and optimize images with Realmac Squash
 - [Sr Measure](https://github.com/endswithak/sketch-measure-react), by Erik Myers: A sketch plugin to export your designs as react applications. Quickly share design specs, css, and assets.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
@@ -438,7 +439,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Spelly](https://spelly.io), by Pavlo Bielik: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
+- [Slazzer for Sketch](https://github.com/slazzercom/slazzer-sketch), by Slazzer: Remove image background in just few seconds 100% automatic.
+- [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [Sketch Styler](https://github.com/oodesign/sketch-styler), by oodesign: Assigns styles automatically to all of your unstyled layers.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
