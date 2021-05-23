@@ -259,7 +259,7 @@
     "owner": "symdesign",
     "author": "Friedrich Schultheiss",
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
-    "lastUpdated": "2021-01-23 08:12:12 UTC"
+    "lastUpdated": "2021-05-21 15:30:55 UTC"
   },
   {
     "description": "Reverse the position or depth of selected elements.",
@@ -1123,7 +1123,7 @@
     "name": "SketchDistributor",
     "author": "Peter Strömberg",
     "owner": "PEZ",
-    "lastUpdated": "2019-04-06 07:28:48 UTC",
+    "lastUpdated": "2021-05-22 07:28:09 UTC",
     "title": "SketchDistributor"
   },
   {
@@ -1189,7 +1189,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2021-05-12 06:16:03 UTC"
+    "lastUpdated": "2021-05-18 17:55:48 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -3200,7 +3200,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-05-11 08:22:41 UTC"
+    "lastUpdated": "2021-05-17 16:09:20 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -3929,7 +3929,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2020-09-22 16:28:14 UTC"
+    "lastUpdated": "2021-05-20 18:49:39 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4224,7 +4224,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-05-12 19:45:21 UTC"
+    "lastUpdated": "2021-05-18 06:37:54 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4893,7 +4893,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2021-01-13 20:03:41 UTC"
+    "lastUpdated": "2021-05-17 12:04:35 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -6112,7 +6112,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-05-11 09:20:21 UTC"
+    "lastUpdated": "2021-05-22 07:53:00 UTC"
   },
   {
     "title": "Cluse",
@@ -6670,7 +6670,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2021-05-14 22:29:28 UTC"
+    "lastUpdated": "2021-05-17 05:17:34 UTC"
   },
   {
     "title": "Isometry",
@@ -6719,7 +6719,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2021-05-11 16:30:23 UTC"
+    "lastUpdated": "2021-05-22 13:35:28 UTC"
   },
   {
     "title": "Slint",
@@ -7192,7 +7192,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2021-05-07 13:41:42 UTC"
+    "lastUpdated": "2021-05-17 06:21:22 UTC"
   },
   {
     "title": "Fake News",
@@ -7212,7 +7212,7 @@
     "owner": "goabstract",
     "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
     "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml",
-    "lastUpdated": "2021-03-30 19:23:07 UTC"
+    "lastUpdated": "2021-05-18 14:37:35 UTC"
   },
   {
     "title": "iconfont-webview",
