@@ -7282,5 +7282,14 @@
     "name": "Spelly",
     "appcast": "https://spelly.io/plugin/appcast.xml",
     "lastUpdated": "2021-04-30 19:48:17 UTC"
+  },
+  {
+    "title": "path-tools",
+    "description": "A collection of path tools for Sketch",
+    "name": "sketch-path-tools",
+    "owner": "rdunk",
+    "appcast": "https://raw.githubusercontent.com/rdunk/sketch-path-tools/master/.appcast.xml",
+    "homepage": "https://github.com/rdunk/sketch-path-tools",
+    "author": "Rupert Dunk"
   }
 ]
