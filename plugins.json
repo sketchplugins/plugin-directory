@@ -1,5 +1,14 @@
 [
   {
+    "title": "腾讯 CoDesign",
+    "description": "腾讯 CoDesign 是产品设计研发一站式协作平台，帮助团队提升设计协作效率，有效管理使用设计资产，让产品设计更轻松高效。",
+    "author": "CDC",
+    "homepage": "https://codesign.qq.com",
+    "appcast": "https://cdn.codesign.qq.com/design-sketch-plugin/appcast.xml",
+    "name": "CoDesign",
+    "lastUpdated": "2021-06-01 10:36:22 UTC"
+  },
+  {
     "title": "Slazzer for Sketch",
     "description": "Remove image background in just few seconds 100% automatic.",
     "author": "Slazzer",
