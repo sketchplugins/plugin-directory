@@ -136,7 +136,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-04-07 12:17:40 UTC"
+    "lastUpdated": "2021-06-03 09:48:16 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -1198,7 +1198,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2021-05-29 11:40:39 UTC"
+    "lastUpdated": "2021-05-31 19:36:56 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -4253,7 +4253,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2021-05-09 14:52:23 UTC"
+    "lastUpdated": "2021-06-03 13:25:43 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4301,7 +4301,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2021-05-24 20:53:11 UTC"
+    "lastUpdated": "2021-06-01 08:42:07 UTC"
   },
   {
     "title": "Better Shadow",
@@ -5188,7 +5188,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2021-05-25 00:56:12 UTC"
+    "lastUpdated": "2021-05-30 14:43:18 UTC"
   },
   {
     "title": "Case Converter",
@@ -5994,7 +5994,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-chat",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2021-05-29 17:44:21 UTC"
+    "lastUpdated": "2021-05-31 06:53:31 UTC"
   },
   {
     "title": "Plugin List",
@@ -6022,7 +6022,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-05-28 04:29:14 UTC"
+    "lastUpdated": "2021-06-05 13:45:14 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-05-22 07:53:00 UTC"
+    "lastUpdated": "2021-06-04 10:00:40 UTC"
   },
   {
     "title": "Cluse",
@@ -6459,7 +6459,7 @@
     "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
     "homepage": "https://github.com/genexuslabs/sketchdesignops",
     "author": "Gastón Milano",
-    "lastUpdated": "2021-05-27 13:35:56 UTC"
+    "lastUpdated": "2021-06-02 18:49:25 UTC"
   },
   {
     "title": "Toggle Greyscale",
@@ -6640,7 +6640,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2021-05-26 08:37:35 UTC"
+    "lastUpdated": "2021-06-05 05:49:17 UTC"
   },
   {
     "title": "sketch-foundation",
@@ -6808,7 +6808,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2021-05-26 22:18:04 UTC"
+    "lastUpdated": "2021-06-03 07:37:55 UTC"
   },
   {
     "title": "perfect-type",
@@ -7122,7 +7122,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-05-24 05:00:07 UTC"
+    "lastUpdated": "2021-06-02 09:06:54 UTC"
   },
   {
     "title": "import-shadows",
@@ -7299,6 +7299,7 @@
     "owner": "rdunk",
     "appcast": "https://raw.githubusercontent.com/rdunk/sketch-path-tools/master/.appcast.xml",
     "homepage": "https://github.com/rdunk/sketch-path-tools",
-    "author": "Rupert Dunk"
+    "author": "Rupert Dunk",
+    "lastUpdated": "2021-06-01 13:35:44 UTC"
   }
 ]
