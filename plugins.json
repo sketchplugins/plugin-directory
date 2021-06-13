@@ -1198,7 +1198,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2021-05-31 19:36:56 UTC"
+    "lastUpdated": "2021-06-10 06:28:52 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1725,7 +1725,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-05-29 13:26:38 UTC"
+    "lastUpdated": "2021-06-11 12:22:14 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1831,7 +1831,7 @@
     "title": "Segmented Circle",
     "owner": "design4use",
     "author": "German Bauer",
-    "lastUpdated": "2019-02-14 21:50:40 UTC",
+    "lastUpdated": "2021-06-09 05:25:56 UTC",
     "appcast": "https://raw.githubusercontent.com/design4use/gb-sketch-segmentcircle/master/appcast.xml",
     "homepage": "https://github.com/design4use/gb-sketch-segmentcircle"
   },
@@ -2974,7 +2974,7 @@
     "author": "Justinmind",
     "owner": "vconesa",
     "name": "justinmind-sketch",
-    "lastUpdated": "2020-06-02 03:39:02 UTC"
+    "lastUpdated": "2021-06-11 22:02:34 UTC"
   },
   {
     "owner": "mludowise",
@@ -3313,7 +3313,7 @@
     "author": "Myrronth",
     "owner": "Myrronth",
     "name": "symbol-and-artboard-organizer",
-    "lastUpdated": "2021-02-16 12:57:49 UTC"
+    "lastUpdated": "2021-06-09 12:52:31 UTC"
   },
   {
     "title": "Library Symbol Replacer",
@@ -4233,7 +4233,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-05-28 17:11:39 UTC"
+    "lastUpdated": "2021-06-11 15:44:15 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4301,7 +4301,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2021-06-01 08:42:07 UTC"
+    "lastUpdated": "2021-06-09 07:26:54 UTC"
   },
   {
     "title": "Better Shadow",
@@ -5159,7 +5159,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-05-28 22:07:41 UTC"
+    "lastUpdated": "2021-06-06 09:08:12 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5344,7 +5344,7 @@
     "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
     "homepage": "https://github.com/themainingredient/colormate",
     "author": "The Main Ingredient",
-    "lastUpdated": "2021-05-25 02:13:38 UTC"
+    "lastUpdated": "2021-06-09 13:29:22 UTC"
   },
   {
     "title": "Prototypes Invision ↔︎ Sketch",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-06-04 10:00:40 UTC"
+    "lastUpdated": "2021-06-10 19:20:35 UTC"
   },
   {
     "title": "Cluse",
@@ -6640,7 +6640,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2021-06-05 05:49:17 UTC"
+    "lastUpdated": "2021-06-08 23:15:50 UTC"
   },
   {
     "title": "sketch-foundation",
@@ -7201,7 +7201,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2021-05-17 06:21:22 UTC"
+    "lastUpdated": "2021-06-08 11:28:32 UTC"
   },
   {
     "title": "Fake News",
