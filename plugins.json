@@ -477,7 +477,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.reselect.co",
-    "lastUpdated": "2021-05-26 15:29:10 UTC"
+    "lastUpdated": "2021-06-17 07:12:53 UTC"
   },
   {
     "description": "Help you find out popular design systems and download official Sketch UI kit.",
@@ -520,7 +520,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-03-24 18:23:39 UTC",
+    "lastUpdated": "2021-06-16 16:05:45 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1198,7 +1198,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2021-06-10 06:28:52 UTC"
+    "lastUpdated": "2021-06-14 15:54:29 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1725,7 +1725,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-06-11 12:22:14 UTC"
+    "lastUpdated": "2021-06-18 13:28:50 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1823,7 +1823,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2021-05-25 07:19:31 UTC"
+    "lastUpdated": "2021-06-17 07:14:23 UTC"
   },
   {
     "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
@@ -2338,7 +2338,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-12-31 14:06:20 UTC"
+    "lastUpdated": "2021-06-18 14:21:19 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2676,7 +2676,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2021-05-26 18:24:29 UTC"
+    "lastUpdated": "2021-06-17 05:31:18 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2878,7 +2878,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2021-05-26 15:24:21 UTC"
+    "lastUpdated": "2021-06-17 07:08:20 UTC"
   },
   {
     "title": "Diverse UI Sketch Plugin",
@@ -3154,7 +3154,7 @@
     "author": "Siddhartha Gudipati",
     "owner": "websiddu",
     "name": "sketch-material",
-    "lastUpdated": "2021-05-25 01:21:03 UTC"
+    "lastUpdated": "2021-06-15 20:31:00 UTC"
   },
   {
     "title": "Sketch Number Artboards",
@@ -3352,7 +3352,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-swapper",
-    "lastUpdated": "2021-05-12 21:33:05 UTC"
+    "lastUpdated": "2021-06-18 21:35:03 UTC"
   },
   {
     "title": "Swappr",
@@ -3369,7 +3369,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2021-05-24 19:59:03 UTC"
+    "lastUpdated": "2021-06-17 05:17:28 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -4301,7 +4301,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2021-06-09 07:26:54 UTC"
+    "lastUpdated": "2021-06-15 16:31:12 UTC"
   },
   {
     "title": "Better Shadow",
@@ -5056,7 +5056,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2021-04-10 08:27:40 UTC"
+    "lastUpdated": "2021-06-16 02:52:30 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -5159,7 +5159,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-06-06 09:08:12 UTC"
+    "lastUpdated": "2021-06-17 07:15:42 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5656,7 +5656,7 @@
     "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
     "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
     "author": "www.mupixa.com",
-    "lastUpdated": "2021-05-25 08:06:24 UTC"
+    "lastUpdated": "2021-06-17 12:25:51 UTC"
   },
   {
     "title": "Excel Content Sync",
@@ -5994,7 +5994,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-chat",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2021-05-31 06:53:31 UTC"
+    "lastUpdated": "2021-06-16 13:11:12 UTC"
   },
   {
     "title": "Plugin List",
@@ -6022,7 +6022,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-06-05 13:45:14 UTC"
+    "lastUpdated": "2021-06-16 12:48:40 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6032,7 +6032,7 @@
     "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
     "homepage": "https://github.com/afifkhaidir/symbol-finder",
     "author": "afifkhaidir",
-    "lastUpdated": "2021-05-25 17:07:21 UTC"
+    "lastUpdated": "2021-06-16 11:36:50 UTC"
   },
   {
     "title": "Pixelworm",
@@ -6052,7 +6052,7 @@
     "appcast": "https://raw.githubusercontent.com/charliecm/sketch-snap/master/.appcast.xml",
     "homepage": "https://github.com/charliecm/sketch-snap",
     "author": "Charlie Chao",
-    "lastUpdated": "2021-05-25 19:27:07 UTC"
+    "lastUpdated": "2021-06-16 13:40:54 UTC"
   },
   {
     "title": "Dad Jokes",
@@ -6205,7 +6205,7 @@
     "owner": "hecflores",
     "appcast": "https://raw.githubusercontent.com/hecflores/sketch-color-manager/master/.appcast.xml",
     "homepage": "https://github.com/hecflores/sketch-color-manager",
-    "lastUpdated": "2021-05-25 23:18:40 UTC"
+    "lastUpdated": "2021-06-16 17:40:17 UTC"
   },
   {
     "title": "Paste Paddings",
@@ -6399,7 +6399,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2021-05-26 18:24:12 UTC"
+    "lastUpdated": "2021-06-16 21:47:04 UTC"
   },
   {
     "title": "Trim-Artboard",
@@ -6477,7 +6477,7 @@
     "owner": "endswithak",
     "appcast": "https://raw.githubusercontent.com/endswithak/sketch-webgl/master/.appcast.xml",
     "homepage": "https://github.com/endswithak/sketch-webgl",
-    "lastUpdated": "2021-05-26 04:00:20 UTC"
+    "lastUpdated": "2021-06-16 22:06:59 UTC"
   },
   {
     "title": "Toggle Pixel Fitting",
@@ -6640,7 +6640,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-FillUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-FillUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2021-06-08 23:15:50 UTC"
+    "lastUpdated": "2021-06-15 20:22:14 UTC"
   },
   {
     "title": "sketch-foundation",
@@ -6699,7 +6699,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sync-with-library",
     "author": "oodesign",
-    "lastUpdated": "2021-05-26 11:02:41 UTC"
+    "lastUpdated": "2021-06-17 03:45:13 UTC"
   },
   {
     "title": "Export Flat SVGs",
@@ -6728,7 +6728,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2021-05-22 13:35:28 UTC"
+    "lastUpdated": "2021-06-17 04:35:33 UTC"
   },
   {
     "title": "Slint",
@@ -6738,7 +6738,7 @@
     "appcast": "https://raw.githubusercontent.com/nusability/slint/master/.appcast.xml",
     "homepage": "https://github.com/nusability/slint",
     "author": "Johannes Nanninga",
-    "lastUpdated": "2021-05-26 12:08:50 UTC"
+    "lastUpdated": "2021-06-17 04:38:54 UTC"
   },
   {
     "title": "Detach out of sync text styles",
@@ -6778,7 +6778,7 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/colors-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live",
     "author": "Sugarcode",
-    "lastUpdated": "2021-05-26 13:15:49 UTC"
+    "lastUpdated": "2021-06-17 05:31:56 UTC"
   },
   {
     "title": "Icons → Code",
@@ -6788,7 +6788,7 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
     "author": "Sugarcode",
-    "lastUpdated": "2021-05-26 13:19:41 UTC"
+    "lastUpdated": "2021-06-17 05:34:54 UTC"
   },
   {
     "title": "wireframr",
@@ -6808,7 +6808,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2021-06-03 07:37:55 UTC"
+    "lastUpdated": "2021-06-18 02:26:59 UTC"
   },
   {
     "title": "perfect-type",
@@ -7032,7 +7032,7 @@
     "appcast": "https://raw.githubusercontent.com/sketch-hq/color-variables-migrator/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/color-variables-migrator",
     "author": "Sketch",
-    "lastUpdated": "2021-05-27 16:48:26 UTC"
+    "lastUpdated": "2021-06-17 10:59:41 UTC"
   },
   {
     "title": "Omnis Skeleton Generator",
