@@ -7301,5 +7301,15 @@
     "homepage": "https://github.com/rdunk/sketch-path-tools",
     "author": "Rupert Dunk",
     "lastUpdated": "2021-06-01 13:35:44 UTC"
-  }
+  },
+  {
+    "title": "Framer Tools",
+    "description": "Copy layers from Sketch onto the canvas in Framer",
+    "name": "framer-tools",
+    "owner": "framer",
+    "appcast": "https://updates.framer.com/sparkle/com.framer.pasteboard",
+    "homepage": "https://updates.framer.com/download-latest/com.framer.pasteboard",
+    "author": "Framer B.V.",
+    "lastUpdated": "2021-06-23 13:50:47 UTC"
+  }  
 ]
