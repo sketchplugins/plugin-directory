@@ -131,6 +131,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Fontily](https://github.com/partyka1/fontily), by partyka1: Sketch plugin for finding & replacing fonts for Sketch 3+
 - [foodreau](https://github.com/maxdavid/sketch-foodreau), by Max David: Data supplier plugin for populating designs with real food recipes.
 - [Format Symbol Names](https://github.com/perrysmotors/format-symbol-names), by Giles Perry: A Sketch plugin to nicely format the names of all artboards or symbol masters on the current page
+- [Framer Tools](https://updates.framer.com/download-latest/com.framer.pasteboard), by Framer B.V.: Copy layers from Sketch onto the canvas in Framer
 - [FreeFlow](http://free-flow.co/), by Francesco Bertocci: Speed up common tasks and boost your productivity.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
@@ -442,6 +443,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Above the Fold by Visualeyes](https://www.visualeyes.design/tools/above-the-fold), by VisualEyes: Mark your designs with a layer that indicates where is the Above the Fold portion.
 - [VisualEyes](https://github.com/loceye/sketch-visualeyes), by Loceye: Your professional AI design assistant.
+- [Framer Tools](https://updates.framer.com/download-latest/com.framer.pasteboard), by Framer B.V.: Copy layers from Sketch onto the canvas in Framer
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
