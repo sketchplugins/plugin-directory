@@ -43,7 +43,7 @@
     "appcast": "https://raw.githubusercontent.com/loceye/sketch-above-the-fold/master/.appcast.xml",
     "owner": "loceye",
     "name": "sketch-above-the-fold",
-    "lastUpdated": "2020-05-15 10:46:14 UTC"
+    "lastUpdated": "2021-06-24 07:47:05 UTC"
   },
   {
     "title": "Last-updated indicator",
@@ -1198,7 +1198,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2021-06-14 15:54:29 UTC"
+    "lastUpdated": "2021-06-22 07:45:17 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1742,7 +1742,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2020-07-15 10:31:30 UTC"
+    "lastUpdated": "2021-06-22 12:15:05 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -2338,7 +2338,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2021-06-18 14:21:19 UTC"
+    "lastUpdated": "2021-06-25 14:52:12 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3209,7 +3209,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-05-26 06:46:31 UTC"
+    "lastUpdated": "2021-06-22 14:55:57 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -4233,7 +4233,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-06-11 15:44:15 UTC"
+    "lastUpdated": "2021-06-26 19:56:55 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4243,7 +4243,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-05-11 11:44:54 UTC"
+    "lastUpdated": "2021-06-24 19:34:59 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5159,7 +5159,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-06-17 07:15:42 UTC"
+    "lastUpdated": "2021-06-24 18:58:10 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5782,7 +5782,7 @@
     "appcast": "https://raw.githubusercontent.com/loceye/sketch-visualeyes/master/.appcast.xml",
     "homepage": "https://github.com/loceye/sketch-visualeyes",
     "author": "Loceye",
-    "lastUpdated": "2020-06-04 11:20:17 UTC"
+    "lastUpdated": "2021-06-24 07:31:36 UTC"
   },
   {
     "title": "Context for Sketch",
@@ -6032,7 +6032,7 @@
     "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
     "homepage": "https://github.com/afifkhaidir/symbol-finder",
     "author": "afifkhaidir",
-    "lastUpdated": "2021-06-16 11:36:50 UTC"
+    "lastUpdated": "2021-06-26 13:56:33 UTC"
   },
   {
     "title": "Pixelworm",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-06-10 19:20:35 UTC"
+    "lastUpdated": "2021-06-25 15:53:46 UTC"
   },
   {
     "title": "Cluse",
@@ -6808,7 +6808,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2021-06-18 02:26:59 UTC"
+    "lastUpdated": "2021-06-21 07:05:15 UTC"
   },
   {
     "title": "perfect-type",
@@ -7122,7 +7122,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-06-02 09:06:54 UTC"
+    "lastUpdated": "2021-06-25 08:19:54 UTC"
   },
   {
     "title": "import-shadows",
@@ -7303,6 +7303,15 @@
     "lastUpdated": "2021-06-01 13:35:44 UTC"
   },
   {
+    "title": "export-colors",
+    "description": "Export document color components",
+    "name": "sketch-export-colors-plugin",
+    "owner": "massimo-cassandro",
+    "appcast": "https://raw.githubusercontent.com/massimo-cassandro/sketch-export-colors-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/massimo-cassandro/sketch-export-colors-plugin",
+    "author": "Massimo Cassandro"
+  },
+  {
     "title": "Framer Tools",
     "description": "Copy layers from Sketch onto the canvas in Framer",
     "name": "framer-tools",
@@ -7311,5 +7320,5 @@
     "homepage": "https://updates.framer.com/download-latest/com.framer.pasteboard",
     "author": "Framer B.V.",
     "lastUpdated": "2021-06-23 13:50:47 UTC"
-  }  
+  }
 ]
