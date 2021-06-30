@@ -7301,5 +7301,14 @@
     "homepage": "https://github.com/rdunk/sketch-path-tools",
     "author": "Rupert Dunk",
     "lastUpdated": "2021-06-01 13:35:44 UTC"
+  },
+  {
+    "title": "export-colors",
+    "description": "Export document color components",
+    "name": "sketch-export-colors-plugin",
+    "owner": "massimo-cassandro",
+    "appcast": "https://raw.githubusercontent.com/massimo-cassandro/sketch-export-colors-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/massimo-cassandro/sketch-export-colors-plugin",
+    "author": "Massimo Cassandro"
   }
 ]
