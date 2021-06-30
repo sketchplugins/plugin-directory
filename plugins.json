@@ -7310,5 +7310,15 @@
     "appcast": "https://raw.githubusercontent.com/massimo-cassandro/sketch-export-colors-plugin/master/.appcast.xml",
     "homepage": "https://github.com/massimo-cassandro/sketch-export-colors-plugin",
     "author": "Massimo Cassandro"
+  },
+  {
+    "title": "Framer Tools",
+    "description": "Copy layers from Sketch onto the canvas in Framer",
+    "name": "framer-tools",
+    "owner": "framer",
+    "appcast": "https://updates.framer.com/sparkle/com.framer.pasteboard",
+    "homepage": "https://updates.framer.com/download-latest/com.framer.pasteboard",
+    "author": "Framer B.V.",
+    "lastUpdated": "2021-06-23 13:50:47 UTC"
   }
 ]
