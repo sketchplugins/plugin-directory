@@ -311,7 +311,7 @@
     "owner": "konki-vienna",
     "author": "Konstantin Demblin",
     "homepage": "https://github.com/konki-vienna/sketch-bootstrap-helpers",
-    "lastUpdated": "2019-11-15 14:40:18 UTC"
+    "lastUpdated": "2021-07-02 11:29:41 UTC"
   },
   {
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
@@ -2274,7 +2274,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-05-11 23:58:44 UTC"
+    "lastUpdated": "2021-07-02 16:19:58 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2538,7 +2538,7 @@
     "title": "Butter",
     "owner": "pberrecloth",
     "author": "Peter Berrecloth",
-    "lastUpdated": "2019-04-03 09:28:22 UTC"
+    "lastUpdated": "2021-06-27 00:50:57 UTC"
   },
   {
     "description": "Rename all symbol instances to the name of their master.",
@@ -4233,7 +4233,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-06-26 19:56:55 UTC"
+    "lastUpdated": "2021-07-02 07:30:33 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4243,7 +4243,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-06-24 19:34:59 UTC"
+    "lastUpdated": "2021-07-01 08:10:54 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5159,7 +5159,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-06-24 18:58:10 UTC"
+    "lastUpdated": "2021-07-01 19:20:18 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5994,7 +5994,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-chat",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2021-06-16 13:11:12 UTC"
+    "lastUpdated": "2021-07-01 08:50:15 UTC"
   },
   {
     "title": "Plugin List",
@@ -6022,7 +6022,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-06-16 12:48:40 UTC"
+    "lastUpdated": "2021-06-28 19:28:49 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-06-25 15:53:46 UTC"
+    "lastUpdated": "2021-07-03 08:10:41 UTC"
   },
   {
     "title": "Cluse",
@@ -6429,7 +6429,7 @@
     "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
     "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
     "author": "chenxsan",
-    "lastUpdated": "2021-05-26 03:32:54 UTC"
+    "lastUpdated": "2021-07-03 06:26:01 UTC"
   },
   {
     "title": "Light Switch",
@@ -6728,7 +6728,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2021-06-17 04:35:33 UTC"
+    "lastUpdated": "2021-07-01 08:50:38 UTC"
   },
   {
     "title": "Slint",
@@ -7309,7 +7309,8 @@
     "owner": "massimo-cassandro",
     "appcast": "https://raw.githubusercontent.com/massimo-cassandro/sketch-export-colors-plugin/master/.appcast.xml",
     "homepage": "https://github.com/massimo-cassandro/sketch-export-colors-plugin",
-    "author": "Massimo Cassandro"
+    "author": "Massimo Cassandro",
+    "lastUpdated": "2021-06-21 15:04:23 UTC"
   },
   {
     "title": "Framer Tools",
