@@ -7321,5 +7321,14 @@
     "homepage": "https://updates.framer.com/download-latest/com.framer.pasteboard",
     "author": "Framer B.V.",
     "lastUpdated": "2021-06-23 13:50:47 UTC"
+  },
+  {
+    "title": "ghost",
+    "description": "Randomly change the opacity of selected layers",
+    "name": "ghost-sketch-plugin",
+    "owner": "tmdvs",
+    "appcast": "https://raw.githubusercontent.com/tmdvs/ghost-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/tmdvs/ghost-sketch-plugin",
+    "author": "Tim Davies"
   }
 ]
