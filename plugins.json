@@ -7321,5 +7321,14 @@
     "homepage": "https://updates.framer.com/download-latest/com.framer.pasteboard",
     "author": "Framer B.V.",
     "lastUpdated": "2021-06-23 13:50:47 UTC"
+  },
+  {
+    "title": "Phosphor Icons",
+    "description": "A flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+    "name": "phosphor-sketch",
+    "owner": "phosphor-icons",
+    "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
+    "homepage": "https://phosphoricons.com",
+    "author": "Tobias Fried"
   }
 ]
