@@ -603,7 +603,7 @@
     "title": "Click-Thru Prototype",
     "author": "Mark Horgan",
     "owner": "markhorgan",
-    "lastUpdated": "2020-09-30 19:06:03 UTC"
+    "lastUpdated": "2021-07-16 15:10:06 UTC"
   },
   {
     "description": "Responsive design inside Sketch. Design for all screen sizes on one artboard.",
@@ -2338,7 +2338,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2021-07-09 14:19:01 UTC"
+    "lastUpdated": "2021-07-16 08:43:12 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2878,7 +2878,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2021-06-17 07:08:20 UTC"
+    "lastUpdated": "2021-07-17 16:05:29 UTC"
   },
   {
     "title": "Diverse UI Sketch Plugin",
@@ -3209,7 +3209,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-06-22 14:55:57 UTC"
+    "lastUpdated": "2021-07-16 12:21:31 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -3865,7 +3865,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2021-05-24 20:28:46 UTC"
+    "lastUpdated": "2021-07-16 06:42:14 UTC"
   },
   {
     "title": "Rough",
@@ -4233,7 +4233,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-07-10 08:59:33 UTC"
+    "lastUpdated": "2021-07-16 06:36:20 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4243,7 +4243,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-07-01 08:10:54 UTC"
+    "lastUpdated": "2021-07-14 08:21:27 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-07-03 08:10:41 UTC"
+    "lastUpdated": "2021-07-15 12:34:08 UTC"
   },
   {
     "title": "Cluse",
@@ -7022,7 +7022,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/sketch-json",
-    "lastUpdated": "2020-09-23 07:10:58 UTC"
+    "lastUpdated": "2021-07-14 01:53:40 UTC"
   },
   {
     "title": "Color Variables Migrator",
