@@ -7339,5 +7339,14 @@
     "appcast": "https://raw.githubusercontent.com/tmdvs/ghost-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/tmdvs/ghost-sketch-plugin",
     "author": "Tim Davies"
-  }    
+  },
+  {
+    "title": "Phosphor Icons",
+    "description": "A flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+    "name": "phosphor-sketch",
+    "owner": "phosphor-icons",
+    "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
+    "homepage": "https://phosphoricons.com",
+    "author": "Tobias Fried"
+  }
 ]
