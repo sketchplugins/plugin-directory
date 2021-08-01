@@ -2274,7 +2274,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-07-02 16:19:58 UTC"
+    "lastUpdated": "2021-07-27 15:54:19 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2716,7 +2716,7 @@
     "title": "TinyFaces 👦🏼👨🏾👩🏻",
     "owner": "maximedegreve",
     "author": "Maxime De Greve",
-    "lastUpdated": "2018-12-23 13:32:08 UTC"
+    "lastUpdated": "2021-07-31 07:14:36 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play",
@@ -4233,7 +4233,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-07-22 12:59:07 UTC"
+    "lastUpdated": "2021-07-29 14:18:14 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4301,7 +4301,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2021-06-15 16:31:12 UTC"
+    "lastUpdated": "2021-07-29 07:15:45 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4756,7 +4756,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2021-05-24 22:33:19 UTC"
+    "lastUpdated": "2021-07-29 19:36:13 UTC"
   },
   {
     "title": "imgcook",
@@ -5159,7 +5159,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-07-07 15:32:22 UTC"
+    "lastUpdated": "2021-07-26 09:52:11 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-07-22 20:00:24 UTC"
+    "lastUpdated": "2021-07-27 05:56:30 UTC"
   },
   {
     "title": "Cluse",
@@ -6496,7 +6496,7 @@
     "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://tiled.co/tiled-for-sketch-plugin",
     "author": "Tiled Inc.",
-    "lastUpdated": "2021-04-13 22:39:18 UTC"
+    "lastUpdated": "2021-07-28 16:33:46 UTC"
   },
   {
     "title": "Find Dirty Styles",
