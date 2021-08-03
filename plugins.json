@@ -7353,6 +7353,15 @@
     "lastUpdated": "2021-07-12 20:23:28 UTC"
   },
   {
+    "title": "hs-plugin",
+    "description": "sketch插件",
+    "name": "Weibotaoa",
+    "owner": "Weibotaoa",
+    "appcast": "https://raw.githubusercontent.com/Weibotaoa/Weibotaoa/master/.appcast.xml",
+    "homepage": "https://github.com/Weibotaoa/Weibotaoa",
+    "author": "韦博韬"
+  },
+  {
     "title": "Duplicate Symbol Locator",
     "description": "Locate duplicate symbols, anywhere.",
     "name": "duplicate-symbol-locator",
