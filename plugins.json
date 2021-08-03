@@ -7351,5 +7351,14 @@
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
     "lastUpdated": "2021-07-12 20:23:28 UTC"
+  },
+  {
+    "title": "Duplicate Symbol Locator",
+    "description": "Locate duplicate symbols, anywhere.",
+    "name": "duplicate-symbol-locator",
+    "owner": "rijieli",
+    "appcast": "https://raw.githubusercontent.com/rijieli/duplicate-symbol-locator-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/rijieli/duplicate-symbol-locator-plugin",
+    "author": "Roger Lee"
   }
 ]
