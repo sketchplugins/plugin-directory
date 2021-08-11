@@ -7287,10 +7287,10 @@
     "description": "Spell checker by Spelly with auto-scanner, suggestions, and other powerful features",
     "author": "Spelly Team",
     "homepage": "https://spelly.io",
-    "owner": "Spelly Team",
-    "name": "Spelly",
+    "owner": "spelly-io",
+    "name": "spelly",
     "appcast": "https://spelly.io/plugin/appcast.xml",
-    "lastUpdated": "2021-04-30 19:48:17 UTC"
+    "lastUpdated": "2021-08-11 02:39:40 UTC"
   },
   {
     "title": "path-tools",
