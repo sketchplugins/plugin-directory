@@ -520,7 +520,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-08-18 17:14:08 UTC",
+    "lastUpdated": "2021-08-24 17:17:44 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1725,7 +1725,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-08-06 12:34:59 UTC"
+    "lastUpdated": "2021-08-28 14:20:17 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3219,7 +3219,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-07-20 09:08:26 UTC"
+    "lastUpdated": "2021-08-26 06:56:13 UTC"
   },
   {
     "title": "Blender",
@@ -4301,7 +4301,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2021-08-10 19:14:05 UTC"
+    "lastUpdated": "2021-08-26 17:22:47 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4766,7 +4766,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-08-11 04:03:22 UTC"
+    "lastUpdated": "2021-08-27 04:17:19 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5159,7 +5159,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-08-12 18:55:12 UTC"
+    "lastUpdated": "2021-08-27 17:45:43 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5442,7 +5442,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-remove-bg/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-remove-bg",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2021-08-11 07:12:31 UTC"
+    "lastUpdated": "2021-08-26 09:11:46 UTC"
   },
   {
     "title": "Set Min Max",
@@ -6121,7 +6121,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-08-18 08:14:20 UTC"
+    "lastUpdated": "2021-08-26 19:58:41 UTC"
   },
   {
     "title": "Cluse",
@@ -7290,7 +7290,7 @@
     "owner": "spelly-io",
     "name": "spelly",
     "appcast": "https://spelly.io/plugin/appcast.xml",
-    "lastUpdated": "2021-08-21 00:57:29 UTC"
+    "lastUpdated": "2021-08-25 00:59:11 UTC"
   },
   {
     "title": "path-tools",
