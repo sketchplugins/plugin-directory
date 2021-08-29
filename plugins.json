@@ -1,5 +1,14 @@
 [
   {
+    "title": "Frontitude",
+    "description": "One place for your UX copy, from design to production.",
+    "author": "Frontitude",
+    "homepage": "https://www.frontitude.com",
+    "appcast": "https://d3i7rxr9ffmsh0.cloudfront.net/plugin-client-versions/sketch/appcast.xml",
+    "name": "frontitude-for-sketch",
+    "lastUpdated": "2021-08-29 08:00:00 UTC"
+  },
+  {
     "title": "腾讯 CoDesign",
     "description": "腾讯 CoDesign 是产品设计研发一站式协作平台，帮助团队提升设计协作效率，有效管理使用设计资产，让产品设计更轻松高效。",
     "author": "CDC",
