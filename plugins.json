@@ -3457,14 +3457,6 @@
     "lastUpdated": "2021-05-25 07:19:40 UTC"
   },
   {
-    "title": "Sketch Align To Grid",
-    "description": "Let's align selection to grid",
-    "author": "Pravdomil",
-    "owner": "pravdomil",
-    "name": "sketch-align-to-grid",
-    "lastUpdated": "2020-03-13 20:07:42 UTC"
-  },
-  {
     "title": "Translate.me",
     "description": "Translations. Simplified. Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.",
     "author": "Eduardo Gómez Vásquez",
@@ -3479,14 +3471,6 @@
     "owner": "zhongerxin",
     "name": "SketchPlugin-PinLog",
     "lastUpdated": "2017-12-15 01:51:38 UTC"
-  },
-  {
-    "title": "Fix Sketch Trackpad Speed",
-    "description": "Speed up your scrolling across all artboards",
-    "author": "Pravdomil",
-    "owner": "pravdomil",
-    "name": "Fix-Sketch-Trackpad-Speed",
-    "lastUpdated": "2020-03-13 20:02:32 UTC"
   },
   {
     "title": "Sketch WCAG",
@@ -3561,15 +3545,6 @@
     "author": "Yusuke Saitoh",
     "homepage": "https://github.com/yusukesaitoh/sketch-select-same-symbols",
     "lastUpdated": "2018-01-08 03:53:56 UTC"
-  },
-  {
-    "title": "Sketch Show Bounding Boxes",
-    "description": "Sketch plugin that shows bounding boxes of all layers",
-    "author": "Pravdomil",
-    "owner": "pravdomil",
-    "name": "Sketch-Show-Bounding-Boxes",
-    "homepage": "https://github.com/pravdomil/Sketch-Show-Bounding-Boxes",
-    "lastUpdated": "2020-03-13 19:07:22 UTC"
   },
   {
     "title": "StyleClip",
@@ -3669,7 +3644,7 @@
     "name": "Angle-Sketch-Plugin",
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
-    "homepage": "https://designcode.io/angle",
+    "homepage": "https://designcode.io",
     "lastUpdated": "2021-07-09 16:50:53 UTC"
   },
   {
@@ -4066,14 +4041,6 @@
     "owner": "jordansinger",
     "name": "Assistant",
     "lastUpdated": "2018-05-25 15:17:25 UTC"
-  },
-  {
-    "title": "Sketch Cats",
-    "description": "Render layers in Sketch as various images of cats",
-    "author": "pravdomil",
-    "owner": "pravdomil",
-    "name": "Sketch-cats",
-    "lastUpdated": "2020-03-13 20:04:18 UTC"
   },
   {
     "title": "Overrideit Sketchplugin",
@@ -5708,14 +5675,6 @@
     "lastUpdated": "2021-05-11 19:39:21 UTC"
   },
   {
-    "title": "Keygaroo",
-    "description": "Keygaroo helps you learn keyboard shortcuts for the actions you use the most.",
-    "appcast": "https://keygaroo.iandco.com/appcast.xml",
-    "homepage": "https://keygaroo.iandco.com/",
-    "author": "I&CO",
-    "lastUpdated": "2019-10-19 00:00:00 UTC"
-  },
-  {
     "title": "Context",
     "description": "Count character, words, and paragraphs from a text layer easily inside Sketch!",
     "name": "context-sketch-plugin",
@@ -6333,16 +6292,6 @@
     "lastUpdated": "2021-08-12 00:20:21 UTC"
   },
   {
-    "title": "Efficient images export",
-    "description": "efficient images export for image sketch",
-    "name": "efficient-image-export",
-    "owner": "masanpao",
-    "appcast": "https://raw.githubusercontent.com/masanpao/efficient-image-export/master/.appcast.xml",
-    "homepage": "https://github.com/masanpao/efficient-image-export",
-    "author": "BinLia",
-    "lastUpdated": "2020-03-16 07:13:48 UTC"
-  },
-  {
     "title": "Potrace",
     "description": "Convert bitmaps to vector graphics",
     "name": "sketch-potrace",
@@ -6371,14 +6320,6 @@
     "homepage": "https://github.com/nktx/banking-data-supplier",
     "author": "Kent Yang",
     "lastUpdated": "2021-08-12 01:13:28 UTC"
-  },
-  {
-    "title": "UI House",
-    "description": "Import resources directly to Sketch, from the web.",
-    "appcast": "https://www.ui.house/assets/downloads/plugin/appcast.xml",
-    "homepage": "https://www.ui.house",
-    "author": "Jarek Ostrowski & David Diefenderfer",
-    "lastUpdated": "2020-04-18 21:45:00 UTC"
   },
   {
     "title": "Search Sketch",
