@@ -5275,16 +5275,6 @@
     "lastUpdated": "2021-08-10 23:04:11 UTC"
   },
   {
-    "title": "Label Layers",
-    "description": "A Sketch plugin that labels selected layers",
-    "name": "Label_Layers",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Label_Layers/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Label_Layers",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:23:21 UTC"
-  },
-  {
     "title": "🕵🏻‍ Find and Replace Text",
     "description": "Find and replace text throughout your Sketch document",
     "name": "sketch-find-and-replace-text",
@@ -5333,16 +5323,6 @@
     "lastUpdated": "2021-08-11 07:12:14 UTC"
   },
   {
-    "title": "Align To Padding",
-    "description": "Align layers in a group with padding applied",
-    "name": "Align-to-padding",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Align-to-padding/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Align-to-padding",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:28:43 UTC"
-  },
-  {
     "title": "Sequence Artboard Names",
     "description": "Simple sequencing of all artboards within a Sketch Document",
     "name": "Sequence-Sketch-Artboards",
@@ -5351,26 +5331,6 @@
     "homepage": "https://github.com/tbrasington/Sequence-Sketch-Artboards",
     "author": "Thomas Brasington",
     "lastUpdated": "2021-08-10 23:10:50 UTC"
-  },
-  {
-    "title": "Paddit",
-    "description": "Inspired by Falkeyn's Modulizer, a Sketch plugin that adjusts a group's background to the content with padding.",
-    "name": "Paddit",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Paddit/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Paddit",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:20:24 UTC"
-  },
-  {
-    "title": "Grid Layer",
-    "description": "Create columns or gutters as layers. Useful if you need a grid on a component level.",
-    "name": "Grid-Layer",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Grid-Layer/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Grid-Layer",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:24:15 UTC"
   },
   {
     "title": "⚡️ Bolt",
@@ -5401,16 +5361,6 @@
     "lastUpdated": "2021-01-16 22:53:47 UTC"
   },
   {
-    "title": "Symbol Override Padding",
-    "description": "Add bottom padding to a symbol override",
-    "name": "Symbol-Override-Padding",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Override-Padding/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Symbol-Override-Padding",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-09 03:02:31 UTC"
-  },
-  {
     "title": "Remove.bg",
     "description": "Remove image background in a single click",
     "name": "sketch-remove-bg",
@@ -5419,16 +5369,6 @@
     "homepage": "https://github.com/mathieudutour/sketch-remove-bg",
     "author": "Mathieu Dutour",
     "lastUpdated": "2021-08-26 09:11:46 UTC"
-  },
-  {
-    "title": "Set Min Max",
-    "description": "This plugin will resize a layer by height or width to a base max or min value",
-    "name": "Set-Min-Max",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Set-Min-Max/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Set-Min-Max",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:20:59 UTC"
   },
   {
     "title": "Library Replacer",
@@ -5517,16 +5457,6 @@
     "lastUpdated": "2021-08-11 00:32:38 UTC"
   },
   {
-    "title": "Create New Styles",
-    "description": "A Sketch plugin to create multiple layer styles or text styles",
-    "name": "Create-New-Styles",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Create-New-Styles/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Create-New-Styles",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:28:03 UTC"
-  },
-  {
     "title": "projecthuddle",
     "description": "",
     "name": "projecthuddle-sketch-sync",
@@ -5555,16 +5485,6 @@
     "homepage": "https://github.com/jonathasbsouza/brdata",
     "author": "Jônathas Souza",
     "lastUpdated": "2021-08-11 02:03:39 UTC"
-  },
-  {
-    "title": "Symbol-Merger",
-    "description": "A Sketch plugin that merges duplicate symbols",
-    "name": "Symbol-Merger",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Symbol-Merger/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Symbol-Merger",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:19:27 UTC"
   },
   {
     "title": "Mugsy",
@@ -6350,16 +6270,6 @@
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
     "lastUpdated": "2021-08-16 18:30:45 UTC"
-  },
-  {
-    "title": "Trim-Artboard",
-    "description": "A Sketch plugin to trim the bottom of an artboard",
-    "name": "Trim-Artboard",
-    "owner": "franklymrshankly",
-    "appcast": "https://raw.githubusercontent.com/franklymrshankly/Trim-Artboard/master/.appcast.xml",
-    "homepage": "https://github.com/franklymrshankly/Trim-Artboard",
-    "author": "Jonathan Tran",
-    "lastUpdated": "2021-03-19 14:21:23 UTC"
   },
   {
     "owner": "she1991",
