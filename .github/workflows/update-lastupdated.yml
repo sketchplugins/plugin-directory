@@ -19,7 +19,6 @@ jobs:
         ruby-version: 2.6.x
     - name: Update lastUpdated
       run: |
-        curl -H 'Accept: application/vnd.github.v3+json' -H 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' https://api.github.com/rate_limit
         gem install octokit
         rake lastUpdated
       env:
@@ -29,5 +28,5 @@ jobs:
         git config --global user.name 'Sketch Developer'
         git config --global user.email 'developer@sketch.com'
         git add plugins.json
-        git commit -am 'Update lastUpdated'
+        git commit -am 'Update lastUpdated' --allow-empty
         git push
