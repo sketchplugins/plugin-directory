@@ -970,7 +970,7 @@
     "owner": "tadija",
     "author": "Marko Tadić",
     "name": "AEIconizer",
-    "lastUpdated": "2021-05-05 14:39:10 UTC",
+    "lastUpdated": "2021-09-17 09:55:09 UTC",
     "title": "AEIconizer"
   },
   {
@@ -1734,7 +1734,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-08-28 14:20:17 UTC"
+    "lastUpdated": "2021-09-18 12:51:06 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2100,7 +2100,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2021-08-10 20:07:08 UTC"
+    "lastUpdated": "2021-09-16 13:40:36 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -3498,7 +3498,7 @@
     "author": "Ahmed Genaidy",
     "owner": "ahmedmigo",
     "name": "Move-to-library-sketchplugin",
-    "lastUpdated": "2019-04-24 08:34:20 UTC"
+    "lastUpdated": "2021-09-15 07:12:38 UTC"
   },
   {
     "title": "I Want Apple System Font",
@@ -4383,7 +4383,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Contrast/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Contrast#readme",
     "author": "Roman Nurik",
-    "lastUpdated": "2021-08-10 19:41:42 UTC"
+    "lastUpdated": "2021-09-14 14:09:46 UTC"
   },
   {
     "title": "Sketch Sync",
@@ -5999,7 +5999,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-09-09 18:45:21 UTC"
+    "lastUpdated": "2021-09-14 09:34:32 UTC"
   },
   {
     "title": "Cluse",
@@ -6578,7 +6578,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2021-09-02 12:12:32 UTC"
+    "lastUpdated": "2021-09-16 08:27:32 UTC"
   },
   {
     "title": "Slint",
@@ -6736,7 +6736,7 @@
     "appcast": "https://raw.githubusercontent.com/proteanstudio/sketch-palette-cleanser/master/.appcast.xml",
     "homepage": "https://github.com/proteanstudio/sketch-palette-cleanser",
     "author": "Protean Studio",
-    "lastUpdated": "2021-03-17 01:14:02 UTC"
+    "lastUpdated": "2021-09-16 20:31:01 UTC"
   },
   {
     "title": "BlobMaker",
@@ -7228,6 +7228,7 @@
     "owner": "eaugustine",
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
     "homepage": "https://github.com/eaugustine/how-many-artboards",
-    "author": "Erica Augustine"
+    "author": "Erica Augustine",
+    "lastUpdated": "2021-09-14 20:28:26 UTC"
   }
 ]
