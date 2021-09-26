@@ -145,7 +145,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-08-20 09:04:22 UTC"
+    "lastUpdated": "2021-09-21 13:15:11 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -1047,7 +1047,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2021-05-27 07:43:24 UTC"
+    "lastUpdated": "2021-09-22 11:35:31 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -1734,7 +1734,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-09-18 12:51:06 UTC"
+    "lastUpdated": "2021-09-24 19:43:44 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2100,7 +2100,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2021-09-16 13:40:36 UTC"
+    "lastUpdated": "2021-09-21 20:19:08 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -3228,7 +3228,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-09-09 13:42:00 UTC"
+    "lastUpdated": "2021-09-21 14:27:24 UTC"
   },
   {
     "title": "Blender",
@@ -4209,7 +4209,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-08-20 21:08:34 UTC"
+    "lastUpdated": "2021-09-23 10:12:07 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4848,7 +4848,7 @@
     "owner": "inthepocket",
     "appcast": "https://raw.githubusercontent.com/inthepocket/hubble-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/inthepocket/hubble-sketch-plugin",
-    "lastUpdated": "2021-08-10 20:17:50 UTC"
+    "lastUpdated": "2021-09-21 00:31:10 UTC"
   },
   {
     "title": "betterTypePanel",
@@ -4973,7 +4973,7 @@
     "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
     "author": "idix",
-    "lastUpdated": "2021-08-10 21:58:15 UTC"
+    "lastUpdated": "2021-09-21 01:13:13 UTC"
   },
   {
     "title": "String Value Puller",
@@ -5154,7 +5154,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2021-09-02 13:10:05 UTC"
+    "lastUpdated": "2021-09-21 23:45:34 UTC"
   },
   {
     "title": "Case Converter",
@@ -5300,7 +5300,7 @@
     "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
     "homepage": "https://github.com/themainingredient/colormate",
     "author": "The Main Ingredient",
-    "lastUpdated": "2021-08-10 23:17:00 UTC"
+    "lastUpdated": "2021-09-21 02:28:41 UTC"
   },
   {
     "title": "Prototypes Invision ↔︎ Sketch",
@@ -5493,7 +5493,7 @@
     "owner": "mLihs",
     "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
     "homepage": "https://github.com/mLihs/svg-bem",
-    "lastUpdated": "2021-08-11 02:08:47 UTC"
+    "lastUpdated": "2021-09-21 10:05:32 UTC"
   },
   {
     "title": "Symbol Browser",
@@ -5900,7 +5900,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-09-02 01:00:40 UTC"
+    "lastUpdated": "2021-09-20 21:39:30 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -5999,7 +5999,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-09-14 09:34:32 UTC"
+    "lastUpdated": "2021-09-22 08:25:10 UTC"
   },
   {
     "title": "Cluse",
@@ -6279,7 +6279,7 @@
     "appcast": "https://raw.githubusercontent.com/chenxsan/copy-optimized-svg-code/master/.appcast.xml",
     "homepage": "https://github.com/chenxsan/copy-optimized-svg-code",
     "author": "chenxsan",
-    "lastUpdated": "2021-07-03 06:26:01 UTC"
+    "lastUpdated": "2021-09-22 04:35:52 UTC"
   },
   {
     "title": "Light Switch",
@@ -7219,6 +7219,6 @@
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
     "homepage": "https://github.com/eaugustine/how-many-artboards",
     "author": "Erica Augustine",
-    "lastUpdated": "2021-09-14 20:28:26 UTC"
+    "lastUpdated": "2021-09-20 21:42:12 UTC"
   }
 ]
