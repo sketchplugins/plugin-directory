@@ -7219,6 +7219,16 @@
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
     "homepage": "https://github.com/eaugustine/how-many-artboards",
     "author": "Erica Augustine",
+    "lastUpdated": "2021-09-14 20:28:26 UTC"
+  },
+  {
+    "title": "aspect-ratio-calculator",
+    "description": "",
+    "name": "aspect-ratio-calculator",
+    "owner": "williamjhughes",
+    "appcast": "https://raw.githubusercontent.com/williamjhughes/aspect-ratio-calculator/master/.appcast.xml",
+    "homepage": "https://github.com/williamjhughes/aspect-ratio-calculator",
+    "author": "William Hughes"
     "lastUpdated": "2021-09-20 21:42:12 UTC"
   }
 ]
