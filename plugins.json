@@ -7213,7 +7213,7 @@
   },
   {
     "title": "How Many Artboards?",
-    "description": "",
+    "description": "A Sketch plugin for counting the number of artboards in your file or on your page",
     "name": "how-many-artboards",
     "owner": "eaugustine",
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
