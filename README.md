@@ -145,7 +145,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Helpify](https://github.com/Luckyfoxdesign/helpify), by Lucky Fox Design: Plugin with simple actions: Generate random numbers
 - [helpweb](https://github.com/mybenmao/sketch-helpweb), by caorukang: web html css image
 - [Homey](https://github.com/athombv/SketchPluginHomey), by Athom B.V.: Insert Homey App icons directly into your Sketch projects.
-- [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine:
+- [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine: A Sketch plugin for counting the number of artboards in your file or on your page
 - [Hs Plugin](https://github.com/Weibotaoa/Weibotaoa), by 韦博韬: sketch插件
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
 - [Iban Generator](https://github.com/idriesalbender/iban-sketch-plugin), by idix: Generate random International Bank Account Numbers (IBAN)
@@ -431,7 +431,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Palette Cleanser](https://github.com/proteanstudio/sketch-palette-cleanser), by Protean Studio: Get a full rundown of the colors you're using in your Sketch document.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste), by Sonny Lazuardi Hermawan:
 - [Move To Library Sketchplugin](https://github.com/ahmedmigo/move-to-library-sketchplugin), by Ahmed Genaidy: You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
-- [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine:
+- [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine: A Sketch plugin for counting the number of artboards in your file or on your page
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
