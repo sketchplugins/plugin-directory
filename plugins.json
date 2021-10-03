@@ -1711,7 +1711,7 @@
     "title": "Place Linked Bitmap",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2021-05-13 15:13:14 UTC"
+    "lastUpdated": "2021-09-29 15:30:04 UTC"
   },
   {
     "description": "Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.",
@@ -1751,7 +1751,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2021-06-22 12:15:05 UTC"
+    "lastUpdated": "2021-09-29 09:30:39 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -2283,7 +2283,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-07-27 15:54:19 UTC"
+    "lastUpdated": "2021-09-30 16:05:17 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -3218,7 +3218,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-08-06 07:09:02 UTC"
+    "lastUpdated": "2021-09-27 10:43:22 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -3922,7 +3922,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2021-05-20 18:49:39 UTC"
+    "lastUpdated": "2021-09-28 03:45:45 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -3960,7 +3960,7 @@
     "owner": "materik",
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "lastUpdated": "2021-08-10 17:59:12 UTC"
+    "lastUpdated": "2021-09-29 17:23:00 UTC"
   },
   {
     "title": "Photo Grid",
@@ -4085,7 +4085,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2021-03-08 15:51:51 UTC"
+    "lastUpdated": "2021-10-01 09:17:33 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4209,7 +4209,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-09-23 10:12:07 UTC"
+    "lastUpdated": "2021-10-01 16:31:26 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4219,7 +4219,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-08-06 08:14:56 UTC"
+    "lastUpdated": "2021-09-30 15:18:19 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5999,7 +5999,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-09-22 08:25:10 UTC"
+    "lastUpdated": "2021-09-28 17:25:39 UTC"
   },
   {
     "title": "Cluse",
@@ -6962,7 +6962,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-08-11 08:11:56 UTC"
+    "lastUpdated": "2021-09-29 06:28:43 UTC"
   },
   {
     "title": "import-shadows",
@@ -7219,7 +7219,7 @@
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
     "homepage": "https://github.com/eaugustine/how-many-artboards",
     "author": "Erica Augustine",
-    "lastUpdated": "2021-09-14 20:28:26 UTC"
+    "lastUpdated": "2021-09-20 21:42:12 UTC"
   },
   {
     "title": "aspect-ratio-calculator",
@@ -7229,6 +7229,6 @@
     "appcast": "https://raw.githubusercontent.com/williamjhughes/aspect-ratio-calculator/master/.appcast.xml",
     "homepage": "https://github.com/williamjhughes/aspect-ratio-calculator",
     "author": "William Hughes",
-    "lastUpdated": "2021-09-20 21:42:12 UTC"
+    "lastUpdated": "2021-09-25 11:07:31 UTC"
   }
 ]
