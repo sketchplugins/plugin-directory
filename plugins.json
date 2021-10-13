@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sketch Layer Name Check",
+    "description": "Check the default sketch layer naming, this plugin is for the user who needs to standardise his Sketch layer namings.",
+    "author": "Satheesh Kumar S",
+    "owner": "Satheesh Kumar S",
+    "homepage": "https://github.com/pplcallmesatz/SketchDefaultNameCheck",
+    "appcast": "https://github.com/pplcallmesatz/SketchDefaultNameCheck/blob/master/.appcast.xml",
+    "name": "SketchDefaultNameCheck",
+    "lastUpdated": "2021-10-13 20:00:00 UTC"
+  },
+  {
     "title": "Frontitude",
     "description": "One place for your UX copy, from design to production.",
     "author": "Frontitude",
