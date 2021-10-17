@@ -1057,7 +1057,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2021-09-22 11:35:31 UTC"
+    "lastUpdated": "2021-10-15 13:51:41 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -1744,7 +1744,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-09-24 19:43:44 UTC"
+    "lastUpdated": "2021-10-15 03:56:33 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2293,7 +2293,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-09-30 16:05:17 UTC"
+    "lastUpdated": "2021-10-14 15:16:27 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -3238,7 +3238,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-09-21 14:27:24 UTC"
+    "lastUpdated": "2021-10-15 15:31:36 UTC"
   },
   {
     "title": "Blender",
@@ -3751,7 +3751,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2021-08-10 17:50:43 UTC"
+    "lastUpdated": "2021-10-11 13:49:15 UTC"
   },
   {
     "title": "Plot",
@@ -4229,7 +4229,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-09-30 15:18:19 UTC"
+    "lastUpdated": "2021-10-13 16:13:44 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4752,7 +4752,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-09-07 07:06:53 UTC"
+    "lastUpdated": "2021-10-12 05:25:16 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -6009,7 +6009,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-09-28 17:25:39 UTC"
+    "lastUpdated": "2021-10-11 16:34:58 UTC"
   },
   {
     "title": "Cluse",
@@ -7051,7 +7051,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2021-09-01 07:14:17 UTC"
+    "lastUpdated": "2021-10-14 11:31:23 UTC"
   },
   {
     "title": "Fake News",
