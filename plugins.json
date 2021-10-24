@@ -2293,7 +2293,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-10-14 15:16:27 UTC"
+    "lastUpdated": "2021-10-18 17:23:31 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -4219,7 +4219,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-10-04 12:57:47 UTC"
+    "lastUpdated": "2021-10-19 20:36:53 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4383,7 +4383,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington",
-    "lastUpdated": "2021-08-10 19:30:04 UTC"
+    "lastUpdated": "2021-10-20 08:10:36 UTC"
   },
   {
     "title": "Contrast",
@@ -4733,7 +4733,7 @@
     "appcast": "https://raw.githubusercontent.com/canisminor1990/anto/master/.appcast.xml",
     "homepage": "https://github.com/canisminor1990/anto",
     "author": "CanisMinor",
-    "lastUpdated": "2019-10-21 09:21:55 UTC"
+    "lastUpdated": "2021-10-19 03:18:00 UTC"
   },
   {
     "title": "Envato Elements",
@@ -6009,7 +6009,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-10-11 16:34:58 UTC"
+    "lastUpdated": "2021-10-20 17:46:51 UTC"
   },
   {
     "title": "Cluse",
@@ -6163,7 +6163,7 @@
     "appcast": "https://raw.githubusercontent.com/endswithak/sketch-measure-react/master/.appcast.xml",
     "homepage": "https://github.com/endswithak/sketch-measure-react",
     "author": "Erik Myers",
-    "lastUpdated": "2020-02-08 15:35:02 UTC"
+    "lastUpdated": "2021-10-18 10:26:31 UTC"
   },
   {
     "title": "Dark Side",
@@ -7200,7 +7200,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2021-08-13 01:54:49 UTC"
+    "lastUpdated": "2021-10-21 00:26:00 UTC"
   },
   {
     "title": "hs-plugin",
