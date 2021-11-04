@@ -1,7 +1,7 @@
 [
   {
     "title": "ContentSync",
-    "description": "Sync and version your design content to and from Google Sheets and Microsoft 365. Deep suport for symbol, override and more.",
+    "description": "Sync and version your design content to and from Google Sheets and Microsoft 365. Deep support for symbols, overrides and more.",
     "author": "Syncify",
     "homepage": "https://www.contentsync.com",
     "appcast": "https://cast.appcastify.com/contentsync/contentsync6.xml",
