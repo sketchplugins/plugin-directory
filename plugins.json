@@ -1,5 +1,14 @@
 [
   {
+    "title": "ContentSync",
+    "description": "Sync and version your design content to and from Google Sheets and Microsoft 365. Deep suport for symbol, override and more.",
+    "author": "Syncify",
+    "homepage": "https://www.contentsync.com",
+    "appcast": "https://cast.appcastify.com/contentsync/contentsync6.xml",
+    "name": "SketchContentSync",
+    "lastUpdated": "2021-10-28 20:09:00 UTC"
+  },
+  {
     "title": "Sketch Layer Name Check",
     "description": "Check the default sketch layer naming, this plugin is for the user who needs to standardise his Sketch layer namings.",
     "author": "Satheesh Kumar S",
