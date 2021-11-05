@@ -1,5 +1,14 @@
 [
   {
+    "title": "Beatflyer Lite",
+    "description": "Animate your artboards in a few clicks with a lite and free version of Beatflyer.",
+    "author": "Christian Giordano",
+    "homepage": "https://beatflyer.com",
+    "appcast": "https://beatflyer.com/lite/sketch/appcast.xml",
+    "name": "beatflyer-lite",
+    "lastUpdated": "2021-11-05 18:00:00 UTC"
+  },
+  {
     "title": "Sketch Layer Name Check",
     "description": "Check the default sketch layer naming, this plugin is for the user who needs to standardise his Sketch layer namings.",
     "author": "Satheesh Kumar S",
