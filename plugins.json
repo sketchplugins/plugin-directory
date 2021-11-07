@@ -1753,7 +1753,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-10-15 03:56:33 UTC"
+    "lastUpdated": "2021-11-05 13:18:49 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2101,7 +2101,7 @@
     "owner": "ruslanlatypov",
     "author": "ls.graphics",
     "homepage": "https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch",
-    "lastUpdated": "2021-04-06 09:45:28 UTC"
+    "lastUpdated": "2021-11-03 12:29:35 UTC"
   },
   {
     "description": "Sketch Plugin to generate pngs of artboards wrapped in a phone skin.",
@@ -2119,7 +2119,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2021-10-08 21:34:43 UTC"
+    "lastUpdated": "2021-11-05 18:22:16 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2302,7 +2302,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-10-28 20:08:29 UTC"
+    "lastUpdated": "2021-11-04 04:43:55 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -4228,7 +4228,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-10-28 17:18:54 UTC"
+    "lastUpdated": "2021-11-01 19:38:02 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4761,7 +4761,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-10-12 05:25:16 UTC"
+    "lastUpdated": "2021-11-03 09:33:37 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -6018,7 +6018,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-10-20 17:46:51 UTC"
+    "lastUpdated": "2021-11-02 13:09:58 UTC"
   },
   {
     "title": "Cluse",
@@ -6981,7 +6981,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-09-29 06:28:43 UTC"
+    "lastUpdated": "2021-11-05 10:32:27 UTC"
   },
   {
     "title": "import-shadows",
