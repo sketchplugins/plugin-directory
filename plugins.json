@@ -7258,5 +7258,14 @@
     "homepage": "https://github.com/williamjhughes/aspect-ratio-calculator",
     "author": "William Hughes",
     "lastUpdated": "2021-09-25 11:07:31 UTC"
+  },
+  {
+    "title": "Light to Dark 🌓",
+    "description": "To create light to dark mode",
+    "name": "lighttodark",
+    "owner": "pplcallmesatz",
+    "appcast": "https://raw.githubusercontent.com/pplcallmesatz/lighttodark/master/.appcast.xml",
+    "homepage": "https://github.com/pplcallmesatz/lighttodark",
+    "author": "Satheesh Kumar Selvaraj"
   }
 ]
