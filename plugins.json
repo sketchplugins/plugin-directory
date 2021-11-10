@@ -7258,5 +7258,15 @@
     "homepage": "https://github.com/williamjhughes/aspect-ratio-calculator",
     "author": "William Hughes",
     "lastUpdated": "2021-09-25 11:07:31 UTC"
+  },
+  {
+    "title": "Transifex Sketch Plugin",
+    "description": "Start localization at the design phase. Accelerate your workflow by bringing the Product, Design and Localization teams closer.",
+    "name": "transifex-sketch",
+    "owner": "Transifex",
+    "author": "Transifex",
+    "homepage": "https://github.com/transifex/transifex-sketch-plugin",
+    "appcast": "https://raw.githubusercontent.com/transifex/transifex-sketch-plugin/master/.appcast.xml",
+    "lastUpdated": "2021-11-10 11:00:00 UTC"
   }
 ]
