@@ -7260,6 +7260,25 @@
     "lastUpdated": "2021-09-25 11:07:31 UTC"
   },
   {
+    "title": "Light to Dark 🌓",
+    "description": "To create light to dark mode",
+    "name": "lighttodark",
+    "owner": "pplcallmesatz",
+    "appcast": "https://raw.githubusercontent.com/pplcallmesatz/lighttodark/master/.appcast.xml",
+    "homepage": "https://github.com/pplcallmesatz/lighttodark",
+    "author": "Satheesh Kumar Selvaraj"
+  },
+  {
+    "title": "Transifex Sketch Plugin",
+    "description": "Start localization at the design phase. Accelerate your workflow by bringing the Product, Design and Localization teams closer.",
+    "name": "transifex-sketch",
+    "owner": "Transifex",
+    "author": "Transifex",
+    "homepage": "https://github.com/transifex/transifex-sketch-plugin",
+    "appcast": "https://raw.githubusercontent.com/transifex/transifex-sketch-plugin/master/.appcast.xml",
+    "lastUpdated": "2021-11-10 11:00:00 UTC"
+  },
+  {
     "title": "outsystems-ui-plugin",
     "name": "OutSystemsUIPlugin",
     "owner": "HiInteractive",
