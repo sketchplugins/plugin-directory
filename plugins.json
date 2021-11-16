@@ -7258,5 +7258,13 @@
     "homepage": "https://github.com/williamjhughes/aspect-ratio-calculator",
     "author": "William Hughes",
     "lastUpdated": "2021-09-25 11:07:31 UTC"
+  },
+  {
+    "title": "outsystems-ui-plugin",
+    "name": "OutSystemsUIPlugin",
+    "owner": "HiInteractive",
+    "appcast": "https://raw.githubusercontent.com/HiInteractive/OutSystemsUIPlugin/master/.appcast.xml",
+    "homepage": "https://github.com/HiInteractive/OutSystemsUIPlugin",
+    "author": "Pedro Oliveira"
   }
 ]
