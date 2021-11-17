@@ -4009,13 +4009,6 @@
     "lastUpdated": "2021-08-10 17:58:35 UTC"
   },
   {
-    "description": "Quickly upload and sync Sketch artboards to Gallery collections.",
-    "title": "Gallery",
-    "author": "Google LLC",
-    "homepage": "https://material.io/resources/gallery",
-    "lastUpdated": "2020-03-16 22:08:00 UTC"
-  },
-  {
     "title": "Sketch Style To React Native",
     "description": "Sketch plugin that copies an element's styles in React Native way directly to your Mac clipboard.",
     "name": "sketch-style-to-react-native",
