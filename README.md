@@ -200,6 +200,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Mupixa](https://github.com/mupixa/sketch-plugin-mupixa), by www.mupixa.com: Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.
 - [Name My Color](https://github.com/carlosflrg/name-my-color), by Carlos Flores: Give your colors unique names. Generates labels for the Color Name, Hexcode and changes the name of the selected layer.
 - [NeoPreview](https://github.com/alanfraneo/sketch-neo-preview), by Alan Francis: A plugin to create HTML based preview and gallery straight from sketch artboards
+- [Next](https://github.com/endswithak/next), by Erik Myers: Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
 - [Nudged](https://github.com/kevinwoodhouse/sketch-nudged), by Kevin Woodhouse: A Sketch plugin to easily edit your nudge distance settings.
 - [Omnis Skeleton Generator](https://github.com/taohsu/skeletongenerator), by taohsu: Generate skeleton/placeholder UI from the selected components
@@ -337,7 +338,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Specify (alpha)](https://specifyapp.com), by Specify SAS: Export styles and assets to your Specify Libraries.
 - [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
 - [Squash](https://github.com/mcansh/squash-sketchplugin), by Logan McAnsh <logan@mcan.sh> (https://mcan.sh): Export and optimize images with Realmac Squash
-- [Sr Measure](https://github.com/endswithak/sketch-measure-react), by Erik Myers: A sketch plugin to export your designs as react applications. Quickly share design specs, css, and assets.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Stickers](https://github.com/romannurik/Sketch-Stickers), by Roman Nurik: A Sketch plugin that lets you browse and quickly drag+drop stickers (specially tagged layers) in your Sketch Libraries.
 - [Storyboard Export](https://github.com/cranksoftwaredev/SketchPlugins), by Crank Software Inc.: Export Sketch based designs to be used within Crank Software's Storyboard Suite
@@ -431,7 +431,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Text to Styles](https://github.com/tbrasington/text-to-styles), by Thomas Brasington: Generates Sketch type styles programmatically from Artboards
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
-- [Sr Measure](https://github.com/endswithak/sketch-measure-react), by Erik Myers: A sketch plugin to export your designs as react applications. Quickly share design specs, css, and assets.
+- [Next](https://github.com/endswithak/next), by Erik Myers: Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [Lokalise Plugin](https://github.com/lokalise/lokalise-sketchplugin), by Lokalise: Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.
