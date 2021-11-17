@@ -7277,5 +7277,13 @@
     "homepage": "https://github.com/transifex/transifex-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/transifex/transifex-sketch-plugin/master/.appcast.xml",
     "lastUpdated": "2021-11-10 11:00:00 UTC"
+  },
+  {
+    "title": "outsystems-ui-plugin",
+    "name": "OutSystemsUIPlugin",
+    "owner": "HiInteractive",
+    "appcast": "https://raw.githubusercontent.com/HiInteractive/OutSystemsUIPlugin/master/.appcast.xml",
+    "homepage": "https://github.com/HiInteractive/OutSystemsUIPlugin",
+    "author": "Pedro Oliveira"
   }
 ]
