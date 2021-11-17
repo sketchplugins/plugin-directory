@@ -6167,12 +6167,12 @@
     "lastUpdated": "2021-08-11 22:09:36 UTC"
   },
   {
-    "title": "sr-measure",
-    "description": "A sketch plugin to export your designs as react applications. Quickly share design specs, css, and assets.",
-    "name": "sketch-measure-react",
+    "title": "Next",
+    "description": "Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.",
+    "name": "next",
     "owner": "endswithak",
-    "appcast": "https://raw.githubusercontent.com/endswithak/sketch-measure-react/master/.appcast.xml",
-    "homepage": "https://github.com/endswithak/sketch-measure-react",
+    "appcast": "https://raw.githubusercontent.com/endswithak/next/master/.appcast.xml",
+    "homepage": "https://github.com/endswithak/next",
     "author": "Erik Myers",
     "lastUpdated": "2021-10-18 10:26:31 UTC"
   },
