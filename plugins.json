@@ -1,5 +1,14 @@
 [
   {
+    "title": "CI HUB Connector",
+    "description": "Add images/text to your designs directly from wherever they are, directly in Sketch. Access Stock Images or use your workflow for approval. Share with your Team in Dropbox or Google Drive and more. And never leave Sketch.",
+    "author": "CI HUB GmbH",
+    "homepage": "https://ci-hub.com/sketch",
+    "appcast": "https://ci-hub.azurewebsites.net/download/sketch.xml",
+    "name": "com.ci-hub.ci-hub-connector",
+    "lastUpdated": "2021-11-19 15:00:00 UTC"
+  },
+  {
     "title": "Beatflyer Lite",
     "description": "Animate your artboards in a few clicks with a lite and free version of Beatflyer.",
     "author": "Christian Giordano",
