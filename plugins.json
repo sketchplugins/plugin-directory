@@ -173,7 +173,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-11-12 15:46:16 UTC"
+    "lastUpdated": "2021-11-15 10:21:23 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -2375,7 +2375,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2021-07-16 08:43:12 UTC"
+    "lastUpdated": "2021-11-15 10:18:38 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -4230,7 +4230,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-11-10 11:25:58 UTC"
+    "lastUpdated": "2021-11-17 21:05:53 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4763,7 +4763,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-11-03 09:33:37 UTC"
+    "lastUpdated": "2021-11-17 07:37:18 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5447,7 +5447,7 @@
     "appcast": "https://raw.githubusercontent.com/bheston/rivet-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/bheston/rivet-sketch-plugin",
     "author": "Brian Heston",
-    "lastUpdated": "2019-05-19 21:02:29 UTC"
+    "lastUpdated": "2021-11-19 03:41:29 UTC"
   },
   {
     "title": "Shadows Utilities",
@@ -7259,7 +7259,8 @@
     "owner": "pplcallmesatz",
     "appcast": "https://raw.githubusercontent.com/pplcallmesatz/lighttodark/master/.appcast.xml",
     "homepage": "https://github.com/pplcallmesatz/lighttodark",
-    "author": "Satheesh Kumar Selvaraj"
+    "author": "Satheesh Kumar Selvaraj",
+    "lastUpdated": "2021-11-09 10:28:04 UTC"
   },
   {
     "title": "Transifex Sketch Plugin",
@@ -7277,6 +7278,7 @@
     "owner": "HiInteractive",
     "appcast": "https://raw.githubusercontent.com/HiInteractive/OutSystemsUIPlugin/master/.appcast.xml",
     "homepage": "https://github.com/HiInteractive/OutSystemsUIPlugin",
-    "author": "Pedro Oliveira"
+    "author": "Pedro Oliveira",
+    "lastUpdated": "2021-11-18 16:51:12 UTC"
   }
 ]
