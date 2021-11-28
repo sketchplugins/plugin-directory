@@ -2375,7 +2375,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2021-11-15 10:18:38 UTC"
+    "lastUpdated": "2021-11-22 09:06:33 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3246,7 +3246,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-09-27 10:43:22 UTC"
+    "lastUpdated": "2021-11-24 06:35:33 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -4230,7 +4230,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-11-17 21:05:53 UTC"
+    "lastUpdated": "2021-11-26 19:55:20 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4899,7 +4899,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2021-08-19 06:57:56 UTC"
+    "lastUpdated": "2021-11-22 16:26:18 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -6020,7 +6020,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-11-02 13:09:58 UTC"
+    "lastUpdated": "2021-11-27 20:07:31 UTC"
   },
   {
     "title": "Cluse",
@@ -6983,7 +6983,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2021-11-11 06:45:25 UTC"
+    "lastUpdated": "2021-11-22 09:47:03 UTC"
   },
   {
     "title": "import-shadows",
