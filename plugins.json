@@ -182,7 +182,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-11-15 10:21:23 UTC"
+    "lastUpdated": "2021-11-29 14:53:12 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -3359,7 +3359,7 @@
     "author": "Myrronth",
     "owner": "Myrronth",
     "name": "symbol-and-artboard-organizer",
-    "lastUpdated": "2021-06-09 12:52:31 UTC"
+    "lastUpdated": "2021-12-02 08:10:02 UTC"
   },
   {
     "title": "Library Symbol Replacer",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-11-26 19:55:20 UTC"
+    "lastUpdated": "2021-11-30 17:22:29 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-11-27 20:07:31 UTC"
+    "lastUpdated": "2021-11-30 10:35:06 UTC"
   },
   {
     "title": "Cluse",
