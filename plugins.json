@@ -1,5 +1,14 @@
 [
   {
+    "title": "Tencent Auton",
+    "description": "From design drive to code",
+    "author": "elliothu@tencent.com",
+    "homepage": "http://auton.woa.com",
+    "appcast": "https://k12-files-1251316161.cos.ap-guangzhou.myqcloud.com/cocos_hot_update/auton/34e5179e3ac5975fc331efad5971f507.xml",
+    "name": "🤖 Auton",
+    "lastUpdated": "2021-12-24 19:00:00 UTC"
+  },
+  {
     "title": "CI HUB Connector",
     "description": "Add images/text to your designs directly from wherever they are, directly in Sketch. Access Stock Images or use your workflow for approval. Share with your Team in Dropbox or Google Drive and more. And never leave Sketch.",
     "author": "CI HUB GmbH",
