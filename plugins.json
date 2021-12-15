@@ -176,7 +176,7 @@
   },
   {
     "title": "Phrase Sketch Plugin",
-    "description": "Sync your design content from Sketch with Phrase",
+    "description": "Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase plugin.",
     "name": "phraseapp-sketch",
     "owner": "phrase",
     "author": "Phrase",
