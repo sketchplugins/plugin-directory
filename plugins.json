@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-10-25 15:51:12 UTC",
+    "lastUpdated": "2021-12-15 14:42:00 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-12-09 10:36:14 UTC"
+    "lastUpdated": "2021-12-17 12:34:19 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2021-11-22 09:06:33 UTC"
+    "lastUpdated": "2021-12-13 09:37:22 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-12-08 20:41:40 UTC"
+    "lastUpdated": "2021-12-16 12:48:11 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5873,7 +5873,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2021-12-10 12:10:22 UTC"
+    "lastUpdated": "2021-12-10 01:34:35 UTC"
   },
   {
     "title": "Sketch Pexels",
