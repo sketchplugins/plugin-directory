@@ -7289,5 +7289,14 @@
     "homepage": "https://github.com/HiInteractive/OutSystemsUIPlugin",
     "author": "Pedro Oliveira",
     "lastUpdated": "2021-11-18 16:51:12 UTC"
+  },
+  {
+    "description": "Sketch puicook 是一款为设计师定制的工具站，包括协同设计，图标导出上传等功能，代码助力设计",
+    "name": "sketch-puicook",
+    "title": "Sketch puicook",
+    "appcast": "https://gitee.com/wanna2021/sketch-puicook/raw/master/appcast.xml",
+    "homepage": "https://gitee.com/wanna2021/sketch-puicook",
+    "owner": "PUI",
+    "lastUpdated": "2021-12-23 02:24:57 UTC"
   }
 ]
