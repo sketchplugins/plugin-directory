@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-12-17 12:34:19 UTC"
+    "lastUpdated": "2021-12-24 13:14:11 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2169,7 +2169,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2019-11-26 07:00:33 UTC"
+    "lastUpdated": "2021-12-23 16:54:37 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-12-16 12:48:11 UTC"
+    "lastUpdated": "2021-12-23 20:37:28 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-10-29 18:07:34 UTC"
+    "lastUpdated": "2021-12-22 13:49:24 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-11-30 10:35:06 UTC"
+    "lastUpdated": "2021-12-24 12:24:35 UTC"
   },
   {
     "title": "Cluse",
