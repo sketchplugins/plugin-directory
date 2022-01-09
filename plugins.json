@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2021-12-24 13:14:11 UTC"
+    "lastUpdated": "2022-01-05 08:33:42 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2169,7 +2169,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2022-01-01 00:48:41 UTC"
+    "lastUpdated": "2022-01-06 18:29:24 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2021-12-13 09:37:22 UTC"
+    "lastUpdated": "2022-01-05 02:48:04 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -4772,7 +4772,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2021-11-17 07:37:18 UTC"
+    "lastUpdated": "2022-01-06 09:03:26 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -4908,7 +4908,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2021-11-22 16:26:18 UTC"
+    "lastUpdated": "2022-01-04 13:23:59 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2021-12-22 13:49:24 UTC"
+    "lastUpdated": "2022-01-04 21:23:36 UTC"
   },
   {
     "title": "lazy-styles-generator",
