@@ -354,7 +354,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 -   [Sketch Aspect Ratio](https://github.com/preciousforever/sketch-aspect-ratio), by precious design studio: A simple plugin to apply preset or custom aspect ratios to a selected layer.
 -   [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 -   [Sketch Bounding Boxer](https://github.com/preciousforever/sketch-bounding-boxer), by precious design studio: A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.
--   [Sketch Canvas item manager](https://github.com/icona79/Sketch-canvas-item-manager), by Matteo Gratton: Automatically show or hide all the Canvas items that are not part of an Artboard or a Main Symbol. This way, you can hide all the element that are not supposed to be visible in your Canvas and leave only your design visible.
 -   [Sketch Cats](https://github.com/pravdomil/sketch-cats), by pravdomil: Render layers in Sketch as various images of cats
 -   [Sketch Codelight](https://github.com/somebee/sketch-codelight), by somebee: Highlight code inside Text layers in Sketch
 -   [Sketch Color Contrast Analyzer](https://github.com/eaugustine/sketch-color-contrast-analyzer), by eaugustine: A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.
@@ -571,7 +570,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
--   [Sketch Canvas item manager](https://github.com/icona79/Sketch-canvas-item-manager), by Matteo Gratton: Automatically show or hide all the Canvas items that are not part of an Artboard or a Main Symbol. This way, you can hide all the element that are not supposed to be visible in your Canvas and leave only your design visible.
 -   [organizeLayers](https://github.com/eunicejson/organizeLayers), by Eunice J. Son: A plugin that allows short key commands to move layers up, down and reverse positions ↕️
 -   [Auto Arrange Artboards](https://github.com/srbsingh3/autoarrange), by Saurabh Singh: Automatically arrange the order of your artboards in the layer list according to their position on the canvas.
 -   [Remove All Guides](https://github.com/ichik/removeallguides), by Vadim Mikhnov: Removes all the guides from selected artboards.
