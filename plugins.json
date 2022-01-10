@@ -7279,5 +7279,14 @@
     "homepage": "https://github.com/HiInteractive/OutSystemsUIPlugin",
     "author": "Pedro Oliveira",
     "lastUpdated": "2021-11-18 16:51:12 UTC"
+  },
+  {
+    "title": "Sketch Canvas Item Manager",
+    "description": "Automatically show or hide all the Canvas items that are not part of an Artboard or a Main Symbol.",
+    "name": "Sketch-canvas-item-manager",
+    "owner": "icona79",
+    "author": "Matteo Gratton",
+    "homepage": "https://github.com/icona79/Sketch-canvas-item-manager",
+    "lastUpdated": "2021-01-10 13:00:00 UTC"
   }
 ]
