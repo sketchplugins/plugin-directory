@@ -7084,16 +7084,6 @@
     "lastUpdated": "2021-02-18 22:18:03 UTC"
   },
   {
-    "title": "Abstract Notebooks",
-    "name": "sketch-notebooks-plugin",
-    "description": "Seamlessly share designs to your Abstract Notebooks",
-    "author": "Abstract",
-    "owner": "goabstract",
-    "homepage": "https://github.com/goabstract/sketch-notebooks-plugin",
-    "appcast": "https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml",
-    "lastUpdated": "2021-05-18 14:37:35 UTC"
-  },
-  {
     "title": "iconfont-webview",
     "description": "New and easy way of using Icons in Sketch",
     "name": "sketch-iconfont-web",
