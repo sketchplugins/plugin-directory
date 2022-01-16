@@ -162,7 +162,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2021-09-01 22:21:30 UTC"
+    "lastUpdated": "2022-01-15 05:22:37 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2021-12-15 14:42:00 UTC",
+    "lastUpdated": "2022-01-11 14:30:06 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1244,7 +1244,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2021-06-22 07:45:17 UTC"
+    "lastUpdated": "2022-01-15 20:27:20 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-01-05 02:48:04 UTC"
+    "lastUpdated": "2022-01-10 08:33:51 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -4015,7 +4015,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2021-08-10 17:58:35 UTC"
+    "lastUpdated": "2022-01-15 02:54:40 UTC"
   },
   {
     "title": "Sketch Style To React Native",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2021-12-28 09:44:48 UTC"
+    "lastUpdated": "2022-01-11 17:58:27 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-01-04 21:23:36 UTC"
+    "lastUpdated": "2022-01-15 06:41:58 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5873,7 +5873,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2021-12-10 01:34:35 UTC"
+    "lastUpdated": "2022-01-15 18:20:00 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -5930,7 +5930,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2021-10-06 06:19:16 UTC"
+    "lastUpdated": "2022-01-13 23:51:10 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2021-12-24 12:24:35 UTC"
+    "lastUpdated": "2022-01-14 08:21:36 UTC"
   },
   {
     "title": "Cluse",
@@ -6608,7 +6608,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2021-09-16 08:27:32 UTC"
+    "lastUpdated": "2022-01-15 19:59:05 UTC"
   },
   {
     "title": "Slint",
@@ -7287,6 +7287,6 @@
     "owner": "icona79",
     "author": "Matteo Gratton",
     "homepage": "https://github.com/icona79/Sketch-canvas-item-manager",
-    "lastUpdated": "2021-01-10 13:00:00 UTC"
+    "lastUpdated": "2021-12-17 13:48:13 UTC"
   }
 ]
