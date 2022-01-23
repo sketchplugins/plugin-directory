@@ -162,7 +162,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2022-01-15 05:22:37 UTC"
+    "lastUpdated": "2022-01-22 09:03:42 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -1788,7 +1788,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2021-09-29 09:30:39 UTC"
+    "lastUpdated": "2022-01-18 10:16:28 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -3255,7 +3255,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2021-12-09 10:57:45 UTC"
+    "lastUpdated": "2022-01-19 11:13:16 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-01-11 17:58:27 UTC"
+    "lastUpdated": "2022-01-19 13:30:19 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4772,7 +4772,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2022-01-06 09:03:26 UTC"
+    "lastUpdated": "2022-01-17 08:41:00 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5273,7 +5273,7 @@
     "appcast": "https://raw.githubusercontent.com/maxdavid/sketch-foodreau/master/.appcast.xml",
     "homepage": "https://github.com/maxdavid/sketch-foodreau",
     "author": "Max David",
-    "lastUpdated": "2021-08-10 23:03:45 UTC"
+    "lastUpdated": "2022-01-22 04:29:49 UTC"
   },
   {
     "title": "Method",
@@ -5330,7 +5330,7 @@
     "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
     "homepage": "https://github.com/themainingredient/colormate",
     "author": "The Main Ingredient",
-    "lastUpdated": "2021-09-21 02:28:41 UTC"
+    "lastUpdated": "2022-01-22 04:27:45 UTC"
   },
   {
     "title": "Prototypes Invision ↔︎ Sketch",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-01-14 08:21:36 UTC"
+    "lastUpdated": "2022-01-22 16:13:38 UTC"
   },
   {
     "title": "Cluse",
