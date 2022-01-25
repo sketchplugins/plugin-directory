@@ -27,7 +27,8 @@ end
 def is_plugin_too_old? plugin
   if plugin['lastUpdated']
     last_update = Time.parse(plugin['lastUpdated'])
-    return (Time.now - last_update) > 60_000_000
+    # If plugin is more than a year old, it is probably not maintained
+    return (Time.now - last_update) > 30_000_000
   else
     return false
   end
