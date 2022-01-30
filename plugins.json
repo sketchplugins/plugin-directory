@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-01-05 08:33:42 UTC"
+    "lastUpdated": "2022-01-29 09:03:33 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2850,7 +2850,7 @@
     "title": "📕 PDF Export",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2018-11-18 05:36:46 UTC"
+    "lastUpdated": "2022-01-28 07:15:09 UTC"
   },
   {
     "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
@@ -4772,7 +4772,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2022-01-17 08:41:00 UTC"
+    "lastUpdated": "2022-01-25 03:13:50 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-01-15 06:41:58 UTC"
+    "lastUpdated": "2022-01-26 10:43:10 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5552,7 +5552,7 @@
     "appcast": "https://raw.githubusercontent.com/here-erhe/Design-Token-Exporter/master/.appcast.xml",
     "homepage": "https://github.com/here-erhe/Design-Token-Exporter",
     "author": "Herkko Huttunen",
-    "lastUpdated": "2021-10-05 20:21:04 UTC"
+    "lastUpdated": "2022-01-23 13:01:34 UTC"
   },
   {
     "title": "Tabula Rasa",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-01-22 16:13:38 UTC"
+    "lastUpdated": "2022-01-29 13:26:35 UTC"
   },
   {
     "title": "Cluse",
