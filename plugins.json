@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2021-10-04 07:09:04 UTC"
+    "lastUpdated": "2022-02-04 15:01:54 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-01-19 13:30:19 UTC"
+    "lastUpdated": "2022-02-02 08:35:37 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-01-29 13:26:35 UTC"
+    "lastUpdated": "2022-01-31 13:01:59 UTC"
   },
   {
     "title": "Cluse",
@@ -6717,7 +6717,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan",
-    "lastUpdated": "2021-02-15 05:03:34 UTC"
+    "lastUpdated": "2022-02-01 05:46:47 UTC"
   },
   {
     "title": "gradient-matrix-generator",
@@ -6746,7 +6746,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/microwave-release/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/microwave-release",
-    "lastUpdated": "2020-08-12 16:11:15 UTC"
+    "lastUpdated": "2022-02-01 05:31:22 UTC"
   },
   {
     "title": "DuplicateLater",
@@ -6892,7 +6892,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/sketch-json",
-    "lastUpdated": "2021-11-07 04:10:39 UTC"
+    "lastUpdated": "2022-02-01 05:23:34 UTC"
   },
   {
     "title": "Color Variables Migrator",
@@ -7071,7 +7071,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2021-10-14 11:31:23 UTC"
+    "lastUpdated": "2022-02-03 12:06:19 UTC"
   },
   {
     "title": "Fake News",
@@ -7140,7 +7140,7 @@
     "appcast": "https://raw.githubusercontent.com/kevintoepfer/select-n-slice/master/.appcast.xml",
     "homepage": "https://github.com/kevintoepfer/select-n-slice",
     "author": "Kevin Töpfer",
-    "lastUpdated": "2021-04-27 07:17:44 UTC"
+    "lastUpdated": "2022-02-03 09:13:57 UTC"
   },
   {
     "title": "Spelly",
@@ -7239,7 +7239,7 @@
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
     "homepage": "https://github.com/eaugustine/how-many-artboards",
     "author": "Erica Augustine",
-    "lastUpdated": "2021-09-20 21:42:12 UTC"
+    "lastUpdated": "2022-02-03 06:01:15 UTC"
   },
   {
     "title": "aspect-ratio-calculator",
