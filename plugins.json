@@ -278,7 +278,7 @@
     "author": "Matej Marjanovic",
     "appcast": "https://raw.githubusercontent.com/matej-marjanovic/6Spiral-Sketch-Plugin/master/appcast.xml",
     "homepage": "https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin",
-    "lastUpdated": "2018-11-15 20:29:53 UTC"
+    "lastUpdated": "2022-02-24 00:51:53 UTC"
   },
   {
     "title": "Specify (Alpha)",
@@ -523,7 +523,7 @@
     "owner": "mfouquet",
     "author": "Michael Fouquet",
     "homepage": "http://www.reselect.co",
-    "lastUpdated": "2021-08-12 17:42:02 UTC"
+    "lastUpdated": "2022-02-25 03:28:10 UTC"
   },
   {
     "description": "Help you find out popular design systems and download official Sketch UI kit.",
@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-01-11 14:30:06 UTC",
+    "lastUpdated": "2022-02-22 17:20:31 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2021-10-15 13:51:41 UTC"
+    "lastUpdated": "2022-02-24 18:05:31 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -3959,7 +3959,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2021-09-28 03:45:45 UTC"
+    "lastUpdated": "2022-02-26 08:39:11 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-02-16 15:37:19 UTC"
+    "lastUpdated": "2022-02-24 15:26:06 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-02-15 12:12:32 UTC"
+    "lastUpdated": "2022-02-24 14:04:33 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4772,7 +4772,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2022-01-25 03:13:50 UTC"
+    "lastUpdated": "2022-02-21 08:07:47 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-02-19 05:00:37 UTC"
+    "lastUpdated": "2022-02-26 01:59:15 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5930,7 +5930,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2022-02-18 13:19:16 UTC"
+    "lastUpdated": "2022-02-26 19:15:31 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-02-13 11:25:35 UTC"
+    "lastUpdated": "2022-02-22 09:48:50 UTC"
   },
   {
     "title": "Cluse",
@@ -6992,7 +6992,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2022-02-18 09:04:01 UTC"
+    "lastUpdated": "2022-02-24 08:10:49 UTC"
   },
   {
     "title": "import-shadows",
