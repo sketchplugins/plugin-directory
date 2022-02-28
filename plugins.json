@@ -7288,5 +7288,15 @@
     "author": "Matteo Gratton",
     "homepage": "https://github.com/icona79/Sketch-canvas-item-manager",
     "lastUpdated": "2021-12-17 13:48:13 UTC"
-  }
+  },
+  {
+    "title": "IntelligenceBank Assets",
+    "description": "The IntelligenceBank Assets plugin for Sketch makes it easy for designers to browse, search and insert their approved IntelligenceBank image and brand assets",
+    "name": "intelligencebank-assets",
+    "owner": "IntelligenceBank",
+    "appcast": "https://ac.intelligencebank.com/sketch/.appcast.xml", 
+    "homepage": "https://help.intelligencebank.com", 
+    "author": "IntelligenceBank",
+    "lastUpdated": "2022-02-28 05:00:00 UTC"
+  }  
 ]
