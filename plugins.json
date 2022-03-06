@@ -1084,7 +1084,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-02-24 18:05:31 UTC"
+    "lastUpdated": "2022-03-04 15:02:18 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -1244,7 +1244,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-02-19 10:44:39 UTC"
+    "lastUpdated": "2022-02-27 21:34:11 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-02-14 11:37:07 UTC"
+    "lastUpdated": "2022-03-04 14:41:34 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2320,7 +2320,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2021-11-04 04:43:55 UTC"
+    "lastUpdated": "2022-03-02 16:54:14 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -3143,7 +3143,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2021-08-31 10:45:20 UTC"
+    "lastUpdated": "2022-03-02 09:12:20 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-02-24 15:26:06 UTC"
+    "lastUpdated": "2022-03-03 14:54:04 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-02-24 14:04:33 UTC"
+    "lastUpdated": "2022-03-02 06:51:41 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-02-26 01:59:15 UTC"
+    "lastUpdated": "2022-02-27 08:14:44 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6608,7 +6608,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2022-02-19 10:27:51 UTC"
+    "lastUpdated": "2022-02-27 21:15:32 UTC"
   },
   {
     "title": "Slint",
@@ -6992,7 +6992,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2022-02-24 08:10:49 UTC"
+    "lastUpdated": "2022-02-28 07:41:41 UTC"
   },
   {
     "title": "import-shadows",
@@ -7071,7 +7071,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2022-02-03 12:06:19 UTC"
+    "lastUpdated": "2022-03-02 08:49:15 UTC"
   },
   {
     "title": "Fake News",
@@ -7298,5 +7298,5 @@
     "homepage": "https://help.intelligencebank.com/hc/en-us/articles/4417559546009", 
     "author": "IntelligenceBank",
     "lastUpdated": "2022-02-28 05:00:00 UTC"
-  }  
+  }
 ]
