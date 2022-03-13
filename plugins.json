@@ -1084,7 +1084,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-03-04 15:02:18 UTC"
+    "lastUpdated": "2022-03-11 21:50:21 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -2320,7 +2320,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2022-03-02 16:54:14 UTC"
+    "lastUpdated": "2022-03-09 08:29:42 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-03-03 14:54:04 UTC"
+    "lastUpdated": "2022-03-10 13:48:05 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-03-02 06:51:41 UTC"
+    "lastUpdated": "2022-03-11 10:39:46 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-02-27 08:14:44 UTC"
+    "lastUpdated": "2022-03-08 20:57:25 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5582,7 +5582,7 @@
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron",
-    "lastUpdated": "2019-09-17 21:36:44 UTC"
+    "lastUpdated": "2022-03-12 18:48:27 UTC"
   },
   {
     "title": "Sketch TinyPng compressor",
@@ -7071,7 +7071,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2022-03-02 08:49:15 UTC"
+    "lastUpdated": "2022-03-11 09:52:31 UTC"
   },
   {
     "title": "Fake News",
