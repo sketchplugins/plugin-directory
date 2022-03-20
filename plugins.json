@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-02-22 17:20:31 UTC",
+    "lastUpdated": "2022-03-14 17:36:57 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-03-11 21:50:21 UTC"
+    "lastUpdated": "2022-03-14 16:15:34 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -3491,7 +3491,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2022-02-11 08:21:26 UTC"
+    "lastUpdated": "2022-03-16 07:47:18 UTC"
   },
   {
     "title": "Translate.me",
@@ -3778,7 +3778,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2022-02-18 21:01:26 UTC"
+    "lastUpdated": "2022-03-14 13:39:48 UTC"
   },
   {
     "title": "Plot",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-03-11 10:39:46 UTC"
+    "lastUpdated": "2022-03-16 10:23:54 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5582,7 +5582,7 @@
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron",
-    "lastUpdated": "2022-03-12 18:48:27 UTC"
+    "lastUpdated": "2022-03-15 04:46:29 UTC"
   },
   {
     "title": "Sketch TinyPng compressor",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-02-22 09:48:50 UTC"
+    "lastUpdated": "2022-03-18 15:28:03 UTC"
   },
   {
     "title": "Cluse",
