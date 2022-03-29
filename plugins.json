@@ -7298,5 +7298,14 @@
     "homepage": "https://help.intelligencebank.com/hc/en-us/articles/4417559546009",
     "author": "IntelligenceBank",
     "lastUpdated": "2022-03-06 05:15:00 UTC"
+  },
+  {
+    "title": "Colors In Use",
+    "description": "Copy a list of all the used colors in your layers",
+    "name": "Sketch---Colors-in-use",
+    "owner": "icona79",
+    "homepage": "https://github.com/icona79/Sketch---Colors-in-use",
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-03-29 01:00:00 UTC"
   }
 ]
