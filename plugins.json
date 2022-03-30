@@ -7307,5 +7307,14 @@
     "homepage": "https://github.com/icona79/Sketch---Colors-in-use",
     "author": "Matteo Gratton",
     "lastUpdated": "2022-03-29 01:00:00 UTC"
+  },
+  {
+    "title": "List Font Families in Styles",
+    "description": "Copy a list of all the used font families active in your text styles.",
+    "name": "Sketch---List-Font-Families-in-use",
+    "owner": "icona79",
+    "homepage": "https://github.com/icona79/Sketch---List-Font-Families-in-use",
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-03-30 01:00:00 UTC"
   }
 ]
