@@ -162,7 +162,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2022-03-24 15:44:26 UTC"
+    "lastUpdated": "2022-03-28 00:19:43 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -1219,7 +1219,7 @@
     "title": "User Flows",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2021-04-22 10:20:32 UTC"
+    "lastUpdated": "2022-03-31 22:35:00 UTC"
   },
   {
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
@@ -1244,7 +1244,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-02-27 21:34:11 UTC"
+    "lastUpdated": "2022-03-31 09:28:49 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-02-18 09:45:33 UTC"
+    "lastUpdated": "2022-03-31 08:25:57 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2504,7 +2504,7 @@
     "title": "Copy Paste Position & Size",
     "owner": "ajilderda",
     "author": "Andre Jilderda",
-    "lastUpdated": "2021-08-12 20:12:19 UTC"
+    "lastUpdated": "2022-03-27 08:22:12 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
@@ -2915,7 +2915,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2022-02-13 16:22:15 UTC"
+    "lastUpdated": "2022-03-27 00:42:10 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -3359,7 +3359,7 @@
     "author": "Myrronth",
     "owner": "Myrronth",
     "name": "symbol-and-artboard-organizer",
-    "lastUpdated": "2021-12-02 08:10:02 UTC"
+    "lastUpdated": "2022-03-30 02:29:32 UTC"
   },
   {
     "title": "Library Symbol Replacer",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-03-23 17:33:29 UTC"
+    "lastUpdated": "2022-04-01 13:50:34 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4195,7 +4195,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameAutocomplete/master/.appcast.xml",
     "name": "SymbolNameAutocomplete",
-    "lastUpdated": "2021-07-08 14:56:06 UTC"
+    "lastUpdated": "2022-03-30 07:04:01 UTC"
   },
   {
     "title": "SymbolNameSync",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-03-16 10:23:54 UTC"
+    "lastUpdated": "2022-04-02 18:55:45 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-03-08 20:57:25 UTC"
+    "lastUpdated": "2022-03-27 03:31:57 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5911,7 +5911,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/PluginsList",
-    "lastUpdated": "2021-05-03 01:44:03 UTC"
+    "lastUpdated": "2022-03-29 01:25:45 UTC"
   },
   {
     "title": "Tin Drum",
@@ -6029,7 +6029,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-03-25 21:03:08 UTC"
+    "lastUpdated": "2022-03-28 06:45:57 UTC"
   },
   {
     "title": "Cluse",
@@ -6289,7 +6289,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2022-02-13 03:20:28 UTC"
+    "lastUpdated": "2022-03-29 16:02:21 UTC"
   },
   {
     "owner": "she1991",
@@ -6608,7 +6608,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2022-02-27 21:15:32 UTC"
+    "lastUpdated": "2022-03-31 08:27:22 UTC"
   },
   {
     "title": "Slint",
@@ -6688,7 +6688,7 @@
     "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
     "homepage": "http://xscape.fun/",
     "author": "Wooh",
-    "lastUpdated": "2021-08-31 07:14:58 UTC"
+    "lastUpdated": "2022-03-28 17:47:45 UTC"
   },
   {
     "title": "perfect-type",
@@ -6737,7 +6737,7 @@
     "appcast": "https://raw.githubusercontent.com/asp55/sketch-plugin-layers-to-x/master/.appcast.xml",
     "homepage": "https://github.com/asp55/sketch-plugin-layers-to-x",
     "author": "Andrew S. Parnell",
-    "lastUpdated": "2021-08-12 17:57:36 UTC"
+    "lastUpdated": "2022-03-27 03:51:29 UTC"
   },
   {
     "title": "microwave",
@@ -6756,7 +6756,7 @@
     "appcast": "https://raw.githubusercontent.com/KevinGutowski/Duplicate-Later/master/.appcast.xml",
     "homepage": "https://github.com/KevinGutowski/Duplicate-Later",
     "author": "Kevin Gutowski",
-    "lastUpdated": "2021-08-12 18:48:10 UTC"
+    "lastUpdated": "2022-03-27 05:35:09 UTC"
   },
   {
     "title": "Palette Cleanser",
@@ -6776,7 +6776,7 @@
     "appcast": "https://raw.githubusercontent.com/Rawnly/blobmaker_sketch/master/.appcast.xml",
     "homepage": "https://github.com/Rawnly/blobmaker_sketch",
     "author": "Federico Vitale",
-    "lastUpdated": "2021-08-12 20:06:28 UTC"
+    "lastUpdated": "2022-03-27 08:04:48 UTC"
   },
   {
     "title": "Component8",
@@ -6856,7 +6856,7 @@
     "appcast": "https://raw.githubusercontent.com/littlebusters/Collapse-All-Artboards-and-Groups/master/.appcast.xml",
     "homepage": "https://github.com/littlebusters/Collapse-All-Artboards-and-Groups",
     "author": "littlebusters",
-    "lastUpdated": "2021-08-12 21:13:35 UTC"
+    "lastUpdated": "2022-03-27 17:11:36 UTC"
   },
   {
     "description": "Start translating at the design phase and reduce time to market with the Memsource Translation Plugin.",
@@ -6902,7 +6902,7 @@
     "appcast": "https://raw.githubusercontent.com/sketch-hq/color-variables-migrator/master/.appcast.xml",
     "homepage": "https://github.com/sketch-hq/color-variables-migrator",
     "author": "Sketch",
-    "lastUpdated": "2021-08-12 21:44:20 UTC"
+    "lastUpdated": "2022-03-27 23:49:43 UTC"
   },
   {
     "title": "Omnis Skeleton Generator",
@@ -7071,7 +7071,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2022-03-11 09:52:31 UTC"
+    "lastUpdated": "2022-03-29 07:12:43 UTC"
   },
   {
     "title": "Fake News",
@@ -7210,7 +7210,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2021-12-29 04:49:03 UTC"
+    "lastUpdated": "2022-03-30 06:16:04 UTC"
   },
   {
     "title": "hs-plugin",
@@ -7306,7 +7306,7 @@
     "owner": "icona79",
     "homepage": "https://github.com/icona79/Sketch---Colors-in-use",
     "author": "Matteo Gratton",
-    "lastUpdated": "2022-03-29 01:00:00 UTC"
+    "lastUpdated": "2022-03-29 13:40:54 UTC"
   },
   {
     "title": "List Font Families in Styles",
@@ -7315,6 +7315,6 @@
     "owner": "icona79",
     "homepage": "https://github.com/icona79/Sketch---List-Font-Families-in-use",
     "author": "Matteo Gratton",
-    "lastUpdated": "2022-03-30 01:00:00 UTC"
+    "lastUpdated": "2022-03-29 13:37:48 UTC"
   }
 ]
