@@ -1219,7 +1219,7 @@
     "title": "User Flows",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2022-03-31 22:35:00 UTC"
+    "lastUpdated": "2022-04-08 18:38:56 UTC"
   },
   {
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
@@ -1244,7 +1244,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-03-31 09:28:49 UTC"
+    "lastUpdated": "2022-04-09 12:47:23 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1869,7 +1869,7 @@
     "title": "Git Sketch Plugin",
     "author": "Mathieu Dutour",
     "owner": "mathieudutour",
-    "lastUpdated": "2021-06-17 07:14:23 UTC"
+    "lastUpdated": "2022-04-09 13:31:22 UTC"
   },
   {
     "description": "Create precise segmented circular graphics for diagrams, instrumentation and analytics.",
@@ -2137,7 +2137,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2022-02-11 05:24:36 UTC"
+    "lastUpdated": "2022-04-09 04:47:52 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-03-31 08:25:57 UTC"
+    "lastUpdated": "2022-04-07 09:13:23 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2762,7 +2762,7 @@
     "title": "TinyFaces 👦🏼👨🏾👩🏻",
     "owner": "maximedegreve",
     "author": "Maxime De Greve",
-    "lastUpdated": "2021-08-09 09:55:38 UTC"
+    "lastUpdated": "2022-04-09 22:53:54 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-04-01 13:50:34 UTC"
+    "lastUpdated": "2022-04-09 04:14:09 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-04-02 18:55:45 UTC"
+    "lastUpdated": "2022-04-06 14:31:19 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4403,7 +4403,7 @@
     "appcast": "https://raw.githubusercontent.com/tbrasington/text-to-styles/master/.appcast.xml",
     "homepage": "https://github.com/tbrasington/text-to-styles",
     "author": "Thomas Brasington",
-    "lastUpdated": "2022-02-11 12:03:14 UTC"
+    "lastUpdated": "2022-04-09 15:27:20 UTC"
   },
   {
     "title": "Contrast",
@@ -4545,7 +4545,7 @@
     "owner": "paintedbicycle",
     "appcast": "https://raw.githubusercontent.com/paintedbicycle/sketch-data-faker/master/.appcast.xml",
     "homepage": "https://github.com/paintedbicycle/sketch-data-faker",
-    "lastUpdated": "2021-05-24 22:23:33 UTC"
+    "lastUpdated": "2022-04-09 20:25:16 UTC"
   },
   {
     "title": "Drafta",
@@ -4802,7 +4802,7 @@
     "appcast": "https://raw.githubusercontent.com/BaguetteEngineering/annotations-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/BaguetteEngineering/annotations-sketch-plugin",
     "author": "Baguette Engineering",
-    "lastUpdated": "2021-08-10 21:04:11 UTC"
+    "lastUpdated": "2022-04-09 22:44:23 UTC"
   },
   {
     "title": "Composite SVG",
@@ -4859,7 +4859,7 @@
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/typographie-frenchy/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/typographie-frenchy",
-    "lastUpdated": "2021-08-18 13:55:11 UTC"
+    "lastUpdated": "2022-04-09 13:24:07 UTC"
   },
   {
     "title": "Sketch Git Pro",
@@ -5728,7 +5728,7 @@
     "appcast": "https://raw.githubusercontent.com/Craigtut/liveplanet-sketch-datasupplier/master/.appcast.xml",
     "homepage": "https://github.com/Craigtut/liveplanet-sketch-datasupplier",
     "author": "Craig Tuttle",
-    "lastUpdated": "2022-02-12 01:51:54 UTC"
+    "lastUpdated": "2022-04-09 03:37:44 UTC"
   },
   {
     "title": "sketch-share",
@@ -5873,7 +5873,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2022-02-12 14:11:53 UTC"
+    "lastUpdated": "2022-04-09 22:25:54 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -6289,7 +6289,7 @@
     "appcast": "https://raw.githubusercontent.com/eddiesigner/sketch-dark-mode/master/.appcast.xml",
     "homepage": "https://sketch-dark-mode.eduardogomez.io",
     "author": "Eduardo Gómez",
-    "lastUpdated": "2022-03-29 16:02:21 UTC"
+    "lastUpdated": "2022-04-04 19:46:20 UTC"
   },
   {
     "owner": "she1991",
@@ -6405,7 +6405,7 @@
     "owner": "sketch-hq",
     "homepage": "https://www.sketch.com/extensions/plugins/unsplash/",
     "author": "Sketch BV",
-    "lastUpdated": "2022-02-11 12:13:25 UTC"
+    "lastUpdated": "2022-04-09 16:59:07 UTC"
   },
   {
     "title": "Sketch Resize Symbol",
@@ -6608,7 +6608,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2022-03-31 08:27:22 UTC"
+    "lastUpdated": "2022-04-09 12:45:12 UTC"
   },
   {
     "title": "Slint",
