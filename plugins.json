@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-03-14 17:36:57 UTC",
+    "lastUpdated": "2022-04-11 18:31:28 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1219,7 +1219,7 @@
     "title": "User Flows",
     "author": "Aby Nimbalkar",
     "owner": "abynim",
-    "lastUpdated": "2022-04-08 18:38:56 UTC"
+    "lastUpdated": "2022-04-14 02:33:17 UTC"
   },
   {
     "description": "An always-expanding collection of simple, focused plugins for Sketch.",
@@ -1244,7 +1244,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-04-09 12:47:23 UTC"
+    "lastUpdated": "2022-04-15 10:03:51 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1507,7 +1507,7 @@
     "title": "Sketch Layer Comps",
     "author": "Özgür Güneş",
     "owner": "ozgurgunes",
-    "lastUpdated": "2021-05-08 08:15:46 UTC"
+    "lastUpdated": "2022-04-10 04:15:39 UTC"
   },
   {
     "description": "A Sketch Plugin to align Text Layers by their baselines",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-04-07 09:13:23 UTC"
+    "lastUpdated": "2022-04-12 07:35:20 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3480,7 +3480,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2021-08-10 22:26:59 UTC",
+    "lastUpdated": "2022-04-10 04:13:47 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -3959,7 +3959,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2022-02-26 08:39:11 UTC"
+    "lastUpdated": "2022-04-12 07:03:49 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-04-09 04:14:09 UTC"
+    "lastUpdated": "2022-04-15 09:11:29 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4204,7 +4204,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2021-05-07 09:04:06 UTC"
+    "lastUpdated": "2022-04-10 15:26:20 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-04-06 14:31:19 UTC"
+    "lastUpdated": "2022-04-15 11:29:45 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4249,7 +4249,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2021-11-08 19:38:15 UTC"
+    "lastUpdated": "2022-04-13 11:56:10 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4859,7 +4859,7 @@
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/typographie-frenchy/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/typographie-frenchy",
-    "lastUpdated": "2022-04-09 13:24:07 UTC"
+    "lastUpdated": "2022-04-10 14:41:48 UTC"
   },
   {
     "title": "Sketch Git Pro",
@@ -5101,7 +5101,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2021-05-08 08:17:46 UTC"
+    "lastUpdated": "2022-04-10 03:33:50 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-03-27 03:31:57 UTC"
+    "lastUpdated": "2022-04-15 14:56:58 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5184,7 +5184,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2022-02-11 17:38:20 UTC"
+    "lastUpdated": "2022-04-10 04:48:55 UTC"
   },
   {
     "title": "Case Converter",
@@ -5194,7 +5194,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Case-Converter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
     "author": "Özgür Güneş",
-    "lastUpdated": "2021-05-08 08:14:54 UTC"
+    "lastUpdated": "2022-04-10 04:57:36 UTC"
   },
   {
     "title": "sketch-camera-hotkeys",
@@ -5244,7 +5244,7 @@
     "homepage": "https://github.com/jan-patrick/sketch_artboard-history",
     "author": "Jan Schneider",
     "appcast": "https://raw.githubusercontent.com/jan-patrick/sketch_artboard-history/master/.appcast.xml",
-    "lastUpdated": "2021-08-10 22:51:46 UTC"
+    "lastUpdated": "2022-04-10 06:07:51 UTC"
   },
   {
     "title": "jerryipsum",
@@ -5292,7 +5292,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/install-library-bundle/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/install-library-bundle",
     "author": "Ale Muñoz",
-    "lastUpdated": "2021-08-10 23:04:11 UTC"
+    "lastUpdated": "2022-04-10 07:10:06 UTC"
   },
   {
     "title": "🕵🏻‍ Find and Replace Text",
@@ -5523,7 +5523,7 @@
     "owner": "mLihs",
     "appcast": "https://raw.githubusercontent.com/mLihs/svg-bem/master/.appcast.xml",
     "homepage": "https://github.com/mLihs/svg-bem",
-    "lastUpdated": "2022-02-12 00:57:44 UTC"
+    "lastUpdated": "2022-04-10 13:55:27 UTC"
   },
   {
     "title": "Symbol Browser",
@@ -5572,7 +5572,7 @@
     "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
     "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
     "author": "www.mupixa.com",
-    "lastUpdated": "2021-09-01 07:10:25 UTC"
+    "lastUpdated": "2022-04-10 15:39:38 UTC"
   },
   {
     "title": "Excel Content Sync",
@@ -5766,7 +5766,7 @@
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
-    "lastUpdated": "2022-02-12 16:06:20 UTC"
+    "lastUpdated": "2022-04-11 18:20:04 UTC"
   },
   {
     "title": "Sketch Retain Text Color",
