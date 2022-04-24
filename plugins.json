@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-04-15 09:11:29 UTC"
+    "lastUpdated": "2022-04-20 16:16:51 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-04-15 11:29:45 UTC"
+    "lastUpdated": "2022-04-20 07:11:21 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4249,7 +4249,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2022-04-13 11:56:10 UTC"
+    "lastUpdated": "2022-04-22 15:44:52 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-04-15 14:56:58 UTC"
+    "lastUpdated": "2022-04-18 14:17:01 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5582,7 +5582,7 @@
     "appcast": "https://raw.githubusercontent.com/wousser/SketchExcelContentSync/master/.appcast.xml",
     "homepage": "https://github.com/wousser/SketchExcelContentSync",
     "author": "Wouter Bron",
-    "lastUpdated": "2022-03-15 04:46:29 UTC"
+    "lastUpdated": "2022-04-17 06:30:00 UTC"
   },
   {
     "title": "Sketch TinyPng compressor",
