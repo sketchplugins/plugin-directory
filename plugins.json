@@ -7316,5 +7316,15 @@
     "homepage": "https://github.com/icona79/Sketch---List-Font-Families-in-use",
     "author": "Matteo Gratton",
     "lastUpdated": "2022-03-29 13:37:48 UTC"
+  },
+  {
+    "title": "Artboard Multi-Scale",
+    "description": "Scale an Artboard to multiple dimensions at once.",
+    "owner": "weibeld",
+    "name": "artboard-multi-scale",
+    "homepage": "https://github.com/weibeld/artboard-multi-scale",
+    "appcast": "https://raw.githubusercontent.com/weibeld/artboard-multi-scale/main/.appcast.xml",
+    "author": "Daniel Weibel",
+    "lastUpdated": "2022-04-23 16:55:48 UTC"
   }
 ]
