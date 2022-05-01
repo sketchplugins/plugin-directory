@@ -162,7 +162,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2022-03-28 00:19:43 UTC"
+    "lastUpdated": "2022-04-28 21:23:24 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-03-22 04:01:43 UTC"
+    "lastUpdated": "2022-04-29 12:30:46 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2169,7 +2169,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2022-01-06 18:29:24 UTC"
+    "lastUpdated": "2022-04-29 19:06:42 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -3682,7 +3682,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://angle.sh",
-    "lastUpdated": "2021-07-09 16:50:53 UTC"
+    "lastUpdated": "2022-04-29 09:26:39 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-04-20 16:16:51 UTC"
+    "lastUpdated": "2022-04-28 14:04:44 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4170,7 +4170,7 @@
     "owner": "overflowapp",
     "name": "overflow-sketch-plugin",
     "homepage": "https://overflow.io",
-    "lastUpdated": "2021-07-21 07:29:20 UTC"
+    "lastUpdated": "2022-04-28 08:38:36 UTC"
   },
   {
     "title": "Kitchen",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-04-20 07:11:21 UTC"
+    "lastUpdated": "2022-04-27 21:04:41 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4249,7 +4249,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2022-04-22 15:44:52 UTC"
+    "lastUpdated": "2022-04-29 18:44:45 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4898,7 +4898,7 @@
     "appcast": "https://raw.githubusercontent.com/enriquezgomez/datazier-lens/master/.appcast.xml",
     "homepage": "https://github.com/enriquezgomez/datazier-lens",
     "author": "Victor Enriquez",
-    "lastUpdated": "2021-08-04 00:38:24 UTC"
+    "lastUpdated": "2022-04-28 20:22:50 UTC"
   },
   {
     "title": "Iconify",
@@ -5003,7 +5003,7 @@
     "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
     "author": "idix",
-    "lastUpdated": "2022-02-11 16:09:57 UTC"
+    "lastUpdated": "2022-04-28 19:04:39 UTC"
   },
   {
     "title": "String Value Puller",
@@ -5330,7 +5330,7 @@
     "appcast": "https://s3.eu-central-1.amazonaws.com/colormate-testing/appcast.xml",
     "homepage": "https://github.com/themainingredient/colormate",
     "author": "The Main Ingredient",
-    "lastUpdated": "2022-01-22 04:27:45 UTC"
+    "lastUpdated": "2022-04-28 19:49:38 UTC"
   },
   {
     "title": "Prototypes Invision ↔︎ Sketch",
@@ -5930,7 +5930,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2022-02-26 19:15:31 UTC"
+    "lastUpdated": "2022-04-29 01:45:03 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6549,7 +6549,7 @@
     "appcast": "https://raw.githubusercontent.com/chaos-machine/switch-theme/master/.appcast.xml",
     "homepage": "https://github.com/chaos-machine/switch-theme",
     "author": "Tudor Teisanu",
-    "lastUpdated": "2022-03-26 15:55:19 UTC"
+    "lastUpdated": "2022-04-29 09:45:12 UTC"
   },
   {
     "title": "Copy-Updater",
@@ -6608,7 +6608,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2022-04-09 12:45:12 UTC"
+    "lastUpdated": "2022-04-29 16:41:17 UTC"
   },
   {
     "title": "Slint",
@@ -7325,6 +7325,6 @@
     "homepage": "https://github.com/weibeld/artboard-multi-scale",
     "appcast": "https://raw.githubusercontent.com/weibeld/artboard-multi-scale/main/.appcast.xml",
     "author": "Daniel Weibel",
-    "lastUpdated": "2022-04-23 16:55:48 UTC"
+    "lastUpdated": "2022-04-23 17:57:38 UTC"
   }
 ]
