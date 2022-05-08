@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-04-29 12:30:46 UTC"
+    "lastUpdated": "2022-05-07 11:16:58 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-04-28 14:04:44 UTC"
+    "lastUpdated": "2022-05-05 13:56:24 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-04-27 21:04:41 UTC"
+    "lastUpdated": "2022-05-06 15:17:04 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5155,7 +5155,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-04-18 14:17:01 UTC"
+    "lastUpdated": "2022-05-03 13:05:27 UTC"
   },
   {
     "title": "lazy-styles-generator",
