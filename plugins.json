@@ -1,5 +1,14 @@
 [
   {
+    "title": "Colors Manager",
+    "description": "Import, Export and Update Sketch Color Variables to and from Color Tokens.",
+    "author": "Francesco Bertocci",
+    "owner": "fbmore",
+    "homepage": "https://github.com/fbmore/Colors-Manager-Sketch-Plugin",
+    "lastUpdated": "2022-05-09 10:00:00 UTC",
+    "appcast": "https://raw.githubusercontent.com/fbmore/Colors-Manager-Sketch-Plugin/master/appcast.xml"
+  },
+  {
     "title": "Above the Fold by VisualEyes",
     "description": "Mark your designs with a layer that indicates where is the Above the Fold portion.",
     "author": "VisualEyes",
