@@ -7328,7 +7328,7 @@
     "lastUpdated": "2022-04-23 17:57:38 UTC"
   },
   {
-    "title": "sketch-tokens-exporter",
+    "title": "Sketch Tokens Exporter",
     "description": "With this plugin you can export to your desktop a design-tokens.json file compatible with Amazon Style Dictionary.",
     "name": "sketch-design-tokens-exporter",
     "owner": "icona79",
