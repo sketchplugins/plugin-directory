@@ -7326,5 +7326,14 @@
     "appcast": "https://raw.githubusercontent.com/weibeld/artboard-multi-scale/main/.appcast.xml",
     "author": "Daniel Weibel",
     "lastUpdated": "2022-04-23 17:57:38 UTC"
+  },
+  {
+    "title": "skpm-publish-issue",
+    "description": "This is just a test",
+    "name": "skpm-publish-issue",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/skpm-publish-issue/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/skpm-publish-issue",
+    "author": "Ale M"
   }
 ]
