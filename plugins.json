@@ -7326,5 +7326,14 @@
     "appcast": "https://raw.githubusercontent.com/weibeld/artboard-multi-scale/main/.appcast.xml",
     "author": "Daniel Weibel",
     "lastUpdated": "2022-04-23 17:57:38 UTC"
+  },
+  {
+    "title": "Sketch Tokens Exporter",
+    "description": "With this plugin you can export to your desktop a design-tokens.json file compatible with Amazon Style Dictionary.",
+    "name": "sketch-design-tokens-exporter",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-design-tokens-exporter/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-design-tokens-exporter",
+    "author": "Matteo Gratton"
   }
 ]
