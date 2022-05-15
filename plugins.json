@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-05-07 11:16:58 UTC"
+    "lastUpdated": "2022-05-13 12:44:10 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-04-12 07:35:20 UTC"
+    "lastUpdated": "2022-05-11 06:04:28 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-05-05 13:56:24 UTC"
+    "lastUpdated": "2022-05-13 16:29:23 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-05-06 15:17:04 UTC"
+    "lastUpdated": "2022-05-11 20:01:16 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4762,7 +4762,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2022-02-11 13:58:45 UTC"
+    "lastUpdated": "2022-05-09 05:55:00 UTC"
   },
   {
     "title": "imgcook",
@@ -7071,7 +7071,7 @@
     "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
     "author": "Lokalise",
-    "lastUpdated": "2022-03-29 07:12:43 UTC"
+    "lastUpdated": "2022-05-09 09:03:35 UTC"
   },
   {
     "title": "Fake News",
@@ -7334,7 +7334,8 @@
     "owner": "icona79",
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-design-tokens-exporter/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-design-tokens-exporter",
-    "author": "Matteo Gratton"
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-05-13 14:35:57 UTC"
   },
   {
     "title": "Colors Manager",
