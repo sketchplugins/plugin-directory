@@ -99,7 +99,7 @@
     "owner": "bvmensvoort",
     "name": "sketch-last-updated",
     "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2021-02-24 20:14:56 UTC"
+    "lastUpdated": "2022-05-17 09:10:45 UTC"
   },
   {
     "title": "XD2Sketch Converter",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-05-11 06:04:28 UTC"
+    "lastUpdated": "2022-05-17 13:00:51 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3224,7 +3224,7 @@
     "author": "Iconscout",
     "owner": "iconscout",
     "name": "icondrop",
-    "lastUpdated": "2021-01-20 10:27:08 UTC"
+    "lastUpdated": "2022-05-17 06:58:23 UTC"
   },
   {
     "author": "Smartling",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-05-13 16:29:23 UTC"
+    "lastUpdated": "2022-05-17 09:28:05 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-05-11 20:01:16 UTC"
+    "lastUpdated": "2022-05-16 20:38:09 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4249,7 +4249,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2022-04-29 18:44:45 UTC"
+    "lastUpdated": "2022-05-16 20:04:01 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -7335,7 +7335,7 @@
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-design-tokens-exporter/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-design-tokens-exporter",
     "author": "Matteo Gratton",
-    "lastUpdated": "2022-05-13 14:35:57 UTC"
+    "lastUpdated": "2022-05-17 12:56:35 UTC"
   },
   {
     "title": "Colors Manager",
