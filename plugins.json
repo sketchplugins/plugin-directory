@@ -1771,7 +1771,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-05-13 12:44:10 UTC"
+    "lastUpdated": "2022-05-20 12:50:54 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2384,7 +2384,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-05-17 13:00:51 UTC"
+    "lastUpdated": "2022-05-20 12:49:48 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3959,7 +3959,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2022-04-12 07:03:49 UTC"
+    "lastUpdated": "2022-05-19 02:02:35 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4115,7 +4115,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-05-18 08:30:01 UTC"
+    "lastUpdated": "2022-05-18 09:48:31 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4239,7 +4239,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-05-16 20:38:09 UTC"
+    "lastUpdated": "2022-05-21 19:48:10 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6048,7 +6048,7 @@
     "owner": "Saint-loup",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/data-from-clipboard/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/data-from-clipboard",
-    "lastUpdated": "2021-02-06 22:49:53 UTC"
+    "lastUpdated": "2022-05-21 10:58:51 UTC"
   },
   {
     "title": "Vectary 3D",
@@ -6579,7 +6579,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sync-with-library/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sync-with-library",
     "author": "oodesign",
-    "lastUpdated": "2022-03-26 18:56:46 UTC"
+    "lastUpdated": "2022-05-20 06:04:52 UTC"
   },
   {
     "title": "Export Flat SVGs",
