@@ -209,14 +209,6 @@
     "appcast": "https://www.animaapp.com/timeline/appcast.xml"
   },
   {
-    "description": "Design and Development Platform(一站式设计开发工作台)",
-    "title": "Dapollo",
-    "author": "Alipay Design",
-    "homepage": "https://dapollo.alipay.com/",
-    "appcast": "https://quanyuanhang.github.io/Dapollo/appcast",
-    "lastUpdated": "2020-03-19 00:00:00 UTC"
-  },
-  {
     "description": "Keep your Sketch files immaculately clean and in order.",
     "name": "file-cleaner",
     "title": "File Cleaner",
@@ -1398,15 +1390,6 @@
     "owner": "matt-curtis",
     "author": "Matt Curtis",
     "lastUpdated": "2016-02-22 15:26:44 UTC"
-  },
-  {
-    "description": "Perspective Transformation for Sketch Artboards",
-    "name": "MagicMirror",
-    "title": "Magic Mirror",
-    "author": "James Tang",
-    "owner": "MagicSketch",
-    "homepage": "http://magicmirror.design",
-    "lastUpdated": "2020-09-01 01:29:44 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -3731,16 +3714,6 @@
     "lastUpdated": "2018-03-13 13:27:02 UTC"
   },
   {
-    "title": "Artboards Explorer",
-    "description": "Add utility functionnalities to Sketch's artboards",
-    "name": "artboards-explorer",
-    "owner": "Hito01",
-    "appcast": "https://raw.githubusercontent.com/Hito01/artboards-explorer/master/.appcast.xml",
-    "homepage": "https://github.com/Hito01/artboards-explorer",
-    "author": "Nicolas Collard",
-    "lastUpdated": "2018-03-03 16:25:14 UTC"
-  },
-  {
     "title": "nudgefromrtl",
     "description": "Quickly resize a layer horizontally from right to left with keyboard shortcuts",
     "name": "NudgeRTL",
@@ -5693,14 +5666,6 @@
     "lastUpdated": "2021-06-24 07:31:36 UTC"
   },
   {
-    "title": "Context for Sketch",
-    "description": "Add to your document pins linking to prototypes, inspirations, examples or anything else on the web.",
-    "appcast": "https://getcontext.app//builds/appcast.xml",
-    "homepage": "https://getcontext.app",
-    "author": "@dannyow",
-    "lastUpdated": "2020-03-02 00:00:00 UTC"
-  },
-  {
     "title": "Quopi",
     "description": "Fetches copy from the comments on your Abstract branch",
     "name": "Quopi",
@@ -6799,16 +6764,6 @@
     "lastUpdated": "2020-08-13 18:56:54 UTC"
   },
   {
-    "title": "elem-export",
-    "description": "This plugin will export all assets of the SELECTED layer",
-    "name": "Elem-Export-Sketch-Plugin",
-    "owner": "JoeyDon",
-    "appcast": "https://raw.githubusercontent.com/JoeyDon/Elem-Export-Sketch-Plugin/master/.appcast.xml",
-    "homepage": "https://github.com/JoeyDon/Elem-Export-Sketch-Plugin",
-    "author": "Joey",
-    "lastUpdated": "2020-08-18 07:48:14 UTC"
-  },
-  {
     "title": "helpweb",
     "description": "web html css image",
     "author": "caorukang",
@@ -6867,15 +6822,6 @@
     "appcast": "https://github.com/fbmore/FreeFlow-Sketch-Plugin/blob/master/appcast.xml"
   },
   {
-    "title": "Hatseflats for Sketch",
-    "description": "An experiment to get some form of generative design into the UI wireframe design process.",
-    "author": "Kevin van Breemaat",
-    "owner": "KevinvBre",
-    "name": "Hatseflats",
-    "homepage": "https://github.com/KevinvBre/Hatseflats",
-    "lastUpdated": "2020-07-31 13:27:57 UTC"
-  },
-  {
     "title": "sketch-json",
     "description": "a plugin to transfer sketch JSON into sketch Object",
     "name": "sketch-json",
@@ -6923,16 +6869,6 @@
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
     "lastUpdated": "2021-05-08 08:16:49 UTC"
-  },
-  {
-    "title": "Homey",
-    "description": "Insert Homey App icons directly into your Sketch projects.",
-    "name": "SketchPluginHomey",
-    "owner": "athombv",
-    "appcast": "https://raw.githubusercontent.com/athombv/SketchPluginHomey/master/.appcast.xml",
-    "homepage": "https://github.com/athombv/SketchPluginHomey",
-    "author": "Athom B.V.",
-    "lastUpdated": "2022-03-25 14:10:32 UTC"
   },
   {
     "title": "sketch-table-builder",
