@@ -6,7 +6,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [6Spiral](https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin), by Matej Marjanovic: 6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.
 - [Above the Fold by Visualeyes](https://www.visualeyes.design/tools/above-the-fold), by VisualEyes: Mark your designs with a layer that indicates where is the Above the Fold portion.
-- [Abstract Branches](https://abstract.com/branches), by Abstract: Abstract Branches lets you manage, version, and document your designs in one place
+- [Abstract](https://abstract.com), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [Add Colors to Palette](https://github.com/johnmcclumpha/sketch-add-colors-to-palette), by johnmcclumpha: Quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette.
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
@@ -508,7 +508,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
 - [Hs Plugin](https://github.com/Weibotaoa/Weibotaoa), by 韦博韬: sketch插件
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
-- [Abstract Branches](https://abstract.com/branches), by Abstract: Abstract Branches lets you manage, version, and document your designs in one place
+- [Abstract](https://abstract.com), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
 - [Click Thru Prototype](https://github.com/markhorgan/click-thru-prototype), by Mark Horgan: Generates a HTML click-through prototype of your responsive website design.
