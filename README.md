@@ -220,6 +220,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Foundation](https://github.com/13protons/sketch-foundation), by Alan Languirand: Toggle layer visibility for all matching layer names on any artboard to create foundational layers like notes and guides more manageable.
 - [Sketch Ignore](https://github.com/theboi/sketch-ignore), by Ryan The: s
 - [Sketch json](https://github.com/arvinxx/sketch-json), by arvinxx: a plugin to transfer sketch JSON into sketch Object
+- [Sketch Multi Lingual Plugin](https://github.com/GoetteSebastian/sketch-multi-lingual-plugin), by Sebastian Götte: A plugin that allowes the user to switch between languages to visualize how the webpage or app will look in the given language. The text fragments can be loaded as csv file.
 - [Sketch Share](https://github.com/robflaherty/sketch-share), by Rob Flaherty: Sketch plugin that exports artboards and generates an HTML file linking to each one
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [Sketch Webgl](https://github.com/endswithak/sketch-webgl), by endswithak:
@@ -267,17 +268,21 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
+- [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [Puzzle Publisher](https://github.com/ingrammicro/puzzle-publisher), by Ingram Micro: Exports Sketch artboards into linked HTML files and publish it on external site using SFTP.
+- [Design Tokens](https://github.com/design-meets-development/design-tokens-plugin), by Andreas Koutsoukos: A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.
+- [Puzzle Tokens](https://github.com/ingrammicro/puzzle-tokens), by Ingram Micro: Sketch.app plugin to apply design tokens to Sketch layers
+- [Chromata](https://github.com/vladimir-ionita/Chromata), by Vladimir Ionița: Find rogue colors
+- [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
+- [Sketch Multi Lingual Plugin](https://github.com/GoetteSebastian/sketch-multi-lingual-plugin), by Sebastian Götte: A plugin that allowes the user to switch between languages to visualize how the webpage or app will look in the given language. The text fragments can be loaded as csv file.
+- [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
-- [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [Sync with Library](https://github.com/oodesign/sync-with-library), by oodesign: Easily replace local symbols and layer & text styles with library ones.
-- [Chromata](https://github.com/vladimir-ionita/Chromata), by Vladimir Ionița: Find rogue colors
-- [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Sketch Tokens Exporter](https://github.com/icona79/sketch-design-tokens-exporter), by Matteo Gratton: With this plugin you can export to your desktop a design-tokens.json file compatible with Amazon Style Dictionary.
 - [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
 - [Icondrop](https://github.com/iconscout/icondrop), by Iconscout: Get access to 300,000+ icons right into Sketch App
-- [Puzzle Tokens](https://github.com/ingrammicro/puzzle-tokens), by Ingram Micro: Sketch.app plugin to apply design tokens to Sketch layers
 - [Colors Manager](https://github.com/fbmore/Colors-Manager-Sketch-Plugin), by Francesco Bertocci: Import, Export and Update Sketch Color Variables to and from Color Tokens.
 - [Lokalise Plugin](https://github.com/lokalise/lokalise-sketchplugin), by Lokalise: Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.
 - [Envato Elements](https://github.com/envato/extensions-sketch-plugin), by envato: Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!
@@ -296,7 +301,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Excel Content Sync](https://github.com/wousser/SketchExcelContentSync), by Wouter Bron:
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [User Flows](https://github.com/abynim/userflows), by Aby Nimbalkar: Generate user walkthroughs from Artboards in Sketch.
-- [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [represent.](https://getrepresent.com), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
 - [Mupixa](https://github.com/mupixa/sketch-plugin-mupixa), by www.mupixa.com: Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.
 - [SymbolNameSync](https://github.com/griffin-stewie/symbolnamesync), by griffin-stewie: This plugin gives you syncing names between Symbol masters and its instances.
@@ -326,7 +330,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [List Font Families in Styles](https://github.com/icona79/Sketch---List-Font-Families-in-use), by Matteo Gratton: Copy a list of all the used font families active in your text styles.
 - [Plugin List](https://github.com/griffin-stewie/PluginsList), by griffin-stewie: Sketch Plugin that gives you list of plugins you enabled as several text formats.
 - [🧑🏻‍🚀Xscape!](http://xscape.fun/), by Wooh: hi
-- [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Color Variables Migrator](https://github.com/sketch-hq/color-variables-migrator), by Sketch: Migrate your Layers and Styles to use Color Variables
 - [Collapse All Artboards And Groups](https://github.com/littlebusters/Collapse-All-Artboards-and-Groups), by littlebusters: Collapse all artboards and groups in the current document.
 - [Copy Paste Position & Size](https://github.com/ajilderda/sketch-copy-paste-position-size), by Andre Jilderda: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
@@ -361,7 +364,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [MarginSymbols](https://github.com/griffin-stewie/MarginSymbols), by griffin-stewie:
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Styler](https://github.com/oodesign/sketch-styler), by oodesign: Assigns styles automatically to all of your unstyled layers.
-- [Design Tokens](https://github.com/design-meets-development/design-tokens-plugin), by Andreas Koutsoukos: A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.
 - [Sketch Ipsum](https://github.com/sketch-hq/sketch-ipsum), by Sketch: A DataSupplier plugin that fills your text layers with random Lorem Ipsum
 - [Sketch DevTools](https://github.com/skpm/sketch-dev-tools), by skpm: See your plugin logs, inspect the state of Sketch documents, explore actions, and more
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
