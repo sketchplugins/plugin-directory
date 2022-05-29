@@ -558,7 +558,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-04-11 18:31:28 UTC",
+    "lastUpdated": "2022-05-23 22:23:18 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -2367,7 +2367,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-05-20 12:49:48 UTC"
+    "lastUpdated": "2022-05-26 03:46:24 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3932,7 +3932,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2022-05-19 02:02:35 UTC"
+    "lastUpdated": "2022-05-24 02:21:07 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4088,7 +4088,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-05-18 09:48:31 UTC"
+    "lastUpdated": "2022-05-22 15:17:24 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4212,7 +4212,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-05-21 19:48:10 UTC"
+    "lastUpdated": "2022-05-25 19:14:02 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4222,7 +4222,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2022-05-16 20:04:01 UTC"
+    "lastUpdated": "2022-05-24 20:09:46 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5945,7 +5945,7 @@
     "appcast": "https://github.com/design-meets-development/design-tokens-plugin/blob/master/.appcast.xml",
     "homepage": "https://github.com/design-meets-development/design-tokens-plugin",
     "author": "Andreas Koutsoukos",
-    "lastUpdated": "2022-03-24 07:21:43 UTC"
+    "lastUpdated": "2022-05-25 10:27:30 UTC"
   },
   {
     "title": "🎨 Tieba ColorPool",
@@ -5994,7 +5994,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-03-28 06:45:57 UTC"
+    "lastUpdated": "2022-05-27 11:57:18 UTC"
   },
   {
     "title": "Cluse",
@@ -6958,7 +6958,7 @@
     "appcast": "https://raw.githubusercontent.com/GoetteSebastian/sketch-multi-lingual-plugin/master/.appcast.xml",
     "homepage": "https://github.com/GoetteSebastian/sketch-multi-lingual-plugin",
     "author": "Sebastian Götte",
-    "lastUpdated": "2021-01-21 08:17:31 UTC"
+    "lastUpdated": "2022-05-23 15:35:57 UTC"
   },
   {
     "title": "pickle",
