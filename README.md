@@ -19,7 +19,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Artboard Manager](https://github.com/bomberstudios/artboard-manager#readme), by Ale Muñoz: Because moving artboards manually is *so* 2016.
 - [Artboard Multi Scale](https://github.com/weibeld/artboard-multi-scale), by Daniel Weibel: Scale an Artboard to multiple dimensions at once.
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
-- [Aspect Ratio Calculator](https://github.com/williamjhughes/aspect-ratio-calculator), by William Hughes:
 - [Atlassian Vendor Sketch Plugin](https://github.com/atlassian/sketch-plugin), by Atlassian Design: Design your next Atlassian app with our component libraries and suite of Sketch tools 💎
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
@@ -115,7 +114,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ImageOptim Sketch Plugin](https://github.com/imageoptim/sketch-plugin), by ImageOptim: ImageOptim plugin for the Sketch app
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
 - [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
-- [Import Colors](https://github.com/Ashung/import-colors-sketch), by Ashung: Import colors from swatches file to Sketch.
 - [Install Library Bundle](https://github.com/bomberstudios/install-library-bundle), by Ale Muñoz: Installs a bunch of shared Sketch Libraries at once, because life is too short for clicking links.
 - [Intelligencebank Assets](https://help.intelligencebank.com/hc/en-us/articles/4417559546009), by IntelligenceBank: The IntelligenceBank Assets plugin for Sketch makes it easy for designers to browse, search and insert their approved IntelligenceBank image and brand assets
 - [Inter Letter Spacing](https://github.com/giliamverheide/sketch-inter-letter-spacing), by Giliam Verheide: Sketch plugin that dynamically sets letter spacing of layers using the Inter font.
@@ -499,7 +497,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Next](https://github.com/endswithak/next), by Erik Myers: Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.
 - [Sketch Layer Name Check](https://github.com/pplcallmesatz/SketchDefaultNameCheck), by Satheesh Kumar S: Check the default sketch layer naming, this plugin is for the user who needs to standardise his Sketch layer namings.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
-- [Aspect Ratio Calculator](https://github.com/williamjhughes/aspect-ratio-calculator), by William Hughes:
 - [Hubble Sketch Plugin](https://github.com/inthepocket/hubble-sketch-plugin), by inthepocket: A Sketch plugin to extract assets and primitives and send them to Hubble.app
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
 - [Palette Cleanser](https://github.com/proteanstudio/sketch-palette-cleanser), by Protean Studio: Get a full rundown of the colors you're using in your Sketch document.
@@ -521,4 +518,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Framer Tools](https://updates.framer.com/download-latest/com.framer.pasteboard), by Framer B.V.: Copy layers from Sketch onto the canvas in Framer
 - [Export Colors](https://github.com/massimo-cassandro/sketch-export-colors-plugin), by Massimo Cassandro: Export document color components
 - [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
-- [Import Colors](https://github.com/Ashung/import-colors-sketch), by Ashung: Import colors from swatches file to Sketch.
