@@ -7253,5 +7253,14 @@
     "homepage": "https://github.com/fbmore/Colors-Manager-Sketch-Plugin",
     "lastUpdated": "2022-05-09 10:00:00 UTC",
     "appcast": "https://raw.githubusercontent.com/fbmore/Colors-Manager-Sketch-Plugin/master/appcast.xml"
+  },
+  {
+    "title": "Linked Data exporter",
+    "description": "Export selection as Linked Data-ready JSON file and images",
+    "name": "sketch-linked-data-exporter",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-linked-data-exporter/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-linked-data-exporter",
+    "author": "Matteo Gratton"
   }
 ]
