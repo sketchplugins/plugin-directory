@@ -7168,16 +7168,6 @@
     "lastUpdated": "2022-02-08 02:02:20 UTC"
   },
   {
-    "title": "aspect-ratio-calculator",
-    "description": "",
-    "name": "aspect-ratio-calculator",
-    "owner": "williamjhughes",
-    "appcast": "https://raw.githubusercontent.com/williamjhughes/aspect-ratio-calculator/master/.appcast.xml",
-    "homepage": "https://github.com/williamjhughes/aspect-ratio-calculator",
-    "author": "William Hughes",
-    "lastUpdated": "2021-09-25 11:07:31 UTC"
-  },
-  {
     "title": "Light to Dark 🌓",
     "description": "To create light to dark mode",
     "name": "lighttodark",
