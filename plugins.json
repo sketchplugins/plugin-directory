@@ -6016,14 +6016,6 @@
     "lastUpdated": "2022-05-21 10:58:51 UTC"
   },
   {
-    "title": "Vectary 3D",
-    "description": "Place your Sketch design into a predefined 3D mockup or your custom 3D element. Set your desired perspective in 3D and place the result into the scene with one click.",
-    "appcast": "https://www.vectary.com/sketch/download/appcast.xml",
-    "homepage": "https://www.vectary.com/sketch/",
-    "author": "Vectary",
-    "lastUpdated": "2020-01-23 11:39:23 UTC"
-  },
-  {
     "title": "Tinty",
     "description": "Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.\n",
     "name": "tinty",
