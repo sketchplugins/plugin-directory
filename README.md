@@ -130,6 +130,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Light Switch](https://github.com/TheBerriman/lightswitch-sketch), by Samuel Berriman: Toggle between Light or Dark symbols and text/layer styles.
 - [Light to Dark 🌓](https://github.com/pplcallmesatz/lighttodark), by Satheesh Kumar Selvaraj: To create light to dark mode
 - [Light/dark Switch](https://github.com/chaos-machine/switch-theme), by Tudor Teisanu: Switch artboards' theme
+- [Linked Data Exporter](https://github.com/icona79/sketch-linked-data-exporter), by Matteo Gratton: Export selection as Linked Data-ready JSON file and images
 - [List Font Families in Styles](https://github.com/icona79/Sketch---List-Font-Families-in-use), by Matteo Gratton: Copy a list of all the used font families active in your text styles.
 - [Live Planet Sketch Datasupplier](https://github.com/Craigtut/liveplanet-sketch-datasupplier), by Craig Tuttle: Supply's real data from Live Planet's API to Sketch for testing designs
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
@@ -235,7 +236,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Symbol Master Renamer](https://github.com/miguelangelnarvaezgo/symbol-master-renamer), by Miguel Angel Narvaez: Simple plugin to rename and organizing the master symbols with '/'.
 - [Symbol Namer](https://github.com/perrysmotors/symbol-namer), by Giles Perry: A plugin to help you rename symbols. Save default values, use override text, and do powerful, pattern-based renaming.
 - [Symbol States](https://github.com/ozgurgunes/Sketch-Symbol-States), by Ozgur Gunes: A Sketch plugin which saves overrides of a symbol instance as states to be applyable on another instance of that symbol later.
-- [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
 - [Symbol Insert](https://github.com/lifeofmle/symbol-insert), by Michael Le: Simple plugin to insert Sketch symbols
 - [Symbol Overlay Toggle](https://github.com/uxcourt/overlaytoggler), by uxcourt: A Sketch plug-in to seek specific style names in library-sourced symbols and toggle the styles.
 - [SymbolNameAutocomplete](https://github.com/griffin-stewie/symbolnameautocomplete), by griffin-stewie: This plugin gives you autocompletion of symbol names when creating a symbol.
@@ -517,4 +517,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [VisualEyes](https://github.com/loceye/sketch-visualeyes), by Loceye: Your professional AI design assistant.
 - [Framer Tools](https://updates.framer.com/download-latest/com.framer.pasteboard), by Framer B.V.: Copy layers from Sketch onto the canvas in Framer
 - [Export Colors](https://github.com/massimo-cassandro/sketch-export-colors-plugin), by Massimo Cassandro: Export document color components
-- [Symbol Swapper](https://github.com/sonburn/symbol-swapper), by Jason Burns: Swap the selected symbols and/or symbol instances to a master of the same name in a library.
