@@ -7262,5 +7262,14 @@
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-linked-data-exporter/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-linked-data-exporter",
     "author": "Matteo Gratton"
+  },
+  {
+    "title": "Easy Buttons",
+    "description": "Easily create button archetypes",
+    "name": "easy-buttons-sketch-plugin",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/easy-buttons-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/easy-buttons-sketch-plugin",
+    "author": "Matteo Gratton"
   }
 ]
