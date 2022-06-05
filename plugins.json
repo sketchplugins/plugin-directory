@@ -1236,7 +1236,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-04-15 10:03:51 UTC"
+    "lastUpdated": "2022-06-01 22:00:23 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -2367,7 +2367,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-05-26 03:46:24 UTC"
+    "lastUpdated": "2022-06-02 11:47:14 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -4088,7 +4088,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-05-22 15:17:24 UTC"
+    "lastUpdated": "2022-06-02 13:13:57 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4212,7 +4212,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-05-25 19:14:02 UTC"
+    "lastUpdated": "2022-06-03 16:11:15 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5128,7 +5128,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-05-03 13:05:27 UTC"
+    "lastUpdated": "2022-06-03 06:36:21 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5895,7 +5895,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2022-04-29 01:45:03 UTC"
+    "lastUpdated": "2022-06-01 07:31:22 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6565,7 +6565,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2022-04-29 16:41:17 UTC"
+    "lastUpdated": "2022-06-03 22:43:19 UTC"
   },
   {
     "title": "Slint",
@@ -6910,7 +6910,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2022-02-28 07:41:41 UTC"
+    "lastUpdated": "2022-05-30 09:15:23 UTC"
   },
   {
     "title": "import-shadows",
@@ -7243,7 +7243,7 @@
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-design-tokens-exporter/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-design-tokens-exporter",
     "author": "Matteo Gratton",
-    "lastUpdated": "2022-05-17 12:56:35 UTC"
+    "lastUpdated": "2022-06-02 12:24:48 UTC"
   },
   {
     "title": "Colors Manager",
@@ -7261,6 +7261,7 @@
     "owner": "icona79",
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-linked-data-exporter/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-linked-data-exporter",
-    "author": "Matteo Gratton"
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-06-02 12:13:04 UTC"
   }
 ]
