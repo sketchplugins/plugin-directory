@@ -7264,6 +7264,15 @@
     "author": "Matteo Gratton"
   },
   {
+    "title": "Nederlandse Namen",
+    "description": "Sketch plugin for Dutch names",
+    "name": "sketch-nederlandse-namen",
+    "owner": "sasjakoning",
+    "appcast": "https://raw.githubusercontent.com/sasjakoning/sketch-nederlandse-namen/master/.appcast.xml",
+    "homepage": "https://github.com/sasjakoning/sketch-nederlandse-namen",
+    "author": "Sasja Koning"
+  },
+  {
     "title": "Easy Buttons",
     "description": "Easily create button archetypes",
     "name": "easy-buttons-sketch-plugin",
