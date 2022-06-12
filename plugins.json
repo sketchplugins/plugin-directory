@@ -558,7 +558,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-05-23 22:23:18 UTC",
+    "lastUpdated": "2022-06-09 16:16:48 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1612,7 +1612,7 @@
     "title": "Select Similar Layers",
     "owner": "wonderbit",
     "author": "Wessley Roche",
-    "lastUpdated": "2020-08-12 05:17:34 UTC"
+    "lastUpdated": "2022-06-10 07:59:47 UTC"
   },
   {
     "description": "CSS Stylesheet integration to improve your workflow, with Less support. Attach once, updates your design automatically on stylesheet changes.",
@@ -1754,7 +1754,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-05-20 12:50:54 UTC"
+    "lastUpdated": "2022-06-09 10:01:53 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2898,7 +2898,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2022-03-27 00:42:10 UTC"
+    "lastUpdated": "2022-06-08 05:20:57 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -3003,7 +3003,7 @@
     "author": "Justinmind",
     "owner": "JustinmindDevelopment",
     "name": "justinmind-sketch",
-    "lastUpdated": "2022-06-03 00:00:00 UTC"
+    "lastUpdated": "2022-06-03 12:50:12 UTC"
   },
   {
     "owner": "mludowise",
@@ -4168,7 +4168,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameAutocomplete/master/.appcast.xml",
     "name": "SymbolNameAutocomplete",
-    "lastUpdated": "2022-03-30 07:04:01 UTC"
+    "lastUpdated": "2022-06-07 22:00:37 UTC"
   },
   {
     "title": "SymbolNameSync",
@@ -4212,7 +4212,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-06-03 16:11:15 UTC"
+    "lastUpdated": "2022-06-07 17:13:18 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6296,7 +6296,7 @@
     "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
     "homepage": "https://github.com/genexuslabs/sketchdesignops",
     "author": "Gastón Milano",
-    "lastUpdated": "2022-03-26 07:29:45 UTC"
+    "lastUpdated": "2022-06-10 00:53:36 UTC"
   },
   {
     "title": "Toggle Greyscale",
@@ -7261,7 +7261,8 @@
     "owner": "icona79",
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-linked-data-exporter/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-linked-data-exporter",
-    "author": "Matteo Gratton"
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-06-02 12:13:04 UTC"
   },
   {
     "title": "Nederlandse Namen",
@@ -7270,7 +7271,8 @@
     "owner": "sasjakoning",
     "appcast": "https://raw.githubusercontent.com/sasjakoning/sketch-nederlandse-namen/master/.appcast.xml",
     "homepage": "https://github.com/sasjakoning/sketch-nederlandse-namen",
-    "author": "Sasja Koning"
+    "author": "Sasja Koning",
+    "lastUpdated": "2022-06-02 14:26:46 UTC"
   },
   {
     "title": "Easy Buttons",
@@ -7280,6 +7282,6 @@
     "appcast": "https://raw.githubusercontent.com/icona79/easy-buttons-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/icona79/easy-buttons-sketch-plugin",
     "author": "Matteo Gratton",
-    "lastUpdated": "2022-06-02 12:13:04 UTC"
+    "lastUpdated": "2022-06-02 09:19:55 UTC"
   }
 ]
