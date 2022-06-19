@@ -1076,7 +1076,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-03-14 16:15:34 UTC"
+    "lastUpdated": "2022-06-17 11:23:10 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -3126,7 +3126,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2022-03-02 09:12:20 UTC"
+    "lastUpdated": "2022-06-17 16:28:23 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -3207,7 +3207,7 @@
     "author": "Iconscout",
     "owner": "iconscout",
     "name": "icondrop",
-    "lastUpdated": "2022-05-17 06:58:23 UTC"
+    "lastUpdated": "2022-06-17 09:27:39 UTC"
   },
   {
     "author": "Smartling",
@@ -4222,7 +4222,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2022-05-24 20:09:46 UTC"
+    "lastUpdated": "2022-06-15 18:59:31 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4567,7 +4567,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2020-12-17 20:02:20 UTC"
+    "lastUpdated": "2022-06-18 21:55:50 UTC"
   },
   {
     "title": "toggleLayers",
@@ -4881,7 +4881,7 @@
     "appcast": "https://raw.githubusercontent.com/iconify/iconify-sketch/master/.appcast.xml",
     "homepage": "https://github.com/iconify/iconify-sketch",
     "author": "Vjacheslav Trushkin",
-    "lastUpdated": "2022-01-04 13:23:59 UTC"
+    "lastUpdated": "2022-06-15 20:36:35 UTC"
   },
   {
     "title": "Connection Flow Arrows",
@@ -6910,7 +6910,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2022-05-30 09:15:23 UTC"
+    "lastUpdated": "2022-06-17 07:08:00 UTC"
   },
   {
     "title": "import-shadows",
