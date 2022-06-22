@@ -197,6 +197,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Layer Comps](https://github.com/ozgurgunes/sketch-layer-comps), by Özgür Güneş: A plugin which saves and applies layer states to create different compositions of current page.
 - [Sketch Layer Name Check](https://github.com/pplcallmesatz/SketchDefaultNameCheck), by Satheesh Kumar S: Check the default sketch layer naming, this plugin is for the user who needs to standardise his Sketch layer namings.
 - [Sketch Library Unlinker](https://github.com/perrysmotors/sketch-library-unlinker), by Giles Perry: Unlink symbols linked to a specific library, or unlink symbols that have been deleted in their libraries.
+- [Sketch Lineout](https://github.com/icona79/sketch-lineout), by Matteo Gratton: Lineout your artboards for handoff preview
 - [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator), by Eduardo Gómez Vásquez: Plugin to fill a layer with a map generated from a location (Powered by Google Maps)
 - [Sketch Material](https://github.com/websiddu/sketch-material), by Siddhartha Gudipati: Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
