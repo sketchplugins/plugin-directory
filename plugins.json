@@ -7283,5 +7283,14 @@
     "homepage": "https://github.com/icona79/easy-buttons-sketch-plugin",
     "author": "Matteo Gratton",
     "lastUpdated": "2022-06-02 09:19:55 UTC"
+  },
+  {
+    "title": "Images Assets Manager",
+    "description": "Prepare all your image asstes in an artboard, ready to be exported",
+    "name": "sketch-images-assets-manager",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-images-assets-manager/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-images-assets-manager",
+    "author": "Matteo Gratton"
   }
 ]
