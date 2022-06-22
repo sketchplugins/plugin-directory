@@ -7285,6 +7285,15 @@
     "lastUpdated": "2022-06-02 09:19:55 UTC"
   },
   {
+    "title": "Sketch Lineout",
+    "description": "Lineout your artboards for handoff preview",
+    "name": "sketch-lineout",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-lineout/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-lineout",
+    "author": "Matteo Gratton"
+  },
+  {
     "title": "Images Assets Manager",
     "description": "Prepare all your image asstes in an artboard, ready to be exported",
     "name": "sketch-images-assets-manager",
