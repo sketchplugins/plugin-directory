@@ -7292,5 +7292,14 @@
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-lineout/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-lineout",
     "author": "Matteo Gratton"
+  },
+  {
+    "title": "Images Assets Manager",
+    "description": "Prepare all your image asstes in an artboard, ready to be exported",
+    "name": "sketch-images-assets-manager",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-images-assets-manager/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-images-assets-manager",
+    "author": "Matteo Gratton"
   }
 ]

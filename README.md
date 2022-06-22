@@ -91,7 +91,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Frontitude](https://www.frontitude.com), by Frontitude: One place for your UX copy, from design to production.
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
 - [Genus](https://github.com/keplerlab/genus), by Kepler Lab: A sketch plugin for exporting prototype website (static html css) from your sketch designs
-- [ghost](https://github.com/tmdvs/ghost-sketch-plugin), by Tim Davies: Randomly change the opacity of selected layers
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
 - [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
@@ -108,6 +107,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Icons → Code](https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live), by Sugarcode: Export Icons as vector-perfect code components for Android, React, ReactNative, Angular, Vue, TTF, EPS, PDF, Custom components and more.
 - [ImageCodeExporter](https://github.com/funfungo/ImageCodeExporter), by funfungo: A Plugin that export your sketch layer for code usage
 - [ImageOptim Sketch Plugin](https://github.com/imageoptim/sketch-plugin), by ImageOptim: ImageOptim plugin for the Sketch app
+- [Images Assets Manager](https://github.com/icona79/sketch-images-assets-manager), by Matteo Gratton: Prepare all your image asstes in an artboard, ready to be exported
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
 - [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
 - [Install Library Bundle](https://github.com/bomberstudios/install-library-bundle), by Ale Muñoz: Installs a bunch of shared Sketch Libraries at once, because life is too short for clicking links.
@@ -145,7 +145,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Nederlandse Namen](https://github.com/sasjakoning/sketch-nederlandse-namen), by Sasja Koning: Sketch plugin for Dutch names
 - [Next](https://github.com/endswithak/next), by Erik Myers: Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
-- [omnislibdirextract](https://github.com/taohsu/omnislibdirextract), by taohsu:
 - [Orbison](https://github.com/ilikescience/orbison), by ilikescience: A Sketch plugin for Bitly's product design system
 - [Organize Layers](https://github.com/eunicejson/organizeLayers), by Eunice J. Son: A plugin that allows short key commands to move layers up, down and reverse positions ↕️
 - [Outsystems ui Plugin](https://github.com/HiInteractive/OutSystemsUIPlugin), by Pedro Oliveira:
@@ -512,5 +511,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
 - [Click Thru Prototype](https://github.com/markhorgan/click-thru-prototype), by Mark Horgan: Generates a HTML click-through prototype of your responsive website design.
-- [ghost](https://github.com/tmdvs/ghost-sketch-plugin), by Tim Davies: Randomly change the opacity of selected layers
-- [omnislibdirextract](https://github.com/taohsu/omnislibdirextract), by taohsu:
