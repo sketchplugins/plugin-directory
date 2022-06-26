@@ -162,7 +162,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2022-04-28 21:23:24 UTC"
+    "lastUpdated": "2022-06-25 07:58:28 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -182,7 +182,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/sketch",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2021-12-06 13:01:52 UTC"
+    "lastUpdated": "2022-06-22 15:07:56 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -558,7 +558,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-06-09 16:16:48 UTC",
+    "lastUpdated": "2022-06-23 14:13:18 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1076,7 +1076,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-06-17 11:23:10 UTC"
+    "lastUpdated": "2022-06-23 15:32:22 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -3126,7 +3126,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2022-06-17 16:28:23 UTC"
+    "lastUpdated": "2022-06-22 14:38:09 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -4088,7 +4088,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-06-02 13:13:57 UTC"
+    "lastUpdated": "2022-06-23 06:56:18 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4567,7 +4567,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2022-06-18 21:55:50 UTC"
+    "lastUpdated": "2022-06-23 11:42:24 UTC"
   },
   {
     "title": "toggleLayers",
@@ -5128,7 +5128,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-06-03 06:36:21 UTC"
+    "lastUpdated": "2022-06-23 04:19:28 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5157,7 +5157,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2022-04-10 04:48:55 UTC"
+    "lastUpdated": "2022-06-24 10:14:58 UTC"
   },
   {
     "title": "Case Converter",
@@ -5246,7 +5246,7 @@
     "appcast": "https://raw.githubusercontent.com/maxdavid/sketch-foodreau/master/.appcast.xml",
     "homepage": "https://github.com/maxdavid/sketch-foodreau",
     "author": "Max David",
-    "lastUpdated": "2022-02-11 19:00:25 UTC"
+    "lastUpdated": "2022-06-24 23:29:11 UTC"
   },
   {
     "title": "Method",
@@ -5515,7 +5515,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2022-02-12 01:52:14 UTC"
+    "lastUpdated": "2022-06-23 15:39:31 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -6333,7 +6333,7 @@
     "appcast": "https://github.com/TiledCo/tiled-sketch-plugin/blob/master/appcast.xml",
     "homepage": "https://tiled.co/tiled-for-sketch-plugin",
     "author": "Tiled Inc.",
-    "lastUpdated": "2021-12-08 18:51:04 UTC"
+    "lastUpdated": "2022-06-21 21:43:15 UTC"
   },
   {
     "title": "Find Dirty Styles",
@@ -6516,7 +6516,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2022-03-26 16:37:22 UTC"
+    "lastUpdated": "2022-06-22 17:13:08 UTC"
   },
   {
     "title": "Isometry",
@@ -7291,7 +7291,8 @@
     "owner": "icona79",
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-lineout/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-lineout",
-    "author": "Matteo Gratton"
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-06-23 09:42:24 UTC"
   },
   {
     "title": "Images Assets Manager",
@@ -7300,6 +7301,7 @@
     "owner": "icona79",
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-images-assets-manager/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-images-assets-manager",
-    "author": "Matteo Gratton"
+    "author": "Matteo Gratton",
+    "lastUpdated": "2022-06-21 09:28:23 UTC"
   }
 ]
