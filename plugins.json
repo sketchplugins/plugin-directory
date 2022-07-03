@@ -7303,5 +7303,14 @@
     "homepage": "https://github.com/icona79/sketch-images-assets-manager",
     "author": "Matteo Gratton",
     "lastUpdated": "2022-06-21 09:28:23 UTC"
+  },
+  {
+    "title": "random-color-sketch",
+    "description": "",
+    "name": "random-color-sketch",
+    "owner": "yunser",
+    "appcast": "https://raw.githubusercontent.com/yunser/random-color-sketch/master/.appcast.xml",
+    "homepage": "https://github.com/yunser/random-color-sketch",
+    "author": "“cjhgit”"
   }
 ]
