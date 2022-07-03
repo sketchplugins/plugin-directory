@@ -558,7 +558,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-06-23 14:13:18 UTC",
+    "lastUpdated": "2022-06-29 18:56:21 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -4088,7 +4088,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-06-23 06:56:18 UTC"
+    "lastUpdated": "2022-06-29 14:05:05 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4212,7 +4212,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-06-07 17:13:18 UTC"
+    "lastUpdated": "2022-06-29 09:21:15 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4270,7 +4270,7 @@
     "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
     "homepage": "https://github.com/wantedly/sketch-wt-design",
     "author": "Yoshinori Kawasaki",
-    "lastUpdated": "2020-10-12 06:52:45 UTC"
+    "lastUpdated": "2022-06-26 07:21:34 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4832,7 +4832,7 @@
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
     "appcast": "https://raw.githubusercontent.com/Saint-loup/typographie-frenchy/master/.appcast.xml",
     "homepage": "https://github.com/Saint-loup/typographie-frenchy",
-    "lastUpdated": "2022-04-10 14:41:48 UTC"
+    "lastUpdated": "2022-06-30 12:39:27 UTC"
   },
   {
     "title": "Sketch Git Pro",
@@ -6674,7 +6674,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/pan/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/pan",
-    "lastUpdated": "2022-02-01 05:46:47 UTC"
+    "lastUpdated": "2022-06-26 09:28:59 UTC"
   },
   {
     "title": "gradient-matrix-generator",
@@ -6703,7 +6703,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/microwave-release/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/microwave-release",
-    "lastUpdated": "2022-02-01 05:31:22 UTC"
+    "lastUpdated": "2022-06-26 08:36:54 UTC"
   },
   {
     "title": "DuplicateLater",
@@ -6820,7 +6820,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/sketch-json",
-    "lastUpdated": "2022-02-01 05:23:34 UTC"
+    "lastUpdated": "2022-06-26 07:45:49 UTC"
   },
   {
     "title": "Color Variables Migrator",
@@ -7167,7 +7167,7 @@
     "appcast": "https://raw.githubusercontent.com/pplcallmesatz/lighttodark/master/.appcast.xml",
     "homepage": "https://github.com/pplcallmesatz/lighttodark",
     "author": "Satheesh Kumar Selvaraj",
-    "lastUpdated": "2022-02-17 08:17:17 UTC"
+    "lastUpdated": "2022-06-29 03:58:49 UTC"
   },
   {
     "title": "Transifex Sketch Plugin",
