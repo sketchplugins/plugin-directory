@@ -790,14 +790,6 @@
     "title": "Sketch iOS Bar Color Calculator"
   },
   {
-    "description": "Remove a layer's fills and borders in Sketch.",
-    "name": "Remove-Fills-and-Borders",
-    "title": "Remove Fills and Borders",
-    "author": "Seb Jachec",
-    "owner": "sebj",
-    "lastUpdated": "2020-06-12 14:04:36 UTC"
-  },
-  {
     "description": "This Sketch plugin provides a preview command (⌘P) that will open a specially named slice in Skala Preview. The plugin works by exporting the first slice named Preview to Sketch's cache directory and opening that file in Skala Preview.",
     "name": "sketch-preview",
     "title": "Sketch Preview",
@@ -2053,15 +2045,6 @@
     "owner": "levinmejia",
     "author": "Shopify + precious design studio",
     "lastUpdated": "2016-02-02 17:08:23 UTC"
-  },
-  {
-    "description": "A sketch plugin to support the open color file format",
-    "title": "Open Color Plugin for Sketch",
-    "name": "sketch-opencolor",
-    "owner": "opencolor-tools",
-    "author": "OpenColor",
-    "homepage": "http://opencolor.tools/",
-    "lastUpdated": "2018-06-15 21:46:34 UTC"
   },
   {
     "description": "Multi step user flows in Framer.js",
@@ -4310,13 +4293,6 @@
     "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
     "homepage": "https://github.com/reinvanoyen/typex",
     "lastUpdated": "2022-02-11 12:00:07 UTC"
-  },
-  {
-    "title": "ColorSpark for Sketch",
-    "description": "A simple tool to help designers discover unique colors and gradients directly in Sketch.",
-    "author": "Luke Johnson",
-    "homepage": "https://colorspark.app/sketch",
-    "lastUpdated": "2019-02-18 15:51:00 UTC"
   },
   {
     "title": "Event Badges By David",
@@ -6636,16 +6612,6 @@
     "homepage": "https://github.com/chewbecky/wireframr",
     "author": "chewbecca",
     "lastUpdated": "2022-03-26 23:01:55 UTC"
-  },
-  {
-    "title": "🧑🏻‍🚀Xscape!",
-    "description": "hi",
-    "name": "SketchWooh",
-    "owner": "Woohuang",
-    "appcast": "https://raw.githubusercontent.com/Woohuang/SketchWooh/master/appcast.xml",
-    "homepage": "http://xscape.fun/",
-    "author": "Wooh",
-    "lastUpdated": "2022-03-28 17:47:45 UTC"
   },
   {
     "title": "perfect-type",
