@@ -7279,5 +7279,14 @@
     "homepage": "https://github.com/yunser/random-color-sketch",
     "author": "“cjhgit”",
     "lastUpdated": "2022-07-03 14:22:14 UTC"
+  },
+  {
+    "title": "Sketch Invert Fills",
+    "description": "Invert fills beween 2 selected layers",
+    "name": "sketch-invert-fills",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-invert-fills/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-invert-fills",
+    "author": "Matteo Gratton"
   }
 ]
