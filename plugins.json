@@ -162,7 +162,7 @@
     "author": "Atlassian Design",
     "homepage": "https://github.com/atlassian/sketch-plugin",
     "appcast": "https://ecosystem.atlassian.design/tools/sketch/plugin/appcast.xml",
-    "lastUpdated": "2022-06-25 07:58:28 UTC"
+    "lastUpdated": "2022-07-20 14:31:34 UTC"
   },
   {
     "title": "Custom Zoom",
@@ -215,7 +215,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2022-02-11 13:42:59 UTC"
+    "lastUpdated": "2022-07-20 08:25:27 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -558,7 +558,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-06-29 18:56:21 UTC",
+    "lastUpdated": "2022-07-25 18:02:24 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1228,7 +1228,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-06-01 22:00:23 UTC"
+    "lastUpdated": "2022-07-21 17:43:35 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1443,7 +1443,7 @@
     "title": "Logo Fetcher",
     "author": "Tobi Kremer",
     "owner": "soulchild",
-    "lastUpdated": "2021-08-10 19:18:00 UTC"
+    "lastUpdated": "2022-07-20 03:11:51 UTC"
   },
   {
     "description": "Sketch plugin to count number of characters in a text layer",
@@ -1482,7 +1482,7 @@
     "title": "Sketch Layer Comps",
     "author": "Özgür Güneş",
     "owner": "ozgurgunes",
-    "lastUpdated": "2022-04-10 04:15:39 UTC"
+    "lastUpdated": "2022-07-20 04:08:46 UTC"
   },
   {
     "description": "A Sketch Plugin to align Text Layers by their baselines",
@@ -1514,7 +1514,7 @@
     "title": "Find And Replace",
     "author": "Martin Steven. Maintained by Thierry Charbonnel",
     "owner": "thierryc",
-    "lastUpdated": "2022-02-11 18:20:23 UTC"
+    "lastUpdated": "2022-07-20 04:50:58 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
