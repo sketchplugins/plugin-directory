@@ -7297,5 +7297,13 @@
     "appcast": "https://raw.githubusercontent.com/jjj201200/icon2React/master/.appcast.xml",
     "homepage": "https://github.com/jjj201200/icon2React",
     "author": "DrowsyFlesh"
+  },
+  {
+    "title": "SmartTable",
+    "name": "smartTable",
+    "owner": "Penndo",
+    "appcast": "https://raw.githubusercontent.com/Penndo/smartTable/master/.appcast.xml",
+    "homepage": "https://github.com/Penndo/smartTable",
+    "author": "Penndo"
   }
 ]
