@@ -306,7 +306,7 @@
     "owner": "symdesign",
     "author": "Friedrich Schultheiss",
     "homepage": "https://github.com/symdesign/sketch-auto-translate",
-    "lastUpdated": "2021-05-21 15:30:55 UTC"
+    "lastUpdated": "2022-08-03 08:45:01 UTC"
   },
   {
     "description": "Reverse the position or depth of selected elements.",
@@ -690,7 +690,7 @@
     "title": "Sketch Action",
     "author": "Khoa Pham",
     "owner": "onmyway133",
-    "lastUpdated": "2020-04-22 20:45:33 UTC"
+    "lastUpdated": "2022-08-02 19:28:46 UTC"
   },
   {
     "description": "Generate lines originating from a certain coordinate of an artboard.",
@@ -1068,7 +1068,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-06-23 15:32:22 UTC"
+    "lastUpdated": "2022-08-05 14:27:26 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -2986,7 +2986,7 @@
     "author": "Justinmind",
     "owner": "JustinmindDevelopment",
     "name": "justinmind-sketch",
-    "lastUpdated": "2022-06-03 12:50:12 UTC"
+    "lastUpdated": "2022-08-01 07:18:18 UTC"
   },
   {
     "owner": "mludowise",
@@ -3290,7 +3290,7 @@
     "author": "Mattias Hemmingsson",
     "owner": "Hemmingsson",
     "name": "Sketch-Title-Case",
-    "lastUpdated": "2018-01-08 15:58:32 UTC"
+    "lastUpdated": "2022-08-04 10:53:43 UTC"
   },
   {
     "title": "Sketch Resize",
@@ -4071,7 +4071,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-07-29 16:20:17 UTC"
+    "lastUpdated": "2022-08-05 15:15:55 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4195,7 +4195,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-07-14 17:44:48 UTC"
+    "lastUpdated": "2022-08-04 11:55:59 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -6836,7 +6836,7 @@
     "appcast": "https://raw.githubusercontent.com/EricKramp/sketch-table-builder/master/.appcast.xml",
     "homepage": "https://github.com/EricKramp/sketch-table-builder",
     "author": "Eric Kramp",
-    "lastUpdated": "2020-11-05 20:18:28 UTC"
+    "lastUpdated": "2022-08-05 21:05:57 UTC"
   },
   {
     "title": "Baseline Offsetter",
@@ -7123,7 +7123,7 @@
     "appcast": "https://raw.githubusercontent.com/eaugustine/how-many-artboards/master/.appcast.xml",
     "homepage": "https://github.com/eaugustine/how-many-artboards",
     "author": "Erica Augustine",
-    "lastUpdated": "2022-02-08 02:02:20 UTC"
+    "lastUpdated": "2022-08-04 19:38:22 UTC"
   },
   {
     "title": "Light to Dark 🌓",
