@@ -88,7 +88,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Flow Exporter](https://github.com/romannurik/Sketch-FlowExporter), by Roman Nurik: A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.
 - [foodreau](https://github.com/maxdavid/sketch-foodreau), by Max David: Data supplier plugin for populating designs with real food recipes.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
-- [Frontitude](https://www.frontitude.com), by Frontitude: One place for your UX copy, from design to production.
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
 - [Genus](https://github.com/keplerlab/genus), by Kepler Lab: A sketch plugin for exporting prototype website (static html css) from your sketch designs
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
@@ -229,7 +228,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [Slint](https://github.com/nusability/slint), by Johannes Nanninga: A linter for Sketch files
 - [SmartTable](https://github.com/Penndo/smartTable), by Penndo:
-- [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Stickers](https://github.com/romannurik/Sketch-Stickers), by Roman Nurik: A Sketch plugin that lets you browse and quickly drag+drop stickers (specially tagged layers) in your Sketch Libraries.
 - [stuffing](https://github.com/Ashung/Sketch-Stuffing), by Ashung: A DataSupplier plugin which supplies chinese data.
@@ -524,5 +522,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
 - [Palette Cleanser](https://github.com/proteanstudio/sketch-palette-cleanser), by Protean Studio: Get a full rundown of the colors you're using in your Sketch document.
 - [Move To Library Sketchplugin](https://github.com/ahmedmigo/move-to-library-sketchplugin), by Ahmed Genaidy: You can now move symbol from your project to any library and re-attach all the symbol instances to this library. also it keep the overrides without any problems and it work with abstract that have libraries not in your local machine
-- [Frontitude](https://www.frontitude.com), by Frontitude: One place for your UX copy, from design to production.
-- [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
