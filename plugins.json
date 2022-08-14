@@ -558,7 +558,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-07-25 18:02:24 UTC",
+    "lastUpdated": "2022-08-10 13:35:14 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -2986,7 +2986,7 @@
     "author": "Justinmind",
     "owner": "JustinmindDevelopment",
     "name": "justinmind-sketch",
-    "lastUpdated": "2022-08-01 07:18:18 UTC"
+    "lastUpdated": "2022-08-12 11:07:08 UTC"
   },
   {
     "owner": "mludowise",
@@ -4071,7 +4071,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-08-05 15:15:55 UTC"
+    "lastUpdated": "2022-08-10 14:55:23 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4142,7 +4142,7 @@
     "author": "Zeplin",
     "owner": "zeplin",
     "name": "emoji-autocomplete-sketch-plugin",
-    "lastUpdated": "2022-07-26 13:31:22 UTC"
+    "lastUpdated": "2022-08-08 21:40:46 UTC"
   },
   {
     "title": "SymbolNameAutocomplete",
@@ -4721,7 +4721,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2022-07-17 13:58:58 UTC"
+    "lastUpdated": "2022-08-12 06:30:26 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -5814,7 +5814,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2022-07-20 15:02:56 UTC"
+    "lastUpdated": "2022-08-13 22:02:53 UTC"
   },
   {
     "title": "Sketch Pexels",
