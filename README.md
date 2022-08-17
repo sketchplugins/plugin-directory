@@ -244,6 +244,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SymbolNameSync](https://github.com/griffin-stewie/symbolnamesync), by griffin-stewie: This plugin gives you syncing names between Symbol masters and its instances.
 - [Sync with Library](https://github.com/oodesign/sync-with-library), by oodesign: Easily replace local symbols and layer & text styles with library ones.
 - [Text to Styles](https://github.com/tbrasington/text-to-styles), by Thomas Brasington: Generates Sketch type styles programmatically from Artboards
+- [Tidy](https://github.com/gbrunow/tidy), by Gui Brunow Gomes: Keep your sketch files Tidy.
 - [Tiled for Sketch](https://tiled.co/tiled-for-sketch-plugin), by Tiled Inc.: Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code.
 - [Tinty](https://github.com/chewbecky/tinty), by chewbecca: Sketch Plugin that lets you create tints and shades of any color as shared styles and document colors.
 - [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
