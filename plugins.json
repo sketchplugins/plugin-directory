@@ -1068,7 +1068,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2022-08-05 14:27:26 UTC"
+    "lastUpdated": "2022-08-17 09:22:49 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -2103,7 +2103,7 @@
     "author": "Sketch BV",
     "appcast": "https://raw.githubusercontent.com/sketch-hq/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketch.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2022-07-20 18:38:38 UTC"
+    "lastUpdated": "2022-08-18 14:20:16 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2350,7 +2350,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2022-07-21 17:33:20 UTC"
+    "lastUpdated": "2022-08-20 08:27:37 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -3621,7 +3621,7 @@
     "title": "Paddy",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2018-12-19 08:56:01 UTC"
+    "lastUpdated": "2022-08-19 11:47:51 UTC"
   },
   {
     "title": "Sketch Style Libraries",
@@ -3842,7 +3842,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2022-07-20 22:56:09 UTC"
+    "lastUpdated": "2022-08-16 07:52:54 UTC"
   },
   {
     "title": "Rough",
@@ -4071,7 +4071,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-08-10 14:55:23 UTC"
+    "lastUpdated": "2022-08-18 12:05:20 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4195,7 +4195,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-08-04 11:55:59 UTC"
+    "lastUpdated": "2022-08-18 13:28:26 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4485,7 +4485,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/Sketch-Stuffing/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/Sketch-Stuffing",
     "author": "Ashung",
-    "lastUpdated": "2022-07-20 14:01:46 UTC"
+    "lastUpdated": "2022-08-20 09:56:18 UTC"
   },
   {
     "title": "Sketch Data Faker",
@@ -4721,7 +4721,7 @@
     "appcast": "https://raw.githubusercontent.com/taofed/imgcook/master/sketchPlugin/.appcast.xml",
     "homepage": "https://www.imgcook.com",
     "author": "Taobao FED",
-    "lastUpdated": "2022-08-12 06:30:26 UTC"
+    "lastUpdated": "2022-08-15 08:39:11 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -6836,7 +6836,7 @@
     "appcast": "https://raw.githubusercontent.com/EricKramp/sketch-table-builder/master/.appcast.xml",
     "homepage": "https://github.com/EricKramp/sketch-table-builder",
     "author": "Eric Kramp",
-    "lastUpdated": "2022-08-05 21:05:57 UTC"
+    "lastUpdated": "2022-08-19 20:59:21 UTC"
   },
   {
     "title": "Baseline Offsetter",
@@ -7316,6 +7316,7 @@
     "owner": "gbrunow",
     "appcast": "https://raw.githubusercontent.com/gbrunow/tidy/master/.appcast.xml",
     "homepage": "https://github.com/gbrunow/tidy",
-    "author": "Gui Brunow Gomes"
+    "author": "Gui Brunow Gomes",
+    "lastUpdated": "2022-08-16 23:50:12 UTC"
   }
 ]
