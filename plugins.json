@@ -3737,14 +3737,6 @@
     "lastUpdated": "2022-03-14 13:39:48 UTC"
   },
   {
-    "title": "Plot",
-    "description": "Collaborate with your design team in a new way",
-    "author": "Jordan Singer",
-    "homepage": "https://plotapp.co",
-    "appcast": "https://plotapp.co/appcast.xml",
-    "lastUpdated": "2018-03-04 19:17:00 UTC"
-  },
-  {
     "title": "Textbox fit Content",
     "description": "This plugin sets the height of a selected text layer or all text layers in a selected group to it's content's height.",
     "name": "sketch-textbox-fit-content",
@@ -3755,7 +3747,7 @@
     "lastUpdated": "2018-07-13 14:04:26 UTC"
   },
   {
-    "title": "draw-and-render",
+    "title": "Draw and Render",
     "description": "A plugin to render canvas to sketch",
     "name": "draw-and-render-sketch-plugin",
     "owner": "nichenqin",
@@ -7299,15 +7291,6 @@
     "homepage": "https://github.com/jjj201200/icon2React",
     "author": "DrowsyFlesh",
     "lastUpdated": "2022-07-25 08:50:27 UTC"
-  },
-  {
-    "title": "SmartTable",
-    "name": "smartTable",
-    "owner": "Penndo",
-    "appcast": "https://raw.githubusercontent.com/Penndo/smartTable/master/.appcast.xml",
-    "homepage": "https://github.com/Penndo/smartTable",
-    "author": "Penndo",
-    "lastUpdated": "2022-07-30 09:57:50 UTC"
   },
   {
     "title": "Tidy",
