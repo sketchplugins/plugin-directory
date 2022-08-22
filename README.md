@@ -49,7 +49,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Browser Preview](https://github.com/lukasoppermann/browser-preview), by Lukas Oppermann: Quickly preview an artboard in your browser.
 - [Butter](https://github.com/pberrecloth/butter-sketch-plugin), by Peter Berrecloth: Butter will butt your layers together.
 - [Case Converter](https://github.com/ozgurgunes/Sketch-Case-Converter), by Özgür Güneş: Convert text layers, symbols or all instances of a symbol.
-- [chart](https://github.com/pavelkuligin/chart), by Pavel Kuligin: Create the most popular types of charts by real or random data
 - [Check Contrast](https://github.com/lifeofmle/check-contrast), by Michael Le: Allows you to select layers in Sketch and get realtime feedback about the contrast ratio
 - [Chemfill](https://github.com/ahadik/chemfill), by Alexander Hadik: A Chemical Structure data supplier plugin.
 - [Chippen Charts](https://github.com/smallmultiples/sketch-chippencharts), by Martin von Lupin: Bar chart creator for your mockups using random data. Change the size of selected rectangles. Works for both horizontal and vertical bar charts. Made with love in Chippendale.
@@ -300,7 +299,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Slazzer for Sketch](https://github.com/slazzercom/slazzer-sketch), by Slazzer: Remove image background in just few seconds 100% automatic.
 - [Slint](https://github.com/nusability/slint), by Johannes Nanninga: A linter for Sketch files
 - [Smart Truncate](https://github.com/ozgurgunes/Sketch-Smart-Truncate), by Ozgur Gunes: Truncates text in selected layers, symbol overrides or even all overrides of all instances of a symbol to given length.
-- [SmartTable](https://github.com/Penndo/smartTable), by Penndo:
 - [Sort Selected Layers](https://github.com/ludovic-loridan/sketch-sort-selected-layers), by Ludovic Loridan: A handy plugin to sort layers or artboards by Y or by X position.
 - [Spelly](https://spelly.io), by Spelly Team: Spell checker by Spelly with auto-scanner, suggestions, and other powerful features
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
@@ -375,7 +373,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Title Case](https://github.com/hemmingsson/sketch-title-case), by Mattias Hemmingsson: Sketch Plugin to make text Title Case
 - [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 - [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
-- [SmartTable](https://github.com/Penndo/smartTable), by Penndo:
 - [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
 - [icon2React](https://github.com/jjj201200/icon2React), by DrowsyFlesh: a sketch plugin to converting icons to React Components
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
@@ -697,4 +694,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Brandfetch](https://github.com/Brandfetch/Brandfetch-Sketch-Plugin), by Brandfetch: Pull brand assets into Sketch
 - [P5 Sketchplugin](https://github.com/jacopocolo/p5-sketchplugin), by Jacopo Colò: A plugin for using p5.js code inside Sketch
 - [Launchpad](https://launchpad.animaapp.com), by Anima Team: Export your Sketch design into HTML website.
-- [chart](https://github.com/pavelkuligin/chart), by Pavel Kuligin: Create the most popular types of charts by real or random data
