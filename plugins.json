@@ -1,5 +1,14 @@
 [
   {
+    "title": "iOS2Sketch",
+    "description": "A tool for generating Sketch documents from iOS App runtime views.",
+    "author": "DesignCodeApp",
+    "homepage": "https://www.ios2sketch.com/",
+    "appcast": "https://www.ios2sketch.com/download/appcast.xml",
+    "name": "iOS2Sketch",
+    "lastUpdated": "2022-08-23 04:47:00 UTC"
+  },
+  {
     "title": "CI HUB Connector",
     "description": "Add images/text to your designs directly from wherever they are, directly in Sketch. Access Stock Images or use your workflow for approval. Share with your Team in Dropbox or Google Drive and more. And never leave Sketch.",
     "author": "CI HUB GmbH",
