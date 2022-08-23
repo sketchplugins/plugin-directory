@@ -1,5 +1,5 @@
 [
-   {
+  {
     "title": "iOS2Sketch",
     "description": "A tool for generating Sketch documents from iOS App runtime views.",
     "author": "DesignCodeApp",
@@ -6184,16 +6184,6 @@
     "homepage": "https://github.com/attentioninsight/attention-insight-sketch-plugin",
     "author": "Attention Insight",
     "lastUpdated": "2021-03-24 17:24:26 UTC"
-  },
-  {
-    "title": "banking-data",
-    "description": "A DataSupplier plugin",
-    "name": "banking-data-supplier",
-    "owner": "nktx",
-    "appcast": "https://raw.githubusercontent.com/nktx/banking-data-supplier/master/.appcast.xml",
-    "homepage": "https://github.com/nktx/banking-data-supplier",
-    "author": "Kent Yang",
-    "lastUpdated": "2022-07-20 21:43:26 UTC"
   },
   {
     "title": "Search Sketch",
