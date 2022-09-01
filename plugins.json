@@ -7300,5 +7300,13 @@
     "homepage": "https://github.com/gbrunow/tidy",
     "author": "Gui Brunow Gomes",
     "lastUpdated": "2022-08-16 23:50:12 UTC"
+  },
+  {
+    "title": "SmartTable",
+    "name": "smartTable",
+    "owner": "Penndo",
+    "appcast": "https://raw.githubusercontent.com/Penndo/smartTable/master/.appcast.xml",
+    "homepage": "https://github.com/Penndo/smartTable",
+    "author": "Penndo"
   }
 ]
