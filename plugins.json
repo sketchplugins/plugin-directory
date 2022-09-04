@@ -4196,7 +4196,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-08-25 20:19:38 UTC"
+    "lastUpdated": "2022-09-02 05:51:17 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4206,7 +4206,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2022-08-22 10:37:24 UTC"
+    "lastUpdated": "2022-08-30 14:56:38 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-07-23 00:32:47 UTC"
+    "lastUpdated": "2022-09-02 14:14:28 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -7307,6 +7307,7 @@
     "owner": "Penndo",
     "appcast": "https://raw.githubusercontent.com/Penndo/smartTable/master/.appcast.xml",
     "homepage": "https://github.com/Penndo/smartTable",
-    "author": "Penndo"
+    "author": "Penndo",
+    "lastUpdated": "2022-08-31 12:00:38 UTC"
   }
 ]
