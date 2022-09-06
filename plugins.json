@@ -7309,5 +7309,14 @@
     "homepage": "https://github.com/Penndo/smartTable",
     "author": "Penndo",
     "lastUpdated": "2022-08-31 12:00:38 UTC"
+  },
+  {
+    "title": "10th Anniversary",
+    "description": "Celebrate Sketch's 10th Anniversary with a trip down memory lane",
+    "name": "10th-anniversary",
+    "owner": "bomberstudios",
+    "appcast": "https://raw.githubusercontent.com/bomberstudios/10th-anniversary/master/.appcast.xml",
+    "homepage": "https://github.com/bomberstudios/10th-anniversary",
+    "author": "Ale M"
   }
 ]
