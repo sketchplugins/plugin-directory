@@ -1523,7 +1523,7 @@
     "title": "Find And Replace",
     "author": "Martin Steven. Maintained by Thierry Charbonnel",
     "owner": "thierryc",
-    "lastUpdated": "2022-07-20 04:50:58 UTC"
+    "lastUpdated": "2022-09-08 12:20:26 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
@@ -3843,7 +3843,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2022-08-16 07:52:54 UTC"
+    "lastUpdated": "2022-09-08 13:19:45 UTC"
   },
   {
     "title": "Rough",
@@ -4072,7 +4072,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-08-18 12:05:20 UTC"
+    "lastUpdated": "2022-09-09 10:18:02 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4161,7 +4161,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2022-07-20 15:34:49 UTC"
+    "lastUpdated": "2022-09-08 07:57:09 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4373,7 +4373,7 @@
     "author": "Sensive",
     "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
     "homepage": "https://sensive.co",
-    "lastUpdated": "2022-07-21 01:05:07 UTC"
+    "lastUpdated": "2022-09-08 07:12:31 UTC"
   },
   {
     "title": "Sketch Plugin Skew",
@@ -4476,7 +4476,7 @@
     "appcast": "https://raw.githubusercontent.com/lazybearcreations/sketch-lazyboards/master/.appcast.xml",
     "homepage": "https://github.com/lazybearcreations/sketch-lazyboards",
     "author": "Adam Bruzon",
-    "lastUpdated": "2022-07-20 08:33:31 UTC"
+    "lastUpdated": "2022-09-08 07:51:08 UTC"
   },
   {
     "title": "stuffing",
@@ -4626,7 +4626,7 @@
     "author": "Hirad Arshadi",
     "owner": "hiradary",
     "name": "PersianSupplier",
-    "lastUpdated": "2022-02-11 20:58:32 UTC"
+    "lastUpdated": "2022-09-08 07:10:48 UTC"
   },
   {
     "title": "Primary Sync",
@@ -5031,7 +5031,7 @@
     "appcast": "https://raw.githubusercontent.com/nOograss/labelizer/master/.appcast.xml",
     "homepage": "https://github.com/nOograss/labelizer",
     "author": "Maxime Peeters",
-    "lastUpdated": "2022-02-11 16:57:58 UTC"
+    "lastUpdated": "2022-09-08 11:30:47 UTC"
   },
   {
     "title": "Overrides Manager",
@@ -5134,7 +5134,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2022-07-20 04:21:54 UTC"
+    "lastUpdated": "2022-09-08 14:53:59 UTC"
   },
   {
     "title": "Case Converter",
@@ -5522,7 +5522,7 @@
     "appcast": "https://raw.githubusercontent.com/mupixa/sketch-plugin-mupixa/master/.appcast.xml",
     "homepage": "https://github.com/mupixa/sketch-plugin-mupixa",
     "author": "www.mupixa.com",
-    "lastUpdated": "2022-07-20 08:55:49 UTC"
+    "lastUpdated": "2022-09-08 07:58:57 UTC"
   },
   {
     "title": "Excel Content Sync",
@@ -5650,7 +5650,7 @@
     "appcast": "https://raw.githubusercontent.com/LukeFinch/Quopi/master/.appcast.xml",
     "homepage": "https://github.com/LukeFinch/Quopi",
     "author": "Luke Finch",
-    "lastUpdated": "2019-07-27 20:04:44 UTC"
+    "lastUpdated": "2022-09-08 09:47:08 UTC"
   },
   {
     "title": "Gretel",
@@ -5756,7 +5756,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign",
-    "lastUpdated": "2022-07-20 15:11:59 UTC"
+    "lastUpdated": "2022-09-08 11:33:04 UTC"
   },
   {
     "title": "Arrange artboards hierarchically",
@@ -5786,7 +5786,7 @@
     "author": "Eunice J. Son",
     "homepage": "https://github.com/eunicejson/organizeLayers",
     "appcast": "https://github.com/eunicejson/organizeLayers/blob/master/.appcast.xml",
-    "lastUpdated": "2022-07-20 11:50:23 UTC"
+    "lastUpdated": "2022-09-08 08:42:09 UTC"
   },
   {
     "title": "MarginSymbols",
@@ -6263,7 +6263,7 @@
     "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
     "homepage": "https://github.com/genexuslabs/sketchdesignops",
     "author": "Gastón Milano",
-    "lastUpdated": "2022-07-20 22:33:35 UTC"
+    "lastUpdated": "2022-09-08 15:11:09 UTC"
   },
   {
     "title": "Toggle Greyscale",
@@ -6424,7 +6424,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2022-07-21 00:02:35 UTC"
+    "lastUpdated": "2022-09-08 13:43:46 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6483,7 +6483,7 @@
     "appcast": "https://raw.githubusercontent.com/lizhengDesign/Sketch-CopyUpdater/master/.appcast.xml",
     "homepage": "https://github.com/lizhengDesign/Sketch-CopyUpdater",
     "author": "Li Zheng",
-    "lastUpdated": "2022-07-21 01:42:07 UTC"
+    "lastUpdated": "2022-09-08 16:20:21 UTC"
   },
   {
     "title": "Isometry",
@@ -7317,6 +7317,7 @@
     "owner": "bomberstudios",
     "appcast": "https://raw.githubusercontent.com/bomberstudios/10th-anniversary/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/10th-anniversary",
-    "author": "Ale M"
+    "author": "Ale M",
+    "lastUpdated": "2022-09-06 07:32:31 UTC"
   }
 ]
