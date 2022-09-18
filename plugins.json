@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-08-10 13:35:14 UTC",
+    "lastUpdated": "2022-09-14 20:48:45 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -4072,7 +4072,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-09-09 10:18:02 UTC"
+    "lastUpdated": "2022-09-12 09:06:07 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -5002,7 +5002,7 @@
     "appcast": "https://raw.githubusercontent.com/Ashung/import-colors-sketch/master/.appcast.xml",
     "homepage": "https://github.com/Ashung/import-colors-sketch",
     "author": "Ashung",
-    "lastUpdated": "2021-06-16 02:52:30 UTC"
+    "lastUpdated": "2022-09-13 10:44:00 UTC"
   },
   {
     "title": "Presto-Dom-Gen",
@@ -6253,7 +6253,7 @@
     "appcast": "https://raw.githubusercontent.com/LeipeLeon/Sketch_DatesFormNow/master/.appcast.xml",
     "homepage": "https://github.com/LeipeLeon/Sketch_DatesFormNow",
     "author": "Leon Berenschot",
-    "lastUpdated": "2022-07-20 22:09:28 UTC"
+    "lastUpdated": "2022-09-13 07:32:46 UTC"
   },
   {
     "title": "GxDesignOps",
