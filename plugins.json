@@ -7319,5 +7319,14 @@
     "homepage": "https://github.com/bomberstudios/10th-anniversary",
     "author": "Ale M",
     "lastUpdated": "2022-09-06 07:32:31 UTC"
+  },
+  {
+    "title": "Sketch MD3 Color Palettes",
+    "description": "With this plugin you can export to your desktop a design-tokens.json file compatible with Amazon Style Dictionary.",
+    "name": "sketch-m3-color-palettes",
+    "owner": "icona79",
+    "appcast": "https://raw.githubusercontent.com/icona79/sketch-m3-color-palettes/master/.appcast.xml",
+    "homepage": "https://github.com/icona79/sketch-m3-color-palettes",
+    "author": "Matteo Gratton"
   }
 ]
