@@ -189,7 +189,7 @@
     "name": "phraseapp-sketch",
     "owner": "phrase",
     "author": "Phrase",
-    "homepage": "https://phrase.com/sketch",
+    "homepage": "https://phrase.com/integrations/sketch/",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
     "lastUpdated": "2022-06-22 15:07:56 UTC"
   },
