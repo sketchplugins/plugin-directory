@@ -6753,12 +6753,12 @@
     "lastUpdated": "2022-07-21 06:51:10 UTC"
   },
   {
-    "description": "Start translating at the design phase and reduce time to market with the Memsource Translation Plugin.",
-    "name": "Memsource Translation Plugin",
-    "title": "Memsource Translation Plugin",
-    "author": "Memsource",
-    "homepage": "https://help.memsource.com/hc/en-us/articles/360015614919",
-    "lastUpdated": "2021-04-29 15:34:34 UTC",
+    "description": "Start translating at the design phase and reduce time to market with the Phrase TMS Translation Plugin.",
+    "name": "Phrase TMS Translation Plugin",
+    "title": "Phrase TMS Translation Plugin",
+    "author": "Phrase",
+    "homepage": "https://support.phrase.com/hc/en-us/articles/5709638443676",
+    "lastUpdated": "2022-09-30 15:00:00 UTC",
     "appcast": "https://download.memsource.com/production/updates/sketch/appcast.xml"
   },
   {
