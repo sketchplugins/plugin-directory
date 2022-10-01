@@ -7328,5 +7328,13 @@
     "appcast": "https://raw.githubusercontent.com/icona79/sketch-m3-color-palettes/master/.appcast.xml",
     "homepage": "https://github.com/icona79/sketch-m3-color-palettes",
     "author": "Matteo Gratton"
+  },
+  {
+    "title": "FluentC Translate",
+    "description": "The fastest way to translate a prototype into 75 languages.",
+    "name": "sketch-plugin",
+    "owner": "FluentC",
+    "appcast": "https://raw.githubusercontent.com/FluentC/sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/FluentC/sketch-plugin"
   }
 ]
