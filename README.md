@@ -170,7 +170,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Lokalise Plugin](https://github.com/lokalise/lokalise-sketchplugin), by Lokalise: Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.
 - [MarginSymbols](https://github.com/griffin-stewie/MarginSymbols), by griffin-stewie:
-- [Memsource Translation Plugin](https://help.memsource.com/hc/en-us/articles/360015614919), by Memsource: Start translating at the design phase and reduce time to market with the Memsource Translation Plugin.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [Metaball](https://github.com/mheesakkers/sketch-plugin-metaball), by mheesakkers: A simple plugin to draw shapes based on inner and outer tangents between two circles.
@@ -202,6 +201,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Photo Grid](https://github.com/perrysmotors/photo-grid), by Giles Perry: A Sketch plugin that can size layers to common photo dimensions and scale them to fit in a row.
 - [Phrase Sketch Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase plugin.
+- [Phrase Tms Translation Plugin](https://support.phrase.com/hc/en-us/articles/5709638443676), by Phrase: Start translating at the design phase and reduce time to market with the Phrase TMS Translation Plugin.
 - [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [pickle](https://github.com/billychasen/pickle-sketch), by billychasen: Pickle lets you get quick feedback on anything you design. By integrating research early in your design process, you'll be more confident in your final designs.
 - [Pixel Perfect](https://github.com/materik/sketchplugin-pixelperfect), by Mattias Eriksson: Plugin for Sketch for handling layout and sizing of layers automatically based on their names.
@@ -353,6 +353,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Phrase Tms Translation Plugin](https://support.phrase.com/hc/en-us/articles/5709638443676), by Phrase: Start translating at the design phase and reduce time to market with the Phrase TMS Translation Plugin.
 - [Puzzle Publisher](https://github.com/ingrammicro/puzzle-publisher), by Ingram Micro: Exports Sketch artboards into linked HTML files and publish it on external site using SFTP.
 - [Sketch Tokens Exporter](https://github.com/icona79/sketch-design-tokens-exporter), by Matteo Gratton: With this plugin you can export to your desktop a design-tokens.json file compatible with Amazon Style Dictionary.
 - [Copy Optimized SVG Code](https://github.com/chenxsan/copy-optimized-svg-code), by chenxsan: Sketch plugin to copy optimized svg code
@@ -647,7 +648,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rename It](http://rodi01.github.io/RenameIt/), by Rodrigo Soares: Keep your Sketch files organized, batch rename layers and artboards.
 - [Iconfont Webview](https://github.com/keremciu/sketch-iconfont-web), by Kerem Sevencan: New and easy way of using Icons in Sketch
 - [FreeFlow](http://free-flow.co/), by Francesco Bertocci: Speed up common tasks and boost your productivity.
-- [Memsource Translation Plugin](https://help.memsource.com/hc/en-us/articles/360015614919), by Memsource: Start translating at the design phase and reduce time to market with the Memsource Translation Plugin.
 - [Attention Prediction Plugin](https://github.com/fixate-ai/sketch-attention-prediction-plugin), by fixate-ai: Attention prediction - know what your users see as they view you design
 - [Slazzer for Sketch](https://github.com/slazzercom/slazzer-sketch), by Slazzer: Remove image background in just few seconds 100% automatic.
 - [Add Trailing Space](https://github.com/tgfjt/sketch-add-trailing-space#readme), by tgfjt: add trailing space into selected text layers
