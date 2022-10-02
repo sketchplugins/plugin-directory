@@ -5633,16 +5633,6 @@
     "lastUpdated": "2022-07-20 11:52:08 UTC"
   },
   {
-    "title": "VisualEyes",
-    "description": "Your professional AI design assistant.",
-    "name": "sketch-visualeyes",
-    "owner": "loceye",
-    "appcast": "https://raw.githubusercontent.com/loceye/sketch-visualeyes/master/.appcast.xml",
-    "homepage": "https://github.com/loceye/sketch-visualeyes",
-    "author": "Loceye",
-    "lastUpdated": "2021-06-24 07:31:36 UTC"
-  },
-  {
     "title": "Quopi",
     "description": "Fetches copy from the comments on your Abstract branch",
     "name": "Quopi",
