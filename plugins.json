@@ -3240,7 +3240,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2021-12-10 12:56:22 UTC"
+    "lastUpdated": "2022-10-28 10:32:57 UTC"
   },
   {
     "title": "Blender",
@@ -4196,7 +4196,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2022-09-26 06:29:59 UTC"
+    "lastUpdated": "2022-10-28 12:20:43 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -5902,7 +5902,7 @@
     "appcast": "https://raw.githubusercontent.com/domhabersack/sketch-dadjokes/master/.appcast.xml",
     "homepage": "https://github.com/domhabersack/sketch-dadjokes",
     "author": "Dom Habersack",
-    "lastUpdated": "2022-10-04 12:48:52 UTC"
+    "lastUpdated": "2022-10-29 11:59:35 UTC"
   },
   {
     "title": "Design Tokens",
@@ -5961,7 +5961,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-10-21 13:12:04 UTC"
+    "lastUpdated": "2022-10-24 08:29:43 UTC"
   },
   {
     "title": "Cluse",
