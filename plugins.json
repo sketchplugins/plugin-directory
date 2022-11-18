@@ -7327,5 +7327,13 @@
     "owner": "FluentC",
     "appcast": "https://raw.githubusercontent.com/FluentC/sketch-plugin/master/.appcast.xml",
     "homepage": "https://www.fluentc.io/sketch-plug-in/"
+  },
+  {
+    "title": "H5Converter",
+    "name": "sketch-h5converter",
+    "owner": "h5mag",
+    "appcast": "https://raw.githubusercontent.com/h5mag/sketch-h5converter/master/.appcast.xml",
+    "homepage": "https://github.com/h5mag/sketch-h5converter",
+    "author": "H5mag team"
   }
 ]
