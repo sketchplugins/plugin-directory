@@ -3077,7 +3077,7 @@
     "author": "Carlos Navarro",
     "owner": "Carlosarturo28",
     "name": "Appalette",
-    "lastUpdated": "2018-01-09 13:05:12 UTC"
+    "lastUpdated": "2022-11-25 11:52:21 UTC"
   },
   {
     "title": "Seca",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-11-13 06:36:34 UTC"
+    "lastUpdated": "2022-11-22 19:48:40 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5746,7 +5746,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/sketch-styler/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/sketch-styler",
     "author": "oodesign",
-    "lastUpdated": "2022-11-18 20:39:23 UTC"
+    "lastUpdated": "2022-11-24 08:34:01 UTC"
   },
   {
     "title": "Arrange artboards hierarchically",
@@ -6367,7 +6367,7 @@
     "author": "Misha",
     "owner": "mheesakkers",
     "name": "sketch-plugin-snap-to-8pt-grid",
-    "lastUpdated": "2022-07-20 22:24:40 UTC"
+    "lastUpdated": "2022-11-22 07:55:46 UTC"
   },
   {
     "title": "Chemfill",
@@ -6483,7 +6483,7 @@
     "appcast": "https://raw.githubusercontent.com/maxkonovalov/Isometry/master/.appcast.xml",
     "homepage": "https://github.com/maxkonovalov/Isometry",
     "author": "Max Konovalov",
-    "lastUpdated": "2022-07-21 01:56:57 UTC"
+    "lastUpdated": "2022-11-22 14:01:09 UTC"
   },
   {
     "title": "Sync with Library",
@@ -6572,7 +6572,7 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/colors-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live",
     "author": "Sugarcode",
-    "lastUpdated": "2022-07-21 03:23:18 UTC"
+    "lastUpdated": "2022-11-22 17:25:12 UTC"
   },
   {
     "title": "Icons → Code",
@@ -6787,7 +6787,7 @@
     "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml",
     "homepage": "https://github.com/taohsu/skeletongenerator",
     "author": "taohsu",
-    "lastUpdated": "2020-11-02 16:24:52 UTC"
+    "lastUpdated": "2022-11-22 09:39:40 UTC"
   },
   {
     "title": "Prism2ColorVariables",
