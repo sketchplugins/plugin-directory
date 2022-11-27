@@ -18,6 +18,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [AnimateMate](https://github.com/creatide/animatemate), by Sakari Niittymaa: Create your animations directly in Sketch
 - [Annotations](https://github.com/BaguetteEngineering/annotations-sketch-plugin), by Baguette Engineering: Hide/show layer groups named 'Annotations'.
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
+- [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [areanow](https://github.com/norman-woz/areanow), by norman-woz: Get the total area of selected rectangle layers.
 - [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
 - [Artboard History](https://github.com/jan-patrick/sketch_artboard-history), by Jan Schneider: A Sketch plugin to switch faster between your latest artboards.
@@ -31,7 +32,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Auto Arrange Artboards](https://github.com/srbsingh3/autoarrange), by Saurabh Singh: Automatically arrange the order of your artboards in the layer list according to their position on the canvas.
 - [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
-- [babelfish](https://github.com/SpaceBank/babelfish-sketch-plugin), by BilousAlexandr: babelfish plugin
 - [Baseline Offsetter](https://github.com/ozgurgunes/Sketch-Baseline-Offsetter), by Ozgur Gunes: Raise, lower, set or reset the baseline of multiple text layers with a single command.
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
 - [Beatflyer Lite](https://beatflyer.com), by Christian Giordano: Animate your artboards in a few clicks with a lite and free version of Beatflyer.
@@ -178,6 +178,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Nederlandse Namen](https://github.com/sasjakoning/sketch-nederlandse-namen), by Sasja Koning: Sketch plugin for Dutch names
 - [Next](https://github.com/endswithak/next), by Erik Myers: Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
+- [Omnis Skeleton Generator](https://github.com/taohsu/skeletongenerator), by taohsu: Generate skeleton/placeholder UI from the selected components
 - [omnislibdirextract](https://github.com/taohsu/omnislibdirextract), by taohsu:
 - [Orbison](https://github.com/ilikescience/orbison), by ilikescience: A Sketch plugin for Bitly's product design system
 - [Organize Layers](https://github.com/eunicejson/organizeLayers), by Eunice J. Son: A plugin that allows short key commands to move layers up, down and reverse positions ↕️
@@ -348,10 +349,16 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
+- [Sketch Styler](https://github.com/oodesign/sketch-styler), by oodesign: Assigns styles automatically to all of your unstyled layers.
+- [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
+- [Colors → Code](https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live), by Sugarcode: Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.
+- [Isometry](https://github.com/maxkonovalov/Isometry), by Max Konovalov: Create isometric projections from layers
+- [Omnis Skeleton Generator](https://github.com/taohsu/skeletongenerator), by taohsu: Generate skeleton/placeholder UI from the selected components
+- [Sketch Plugin Snap to 8pt Grid](https://github.com/mheesakkers/sketch-plugin-snap-to-8pt-grid), by Misha: A Sketch plugin which helps with snapping layer properties to the 8 point grid.
 - [Sketch Color Manager](https://github.com/hecflores/sketch-color-manager), by hecflores: Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties
 - [Metaball](https://github.com/mheesakkers/sketch-plugin-metaball), by mheesakkers: A simple plugin to draw shapes based on inner and outer tangents between two circles.
 - [Sketch Chat](https://github.com/mathieudutour/sketch-chat), by Mathieu Dutour: A Sketch plugin to chat in Sketch Cloud files
-- [Sketch Styler](https://github.com/oodesign/sketch-styler), by oodesign: Assigns styles automatically to all of your unstyled layers.
 - [Sketch Retain Text Color](https://github.com/johnmcclumpha/sketch-retain-text-color), by johnmcclumpha: Retain the original color of text layers when applying a Text Style.
 - [Symbol Master Renamer](https://github.com/miguelangelnarvaezgo/symbol-master-renamer), by Miguel Angel Narvaez: Simple plugin to rename and organizing the master symbols with '/'.
 - [Sketch Copy Text Only](https://github.com/explorador/sketch-copy-text-only), by Cristian: Sketch plugin to copy only the text from selected artboard(s) or layer(s)
@@ -450,7 +457,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [SVGO Compressor](https://sketch.com/extensions/plugins/svgo-compressor/), by Sketch BV: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
 - [LaTeX Sketch Plugin](https://github.com/heytitle/latex-sketch-plugin), by heytitle: This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
-- [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Genus](https://github.com/keplerlab/genus), by Kepler Lab: A sketch plugin for exporting prototype website (static html css) from your sketch designs
 - [Slint](https://github.com/nusability/slint), by Johannes Nanninga: A linter for Sketch files
 - [DarkModeSystem](https://github.com/BDiogo/DarkMode-System), by BDiogo: Apply a Dark Theme to your Project
@@ -554,9 +560,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
 - [icon2React](https://github.com/jjj201200/icon2React), by DrowsyFlesh: a sketch plugin to converting icons to React Components
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
-- [Colors → Code](https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live), by Sugarcode: Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.
-- [Isometry](https://github.com/maxkonovalov/Isometry), by Max Konovalov: Create isometric projections from layers
-- [Sketch Plugin Snap to 8pt Grid](https://github.com/mheesakkers/sketch-plugin-snap-to-8pt-grid), by Misha: A Sketch plugin which helps with snapping layer properties to the 8 point grid.
 - [Cloudinary Plugin](https://github.com/cloudinary-devs/cloudinary-sketch-plugin), by Maya Shavin: Cloudinary plugin for Sketch projects
 - [Atlassian Vendor Sketch Plugin](https://github.com/atlassian/sketch-plugin), by Atlassian Design: Design your next Atlassian app with our component libraries and suite of Sketch tools 💎
 - [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
@@ -680,4 +683,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Prism2ColorVariables](https://github.com/griffin-stewie/Prism2ColorVariables), by griffin-stewie: Migrate your Prism named color to Color Variables
 - [Import Shadows](https://github.com/cozy/sketch-import-shadows), by Cozy: Import CSS shadows
 - [Auto Arrange Artboards](https://github.com/srbsingh3/autoarrange), by Saurabh Singh: Automatically arrange the order of your artboards in the layer list according to their position on the canvas.
-- [babelfish](https://github.com/SpaceBank/babelfish-sketch-plugin), by BilousAlexandr: babelfish plugin
