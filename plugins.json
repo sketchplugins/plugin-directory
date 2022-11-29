@@ -6743,15 +6743,6 @@
     "lastUpdated": "2022-11-14 01:00:02 UTC"
   },
   {
-    "description": "Start translating at the design phase and reduce time to market with the Phrase TMS Translation Plugin.",
-    "name": "Phrase TMS Translation Plugin",
-    "title": "Phrase TMS Translation Plugin",
-    "author": "Phrase",
-    "homepage": "https://support.phrase.com/hc/en-us/articles/5709638443676",
-    "lastUpdated": "2022-09-30 15:00:00 UTC",
-    "appcast": "https://download.memsource.com/production/updates/sketch/appcast.xml"
-  },
-  {
     "name": "FreeFlow",
     "title": "FreeFlow",
     "description": "Speed up common tasks and boost your productivity.",
