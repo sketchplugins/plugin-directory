@@ -1237,7 +1237,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2022-12-09 08:15:09 UTC"
+    "lastUpdated": "2022-12-14 15:29:12 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -3390,7 +3390,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2022-12-06 08:35:44 UTC"
+    "lastUpdated": "2022-12-11 10:11:41 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-12-08 00:03:10 UTC"
+    "lastUpdated": "2022-12-13 07:04:05 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5134,7 +5134,7 @@
     "appcast": "https://raw.githubusercontent.com/TheSonOfThomp/sketch-flat-export/master/.appcast.xml",
     "homepage": "https://github.com/TheSonOfThomp/sketch-flat-export",
     "author": "Adam Thompson",
-    "lastUpdated": "2022-12-03 02:11:51 UTC"
+    "lastUpdated": "2022-12-11 11:29:39 UTC"
   },
   {
     "title": "Case Converter",
@@ -5834,7 +5834,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/sketch-chat/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/sketch-chat",
     "author": "Mathieu Dutour",
-    "lastUpdated": "2022-12-07 02:30:27 UTC"
+    "lastUpdated": "2022-12-11 09:56:01 UTC"
   },
   {
     "title": "Plugin List",
@@ -5862,7 +5862,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2022-12-07 01:49:01 UTC"
+    "lastUpdated": "2022-12-11 10:27:40 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -6414,7 +6414,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2022-12-05 19:48:54 UTC"
+    "lastUpdated": "2022-12-11 01:18:46 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
@@ -6522,7 +6522,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2022-12-08 00:46:16 UTC"
+    "lastUpdated": "2022-12-14 15:06:04 UTC"
   },
   {
     "title": "Slint",
