@@ -2295,7 +2295,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2022-09-26 16:19:18 UTC"
+    "lastUpdated": "2022-12-20 22:19:41 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
