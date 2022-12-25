@@ -10,7 +10,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Abstract](https://abstract.com), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [Add Colors to Palette](https://github.com/johnmcclumpha/sketch-add-colors-to-palette), by johnmcclumpha: Quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette.
 - [Add Trailing Space](https://github.com/tgfjt/sketch-add-trailing-space#readme), by tgfjt: add trailing space into selected text layers
-- [Adeeapp Sketch Plugin](https://www.adeeapp.com/), by AdeeApp.com: Design for all. The most comprehensive free accessibility testing tool for inclusive design!
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
@@ -257,7 +256,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
-- [Sketch Pixel Cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by Stackdevelopment: A plugin for Sketch to fix all of those partial pixels
 - [Sketch Plugin Snap to 8pt Grid](https://github.com/mheesakkers/sketch-plugin-snap-to-8pt-grid), by Misha: A Sketch plugin which helps with snapping layer properties to the 8 point grid.
 - [Sketch QR Code](https://github.com/lerte/sketch-qr-code), by Lerte Smith: A Plugin for generate SVG QR Code in Sketch app.
 - [Sketch Retain Text Color](https://github.com/johnmcclumpha/sketch-retain-text-color), by johnmcclumpha: Retain the original color of text layers when applying a Text Style.
@@ -342,6 +340,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste), by Sonny Lazuardi Hermawan:
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
@@ -538,7 +537,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 - [Phrase Tms Translation Plugin](https://support.phrase.com/hc/en-us/articles/5709638443676), by Phrase: Start translating at the design phase and reduce time to market with the Phrase TMS Translation Plugin.
 - [Sketch Md3 Color Palettes](https://github.com/icona79/sketch-m3-color-palettes), by Matteo Gratton: With this plugin you can import Material Design themes from the tokens generated with the Material Theme Builder
-- [SketchContentSync](https://github.com/contentsync/sketchcontentsync), by ContentSync: Sync sketch files with google docs.
 - [Sketch Tokens Exporter](https://github.com/icona79/sketch-design-tokens-exporter), by Matteo Gratton: With this plugin you can export to your desktop a design-tokens.json file compatible with Amazon Style Dictionary.
 - [Puzzle Tokens](https://github.com/ingrammicro/puzzle-tokens), by Ingram Micro: Sketch.app plugin to apply design tokens to Sketch layers
 - [Import Colors](https://github.com/Ashung/import-colors-sketch), by Ashung: Import colors from swatches file to Sketch.
@@ -667,5 +665,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sort Selected Layers](https://github.com/ludovic-loridan/sketch-sort-selected-layers), by Ludovic Loridan: A handy plugin to sort layers or artboards by Y or by X position.
 - [Sketch Variables](https://github.com/murilo-campaner/sketch-variables-plugin), by murilo_campaner: Create text variables inside sketch to use file as template
 - [pickle](https://github.com/billychasen/pickle-sketch), by billychasen: Pickle lets you get quick feedback on anything you design. By integrating research early in your design process, you'll be more confident in your final designs.
-- [Sketch Pixel Cleanup](https://github.com/stackdevelopment/sketch-pixel-cleanup), by Stackdevelopment: A plugin for Sketch to fix all of those partial pixels
-- [Adeeapp Sketch Plugin](https://www.adeeapp.com/), by AdeeApp.com: Design for all. The most comprehensive free accessibility testing tool for inclusive design!
