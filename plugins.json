@@ -2825,7 +2825,7 @@
     "title": "📕 PDF Export",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2022-01-28 07:15:09 UTC"
+    "lastUpdated": "2022-12-31 02:21:48 UTC"
   },
   {
     "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
@@ -3439,7 +3439,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-groupie",
-    "lastUpdated": "2022-10-11 21:02:33 UTC"
+    "lastUpdated": "2022-12-29 04:36:32 UTC"
   },
   {
     "title": "P5 Sketchplugin",
@@ -3954,7 +3954,7 @@
     "owner": "materik",
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "lastUpdated": "2022-12-07 17:58:49 UTC"
+    "lastUpdated": "2022-12-29 15:23:24 UTC"
   },
   {
     "title": "Photo Grid",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2022-12-13 07:04:05 UTC"
+    "lastUpdated": "2022-12-31 17:08:47 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5961,7 +5961,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2022-12-05 07:46:30 UTC"
+    "lastUpdated": "2022-12-30 17:03:42 UTC"
   },
   {
     "title": "Cluse",
