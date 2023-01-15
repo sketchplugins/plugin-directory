@@ -3455,7 +3455,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2023-01-03 08:50:05 UTC",
+    "lastUpdated": "2023-01-08 12:57:04 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -3657,7 +3657,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://angle.sh",
-    "lastUpdated": "2022-12-07 17:54:30 UTC"
+    "lastUpdated": "2023-01-08 16:44:23 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -3743,7 +3743,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2022-12-07 08:19:31 UTC"
+    "lastUpdated": "2023-01-12 15:19:18 UTC"
   },
   {
     "title": "Textbox fit Content",
@@ -3954,7 +3954,7 @@
     "owner": "materik",
     "author": "Mattias Eriksson",
     "homepage": "https://github.com/materik/sketchplugin-pixelperfect",
-    "lastUpdated": "2023-01-02 10:34:36 UTC"
+    "lastUpdated": "2023-01-12 09:22:10 UTC"
   },
   {
     "title": "Photo Grid",
@@ -4712,7 +4712,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2022-12-08 08:18:08 UTC"
+    "lastUpdated": "2023-01-13 23:11:51 UTC"
   },
   {
     "title": "imgcook",
@@ -5061,7 +5061,7 @@
     "appcast": "https://raw.githubusercontent.com/jdwolk/sketch-csv-mailmerge/master/.appcast.xml",
     "homepage": "https://github.com/jdwolk/sketch-csv-mailmerge",
     "author": "JD Wolk",
-    "lastUpdated": "2023-01-03 16:50:28 UTC"
+    "lastUpdated": "2023-01-12 23:55:17 UTC"
   },
   {
     "title": "add-selected-colors",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-01-06 14:21:16 UTC"
+    "lastUpdated": "2023-01-13 09:29:34 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5698,7 +5698,7 @@
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
-    "lastUpdated": "2023-01-06 02:13:27 UTC"
+    "lastUpdated": "2023-01-08 16:00:45 UTC"
   },
   {
     "title": "Sketch Retain Text Color",
@@ -5805,7 +5805,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2022-12-04 12:41:01 UTC"
+    "lastUpdated": "2023-01-08 14:51:10 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -5902,7 +5902,7 @@
     "appcast": "https://raw.githubusercontent.com/domhabersack/sketch-dadjokes/master/.appcast.xml",
     "homepage": "https://github.com/domhabersack/sketch-dadjokes",
     "author": "Dom Habersack",
-    "lastUpdated": "2022-12-04 18:45:30 UTC"
+    "lastUpdated": "2023-01-09 09:24:14 UTC"
   },
   {
     "title": "Design Tokens",
@@ -5961,7 +5961,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-01-07 11:59:47 UTC"
+    "lastUpdated": "2023-01-12 16:24:53 UTC"
   },
   {
     "title": "Cluse",
@@ -6767,7 +6767,7 @@
     "owner": "arvinxx",
     "appcast": "https://raw.githubusercontent.com/arvinxx/sketch-json/master/.appcast.xml",
     "homepage": "https://github.com/arvinxx/sketch-json",
-    "lastUpdated": "2022-06-26 07:45:49 UTC"
+    "lastUpdated": "2023-01-08 12:18:03 UTC"
   },
   {
     "title": "Color Variables Migrator",
@@ -7308,7 +7308,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/10th-anniversary/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/10th-anniversary",
     "author": "Ale M",
-    "lastUpdated": "2022-12-08 16:39:12 UTC"
+    "lastUpdated": "2023-01-08 13:41:41 UTC"
   },
   {
     "title": "Sketch MD3 Color Palettes",
