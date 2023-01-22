@@ -108,7 +108,7 @@
     "owner": "bvmensvoort",
     "name": "sketch-last-updated",
     "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2022-05-17 09:10:45 UTC"
+    "lastUpdated": "2023-01-17 14:48:39 UTC"
   },
   {
     "title": "Magicul Converter",
@@ -3230,7 +3230,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2023-01-05 08:40:12 UTC"
+    "lastUpdated": "2023-01-18 18:26:13 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -4072,7 +4072,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2022-12-03 02:29:03 UTC"
+    "lastUpdated": "2023-01-20 14:36:38 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -5961,7 +5961,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-01-12 16:24:53 UTC"
+    "lastUpdated": "2023-01-16 08:14:18 UTC"
   },
   {
     "title": "Cluse",
