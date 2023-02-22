@@ -108,7 +108,7 @@
     "owner": "bvmensvoort",
     "name": "sketch-last-updated",
     "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2023-01-17 14:48:39 UTC"
+    "lastUpdated": "2023-02-02 15:42:45 UTC"
   },
   {
     "title": "Magicul Converter",
@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2022-12-02 20:13:40 UTC",
+    "lastUpdated": "2023-02-06 17:22:01 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1237,7 +1237,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2023-01-27 06:27:52 UTC"
+    "lastUpdated": "2023-02-04 02:24:30 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1755,7 +1755,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2022-12-09 11:01:22 UTC"
+    "lastUpdated": "2023-02-17 09:40:58 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3657,7 +3657,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://angle.sh",
-    "lastUpdated": "2023-01-08 16:44:23 UTC"
+    "lastUpdated": "2023-02-02 21:57:24 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-01-13 09:29:34 UTC"
+    "lastUpdated": "2023-02-03 10:38:47 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5961,7 +5961,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-01-26 19:42:06 UTC"
+    "lastUpdated": "2023-02-03 06:59:33 UTC"
   },
   {
     "title": "Cluse",
@@ -6253,7 +6253,7 @@
     "appcast": "https://raw.githubusercontent.com/genexuslabs/sketchdesignops/master/.appcast.xml",
     "homepage": "https://github.com/genexuslabs/sketchdesignops",
     "author": "Gastón Milano",
-    "lastUpdated": "2023-01-06 02:39:07 UTC"
+    "lastUpdated": "2023-02-02 14:19:14 UTC"
   },
   {
     "title": "Toggle Greyscale",
@@ -7337,5 +7337,13 @@
     "appcast": "https://raw.githubusercontent.com/Design-Dude/ddSpiral/master/.appcast.xml",
     "name": "ddSpiral",
     "lastUpdated": "2023-02-09 11:33:00 UTC"
+  },
+  {
+    "title": "FluentC Translate",
+    "description": "The fastest way to translate a prototype into 75 languages.",
+    "name": "sketch-plugin",
+    "owner": "FluentC",
+    "appcast": "https://raw.githubusercontent.com/FluentC/sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/FluentC/sketch-plugin"
   }
 ]
