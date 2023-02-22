@@ -3,16 +3,11 @@ on:
   schedule:
     - cron: '0 0 * * 0'
   workflow_dispatch:
-  # push:
-  #   branches:
-  #   - master
-  #   paths:
-  #   - plugins.json
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Ruby 3.1
       uses: ruby/setup-ruby@v1
       with:
@@ -28,5 +23,5 @@ jobs:
         git config --global user.name 'Sketch Developer'
         git config --global user.email 'developer@sketch.com'
         git add plugins.json
-        git commit -am 'Update lastUpdated' --allow-empty
+        git commit -am 'content: Update lastUpdated' --allow-empty
         git push
