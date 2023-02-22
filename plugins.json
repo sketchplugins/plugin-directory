@@ -1,12 +1,12 @@
 [
   {
     "title": "iOS2Sketch",
-    "description": "A tool for generating Sketch documents from iOS App runtime views.",
+    "description": "Import App Screens to Sketch",
     "author": "DesignCodeApp",
-    "homepage": "https://www.ios2sketch.com/",
-    "appcast": "https://www.ios2sketch.com/download/appcast.xml",
+    "homepage": "https://www.design-code.app/docs",
+    "appcast": "https://www.design-code.app/download/appcast.xml",
     "name": "iOS2Sketch",
-    "lastUpdated": "2022-08-23 04:47:00 UTC"
+    "lastUpdated": "2022-10-24 08:05:00 UTC"
   },
   {
     "title": "CI HUB Connector",
