@@ -184,14 +184,14 @@
     "lastUpdated": "2020-11-06 23:51:30 UTC"
   },
   {
-    "title": "Phrase Sketch Plugin",
-    "description": "Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase plugin.",
+    "title": "Phrase Strings Plugin",
+    "description": "Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.",
     "name": "phraseapp-sketch",
     "owner": "phrase",
     "author": "Phrase",
     "homepage": "https://phrase.com/integrations/sketch/",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2022-11-16 16:22:46 UTC"
+    "lastUpdated": "2023-02-22 12:32:46 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
