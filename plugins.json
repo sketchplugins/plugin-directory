@@ -7327,5 +7327,13 @@
     "owner": "FluentC",
     "appcast": "https://raw.githubusercontent.com/FluentC/sketch-plugin/master/.appcast.xml",
     "homepage": "https://www.fluentc.io/sketch-plug-in/"
+  },
+  {
+    "title": "FluentC Translate",
+    "description": "The fastest way to translate a prototype into 75 languages.",
+    "name": "sketch-plugin",
+    "owner": "FluentC",
+    "appcast": "https://raw.githubusercontent.com/FluentC/sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/FluentC/sketch-plugin"
   }
 ]
