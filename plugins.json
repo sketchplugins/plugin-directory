@@ -7329,6 +7329,16 @@
     "homepage": "https://www.fluentc.io/sketch-plug-in/"
   },
   {
+    "title": "ddSpiral",
+    "description": "Make almost any kind of spiral magically appear.",
+    "owner": "Design-Dude"
+    "author": "Mek van’t Hoff",
+    "homepage": "https://github.com/Design-Dude/ddSpiral",
+    "appcast": "https://raw.githubusercontent.com/Design-Dude/ddSpiral/master/.appcast.xml",
+    "name": "ddSpiral",
+    "lastUpdated": "2023-02-09 11:33:00 UTC"
+  },
+  {
     "title": "FluentC Translate",
     "description": "The fastest way to translate a prototype into 75 languages.",
     "name": "sketch-plugin",
