@@ -191,7 +191,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/integrations/sketch/",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2023-02-22 12:32:46 UTC"
+    "lastUpdated": "2022-11-16 16:22:46 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -333,7 +333,7 @@
     "owner": "wix-incubator",
     "author": "WIX Incubator",
     "homepage": "https://github.com/wix-incubator/sketch-symbol-legend",
-    "lastUpdated": "2018-05-23 09:42:31 UTC"
+    "lastUpdated": "2023-02-20 14:46:24 UTC"
   },
   {
     "description": "Generate Isometric views from Artboards and Rectangles.",
@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-02-06 17:22:01 UTC",
+    "lastUpdated": "2023-02-22 15:00:22 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -1755,7 +1755,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2023-02-17 09:40:58 UTC"
+    "lastUpdated": "2023-02-24 04:42:29 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -7317,7 +7317,8 @@
     "owner": "h5mag",
     "appcast": "https://raw.githubusercontent.com/h5mag/sketch-h5converter/master/.appcast.xml",
     "homepage": "https://github.com/h5mag/sketch-h5converter",
-    "author": "H5mag team"
+    "author": "H5mag team",
+    "lastUpdated": "2022-11-18 15:33:04 UTC"
   },
   {
     "title": "ddSpiral",
@@ -7327,7 +7328,7 @@
     "homepage": "https://github.com/Design-Dude/ddSpiral",
     "appcast": "https://raw.githubusercontent.com/Design-Dude/ddSpiral/master/.appcast.xml",
     "name": "ddSpiral",
-    "lastUpdated": "2023-02-09 11:33:00 UTC"
+    "lastUpdated": "2023-02-23 22:45:21 UTC"
   },
   {
     "title": "FluentC Translate",
