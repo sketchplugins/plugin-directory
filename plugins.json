@@ -7322,13 +7322,13 @@
   },
   {
     "title": "ddSpiral",
-    "description": "Make almost any kind of spiral magically appear.",
+    "description": "Magically shape almost any kind of 🌀 spiral.",
     "owner": "Design-Dude",
     "author": "Mek van’t Hoff",
     "homepage": "https://github.com/Design-Dude/ddSpiral",
     "appcast": "https://raw.githubusercontent.com/Design-Dude/ddSpiral/master/.appcast.xml",
     "name": "ddSpiral",
-    "lastUpdated": "2023-03-03 09:42:45 UTC"
+    "lastUpdated": "2023-03-06 09:42:45 UTC"
   },
   {
     "title": "FluentC Translate",
