@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-03-03 15:19:30 UTC",
+    "lastUpdated": "2023-03-08 16:51:05 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -2359,7 +2359,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2023-01-07 13:54:40 UTC"
+    "lastUpdated": "2023-03-06 17:28:51 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2697,7 +2697,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2023-01-06 09:17:46 UTC"
+    "lastUpdated": "2023-03-05 01:12:19 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -3334,7 +3334,7 @@
     "author": "Myrronth",
     "owner": "Myrronth",
     "name": "symbol-and-artboard-organizer",
-    "lastUpdated": "2023-01-07 08:13:32 UTC"
+    "lastUpdated": "2023-03-06 03:48:51 UTC"
   },
   {
     "title": "Library Symbol Replacer",
@@ -3455,7 +3455,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2023-01-08 12:57:04 UTC",
+    "lastUpdated": "2023-03-08 15:25:46 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -4152,7 +4152,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameAutocomplete/master/.appcast.xml",
     "name": "SymbolNameAutocomplete",
-    "lastUpdated": "2023-01-07 09:02:07 UTC"
+    "lastUpdated": "2023-03-06 05:40:20 UTC"
   },
   {
     "title": "SymbolNameSync",
@@ -5843,7 +5843,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/PluginsList/master/.appcast.xml",
     "homepage": "https://github.com/griffin-stewie/PluginsList",
-    "lastUpdated": "2023-01-07 05:12:43 UTC"
+    "lastUpdated": "2023-03-05 19:09:54 UTC"
   },
   {
     "title": "Tin Drum",
@@ -6572,7 +6572,7 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/colors-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live",
     "author": "Sugarcode",
-    "lastUpdated": "2023-01-06 09:18:40 UTC"
+    "lastUpdated": "2023-03-05 01:12:18 UTC"
   },
   {
     "title": "Icons → Code",
@@ -6582,7 +6582,7 @@
     "appcast": "https://raw.githubusercontent.com/Sugarcode-Team/icons-to-code-sketch-plugin-live/master/.appcast.xml",
     "homepage": "https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live",
     "author": "Sugarcode",
-    "lastUpdated": "2023-01-06 09:20:15 UTC"
+    "lastUpdated": "2023-03-05 01:18:00 UTC"
   },
   {
     "title": "wireframr",
@@ -7066,7 +7066,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2023-01-07 08:54:31 UTC"
+    "lastUpdated": "2023-03-05 23:02:11 UTC"
   },
   {
     "title": "hs-plugin",
@@ -7328,7 +7328,7 @@
     "homepage": "https://github.com/Design-Dude/ddSpiral",
     "appcast": "https://raw.githubusercontent.com/Design-Dude/ddSpiral/master/.appcast.xml",
     "name": "ddSpiral",
-    "lastUpdated": "2023-03-06 09:42:45 UTC"
+    "lastUpdated": "2023-03-06 10:47:11 UTC"
   },
   {
     "title": "FluentC Translate",
