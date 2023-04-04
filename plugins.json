@@ -4173,12 +4173,15 @@
     "lastUpdated": "2018-09-18 14:32:48 UTC"
   },
   {
-    "description": "Quickly and easily create grids and manipulate guides with a consistent UI in Photoshop, Illustrator, and Sketch",
     "title": "GuideGuide",
+    "name": "guideguide",
+    "description": "Powerful grids and guides in your favorite design tools",
     "author": "Cameron McEfee",
+    "owner": "cameronmcefee",
     "homepage": "https://guideguide.me",
     "changelog": "https://guideguide.me/changelog/",
-    "lastUpdated": "2018-11-30 07:53:00 UTC"
+    "appcast": "https://guideguide.me/appcast.xml",
+    "lastUpdated": "2023-04-04 07:53:00 UTC"
   },
   {
     "title": "Sketch Iconscope",
