@@ -3230,7 +3230,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2023-03-04 06:15:22 UTC"
+    "lastUpdated": "2023-04-13 10:23:45 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -3916,7 +3916,7 @@
     "appcast": "https://raw.githubusercontent.com/vladimir-ionita/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/vladimir-ionita/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2022-10-20 12:03:57 UTC"
+    "lastUpdated": "2023-04-12 05:28:51 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4072,7 +4072,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2023-01-20 14:36:38 UTC"
+    "lastUpdated": "2023-04-13 08:09:16 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -5105,7 +5105,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-03-23 16:04:58 UTC"
+    "lastUpdated": "2023-04-10 01:23:53 UTC"
   },
   {
     "title": "lazy-styles-generator",
