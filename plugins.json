@@ -1148,7 +1148,7 @@
     "author": "Delighted Inc.",
     "title": "Scale All in Place",
     "name": "sketch-scale-all-in-place",
-    "lastUpdated": "2023-03-01 22:33:02 UTC"
+    "lastUpdated": "2023-04-16 02:30:00 UTC"
   },
   {
     "description": "Upload to CloudApp: Upload the current artboard or page to CloudApp.",
@@ -4267,7 +4267,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2023-02-28 01:07:10 UTC"
+    "lastUpdated": "2023-04-18 19:06:06 UTC"
   },
   {
     "title": "Better Shadow",
@@ -5964,7 +5964,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-03-01 14:24:22 UTC"
+    "lastUpdated": "2023-04-21 11:43:06 UTC"
   },
   {
     "title": "Cluse",
