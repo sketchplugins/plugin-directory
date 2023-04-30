@@ -191,7 +191,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/integrations/sketch/",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2022-11-16 16:22:46 UTC"
+    "lastUpdated": "2023-04-24 11:24:45 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -3230,7 +3230,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2023-04-13 10:23:45 UTC"
+    "lastUpdated": "2023-04-25 05:19:04 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -4267,7 +4267,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2023-04-18 19:06:06 UTC"
+    "lastUpdated": "2023-04-27 05:42:50 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4715,7 +4715,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2023-02-28 05:49:19 UTC"
+    "lastUpdated": "2023-04-29 21:35:53 UTC"
   },
   {
     "title": "imgcook",
@@ -5964,7 +5964,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-04-21 11:43:06 UTC"
+    "lastUpdated": "2023-04-28 15:04:01 UTC"
   },
   {
     "title": "Cluse",
@@ -7292,7 +7292,7 @@
     "appcast": "https://raw.githubusercontent.com/Penndo/smartTable/master/.appcast.xml",
     "homepage": "https://github.com/Penndo/smartTable",
     "author": "Penndo",
-    "lastUpdated": "2022-08-31 12:00:38 UTC"
+    "lastUpdated": "2023-04-25 02:26:21 UTC"
   },
   {
     "title": "10th Anniversary",
