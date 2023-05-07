@@ -224,7 +224,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2023-02-28 05:31:22 UTC"
+    "lastUpdated": "2023-04-30 01:07:29 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-04-03 16:33:07 UTC",
+    "lastUpdated": "2023-05-02 13:24:16 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -5024,7 +5024,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2023-02-28 09:34:19 UTC"
+    "lastUpdated": "2023-04-30 06:59:08 UTC"
   },
   {
     "title": "labelizer",
@@ -5495,7 +5495,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2023-03-03 00:55:06 UTC"
+    "lastUpdated": "2023-05-06 00:46:39 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -5818,7 +5818,7 @@
     "appcast": "https://raw.githubusercontent.com/pexels/pexels-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/pexels/pexels-sketchplugin",
     "author": "Pexels",
-    "lastUpdated": "2023-03-23 13:37:11 UTC"
+    "lastUpdated": "2023-05-06 23:17:09 UTC"
   },
   {
     "title": "Orbison",
@@ -5865,7 +5865,7 @@
     "appcast": "https://raw.githubusercontent.com/cloudinary-devs/cloudinary-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/cloudinary-devs/cloudinary-sketch-plugin",
     "author": "Maya Shavin",
-    "lastUpdated": "2023-03-02 01:25:15 UTC"
+    "lastUpdated": "2023-05-06 23:56:40 UTC"
   },
   {
     "title": "Symbol Finder",
@@ -5964,7 +5964,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-04-28 15:04:01 UTC"
+    "lastUpdated": "2023-05-05 13:44:57 UTC"
   },
   {
     "title": "Cluse",
