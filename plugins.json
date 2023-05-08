@@ -7338,8 +7338,8 @@
     "description": "Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.",
     "name": "sketch-grid",
     "owner": "SteveEdson",
-    "appcast": "https://raw.githubusercontent.com/SteveEdson/sketch-grid/master/.appcast.xml",
-    "homepage": "https://github.com/SteveEdson/sketch-grid",
+    "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
+    "homepage": "https://www.thegoldenratio.co.uk/plugins",
     "author": "Spacestar Digital"
   }
 ]
