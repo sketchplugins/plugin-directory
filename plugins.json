@@ -3584,14 +3584,6 @@
     "lastUpdated": "2020-09-25 17:57:38 UTC"
   },
   {
-    "description": "Version control for designers",
-    "title": "Plant",
-    "author": "Plant",
-    "homepage": "https://plantapp.io",
-    "changelog": "https://support.plantapp.io/en/collections/683053-release-notes",
-    "lastUpdated": "2020-06-30 00:00:00 UTC"
-  },
-  {
     "title": "DeepSelect",
     "description": "A quick and easy way to select layers inside a group, filtering by layer type",
     "name": "DeepSelect",
