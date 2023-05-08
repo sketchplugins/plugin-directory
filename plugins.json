@@ -6994,16 +6994,6 @@
     "lastUpdated": "2022-02-03 09:13:57 UTC"
   },
   {
-    "title": "Spelly",
-    "description": "Spell checker by Spelly with auto-scanner, suggestions, and other powerful features",
-    "author": "Spelly Team",
-    "homepage": "https://spelly.io",
-    "owner": "spelly-io",
-    "name": "spelly",
-    "appcast": "https://spelly.io/plugin/appcast.xml",
-    "lastUpdated": "2021-08-25 00:59:11 UTC"
-  },
-  {
     "title": "path-tools",
     "description": "A collection of path tools for Sketch",
     "name": "sketch-path-tools",
