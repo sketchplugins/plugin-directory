@@ -1772,7 +1772,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2022-01-18 10:16:28 UTC"
+    "lastUpdated": "2023-05-09 13:02:04 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -2144,7 +2144,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2023-03-04 08:12:08 UTC"
+    "lastUpdated": "2023-05-10 20:30:34 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -3118,7 +3118,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2023-04-04 15:35:35 UTC"
+    "lastUpdated": "2023-05-09 14:22:45 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -3230,7 +3230,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2023-04-25 05:19:04 UTC"
+    "lastUpdated": "2023-05-11 07:23:08 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -5956,7 +5956,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-05-05 13:44:57 UTC"
+    "lastUpdated": "2023-05-11 15:27:07 UTC"
   },
   {
     "title": "Cluse",
@@ -6843,7 +6843,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2023-03-13 01:45:35 UTC"
+    "lastUpdated": "2023-05-12 03:06:06 UTC"
   },
   {
     "title": "import-shadows",
