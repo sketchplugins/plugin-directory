@@ -6,7 +6,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [10th Anniversary](https://github.com/bomberstudios/10th-anniversary), by Ale M: Celebrate Sketch's 10th Anniversary with a trip down memory lane
 - [6Spiral](https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin), by Matej Marjanovic: 6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.
-- [Above the Fold by Visualeyes](https://www.visualeyes.design/tools/above-the-fold), by VisualEyes: Mark your designs with a layer that indicates where is the Above the Fold portion.
 - [Abstract](https://abstract.com), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [Add Colors to Palette](https://github.com/johnmcclumpha/sketch-add-colors-to-palette), by johnmcclumpha: Quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette.
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
@@ -88,7 +87,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Export Flat Svgs](https://github.com/KevinGutowski/ExportFlatSVGs), by Kevin Gutowski: Flatten text within SVGs on export.
 - [Export King Plugin](https://github.com/hecflores/export-king-plugin), by hecflores: A Sketch Plugin that provides exporting for any scenario
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
-- [Export Colors](https://github.com/massimo-cassandro/sketch-export-colors-plugin), by Massimo Cassandro: Export document color components
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Fill Updater](https://github.com/lizhengDesign/Sketch-FillUpdater), by Li Zheng: Fill shapes or symbols with content of selected artboards.
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
@@ -97,7 +95,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Flow Exporter](https://github.com/romannurik/Sketch-FlowExporter), by Roman Nurik: A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.
 - [Fluentc Translate](https://github.com/FluentC/sketch-plugin), by FluentC: The fastest way to translate a prototype into 75 languages.
 - [foodreau](https://github.com/maxdavid/sketch-foodreau), by Max David: Data supplier plugin for populating designs with real food recipes.
-- [Framer Tools](https://updates.framer.com/download-latest/com.framer.pasteboard), by Framer B.V.: Copy layers from Sketch onto the canvas in Framer
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Frontitude](https://www.frontitude.com), by Frontitude: One place for your UX copy, from design to production.
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
@@ -304,8 +301,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
+- [Kitchen](https://github.com/ant-design/kitchen), by Ant-Design: Make your design work delicious 🍽
+- [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
+- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
@@ -313,7 +312,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Cloudinary Plugin](https://github.com/cloudinary-devs/cloudinary-sketch-plugin), by Maya Shavin: Cloudinary plugin for Sketch projects
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
-- [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Envato Elements](https://github.com/envato/extensions-sketch-plugin), by envato: Envato Elements Sketch plugin makes it easy to import a select range of Web and Mobile UI Kits from Envato Elements!
@@ -531,7 +529,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
 - [icon2React](https://github.com/jjj201200/icon2React), by DrowsyFlesh: a sketch plugin to converting icons to React Components
 - [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
-- [Kitchen](https://github.com/ant-design/kitchen), by Ant-Design: Make your design work delicious 🍽
 - [Sketch Invert Fills](https://github.com/icona79/sketch-invert-fills), by Matteo Gratton: Invert fills beween 2 selected layers
 - [Sketch Lineout](https://github.com/icona79/sketch-lineout), by Matteo Gratton: Lineout your artboards for handoff preview
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
@@ -589,6 +586,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [omnislibdirextract](https://github.com/taohsu/omnislibdirextract), by taohsu:
 - [Bootstrap Helpers](https://github.com/konki-vienna/sketch-bootstrap-helpers), by Konstantin Demblin: A plugin to help working with bootstrap grids and grids in general. It allows to create (Bootstrap) grids and align and de-/increase width of layers accordingly.
 - [Butter](https://github.com/pberrecloth/butter-sketch-plugin), by Peter Berrecloth: Butter will butt your layers together.
-- [Above the Fold by Visualeyes](https://www.visualeyes.design/tools/above-the-fold), by VisualEyes: Mark your designs with a layer that indicates where is the Above the Fold portion.
-- [Framer Tools](https://updates.framer.com/download-latest/com.framer.pasteboard), by Framer B.V.: Copy layers from Sketch onto the canvas in Framer
-- [Export Colors](https://github.com/massimo-cassandro/sketch-export-colors-plugin), by Massimo Cassandro: Export document color components
