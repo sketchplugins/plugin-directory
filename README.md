@@ -97,7 +97,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Frontitude](https://www.frontitude.com), by Frontitude: One place for your UX copy, from design to production.
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
 - [Genus](https://github.com/keplerlab/genus), by Kepler Lab: A sketch plugin for exporting prototype website (static html css) from your sketch designs
-- [ghost](https://github.com/tmdvs/ghost-sketch-plugin), by Tim Davies: Randomly change the opacity of selected layers
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Grid](https://www.thegoldenratio.co.uk/plugins), by Spacestar Digital: Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.
 - [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
@@ -160,7 +159,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Next](https://github.com/endswithak/next), by Erik Myers: Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.
 - [Nudge, Push, Shove.](http://www.nudgepushshove.com), by Michael Fouquet: Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.
 - [Omnis Skeleton Generator](https://github.com/taohsu/skeletongenerator), by taohsu: Generate skeleton/placeholder UI from the selected components
-- [omnislibdirextract](https://github.com/taohsu/omnislibdirextract), by taohsu:
 - [Orbison](https://github.com/ilikescience/orbison), by ilikescience: A Sketch plugin for Bitly's product design system
 - [Organize Layers](https://github.com/eunicejson/organizeLayers), by Eunice J. Son: A plugin that allows short key commands to move layers up, down and reverse positions ↕️
 - [Outsystems ui Plugin](https://github.com/HiInteractive/OutSystemsUIPlugin), by Pedro Oliveira:
@@ -299,6 +297,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Icondrop](https://github.com/iconscout/icondrop), by Iconscout: Get access to 300,000+ icons right into Sketch App
 - [Kitchen](https://github.com/ant-design/kitchen), by Ant-Design: Make your design work delicious 🍽
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
@@ -372,7 +371,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
 - [Csv Mail Merge](https://github.com/jdwolk/sketch-csv-mailmerge), by JD Wolk: A lightweight Sketch plugin for importing data from .csv files using "{}" text sections.
 - [stuffing](https://github.com/Ashung/Sketch-Stuffing), by Ashung: A DataSupplier plugin which supplies chinese data.
-- [Automate Sketch](https://github.com/ashung/automate-sketch), by Ashung Hung: Make Sketch more efficient. A lot of useful plugins in one.
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
 - [Angle](https://angle.sh), by MengTo: Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.
 - [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
@@ -580,5 +578,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Abstract](https://abstract.com), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [Google Sheets Content Sync](https://github.com/dwilliames/google-sheets-content-sync-sketch-plugin), by David Williames: Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
 - [Click Thru Prototype](https://github.com/markhorgan/click-thru-prototype), by Mark Horgan: Generates a HTML click-through prototype of your responsive website design.
-- [ghost](https://github.com/tmdvs/ghost-sketch-plugin), by Tim Davies: Randomly change the opacity of selected layers
-- [omnislibdirextract](https://github.com/taohsu/omnislibdirextract), by taohsu:
