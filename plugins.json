@@ -2144,7 +2144,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2023-05-10 20:30:34 UTC"
+    "lastUpdated": "2023-06-09 19:24:36 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -2995,7 +2995,7 @@
     "author": "Justinmind",
     "owner": "JustinmindDevelopment",
     "name": "justinmind-sketch",
-    "lastUpdated": "2022-08-12 11:07:08 UTC"
+    "lastUpdated": "2023-06-09 09:15:15 UTC"
   },
   {
     "owner": "mludowise",
@@ -3118,7 +3118,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2023-05-09 14:22:45 UTC"
+    "lastUpdated": "2023-06-06 13:25:30 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -4119,7 +4119,7 @@
     "owner": "overflowapp",
     "name": "overflow-sketch-plugin",
     "homepage": "https://overflow.io",
-    "lastUpdated": "2022-04-28 08:38:36 UTC"
+    "lastUpdated": "2023-06-09 07:20:49 UTC"
   },
   {
     "title": "Kitchen",
@@ -5100,7 +5100,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-04-10 01:23:53 UTC"
+    "lastUpdated": "2023-06-04 11:23:36 UTC"
   },
   {
     "title": "lazy-styles-generator",
