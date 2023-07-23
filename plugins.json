@@ -2144,7 +2144,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2023-06-30 21:19:19 UTC"
+    "lastUpdated": "2023-07-18 09:39:47 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -3431,7 +3431,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-style-master",
-    "lastUpdated": "2020-09-14 00:13:02 UTC"
+    "lastUpdated": "2023-07-20 19:09:40 UTC"
   },
   {
     "title": "Sketch Groupie",
@@ -4064,7 +4064,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2023-07-11 00:56:10 UTC"
+    "lastUpdated": "2023-07-20 07:54:19 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -5016,7 +5016,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2023-04-30 06:59:08 UTC"
+    "lastUpdated": "2023-07-18 20:14:46 UTC"
   },
   {
     "title": "labelizer",
@@ -5100,7 +5100,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-07-08 15:51:47 UTC"
+    "lastUpdated": "2023-07-18 22:51:28 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5956,7 +5956,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-07-08 16:44:14 UTC"
+    "lastUpdated": "2023-07-18 07:09:41 UTC"
   },
   {
     "title": "Cluse",
@@ -6072,7 +6072,7 @@
     "appcast": "https://raw.githubusercontent.com/tgfjt/sketch-paste-to-fill/master/.appcast.xml",
     "homepage": "https://github.com/tgfjt/sketch-paste-to-fill#readme",
     "author": "tgfjt",
-    "lastUpdated": "2023-01-06 04:05:19 UTC"
+    "lastUpdated": "2023-07-18 20:33:33 UTC"
   },
   {
     "title": "Sketch Export Preferences",
