@@ -7331,5 +7331,13 @@
     "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
     "homepage": "https://www.thegoldenratio.co.uk/plugins",
     "author": "Spacestar Digital"
+  },
+  {
+    "title": "Live Preview",
+    "description": "Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.",
+    "author": "Kyle Halevi",
+    "homepage": "https://kylehalevi.com/live-preview/",
+    "appcast": "https://kylehalevi.com/live-preview/plugin-appcast.xml",
+    "name": "LivePreview"
   }
 ]
