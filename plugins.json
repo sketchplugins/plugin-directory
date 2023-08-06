@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-07-25 23:16:19 UTC",
+    "lastUpdated": "2023-08-02 16:03:36 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -3118,7 +3118,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2023-06-06 13:25:30 UTC"
+    "lastUpdated": "2023-08-02 21:30:20 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -3431,7 +3431,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-style-master",
-    "lastUpdated": "2023-07-20 19:09:40 UTC"
+    "lastUpdated": "2023-08-03 07:05:40 UTC"
   },
   {
     "title": "Sketch Groupie",
@@ -5800,7 +5800,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2023-01-08 14:51:10 UTC"
+    "lastUpdated": "2023-08-01 13:29:37 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -5956,7 +5956,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-07-18 07:09:41 UTC"
+    "lastUpdated": "2023-08-02 11:41:46 UTC"
   },
   {
     "title": "Cluse",
