@@ -135,6 +135,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Linked Data Exporter](https://github.com/icona79/sketch-linked-data-exporter), by Matteo Gratton: Export selection as Linked Data-ready JSON file and images
 - [List Font Families in Styles](https://github.com/icona79/Sketch---List-Font-Families-in-use), by Matteo Gratton: Copy a list of all the used font families active in your text styles.
 - [Live Planet Sketch Datasupplier](https://github.com/Craigtut/liveplanet-sketch-datasupplier), by Craig Tuttle: Supply's real data from Live Planet's API to Sketch for testing designs
+- [Live Preview](https://kylehalevi.com/live-preview), by Kyle Halevi: Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Lokalise Plugin](https://github.com/lokalise/lokalise-sketchplugin), by Lokalise: Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.
 - [MarginSymbols](https://github.com/griffin-stewie/MarginSymbols), by griffin-stewie:
