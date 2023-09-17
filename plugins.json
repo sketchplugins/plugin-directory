@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-08-14 16:49:48 UTC",
+    "lastUpdated": "2023-09-11 12:58:57 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -6409,7 +6409,7 @@
     "appcast": "https://raw.githubusercontent.com/qjebbs/sketch-meaxure/master/.appcast.xml",
     "homepage": "https://github.com/qjebbs/sketch-meaxure",
     "author": "utom & jebbs",
-    "lastUpdated": "2023-01-05 10:54:53 UTC"
+    "lastUpdated": "2023-09-14 15:43:16 UTC"
   },
   {
     "title": "rename-text-layers-by-style",
