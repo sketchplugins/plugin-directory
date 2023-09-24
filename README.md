@@ -49,7 +49,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ColorVariablesExporter](https://github.com/griffin-stewie/ColorVariablesExporter), by griffin-stewie: Export Color Variables for development
 - [Component8](https://www.whose.design/component8), by Groot Xu: Component8 stores 1000+ crafted components. Use them in Sketch by drag & drop.
 - [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
-- [ContentSync](https://www.contentsync.com), by Syncify: Sync and version your design content to and from Google Sheets and Microsoft 365. Deep support for symbols, overrides and more.
 - [Context](https://github.com/afnizarnur/context-sketch-plugin), by Afnizar Nur Ghifari: Count character, words, and paragraphs from a text layer easily inside Sketch!
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
 - [Copy Framer Code](https://github.com/perrysmotors/copy-framer-code), by Giles Perry: A Sketch plugin that copies any selected layer to the clipboard as code that can be pasted straight into a Framer prototype.
@@ -286,8 +285,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
+- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
+- [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
+- [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
 - [css to Shadow Style](https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin), by Oliver Pitsch: CSS box-shadow to Layer Style Converter
@@ -330,7 +331,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [ddSpiral](https://github.com/Design-Dude/ddSpiral), by Mek van’t Hoff: Magically shape almost any kind of 🌀 spiral.
 - [SymbolNameAutocomplete](https://github.com/griffin-stewie/symbolnameautocomplete), by griffin-stewie: This plugin gives you autocompletion of symbol names when creating a symbol.
 - [Symbol and Artboard Organizer](https://github.com/myrronth/symbol-and-artboard-organizer), by Myrronth: Organize your symbols and artboards.
-- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Plugin List](https://github.com/griffin-stewie/PluginsList), by griffin-stewie: Sketch Plugin that gives you list of plugins you enabled as several text formats.
 - [Icons → Code](https://github.com/Sugarcode-Team/icons-to-code-sketch-plugin-live), by Sugarcode: Export Icons as vector-perfect code components for Android, React, ReactNative, Angular, Vue, TTF, EPS, PDF, Custom components and more.
 - [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator), by Eduardo Gómez Vásquez: Plugin to fill a layer with a map generated from a location (Powered by Google Maps)
@@ -510,7 +510,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Import Colors](https://github.com/Ashung/import-colors-sketch), by Ashung: Import colors from swatches file to Sketch.
 - [DatesFromNow](https://github.com/LeipeLeon/Sketch_DatesFormNow), by Leon Berenschot: Simple data plugin to fill dates from now
 - [Paddy](https://github.com/dwilliames/paddy-sketch-plugin), by David Williames: Automated padding, spacing and alignment for your Sketch layers
-- [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [Tidy](https://github.com/gbrunow/tidy), by Gui Brunow Gomes: Keep your sketch files Tidy.
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
 - [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine: A Sketch plugin for counting the number of artboards in your file or on your page
@@ -554,4 +553,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Transifex Sketch Plugin](https://github.com/transifex/transifex-sketch-plugin), by Transifex: Start localization at the design phase. Accelerate your workflow by bringing the Product, Design and Localization teams closer.
 - [Beatflyer Lite](https://beatflyer.com), by Christian Giordano: Animate your artboards in a few clicks with a lite and free version of Beatflyer.
 - [Mockup](https://github.com/ruslanlatypov/Mockup-Plugin-for-Sketch), by ls.graphics: Perspective transformation plugin for devices mockups
-- [ContentSync](https://www.contentsync.com), by Syncify: Sync and version your design content to and from Google Sheets and Microsoft 365. Deep support for symbols, overrides and more.
