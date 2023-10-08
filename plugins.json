@@ -1188,7 +1188,7 @@
     "title": "Artboard Tools",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2021-05-13 15:09:08 UTC"
+    "lastUpdated": "2023-10-03 14:38:24 UTC"
   },
   {
     "description": "Sketch plugin that lets you unlink selected layers and groups from either shared symbols, styles or text styles, en masse.",
@@ -2599,7 +2599,7 @@
     "title": "Sketch Select",
     "owner": "canisminor1990",
     "author": "Canis Minor",
-    "lastUpdated": "2019-08-21 13:58:29 UTC"
+    "lastUpdated": "2023-10-01 11:41:00 UTC"
   },
   {
     "description": "A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.",
@@ -3214,7 +3214,7 @@
     "author": "Canis Minor",
     "owner": "canisminor1990",
     "name": "sketch-name-organizer",
-    "lastUpdated": "2018-03-13 02:06:12 UTC"
+    "lastUpdated": "2023-10-01 11:13:34 UTC"
   },
   {
     "title": "Instance Locator",
@@ -4064,7 +4064,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2023-07-26 06:01:34 UTC"
+    "lastUpdated": "2023-10-05 19:32:57 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4259,7 +4259,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2023-04-27 05:42:50 UTC"
+    "lastUpdated": "2023-10-05 00:37:39 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4698,7 +4698,7 @@
     "appcast": "https://raw.githubusercontent.com/canisminor1990/anto/master/.appcast.xml",
     "homepage": "https://github.com/canisminor1990/anto",
     "author": "CanisMinor",
-    "lastUpdated": "2021-10-19 03:18:00 UTC"
+    "lastUpdated": "2023-10-01 17:20:23 UTC"
   },
   {
     "title": "Envato Elements",
@@ -4707,7 +4707,7 @@
     "owner": "envato",
     "appcast": "https://raw.githubusercontent.com/envato/extensions-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/envato/extensions-sketch-plugin",
-    "lastUpdated": "2023-07-11 19:43:50 UTC"
+    "lastUpdated": "2023-10-03 22:45:45 UTC"
   },
   {
     "title": "imgcook",
@@ -5016,7 +5016,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2023-07-18 20:14:46 UTC"
+    "lastUpdated": "2023-10-07 11:15:22 UTC"
   },
   {
     "title": "labelizer",
@@ -5100,7 +5100,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-07-18 22:51:28 UTC"
+    "lastUpdated": "2023-10-05 00:40:56 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -6517,7 +6517,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2023-07-04 04:19:43 UTC"
+    "lastUpdated": "2023-10-07 01:50:52 UTC"
   },
   {
     "title": "Slint",
