@@ -4172,7 +4172,7 @@
     "owner": "cameronmcefee",
     "homepage": "https://guideguide.me",
     "changelog": "https://guideguide.me/changelog/",
-    "appcast": "https://guideguide.me/appcast.xml",
+    "appcast": "https://guideguide.me/json/sketch-plugin-manifest.json",
     "lastUpdated": "2023-04-04 07:53:00 UTC"
   },
   {
