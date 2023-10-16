@@ -224,7 +224,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2023-04-30 01:07:29 UTC"
+    "lastUpdated": "2023-10-10 01:14:56 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-09-19 14:50:07 UTC",
+    "lastUpdated": "2023-10-12 17:57:16 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -2144,7 +2144,7 @@
     "name": "sketch-wakatime",
     "owner": "wakatime",
     "author": "WakaTime",
-    "lastUpdated": "2023-07-18 09:39:47 UTC"
+    "lastUpdated": "2023-10-12 12:38:08 UTC"
   },
   {
     "description": "Makes it easier to work with interface components in Sketch",
@@ -2825,7 +2825,7 @@
     "title": "📕 PDF Export",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2022-12-31 02:21:48 UTC"
+    "lastUpdated": "2023-10-09 13:58:35 UTC"
   },
   {
     "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
@@ -3365,7 +3365,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-instance-locator",
-    "lastUpdated": "2021-05-23 16:35:10 UTC"
+    "lastUpdated": "2023-10-09 19:30:56 UTC"
   },
   {
     "title": "Symbol Swapper",
@@ -4064,7 +4064,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2023-10-05 19:32:57 UTC"
+    "lastUpdated": "2023-10-12 09:43:15 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4259,7 +4259,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2023-10-05 00:37:39 UTC"
+    "lastUpdated": "2023-10-10 09:06:58 UTC"
   },
   {
     "title": "Better Shadow",
@@ -5016,7 +5016,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2023-10-07 11:15:22 UTC"
+    "lastUpdated": "2023-10-13 08:25:09 UTC"
   },
   {
     "title": "labelizer",
@@ -5100,7 +5100,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-10-05 00:40:56 UTC"
+    "lastUpdated": "2023-10-10 13:12:09 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5257,7 +5257,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/import-svg-as-artboard/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/import-svg-as-artboard",
     "author": "mathieudutour",
-    "lastUpdated": "2023-02-28 14:02:40 UTC"
+    "lastUpdated": "2023-10-10 10:37:43 UTC"
   },
   {
     "title": "MockingBot",
@@ -5487,7 +5487,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2023-05-06 00:46:39 UTC"
+    "lastUpdated": "2023-10-10 09:45:24 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -5956,7 +5956,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-08-02 11:41:46 UTC"
+    "lastUpdated": "2023-10-09 14:08:42 UTC"
   },
   {
     "title": "Cluse",
