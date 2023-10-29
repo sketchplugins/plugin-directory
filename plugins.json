@@ -224,7 +224,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2023-10-19 20:55:13 UTC"
+    "lastUpdated": "2023-10-26 23:40:53 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -2503,7 +2503,7 @@
     "title": "App Asset Export",
     "owner": "work4blue",
     "author": "Andrew Huang",
-    "lastUpdated": "2017-02-14 14:01:33 UTC"
+    "lastUpdated": "2023-10-23 12:02:26 UTC"
   },
   {
     "description": "Sketch plugin for resizing, aligning and generally manipulating layers wickedly",
@@ -3431,7 +3431,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-style-master",
-    "lastUpdated": "2023-10-16 21:22:03 UTC"
+    "lastUpdated": "2023-10-28 03:52:54 UTC"
   },
   {
     "title": "Sketch Groupie",
@@ -4259,7 +4259,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2023-10-19 20:54:41 UTC"
+    "lastUpdated": "2023-10-26 22:44:38 UTC"
   },
   {
     "title": "Better Shadow",
@@ -5016,7 +5016,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2023-10-18 16:16:07 UTC"
+    "lastUpdated": "2023-10-28 02:03:10 UTC"
   },
   {
     "title": "labelizer",
@@ -5100,7 +5100,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2023-10-19 21:32:42 UTC"
+    "lastUpdated": "2023-10-27 12:38:02 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5487,7 +5487,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2023-10-19 16:39:04 UTC"
+    "lastUpdated": "2023-10-27 01:27:25 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -5693,7 +5693,7 @@
     "author": "Swipe Circus",
     "homepage": "https://getrepresent.com",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
-    "lastUpdated": "2023-10-20 00:29:27 UTC"
+    "lastUpdated": "2023-10-27 08:38:56 UTC"
   },
   {
     "title": "Sketch Retain Text Color",
@@ -5810,7 +5810,7 @@
     "appcast": "https://raw.githubusercontent.com/pexels/pexels-sketchplugin/master/.appcast.xml",
     "homepage": "https://github.com/pexels/pexels-sketchplugin",
     "author": "Pexels",
-    "lastUpdated": "2023-10-19 18:35:11 UTC"
+    "lastUpdated": "2023-10-27 12:12:38 UTC"
   },
   {
     "title": "Orbison",
@@ -5956,7 +5956,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-10-17 07:35:19 UTC"
+    "lastUpdated": "2023-10-27 13:43:43 UTC"
   },
   {
     "title": "Cluse",
@@ -6517,7 +6517,7 @@
     "appcast": "https://raw.githubusercontent.com/sonnylazuardi/color-copy-paste/master/.appcast.xml",
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
-    "lastUpdated": "2023-10-07 01:50:52 UTC"
+    "lastUpdated": "2023-10-25 05:04:04 UTC"
   },
   {
     "title": "Slint",
