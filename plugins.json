@@ -453,7 +453,7 @@
     "owner": "overlay",
     "author": "Overlay",
     "homepage": "https://overlay-tech.com?ref=sketch-plugin",
-    "lastUpdated": null,
+    "lastUpdated": "2023-01-01 19:30:00 UTC",
     "appcast": "https://overlay-plugin.s3-eu-west-1.amazonaws.com/public/sketch/.appcast.xml"
   },
   {
@@ -2600,14 +2600,6 @@
     "owner": "canisminor1990",
     "author": "Canis Minor",
     "lastUpdated": "2023-10-01 11:41:00 UTC"
-  },
-  {
-    "description": "A Sketch plugin that calculates the color contrast of two layers and evaluates them against MCOE's guidelines.",
-    "name": "Sketch-Color-Contrast-Analyzer",
-    "title": "Sketch Color Contrast Analyzer",
-    "owner": "eaugustine",
-    "author": null,
-    "lastUpdated": "2018-05-26 16:21:15 UTC"
   },
   {
     "description": "Sketch plugin for creating a clickthrough HTMLprototype",
@@ -5901,16 +5893,6 @@
     "lastUpdated": "2023-03-02 05:00:09 UTC"
   },
   {
-    "title": "🎨 Tieba ColorPool",
-    "description": "This is read color pool name plugin only for tieba UE & RD",
-    "name": "tb_colorpool_plugin",
-    "owner": "YanShby",
-    "appcast": "https://raw.githubusercontent.com/YanShby/tb_colorpool_plugin/master/.appcast.xml",
-    "homepage": "https://github.com/YanShby/tb_colorpool_plugin",
-    "author": "Shen,Yan",
-    "lastUpdated": null
-  },
-  {
     "title": "Sketch Flow",
     "description": "Make Icon Slicing simple for app developers!",
     "name": "Sketch-Flow",
@@ -6669,16 +6651,6 @@
     "lastUpdated": "2023-01-06 13:06:20 UTC"
   },
   {
-    "title": "Component8",
-    "description": "Component8 stores 1000+ crafted components. Use them in Sketch by drag & drop.",
-    "name": "component8-sketch-plugin",
-    "owner": "grootxu",
-    "appcast": "https://media.toolgather.top/Component8-plugin-appcast.xml",
-    "homepage": "https://www.whose.design/component8",
-    "author": "Groot Xu",
-    "lastUpdated": null
-  },
-  {
     "title": "sketch-notes",
     "description": "A Sketch plugin that lets you add notes that become part of your Artboard and can be exported to a PDF or other Sketch formats.",
     "name": "sketch-notes",
@@ -6696,7 +6668,7 @@
     "appcast": "https://github.com/mybenmao/sketch-helpweb/master/.appcast.xml",
     "owner": "caorukang",
     "name": "sketch-helpweb",
-    "lastUpdated": null
+    "lastUpdated": "2020-07-22 19:30:00 UTC"
   },
   {
     "title": "Blush",
@@ -6706,7 +6678,7 @@
     "appcast": "https://get.blush.design/appcast.xml",
     "owner": "Blush",
     "name": "blush-sketch-plugin",
-    "lastUpdated": null
+    "lastUpdated": "2023-01-01 19:30:00 UTC"
   },
   {
     "title": "json-color-palette-importer",
@@ -7061,7 +7033,8 @@
     "owner": "rijieli",
     "appcast": "https://raw.githubusercontent.com/rijieli/duplicate-symbol-locator-plugin/master/.appcast.xml",
     "homepage": "https://github.com/rijieli/duplicate-symbol-locator-plugin",
-    "author": "Roger Lee"
+    "author": "Roger Lee",
+    "lastUpdated": "2021-07-30 19:30:00 UTC"
   },
   {
     "title": "How Many Artboards?",
@@ -7307,21 +7280,14 @@
     "lastUpdated": "2023-03-06 10:47:11 UTC"
   },
   {
-    "title": "FluentC Translate",
-    "description": "The fastest way to translate a prototype into 75 languages.",
-    "name": "sketch-plugin",
-    "owner": "FluentC",
-    "appcast": "https://raw.githubusercontent.com/FluentC/sketch-plugin/master/.appcast.xml",
-    "homepage": "https://github.com/FluentC/sketch-plugin"
-  },
-  {
     "title": "Golden Ratio Grid",
     "description": "Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.",
     "name": "sketch-grid",
     "owner": "SteveEdson",
     "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
     "homepage": "https://www.thegoldenratio.co.uk/plugins",
-    "author": "Spacestar Digital"
+    "author": "Spacestar Digital",
+    "lastUpdated": "2023-01-01 19:30:00 UTC"
   },
   {
     "title": "Live Preview",
@@ -7330,6 +7296,7 @@
     "owner": "KyleHalevi",
     "appcast": "https://kylehalevi.com/live-preview/plugin-appcast.xml",
     "homepage": "https://kylehalevi.com/live-preview",
-    "author": "Kyle Halevi"
+    "author": "Kyle Halevi",
+    "lastUpdated": "2023-01-01 19:30:00 UTC"
   }
 ]
