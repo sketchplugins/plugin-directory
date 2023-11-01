@@ -48,7 +48,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Colors Manager](https://github.com/fbmore/Colors-Manager-Sketch-Plugin), by Francesco Bertocci: Import, Export and Update Sketch Color Variables to and from Color Tokens.
 - [Colors → Code](https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live), by Sugarcode: Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.
 - [ColorVariablesExporter](https://github.com/griffin-stewie/ColorVariablesExporter), by griffin-stewie: Export Color Variables for development
-- [Component8](https://www.whose.design/component8), by Groot Xu: Component8 stores 1000+ crafted components. Use them in Sketch by drag & drop.
 - [Connection Flow Arrows](https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows), by Farid Sabitov: Plugin for generating easy to use connection flow arrows in Sketch
 - [Context](https://github.com/afnizarnur/context-sketch-plugin), by Afnizar Nur Ghifari: Count character, words, and paragraphs from a text layer easily inside Sketch!
 - [Contrast](https://github.com/romannurik/Sketch-Contrast#readme), by Roman Nurik: A Sketch plugin to show a pass/fail type contrast report.
@@ -71,7 +70,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Design Tokens](https://github.com/design-meets-development/design-tokens-plugin), by Andreas Koutsoukos: A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.
 - [Detach Out of Sync Text Styles](https://github.com/tijmenvangurp/detach-out-of-sync-text-styles), by Tijmen van Gurp: Detach all out of sync text styles from a chosen sketch library.
 - [Disconnector](https://github.com/njcrowther/Disconnector), by Nathan Crowther: Quickly disconnect all symbols from a selection
-- [Duplicate Symbol Locator](https://github.com/rijieli/duplicate-symbol-locator-plugin), by Roger Lee: Locate duplicate symbols, anywhere.
 - [DuplicateLater](https://github.com/KevinGutowski/Duplicate-Later), by Kevin Gutowski: Duplicate layers in the same direction after duplicating (like in Figma).
 - [Easy Buttons](https://github.com/icona79/easy-buttons-sketch-plugin), by Matteo Gratton: Easily create button archetypes
 - [Elevation Shadows](https://github.com/YitingLiu/Elevation-Shadows), by Yiting Liu: A Sketch Plugin to apply consistent Elevation Shadows
@@ -86,7 +84,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Find Dirty Styles](https://github.com/KevinGutowski/FindDirtyStyles), by Kevin Gutowski: A Sketch plugin to easily find layers that are out of sync with their shared styles.
 - [Flat Export](https://github.com/TheSonOfThomp/sketch-flat-export), by Adam Thompson: Use this plugin to batch export layers to a single folder.
 - [Flow Exporter](https://github.com/romannurik/Sketch-FlowExporter), by Roman Nurik: A Sketch plugin that exports prototype flows built with Sketch 49+ to HTML.
-- [Fluentc Translate](https://github.com/FluentC/sketch-plugin), by FluentC: The fastest way to translate a prototype into 75 languages.
 - [foodreau](https://github.com/maxdavid/sketch-foodreau), by Max David: Data supplier plugin for populating designs with real food recipes.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [FS_StockSummaryFiller](https://github.com/freeman990/FS_StockInfoFiller), by Freeman Sun: 一系列关于股票数据的自动填充/生成工具
@@ -98,7 +95,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [H5Converter](https://github.com/h5mag/sketch-h5converter), by H5mag team:
 - [Helpify](https://github.com/Luckyfoxdesign/helpify), by Lucky Fox Design: Plugin with simple actions: Generate random numbers
-- [helpweb](https://github.com/mybenmao/sketch-helpweb), by caorukang: web html css image
 - [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine: A Sketch plugin for counting the number of artboards in your file or on your page
 - [Iban Generator](https://github.com/idriesalbender/iban-sketch-plugin), by idix: Generate random International Bank Account Numbers (IBAN)
 - [IcanIcon](https://github.com/Sugarcode-Team/icanicon-live-sketch-plugin), by Sugarcode: icanicon.io allows you to keep your icon libraries in sync with your Design System.
@@ -279,7 +275,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [WtDesign](https://github.com/wantedly/sketch-wt-design), by Yoshinori Kawasaki: Sketch plugin for Wantedly Design System
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
 - [🍳Pan](https://github.com/arvinxx/pan), by arvinxx: 用平底锅才是王者
-- [🎨 Tieba Colorpool](https://github.com/YanShby/tb_colorpool_plugin), by Shen,Yan: This is read color pool name plugin only for tieba UE & RD
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 - [🕵🏻‍ Find and Replace Text](https://github.com/chriswetterman/sketch-find-and-replace-text), by Chris Wetterman: Find and replace text throughout your Sketch document
 
@@ -493,6 +488,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rename Layers Based On Textstyle](https://github.com/tbrasington/rename-layers-based-on-textstyle), by Thomas Brasington: Renames text layers in the current page based on their text style name
 - [Artboard Tricks](https://github.com/romannurik/sketch-artboardtricks), by Roman Nurik: Artboard Tricks plugin for Sketch
 - [Lokalise Plugin](https://github.com/lokalise/lokalise-sketchplugin), by Lokalise: Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.
+- [Live Preview](https://kylehalevi.com/live-preview), by Kyle Halevi: Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.
+- [Golden Ratio Grid](https://www.thegoldenratio.co.uk/plugins), by Spacestar Digital: Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.
+- [Blush](https://blush.design), by Blush Design, Inc.: Create and customize illustrations in your designs with Blush. Just choose a collection, pick a composition, and place it on the canvas.
+- [Overlay](https://overlay-tech.com?ref=sketch-plugin), by Overlay: Overlay transforms your Sketch symbols into clean and reusable code in ReactJS, Vue.js and Vanilla HTML.
 - [Atlassian Vendor Sketch Plugin](https://github.com/atlassian/sketch-plugin), by Atlassian Design: Design your next Atlassian app with our component libraries and suite of Sketch tools 💎
 - [Datazier Lens](https://github.com/enriquezgomez/datazier-lens), by Victor Enriquez: Inspect and sort your local font book
 - [Helpify](https://github.com/Luckyfoxdesign/helpify), by Lucky Fox Design: Plugin with simple actions: Generate random numbers
