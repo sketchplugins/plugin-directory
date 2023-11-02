@@ -7298,5 +7298,14 @@
     "homepage": "https://kylehalevi.com/live-preview",
     "author": "Kyle Halevi",
     "lastUpdated": "2023-01-01 19:30:00 UTC"
+  },
+  {
+    "title": "sketch-parser-plugn",
+    "description": "Sketch设计稿数据解析",
+    "name": "schema-sketch-parser",
+    "owner": "Dilomen",
+    "appcast": "https://raw.githubusercontent.com/Dilomen/schema-sketch-parser/master/.appcast.xml",
+    "homepage": "https://github.com/Dilomen/schema-sketch-parser",
+    "author": "dilomen"
   }
 ]
