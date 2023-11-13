@@ -5674,7 +5674,6 @@
     "name": "represent",
     "owner": "SwipeCircus",
     "author": "Swipe Circus",
-    "homepage": "https://getrepresent.com",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
     "lastUpdated": "2023-10-27 08:38:56 UTC"
   },
