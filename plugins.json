@@ -5281,14 +5281,6 @@
     "lastUpdated": "2023-01-03 19:23:55 UTC"
   },
   {
-    "title": "⚡️ Bolt",
-    "description": "Import screenshots faster",
-    "author": "Arcangelo Fiore",
-    "homepage": "http://boltplugin.com/",
-    "appcast": "http://boltplugin.com/appcast.xml",
-    "lastUpdated": "2019-03-09 00:00:00 UTC"
-  },
-  {
     "title": "whale-kit",
     "description": "",
     "name": "whale-kit",
@@ -5674,7 +5666,6 @@
     "name": "represent",
     "owner": "SwipeCircus",
     "author": "Swipe Circus",
-    "homepage": "https://getrepresent.com",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
     "lastUpdated": "2023-10-27 08:38:56 UTC"
   },
