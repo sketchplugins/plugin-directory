@@ -1077,7 +1077,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2023-09-27 14:46:02 UTC"
+    "lastUpdated": "2023-12-13 12:56:34 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -2599,7 +2599,7 @@
     "title": "Sketch Select",
     "owner": "canisminor1990",
     "author": "Canis Minor",
-    "lastUpdated": "2023-10-01 11:41:00 UTC"
+    "lastUpdated": "2023-12-15 20:25:29 UTC"
   },
   {
     "description": "Sketch plugin for creating a clickthrough HTMLprototype",
@@ -3206,7 +3206,7 @@
     "author": "Canis Minor",
     "owner": "canisminor1990",
     "name": "sketch-name-organizer",
-    "lastUpdated": "2023-10-01 11:13:34 UTC"
+    "lastUpdated": "2023-12-15 05:48:22 UTC"
   },
   {
     "title": "Instance Locator",
@@ -4241,7 +4241,7 @@
     "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
     "homepage": "https://github.com/wantedly/sketch-wt-design",
     "author": "Yoshinori Kawasaki",
-    "lastUpdated": "2022-06-26 07:21:34 UTC"
+    "lastUpdated": "2023-12-15 08:29:12 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4690,7 +4690,7 @@
     "appcast": "https://raw.githubusercontent.com/canisminor1990/anto/master/.appcast.xml",
     "homepage": "https://github.com/canisminor1990/anto",
     "author": "CanisMinor",
-    "lastUpdated": "2023-10-01 17:20:23 UTC"
+    "lastUpdated": "2023-12-15 05:58:49 UTC"
   },
   {
     "title": "imgcook",
@@ -5920,7 +5920,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2023-11-16 08:11:13 UTC"
+    "lastUpdated": "2023-12-15 10:35:14 UTC"
   },
   {
     "title": "Cluse",
