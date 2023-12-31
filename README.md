@@ -178,7 +178,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
-- [Select 'n' Slice](https://github.com/kevintoepfer/select-n-slice), by Kevin Töpfer: A Sketch plugin to create a slice around anything you've selected.
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
 - [Sequence Artboard Names](https://github.com/tbrasington/Sequence-Sketch-Artboards), by Thomas Brasington: Simple sequencing of all artboards within a Sketch Document
 - [Shared Styles Hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy), by Mathieu Dutour: Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.
@@ -550,4 +549,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Reselect](https://github.com/mfouquet/Reselect), by Michael Fouquet: Reselect allows you to restore a previous selection or save selections for later use (even after you close the document).
 - [6Spiral](https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin), by Matej Marjanovic: 6Spiral is a sketch plugin to draw spiral shapes (archimedean and logarithmic spirals) and it also allows you to convert the 2D spirals into 3D-like helix shapes at a specified isometric angle.
 - [ColorVariablesExporter](https://github.com/griffin-stewie/ColorVariablesExporter), by griffin-stewie: Export Color Variables for development
-- [Select 'n' Slice](https://github.com/kevintoepfer/select-n-slice), by Kevin Töpfer: A Sketch plugin to create a slice around anything you've selected.
