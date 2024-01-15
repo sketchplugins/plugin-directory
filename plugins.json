@@ -1953,14 +1953,6 @@
     "title": "SketchPlugins"
   },
   {
-    "description": "Artboard navigation (with autocomplete) for Sketch",
-    "name": "Sketch-Navigator",
-    "title": "Sketch Navigator",
-    "author": "Arshad Chummun",
-    "owner": "arshad",
-    "lastUpdated": "2018-03-12 12:39:34 UTC"
-  },
-  {
     "description": "A plugin for Sketch to equal division layers by container.",
     "name": "Sketch-Divider",
     "title": "Divider",
