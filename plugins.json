@@ -7290,5 +7290,13 @@
     "appcast": "https://raw.githubusercontent.com/Dilomen/schema-sketch-parser/master/.appcast.xml",
     "homepage": "https://github.com/Dilomen/schema-sketch-parser",
     "author": "dilomen"
+  },
+  {
+    "title" : "CreatoCode",
+    "name" : "CreatoCode",
+    "description": "将设计稿转化代码，创意无缝连接现实。",
+    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
+    "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
+    "author" : "flashgeek"
   }
 ]
