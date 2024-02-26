@@ -1237,7 +1237,7 @@
     "title": "Sketch Data Populator",
     "name": "data-populator",
     "homepage": "https://datapopulator.com",
-    "lastUpdated": "2023-02-04 02:24:30 UTC"
+    "lastUpdated": "2024-02-16 10:14:39 UTC"
   },
   {
     "description": "A simple plugin to apply preset or custom aspect ratios to a selected layer.",
@@ -1523,7 +1523,7 @@
     "title": "Find And Replace",
     "author": "Martin Steven. Maintained by Thierry Charbonnel",
     "owner": "thierryc",
-    "lastUpdated": "2023-01-07 04:06:50 UTC"
+    "lastUpdated": "2024-01-31 14:32:27 UTC"
   },
   {
     "description": "Sketch 3 plugin to replace (as in update) existing images by name in a sketch document.",
@@ -1772,7 +1772,7 @@
     "owner": "Proto-io",
     "author": "Proto.io",
     "homepage": "https://proto.io",
-    "lastUpdated": "2023-05-09 13:02:04 UTC"
+    "lastUpdated": "2024-02-13 15:53:12 UTC"
   },
   {
     "description": "A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.",
@@ -4523,7 +4523,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2022-07-03 21:48:40 UTC"
+    "lastUpdated": "2024-02-13 16:35:04 UTC"
   },
   {
     "title": "toggleLayers",
@@ -5833,7 +5833,7 @@
     "appcast": "https://raw.githubusercontent.com/afifkhaidir/symbol-finder/master/.appcast.xml",
     "homepage": "https://github.com/afifkhaidir/symbol-finder",
     "author": "afifkhaidir",
-    "lastUpdated": "2023-01-04 12:01:20 UTC"
+    "lastUpdated": "2024-02-13 16:00:36 UTC"
   },
   {
     "title": "Pixelworm",
@@ -5912,7 +5912,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2024-01-11 07:09:49 UTC"
+    "lastUpdated": "2024-02-20 19:38:05 UTC"
   },
   {
     "title": "Cluse",
@@ -6997,7 +6997,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2023-09-20 04:05:40 UTC"
+    "lastUpdated": "2024-02-12 22:34:42 UTC"
   },
   {
     "title": "hs-plugin",
