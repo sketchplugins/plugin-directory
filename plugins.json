@@ -7294,8 +7294,8 @@
   {
     "title" : "CreatoCode",
     "name" : "CreatoCode",
-    "description": "将设计稿转化代码，创意无缝连接现实。",
-    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
+    "description": "Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.",
+    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.xml",
     "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
     "author" : "flashgeek"
   }
