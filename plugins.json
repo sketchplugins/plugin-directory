@@ -5075,7 +5075,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2024-01-09 01:16:39 UTC"
+    "lastUpdated": "2024-03-02 12:35:41 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -7292,11 +7292,11 @@
     "author": "dilomen"
   },
   {
-    "title" : "CreatoCode",
-    "name" : "CreatoCode",
+    "title": "CreatoCode",
+    "name": "CreatoCode",
     "description": "将设计稿转化代码，创意无缝连接现实。",
     "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
-    "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
-    "author" : "flashgeek"
+    "homepage": "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
+    "author": "flashgeek"
   }
 ]
