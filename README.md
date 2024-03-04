@@ -394,6 +394,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Foundation](https://github.com/13protons/sketch-foundation), by Alan Languirand: Toggle layer visibility for all matching layer names on any artboard to create foundational layers like notes and guides more manageable.
 - [Light/dark Switch](https://github.com/chaos-machine/switch-theme), by Tudor Teisanu: Switch artboards' theme
 - [Rename Text Layers by Style](https://github.com/okaybueno/rename-text-layers-by-style), by Alexander Gerund: Rename all text layers based on the name of the text style assigned.
+- [Rename](https://github.com/dchahla/autorename), by Daniel E. Chahla: Auto-rename your groups ( ⌘ + g ) to the value of the first text element in the group by default.
 - [copycat](https://github.com/azhsetiawan/sketch-copycat), by Ashar Setiawan: sketch plugin
 - [Mupixa](https://github.com/mupixa/sketch-plugin-mupixa), by www.mupixa.com: Mupixa allows you to leverage the full potential of your prototypes by conducting usability research fast and effortlessly.
 - [SVG Bem](https://github.com/mLihs/svg-bem), by mLihs: A Plugin for SVG export to convert IDs to Classes, create BEM Styled Naming Based on Layers. Uses SVGO to compresse and Clean up SVGs, right when you export them. Based on the SVGO Compressor Plugin
