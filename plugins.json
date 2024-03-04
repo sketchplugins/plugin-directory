@@ -1,5 +1,14 @@
 [
   {
+    "title": "Auto Group Name (lightweight offline auto-name groups)",
+    "description": "Auto-rename your groups ( ⌘ + g ) to the value of the first text element in the group by default.",
+    "author": "Daniel Elia Chahla",
+    "homepage": "https://chahla.net/",
+    "appcast": "https://raw.githubusercontent.com/dchahla/autorename/main/.appcast.xml",
+    "name": "AutoRename",
+    "lastUpdated": "2024-03-03 02:31:42 UTC"
+  },
+  {
     "title": "iOS2Sketch",
     "description": "Import App Screens to Sketch",
     "author": "DesignCodeApp",
