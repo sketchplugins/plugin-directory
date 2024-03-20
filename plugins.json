@@ -1223,7 +1223,7 @@
     "lastUpdated": "2018-05-09 16:22:52 UTC"
   },
   {
-    "description": "A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.",
+    "description": "A simple plugin to toggle visibility of 'boundingBox' layers in a Sketch document.",
     "owner": "preciousforever",
     "author": "precious design studio",
     "title": "Sketch Bounding Boxer",
@@ -1758,7 +1758,7 @@
     "lastUpdated": "2023-05-30 09:32:02 UTC"
   },
   {
-    "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
+    "description": "Sketch plugin that let's you move selected layers vertically and horizontally.",
     "name": "move-it",
     "title": "Move It",
     "author": "Dawid Woźniak",

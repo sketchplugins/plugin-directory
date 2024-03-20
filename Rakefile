@@ -208,7 +208,7 @@ task :interactive do
         STDOUT.puts "README.md updated."
 
         STDOUT.puts "To commit your plugin to the plugin directory, open a pull request for https://github.com/sketchplugins/plugin-directory/."
-    rescue SystemExit, Interrupt # Allow for interupt to leave script
+    rescue SystemExit, Interrupt # Allow for interrupt to leave script
         exit
     end
 end
@@ -246,7 +246,7 @@ def prompt_gh_plugin()
         # Prompt for plugin
         return prompt_inputs(defaults, true)
     else
-        STDOUT.puts "ERROR: '#{input}' is not a valid GitHub repoistory."
+        STDOUT.puts "ERROR: '#{input}' is not a valid GitHub repository."
         prompt_gh_url()
     end
 end
@@ -343,7 +343,7 @@ def get_gh_defaults(owner, name)
         defaults["branch"] = repo.default_branch
 
         return defaults
-    rescue SystemExit, Interrupt # Allow for interupt to leave script
+    rescue SystemExit, Interrupt # Allow for interrupt to leave script
         exit
     rescue # Error contacting GitHub API
         STDOUT.puts "ERROR: The repository '#{repo_name}' does not exist or is not publically accessible on GitHub."
@@ -446,7 +446,7 @@ def get_manifest_content(owner, name, branch)
 
         return nil
 
-    rescue SystemExit, Interrupt # Allow for interupt to leave script
+    rescue SystemExit, Interrupt # Allow for interrupt to leave script
         exit
     rescue # Error contacting GitHub API
         puts e
