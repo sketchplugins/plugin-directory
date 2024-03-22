@@ -7298,5 +7298,15 @@
     "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
     "homepage": "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
     "author": "flashgeek"
+  },
+  {
+    "title": "CodeWave",
+    "description": "导出 Sketch 设计稿中的任意部分到 CodeWave",
+    "name": "CodeWave",
+    "owner": "liuyiqi",
+    "appcast": "https://cdn.jsdelivr.net/gh/netease-lcap/sketch-plugin/appcast.json",
+    "homepage": "https://github.com/netease-lcap/sketch-plugin",
+    "author": "liuyiqi",
+    "lastUpdated": "2024-03-22 02:31:13 UTC"
   }
 ]
