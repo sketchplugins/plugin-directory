@@ -218,7 +218,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Foundation](https://github.com/13protons/sketch-foundation), by Alan Languirand: Toggle layer visibility for all matching layer names on any artboard to create foundational layers like notes and guides more manageable.
 - [Sketch Ignore](https://github.com/theboi/sketch-ignore), by Ryan The: s
 - [Sketch json](https://github.com/arvinxx/sketch-json), by arvinxx: a plugin to transfer sketch JSON into sketch Object
-- [Sketch Multi Lingual Plugin](https://github.com/GoetteSebastian/sketch-multi-lingual-plugin), by Sebastian Götte: A plugin that allowes the user to switch between languages to visualize how the webpage or app will look in the given language. The text fragments can be loaded as csv file.
 - [Sketch Parser Plugn](https://github.com/Dilomen/schema-sketch-parser), by dilomen: Sketch设计稿数据解析
 - [Sketch Share](https://github.com/robflaherty/sketch-share), by Rob Flaherty: Sketch plugin that exports artboards and generates an HTML file linking to each one
 - [Sketch Table Builder](https://github.com/EricKramp/sketch-table-builder), by Eric Kramp: Quickly and easily use a single symbol and a CSV to create a data table.
@@ -270,8 +269,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
+- [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
@@ -529,4 +528,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Nederlandse Namen](https://github.com/sasjakoning/sketch-nederlandse-namen), by Sasja Koning: Sketch plugin for Dutch names
 - [Linked Data Exporter](https://github.com/icona79/sketch-linked-data-exporter), by Matteo Gratton: Export selection as Linked Data-ready JSON file and images
 - [Easy Buttons](https://github.com/icona79/easy-buttons-sketch-plugin), by Matteo Gratton: Easily create button archetypes
-- [Sketch Multi Lingual Plugin](https://github.com/GoetteSebastian/sketch-multi-lingual-plugin), by Sebastian Götte: A plugin that allowes the user to switch between languages to visualize how the webpage or app will look in the given language. The text fragments can be loaded as csv file.
