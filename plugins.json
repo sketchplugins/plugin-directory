@@ -5088,15 +5088,6 @@
     "lastUpdated": "2019-05-02 13:10:53 UTC"
   },
   {
-    "title": "add-colors-to-palette",
-    "name": "sketch-add-colors-to-palette",
-    "description": "Quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette.",
-    "owner": "johnmcclumpha",
-    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-add-colors-to-palette/master/.appcast.xml",
-    "homepage": "https://github.com/johnmcclumpha/sketch-add-colors-to-palette",
-    "lastUpdated": "2023-01-04 21:40:15 UTC"
-  },
-  {
     "title": "Flat Export",
     "description": "Use this plugin to batch export layers to a single folder.",
     "name": "sketch-flat-export",
@@ -5660,15 +5651,6 @@
     "author": "Swipe Circus",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
     "lastUpdated": "2023-10-27 08:38:56 UTC"
-  },
-  {
-    "title": "Sketch Retain Text Color",
-    "description": "Retain the original color of text layers when applying a Text Style.",
-    "name": "sketch-retain-text-color",
-    "owner": "johnmcclumpha",
-    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
-    "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color",
-    "lastUpdated": "2023-01-04 10:51:00 UTC"
   },
   {
     "title": "img-pal-gen",
