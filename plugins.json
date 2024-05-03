@@ -6754,16 +6754,6 @@
     "lastUpdated": "2020-11-05 14:10:33 UTC"
   },
   {
-    "title": "Gifmock",
-    "description": "Gifmock helps you create high-quality GIFs from static images and mockups.",
-    "author": "Gifmock",
-    "homepage": "https://gifmock.com",
-    "appcast": "https://gifmock.com/appcast.xml",
-    "owner": "Steven Fabre",
-    "name": "gifmock-sketch",
-    "lastUpdated": "2020-11-25 15:51:43 UTC"
-  },
-  {
     "title": "picasso",
     "description": "Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码",
     "name": "Picasso",
