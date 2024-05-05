@@ -120,6 +120,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Live Preview](https://kylehalevi.com/live-preview), by Kyle Halevi: Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.
 - [Logo Fetcher](https://github.com/soulchild/sketch-logo-fetcher), by Tobi Kremer: Place logos from either the Logos API (SVG format) or Clearbit API (PNG format)
 - [Lokalise Plugin](https://github.com/lokalise/lokalise-sketchplugin), by Lokalise: Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.
+- [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
 - [MarginSymbols](https://github.com/griffin-stewie/MarginSymbols), by griffin-stewie:
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
@@ -136,6 +137,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Overflow](https://overflow.io), by proto.io: Overflow is the world’s first user flow diagramming tool tailored for designers. It empowers designers to design, present and share beautiful user flow diagrams that tell a story.
 - [Overlay](https://overlay-tech.com?ref=sketch-plugin), by Overlay: Overlay transforms your Sketch symbols into clean and reusable code in ReactJS, Vue.js and Vanilla HTML.
 - [Paddy](https://github.com/dwilliames/paddy-sketch-plugin), by David Williames: Automated padding, spacing and alignment for your Sketch layers
+- [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Paste Paddings](https://github.com/simonlidesign/pastePaddings), by simonlidesign: Allows you to copy the paddings of one element and apply them to another
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
 - [Perfect Type](https://github.com/rtrikha/perfect-type-plugin), by Raunak Trikha:
@@ -165,9 +167,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rough](https://github.com/mathieudutour/rough-sketch), by mathieudutour: Transform your shapes in a sketchy, scribbly, hand-drawn-like, style.
 - [Scale All in Place](https://github.com/delighted/sketch-scale-all-in-place), by Delighted Inc.: Scale all in place: Resize all selected shapes or layers, in place, from center.
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
-- [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
 - [Sequence Artboard Names](https://github.com/tbrasington/Sequence-Sketch-Artboards), by Thomas Brasington: Simple sequencing of all artboards within a Sketch Document
 - [Shared Styles Hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy), by Mathieu Dutour: Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.
+- [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch a Sketch](https://github.com/mathieudutour/sketch-a-sketch), by Mathieu Dutour: Bringing the iconic knobs from the famous toy to Sketch.
 - [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
 - [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
@@ -185,6 +187,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Iconscope](https://github.com/ziven27/sketch-iconscope), by ziven27: Wrap the Icon with a square(4n) scope.
 - [Sketch Invert Fills](https://github.com/icona79/sketch-invert-fills), by Matteo Gratton: Invert fills beween 2 selected layers
 - [Sketch Ipsum](https://github.com/sketch-hq/sketch-ipsum), by Sketch: A DataSupplier plugin that fills your text layers with random Lorem Ipsum
+- [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
 - [Sketch Layer Comps](https://github.com/ozgurgunes/sketch-layer-comps), by Özgür Güneş: A plugin which saves and applies layer states to create different compositions of current page.
 - [Sketch Library Unlinker](https://github.com/perrysmotors/sketch-library-unlinker), by Giles Perry: Unlink symbols linked to a specific library, or unlink symbols that have been deleted in their libraries.
 - [Sketch Lineout](https://github.com/icona79/sketch-lineout), by Matteo Gratton: Lineout your artboards for handoff preview
@@ -195,6 +198,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Sketch Name Organizer](https://github.com/canisminor1990/sketch-name-organizer), by Canis Minor: 🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
+- [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
 - [Sketch Plugin Snap to 8pt Grid](https://github.com/mheesakkers/sketch-plugin-snap-to-8pt-grid), by Misha: A Sketch plugin which helps with snapping layer properties to the 8 point grid.
 - [Sketch QR Code](https://github.com/lerte/sketch-qr-code), by Lerte Smith: A Plugin for generate SVG QR Code in Sketch app.
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
@@ -226,6 +230,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [States](https://github.com/edenvidal/states), by Eden Vidal: Create different artboard states and switch between them easily
 - [Stickers](https://github.com/romannurik/Sketch-Stickers), by Roman Nurik: A Sketch plugin that lets you browse and quickly drag+drop stickers (specially tagged layers) in your Sketch Libraries.
 - [stuffing](https://github.com/Ashung/Sketch-Stuffing), by Ashung: A DataSupplier plugin which supplies chinese data.
+- [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
 - [SVG Bem](https://github.com/mLihs/svg-bem), by mLihs: A Plugin for SVG export to convert IDs to Classes, create BEM Styled Naming Based on Layers. Uses SVGO to compresse and Clean up SVGs, right when you export them. Based on the SVGO Compressor Plugin
 - [SVGO Compressor](https://sketch.com/extensions/plugins/svgo-compressor/), by Sketch BV: A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
 - [Symbol and Artboard Organizer](https://github.com/myrronth/symbol-and-artboard-organizer), by Myrronth: Organize your symbols and artboards.
@@ -264,13 +269,19 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
+- [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
+- [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
+- [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
+- [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
+- [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
+- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
-- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Sketch Data Populator](https://datapopulator.com), by precious design studio: A Sketch App plugin to populate your documents with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
@@ -517,4 +528,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Tiled for Sketch](https://tiled.co/tiled-for-sketch-plugin), by Tiled Inc.: Sync screens, hotspots, and feedback directly from Sketch to Tiled to create interactive microapps without code.
 - [Images Assets Manager](https://github.com/icona79/sketch-images-assets-manager), by Matteo Gratton: Prepare all your image asstes in an artboard, ready to be exported
 - [Iconify](https://github.com/iconify/iconify-sketch), by Vjacheslav Trushkin: Iconify integration. Import MDI, FontAwesome, Jam, EmojiOne and many other icons to Sketch document.
-- [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers), by Wessley Roche: A plugin that selects layers with similar attributes to those of the layer currently selected.
