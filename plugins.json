@@ -7280,5 +7280,14 @@
     "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
     "homepage": "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
     "author": "flashgeek"
+  },
+  {
+    "title": "Codia AI Design: Screenshot to Editable Sketch Design",
+    "description": "Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.",
+    "name": "Codia AI Design: Screenshot to Editable Sketch Design",
+    "owner": "Codia.AI",
+    "appcast": "https://codia-f2c.s3.us-west-1.amazonaws.com/sketch/.appcast.xml",
+    "homepage": "https://codia.ai/",
+    "author": "Codia.AI"
   }
 ]
