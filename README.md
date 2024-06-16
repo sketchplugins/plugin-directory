@@ -83,7 +83,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Genus](https://github.com/keplerlab/genus), by Kepler Lab: A sketch plugin for exporting prototype website (static html css) from your sketch designs
 - [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin), by Mathieu Dutour: A Git client generating pretty diffs built right into Sketch.
 - [Golden Ratio Grid](https://www.thegoldenratio.co.uk/plugins), by Spacestar Digital: Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.
-- [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
 - [GuideGuide](https://guideguide.me), by Cameron McEfee: Powerful grids and guides in your favorite design tools
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [H5Converter](https://github.com/h5mag/sketch-h5converter), by H5mag team:
@@ -262,6 +261,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [lippy](https://github.com/abynim/lippy), by Aby Nimbalkar: An interactive lorem ipsum generator plugin for Sketch
@@ -272,7 +272,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
-- [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
@@ -513,4 +512,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
 - [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
 - [icon2React](https://github.com/jjj201200/icon2React), by DrowsyFlesh: a sketch plugin to converting icons to React Components
-- [Gretel](https://github.com/StyleShare/Gretel), by Suyeol Jeon: A Sketch plugin that flattens files after exporting.
