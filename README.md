@@ -13,7 +13,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
 - [areanow](https://github.com/norman-woz/areanow), by norman-woz: Get the total area of selected rectangle layers.
-- [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
 - [Artboard History](https://github.com/jan-patrick/sketch_artboard-history), by Jan Schneider: A Sketch plugin to switch faster between your latest artboards.
 - [Artboard Manager](https://github.com/bomberstudios/artboard-manager#readme), by Ale Muñoz: Because moving artboards manually is *so* 2016.
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
@@ -87,7 +86,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [H5Converter](https://github.com/h5mag/sketch-h5converter), by H5mag team:
 - [Helpify](https://github.com/Luckyfoxdesign/helpify), by Lucky Fox Design: Plugin with simple actions: Generate random numbers
-- [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine: A Sketch plugin for counting the number of artboards in your file or on your page
 - [Iban Generator](https://github.com/idriesalbender/iban-sketch-plugin), by idix: Generate random International Bank Account Numbers (IBAN)
 - [IcanIcon](https://github.com/Sugarcode-Team/icanicon-live-sketch-plugin), by Sugarcode: icanicon.io allows you to keep your icon libraries in sync with your Design System.
 - [Icondrop](https://github.com/iconscout/icondrop), by Iconscout: Get access to 300,000+ icons right into Sketch App
@@ -167,7 +165,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Shared Styles Hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy), by Mathieu Dutour: Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch a Sketch](https://github.com/mathieudutour/sketch-a-sketch), by Mathieu Dutour: Bringing the iconic knobs from the famous toy to Sketch.
-- [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
 - [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 - [Sketch Chat](https://github.com/mathieudutour/sketch-chat), by Mathieu Dutour: A Sketch plugin to chat in Sketch Cloud files
 - [Sketch Color Manager](https://github.com/hecflores/sketch-color-manager), by hecflores: Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties
@@ -507,6 +504,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Paddy](https://github.com/dwilliames/paddy-sketch-plugin), by David Williames: Automated padding, spacing and alignment for your Sketch layers
 - [Tidy](https://github.com/gbrunow/tidy), by Gui Brunow Gomes: Keep your sketch files Tidy.
 - [Emoji Autocomplete Sketch Plugin](https://github.com/zeplin/emoji-autocomplete-sketch-plugin), by Zeplin: While editing Sketch text layers, type “:” followed by the first few letters to autocomplete emojis. 🍒
-- [How Many Artboards?](https://github.com/eaugustine/how-many-artboards), by Erica Augustine: A Sketch plugin for counting the number of artboards in your file or on your page
-- [Sketch Action](https://github.com/onmyway133/sketch-action), by Khoa Pham: Spotlight in Sketch
-- [Arrange Artboards Hierarchically](https://github.com/oodesign/arrange-artboards-hierarchically), by oodesign: Sketch.app plugin to arrange artboards hierarchically depending on their name (based on the Sketch Slash naming pattern).
