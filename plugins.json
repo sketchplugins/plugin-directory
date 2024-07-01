@@ -7235,16 +7235,6 @@
     "lastUpdated": "2023-03-06 10:47:11 UTC"
   },
   {
-    "title": "Golden Ratio Grid",
-    "description": "Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.",
-    "name": "sketch-grid",
-    "owner": "SteveEdson",
-    "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
-    "homepage": "https://www.thegoldenratio.co.uk/plugins",
-    "author": "Spacestar Digital",
-    "lastUpdated": "2023-01-01 19:30:00 UTC"
-  },
-  {
     "title": "Live Preview",
     "description": "Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.",
     "name": "LivePreview",
