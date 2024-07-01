@@ -50,7 +50,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Copy Paste Position & Size](https://github.com/ajilderda/sketch-copy-paste-position-size), by Andre Jilderda: A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects
 - [Copy Updater](https://github.com/lizhengDesign/Sketch-CopyUpdater), by Li Zheng: A Sketch plugin that updates copy based on selected JSON
 - [copycat](https://github.com/azhsetiawan/sketch-copycat), by Ashar Setiawan: sketch plugin
-- [CreatoCode](https://github.com/CreatoCode/CreatoCodeSketchPlugin), by flashgeek: 将设计稿转化代码，创意无缝连接现实。
+- [CreatoCode](https://github.com/CreatoCode/CreatoCodeSketchPlugin), by flashgeek: Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [css to Shadow Style](https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin), by Oliver Pitsch: CSS box-shadow to Layer Style Converter
 - [Csv Mail Merge](https://github.com/jdwolk/sketch-csv-mailmerge), by JD Wolk: A lightweight Sketch plugin for importing data from .csv files using "{}" text sections.
