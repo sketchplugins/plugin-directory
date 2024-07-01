@@ -6754,16 +6754,6 @@
     "lastUpdated": "2020-11-05 14:10:33 UTC"
   },
   {
-    "title": "Gifmock",
-    "description": "Gifmock helps you create high-quality GIFs from static images and mockups.",
-    "author": "Gifmock",
-    "homepage": "https://gifmock.com",
-    "appcast": "https://gifmock.com/appcast.xml",
-    "owner": "Steven Fabre",
-    "name": "gifmock-sketch",
-    "lastUpdated": "2020-11-25 15:51:43 UTC"
-  },
-  {
     "title": "picasso",
     "description": "Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码",
     "name": "Picasso",
@@ -7243,16 +7233,6 @@
     "appcast": "https://raw.githubusercontent.com/Design-Dude/ddSpiral/master/.appcast.xml",
     "name": "ddSpiral",
     "lastUpdated": "2023-03-06 10:47:11 UTC"
-  },
-  {
-    "title": "Golden Ratio Grid",
-    "description": "Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.",
-    "name": "sketch-grid",
-    "owner": "SteveEdson",
-    "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
-    "homepage": "https://www.thegoldenratio.co.uk/plugins",
-    "author": "Spacestar Digital",
-    "lastUpdated": "2023-01-01 19:30:00 UTC"
   },
   {
     "title": "Live Preview",
