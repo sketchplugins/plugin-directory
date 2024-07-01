@@ -7269,5 +7269,15 @@
     "appcast": "https://raw.githubusercontent.com/dchahla/autorename/master/.appcast.xml",
     "homepage": "https://github.com/dchahla/autorename",
     "author": "dchahla"
+  },
+  {
+    "title": "CodeWave",
+    "description": "导出 Sketch 设计稿中的任意部分到 CodeWave",
+    "name": "CodeWave",
+    "owner": "liuyiqi",
+    "appcast": "https://cdn.jsdelivr.net/gh/netease-lcap/sketch-plugin/appcast.json",
+    "homepage": "https://github.com/netease-lcap/sketch-plugin",
+    "author": "liuyiqi",
+    "lastUpdated": "2024-03-22 02:31:13 UTC"
   }
 ]
