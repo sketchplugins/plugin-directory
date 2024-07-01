@@ -342,7 +342,7 @@
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "homepage": "https://github.com/sureskumar/sketch-isometric",
-    "lastUpdated": "2019-07-16 22:25:21 UTC"
+    "lastUpdated": "2024-05-03 14:27:55 UTC"
   },
   {
     "description": "Access Shutterstock's stunning images without leaving your workspace.",
@@ -426,7 +426,7 @@
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "homepage": "http://sureskumar.com/sketchplay/",
-    "lastUpdated": "2017-09-18 05:07:28 UTC"
+    "lastUpdated": "2024-05-03 14:41:47 UTC"
   },
   {
     "description": "Dynamic color relations in Sketch.",
@@ -463,7 +463,7 @@
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "homepage": "https://github.com/sureskumar/single-border",
-    "lastUpdated": "2019-02-08 18:45:33 UTC"
+    "lastUpdated": "2024-05-03 14:32:09 UTC"
   },
   {
     "description": "A plugin to create HTML based preview and gallery straight from sketch artboards",
@@ -497,7 +497,7 @@
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "homepage": "https://github.com/sureskumar/palette-stripes",
-    "lastUpdated": "2018-08-03 22:20:32 UTC"
+    "lastUpdated": "2024-05-03 14:33:37 UTC"
   },
   {
     "description": "Generate complex organic super-shapes using super formula.",
@@ -506,7 +506,7 @@
     "owner": "sureskumar",
     "author": "Sures Kumar",
     "homepage": "https://github.com/sureskumar/super-shapes",
-    "lastUpdated": "2018-10-03 21:54:45 UTC"
+    "lastUpdated": "2024-05-03 14:34:31 UTC"
   },
   {
     "description": "Automatically resize spacing symbols to correct size when changing to different one",
@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2023-10-12 17:57:16 UTC",
+    "lastUpdated": "2024-04-01 19:11:22 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -610,7 +610,7 @@
     "title": "Looper",
     "author": "Sures Kumar",
     "owner": "sureskumar",
-    "lastUpdated": "2019-04-04 06:29:24 UTC"
+    "lastUpdated": "2024-05-03 14:47:00 UTC"
   },
   {
     "description": "Find or rename multiple layers at once using RegEx and flags in Sketch (v.45 tested)",
@@ -1223,7 +1223,7 @@
     "lastUpdated": "2018-05-09 16:22:52 UTC"
   },
   {
-    "description": "A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.",
+    "description": "A simple plugin to toggle visibility of 'boundingBox' layers in a Sketch document.",
     "owner": "preciousforever",
     "author": "precious design studio",
     "title": "Sketch Bounding Boxer",
@@ -1732,7 +1732,7 @@
     "title": "Place Linked Bitmap",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2021-09-29 15:30:04 UTC"
+    "lastUpdated": "2024-05-17 14:11:53 UTC"
   },
   {
     "description": "Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.",
@@ -1758,7 +1758,7 @@
     "lastUpdated": "2023-05-30 09:32:02 UTC"
   },
   {
-    "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
+    "description": "Sketch plugin that let's you move selected layers vertically and horizontally.",
     "name": "move-it",
     "title": "Move It",
     "author": "Dawid Woźniak",
@@ -2527,7 +2527,7 @@
     "title": "Sketch Guides",
     "owner": "luvmex",
     "author": "Celyn Xie",
-    "lastUpdated": "2023-11-20 09:06:35 UTC"
+    "lastUpdated": "2024-03-28 10:58:19 UTC"
   },
   {
     "description": "Exports a simple website using a bunch of conventions and a Sketch document as the structure.",
@@ -2809,7 +2809,7 @@
     "title": "📕 PDF Export",
     "owner": "DWilliames",
     "author": "David Williames",
-    "lastUpdated": "2023-10-09 13:58:35 UTC"
+    "lastUpdated": "2024-04-04 10:05:37 UTC"
   },
   {
     "description": "Resize a layer horizontally and vertically from the centre with easy keyboard shortcuts",
@@ -3053,7 +3053,7 @@
     "author": "Canis Minor",
     "owner": "canisminor1990",
     "name": "sketch-move-half-pixel",
-    "lastUpdated": "2018-05-26 16:24:50 UTC"
+    "lastUpdated": "2024-04-03 14:55:06 UTC"
   },
   {
     "title": "Appalette",
@@ -3102,7 +3102,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2023-08-31 19:17:16 UTC"
+    "lastUpdated": "2024-06-21 14:23:37 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -4523,7 +4523,7 @@
     "appcast": "https://raw.githubusercontent.com/realvjy/uiLogos-sketch-plugin/master/appcast.xml",
     "homepage": "https://github.com/realvjy/uiLogos-sketch-plugin",
     "author": "vijay verma",
-    "lastUpdated": "2024-02-13 16:35:04 UTC"
+    "lastUpdated": "2024-04-12 05:05:10 UTC"
   },
   {
     "title": "toggleLayers",
@@ -5075,7 +5075,7 @@
     "appcast": "https://raw.githubusercontent.com/google/sketch2ae/master/.appcast.xml",
     "homepage": "https://github.com/google/sketch2ae",
     "author": "Battle Axe",
-    "lastUpdated": "2024-03-14 20:57:22 UTC"
+    "lastUpdated": "2024-04-18 17:41:39 UTC"
   },
   {
     "title": "lazy-styles-generator",
@@ -5086,15 +5086,6 @@
     "homepage": "https://github.com/lazybearcreations/sketch-lazy-styles-generator#readme",
     "author": "Adam Bruzon",
     "lastUpdated": "2019-05-02 13:10:53 UTC"
-  },
-  {
-    "title": "add-colors-to-palette",
-    "name": "sketch-add-colors-to-palette",
-    "description": "Quickly and easily add colors from the fills of selected layers in a Sketch file to the document palette.",
-    "owner": "johnmcclumpha",
-    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-add-colors-to-palette/master/.appcast.xml",
-    "homepage": "https://github.com/johnmcclumpha/sketch-add-colors-to-palette",
-    "lastUpdated": "2023-01-04 21:40:15 UTC"
   },
   {
     "title": "Flat Export",
@@ -5662,15 +5653,6 @@
     "lastUpdated": "2023-10-27 08:38:56 UTC"
   },
   {
-    "title": "Sketch Retain Text Color",
-    "description": "Retain the original color of text layers when applying a Text Style.",
-    "name": "sketch-retain-text-color",
-    "owner": "johnmcclumpha",
-    "appcast": "https://raw.githubusercontent.com/johnmcclumpha/sketch-retain-text-color/master/.appcast.xml",
-    "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color",
-    "lastUpdated": "2023-01-04 10:51:00 UTC"
-  },
-  {
     "title": "img-pal-gen",
     "description": "Generates Color Palette from Image Layer",
     "name": "Image2Palette",
@@ -5766,7 +5748,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2023-08-01 13:29:37 UTC"
+    "lastUpdated": "2024-05-23 10:46:24 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -5912,7 +5894,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2024-03-16 22:59:29 UTC"
+    "lastUpdated": "2024-03-18 07:52:29 UTC"
   },
   {
     "title": "Cluse",
@@ -6310,7 +6292,7 @@
     "author": "Aby Nimbalkar",
     "owner": "abynim",
     "name": "lippy",
-    "lastUpdated": "2021-03-10 02:31:56 UTC"
+    "lastUpdated": "2024-05-08 17:57:55 UTC"
   },
   {
     "title": "Sketch Plugin Snap to 8pt Grid",
@@ -6355,7 +6337,7 @@
     "appcast": "https://raw.githubusercontent.com/Brandfetch/Brandfetch-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://github.com/Brandfetch/Brandfetch-Sketch-Plugin",
     "author": "Brandfetch",
-    "lastUpdated": "2020-10-28 10:52:11 UTC"
+    "lastUpdated": "2024-05-08 06:47:26 UTC"
   },
   {
     "title": "Sketch MeaXure",
@@ -6772,16 +6754,6 @@
     "lastUpdated": "2020-11-05 14:10:33 UTC"
   },
   {
-    "title": "Gifmock",
-    "description": "Gifmock helps you create high-quality GIFs from static images and mockups.",
-    "author": "Gifmock",
-    "homepage": "https://gifmock.com",
-    "appcast": "https://gifmock.com/appcast.xml",
-    "owner": "Steven Fabre",
-    "name": "gifmock-sketch",
-    "lastUpdated": "2020-11-25 15:51:43 UTC"
-  },
-  {
     "title": "picasso",
     "description": "Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码",
     "name": "Picasso",
@@ -6997,7 +6969,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2024-02-12 22:34:42 UTC"
+    "lastUpdated": "2024-06-09 06:30:18 UTC"
   },
   {
     "title": "hs-plugin",
@@ -7263,16 +7235,6 @@
     "lastUpdated": "2023-03-06 10:47:11 UTC"
   },
   {
-    "title": "Golden Ratio Grid",
-    "description": "Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.",
-    "name": "sketch-grid",
-    "owner": "SteveEdson",
-    "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
-    "homepage": "https://www.thegoldenratio.co.uk/plugins",
-    "author": "Spacestar Digital",
-    "lastUpdated": "2023-01-01 19:30:00 UTC"
-  },
-  {
     "title": "Live Preview",
     "description": "Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.",
     "name": "LivePreview",
@@ -7292,12 +7254,21 @@
     "author": "dilomen"
   },
   {
-    "title": "CreatoCode",
-    "name": "CreatoCode",
-    "description": "将设计稿转化代码，创意无缝连接现实。",
-    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
-    "homepage": "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
-    "author": "flashgeek"
+    "title" : "CreatoCode",
+    "name" : "CreatoCode",
+    "description": "Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.",
+    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.xml",
+    "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
+    "author" : "flashgeek"
+  },
+  {
+    "title": "autorename",
+    "description": "Lightweight, low-fi Auto Name Group ( ⌘ + g ) Sketch Plugin",
+    "name": "autorename",
+    "owner": "dchahla",
+    "appcast": "https://raw.githubusercontent.com/dchahla/autorename/master/.appcast.xml",
+    "homepage": "https://github.com/dchahla/autorename",
+    "author": "dchahla"
   },
   {
     "title": "CodeWave",
