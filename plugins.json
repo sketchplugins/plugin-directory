@@ -1,5 +1,13 @@
 [
   {
+    "title": "easy-code",
+    "description": "easy code",
+    "author": "luchaoqun125",
+    "appcast": "https://raw.githubusercontent.com/luchaoqun125/sketch-version/master/.appcast.xml",
+    "name": "easy-code",
+    "lastUpdated": "2024-05-07 18:44:00 UTC"
+  },
+  {
     "title": "iOS2Sketch",
     "description": "Import App Screens to Sketch",
     "author": "DesignCodeApp",
@@ -1223,7 +1231,7 @@
     "lastUpdated": "2018-05-09 16:22:52 UTC"
   },
   {
-    "description": "A simple plugin to to toggle visibility of 'boundingBox' layers in a Sketch document.",
+    "description": "A simple plugin to toggle visibility of 'boundingBox' layers in a Sketch document.",
     "owner": "preciousforever",
     "author": "precious design studio",
     "title": "Sketch Bounding Boxer",
@@ -1732,7 +1740,7 @@
     "title": "Place Linked Bitmap",
     "author": "Frank Kolodziej",
     "owner": "frankko",
-    "lastUpdated": "2024-05-09 18:36:57 UTC"
+    "lastUpdated": "2024-05-17 14:11:53 UTC"
   },
   {
     "description": "Plugin for Bohemian Coding Sketch app that automatically resizes artwork for Apple Watch icon.",
@@ -1758,7 +1766,7 @@
     "lastUpdated": "2023-05-30 09:32:02 UTC"
   },
   {
-    "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
+    "description": "Sketch plugin that let's you move selected layers vertically and horizontally.",
     "name": "move-it",
     "title": "Move It",
     "author": "Dawid Woźniak",
@@ -3102,7 +3110,7 @@
     "owner": "miroapp",
     "author": "Miro",
     "homepage": "https://github.com/miroapp/sketch_plugin",
-    "lastUpdated": "2024-04-23 15:08:54 UTC"
+    "lastUpdated": "2024-06-21 14:23:37 UTC"
   },
   {
     "title": "ImageOptim Sketch Plugin",
@@ -5748,7 +5756,7 @@
     "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
     "homepage": "https://github.com/inVoltag/awesome-ipsums",
     "author": "Aurélien Grimaud",
-    "lastUpdated": "2023-08-01 13:29:37 UTC"
+    "lastUpdated": "2024-05-23 10:46:24 UTC"
   },
   {
     "title": "Sketch Pexels",
@@ -6754,16 +6762,6 @@
     "lastUpdated": "2020-11-05 14:10:33 UTC"
   },
   {
-    "title": "Gifmock",
-    "description": "Gifmock helps you create high-quality GIFs from static images and mockups.",
-    "author": "Gifmock",
-    "homepage": "https://gifmock.com",
-    "appcast": "https://gifmock.com/appcast.xml",
-    "owner": "Steven Fabre",
-    "name": "gifmock-sketch",
-    "lastUpdated": "2020-11-25 15:51:43 UTC"
-  },
-  {
     "title": "picasso",
     "description": "Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码",
     "name": "Picasso",
@@ -6979,7 +6977,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2024-05-02 17:16:56 UTC"
+    "lastUpdated": "2024-06-09 06:30:18 UTC"
   },
   {
     "title": "hs-plugin",
@@ -7245,16 +7243,6 @@
     "lastUpdated": "2023-03-06 10:47:11 UTC"
   },
   {
-    "title": "Golden Ratio Grid",
-    "description": "Align your designs with evolutionary precision using a flexible golden ratio grid built to fit any screen size, any graphical need, any canvas. From graphic design to digital design.",
-    "name": "sketch-grid",
-    "owner": "SteveEdson",
-    "appcast": "https://thegoldenratio.pages.dev/.appcast.xml",
-    "homepage": "https://www.thegoldenratio.co.uk/plugins",
-    "author": "Spacestar Digital",
-    "lastUpdated": "2023-01-01 19:30:00 UTC"
-  },
-  {
     "title": "Live Preview",
     "description": "Wirelessly mirror Sketch artboards on iPhone and iPad, with pixel–perfect rendering.",
     "name": "LivePreview",
@@ -7274,12 +7262,31 @@
     "author": "dilomen"
   },
   {
-    "title": "CreatoCode",
-    "name": "CreatoCode",
-    "description": "将设计稿转化代码，创意无缝连接现实。",
-    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.json",
-    "homepage": "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
-    "author": "flashgeek"
+    "title" : "CreatoCode",
+    "name" : "CreatoCode",
+    "description": "Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.",
+    "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.xml",
+    "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
+    "author" : "flashgeek"
+  },
+  {
+    "title": "autorename",
+    "description": "Lightweight, low-fi Auto Name Group ( ⌘ + g ) Sketch Plugin",
+    "name": "autorename",
+    "owner": "dchahla",
+    "appcast": "https://raw.githubusercontent.com/dchahla/autorename/master/.appcast.xml",
+    "homepage": "https://github.com/dchahla/autorename",
+    "author": "dchahla"
+  },
+  {
+    "title": "CodeWave",
+    "description": "导出 Sketch 设计稿中的任意部分到 CodeWave",
+    "name": "CodeWave",
+    "owner": "liuyiqi",
+    "appcast": "https://cdn.jsdelivr.net/gh/netease-lcap/sketch-plugin/appcast.json",
+    "homepage": "https://github.com/netease-lcap/sketch-plugin",
+    "author": "liuyiqi",
+    "lastUpdated": "2024-03-22 02:31:13 UTC"
   },
   {
     "title": "Codia AI Design: Screenshot to Editable Sketch Design",
