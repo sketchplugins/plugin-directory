@@ -7260,5 +7260,14 @@
     "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.xml",
     "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
     "author" : "flashgeek"
+  },
+  {
+    "title": "autorename",
+    "description": "Lightweight, low-fi Auto Name Group ( ⌘ + g ) Sketch Plugin",
+    "name": "autorename",
+    "owner": "dchahla",
+    "appcast": "https://raw.githubusercontent.com/dchahla/autorename/master/.appcast.xml",
+    "homepage": "https://github.com/dchahla/autorename",
+    "author": "dchahla"
   }
 ]
