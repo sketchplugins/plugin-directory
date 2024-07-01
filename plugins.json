@@ -7287,5 +7287,14 @@
     "homepage": "https://github.com/netease-lcap/sketch-plugin",
     "author": "liuyiqi",
     "lastUpdated": "2024-03-22 02:31:13 UTC"
+  },
+  {
+    "title": "Codia AI Design: Screenshot to Editable Sketch Design",
+    "description": "Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.",
+    "name": "Codia AI Design: Screenshot to Editable Sketch Design",
+    "owner": "Codia.AI",
+    "appcast": "https://codia-f2c.s3.us-west-1.amazonaws.com/sketch/.appcast.xml",
+    "homepage": "https://codia.ai/",
+    "author": "Codia.AI"
   }
 ]
