@@ -5454,7 +5454,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2023-10-27 01:27:25 UTC"
+    "lastUpdated": "2024-07-02 15:17:41 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -7263,12 +7263,12 @@
     "author": "dilomen"
   },
   {
-    "title" : "CreatoCode",
-    "name" : "CreatoCode",
+    "title": "CreatoCode",
+    "name": "CreatoCode",
     "description": "Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.",
     "appcast": "https://raw.githubusercontent.com/CreatoCode/CreatoCodeSketchPlugin/main/appcast.xml",
-    "homepage" : "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
-    "author" : "flashgeek"
+    "homepage": "https://github.com/CreatoCode/CreatoCodeSketchPlugin",
+    "author": "flashgeek"
   },
   {
     "title": "autorename",
@@ -7277,7 +7277,8 @@
     "owner": "dchahla",
     "appcast": "https://raw.githubusercontent.com/dchahla/autorename/master/.appcast.xml",
     "homepage": "https://github.com/dchahla/autorename",
-    "author": "dchahla"
+    "author": "dchahla",
+    "lastUpdated": "2024-03-11 21:51:22 UTC"
   },
   {
     "title": "CodeWave",
