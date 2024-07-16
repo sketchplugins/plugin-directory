@@ -2886,15 +2886,6 @@
     "lastUpdated": "2023-01-06 10:17:13 UTC"
   },
   {
-    "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
-    "name": "NudgePushShove",
-    "title": "Nudge, Push, Shove.",
-    "owner": "mfouquet",
-    "author": "Michael Fouquet",
-    "homepage": "http://www.nudgepushshove.com",
-    "lastUpdated": "2021-08-12 17:42:28 UTC"
-  },
-  {
     "title": "Diverse UI Sketch Plugin",
     "description": "The official Sketch plugin for Diverse UI.",
     "author": "Renée Padgham",
@@ -6465,16 +6456,6 @@
     "homepage": "https://github.com/sonnylazuardi/color-copy-paste",
     "author": "Sonny Lazuardi Hermawan",
     "lastUpdated": "2023-11-01 08:10:58 UTC"
-  },
-  {
-    "title": "Slint",
-    "description": "A linter for Sketch files",
-    "name": "slint",
-    "owner": "nusability",
-    "appcast": "https://raw.githubusercontent.com/nusability/slint/master/.appcast.xml",
-    "homepage": "https://github.com/nusability/slint",
-    "author": "Johannes Nanninga",
-    "lastUpdated": "2023-01-05 11:35:09 UTC"
   },
   {
     "title": "Detach out of sync text styles",
