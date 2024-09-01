@@ -163,7 +163,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Shared Styles Hierarchy](https://github.com/mathieudutour/sketch-styles-hierarchy), by Mathieu Dutour: Organize your shared styles using the layers list, create a hierarchy where children inherit properties from their parent.
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch a Sketch](https://github.com/mathieudutour/sketch-a-sketch), by Mathieu Dutour: Bringing the iconic knobs from the famous toy to Sketch.
-- [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
 - [Sketch Chat](https://github.com/mathieudutour/sketch-chat), by Mathieu Dutour: A Sketch plugin to chat in Sketch Cloud files
 - [Sketch Color Manager](https://github.com/hecflores/sketch-color-manager), by hecflores: Sketch Plugin to manage all rogue colors in the sketch, along with other styling properties
 - [Sketch Copy Text Only](https://github.com/explorador/sketch-copy-text-only), by Cristian: Sketch plugin to copy only the text from selected artboard(s) or layer(s)
@@ -251,6 +250,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
@@ -301,7 +301,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
 - [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
-- [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [css to Shadow Style](https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin), by Oliver Pitsch: CSS box-shadow to Layer Style Converter
 - [States](https://github.com/edenvidal/states), by Eden Vidal: Create different artboard states and switch between them easily
@@ -490,4 +489,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [iOS2Sketch](https://www.design-code.app/docs), by DesignCodeApp: Import App Screens to Sketch
 - [Roller by Toybox](https://github.com/toyboxsystems/roller), by Jono Kolnik: Roller is the first Linter for Designers. It works just like spell-check but within your Sketch files.
-- [Sketch Auto Translate](https://github.com/symdesign/sketch-auto-translate), by Friedrich Schultheiss: Plugin to translate Sketch files into via Google Translate.
