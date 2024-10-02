@@ -1,5 +1,17 @@
 [
   {
+    "identifier": "digital.mazz.zerozero",
+    "appcast": "https://cdn.jsdelivr.net/gh/flavormingo/zerozero@master/appcast.json",
+    "homepage": "https://github.com/flavormingo/zerozero",
+    "version": "1.0.0",
+    "title": "zerozero",
+    "name": "zerozero",
+    "description": "the sketch plugin that magically starts your page from (0,0)",
+    "author": "mazz",
+    "authorEmail": "me@mazz.digital",
+    "lastUpdated": "2024-10-02 09:24:00 UTC"
+  },
+  {
     "title": "easy-code",
     "description": "easy code",
     "author": "luchaoqun125",
