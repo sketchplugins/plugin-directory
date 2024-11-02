@@ -18,7 +18,7 @@
     "version": "1.1.0",
     "title": "killswitch",
     "name": "killswitch",
-    "description": "A simple Sketch plugin for disabling Symbold overrides.",
+    "description": "A simple Sketch plugin for disabling Symbol overrides.",
     "author": "Snacks Studio",
     "authorEmail": "hello@madebysnacks.com",
     "lastUpdated": "2024-10-02 19:44:00 UTC"
