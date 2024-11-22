@@ -37,7 +37,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Chromata](https://github.com/vladimir-ionita/Chromata), by Vladimir Ionița: Find rogue colors
 - [Cloudinary Plugin](https://github.com/cloudinary-devs/cloudinary-sketch-plugin), by Maya Shavin: Cloudinary plugin for Sketch projects
 - [CodeWave](https://github.com/netease-lcap/sketch-plugin), by liuyiqi: 导出 Sketch 设计稿中的任意部分到 CodeWave
-- [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
+- [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/image-to-sketch), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
 - [Coding Toolkit](https://github.com/Coding/coding-sketch-toolkit), by tankxu: A series of commands for CODING designers.
 - [Collapse All Artboards And Groups](https://github.com/littlebusters/Collapse-All-Artboards-and-Groups), by littlebusters: Collapse all artboards and groups in the current document.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste), by Sonny Lazuardi Hermawan:
@@ -235,6 +235,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/image-to-sketch), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
 - [represent.](https://github.com/swipecircus/represent), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [killswitch](https://github.com/madebysnacks/killswitch), by Snacks Studio: A simple Sketch plugin for disabling Symbold overrides.
@@ -243,7 +244,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
-- [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
