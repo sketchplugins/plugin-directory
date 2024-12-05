@@ -462,16 +462,6 @@
     "lastUpdated": "2018-05-22 13:51:22 UTC"
   },
   {
-    "description": "Overlay transforms your Sketch symbols into clean and reusable code in ReactJS, Vue.js and Vanilla HTML.",
-    "name": "Overlay",
-    "title": "Overlay",
-    "owner": "overlay",
-    "author": "Overlay",
-    "homepage": "https://overlay-tech.com?ref=sketch-plugin",
-    "lastUpdated": "2023-01-01 19:30:00 UTC",
-    "appcast": "https://overlay-plugin.s3-eu-west-1.amazonaws.com/public/sketch/.appcast.xml"
-  },
-  {
     "description": "Add single borders with advanced controls.",
     "name": "single-border",
     "title": "Single Border",
@@ -1059,15 +1049,6 @@
     "name": "Color-Copier",
     "title": "Color Copier",
     "lastUpdated": "2018-05-26 15:43:41 UTC"
-  },
-  {
-    "description": "Sketch Plugin to make documenting design easier.",
-    "owner": "marcosvidal",
-    "author": "Marcos Vidal",
-    "title": "Sketch Notebook",
-    "name": "Sketch-Notebook",
-    "homepage": "http://marcosvid.al/sketch-notebook",
-    "lastUpdated": "2020-07-08 18:06:41 UTC"
   },
   {
     "description": "Modulizer plug-in for Sketch.app allows you easy control paddings for buttons, modules and areas. If your module has background your can set fixed paddings and easy restore it for any content changes.",
