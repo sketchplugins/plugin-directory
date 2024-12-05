@@ -4,11 +4,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 **Note:** if you want to add yours, just send a pull request, or use [skpm](https://skpm.io) to develop it (skpm takes care of publishing automatically). Once your plugin is added here, it will appear on [the website](https://sketchapp.com/extensions/plugins) as soon as we make a new deploy (that can take anywhere from a few minutes to a few days)
 
-- [10th Anniversary](https://github.com/bomberstudios/10th-anniversary), by Ale M: Celebrate Sketch's 10th Anniversary with a trip down memory lane
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [Angle](https://angle.sh), by MengTo: Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.
-- [Annotations](https://github.com/BaguetteEngineering/annotations-sketch-plugin), by Baguette Engineering: Hide/show layer groups named 'Annotations'.
 - [Anto](https://github.com/canisminor1990/anto), by CanisMinor: Sketch Tools for AFX Designers
 - [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
@@ -24,9 +22,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Cloudinary Plugin](https://github.com/cloudinary-devs/cloudinary-sketch-plugin), by Maya Shavin: Cloudinary plugin for Sketch projects
 - [CodeWave](https://github.com/netease-lcap/sketch-plugin), by liuyiqi: 导出 Sketch 设计稿中的任意部分到 CodeWave
 - [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/image-to-sketch), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
-- [Collapse All Artboards And Groups](https://github.com/littlebusters/Collapse-All-Artboards-and-Groups), by littlebusters: Collapse all artboards and groups in the current document.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste), by Sonny Lazuardi Hermawan:
-- [Color Variables Migrator](https://github.com/sketch-hq/color-variables-migrator), by Sketch: Migrate your Layers and Styles to use Color Variables
 - [Colors → Code](https://github.com/Sugarcode-Team/colors-to-code-sketch-plugin-live), by Sugarcode: Export Colors as organized Stylesheets for Android, CSS, Less, SCSS, Sass, React, ReactNative, Stylus, PostCSS and CSS Crush.
 - [Copy Optimized SVG Code](https://github.com/chenxsan/copy-optimized-svg-code), by chenxsan: Sketch plugin to copy optimized svg code
 - [Copy Updater](https://github.com/lizhengDesign/Sketch-CopyUpdater), by Li Zheng: A Sketch plugin that updates copy based on selected JSON
@@ -34,7 +30,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [css to Shadow Style](https://github.com/oliverpitsch/CSS-Shadow-to-Sketch-Style-Plugin), by Oliver Pitsch: CSS box-shadow to Layer Style Converter
 - [Csv Mail Merge](https://github.com/jdwolk/sketch-csv-mailmerge), by JD Wolk: A lightweight Sketch plugin for importing data from .csv files using "{}" text sections.
-- [Dad Jokes](https://github.com/domhabersack/sketch-dadjokes), by Dom Habersack: Replace your text with dad jokes.
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [ddSpiral](https://github.com/Design-Dude/ddSpiral), by Mek van’t Hoff: Magically shape almost any kind of 🌀 spiral.
 - [Design Tokens](https://github.com/design-meets-development/design-tokens-plugin), by Andreas Koutsoukos: A Sketch plugin that exports design Tokens to JSON format. You can export colors, typography, icons and utilis. A must-have tool for design system project.
@@ -102,7 +97,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Times](https://github.com/xaddict/sketch-times), by Luuk Lamers: A DataSupplier plugin to get Times
 - [Sketch Title Case](https://github.com/hemmingsson/sketch-title-case), by Mattias Hemmingsson: Sketch Plugin to make text Title Case
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
-- [Sketch json](https://github.com/arvinxx/sketch-json), by arvinxx: a plugin to transfer sketch JSON into sketch Object
 - [Sketch Parser Plugn](https://github.com/Dilomen/schema-sketch-parser), by dilomen: Sketch设计稿数据解析
 - [Sketch Share](https://github.com/robflaherty/sketch-share), by Rob Flaherty: Sketch plugin that exports artboards and generates an HTML file linking to each one
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
@@ -250,9 +244,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [stuffing](https://github.com/Ashung/Sketch-Stuffing), by Ashung: A DataSupplier plugin which supplies chinese data.
 - [Angle](https://angle.sh), by MengTo: Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.
 - [Last Updated Indicator](https://github.com/bvmensvoort/sketch-last-updated), by Bram van Mensvoort: Mark your designs with a version indicator which automatically changes as you update.
-- [Dad Jokes](https://github.com/domhabersack/sketch-dadjokes), by Dom Habersack: Replace your text with dad jokes.
-- [10th Anniversary](https://github.com/bomberstudios/10th-anniversary), by Ale M: Celebrate Sketch's 10th Anniversary with a trip down memory lane
-- [Sketch json](https://github.com/arvinxx/sketch-json), by arvinxx: a plugin to transfer sketch JSON into sketch Object
-- [Annotations](https://github.com/BaguetteEngineering/annotations-sketch-plugin), by Baguette Engineering: Hide/show layer groups named 'Annotations'.
-- [Color Variables Migrator](https://github.com/sketch-hq/color-variables-migrator), by Sketch: Migrate your Layers and Styles to use Color Variables
-- [Collapse All Artboards And Groups](https://github.com/littlebusters/Collapse-All-Artboards-and-Groups), by littlebusters: Collapse all artboards and groups in the current document.
