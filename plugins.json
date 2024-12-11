@@ -4332,16 +4332,6 @@
     "lastUpdated": "2022-12-02 11:24:53 UTC"
   },
   {
-    "title": "Sketch Sync",
-    "description": "Create a collaboration hub for your Sketch files.",
-    "name": "sensive-sketch",
-    "owner": "sensive",
-    "author": "Sensive",
-    "appcast": "https://raw.githubusercontent.com/sensive/sensive-sketch/master/.appcast.xml",
-    "homepage": "https://sensive.co",
-    "lastUpdated": "2023-01-04 12:01:20 UTC"
-  },
-  {
     "title": "Sketch Plugin Skew",
     "description": "A Sketch plugin for skewing (or shearing) shapes horizontally or vertically.",
     "author": "Misha",
