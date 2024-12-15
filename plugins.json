@@ -1,5 +1,13 @@
 [
   {
+    "name": "sketch-recursive-export",
+    "title": "Sketch Recursive Export",
+    "description": "Simple plugin to recursively export exportable layers in a selected naming scheme",
+    "author": "commonpike",
+    "homepage": "https://github.com/commonpike/sketch-recursive-export",
+    "lastUpdated": "2024-12-15 17:07:00 CET"
+  },
+  {
     "identifier": "digital.mazz.zerozero",
     "appcast": "https://cdn.jsdelivr.net/gh/flavormingo/zerozero@master/appcast.json",
     "homepage": "https://github.com/flavormingo/zerozero",
