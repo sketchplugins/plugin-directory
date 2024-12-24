@@ -7257,5 +7257,13 @@
     "homepage": "https://codia.ai/image-to-sketch",
     "author": "Codia.AI",
     "lastUpdated": "2024-11-21 20:20:05 UTC"
+  },
+  {
+    "title": "Sketch to Sitely Website Builder",
+    "description": "Export Sketch artboards to Sitely Website Builder.",
+    "name": "Sketch to Sitely Website Builder",
+    "author": "Sitely",
+    "homepage": "https://sitely.app/docs/sketch-plugin.html",
+    "appcast": "https://sitely.app/sketch/appcast.xml"
   }
 ]
