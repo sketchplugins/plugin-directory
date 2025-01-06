@@ -171,22 +171,6 @@
     "lastUpdated": "2019-11-18 05:26:36 UTC"
   },
   {
-    "title": "Sympli Handoff",
-    "description": "Well prepared redlines, assets, components and specs for developer handoff",
-    "author": "Sympli",
-    "homepage": "https://sympli.io/handoff",
-    "changelog": "https://sympli.canny.io/changelog?labels=handoff-sketch-plugin",
-    "lastUpdated": "2020-04-22 00:00:00 UTC"
-  },
-  {
-    "title": "Sympli Versions",
-    "description": "Version control and collaboration for Sketch.",
-    "author": "Sympli",
-    "homepage": "https://sympli.io/versions",
-    "changelog": "https://sympli.canny.io/changelog?labels=versions-app",
-    "lastUpdated": "2020-06-12 00:00:00 UTC"
-  },
-  {
     "title": "Atlassian Vendor Sketch Plugin",
     "description": "Design your next Atlassian app with our component libraries and suite of Sketch tools 💎",
     "name": "sketch-plugin",
