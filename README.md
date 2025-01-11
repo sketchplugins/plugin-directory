@@ -88,6 +88,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Name Organizer](https://github.com/canisminor1990/sketch-name-organizer), by Canis Minor: 🖌 Rename artboards based on their x and y position; Rename layers based on their Style and Symbol.
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
+- [Sketch Recursive Export](https://github.com/commonpike/sketch-recursive-export), by commonpike: Simple plugin to recursively export exportable layers in a selected naming scheme
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
 - [Sketch Style Master](https://github.com/aparajita/sketch-style-master), by Aparajita Fishman: Sketch plugin for renaming shared styles
 - [Sketch Styler](https://github.com/oodesign/sketch-styler), by oodesign: Assigns styles automatically to all of your unstyled layers.
@@ -128,6 +129,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
+- [Sketch Recursive Export](https://github.com/commonpike/sketch-recursive-export), by commonpike: Simple plugin to recursively export exportable layers in a selected naming scheme
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/image-to-sketch), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
 - [represent.](https://github.com/swipecircus/represent), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
