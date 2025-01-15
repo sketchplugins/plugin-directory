@@ -1,5 +1,16 @@
 [
   {
+    "appcast": "https://github.com/PicsArt/picsart-sketch-plugin/releases/download/v1.0.0/appcast.xml",
+    "homepage": "https://picsart.io",
+    "version": "1.0.0",
+    "title": "Picsart BG Remover & Image Enhancer",
+    "name": "picsart-sketch-plugin",
+    "description": "Elevate your Sketch designs with the Picsart Plugin: effortlessly remove backgrounds from product photos, cars, furniture, jewelry, and more, and upscale images by up to 8x per side (64x resolution). Achieve clean, high-quality visuals directly in Sketch with AI-powered tools that streamline your creative process.",
+    "author": "PicsArt, Inc",
+    "authorEmail": "apidevsupport@picsart.com",
+    "lastUpdated": "2025-01-15 10:00:00 UTC"
+  },
+  {
     "name": "sketch-recursive-export",
     "title": "Sketch Recursive Export",
     "description": "Simple plugin to recursively export exportable layers in a selected naming scheme",
