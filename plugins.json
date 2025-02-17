@@ -7269,4 +7269,12 @@
     "homepage": "https://sitely.app/docs/sketch-plugin.html",
     "appcast": "https://sitely.app/sketch/appcast.xml"
   }
+  {
+   "title": "Circular Text",
+   "description": "It helps to create circular text effect.",
+   "name": "Circular Text",
+    "author": "Rohit Chautmol",
+    "homepage": "https://github.com/roohit1234/Circular-Text-Sketch-Plugin"
+}
+
 ]
