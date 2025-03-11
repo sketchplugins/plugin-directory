@@ -1086,14 +1086,6 @@
     "lastUpdated": "2017-01-25 18:30:11 UTC"
   },
   {
-    "description": "Export simple HTML click dummies to prototype interactivity. Just draw rectangles to create links between artboards.",
-    "owner": "Raureif",
-    "author": "Raureif",
-    "title": "Click Dummy",
-    "name": "sketch-click-dummy",
-    "lastUpdated": "2018-02-01 17:42:23 UTC"
-  },
-  {
     "description": "Sketch app plugin for displaying Google material design color palette.",
     "owner": "t32k",
     "name": "material-design-color-palette",
