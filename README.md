@@ -44,7 +44,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
 - [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
-- [Phrase Strings Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.
 - [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Picsart Bg Remover & Image Enhancer](https://picsart.io), by PicsArt, Inc: Elevate your Sketch designs with the Picsart Plugin: effortlessly remove backgrounds from product photos, cars, furniture, jewelry, and more, and upscale images by up to 8x per side (64x resolution). Achieve clean, high-quality visuals directly in Sketch with AI-powered tools that streamline your creative process.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
@@ -66,7 +65,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Sketch Parser Plugn](https://github.com/Dilomen/schema-sketch-parser), by dilomen: Sketch设计稿数据解析
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
-- [SmartTable](https://github.com/Penndo/smartTable), by Penndo:
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [States](https://github.com/edenvidal/states), by Eden Vidal: Create different artboard states and switch between them easily
 - [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
@@ -149,5 +147,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Kitchen](https://github.com/ant-design/kitchen), by Ant-Design: Make your design work delicious 🍽
 - [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
-- [SmartTable](https://github.com/Penndo/smartTable), by Penndo:
-- [Phrase Strings Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.
