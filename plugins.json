@@ -1067,7 +1067,7 @@
     "name": "zeplin-sketch-plugin",
     "title": "Zeplin",
     "homepage": "https://zeplin.io",
-    "lastUpdated": "2023-12-13 12:56:34 UTC"
+    "lastUpdated": "2025-04-05 00:50:47 UTC"
   },
   {
     "description": "Smartboards aims to make managing and exporting artboards easier in Sketch.",
@@ -7249,6 +7249,7 @@
     "owner": "mogin-net",
     "appcast": "https://raw.githubusercontent.com/mogin-net/svgo-for-elements/master/.appcast.xml",
     "homepage": "https://github.com/mogin-net/svgo-for-elements",
-    "author": "Pt. Mogin Technology Terpadu"
+    "author": "Pt. Mogin Technology Terpadu",
+    "lastUpdated": "2025-03-16 17:52:14 UTC"
   }
 ]
