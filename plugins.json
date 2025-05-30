@@ -7251,5 +7251,15 @@
     "homepage": "https://github.com/mogin-net/svgo-for-elements",
     "author": "Pt. Mogin Technology Terpadu",
     "lastUpdated": "2025-03-16 17:52:14 UTC"
+  },
+  {
+    "title": "UXarts: Screenshot to Design Component",
+    "description": "Use AI to detect and convert screenshots into editable Sketch layers.",
+    "name": "UXarts: Screenshot to Design Component",
+    "owner": "Uxarts",
+    "appcast": "https://raw.githubusercontent.com/qyxghcl007/UXarts-Screenshot-to-Design-Component/main/appcast.xml",
+    "homepage": "https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component",
+    "author": "Uxarts",
+    "lastUpdated": "2025-05-30 06:14:45 UTC"
   }
 ]
