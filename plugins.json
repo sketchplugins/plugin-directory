@@ -2405,7 +2405,7 @@
     "title": "Rename Instances",
     "owner": "exevil",
     "author": "Vyacheslav Dubovitsky",
-    "lastUpdated": "2025-04-08 18:02:21 UTC"
+    "lastUpdated": "2025-05-27 09:23:40 UTC"
   },
   {
     "description": "Sketch.app plugin for exporting ICNS and GIFs",
@@ -4021,7 +4021,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2025-05-22 11:49:10 UTC"
+    "lastUpdated": "2025-05-30 09:19:06 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
