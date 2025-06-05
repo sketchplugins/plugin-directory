@@ -4122,17 +4122,6 @@
     "lastUpdated": "2018-09-18 14:32:48 UTC"
   },
   {
-    "title": "GuideGuide",
-    "name": "guideguide",
-    "description": "Powerful grids and guides in your favorite design tools",
-    "author": "Cameron McEfee",
-    "owner": "cameronmcefee",
-    "homepage": "https://guideguide.me",
-    "changelog": "https://guideguide.me/changelog/",
-    "appcast": "https://guideguide.me/json/sketch-plugin-manifest.json",
-    "lastUpdated": "2023-04-04 07:53:00 UTC"
-  },
-  {
     "title": "Sketch Iconscope",
     "description": "Wrap the Icon with a square(4n) scope.",
     "author": "ziven27",
