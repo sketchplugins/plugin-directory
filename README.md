@@ -38,6 +38,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
 - [PersianSupplier](https://github.com/hiradary/persiansupplier), by Hirad Arshadi: Sketch Plugin for supplying dynamic persian data.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
+- [Phrase Strings Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.
 - [Picsart Bg Remover & Image Enhancer](https://picsart.io), by PicsArt, Inc: Elevate your Sketch designs with the Picsart Plugin: effortlessly remove backgrounds from product photos, cars, furniture, jewelry, and more, and upscale images by up to 8x per side (64x resolution). Achieve clean, high-quality visuals directly in Sketch with AI-powered tools that streamline your creative process.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
@@ -76,6 +77,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Phrase Strings Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.
 - [🍳Pan](https://github.com/arvinxx/pan), by arvinxx: 用平底锅才是王者
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
