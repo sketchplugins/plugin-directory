@@ -7241,5 +7241,15 @@
     "homepage": "https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component",
     "author": "Uxarts",
     "lastUpdated": "2025-05-30 06:14:45 UTC"
+  },
+  {
+    "title": "Ephoto Dam",
+    "description": "Integrate your Ephoto Dam on Sketch to import and export media.",
+    "name": "Ephoto Dam",
+    "owner": "Einden",
+    "appcast": "https://store.ephoto-dam.com/Sketch/updating.json",
+    "homepage": "https://store.ephoto-dam.com",
+    "author": "Einden",
+    "lastUpdated": "2025-07-15 09:00:00 UTC"
   }
 ]
