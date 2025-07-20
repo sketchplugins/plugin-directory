@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2024-04-01 19:11:22 UTC",
+    "lastUpdated": "2025-07-19 00:43:47 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -3178,7 +3178,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2023-05-11 07:23:08 UTC"
+    "lastUpdated": "2025-07-18 12:33:51 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -3188,7 +3188,7 @@
     "appcast": "https://raw.githubusercontent.com/oodesign/mesh-gradients/master/.appcast.xml",
     "homepage": "https://github.com/oodesign/mesh-gradients",
     "name": "mesh-gradients",
-    "lastUpdated": "2022-10-28 10:32:57 UTC"
+    "lastUpdated": "2025-07-18 13:11:55 UTC"
   },
   {
     "title": "Blender",
