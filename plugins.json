@@ -208,7 +208,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/integrations/sketch/",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2025-07-10 08:11:16 UTC"
+    "lastUpdated": "2025-07-22 13:03:45 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -566,7 +566,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2025-07-19 00:43:47 UTC",
+    "lastUpdated": "2025-07-23 13:59:38 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
