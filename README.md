@@ -21,6 +21,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [CreatoCode](https://github.com/CreatoCode/CreatoCodeSketchPlugin), by flashgeek: Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Easy Code](https://github.com/luchaoqun125/sketch-version/), by luchaoqun125: easy code
+- [Ephoto Dam](https://guides.addons.ephoto-dam.com/sketch/), by Einden: Integrate your Ephoto Dam on Sketch to import and export media.
 - [Export to Proto.io](https://proto.io), by Proto.io: Give life to your Sketch designs! Export all or selected artboards to Proto.io screens, preserving layer positioning and hierarchy. By exporting to Proto.io you can link screens together, add interactions and animations.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Find And Replace](https://github.com/thierryc/sketch-find-and-replace), by Martin Steven. Maintained by Thierry Charbonnel: Sketch 3 plugin to do a simple find and replace on text within layers
@@ -83,6 +84,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Phrase Strings Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
+- [Ephoto Dam](https://guides.addons.ephoto-dam.com/sketch/), by Einden: Integrate your Ephoto Dam on Sketch to import and export media.
 - [🍳Pan](https://github.com/arvinxx/pan), by arvinxx: 用平底锅才是王者
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
