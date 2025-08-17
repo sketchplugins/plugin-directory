@@ -71,6 +71,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Symbol Finder](https://github.com/afifkhaidir/symbol-finder), by afifkhaidir: Finder-like interface for browsing and inserting local symbols in Sketch
 - [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
+- [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [Uxarts: Screenshot to Design Component](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component), by Uxarts: Use AI to detect and convert screenshots into editable Sketch layers.
 - [WtDesign](https://github.com/wantedly/sketch-wt-design), by Yoshinori Kawasaki: Sketch plugin for Wantedly Design System
@@ -82,6 +83,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
