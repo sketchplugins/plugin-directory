@@ -2408,14 +2408,6 @@
     "lastUpdated": "2025-05-27 09:23:40 UTC"
   },
   {
-    "description": "Sketch.app plugin for exporting ICNS and GIFs",
-    "name": "Export-More",
-    "title": "Export More",
-    "owner": "nathco",
-    "author": "Nathan Rutzky",
-    "lastUpdated": "2018-01-08 20:02:02 UTC"
-  },
-  {
     "description": "Sketch plugin to webalize layers name.",
     "name": "webalize",
     "owner": "Vesely",
