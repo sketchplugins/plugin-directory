@@ -7226,6 +7226,16 @@
     "lastUpdated": "2025-05-30 06:14:45 UTC"
   },
   {
+    "description": "Color Palettes that meet WCAG Guidelines and Operations",
+    "name": "sketch-ui-color-palette",
+    "title": "UI Color Palette /one・WCAG Color Palette Manager for Apps & Websites",
+    "owner": "a-ng-d",
+    "author": "Aurélien Grimaud",
+    "homepage": "https://uicp.ylb.lt/website",
+    "lastUpdated": "2025-08-17 00:00:00 UTC",
+    "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/dev/appcast.json"
+  },
+  {
     "title": "Ephoto Dam",
     "description": "Integrate your Ephoto Dam on Sketch to import and export media.",
     "name": "Ephoto Dam",
