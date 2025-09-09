@@ -7234,5 +7234,15 @@
     "homepage": "https://guides.addons.ephoto-dam.com/sketch/",
     "author": "Einden",
     "lastUpdated": "2025-07-15 09:00:00 UTC"
-  }
+  },
+  {
+    "name": "sketch-ui-color-palette",
+    "title": "UI Color Palette /one・WCAG Color Palette Manager for Apps & Websites",
+    "description": "Color Palettes that meet WCAG Guidelines and Operations",
+    "owner": "a-ng-d",
+    "author": "Aurélien Grimaud",
+    "homepage": "https://uicp.ylb.lt/website",
+    "lastUpdated": "2025-08-29 00:00:00 UTC",
+    "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
+  },
 ]
