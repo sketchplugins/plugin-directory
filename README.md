@@ -73,8 +73,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
+- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
