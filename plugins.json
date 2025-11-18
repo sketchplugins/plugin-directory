@@ -7245,4 +7245,12 @@
     "lastUpdated": "2025-11-05 17:58:04 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   }
+  {
+   "title": "Circular Text",
+   "description": "It helps to create circular text effect.",
+   "name": "Circular Text",
+    "author": "Rohit Chautmol",
+    "homepage": "https://github.com/roohit1234/Circular-Text-Sketch-Plugin"
+}
+
 ]
