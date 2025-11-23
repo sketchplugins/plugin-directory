@@ -4907,7 +4907,7 @@
     "appcast": "https://raw.githubusercontent.com/jan-dh/sketch-tailwind/master/.appcast.xml",
     "homepage": "https://github.com/jan-dh/sketch-tailwind",
     "author": "Jan D'Hollander",
-    "lastUpdated": "2025-08-21 16:20:22 UTC"
+    "lastUpdated": "2025-11-18 12:32:55 UTC"
   },
   {
     "title": "labelizer",
@@ -4927,7 +4927,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2025-08-21 15:58:33 UTC"
+    "lastUpdated": "2025-11-21 22:16:27 UTC"
   },
   {
     "title": "Symbol States",
@@ -5041,7 +5041,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Turkish-Data/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Turkish-Data",
     "author": "Özgür Güneş",
-    "lastUpdated": "2025-08-21 16:39:45 UTC"
+    "lastUpdated": "2025-11-17 17:58:16 UTC"
   },
   {
     "title": "Snatch",
@@ -5361,7 +5361,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2025-09-11 21:26:59 UTC"
+    "lastUpdated": "2025-11-17 17:54:49 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -7242,7 +7242,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2025-11-05 17:58:04 UTC",
+    "lastUpdated": "2025-11-20 00:06:05 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   }
 ]
