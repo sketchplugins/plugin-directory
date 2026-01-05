@@ -5817,7 +5817,7 @@
     "description": "A Sketch plugin to check color contrast for web accessibility based on WCAG 2.0. Fitting seamlessly into your team's workflow, Cluse allows you to remotely change your design and see the updated WCAG score live.",
     "name": "cluse",
     "owner": "ygev",
-    "author": "Yana Gevorgyan",
+    "author": "Anonymous",
     "appcast": "https://raw.githubusercontent.com/ygev/cluse/master/appcast.xml",
     "homepage": "https://cluse.cc",
     "lastUpdated": "2020-06-09 20:08:32 UTC"
