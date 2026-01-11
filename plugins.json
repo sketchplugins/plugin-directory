@@ -3995,7 +3995,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2025-12-13 20:08:44 UTC"
+    "lastUpdated": "2026-01-08 16:04:07 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -6875,7 +6875,7 @@
     "appcast": "https://raw.githubusercontent.com/phosphor-icons/phosphor-sketch/master/.appcast.xml",
     "homepage": "https://phosphoricons.com",
     "author": "Tobias Fried",
-    "lastUpdated": "2025-05-12 18:03:02 UTC"
+    "lastUpdated": "2026-01-06 21:38:21 UTC"
   },
   {
     "title": "hs-plugin",
@@ -7242,7 +7242,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2025-12-11 00:30:23 UTC",
+    "lastUpdated": "2026-01-08 18:35:54 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   }
 ]
