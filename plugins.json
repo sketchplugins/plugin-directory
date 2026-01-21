@@ -7233,6 +7233,13 @@
    "name": "Circular Text",
     "author": "Rohit Chautmol",
     "homepage": "https://github.com/roohit1234/Circular-Text-Sketch-Plugin"
+  },
+  {
+  "name": "ArrangeIt",
+  "author": "Leonardo Hancevich",
+  "repository": "https://github.com/followleohans/arrangeit-sketch-plugin",
+  "homepage": "https://leohans.gumroad.com/l/arrangeit",
+  "description": "Arrange page-level layers by name"
 }
 
 ]
