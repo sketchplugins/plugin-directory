@@ -7233,5 +7233,16 @@
     "name": "Circular Text",
     "author": "Rohit Chautmol",
     "homepage": "https://github.com/roohit1234/Circular-Text-Sketch-Plugin"
+  },
+  {
+    "name": "color-magic",
+    "title": "Color Magic",
+    "description": "Import color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches)",
+    "author": "Freddie Harrison",
+    "owner": "freddiewrites",
+    "homepage": "https://github.com/freddiewrites/color-magic",
+    "identifier": "com.freddieharrison.color-magic",
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-30 11:15:00 UTC"
   }
 ]
