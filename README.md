@@ -15,6 +15,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Circular Text](https://github.com/roohit1234/Circular-Text-Sketch-Plugin), by Rohit Chautmol: It helps to create circular text effect.
 - [CodeWave](https://github.com/netease-lcap/sketch-plugin), by liuyiqi: 导出 Sketch 设计稿中的任意部分到 CodeWave
 - [Codia Ai Design: Screenshot to Editable Sketch Design](https://codia.ai/image-to-sketch), by Codia.AI: Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.
+- [Color Magic](https://github.com/freddiewrites/color-magic), by Freddie Harrison: Import color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches)
 - [CreatoCode](https://github.com/CreatoCode/CreatoCodeSketchPlugin), by flashgeek: Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
@@ -66,6 +67,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Color Magic](https://github.com/freddiewrites/color-magic), by Freddie Harrison: Import color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches)
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
