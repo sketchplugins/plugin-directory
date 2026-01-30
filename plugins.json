@@ -7244,5 +7244,13 @@
     "identifier": "com.freddieharrison.color-magic",
     "version": "1.0.0",
     "lastUpdated": "2026-01-30 11:15:00 UTC"
+  },
+  {
+    "title": "ArrangeIt",
+    "name": "ArrangeIt",
+    "description": "Arrange page-level layers by name",
+    "author": "Leonardo Hancevich",
+    "owner": "followleohans",
+    "homepage": "https://leohans.gumroad.com/l/arrangeit"
   }
 ]
