@@ -7252,5 +7252,14 @@
     "author": "Leonardo Hancevich",
     "owner": "followleohans",
     "homepage": "https://leohans.gumroad.com/l/arrangeit"
+  },
+  {
+    "title": "Flow-plugin",
+    "description": "Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection",
+    "name": "flow-plugin",
+    "owner": "heshamCO",
+    "appcast": "https://raw.githubusercontent.com/heshamCO/flow-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/heshamCO/flow-plugin",
+    "author": "Hesham"
   }
 ]
