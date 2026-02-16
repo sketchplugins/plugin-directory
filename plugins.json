@@ -5343,7 +5343,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2026-01-22 00:08:23 UTC"
+    "lastUpdated": "2026-02-14 03:35:09 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -7224,7 +7224,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2026-02-06 00:40:13 UTC",
+    "lastUpdated": "2026-02-08 16:09:03 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   },
   {
@@ -7264,5 +7264,14 @@
     "version": "1.0.2",
     "appcast": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/appcast.json",
     "lastUpdated": "2025-02-11 00:00:00 UTC"
-  }
+  },
+  {
+    "title": "Flow-plugin",
+    "description": "Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection",
+    "name": "flow-plugin",
+    "owner": "heshamCO",
+    "appcast": "https://raw.githubusercontent.com/heshamCO/flow-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/heshamCO/flow-plugin",
+    "author": "Hesham"
+  },
 ]
