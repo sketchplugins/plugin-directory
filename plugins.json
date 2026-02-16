@@ -7254,6 +7254,18 @@
     "homepage": "https://leohans.gumroad.com/l/arrangeit"
   },
   {
+    "name": "component-browser",
+    "title": "Component Browser",
+    "description": "Must-have for design systems. The symbol picker that actually works.",
+    "author": "Dmytro Shevchuk",
+    "owner": "funk4d",
+    "homepage": "https://github.com/funk4d/Component-Browser-Sketch-Plugin",
+    "identifier": "com.funkyplugins.componentbrowser",
+    "version": "1.0.2",
+    "appcast": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/appcast.json",
+    "lastUpdated": "2025-02-11 00:00:00 UTC"
+  },
+  {
     "title": "Flow-plugin",
     "description": "Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection",
     "name": "flow-plugin",
