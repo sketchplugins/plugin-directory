@@ -4498,14 +4498,6 @@
     "lastUpdated": "2019-02-12 17:01:33 UTC"
   },
   {
-    "title": "PersianSupplier",
-    "description": "Sketch Plugin for supplying dynamic persian data.",
-    "author": "Hirad Arshadi",
-    "owner": "hiradary",
-    "name": "PersianSupplier",
-    "lastUpdated": "2024-07-25 18:45:05 UTC"
-  },
-  {
     "title": "Primary Sync",
     "description": "Sync your Sketch designs 💎 with Primary's user flows and design documents.",
     "name": "primary-sync",
@@ -6219,15 +6211,6 @@
     "lastUpdated": "2020-03-25 15:18:33 UTC"
   },
   {
-    "title": "Origami Export",
-    "description": "Copy/Paste from Sketch into Origami Studio.",
-    "author": "Facebook, Inc.",
-    "owner": "goozie001",
-    "name": "semaphorePasteboard",
-    "appcast": "https://origami.design/public/plugin/appcast.xml",
-    "lastUpdated": "2020-04-06 13:32:12 UTC"
-  },
-  {
     "title": "Brandfetch",
     "description": "Pull brand assets into Sketch",
     "name": "Brandfetch-Sketch-Plugin",
@@ -6908,15 +6891,6 @@
     "homepage": "https://github.com/transifex/transifex-sketch-plugin",
     "appcast": "https://raw.githubusercontent.com/transifex/transifex-sketch-plugin/master/.appcast.xml",
     "lastUpdated": "2021-11-10 11:00:00 UTC"
-  },
-  {
-    "title": "outsystems-ui-plugin",
-    "name": "OutSystemsUIPlugin",
-    "owner": "HiInteractive",
-    "appcast": "https://raw.githubusercontent.com/HiInteractive/OutSystemsUIPlugin/master/.appcast.xml",
-    "homepage": "https://github.com/HiInteractive/OutSystemsUIPlugin",
-    "author": "Pedro Oliveira",
-    "lastUpdated": "2023-11-15 09:02:35 UTC"
   },
   {
     "title": "Sketch Canvas Item Manager",
