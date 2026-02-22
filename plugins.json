@@ -4901,7 +4901,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2026-01-21 23:49:38 UTC"
+    "lastUpdated": "2026-02-17 16:47:48 UTC"
   },
   {
     "title": "Symbol States",
@@ -7198,7 +7198,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2026-02-08 16:09:03 UTC",
+    "lastUpdated": "2026-02-19 14:50:00 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   },
   {
@@ -7246,6 +7246,7 @@
     "owner": "heshamCO",
     "appcast": "https://raw.githubusercontent.com/heshamCO/flow-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heshamCO/flow-plugin",
-    "author": "Hesham"
+    "author": "Hesham",
+    "lastUpdated": "2026-02-16 17:53:36 UTC"
   }
 ]
