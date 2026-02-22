@@ -40,7 +40,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
 - [represent.](https://github.com/swipecircus/represent), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
 - [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
-- [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
@@ -67,11 +66,12 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
+- [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
+- [Flow Plugin](https://github.com/heshamCO/flow-plugin), by Hesham: Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection
+- [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [Color Magic](https://github.com/freddiewrites/color-magic), by Freddie Harrison: Import color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches)
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
-- [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
 - [🦁 A Lion](https://github.com/KevinGutowski/A-Lion), by Kevin Gutowski: Align your layers to a key layer.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
@@ -119,4 +119,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [📕 PDF Export](https://github.com/dwilliames/pdf-export-sketch-plugin), by David Williames: Export all pages, current page or selected artboards into a PDF — based on a range of settings
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
-- [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
