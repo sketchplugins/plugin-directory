@@ -7248,5 +7248,15 @@
     "homepage": "https://github.com/heshamCO/flow-plugin",
     "author": "Hesham",
     "lastUpdated": "2026-02-16 17:53:36 UTC"
-  }
+  },
+  {
+  "name": "sketch-ui-theme-switcher",
+  "title": "Theme Switcher for Light and Dark UI Components",
+  "description": "Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.",
+  "owner": "whiteuistore",
+  "author": "WhiteUI.Store",
+  "homepage": "https://github.com/whiteuistore/sketch-ui-theme-switcher",
+  "lastUpdated": "2026-02-28 12:00:00 UTC", 
+  "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml"
+}
 ]
