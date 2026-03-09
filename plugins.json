@@ -46,7 +46,7 @@
     "title": "easy-code",
     "description": "easy code",
     "author": "luchaoqun125",
-    "homepage": "https://github.com/luchaoqun125/sketch-version/",
+    "homepage": "https://github.com/sanhao0/sketch-version",
     "appcast": "https://raw.githubusercontent.com/luchaoqun125/sketch-version/master/.appcast.xml",
     "name": "easy-code",
     "lastUpdated": "2024-05-07 18:44:00 UTC"
@@ -5634,9 +5634,9 @@
     "title": "Awesome Ipsums",
     "description": "Generate ipsums from an external Google spreadsheet. Make these datas collaborative!",
     "name": "awesome-ipsums",
-    "owner": "inVoltag",
-    "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
-    "homepage": "https://github.com/inVoltag/awesome-ipsums",
+    "owner": "a-ng-d",
+    "appcast": "https://raw.githubusercontent.com/a-ng-d/awesome-ipsums/master/.appcast.xml",
+    "homepage": "https://github.com/a-ng-d/awesome-ipsums",
     "author": "Aurélien Grimaud",
     "lastUpdated": "2024-05-23 10:46:24 UTC"
   },
