@@ -7238,5 +7238,17 @@
     "homepage": "https://github.com/heshamCO/flow-plugin",
     "author": "Hesham",
     "lastUpdated": "2026-02-16 17:53:36 UTC"
+  },
+  {
+    "identifier": "com.mockuuups.studio.sketch",
+    "appcast": "https://download.mockuuups.studio/sketch/appcast.json",
+    "homepage": "https://mockuuups.studio/sketch/",
+    "version": "5.0.1",
+    "title": "Mockuuups Studio",
+    "name": "mockuuups-studio",
+    "description": "Easily create beautiful mockups from your Sketch files",
+    "author": "Mockuuups",
+    "authorEmail": "hello@mockuuups.com",
+    "lastUpdated": "2026-03-12 13:24:38 UTC"
   }
 ]
