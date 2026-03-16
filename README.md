@@ -50,6 +50,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
 - [svgo for Elements](https://github.com/mogin-net/svgo-for-elements), by Pt. Mogin Technology Terpadu:
+- [Theme Switcher for Light and Dark UI Components](https://github.com/whiteuistore/sketch-ui-theme-switcher), by WhiteUI.Store: Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Uxarts: Screenshot to Design Component](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component), by Uxarts: Use AI to detect and convert screenshots into editable Sketch layers.
@@ -65,6 +66,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Mockuuups Studio](https://mockuuups.studio/sketch/), by Mockuuups: Easily create beautiful mockups from your Sketch files
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
+- [Theme Switcher for Light and Dark UI Components](https://github.com/whiteuistore/sketch-ui-theme-switcher), by WhiteUI.Store: Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
 - [Flow Plugin](https://github.com/heshamCO/flow-plugin), by Hesham: Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection
