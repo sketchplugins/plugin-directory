@@ -371,9 +371,9 @@
     "description": "Export Sketch based designs to be used within Crank Software's Storyboard Suite",
     "name": "SketchPlugins",
     "title": "Storyboard Export",
-    "owner": "cranksoftwaredev",
+    "owner": "crank-software",
     "author": "Crank Software Inc.",
-    "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
+    "homepage": "https://github.com/crank-software/SketchPlugins",
     "lastUpdated": "2020-06-17 17:26:26 UTC"
   },
   {
@@ -2425,7 +2425,7 @@
     "description": "A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.",
     "name": "Sketch-Resize-Commands",
     "title": "Resize Commands",
-    "owner": "ajilderda",
+    "owner": "andrejilderda",
     "author": "Andre Jilderda",
     "lastUpdated": "2019-02-12 19:05:50 UTC"
   },
@@ -2433,7 +2433,7 @@
     "description": "A Sketch plugin that lets you easily copy & paste width, height, x & y values from and to objects",
     "name": "Sketch-Copy-Paste-Position-Size",
     "title": "Copy Paste Position & Size",
-    "owner": "ajilderda",
+    "owner": "andrejilderda",
     "author": "Andre Jilderda",
     "lastUpdated": "2022-11-14 00:30:19 UTC"
   },
@@ -2441,7 +2441,7 @@
     "description": "A Sketch plugin that lets you resize objects from all sides with keyboard shortcuts. As a bonus you can specify the resize amount.",
     "name": "Sketch-Keyboard-Resize",
     "title": "Keyboard Resize",
-    "owner": "ajilderda",
+    "owner": "andrejilderda",
     "author": "Andre Jilderda",
     "lastUpdated": "2016-11-12 20:04:53 UTC"
   },
@@ -3308,9 +3308,9 @@
     "title": "LaTeX Sketch Plugin",
     "description": "This plugin brings LaTeX functionalities to Sketch, and allows us to directly write mathematical formulas",
     "name": "latex-sketch-plugin",
-    "owner": "heytitle",
-    "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
-    "homepage": "https://github.com/heytitle/latex-sketch-plugin",
+    "owner": "p16i",
+    "appcast": "https://raw.githubusercontent.com/p16i/latex-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/p16i/latex-sketch-plugin",
     "lastUpdated": "2023-01-06 01:31:46 UTC"
   },
   {
@@ -4378,9 +4378,9 @@
     "title": "Drafta",
     "description": "Export designs directly to Drafta",
     "name": "drafta",
-    "owner": "fragmentlv",
-    "appcast": "https://raw.githubusercontent.com/fragmentlv/drafta/master/.appcast.xml",
-    "homepage": "https://github.com/fragmentlv/drafta",
+    "owner": "Scadalv",
+    "appcast": "https://raw.githubusercontent.com/Scadalv/drafta/master/.appcast.xml",
+    "homepage": "https://github.com/Scadalv/drafta",
     "author": "Fragment",
     "lastUpdated": "2020-11-25 13:49:36 UTC"
   },
@@ -4665,10 +4665,10 @@
   {
     "title": "Typographie frenchy",
     "name": "typographie-frenchy",
-    "owner": "Saint-loup",
+    "owner": "baptiste-roullin",
     "description": "Sketch plugin to automatically add typographic french conventions and non-breaking spaces",
-    "appcast": "https://raw.githubusercontent.com/Saint-loup/typographie-frenchy/master/.appcast.xml",
-    "homepage": "https://github.com/Saint-loup/typographie-frenchy",
+    "appcast": "https://raw.githubusercontent.com/baptiste-roullin/typographie-frenchy/master/.appcast.xml",
+    "homepage": "https://github.com/baptiste-roullin/typographie-frenchy",
     "lastUpdated": "2022-06-30 12:39:27 UTC"
   },
   {
@@ -4809,9 +4809,9 @@
     "title": "IBAN Generator",
     "description": "Generate random International Bank Account Numbers (IBAN)",
     "name": "iban-sketch-plugin",
-    "owner": "idriesalbender",
-    "appcast": "https://raw.githubusercontent.com/idriesalbender/iban-sketch-plugin/master/.appcast.xml",
-    "homepage": "https://github.com/idriesalbender/iban-sketch-plugin",
+    "owner": "id1x",
+    "appcast": "https://raw.githubusercontent.com/id1x/iban-sketch-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/id1x/iban-sketch-plugin",
     "author": "idix",
     "lastUpdated": "2023-01-03 16:33:50 UTC"
   },
@@ -5790,9 +5790,9 @@
     "title": "Data from Clipboard",
     "description": "A DataSupplier plugin",
     "name": "data-from-clipboard",
-    "owner": "Saint-loup",
-    "appcast": "https://raw.githubusercontent.com/Saint-loup/data-from-clipboard/master/.appcast.xml",
-    "homepage": "https://github.com/Saint-loup/data-from-clipboard",
+    "owner": "baptiste-roullin",
+    "appcast": "https://raw.githubusercontent.com/baptiste-roullin/data-from-clipboard/master/.appcast.xml",
+    "homepage": "https://github.com/baptiste-roullin/data-from-clipboard",
     "lastUpdated": "2023-03-19 22:08:59 UTC"
   },
   {
@@ -5916,9 +5916,9 @@
     "title": "Next",
     "description": "Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.",
     "name": "next",
-    "owner": "endswithak",
-    "appcast": "https://raw.githubusercontent.com/endswithak/next/master/.appcast.xml",
-    "homepage": "https://github.com/endswithak/next",
+    "owner": "erikdotdesign",
+    "appcast": "https://raw.githubusercontent.com/erikdotdesign/next/master/.appcast.xml",
+    "homepage": "https://github.com/erikdotdesign/next",
     "author": "Erik Myers",
     "lastUpdated": "2021-10-18 10:26:31 UTC"
   },
@@ -6081,9 +6081,9 @@
   {
     "title": "sketch-webgl",
     "name": "sketch-webgl",
-    "owner": "endswithak",
-    "appcast": "https://raw.githubusercontent.com/endswithak/sketch-webgl/master/.appcast.xml",
-    "homepage": "https://github.com/endswithak/sketch-webgl",
+    "owner": "erikdotdesign",
+    "appcast": "https://raw.githubusercontent.com/erikdotdesign/sketch-webgl/master/.appcast.xml",
+    "homepage": "https://github.com/erikdotdesign/sketch-webgl",
     "lastUpdated": "2023-03-02 21:03:08 UTC"
   },
   {
