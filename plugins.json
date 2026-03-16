@@ -7249,6 +7249,7 @@
   "lastUpdated": "2026-02-28 12:00:00 UTC", 
   "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml"
   },
+  {
     "identifier": "com.mockuuups.studio.sketch",
     "appcast": "https://download.mockuuups.studio/sketch/appcast.json",
     "homepage": "https://mockuuups.studio/sketch/",
