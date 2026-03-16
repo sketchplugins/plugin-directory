@@ -46,7 +46,7 @@
     "title": "easy-code",
     "description": "easy code",
     "author": "luchaoqun125",
-    "homepage": "https://github.com/luchaoqun125/sketch-version/",
+    "homepage": "https://github.com/sanhao0/sketch-version",
     "appcast": "https://raw.githubusercontent.com/luchaoqun125/sketch-version/master/.appcast.xml",
     "name": "easy-code",
     "lastUpdated": "2024-05-07 18:44:00 UTC"
@@ -3977,7 +3977,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2026-01-08 16:04:07 UTC"
+    "lastUpdated": "2026-02-28 04:40:12 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -5631,16 +5631,6 @@
     "lastUpdated": "2023-01-04 22:22:01 UTC"
   },
   {
-    "title": "Awesome Ipsums",
-    "description": "Generate ipsums from an external Google spreadsheet. Make these datas collaborative!",
-    "name": "awesome-ipsums",
-    "owner": "inVoltag",
-    "appcast": "https://raw.githubusercontent.com/inVoltag/awesome-ipsums/master/.appcast.xml",
-    "homepage": "https://github.com/inVoltag/awesome-ipsums",
-    "author": "Aurélien Grimaud",
-    "lastUpdated": "2024-05-23 10:46:24 UTC"
-  },
-  {
     "title": "Sketch Pexels",
     "description": "A Pexels plugin for Sketch",
     "name": "pexels-sketchplugin",
@@ -7198,7 +7188,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2026-02-19 14:50:00 UTC",
+    "lastUpdated": "2026-03-09 19:43:32 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   },
   {
@@ -7229,15 +7219,15 @@
   },
   {
     "name": "component-browser",
-    "title": "Component Browser",
+    "title": "🧭 Component Browser",
     "description": "Must-have for design systems. The symbol picker that actually works.",
     "author": "Dmytro Shevchuk",
     "owner": "funk4d",
     "homepage": "https://github.com/funk4d/Component-Browser-Sketch-Plugin",
     "identifier": "com.funkyplugins.componentbrowser",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "appcast": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/appcast.json",
-    "lastUpdated": "2025-02-11 00:00:00 UTC"
+    "lastUpdated": "2026-03-02 00:00:00 UTC"
   },
   {
     "title": "Flow-plugin",
@@ -7258,5 +7248,16 @@
   "homepage": "https://github.com/whiteuistore/sketch-ui-theme-switcher",
   "lastUpdated": "2026-02-28 12:00:00 UTC", 
   "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml"
-}
+  },
+    "identifier": "com.mockuuups.studio.sketch",
+    "appcast": "https://download.mockuuups.studio/sketch/appcast.json",
+    "homepage": "https://mockuuups.studio/sketch/",
+    "version": "5.0.1",
+    "title": "Mockuuups Studio",
+    "name": "mockuuups-studio",
+    "description": "Easily create beautiful mockups from your Sketch files",
+    "author": "Mockuuups",
+    "authorEmail": "hello@mockuuups.com",
+    "lastUpdated": "2026-03-12 13:24:38 UTC"
+  }
 ]
