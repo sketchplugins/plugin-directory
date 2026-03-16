@@ -3955,8 +3955,8 @@
     "description": "Roller is the first Linter for Designers. It works just like spell-check but within your Sketch files.",
     "name": "roller",
     "owner": "toyboxsystems",
-    "appcast": "https://raw.githubusercontent.com/toyboxsystems/roller/master/.appcast.xml",
-    "homepage": "https://github.com/toyboxsystems/roller",
+    "appcast": "https://raw.githubusercontent.com/contrastapp/roller/master/.appcast.xml",
+    "homepage": "https://github.com/contrastapp/roller",
     "author": "Jono Kolnik",
     "lastUpdated": "2022-10-14 12:36:49 UTC"
   },
