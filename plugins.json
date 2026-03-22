@@ -7188,7 +7188,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2026-03-09 19:43:32 UTC",
+    "lastUpdated": "2026-03-21 16:15:01 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   },
   {
@@ -7240,14 +7240,14 @@
     "lastUpdated": "2026-02-16 17:53:36 UTC"
   },
   {
-  "name": "sketch-ui-theme-switcher",
-  "title": "Theme Switcher for Light and Dark UI Components",
-  "description": "Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.",
-  "owner": "whiteuistore",
-  "author": "WhiteUI.Store",
-  "homepage": "https://github.com/whiteuistore/sketch-ui-theme-switcher",
-  "lastUpdated": "2026-02-28 12:00:00 UTC", 
-  "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml"
+    "name": "sketch-ui-theme-switcher",
+    "title": "Theme Switcher for Light and Dark UI Components",
+    "description": "Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.",
+    "owner": "whiteuistore",
+    "author": "WhiteUI.Store",
+    "homepage": "https://github.com/whiteuistore/sketch-ui-theme-switcher",
+    "lastUpdated": "2026-02-28 13:32:36 UTC",
+    "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml"
   },
   {
     "identifier": "com.mockuuups.studio.sketch",
