@@ -63,8 +63,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
-- [Mockuuups Studio](https://mockuuups.studio/sketch/), by Mockuuups: Easily create beautiful mockups from your Sketch files
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
+- [Mockuuups Studio](https://mockuuups.studio/sketch/), by Mockuuups: Easily create beautiful mockups from your Sketch files
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
 - [Theme Switcher for Light and Dark UI Components](https://github.com/whiteuistore/sketch-ui-theme-switcher), by WhiteUI.Store: Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
