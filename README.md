@@ -7,6 +7,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Abstract](https://goabstract.com/), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [ArrangeIt](https://leohans.gumroad.com/l/arrangeit), by Leonardo Hancevich: Arrange page-level layers by name
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
+- [Automatically Apply Text Styles, Color Variables, and Shared Styles](https://github.com/whiteuistore/sketch-style-matcher), by WhiteUI.Store: Find and apply pre-made text styles, color variables, and shared styles. Also, detach all styles in one click.
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
 - [Brandfetch](https://github.com/Brandfetch/Brandfetch-Sketch-Plugin), by Brandfetch: Pull brand assets into Sketch
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
@@ -23,13 +24,11 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [killswitch](https://github.com/madebysnacks/killswitch), by Snacks Studio: A simple Sketch plugin for disabling Symbol overrides.
 - [lippy](https://github.com/abynim/lippy), by Aby Nimbalkar: An interactive lorem ipsum generator plugin for Sketch
-- [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
 - [Mockuuups Studio](https://mockuuups.studio/sketch/), by Mockuuups: Easily create beautiful mockups from your Sketch files
 - [Overrides Manager](https://github.com/ozgurgunes/Sketch-Overrides-Manager), by Ozgur Gunes: A Sketch plugin which makes managing overrides easier.
-- [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
 - [Phrase Strings Plugin](https://phrase.com/integrations/sketch/), by Phrase: Start localization during the design phase. Easily preview your designs in multiple languages and optimize your UI for all markets with the Phrase Strings plugin.
 - [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
@@ -37,19 +36,15 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Place Linked Bitmap](https://github.com/frankko/place-linked-bitmap), by Frank Kolodziej: A plugin to place external bitmap files into Sketch and update Sketch layers after external bitmaps are updated
 - [Rename Instances](https://github.com/exevil/sketch-rename-instances), by Vyacheslav Dubovitsky: Tiny single-command Sketch plugin that renames every symbol instance with its master's name.
 - [represent.](https://github.com/swipecircus/represent), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
-- [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
 - [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
-- [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
-- [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
 - [Sketch Recursive Export](https://github.com/commonpike/sketch-recursive-export), by commonpike: Simple plugin to recursively export exportable layers in a selected naming scheme
 - [Sketch to Sitely Website Builder](https://sitely.app/docs/sketch-plugin.html), by Sitely: Export Sketch artboards to Sitely Website Builder.
 - [Sketch Parser Plugn](https://github.com/Dilomen/schema-sketch-parser), by dilomen: Sketch设计稿数据解析
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
-- [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
 - [svgo for Elements](https://github.com/mogin-net/svgo-for-elements), by Pt. Mogin Technology Terpadu:
 - [Theme Switcher for Light and Dark UI Components](https://github.com/whiteuistore/sketch-ui-theme-switcher), by WhiteUI.Store: Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
@@ -66,6 +61,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
+- [Automatically Apply Text Styles, Color Variables, and Shared Styles](https://github.com/whiteuistore/sketch-style-matcher), by WhiteUI.Store: Find and apply pre-made text styles, color variables, and shared styles. Also, detach all styles in one click.
 - [Theme Switcher for Light and Dark UI Components](https://github.com/whiteuistore/sketch-ui-theme-switcher), by WhiteUI.Store: Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Mockuuups Studio](https://mockuuups.studio/sketch/), by Mockuuups: Easily create beautiful mockups from your Sketch files
@@ -109,9 +105,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [lippy](https://github.com/abynim/lippy), by Aby Nimbalkar: An interactive lorem ipsum generator plugin for Sketch
 - [Brandfetch](https://github.com/Brandfetch/Brandfetch-Sketch-Plugin), by Brandfetch: Pull brand assets into Sketch
 - [Easy Code](https://github.com/sanhao0/sketch-version), by luchaoqun125: easy code
-- [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
-- [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
-- [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
-- [Palette Stripes](https://github.com/sureskumar/palette-stripes), by Sures Kumar: Generate palette stripes in sketch from shape fills.
-- [Single Border](https://github.com/sureskumar/single-border), by Sures Kumar: Add single borders with advanced controls.
-- [Sketch Isometric](https://github.com/sureskumar/sketch-isometric), by Sures Kumar: Generate Isometric views from Artboards and Rectangles.
