@@ -7250,6 +7250,16 @@
     "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-ui-theme-switcher/main/appcast.xml"
   },
   {
+    "name": "sketch-style-matcher",
+    "title": "Automatically apply text styles, color variables, and shared styles",
+    "description": "Find and apply pre-made text styles, color variables, and shared styles. Also, detach all styles in one click.",
+    "owner": "whiteuistore",
+    "author": "WhiteUI.Store",
+    "homepage": "https://github.com/whiteuistore/sketch-style-matcher",
+    "lastUpdated": "2026-03-25 16:20:00 UTC",
+    "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-style-matcher/main/appcast.xml"
+  },
+  {
     "identifier": "com.mockuuups.studio.sketch",
     "appcast": "https://download.mockuuups.studio/sketch/appcast.json",
     "homepage": "https://mockuuups.studio/sketch/",
