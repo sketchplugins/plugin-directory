@@ -7225,9 +7225,9 @@
     "owner": "funk4d",
     "homepage": "https://github.com/funk4d/Component-Browser-Sketch-Plugin",
     "identifier": "com.funkyplugins.componentbrowser",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "appcast": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/appcast.json",
-    "lastUpdated": "2026-03-02 00:00:00 UTC"
+    "lastUpdated": "2026-04-01 00:00:00 UTC"
   },
   {
     "title": "Flow-plugin",
