@@ -7260,6 +7260,16 @@
     "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-style-matcher/main/appcast.xml"
   },
   {
+    "name": "stack-layout-hacks",
+    "title": "Stack Layout Hacks Plugin for Sketch",
+    "description": "Various scripts to easily manage and change Stacks properties in the Sketch file",
+    "owner": "whiteuistore",
+    "author": "WhiteUI.Store",
+    "homepage": "https://github.com/whiteuistore/stack-layout-hacks",
+    "lastUpdated": "2026-03-30 20:00:00 UTC",
+    "appcast": "https://raw.githubusercontent.com/whiteuistore/stack-layout-hacks/main/appcast.xml"
+  },
+  {
     "identifier": "com.mockuuups.studio.sketch",
     "appcast": "https://download.mockuuups.studio/sketch/appcast.json",
     "homepage": "https://mockuuups.studio/sketch/",
