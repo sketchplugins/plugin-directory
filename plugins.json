@@ -5335,7 +5335,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2026-02-14 03:35:09 UTC"
+    "lastUpdated": "2026-04-10 12:18:37 UTC"
   },
   {
     "title": "Design Token Exporter",
@@ -7188,7 +7188,7 @@
     "owner": "a-ng-d",
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website",
-    "lastUpdated": "2026-04-03 22:03:26 UTC",
+    "lastUpdated": "2026-04-07 14:07:04 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json"
   },
   {
@@ -7266,7 +7266,7 @@
     "owner": "whiteuistore",
     "author": "WhiteUI.Store",
     "homepage": "https://github.com/whiteuistore/stack-layout-hacks",
-    "lastUpdated": "2026-03-30 20:00:00 UTC",
+    "lastUpdated": "2026-04-02 21:05:24 UTC",
     "appcast": "https://raw.githubusercontent.com/whiteuistore/stack-layout-hacks/main/appcast.xml"
   },
   {
