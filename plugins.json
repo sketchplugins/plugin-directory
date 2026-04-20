@@ -7281,5 +7281,14 @@
     "author": "Mockuuups",
     "authorEmail": "hello@mockuuups.com",
     "lastUpdated": "2026-03-12 13:24:38 UTC"
+  },
+  {
+    "title": "9-Slice",
+    "description": "Apply 9-slice scaling to images in Sketch.",
+    "name": "sketch-9-slice",
+    "owner": "paugit",
+    "appcast": "https://raw.githubusercontent.com/paugit/sketch-9-slice/master/.appcast.xml",
+    "homepage": "https://github.com/paugit/sketch-9-slice",
+    "author": "pmjo"
   }
 ]
