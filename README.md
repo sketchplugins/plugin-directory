@@ -16,6 +16,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Color Magic](https://github.com/freddiewrites/color-magic), by Freddie Harrison: Import color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches)
 - [CreatoCode](https://github.com/CreatoCode/CreatoCodeSketchPlugin), by flashgeek: Easily convert design drafts into code, streamline the development process, and seamlessly connect your creativity with reality.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
+- [Design Md Sketch](https://www.typeui.sh/), by Bergside: Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
 - [Ephoto Dam](https://guides.addons.ephoto-dam.com/sketch/), by Einden: Integrate your Ephoto Dam on Sketch to import and export media.
 - [Flow Plugin](https://github.com/heshamCO/flow-plugin), by Hesham: Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection
