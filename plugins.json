@@ -7291,5 +7291,14 @@
     "homepage": "https://github.com/paugit/sketch-9-slice",
     "author": "pmjo",
     "lastUpdated": "2026-04-10 06:52:59 UTC"
+  },
+  {
+    "title": "design-md-sketch",
+    "description": "Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.",
+    "name": "design-md-sketch",
+    "owner": "bergside",
+    "appcast": "https://raw.githubusercontent.com/bergside/design-md-sketch/master/.appcast.xml",
+    "homepage": "https://www.typeui.sh/",
+    "author": "Bergside"
   }
 ]
