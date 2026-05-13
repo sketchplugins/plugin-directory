@@ -6694,16 +6694,6 @@
     "lastUpdated": "2021-02-07 20:09:35 UTC"
   },
   {
-    "title": "Lokalise plugin",
-    "description": "Deliver multilingual assets faster and smarter. Share context with your linguists, get early feedback about each market and preview the design in all languages.",
-    "name": "lokalise-sketchplugin",
-    "owner": "lokalise",
-    "appcast": "https://raw.githubusercontent.com/lokalise/lokalise-sketchplugin/master/.appcast.xml",
-    "homepage": "https://github.com/lokalise/lokalise-sketchplugin",
-    "author": "Lokalise",
-    "lastUpdated": "2023-01-03 10:55:35 UTC"
-  },
-  {
     "title": "Fake News",
     "description": "Auto-populate Washington Post news content",
     "name": "fake-news-sketchplugin",
