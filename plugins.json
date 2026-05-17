@@ -3977,7 +3977,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2026-05-09 17:41:08 UTC"
+    "lastUpdated": "2026-05-14 23:58:38 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -7179,7 +7179,7 @@
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website-download",
     "version": "5.3.0",
-    "lastUpdated": "2026-05-09 16:54:18 UTC",
+    "lastUpdated": "2026-05-12 15:14:15 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json",
     "icon": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/assets/uicp_icon.png"
   },
@@ -7292,6 +7292,6 @@
     "appcast": "https://raw.githubusercontent.com/bergside/design-md-sketch/master/.appcast.xml",
     "homepage": "https://www.typeui.sh/",
     "author": "Bergside",
-    "lastUpdated": "2026-04-30 13:05:59 UTC"
+    "lastUpdated": "2026-05-16 08:09:28 UTC"
   }
 ]
