@@ -58,9 +58,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Design Md Sketch](https://www.typeui.sh/), by Bergside: Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website-download), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
-- [Design Md Sketch](https://www.typeui.sh/), by Bergside: Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [9 Slice](https://github.com/paugit/sketch-9-slice), by pmjo: Apply 9-slice scaling to images in Sketch.
