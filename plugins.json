@@ -7124,16 +7124,6 @@
     "lastUpdated": "2024-03-22 02:31:13 UTC"
   },
   {
-    "title": "Codia AI Design: Screenshot to Editable Sketch Design",
-    "description": "Transform screenshots into editable Sketch UI designs effortlessly. Simply upload a snapshot of an app or website, and let our tool do the rest. Then, begin our design journey.",
-    "name": "Codia AI Design: Screenshot to Editable Sketch Design",
-    "owner": "Codia.AI",
-    "appcast": "https://codia-f2c.s3.us-west-1.amazonaws.com/sketch/.appcast.xml",
-    "homepage": "https://codia.ai/image-to-sketch",
-    "author": "Codia.AI",
-    "lastUpdated": "2024-11-21 20:20:05 UTC"
-  },
-  {
     "title": "Sketch to Sitely Website Builder",
     "description": "Export Sketch artboards to Sitely Website Builder.",
     "name": "Sketch to Sitely Website Builder",
