@@ -7283,5 +7283,15 @@
     "homepage": "https://www.typeui.sh/",
     "author": "Bergside",
     "lastUpdated": "2026-05-16 08:09:28 UTC"
+  },
+   {
+    "name": "sketch-symbols-sorter-plugin",
+    "title": "Symbols Sorter Plugin for Sketch",
+    "description": "Automatically organize symbols in the Sketch file using Symbols Sorter Plugin",
+    "owner": "whiteuistore",
+    "author": "WhiteUI.Store",
+    "homepage": "https://github.com/whiteuistore/sketch-symbols-sorter-plugin",
+    "lastUpdated": "2026-06-10 21:05:24 UTC",
+    "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-symbols-sorter-plugin/main/appcast.xml"
   }
 ]
