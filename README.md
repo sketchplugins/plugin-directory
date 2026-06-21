@@ -20,7 +20,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Ephoto Dam](https://guides.addons.ephoto-dam.com/sketch/), by Einden: Integrate your Ephoto Dam on Sketch to import and export media.
 - [Flow Plugin](https://github.com/heshamCO/flow-plugin), by Hesham: Sketch plugin for Flow design handoff – publish designs with full prototype flows for developer inspection
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
-- [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [killswitch](https://github.com/madebysnacks/killswitch), by Snacks Studio: A simple Sketch plugin for disabling Symbol overrides.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
@@ -57,6 +56,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website-download), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Design Md Sketch](https://www.typeui.sh/), by Bergside: Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.
@@ -75,7 +75,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
 - [🦁 A Lion](https://github.com/KevinGutowski/A-Lion), by Kevin Gutowski: Align your layers to a key layer.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
-- [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
@@ -100,4 +99,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [killswitch](https://github.com/madebysnacks/killswitch), by Snacks Studio: A simple Sketch plugin for disabling Symbol overrides.
 - [zerozero](https://github.com/flavormingo/zerozero), by mazz: the sketch plugin that magically starts your page from (0,0)
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
-- [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
