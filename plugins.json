@@ -5916,9 +5916,9 @@
     "title": "Next",
     "description": "Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.",
     "name": "next",
-    "owner": "erikdotdesign",
-    "appcast": "https://raw.githubusercontent.com/erikdotdesign/next/master/.appcast.xml",
-    "homepage": "https://github.com/erikdotdesign/next",
+    "owner": "madebyerik",
+    "appcast": "https://raw.githubusercontent.com/madebyerik/next/master/.appcast.xml",
+    "homepage": "https://github.com/madebyerik/next",
     "author": "Erik Myers",
     "lastUpdated": "2021-10-18 10:26:31 UTC"
   },
@@ -6081,9 +6081,9 @@
   {
     "title": "sketch-webgl",
     "name": "sketch-webgl",
-    "owner": "erikdotdesign",
-    "appcast": "https://raw.githubusercontent.com/erikdotdesign/sketch-webgl/master/.appcast.xml",
-    "homepage": "https://github.com/erikdotdesign/sketch-webgl",
+    "owner": "madebyerik",
+    "appcast": "https://raw.githubusercontent.com/madebyerik/sketch-webgl/master/.appcast.xml",
+    "homepage": "https://github.com/madebyerik/sketch-webgl",
     "lastUpdated": "2023-03-02 21:03:08 UTC"
   },
   {
