@@ -3160,7 +3160,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2025-11-14 16:35:55 UTC"
+    "lastUpdated": "2026-06-17 09:13:03 UTC"
   },
   {
     "title": "Mesh gradients",
@@ -5916,9 +5916,9 @@
     "title": "Next",
     "description": "Export designs as HTML, making it easy to quickly share design specs, css, and assets like fonts, svgs, and images.",
     "name": "next",
-    "owner": "erikdotdesign",
-    "appcast": "https://raw.githubusercontent.com/erikdotdesign/next/master/.appcast.xml",
-    "homepage": "https://github.com/erikdotdesign/next",
+    "owner": "madebyerik",
+    "appcast": "https://raw.githubusercontent.com/madebyerik/next/master/.appcast.xml",
+    "homepage": "https://github.com/madebyerik/next",
     "author": "Erik Myers",
     "lastUpdated": "2021-10-18 10:26:31 UTC"
   },
@@ -6081,9 +6081,9 @@
   {
     "title": "sketch-webgl",
     "name": "sketch-webgl",
-    "owner": "erikdotdesign",
-    "appcast": "https://raw.githubusercontent.com/erikdotdesign/sketch-webgl/master/.appcast.xml",
-    "homepage": "https://github.com/erikdotdesign/sketch-webgl",
+    "owner": "madebyerik",
+    "appcast": "https://raw.githubusercontent.com/madebyerik/sketch-webgl/master/.appcast.xml",
+    "homepage": "https://github.com/madebyerik/sketch-webgl",
     "lastUpdated": "2023-03-02 21:03:08 UTC"
   },
   {
@@ -7207,9 +7207,9 @@
     "owner": "funk4d",
     "homepage": "https://github.com/funk4d/Component-Browser-Sketch-Plugin",
     "identifier": "com.funkyplugins.componentbrowser",
-    "version": "1.3.0",
+    "version": "1.4.1",
     "appcast": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/appcast.json",
-    "lastUpdated": "2026-05-27 00:00:00 UTC",
+    "lastUpdated": "2026-06-23 00:00:00 UTC",
     "icon": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/github/component-browser-icon.png"
   },
   {
@@ -7284,7 +7284,7 @@
     "author": "Bergside",
     "lastUpdated": "2026-05-16 08:09:28 UTC"
   },
-   {
+  {
     "name": "sketch-symbols-sorter-plugin",
     "title": "Symbols Sorter Plugin for Sketch",
     "description": "Automatically organize symbols in the Sketch file using Symbols Sorter Plugin",
@@ -7293,5 +7293,16 @@
     "homepage": "https://github.com/whiteuistore/sketch-symbols-sorter-plugin",
     "lastUpdated": "2026-06-10 21:05:24 UTC",
     "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-symbols-sorter-plugin/main/appcast.xml"
+  },
+  {
+    "title": "Sketch to Icon Composer",
+    "description": "Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.",
+    "name": "sketch-to-icon-composer",
+    "owner": "yoshi2ys",
+    "version": "1.0.0",
+    "appcast": "https://github.com/yoshi2ys/sketch-to-icon-composer/releases/latest/download/appcast.json",
+    "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
+    "author": "yoshi2ys",
+    "lastUpdated": "2026-06-15 15:55:42 UTC"
   }
 ]
