@@ -7283,5 +7283,16 @@
     "homepage": "https://www.typeui.sh/",
     "author": "Bergside",
     "lastUpdated": "2026-05-16 08:09:28 UTC"
+  },
+  {
+    "title": "Sketch to Icon Composer",
+    "description": "Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.",
+    "name": "sketch-to-icon-composer",
+    "owner": "yoshi2ys",
+    "version": "1.0.0",
+    "appcast": "https://github.com/yoshi2ys/sketch-to-icon-composer/releases/latest/download/appcast.json",
+    "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
+    "author": "yoshi2ys",
+    "lastUpdated": "2026-06-15 15:55:42 UTC"
   }
 ]
