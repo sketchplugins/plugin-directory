@@ -37,6 +37,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Meaxure](https://github.com/qjebbs/sketch-meaxure), by utom & jebbs: Make it a fun to create spec for developers and teammates
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Recursive Export](https://github.com/commonpike/sketch-recursive-export), by commonpike: Simple plugin to recursively export exportable layers in a selected naming scheme
+- [Sketch to Icon Composer](https://github.com/yoshi2ys/sketch-to-icon-composer), by yoshi2ys: Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.
 - [Sketch to Sitely Website Builder](https://sitely.app/docs/sketch-plugin.html), by Sitely: Export Sketch artboards to Sitely Website Builder.
 - [Sketch Parser Plugn](https://github.com/Dilomen/schema-sketch-parser), by dilomen: Sketch设计稿数据解析
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
@@ -58,6 +59,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
+- [Sketch to Icon Composer](https://github.com/yoshi2ys/sketch-to-icon-composer), by yoshi2ys: Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website-download), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Design Md Sketch](https://www.typeui.sh/), by Bergside: Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
