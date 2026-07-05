@@ -46,6 +46,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [svgo for Elements](https://github.com/mogin-net/svgo-for-elements), by Pt. Mogin Technology Terpadu:
 - [Symbols Sorter Plugin for Sketch](https://github.com/whiteuistore/sketch-symbols-sorter-plugin), by WhiteUI.Store: Automatically organize symbols in the Sketch file using Symbols Sorter Plugin
 - [Theme Switcher for Light and Dark UI Components](https://github.com/whiteuistore/sketch-ui-theme-switcher), by WhiteUI.Store: Effortlessly switch between Light and Dark themes in Sketch using Symbols and Shared Styles.
+- [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website-download), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Uxarts: Screenshot to Design Component](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component), by Uxarts: Use AI to detect and convert screenshots into editable Sketch layers.
@@ -58,6 +59,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
+- [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Sketch to Icon Composer](https://github.com/yoshi2ys/sketch-to-icon-composer), by yoshi2ys: Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.
@@ -79,7 +82,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
 - [🦁 A Lion](https://github.com/KevinGutowski/A-Lion), by Kevin Gutowski: Align your layers to a key layer.
 - [Phosphor Icons](https://phosphoricons.com), by Tobias Fried: A flexible icon family for interfaces, diagrams, presentations — whatever, really.
-- [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Dockpreview](https://github.com/fnky/sketch-dockpreview), by Christian Petersen: A Sketch plugin that lets you preview your current artboard in the Dock.
 - [Sketch Measure](https://github.com/utom/sketch-measure), by utom: Make it a fun to create spec for developers and teammates! Automatically generating html page with one click, inspect all the design details including CSS Styles on it offline.
