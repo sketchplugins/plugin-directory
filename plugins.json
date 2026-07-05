@@ -2685,7 +2685,7 @@
     "title": "TinyFaces 👦🏼👨🏾👩🏻",
     "owner": "maximedegreve",
     "author": "Maxime De Greve",
-    "lastUpdated": "2023-03-04 03:02:55 UTC"
+    "lastUpdated": "2026-07-04 16:32:34 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize your design by simple shortcuts. Helps you output splash screen and screenshot for app store&google play",
@@ -6622,7 +6622,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2025-09-22 02:26:20 UTC"
+    "lastUpdated": "2026-07-04 23:58:29 UTC"
   },
   {
     "title": "import-shadows",
@@ -7291,7 +7291,7 @@
     "owner": "whiteuistore",
     "author": "WhiteUI.Store",
     "homepage": "https://github.com/whiteuistore/sketch-symbols-sorter-plugin",
-    "lastUpdated": "2026-06-10 21:05:24 UTC",
+    "lastUpdated": "2026-06-09 21:54:10 UTC",
     "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-symbols-sorter-plugin/main/appcast.xml"
   },
   {
@@ -7303,6 +7303,6 @@
     "appcast": "https://github.com/yoshi2ys/sketch-to-icon-composer/releases/latest/download/appcast.json",
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
-    "lastUpdated": "2026-06-15 15:55:42 UTC"
+    "lastUpdated": "2026-06-15 15:55:24 UTC"
   }
 ]
