@@ -198,7 +198,7 @@
     "author": "Phrase",
     "homepage": "https://phrase.com/integrations/sketch/",
     "appcast": "https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml",
-    "lastUpdated": "2025-07-22 13:03:45 UTC"
+    "lastUpdated": "2026-07-15 07:48:48 UTC"
   },
   {
     "title": "Sparkle Export Plugin",
@@ -7159,7 +7159,7 @@
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website-download",
     "version": "5.3.0",
-    "lastUpdated": "2026-05-22 22:43:55 UTC",
+    "lastUpdated": "2026-07-18 19:52:05 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json",
     "icon": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/assets/uicp_icon.png"
   },
