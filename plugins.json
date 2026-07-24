@@ -1,5 +1,16 @@
 [
   {
+  "appcast": "https://glyphpalette.com/appcast.json",
+  "homepage": "https://glyphpalette.com",
+  "version": "1.5.4",
+  "title": "Glyph Palette",
+  "name": "glyph-palette",
+  "description": "Browse and insert icons from multiple libraries - Material Symbols, Lucide, Carbon, HeroIcons, Font Awesome Brands, Phosphor, and Bootstrap Icons - directly onto the canvas in Sketch.",
+  "author": "workingon.studio",
+  "authorEmail": "support@workingon.studio",
+  "lastUpdated": "2026-07-22 07:04:00 UTC"
+  },
+  {
     "appcast": "https://github.com/PicsArt/picsart-sketch-plugin/releases/download/v1.0.0/appcast.xml",
     "homepage": "https://picsart.io",
     "version": "1.0.0",
