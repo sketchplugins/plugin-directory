@@ -1463,7 +1463,7 @@
     "title": "Sketch Layer Comps",
     "author": "Özgür Güneş",
     "owner": "ozgurgunes",
-    "lastUpdated": "2023-03-04 03:18:50 UTC"
+    "lastUpdated": "2026-07-28 11:17:53 UTC"
   },
   {
     "description": "A Sketch Plugin to align Text Layers by their baselines",
@@ -2968,7 +2968,7 @@
     "owner": "avadhbsd",
     "name": "IconFlower",
     "homepage": "https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6",
-    "lastUpdated": "2017-12-24 13:37:21 UTC"
+    "lastUpdated": "2026-08-01 14:10:50 UTC"
   },
   {
     "title": "Fontily",
@@ -3977,7 +3977,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2026-07-25 09:52:58 UTC"
+    "lastUpdated": "2026-07-31 21:52:52 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4901,7 +4901,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Overrides-Manager/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Overrides-Manager",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2026-02-17 16:47:48 UTC"
+    "lastUpdated": "2026-07-28 11:18:53 UTC"
   },
   {
     "title": "Symbol States",
@@ -4911,7 +4911,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Symbol-States/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Symbol-States",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2023-03-04 03:15:55 UTC"
+    "lastUpdated": "2026-07-28 11:19:32 UTC"
   },
   {
     "title": "CSV Mail Merge",
@@ -4995,7 +4995,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Case-Converter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Case-Converter",
     "author": "Özgür Güneş",
-    "lastUpdated": "2023-01-06 01:43:36 UTC"
+    "lastUpdated": "2026-07-28 11:18:29 UTC"
   },
   {
     "title": "sketch-camera-hotkeys",
@@ -5015,7 +5015,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Turkish-Data/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Turkish-Data",
     "author": "Özgür Güneş",
-    "lastUpdated": "2026-01-21 23:41:02 UTC"
+    "lastUpdated": "2026-07-28 11:21:08 UTC"
   },
   {
     "title": "Snatch",
@@ -6277,7 +6277,7 @@
     "appcast": "https://raw.githubusercontent.com/maxkonovalov/Isometry/master/.appcast.xml",
     "homepage": "https://github.com/maxkonovalov/Isometry",
     "author": "Max Konovalov",
-    "lastUpdated": "2023-01-06 06:04:38 UTC"
+    "lastUpdated": "2026-07-29 21:44:27 UTC"
   },
   {
     "title": "Sync with Library",
@@ -6572,7 +6572,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Smart-Truncate/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Smart-Truncate",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2021-05-08 08:16:49 UTC"
+    "lastUpdated": "2026-07-28 11:20:50 UTC"
   },
   {
     "title": "sketch-table-builder",
@@ -6592,7 +6592,7 @@
     "appcast": "https://raw.githubusercontent.com/ozgurgunes/Sketch-Baseline-Offsetter/master/.appcast.xml",
     "homepage": "https://github.com/ozgurgunes/Sketch-Baseline-Offsetter",
     "author": "Ozgur Gunes",
-    "lastUpdated": "2021-05-08 08:13:04 UTC"
+    "lastUpdated": "2026-07-28 11:20:12 UTC"
   },
   {
     "title": "Swap Color Libraries",
@@ -7159,7 +7159,7 @@
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website-download",
     "version": "5.3.0",
-    "lastUpdated": "2026-07-18 19:52:05 UTC",
+    "lastUpdated": "2026-07-31 20:54:54 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json",
     "icon": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/assets/uicp_icon.png"
   },
