@@ -1,5 +1,17 @@
 [
   {
+    "identifier": "com.imvia.creative-bridge.sketch",
+    "appcast": "https://xiongrubing335100-beep.github.io/imvia-downloads/update/sketch.json",
+    "homepage": "https://github.com/xiongrubing335100-beep/imvia-downloads",
+    "version": "0.4.2",
+    "title": "IMVIA Creative Bridge",
+    "name": "imvia-downloads",
+    "description": "Transfer selected images between Sketch, supported browser targets, and Photoshop through the local IMVIA Creative Bridge.",
+    "author": "RuBing Xiong",
+    "owner": "xiongrubing335100-beep",
+    "lastUpdated": "2026-08-06 03:24:35 UTC"
+  },
+  {
   "appcast": "https://glyphpalette.com/appcast.json",
   "homepage": "https://glyphpalette.com",
   "version": "1.5.4",
