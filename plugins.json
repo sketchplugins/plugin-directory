@@ -6616,7 +6616,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2026-07-08 03:03:40 UTC"
+    "lastUpdated": "2026-08-14 10:38:31 UTC"
   },
   {
     "title": "import-shadows",
@@ -7163,7 +7163,7 @@
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website-download",
     "version": "5.3.0",
-    "lastUpdated": "2026-08-07 20:07:06 UTC",
+    "lastUpdated": "2026-08-11 09:18:55 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json",
     "icon": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/assets/uicp_icon.png"
   },
