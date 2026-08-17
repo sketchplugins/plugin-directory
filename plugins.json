@@ -12,15 +12,15 @@
     "lastUpdated": "2026-08-06 03:24:35 UTC"
   },
   {
-  "appcast": "https://glyphpalette.com/appcast.json",
-  "homepage": "https://glyphpalette.com",
-  "version": "1.5.4",
-  "title": "Glyph Palette",
-  "name": "glyph-palette",
-  "description": "Browse and insert icons from multiple libraries - Material Symbols, Lucide, Carbon, HeroIcons, Font Awesome Brands, Phosphor, and Bootstrap Icons - directly onto the canvas in Sketch.",
-  "author": "workingon.studio",
-  "authorEmail": "support@workingon.studio",
-  "lastUpdated": "2026-07-22 07:04:00 UTC"
+    "appcast": "https://glyphpalette.com/appcast.json",
+    "homepage": "https://glyphpalette.com",
+    "version": "1.5.4",
+    "title": "Glyph Palette",
+    "name": "glyph-palette",
+    "description": "Browse and insert icons from multiple libraries - Material Symbols, Lucide, Carbon, HeroIcons, Font Awesome Brands, Phosphor, and Bootstrap Icons - directly onto the canvas in Sketch.",
+    "author": "workingon.studio",
+    "authorEmail": "support@workingon.studio",
+    "lastUpdated": "2026-07-22 07:04:00 UTC"
   },
   {
     "appcast": "https://github.com/PicsArt/picsart-sketch-plugin/releases/download/v1.0.0/appcast.xml",
@@ -3289,13 +3289,6 @@
     "lastUpdated": "2018-05-15 09:35:05 UTC"
   },
   {
-    "title": "Abstract",
-    "description": "Abstract lets you manage, version, and document your designs in one place",
-    "author": "Abstract",
-    "homepage": "https://goabstract.com/",
-    "lastUpdated": "2025-05-06 00:00:00 UTC"
-  },
-  {
     "title": "Symbol Instance Sheet",
     "description": "Generate a sheet of symbol instances from your current document or a library.",
     "author": "Jason Burns",
@@ -4000,7 +3993,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2026-07-31 21:52:52 UTC"
+    "lastUpdated": "2026-08-05 19:51:38 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -5797,7 +5790,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2024-10-14 06:49:33 UTC"
+    "lastUpdated": "2026-08-05 06:31:58 UTC"
   },
   {
     "title": "Cluse",
@@ -6300,7 +6293,7 @@
     "appcast": "https://raw.githubusercontent.com/maxkonovalov/Isometry/master/.appcast.xml",
     "homepage": "https://github.com/maxkonovalov/Isometry",
     "author": "Max Konovalov",
-    "lastUpdated": "2026-07-29 21:44:27 UTC"
+    "lastUpdated": "2026-08-05 17:56:52 UTC"
   },
   {
     "title": "Sync with Library",
@@ -6635,7 +6628,7 @@
     "appcast": "https://raw.githubusercontent.com/wuba/Picasso/master/.appcast.xml",
     "homepage": "https://github.com/wuba/Picasso",
     "author": "huangwencun",
-    "lastUpdated": "2026-07-08 03:03:40 UTC"
+    "lastUpdated": "2026-08-14 10:38:31 UTC"
   },
   {
     "title": "import-shadows",
@@ -7182,7 +7175,7 @@
     "author": "Aurélien Grimaud",
     "homepage": "https://uicp.ylb.lt/website-download",
     "version": "5.3.0",
-    "lastUpdated": "2026-07-31 20:54:54 UTC",
+    "lastUpdated": "2026-08-11 09:18:55 UTC",
     "appcast": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/appcast.json",
     "icon": "https://raw.githubusercontent.com/a-ng-d/sketch-ui-color-palette/refs/heads/dev/assets/uicp_icon.png"
   },
