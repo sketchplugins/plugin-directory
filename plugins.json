@@ -7298,5 +7298,14 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-06-15 15:55:24 UTC"
+  },
+  {
+    "title": "sketch-typograf-plugin",
+    "description": "Sketch plugin that applies proper typography (smart quotes, dashes, non-breaking spaces) to text layers. Supports Russian and English.",
+    "name": "sketch-typograf-plugin",
+    "owner": "deniskozeev",
+    "appcast": "https://raw.githubusercontent.com/deniskozeev/sketch-typograf-plugin/master/.appcast.xml",
+    "homepage": "https://github.com/deniskozeev/sketch-typograf-plugin",
+    "author": "Denis Kozeev"
   }
 ]
