@@ -3,6 +3,7 @@
 require 'json'
 require 'time'
 require "./lib/plugin-directory-utils"
+require "./lib/plugin-recency"
 
 GITHUB_AUTH_TOKEN = ENV['GITHUB_TOKEN']
 
@@ -145,45 +146,39 @@ end
 
 desc "Update `lastUpdated` field for all plugin in JSON"
 task :lastUpdated do
-
   require 'octokit'
-  client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
+  abort 'GITHUB_TOKEN is required' if GITHUB_AUTH_TOKEN.to_s.empty?
 
+  client = Octokit::Client.new(:access_token => GITHUB_AUTH_TOKEN)
   json_data = get_plugins_from_json
+  metadata = PluginDirectory::GithubMetadata.new(GITHUB_AUTH_TOKEN).fetch(json_data)
+  updater = PluginDirectory::RecencyUpdater.new(github_client: client)
+  backfill_limit = ENV.fetch('BACKFILL_LIMIT', '25')
+  backfill_limit = backfill_limit == 'all' ? json_data.length : Integer(backfill_limit)
+  backfilled = 0
+  updated = 0
 
   json_data.each do |plugin|
-    # Only check for last push date for plugins with a repo
-    if plugin['owner'] && plugin['name']
-      # puts "Updating #{titlefy(plugin['name'])}"
-      plugin_url = plugin['owner'] + "/" + plugin['name']
-      begin
-        repo = client.repo(plugin_url)
-        # user = client.user(plugin['owner'])
-        # puts "— Plugin was updated at #{repo.pushed_at}"
-        plugin['lastUpdated'] = repo.pushed_at
-      rescue Exception => e
-        puts e
-        puts "https://github.com/#{plugin['owner']}/#{plugin['name']}"
-      end
+    next unless plugin['owner'] && plugin['name']
 
-      # if plugin['name'] == plugin['title'] && plugin['title'] == nil
-      #   puts "— Plugin title is wrong, fixing"
-      #   plugin['title'] = titlefy(plugin['name'])
-      # end
-    else
-      if plugin['lastUpdated'].nil?
-        puts plugin['name']
-        puts plugin['title']
-        puts "— Plugin is not on GitHub, you may want to manually add a date"
-      end
+    repository = "#{plugin['owner']}/#{plugin['name']}"
+    repository_metadata = metadata[repository]
+    next unless repository_metadata
+
+    if plugin['lastPushedAt'].nil?
+      next if backfilled >= backfill_limit
+
+      backfilled += 1
     end
-    puts
+
+    updated += 1 if updater.update(plugin, repository_metadata)
   end
+
+  puts "Updated recency for #{updated} plugin(s); inspected #{backfilled} legacy record(s)"
 
   File.open("plugins.json","w") do |f|
     f.write(JSON.pretty_generate(json_data, :indent => "  "))
   end
-
 end
 
 desc "List authors"
