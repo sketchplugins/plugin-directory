@@ -23,7 +23,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Glyph Palette](https://glyphpalette.com), by workingon.studio: Browse and insert icons from multiple libraries - Material Symbols, Lucide, Carbon, HeroIcons, Font Awesome Brands, Phosphor, and Bootstrap Icons - directly onto the canvas in Sketch.
 - [IconFlower](https://medium.com/sketch-app-sources/sketch-app-plugin-iconflower-8fc84eef53d6), by Avadh: Arrange icons, images and shapes in Phyllotaxis ( leaf arrangement) patterns. Leaf arrangement pattern in a sunflower, for example.
 - [Isometry](https://github.com/maxkonovalov/Isometry), by Max Konovalov: Create isometric projections from layers
-- [killswitch](https://github.com/madebysnacks/killswitch), by Snacks Studio: A simple Sketch plugin for disabling Symbol overrides.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
 - [Mesh Gradients](https://github.com/oodesign/mesh-gradients), by oodesign: Create awesome mesh gradients, right inside of Sketch.
 - [Miro Plugin for Sketch](https://github.com/miroapp/sketch_plugin), by Miro: Add, share and discuss your Sketch artboards with the team in Miro. The plugin allow to sync the artboards with the boards in one click
@@ -57,7 +56,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website-download), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
 - [Uxarts: Screenshot to Design Component](https://github.com/qyxghcl007/UXarts-Screenshot-to-Design-Component), by Uxarts: Use AI to detect and convert screenshots into editable Sketch layers.
 - [Zeplin](https://zeplin.io), by Zeplin: Zeplin Sketch Plugin.
-- [zerozero](https://github.com/flavormingo/zerozero), by mazz: the sketch plugin that magically starts your page from (0,0)
 - [🍳Pan](https://github.com/arvinxx/pan), by arvinxx: 用平底锅才是王者
 - [🦁 A Lion](https://github.com/KevinGutowski/A-Lion), by Kevin Gutowski: Align your layers to a key layer.
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
@@ -115,5 +113,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Pexels](https://github.com/pexels/pexels-sketchplugin), by Pexels: A Pexels plugin for Sketch
 - [Sketch Recursive Export](https://github.com/commonpike/sketch-recursive-export), by commonpike: Simple plugin to recursively export exportable layers in a selected naming scheme
 - [represent.](https://github.com/swipecircus/represent), by Swipe Circus: Present your UX/UI Designs lightning fast on client's devices without leaving Sketch. 📲
-- [killswitch](https://github.com/madebysnacks/killswitch), by Snacks Studio: A simple Sketch plugin for disabling Symbol overrides.
-- [zerozero](https://github.com/flavormingo/zerozero), by mazz: the sketch plugin that magically starts your page from (0,0)
