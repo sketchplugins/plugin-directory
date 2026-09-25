@@ -7289,6 +7289,16 @@
     "appcast": "https://raw.githubusercontent.com/whiteuistore/sketch-symbols-sorter-plugin/main/appcast.xml"
   },
   {
+    "title": "Font Changer and Replacer",
+    "description": "Replace one font with another across your selection, page or entire Sketch document.",
+    "name": "Font Replacer",
+    "owner": "varundevpro",
+    "appcast": "https://varundevpro.github.io/sketch-plugin-font-replacer/appcast.json",
+    "homepage": "https://github.com/varundevpro/sketch-plugin-font-replacer",
+    "author": "varundevpro",
+    "lastUpdated": "2026-09-25 13:56:01 UTC"
+  },
+  {
     "title": "Sketch to Icon Composer",
     "description": "Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.",
     "name": "sketch-to-icon-composer",
