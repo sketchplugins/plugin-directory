@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '0 0 * * 0'
   workflow_dispatch:
+    inputs:
+      backfill_limit:
+        description: Number of legacy plugin records to backfill in this run
+        required: false
+        default: '25'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,9 +20,11 @@ jobs:
     - name: Update lastUpdated
       run: |
         gem install octokit
+        ruby -Itest test/plugin-recency-test.rb
         rake lastUpdated
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BACKFILL_LIMIT: ${{ github.event.inputs.backfill_limit || '25' }}
     - name: push
       run: |
         git config --global user.name 'Sketch Developer'
