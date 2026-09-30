@@ -7298,5 +7298,18 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-06-15 15:55:24 UTC"
+  },
+  {
+    "name": "layergrab-sketch",
+    "title": "LayerGrab — Image to Layers",
+    "description": "Split any image into separate, named transparent layers with AI, right in Sketch, or pull out just the object you name. Each element comes back complete, with the background filled in behind it.",
+    "owner": "layergrab",
+    "author": "LayerGrab",
+    "authorEmail": "contact@layergrab.com",
+    "homepage": "https://layergrab.com/sketch-plugin",
+    "version": "1.0.0",
+    "appcast": "https://layergrab.com/sketch/appcast.json",
+    "icon": "https://layergrab.com/brand/icon-512.png",
+    "lastUpdated": "2026-09-30 02:44:29 UTC"
   }
 ]
