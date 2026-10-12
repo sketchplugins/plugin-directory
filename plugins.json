@@ -7298,5 +7298,14 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-06-15 15:55:24 UTC"
+  },
+  {
+    "title": "Tailwind Colors",
+    "description": "Adds the Tailwind CSS color palette as a Sketch library",
+    "name": "tailwind-colors-sketch-library",
+    "owner": "losnikitos",
+    "appcast": "https://raw.githubusercontent.com/losnikitos/tailwind-colors-sketch-library/main/.appcast.xml",
+    "homepage": "https://github.com/losnikitos/tailwind-colors-sketch-library",
+    "author": "Nikita Popov"
   }
 ]
