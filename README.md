@@ -63,6 +63,7 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 ## Sorted by last update (newest on top)
 
 - [UI Color Palette /one・wcag Color Palette Manager for Apps & Websites](https://uicp.ylb.lt/website-download), by Aurélien Grimaud: Color Palettes that meet WCAG Guidelines and Operations
+- [Sketch to Icon Composer](https://github.com/yoshi2ys/sketch-to-icon-composer), by yoshi2ys: Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
 - [Isometry](https://github.com/maxkonovalov/Isometry), by Max Konovalov: Create isometric projections from layers
 - [picasso](https://github.com/wuba/Picasso), by huangwencun: Picasso是58同城推出的一款sketch生成代码插件，可将sketch设计稿自动解析成还原精准，可用度高的前端代码
@@ -80,7 +81,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [TinyFaces 👦🏼👨🏾👩🏻](https://github.com/maximedegreve/tinyfaces-sketch-plugin), by Maxime De Greve: Fill content with random avatars & data
 - [🧭 Component Browser](https://github.com/funk4d/Component-Browser-Sketch-Plugin), by Dmytro Shevchuk: Must-have for design systems. The symbol picker that actually works.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
-- [Sketch to Icon Composer](https://github.com/yoshi2ys/sketch-to-icon-composer), by yoshi2ys: Copies each top-level layer of the selected frame to the clipboard as full-frame SVG files, ready to drop into Apple's Icon Composer.
 - [Symbols Sorter Plugin for Sketch](https://github.com/whiteuistore/sketch-symbols-sorter-plugin), by WhiteUI.Store: Automatically organize symbols in the Sketch file using Symbols Sorter Plugin
 - [Design Md Sketch](https://www.typeui.sh/), by Bergside: Sketch plugin that extracts styles and generates editable DESIGN.md and SKILL.md drafts based on TypeUI.
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
