@@ -7298,5 +7298,15 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-10-13 11:24:58 UTC"
+  },
+  {
+    "title": "Image Finder + AI",
+    "description": "Search Unsplash, Pexels and Pixabay, and generate photos or SVG vectors with AI from a text prompt or a reference image — right inside Sketch.",
+    "name": "sketch-image-finder",
+    "owner": "deniskozeev",
+    "version": "1.0.0",
+    "appcast": "https://raw.githubusercontent.com/deniskozeev/sketch-image-finder/main/.appcast.xml",
+    "homepage": "https://github.com/deniskozeev/sketch-image-finder",
+    "author": "Denis Kozeev"
   }
 ]
