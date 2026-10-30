@@ -7298,5 +7298,16 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-10-13 11:24:58 UTC"
+  },
+  {
+    "appcast": "https://raw.githubusercontent.com/transglot/sketch-plugin/main/appcast.json",
+    "homepage": "https://github.com/transglot/sketch-plugin",
+    "version": "0.1.1",
+    "title": "Transglot",
+    "name": "transglot",
+    "description": "Push selected Sketch text layers to a translation project, draft with AI, and apply translated copy to your design.",
+    "author": "Transglot",
+    "authorEmail": "hello@transglot.ai",
+    "lastUpdated": "2026-10-30 13:35:51 UTC"
   }
 ]
