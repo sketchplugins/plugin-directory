@@ -7196,14 +7196,14 @@
   {
     "name": "component-browser",
     "title": "🧭 Component Browser",
-    "description": "Must-have for design systems. The symbol picker that actually works.",
+    "description": "Find and insert components from your Sketch document and enabled libraries.",
     "author": "Dmytro Shevchuk",
     "owner": "funk4d",
     "homepage": "https://github.com/funk4d/Component-Browser-Sketch-Plugin",
     "identifier": "com.funkyplugins.componentbrowser",
-    "version": "1.4.1",
+    "version": "2.0",
     "appcast": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/appcast.json",
-    "lastUpdated": "2026-06-23 00:00:00 UTC",
+    "lastUpdated": "2026-10-17 17:34:42 UTC",
     "icon": "https://raw.githubusercontent.com/funk4d/Component-Browser-Sketch-Plugin/main/github/component-browser-icon.png"
   },
   {
