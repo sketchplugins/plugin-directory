@@ -7298,5 +7298,17 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-10-13 11:24:58 UTC"
+  },
+  {
+    "title": "App Icons Finder",
+    "description": "Search the App Store and insert official app icons as PNG.",
+    "author": "Uwarp",
+    "owner": "sherotree",
+    "name": "sketch-app-icons",
+    "homepage": "https://www.uwarp.design/logo-hunter",
+    "identifier": "design.uwarp.sketch.app-icons",
+    "version": "1.0.0",
+    "appcast": "https://github.com/sherotree/sketch-app-icons/releases/latest/download/appcast.json",
+    "lastUpdated": "2026-11-04 15:21:57 UTC"
   }
 ]
