@@ -7298,5 +7298,17 @@
     "homepage": "https://github.com/yoshi2ys/sketch-to-icon-composer",
     "author": "yoshi2ys",
     "lastUpdated": "2026-10-13 11:24:58 UTC"
+  },
+  {
+    "title": "Gun & Ammo Data",
+    "description": "Data sources with real firearm models, product titles, gun prices, calibers, ammo boxes and cost per round from the GunsNPrices catalog of US gun stores, plus a command that normalizes caliber names. Works offline.",
+    "name": "sketch-gunsnprices",
+    "owner": "gunsnprices",
+    "version": "0.1.0",
+    "appcast": "https://github.com/gunsnprices/sketch-gunsnprices/releases/latest/download/appcast.json",
+    "homepage": "https://gunsnprices.com",
+    "author": "GunsNPrices",
+    "authorEmail": "app@gunsnprices.com",
+    "lastUpdated": "2026-11-10 12:00:00 UTC"
   }
 ]
